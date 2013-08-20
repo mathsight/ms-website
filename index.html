@@ -34,116 +34,6 @@
     <link rel="apple-touch-icon-precomposed" sizes="72x72" href="assets/ico/apple-touch-icon-72-precomposed.png">
     <link rel="apple-touch-icon-precomposed" href="assets/ico/apple-touch-icon-57-precomposed.png">
     <style type="text/css">
-	
-
-  #pulse-lines {
-  	position: absolute;
-  	width:50%;
-  	min-height:900px;
-  	z-index:100;
-  	left:0px;
-  	top:0px;
-  	display:block;
-  	background-image: url(pulse-lines2.png);
-  	background-position:left top;
-  	background-repeat: repeat-x;
-  	background-color: transparent;
-  }
-  #math-bg {
-  	position: absolute;
-  	/*width:1400px;*/
-  	width:100%;
-  	min-width:100%;
-  	height:100%;
-  	min-height:100%;
-  	z-index:1000;
-  	left:0;
-  	right:0;
-  	/*bottom:0;*/
-  	/*margin-left:-700px;*/
-  	top:0px;
-  	/*display:block;*/
-  	background-image: url(mathsight-hold-web2.png);
-  	background-position:center 0px;
-  	background-repeat:no-repeat;
-  	background-color: transparent;
-  }
-  #contact {
-  	position: absolute;
-  	/*width:1400px;*/
-  	width:500px;
-  	z-index:9900;
-  	left:50%;
-  	margin-left:50px;
-  	top:375px;
-  	display:block;
-  	background-color:transparent;
-  	background-image: url(map.png);
-  	background-position: left bottom;
-  	background-repeat: no-repeat;
-  	padding-bottom:58px;
-  }
-  .address {
-  	display:block;
-  	font-family: 'Lato', Arial, Helvetica, sans-serif;
-  	font-size: 12px;
-  	line-height: 16px;
-  	text-transform: capitalize;
-  	color: #FFFFFF;
-  	text-decoration: none;
-  	font-weight: 700;
-  }
-  .telephone {
-  	display:block;
-  	font-family: 'Lato', Arial, Helvetica, sans-serif;
-  	font-size: 36px;
-  	line-height: 38px;
-  	text-transform: capitalize;
-  	color: #FFFFFF;
-  	text-decoration: none;
-  	font-weight: 700;
-  }
-  .text-head-01 {
-  	font-family: 'Lato', Arial, Helvetica, sans-serif;
-  	font-size: 24px;
-  	text-transform: uppercase;
-  	color: #FFFFFF;
-  	text-decoration: none;
-  	line-height: 26px;
-  	margin: 0 0 5px 0;
-  	padding: 0px;
-  	display: block;
-  	font-weight: 900;
-  	float: left;
-  }
-  .under {
-  	border-bottom-width: 2px;
-  	border-bottom-style: solid;
-  	border-bottom-color: #FFFFFF;
-  	margin-right: 5px;
-  	margin-left: 5px;
-  	font-size: 18px;
-  	text-decoration: none;
-  	width: 35px;
-  	display: block;
-  	float: left;
-  	height: 22px;
-  }
-  .clear {
-  	clear: both;
-  }
-  .content-wrap {
-  	position: absolute;
-  	/*width:1400px;*/
-  	width:960px;
-  	z-index:9990;
-  	left:50%;
-  	margin-left:-480px;
-  	top:580px;
-  	display:block;
-  	background-color:transparent;
-  }
-  -->
   
   
     
@@ -178,6 +68,10 @@
       /* Main body and headings */
       body{
         font-family: 'Open Sans', Helvetica, Arial, sans-serif;
+		/*background-image: url(space-bg.jpg);
+		background-position:center top;
+		background-repeat:repeat;
+		background-color: #051022;*/
       }
       .heading, .subheading {
         font-family: 'Ubuntu', Helvetica, Arial, sans-serif;
@@ -192,6 +86,7 @@
         font-size: 18px;
         line-height: 24px;
       }
+
     
     </style>
   </head>
@@ -221,12 +116,11 @@
         </div>
       </div>
 	
-	  <div class="container">
-		  <div id="pulse-lines"></div>
-		  <div id="math-bg"></div>
+	  <div id="duke" class="container">
 		  <div id="contact"> 
-		  <div class="text-head-01">Contact</div><div class="under"></div><div class="text-head-01">Us</div>
-
+		  <div class="text-head-01">Contact Us:</div>
+		  <div class="clear"></div>
+		  <div class="text-head-01">enquiries@mathsight.org</div>
 		  <div class="clear"></div>
 
 		  <div class="address">34 Paradise Road &nbsp;&nbsp;|&nbsp;&nbsp; Richmond Upon Thames &nbsp;&nbsp;|&nbsp;&nbsp; United Kingdom &nbsp;&nbsp;|&nbsp;&nbsp; TW9 1SE</div>
@@ -234,19 +128,14 @@
 		  844 264 2960</div>
 		  </div>
 
-		  <div class="content-wrap"><img src="white-strip.png"></div>
-	    
-	    <p>...</p>
 	  </div>
-	
 	
 
 	
       <div class="container-narrow">
-		  <a href="index.html" id="" title="index">index</a>
+		  <!--<a href="index.html" id="" title="index">index</a>-->
      
     
-        <hr>
 		
         <div class="row-fluid heading">
           <div class="span12">
@@ -261,7 +150,7 @@
 			<div>
 				<small>We are drowning in information and starving for knowledge. – Rutherford D. Rogers</small>
 			</div><p></p>
-			<a class="btn btn-large btn-success" href="plans.html">GET STARTED</a>
+			<a class="btn btn-large btn-success" href="enquiries@mathsight.org">FIND OUT MORE</a> 
           </div>
         </div>
 		
@@ -306,7 +195,86 @@
 
     <style>
       
+	  
+	  
       /* Custom container */
+	  
+	  #duke.container {
+		  
+		  height: 900px;
+		  width: 100%;
+		  background: url(mathsight-hold-web2.png) no-repeat transparent 50% 50%;
+		  text-align: left;
+		  background-color: #051022;
+	  }
+	  
+	  
+	  #contact {
+	  	position: absolute;
+	  	/*width:1400px;*/
+	  	width:500px;
+	  	z-index:9900;
+	  	left:50%;
+	  	margin-left:50px;
+	  	top:375px;
+	  	display:block;
+	  	background-color:transparent;
+	  	background-image: url(map.png);
+	  	background-position: left bottom;
+	  	background-repeat: no-repeat;
+	  	padding-bottom:58px;
+	  }
+	  .address {
+	  	display:block;
+	  	font-family: 'Lato', Arial, Helvetica, sans-serif;
+	  	font-size: 12px;
+	  	line-height: 16px;
+	  	text-transform: capitalize;
+	  	color: #FFFFFF;
+	  	text-decoration: none;
+	  	font-weight: 700;
+	  }
+	  .telephone {
+	  	display:block;
+	  	font-family: 'Lato', Arial, Helvetica, sans-serif;
+	  	font-size: 36px;
+	  	line-height: 38px;
+	  	text-transform: capitalize;
+	  	color: #FFFFFF;
+	  	text-decoration: none;
+	  	font-weight: 700;
+	  }
+	  .text-head-01 {
+	  	font-family: 'Lato', Arial, Helvetica, sans-serif;
+	  	font-size: 24px;
+	  	text-transform: uppercase;
+	  	color: #FFFFFF;
+	  	text-decoration: none;
+	  	line-height: 26px;
+	  	margin: 0 0 5px 0;
+	  	padding: 0px;
+	  	display: block;
+	  	font-weight: 900;
+	  	float: left;
+	  }
+	  .under {
+	  	border-bottom-width: 2px;
+	  	border-bottom-style: solid;
+	  	border-bottom-color: #FFFFFF;
+	  	margin-right: 5px;
+	  	margin-left: 5px;
+	  	font-size: 18px;
+	  	text-decoration: none;
+	  	width: 35px;
+	  	display: block;
+	  	float: left;
+	  	height: 22px;
+	  }
+	  .clear {
+	  	clear: both;
+	  }
+	  
+	  /* Custom container */
       .container-narrow {
         margin: 0 auto;
         max-width: 700px;
