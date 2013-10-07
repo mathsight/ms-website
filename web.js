@@ -3,6 +3,8 @@ var express = require('express');
 var app = express();
 app.use(express.logger());
 
+require('./dist/plugins/jqplot.pieRenderer.min.js');
+
 var string = fs.readFileSync('index.html', 'utf8');
 
 app.use(express.static(__dirname));
