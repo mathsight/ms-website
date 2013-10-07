@@ -130,6 +130,29 @@
 	});
 	</script>
 	
+	<script class="code" type="text/javascript">
+	$(document).ready(function(){
+	  var data = [
+	    ['Good links', 687],['OK links', 503],['Bad links', 503]
+	  ];
+	  var plot2 = jQuery.jqplot ('chart2', [data], 
+	    {
+  	      seriesDefaults: {
+  	        // Make this a pie chart.
+  	        renderer: jQuery.jqplot.PieRenderer, 
+  	        rendererOptions: {
+  	          // Put data labels on the pie slices.
+  	          // By default, labels show the percentage of the slice.
+  	          showDataLabels: true
+  	        }
+  	      }, 
+	   
+	      legend: { show:true, location: 'e' }
+	    }
+	  );
+	});
+	</script>
+	
   </head>
   <body>
 
@@ -182,7 +205,7 @@
 		  <div class="span6 offset1 asset">
 
 				  <p>
-					  This domain's pages by StatSEO quality:
+					  This domain's onsite pages by StatSEO quality:
 				  </p>
 				  <!-- <img class="img-polaroid" alt="Placeholder" src="http://placehold.it/480x300"> -->
 				  <div id="chart1" style="height:300px; width:500px;"></div>
@@ -236,7 +259,15 @@
       <!-- http://placehold.it -->
       <div class="row-fluid section1">
         <div class="span5 offset1 asset">
-          <img class="img-polaroid"  alt="Placeholder" src="http://placehold.it/480x300">
+		  <p>
+			  This domain's offsite pages by StatSEO quality:
+		  </p>
+		  <!-- <img class="img-polaroid" alt="Placeholder" src="http://placehold.it/480x300"> -->
+		  <div id="chart2" style="height:300px; width:500px;"></div>
+		  <div class="code prettyprint">
+			  <pre class="code prettyprint brush: js"></pre>
+		  </div>
+          
         </div>
         <div class="span5 copy">
  
