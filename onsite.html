@@ -19,7 +19,7 @@
 					$('#example').dataTable( {
 						"bProcessing": true,
 						"bServerSide": true,
-						"sAjaxSource": "datatables/scripts/jsonp.php",
+						"sAjaxSource": "datatables/server_side/scripts/jsonp.php",
 						"fnServerData": function( sUrl, aoData, fnCallback, oSettings ) {
 							oSettings.jqXHR = $.ajax( {
 								"url": sUrl,
