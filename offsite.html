@@ -1,0 +1,453 @@
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>MathSight: Offsite Breakdown</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://d396qusza40orc.cloudfront.net/startup%2Fcode%2Fbootstrap-combined.no-icons.min.css">
+    <link rel="stylesheet" href="http://netdna.bootstrapcdn.com/font-awesome/3.0.2/css/font-awesome.css">
+    <link rel="stylesheet" href="https://d396qusza40orc.cloudfront.net/startup%2Fcode%2Fsocial-buttons.css">    
+    <script src="https://d396qusza40orc.cloudfront.net/startup%2Fcode%2Fjquery.js"></script>
+    <script src="https://d396qusza40orc.cloudfront.net/startup%2Fcode%2Fbootstrap.js"></script>
+	
+	<script src="datatables/media/js/jquery.js"></script>
+	<script src="datatables/media/js/jquery.dataTables.js"></script>
+
+	<script type="text/javascript" charset="utf-8">
+		/* Data set - can contain whatever information you want */
+		var aDataSet = [
+		['20865',206.835,-15.59,0],
+		['23223',206.835,-15.59,0],
+		['20845',206.835,-15.59,0],
+		['23209',206.835,-15.59,0],
+		['20884',206.835,-15.59,0],
+		['23232',206.835,-15.59,0],
+		['20899',206.835,-15.59,0],
+		['23247',206.835,-15.59,0],
+		['20887',206.835,-15.59,0],
+		['21611',206.835,-15.59,0],
+		['23237',206.835,-15.59,0],
+		['23293',206.835,-15.59,0],
+		['21034',206.835,-15.59,0],
+		['21616',206.835,-15.59,0],
+		['23289',206.835,-15.59,0],
+		['23386',206.835,-15.59,0],
+		['20868',206.835,-15.59,0],
+		['21603',206.835,-15.59,0],
+		['23225',206.835,-15.59,0],
+		['23290',206.835,-15.59,0],
+		['20897',206.835,-15.59,0],
+		['23252',206.835,-15.59,0],
+		['20886',206.835,-15.59,0],
+		['21620',206.835,-15.59,0],
+		['23243',206.835,-15.59,0],
+		['23295',206.835,-15.59,0],
+		['20883',206.835,-15.59,0],
+		['21609',206.835,-15.59,0],
+		['23240',206.835,-15.59,0],
+		['23292',206.835,-15.59,0],
+		['20895',206.835,-15.59,0],
+		['23236',206.835,-15.59,0],
+		['21587',27.6938,12.6262,12.1836],
+		['21722',27.6938,12.6262,12.1836],
+		['23375',27.6938,12.6262,12.1836],
+		['4974',-112.2519,39.5986,15.7195],
+		['5107',56.965,9.7856,9.665],
+		['5116',46.0686,12.2991,10.4217],
+		['20627',-111.7521,39.2805,15.9934],
+		['20629',-111.7521,39.2805,15.9934],
+		['20767',-111.7521,39.2805,15.9934],
+		['20880',-111.7521,39.2805,15.9934],
+		['20939',-111.7521,39.2805,15.9934],
+		['21013',44.52,12.2667,10.0645],
+		['21021',58.5941,10.4692,6.9048],
+		['21036',-111.7521,39.2805,15.9934],
+		['21043',-111.7521,39.2805,15.9934],
+		['21090',56.25,9.14,10.218],
+		['21202',53.12,9.825,9.6755],
+		['21209',61.89,8.3533,10.218],
+		['21275',56.25,9.14,10.218],
+		['21281',56.965,9.7856,9.665],
+		['21285',58.4075,9.0875,10.6623],
+		['21287',58.4075,9.0875,9.6755],
+		['21288',56.25,9.14,10.218],
+		['21308',46.0686,12.2991,10.4217],
+		['21310',56.25,9.14,10.218],
+		['21313',40.0378,13.3887,10.0656],
+		['21315',40.0378,13.3887,10.0656],
+		['21317',40.0378,13.3887,10.0656],
+		['21319',40.0378,13.3887,10.0656],
+		['21324',40.0378,13.3887,10.0656],
+		['21326',48.5486,11.7048,10.0645],
+		['21372',42.545,11.3,9.6755],
+		['21374',61.89,8.3533,10.218],
+		['21375',55.2153,9.7812,11.0603],
+		['21379',34.0219,14.9731,12.2211],
+		['21381',3.7686,18.1991,14.0103],
+		['21383',6.225,18.3533,13.6908],
+		['21385',12.26,17.76,13.872],
+		['21389',60.1918,9.0871,11.0603],
+		['21430',56.25,9.14,10.218],
+		['21432',47.8325,10.5625,9.6755],
+		['21434',56.25,9.14,10.218],
+		['21436',55.2153,9.7812,11.0603],
+		['21439',58.4075,9.0875,8.6886],
+		['21443',58.4075,9.0875,10.6623],
+		['21484',55.2153,9.7812,11.0603],
+		['21485',52.265,10.4411,11.4195],
+		['21489',55.2153,9.7812,11.0603],
+		['21490',56.25,9.14,10.218],
+		['21492',55.2153,9.7812,11.0603],
+		['21493',55.2153,9.7812,11.0603],
+		['21499',55.2153,9.7812,11.0603],
+		['21501',63.695,8.35,9.6755],
+		['21503',58.4075,9.0875,10.6623],
+		['23167',-111.7521,39.2805,15.9934],
+		['23168',-111.7521,39.2805,15.9934],
+		['23187',58.5941,10.4692,6.9048],
+		['23207',-111.7521,39.2805,15.9934],
+		['23211',-111.7521,39.2805,15.9934],
+		['23255',-111.7521,39.2805,15.9934],
+		['23302',-111.7521,39.2805,15.9934],
+		['20949',50.6309,9.7581,9.1567],
+		['23261',50.6309,9.7581,9.1567],
+		['5096',-38.5268,42.979,13.2392],
+		['5105',-33.6888,40.0683,12.9304],
+		['21296',-15.83,18.2,12.0292],
+		['23335',-15.83,18.2,12.0292],
+		['20955',58.1945,10.142,5.5096],
+		['21015',53.3012,11.3317,5.2547],
+		['21030',55.2977,11.0118,6.4024],
+		['21039',49.259,11.7299,5.7177],
+		['23288',49.3967,13.077,6.8218],
+		['23299',40.8853,12.9866,6.7603],
+		['23300',58.6424,9.6758,5.6119],
+		['23305',63.7539,8.8386,5.9612],
+		['5123',56.9785,8.5415,9.1471],
+		['21199',46.039,13.6164,7.0163],
+		['21576',15.2579,18.0871,9.8477],
+		['23282',46.039,13.6164,7.0163],
+		['23366',15.2579,18.0871,9.8477],
+		['http://www.sourcewire.com/news/73077/promotions-and-incentives-experts-leighmans-introduces-new-3d-online-catalogue',30.5923,12.5324,10.6794],
+		['http://www.sourcewire.com/news/73996/leighmans-com-research-finds-uk-companies-investing-heavily-in-corporate',30.2237,13.7639,10.361],
+		['http://www.sourcewire.com/newsroom/Leighmanscom/',49.9648,9.1886,12.3084],
+		['https://www.sourcewire.com/news/73996/leighmans-com-research-finds-uk-companies-investing-heavily-in-corporate',30.2237,13.7639,10.361],
+		['21522',-5.6086,27.9536,11.2365],
+		['23358',-5.6086,27.9536,11.2365],
+		['4984',76.0738,5.9737,5.2012],
+		['http://www.ecuadorianjourneys.com/page/2/',69.9247,8.2441,3.7728],
+		['http://www.ecuadorianjourneys.com/category/starting-a-business/',69.458,9.2797,4.4382],
+		['http://www.ecuadorianjourneys.com/category/women-business-owners/',73.6461,9.3654,4.2627],
+		['http://www.ecuadorianjourneys.com/2011/05/',68.4217,9.9017,3.8667],
+		['http://www.ecuadorianjourneys.com/increase-your-business-by-investing-in-promotional-items/',42.2885,15.2361,5.4077],
+		['http://www.kensingtonandchelseatoday.co.uk/news/local-news/gltzccsjs4.html',51.8192,9.5593,4.485],
+		['http://promoprose.com/',52.865,8.37,6.812],
+		['http://promoprose.com/blog/category/uncategorized/',-78.21,24.9133,15.9388],
+		['http://promoprose.com/blog/2013/07/',-50.01,20.98,10.6755],
+		['http://promoprose.com/blog/2013/07/01/the-notting-hill-carnival/',59.745,6.4167,8.1926],
+		['http://promoprose.com/blog/author/admin/',34.59,9.18,15.9388],
+		['http://promoprose.com/blog/2013/01/10/bag-my-tablet-intermingling-products/',77.5333,6.337,5.8164],
+		['http://promoprose.com/blog/2012/11/23/expect-black-friday-madness-at-apple/',60.918,13.2711,5.2717],
+		['http://promoprose.com/blog/2012/08/19/charged-up/',77.5933,7.2277,4.5824],
+		['http://promoprose.com/blog/2012/12/14/happiness-and-health-at-work-im-all-promo/',57.0972,10.471,4.6966],
+		['http://promoprose.com/blog/2012/08/26/chalking-it-up/',77.4738,9.3738,3.3251],
+		['http://promoprose.com/blog/2012/09/14/parisian-artwork-obsession/',76.4003,6.2052,3.9861],
+		['http://promoprose.com/blog/2012/09/21/207/',71.2273,10.1874,4.7283],
+		['http://promoprose.com/blog/2012/10/27/branded-or-promotional/',69.4183,9.2493,4.2444],
+		['http://promoprose.com/blog/2012/07/26/cola-and-olympics/',35.2896,21.2554,6.5267],
+		['http://promoprose.com/blog/2012/07/09/roll-up-roll-up-bottle/',90.1347,4.6125,2.5825],
+		['http://promoprose.com/blog/2012/07/25/business-classy/',89.272,5.5087,2.9926],
+		['http://promoprose.com/blog/2012/06/19/saying-congratulations-but-with-what-2/',71.4467,7.8899,3.4781],
+		['20848',38.485,12.86,9.6765],
+		['23213',38.485,12.86,9.6765],
+		['20906',66.7871,5.6829,11.6258],
+		['23254',66.7871,5.6829,11.6258],
+		['20975',206.835,-15.59,0],
+		['23241',206.835,-15.59,0],
+		['21549',206.835,-15.59,0],
+		['21627',206.835,-15.59,0],
+		['23248',206.835,-15.59,0],
+		['23296',206.835,-15.59,0],
+		['http://diabetesconnector.com/',64.3555,8.7874,4.864],
+		['http://diabetesconnector.com/archives/2012/03/21/how-individuals-view-businesses-who-use-promotional-products/',52.2731,10.6015,5.8779],
+		['http://www.indiabook.com/shopping/',-39.9343,44.9143,10.321],
+		['http://www.indiabook.com/shopping/index.html',-39.9343,44.9143,10.321],
+		['http://www.indiabook.com//shopping/',-39.9343,44.9143,10.321],
+		['http://www.indiabook.com//shopping/index.html',-39.9343,44.9143,10.321],
+		['http://bimethyls.com/',63.0307,9.0282,5.3803],
+		['http://bimethyls.com/archives/2012/03/',62.9303,9.0556,5.4005],
+		['http://bimethyls.com/archives/2012/03/25/',52.1331,11.3135,6.3343],
+		['http://bimethyls.com/archives/2012/03/25/learn-how-to-market-yourself-using-promotional-gifts/',64.8729,8.2478,5.373],
+		['10421',61.9632,8.6661,4.9982],
+		['15613',61.9632,8.6661,4.9982],
+		['20957',28.4057,14.5143,8.5606],
+		['16890',74.2817,7.1715,6.1777],
+		['http://substance-abuse.4t.com/resources.htm',45.8686,12.4264,6.7503],
+		['10225',16.6707,12.3005,13.1919],
+		['21082',84.177,7.2322,7.3195],
+		['20184',62.8093,11.1478,6.481],
+		['14459',69.3995,7.6371,9.1885],
+		['16684',23.425,13.47,6.3337],
+		['16898',41.0906,15.6019,6.7134],
+		['21580',42.6,9.5533,10.9731],
+		['23337',42.6,9.5533,10.9731]
+		];
+		
+		$(document).ready(function() {
+			$('#dynamic').html( '<table cellpadding="0" cellspacing="0" border="0" class="display" id="example"></table>' );
+			$('#example').dataTable( {
+				"aaData": aDataSet,
+				"aoColumns": [
+					{ "sTitle": "URL or URL ID" },
+					{ "sTitle": "Flesch reading ease" , "sClass": "center"},
+					{ "sTitle": "Flesch grade level" , "sClass": "center"},
+					{ "sTitle": "Dale chall readability" , "sClass": "center"},
+				]
+			} );
+				
+		} );
+			</script>
+
+    <link href="http://fonts.googleapis.com/css?family=Ubuntu:300,400,500,700,300italic,400italic,500italic,700italic" rel="stylesheet" type="text/css">
+    <link href="http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,300,400,600,700,800" 
+          rel="stylesheet" type="text/css">
+		  
+		  <link rel="stylesheet" type="text/css" href="dist/jquery.jqplot.min.css" />
+		  <style type="text/css" title="currentStyle">
+		  			@import "datatables/media/css/demo_page.css"; 
+					@import "datatables/media/css/header.ccss";
+		  			@import "datatables/media/css/demo_table.css";
+		  		</style>
+    <style type="text/css">
+
+      /* Large desktop */
+      @media (min-width: 980px) { 
+        body {
+         padding-top: 60px;
+        }
+       .linediv-l {
+         border-right: 1px white solid;
+        }
+       .linediv-r {
+         border-left: 1px white solid;
+       }
+      }
+
+      /* Landscape phones and down */
+      @media (max-width: 480px) { 
+       .copy {
+         padding: 2.5% 10%;
+       }
+       .linediv-l {
+         border-bottom: 1px white solid;
+       }
+       .linediv-r {
+         border-top: 1px white solid;
+       }
+      }
+
+      /* All form factors */
+
+      /* Main body and headings */
+      body{
+        font-family: 'Open Sans', Helvetica, Arial, sans-serif;
+      }
+      .heading, .subheading {
+        font-family: 'Ubuntu', Helvetica, Arial, sans-serif;
+        text-align: center;
+      }
+      p.lead {
+        padding-top: 1.5%;
+        font-size: 24px;
+        line-height: 30px;
+      }
+      p {
+        font-size: 18px;
+        line-height: 24px;
+      }
+
+      /* Video pitch and Action */
+      .pitch {
+        padding: 2.5% 0%;
+      }
+      .order {
+        padding: 2% 0%;
+      }
+      .actions {
+        background-color: #343434;
+        padding: 3% 0%;
+      }
+      .video, .thermometer, .order, .social, .statistics {
+        text-align: center;
+      }
+      .statistics h3, .statistics p {
+        color: white;
+      }
+
+      /* Marketing Copy and Footer */
+      .copy {
+        padding-top: 2.5%;
+        padding-bottom: 2.5%;
+        text-align: justify;
+      }
+      .asset {
+        padding: 2.5% 0%;
+      }
+      .footer {
+        color: #cccccc;
+        text-align: center;
+      }
+      .footer p {
+        font-size: 11px;
+      }
+      .footer a {
+        color: #ccccff;
+      }
+    </style>
+	
+	
+  </head>
+  <body>
+
+    <!-- Mobile-friendly navbar adapted from example. -->
+    <!-- http://twitter.github.io/bootstrap/examples/starter-template.html -->
+    <div class="navbar navbar-inverse navbar-fixed-top">
+      <div class="navbar-inner">
+        <div class="container">
+          <button type="button" class="btn btn-navbar"
+                  data-toggle="collapse" data-target=".nav-collapse">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="brand" href="/">MathSight</a>
+          <div class="nav-collapse collapse">
+            <ul class="nav">
+                <li class="active"><a href="/">Home</a></li>
+                <li><a href="/plans.html">Plans</a></li>
+                <li><a href="/tour.html">Tour</a></li>
+				<li><a href="/api.html">API</a></li>
+            </ul>
+          </div><!--/.nav-collapse -->
+        </div>
+      </div>
+    </div>
+
+    <!-- We use row-fluid inside containers to achieve a resizable layout. -->
+    <!-- blogs.endjin.com/2013/04/tips-for-implementing-responsive-designs-using-bootstrap/ -->
+    <!-- http://stackoverflow.com/a/12270322 -->
+    <div class="container">
+      <!-- Font and paired font of .heading/.subheading and body from Google Fonts -->
+      <!-- www.google.com/fonts/specimen/Ubuntu -->
+      <!-- www.google.com/fonts/specimen/Ubuntu#pairings -->
+      <div class="row-fluid heading">
+        <div class="span12">
+          <h1>Readability: Offsite drilldown</h1>
+        </div>
+      </div> 
+	    
+		
+		
+		
+      <div class="row-fluid subheading">
+		  <div class="span12">
+			  <!-- Special typography from Bootstrap for lead paragraph. -->
+			  <!-- http://twitter.github.io/bootstrap/base-css.html#typography -->
+			  <p class="lead">for www.leighmans.com</p>
+		  </div>
+	  </div>
+	  <div class="row-fluid pitch">
+
+		  <div class="full_width big">
+			  Example with data from www.leighmans.com
+		  </div>
+
+		  <h2>Offsite Premium Features: Readability</h2>
+		  <div id="dynamic">
+			  
+		  </div>
+		  
+		  <hr>
+		  <p>
+		  <a href="/demo.html">Return to top level summary</a>
+		  </p>
+		  <div class="spacer"></div>
+
+		  <!-- For the FAQ, we introduce a little bit of JS, using the accordion. -->
+		  <!-- This brings in jquery.js and bootstrap.js as dependencies. -->
+		  <!-- http://twitter.github.io/bootstrap/javascript.html#collapse -->
+		  <div class="row-fluid faq">
+			  <div class="span10 offset1">
+				  <h3>FAQs</h3>
+				  <div class="accordion" id="accordion2">
+					  <div class="accordion-group">
+						  <div class="accordion-heading">
+							  <a class="accordion-toggle" data-toggle="collapse"
+							  data-parent="#accordion2" href="#collapseOne">
+							  What is an offsite page?
+						  </a>
+					  </div>
+					  <div id="collapseOne" class="accordion-body collapse">
+						  <div class="accordion-inner">
+							  An offsite page is any external page, or 'backlink' that links to your own domain. We use 
+							  <a href="http://ahrefs.com">AHREFs </a>
+							  to gather details of these backlinks.
+						  </div>
+					  </div>
+				  </div>
+				  <div class="accordion-group">
+					  <div class="accordion-heading">
+						  <a class="accordion-toggle" data-toggle="collapse"
+						  data-parent="#accordion2" href="#collapseTwo">
+						  Why does MathSight monitor offsite pages?
+					  </a>
+				  </div>
+				  <div id="collapseTwo" class="accordion-body collapse">
+					  <div class="accordion-inner">
+						  It has been shown that recent Google algorithm updates (in particular the Penguin series) have targetted the quality of offsite content, hence we saw a need to include this information in our analyses.
+					  </div>
+				  </div>
+				  <div class="accordion-group">
+					  <div class="accordion-heading">
+						  <a class="accordion-toggle" data-toggle="collapse"
+						  data-parent="#accordion2" href="#collapseThree">
+						  What is Dale Chall Readability?
+					  </a>
+				  </div>
+				  <div id="collapseThree" class="accordion-body collapse">
+					  <div class="accordion-inner">
+						  The Dale–Chall readability formula is a readability test that provides a numeric gauge of the comprehension difficulty that readers will have when reading a text. It uses a list of words that groups of fourth-grade American students could reliably understand, considering any word not on that list to be difficult. See <a href="http://en.wikipedia.org/wiki/Dale%E2%80%93Chall_readability_formula">more here</a>. 
+					  </div>
+				  </div>
+				  <div class="accordion-group">
+					  <div class="accordion-heading">
+						  <a class="accordion-toggle" data-toggle="collapse"
+						  data-parent="#accordion2" href="#collapseFour">
+						  What are Flesch–Kincaid readability tests?
+					  </a>
+				  </div>
+				  <div id="collapseFour" class="accordion-body collapse">
+					  <div class="accordion-inner">
+						  The Flesch/Flesch–Kincaid readability tests are readability tests designed to indicate comprehension difficulty when reading a passage of contemporary academic English. There are two tests, the Flesch Reading Ease, and the Flesch–Kincaid Grade Level. Although they use the same core measures (word length and sentence length), they have different weighting factors. The results of the two tests correlate approximately inversely: a text with a comparatively high score on the Reading Ease test should have a lower score on the Grade Level test. See <a href="http://en.wikipedia.org/wiki/Flesch%E2%80%93Kincaid_readability_tests">more here</a>. 
+					  </div>
+				  </div>
+			  </div>
+		  </div>
+	  </div>
+
+  </div>
+
+  <!-- Not crucial, but we put this under a CC By-SA 3.0 license. -->
+  <!-- http://creativecommons.org/licenses/ -->
+  <!-- Not crucial, but we put this under a CC By-SA 3.0 license. -->
+  <!-- http://creativecommons.org/licenses/ -->
+  <div class="row-fluid footer">
+	  <div class="span12">
+		  <p><small>© MathSight Ltd 2013 &nbsp; &nbsp;Terms of Service &nbsp; &nbsp;Privacy &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Run by MathSight Ltd in Richmond, UK<small></p>
+		  </div>
+	  </div>
+
+  </div>
+</body>
+</html>
