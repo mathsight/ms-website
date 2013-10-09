@@ -6,22 +6,22 @@
 	/* Array of database columns which should be read and sent back to DataTables. Use a space where
 	 * you want to insert a non-database field (for example a counter or static image)
 	 */
-	$aColumns = array( 'engine', 'browser', 'platform', 'version', 'grade' );
+	$aColumns = array( 'Name', 'url', 'Xlocation', 'yLocation', 'Created' );
 	
 	/* Indexed column (used for fast and accurate table cardinality) */
 	$sIndexColumn = "id";
 	
 	/* DB table to use */
-	$sTable = "ajax";
+	$sTable = "website";
 	
 	/* Database connection information */
-	$gaSql['user']       = "";
-	$gaSql['password']   = "";
-	$gaSql['db']         = "";
-	$gaSql['server']     = "localhost";
+	$gaSql['user']       = "mathlabs_frank";
+	$gaSql['password']   = "rever$3w3b";
+	$gaSql['db']         = "mathlabs_haversham";
+	$gaSql['server']     = "mathsightdbinst.czwm2aob42p1.eu-west-1.rds.amazonaws.com";
 	
 	/* REMOVE THIS LINE (it just includes my SQL connection user/pass) */
-	include( $_SERVER['DOCUMENT_ROOT']."/datatables/mysql.php" );
+	//include( $_SERVER['DOCUMENT_ROOT']."/datatables/mysql.php" );
 	
 	
 	/* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
