@@ -128,13 +128,18 @@
 	    }
 	  );
 	});
+	$('#chart1').bind('jqplotDataClick', function(ev, seriesIndex, pointIndex, data) {
+		alert(plot.series[seriesIndex].seriesColors[pointIndex]);
+	});
+
+		
 	</script>
 	
 	<script class="code" type="text/javascript">
 	$(document).ready(function(){
-	  var data = [
-	    ['Good links', 24],['OK links', 397],['Bad links', 104]
-	  ];
+		var data = [
+		['Good links', 24],['OK links', 397],['Bad links', 104]
+		];
 	  var plot2 = jQuery.jqplot ('chart2', [data], 
 	    {
   	      seriesDefaults: {
