@@ -123,7 +123,7 @@
 		['number of difficult words', 103,200.8319474,311.0396877,359.4857778]
 		];
 
-		$.getJSON( "json/test.json", function( data ) {
+		var bDataSet = $.getJSON( "json/test.json", function( data ) {
 		  var items = [];
 		  $.each( data, function( key, val ) {
 		    items.push( "<li id='" + key + "'>" + val + "</li>" );
@@ -133,7 +133,6 @@
 		    "class": "my-new-list",
 		    html: items.join( "" )
 		  }).appendTo( "body" );
-		  console.log(items);
 		});
 
 	$(document).ready(function() {
@@ -147,7 +146,6 @@
 			{ "sTitle": "Winning Mean" , "sClass": "center"},
 			{ "sTitle": "Mean Value (this domain)", "sClass": "center" },
 			]
-			console.log("Hello");
 		} );
 				
 	} );
