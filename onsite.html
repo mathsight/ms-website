@@ -126,12 +126,24 @@
 		
 		
 		
-		fs.readFile('./json/test.txt', "binary", function (err, data) {
-		  if (err) throw err;
-		  console.log(data);
-		  var bDataSet = data;
-		});
+		// fs.readFile('./json/test.txt', "binary", function (err, data) {
+	// 	  if (err) throw err;
+	// 	  console.log(data);
+	// 	  var bDataSet = data;
+	// 	});
 		
+	
+		$.getJSON( "./json/test.json", function( data ) {
+		  var items = [];
+		  $.each( data, function( key, val ) {
+		    items.push( "<li id='" + key + "'>" + val + "</li>" );
+		  });
+ 
+		  $( "<ul/>", {
+		    "class": "my-new-list",
+		    html: items.join( "" )
+		  }).appendTo( "body" );
+		});
 	
 		// $(document).ready(function() {
 	// 		var bDataSet;
@@ -146,7 +158,7 @@
 		$(document).ready(function() {
 			$('#dynamic').html( '<table cellpadding="0" cellspacing="0" border="0" class="display" id="example"></table>' );
 			$('#example').dataTable( {
-				"aaData": bDataSet,
+				"aaData": aDataSet,
 				"aoColumns": [
 				{ "sTitle": "Highlighted Feature" },
 				{ "sTitle": "Influence Rank" , "sClass": "center"},
