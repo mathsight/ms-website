@@ -123,17 +123,30 @@
 		['number of difficult words', 103,200.8319474,311.0396877,359.4857778]
 		];
 
-		var bDataSet = $.getJSON( "json/test.json", function( data ) {
-		  var items = [];
-		  $.each( data, function( key, val ) {
-		    items.push( "<li id='" + key + "'>" + val + "</li>" );
+		// var bDataSet = $.getJSON( "json/test.json", function( data ) {
+		//   var items = [];
+		//   $.each( data, function( key, val ) {
+		//     items.push( "<li id='" + key + "'>" + val + "</li>" );
+		//   });
+		//  
+		//   $( "<ul/>", {
+		//     "class": "my-new-list",
+		//     html: items.join( "" )
+		//   }).appendTo( "body" );
+		// });
+		
+		var bDataSet = $.getJSON( "./json/test.json", function() {
+		  console.log( "success" );
+		})
+		  .done(function() {
+		    console.log( "second success" );
+		  })
+		  .fail(function() {
+		    console.log( "error" );
+		  })
+		  .always(function() {
+		    console.log( "complete" );
 		  });
- 
-		  $( "<ul/>", {
-		    "class": "my-new-list",
-		    html: items.join( "" )
-		  }).appendTo( "body" );
-		});
 
 	$(document).ready(function() {
 		$('#dynamic').html( '<table cellpadding="0" cellspacing="0" border="0" class="display" id="example"></table>' );
