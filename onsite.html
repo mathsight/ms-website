@@ -124,16 +124,10 @@
 		['number of difficult words', 103,200.8319474,311.0396877,359.4857778]
 		];
 		
-		
-		
-		// fs.readFile('./json/test.txt', "binary", function (err, data) {
-	// 	  if (err) throw err;
-	// 	  console.log(data);
-	// 	  var bDataSet = data;
-	// 	});
+
 		
 	$(document).ready(function() {
-		$.getJSON( "./json/test.json", function( data ) {
+		$('#getjson').getJSON( "./json/test.json", function( data ) {
 			var items = [];
 			$.each( data, function( key, val ) {
 				items.push( "<li id='" + key + "'>" + val + "</li>" );
@@ -146,15 +140,7 @@
 		});
 	} );
 	
-		// $(document).ready(function() {
-	// 		var bDataSet;
-	// 
-	// 		$('#').getJSON('./json/test.json', function(data) {
-	// 			bDataSet = data.items;
-	// 			console.log(bDataSet);
-	// 		});
-	// 	});
-	// 	
+
 		
 	$(document).ready(function() {
 		$('#dynamic').html( '<table cellpadding="0" cellspacing="0" border="0" class="display" id="example"></table>' );
@@ -168,7 +154,6 @@
 			{ "sTitle": "Mean Value (this domain)", "sClass": "center" },
 			]
 		} );
-		//console.log(aDataSet);
 				
 	} );
 	</script>
