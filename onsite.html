@@ -123,12 +123,12 @@
 		['number of difficult words', 103,200.8319474,311.0396877,359.4857778]
 		];
 		
-		var client = new XMLHttpRequest();
-		client.open('GET', '/json/test.txt');
-		client.onreadystatechange = function() {
-		  //alert(client.responseText);
-		}
-		client.send();
+		// var client = new XMLHttpRequest();
+		// client.open('GET', '/json/test.txt');
+		// client.onreadystatechange = function() {
+		//   //alert(client.responseText);
+		// }
+		// client.send();
 
 		// var bDataSet = $.getJSON( "json/test.json", function( data ) {
 		//   var items = [];
@@ -142,7 +142,7 @@
 		//   }).appendTo( "body" );
 		// });
 		
-		var bDataSet = client.responseXML;
+		// var bDataSet = client.responseXML;
 
 	$(document).ready(function() {
 		$('#dynamicA').html( '<table cellpadding="0" cellspacing="0" border="0" class="display" id="example"></table>' );
@@ -376,7 +376,7 @@
 			  <table cellpadding="0" cellspacing="0" border="0" class="display" id="example3">
 				  <thead>
 					  <tr>
-						  <th width="20%">html url</th>
+						  <th width="20%">URL</th>
 						  <th width="8%">Number of images in body</th>
 						  <th width="8%">Proximity of title tag words to external bound hyperlinks</th>
 						  <th width="8%">Number of scripts</th>
@@ -394,7 +394,7 @@
 				  </tbody>
 				  <tfoot>
 					  <tr>
-						  <th>html url</th>
+						  <th>URL</th>
 						  <th>Number of images in body</th>
 						  <th>Proximity of title tag words to external bound hyperlinks</th>
 						  <th>Number of scripts</th>
@@ -417,8 +417,8 @@
 		  <div class="spacer"></div>
 		  <hr>
 
-		  <h2>Onsite StatSEO Feature Influence </h2>
-		  <p>From table in HTML</p>
+		  <h2>Feature Influence Ranking Table</h2>
+
 		  <div id="dynamicA">
 			  
 		  </div>
