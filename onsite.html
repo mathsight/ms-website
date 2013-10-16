@@ -162,7 +162,7 @@
 	$(document).ready(function() {
 	    var oTable = $('#exampleJSONp').dataTable( {
 	        "bProcessing": true,
-	        "sAjaxSource": "/json/test.txt",
+	        "sAjaxSource": "/json/test_format.txt",
 	        "aoColumns": [
 			{ "mData": "html url"},
 			{ "mData": "Number of images in body"},
@@ -376,11 +376,17 @@
 			  <table cellpadding="0" cellspacing="0" border="0" class="display" id="example3">
 				  <thead>
 					  <tr>
-						  <th width="20%">Rendering engine</th>
-						  <th width="25%">Browser</th>
-						  <th width="25%">Platform(s)</th>
-						  <th width="15%">Engine version</th>
-						  <th width="15%">CSS grade</th>
+						  <th width="20%">html url</th>
+						  <th width="8%">Number of images in body</th>
+						  <th width="8%">Proximity of title tag words to external bound hyperlinks</th>
+						  <th width="8%">Number of scripts</th>
+						  <th width="8%">Number of hyperlinks</th>
+						  <th width="8%">Title character length</th>
+						  <th width="8%">Number of external CSS styles</th>
+						  <th width="8%">Number of titles same as h1</th>
+						  <th width="8%">Title total number of syllables</th>
+						  <th width="8%">Anchor number of unique words</th>
+						  <th width="8%">Total number of dictionary words</th>
 					  </tr>
 				  </thead>
 				  <tbody>
@@ -388,11 +394,17 @@
 				  </tbody>
 				  <tfoot>
 					  <tr>
-						  <th>Rendering engine</th>
-						  <th>Browser</th>
-						  <th>Platform(s)</th>
-						  <th>Engine version</th>
-						  <th>CSS grade</th>
+						  <th>html url</th>
+						  <th>Number of images in body</th>
+						  <th>Proximity of title tag words to external bound hyperlinks</th>
+						  <th>Number of scripts</th>
+						  <th>Number of hyperlinks</th>
+						  <th>Title character length</th>
+						  <th>Number of external CSS styles</th>
+						  <th>Number of titles same as h1</th>
+						  <th>Title total number of syllables</th>
+						  <th>Anchor number of unique words</th>
+						  <th>Total number of dictionary words</th>
 					  </tr>
 				  </tfoot>
 			  </table>
