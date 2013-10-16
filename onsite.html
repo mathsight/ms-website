@@ -158,6 +158,27 @@
 		} );
 				
 	} );
+	
+	$(document).ready(function() {
+	    var oTable = $('#example').dataTable( {
+	        "bProcessing": true,
+	        "sAjaxSource": "/json/test.txt",
+	        "aoColumns": [
+			{ "mData": "html url"},
+			{ "mData": "Number of images in body"},
+			{ "mData": "Proximity of title tag words to external bound hyperlinks"},
+			{ "mData": "Number of scripts"},
+			{ "mData": "Number of hyperlinks"},
+			{ "mData": "Title character length"},
+			{ "mData": "Number of external CSS styles"},
+			{ "mData": "Number of titles same as h1"},
+			{ "mData": "Title total number of syllables"},
+			{ "mData": "Anchor number of unique words"},
+			{ "mData": "Total number of dictionary words"}
+	        ]
+	    } );
+	} );
+	
 	$(document).ready(function() {
 		$('#dynamic2').html( '<table cellpadding="0" cellspacing="0" border="0" class="display" id="example2"></table>' );
 		$('#example2').dataTable( {
@@ -173,7 +194,7 @@
 			{ "sTitle": "Number of titles same as h1" , "sClass": "center"},
 			{ "sTitle": "Title total number of syllables" , "sClass": "center"},
 			{ "sTitle": "Anchor number of unique words" , "sClass": "center"},
-			{ "sTitle": "Total number of dictionary words" , "sClass": "center"},
+			{ "sTitle": "Total number of dictionary words" , "sClass": "center"}
 			]
 		} );
 				
