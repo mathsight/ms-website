@@ -145,7 +145,7 @@
 		var bDataSet = client.responseXML;
 
 	$(document).ready(function() {
-		$('#dynamic').html( '<table cellpadding="0" cellspacing="0" border="0" class="display" id="example"></table>' );
+		$('#dynamicA').html( '<table cellpadding="0" cellspacing="0" border="0" class="display" id="example"></table>' );
 		$('#example').dataTable( {
 			"aaData": aDataSet,
 			"aoColumns": [
@@ -160,7 +160,7 @@
 	} );
 	
 	$(document).ready(function() {
-	    var oTable = $('#example').dataTable( {
+	    var oTable = $('#example3').dataTable( {
 	        "bProcessing": true,
 	        "sAjaxSource": "/json/test.txt",
 	        "aoColumns": [
@@ -349,11 +349,9 @@
 	  </div>
 	  <div class="row-fluid pitch">
 
-		  <div class="full_width big">
-			  Example with data from www.leighmans.com
-		  </div>
 		  
 		  <h2>Onsite StatSEO Influential Feature Delta to Winning Mean</h2>
+		  <p>From JSON on local disk</p>
 		  <div id="dynamic2">	  
 		  </div>
 
@@ -363,9 +361,47 @@
 		  </p>
 		  <div class="spacer"></div>
 		  <hr>
-
-		  <h2>Onsite StatSEO Feature Influence</h2>
+		  
+		  <h2>Onsite StatSEO Influential Feature Delta to Winning Mean</h2>
+		  <p>From JSONp</p>
 		  <div id="dynamic">
+			  <table cellpadding="0" cellspacing="0" border="0" class="display" id="example3">
+				  <thead>
+					  <tr>
+						  <th width="20%">Rendering engine</th>
+						  <th width="25%">Browser</th>
+						  <th width="25%">Platform(s)</th>
+						  <th width="15%">Engine version</th>
+						  <th width="15%">CSS grade</th>
+					  </tr>
+				  </thead>
+				  <tbody>
+					  <tr>
+						  <td colspan="5" class="dataTables_empty">Loading data from server</td>
+					  </tr>
+				  </tbody>
+				  <tfoot>
+					  <tr>
+						  <th>Rendering engine</th>
+						  <th>Browser</th>
+						  <th>Platform(s)</th>
+						  <th>Engine version</th>
+						  <th>CSS grade</th>
+					  </tr>
+				  </tfoot>
+			  </table>
+		  </div>
+
+		  <hr>
+		  <p>
+		  <a href="/demo.html">Return to top level summary</a>
+		  </p>
+		  <div class="spacer"></div>
+		  <hr>
+
+		  <h2>Onsite StatSEO Feature Influence </h2>
+		  <p>From table in HTML</p>
+		  <div id="dynamicA">
 			  
 		  </div>
 
