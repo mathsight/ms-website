@@ -14,6 +14,9 @@
 	<script src="//ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
 	<script src="dist/jquery.jqplot.min.js"></script>
 	<script src="dist/plugins/jqplot.pieRenderer.min.js"></script>
+	<script src="dist/plugins/jqplot.barRenderer.min.js"></script>
+	<script src="dist/plugins/jqplot.categoryAxisRenderer.min.js"></script>
+	<script src="dist/plugins/jqplot.pointLabels.min.js"></script>
 
     <link href="http://fonts.googleapis.com/css?family=Ubuntu:300,400,500,700,300italic,400italic,500italic,700italic" rel="stylesheet" type="text/css">
     <link href="http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,300,400,600,700,800" 
@@ -144,39 +147,39 @@
 	
 	</script>
 
-	<script class="code" type="text/javascript">
-	$(document).ready(function(){
-		var s1 = [758, 3742];
-		var ticks = ['Healthy URLs', 'At risk URLs'];
-         
-		plot2 = $.jqplot('chartBar1', [s1, s2], {
-			seriesDefaults: {
-				renderer:$.jqplot.BarRenderer,
-				pointLabels: { show: true }
-			},
-			axes: {
-				xaxis: {
-					renderer: $.jqplot.CategoryAxisRenderer,
-					ticks: ticks
-				}
-			}
-		});
-     
-		$('#chartBar1').bind('jqplotDataHighlight', 
-		function (ev, seriesIndex, pointIndex, data) {
-			$('#infoBar1').html('series: '+seriesIndex+', point: '+pointIndex+', data: '+data);
-		}
-	);
-             
-	$('#chartBar1').bind('jqplotDataUnhighlight', 
-	function (ev) {
-		$('#infoBar1').html('Nothing');
-	}
-);
-});
-
-		
-</script>
+	// <script class="code" type="text/javascript">
+// 	$(document).ready(function(){
+// 		var s1 = [758, 3742];
+// 		var ticks = ['Healthy URLs', 'At risk URLs'];
+//          
+// 		plot2 = $.jqplot('chartBar1', [s1, s2], {
+// 			seriesDefaults: {
+// 				renderer:$.jqplot.BarRenderer,
+// 				pointLabels: { show: true }
+// 			},
+// 			axes: {
+// 				xaxis: {
+// 					renderer: $.jqplot.CategoryAxisRenderer,
+// 					ticks: ticks
+// 				}
+// 			}
+// 		});
+//      
+// 		$('#chartBar1').bind('jqplotDataHighlight', 
+// 		function (ev, seriesIndex, pointIndex, data) {
+// 			$('#infoBar1').html('series: '+seriesIndex+', point: '+pointIndex+', data: '+data);
+// 		}
+// 	);
+//              
+// 	$('#chartBar1').bind('jqplotDataUnhighlight', 
+// 	function (ev) {
+// 		$('#infoBar1').html('Nothing');
+// 	}
+// );
+// });
+// 
+// 		
+// </script>
 	
 	<script class="code" type="text/javascript">
 	$(document).ready(function(){
@@ -298,7 +301,7 @@
 
 		  <div class="span6 offset1 asset">
 
-			  <div class='clickableRow' href="/onsite.html" id="chart2" style="height:300px; width:500px;"></div>
+			  <div class='clickableRow' href="/onsite.html" id="chart1" style="height:300px; width:500px;"></div>
 			  <div class="code prettyprint">
 				  <pre class="code prettyprint brush: js"></pre>
 			  </div>
