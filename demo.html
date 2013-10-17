@@ -120,55 +120,9 @@
 	</script>
 	
 	
-	<script class="code" type="text/javascript">
-	$(document).ready(function(){
-	  var data = [
-	    ['Good urls', 758],['Bad urls', 3742]
-	  ];
-	  var plot1 = jQuery.jqplot ('chart1', [data], 
-	    { 
-	      seriesDefaults: {
-	        // Make this a pie chart.
-	        renderer: jQuery.jqplot.PieRenderer, 
-	        rendererOptions: {
-	          // Put data labels on the pie slices.
-	          // By default, labels show the percentage of the slice.
-	          showDataLabels: true
-	        }
-	      }, 
-	      legend: { show:true, location: 'e' }
-	    }
-	  );
-	});
-	$('#chart1').bind('jqplotDataClick', function(ev, seriesIndex, pointIndex, data) {
-		alert(plot.series[seriesIndex].seriesColors[pointIndex]);
-	});
-
-		
-	</script>
 	
-	<script class="code" type="text/javascript">
-	$(document).ready(function(){
-		var data = [
-		['Good links', 24],['OK links', 397],['Bad links', 104]
-		];
-	  var plot2 = jQuery.jqplot ('chart2', [data], 
-	    {
-  	      seriesDefaults: {
-  	        // Make this a pie chart.
-  	        renderer: jQuery.jqplot.PieRenderer, 
-  	        rendererOptions: {
-  	          // Put data labels on the pie slices.
-  	          // By default, labels show the percentage of the slice.
-  	          showDataLabels: true
-  	        }
-  	      }, 
-	   
-	      legend: { show:true, location: 'e' }
-	    }
-	  );
-	});
-	</script>
+	
+	
 	
 	<script class="code" type="text/javascript">$(document).ready(function(){
 		plot5 = jQuery.jqplot('chart5', [[[2,1], [null,2], [7,3], [10,4]]], {
@@ -193,6 +147,29 @@
 				}
 			}
 		});
+	});
+	</script>
+	
+	<script class="code" type="text/javascript">
+	$(document).ready(function(){
+		var data = [
+		['Good links', 24],['OK links', 397],['Bad links', 104]
+		];
+	  var plot2 = jQuery.jqplot ('chart2', [data], 
+	    {
+  	      seriesDefaults: {
+  	        // Make this a pie chart.
+  	        renderer: jQuery.jqplot.PieRenderer, 
+  	        rendererOptions: {
+  	          // Put data labels on the pie slices.
+  	          // By default, labels show the percentage of the slice.
+  	          showDataLabels: true
+  	        }
+  	      }, 
+	   
+	      legend: { show:true, location: 'e' }
+	    }
+	  );
 	});
 	</script>
 	
