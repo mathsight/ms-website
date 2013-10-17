@@ -124,21 +124,23 @@
 		var s1 = [758, 3742];
 		var ticks = ['Healthy urls', 'At risk urls'];
 		plot5 = jQuery.jqplot('chart5', [s1], {
-			
+			title:'URL Summary',
+			seriesColors:['#73C774', '#C7754C'],
 			seriesDefaults:{
 				renderer:jQuery.jqplot.BarRenderer,
 				shadowAngle: 135,
 				rendererOptions: {
 					barDirection: 'horizontal',
-					highlightMouseDown: true    
+					highlightMouseDown: true   ,
+					varyBarColor: true 
 				},
 				pointLabels: {show: true, formatString: '%d'}
 			},
-			legend: {
-				show: true,
-				location: 'e',
-				placement: 'outside'
-			},
+			// legend: {
+			// 	show: true,
+			// 	location: 'e',
+			// 	placement: 'outside'
+			// },
 			axes: {
 				yaxis: {
 					renderer: jQuery.jqplot.CategoryAxisRenderer,
