@@ -121,8 +121,11 @@
 	
 	
 	<script class="code" type="text/javascript">$(document).ready(function(){
-		plot5 = jQuery.jqplot('chart5', [[['Healthy urls', 758],['At risk urls', 3742]]], {
-			captureRightClick: true,
+		var s1 = [758];
+		var s2 = [3742];
+		var ticks = ['Healthy urls', 'At risk urls'];
+		plot5 = jQuery.jqplot('chart5', [s1, s2], {
+			
 			seriesDefaults:{
 				renderer:jQuery.jqplot.BarRenderer,
 				shadowAngle: 135,
@@ -139,7 +142,8 @@
 			},
 			axes: {
 				yaxis: {
-					renderer: jQuery.jqplot.CategoryAxisRenderer
+					renderer: jQuery.jqplot.CategoryAxisRenderer,
+					ticks: ticks
 				}
 			}
 		});
