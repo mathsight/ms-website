@@ -119,30 +119,62 @@
 	
 	<script class="code" type="text/javascript">
 	$(document).ready(function(){
-	  var data = [
-	    ['Good urls', 758],['Bad urls', 3742]
-	  ];
-	  var plot1 = jQuery.jqplot ('chart1', [data], 
-	    { 
-	      seriesDefaults: {
-	        // Make this a pie chart.
-	        renderer: jQuery.jqplot.PieRenderer, 
-	        rendererOptions: {
-	          // Put data labels on the pie slices.
-	          // By default, labels show the percentage of the slice.
-	          showDataLabels: true
-	        }
-	      }, 
-	      legend: { show:true, location: 'e' }
-	    }
-	  );
+		var data = [
+		['Good urls', 758],['Bad urls', 3742]
+		];
+		var plot1 = jQuery.jqplot ('chart1', [data], 
+		{ 
+			seriesDefaults: {
+				// Make this a pie chart.
+				renderer: jQuery.jqplot.PieRenderer, 
+				rendererOptions: {
+					// Put data labels on the pie slices.
+					// By default, labels show the percentage of the slice.
+					showDataLabels: true
+				}
+			}, 
+			legend: { show:true, location: 'e' }
+		}
+	);
+});
+
+$('#chart1').bind('jqplotDataClick', function(ev, seriesIndex, pointIndex, data) {
+	alert(plot.series[seriesIndex].seriesColors[pointIndex]);
+});
+	
+$(document).ready(function(){
+		
+	var s1 = [758, 3742];
+	var ticks = ['Healthy URLs', 'At risk URLs'];
+         
+	plot2 = $.jqplot('chartBar1', [s1, s2], {
+		seriesDefaults: {
+			renderer:$.jqplot.BarRenderer,
+			pointLabels: { show: true }
+		},
+		axes: {
+			xaxis: {
+				renderer: $.jqplot.CategoryAxisRenderer,
+				ticks: ticks
+			}
+		}
 	});
-	$('#chart1').bind('jqplotDataClick', function(ev, seriesIndex, pointIndex, data) {
-		alert(plot.series[seriesIndex].seriesColors[pointIndex]);
-	});
+     
+	$('#chartBar1').bind('jqplotDataHighlight', 
+	function (ev, seriesIndex, pointIndex, data) {
+		$('#info2').html('series: '+seriesIndex+', point: '+pointIndex+', data: '+data);
+	}
+);
+             
+$('#chartBar1').bind('jqplotDataUnhighlight', 
+function (ev) {
+	$('#info2').html('Nothing');
+}
+);
+});
 
 		
-	</script>
+</script>
 	
 	<script class="code" type="text/javascript">
 	$(document).ready(function(){
@@ -184,9 +216,9 @@
           <a class="brand" href="/">MathSight</a>
           <div class="nav-collapse collapse">
             <ul class="nav">
-                <li class="active"><a href="/">Home</a></li>
+                <li><a href="/">Home</a></li>
                 <li><a href="/plans.html">Plans</a></li>
-                <li><a href="/tour.html">Tour</a></li>
+                <li class="active"><a href="/tour.html">Tour</a></li>
 				<li><a href="/api.html">API</a></li>
 				<li><a href="/jobs.html">Jobs</a></li>
             </ul>
@@ -266,7 +298,7 @@
 
 
 			  <!-- <img class="img-polaroid" alt="Placeholder" src="http://placehold.it/480x300"> -->
-			  <div class='clickableRow' href="/onsite.html" id="chart1" style="height:300px; width:500px;"></div>
+			  <div class='clickableRow' href="/onsite.html" id="chartBar1" style="height:300px; width:500px;"></div>
 			  <div class="code prettyprint">
 				  <pre class="code prettyprint brush: js"></pre>
 			  </div>
