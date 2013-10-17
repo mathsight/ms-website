@@ -121,10 +121,9 @@
 	
 	
 	<script class="code" type="text/javascript">$(document).ready(function(){
-		var s1 = [758];
-		var s2 = [3742];
+		var s1 = [758, 3742];
 		var ticks = ['Healthy urls', 'At risk urls'];
-		plot5 = jQuery.jqplot('chart5', [s1, s2], {
+		plot5 = jQuery.jqplot('chart5', [s1], {
 			
 			seriesDefaults:{
 				renderer:jQuery.jqplot.BarRenderer,
