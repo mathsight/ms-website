@@ -17,6 +17,8 @@
 	<script src="dist/plugins/jqplot.barRenderer.min.js"></script>
 	<script src="dist/plugins/jqplot.categoryAxisRenderer.min.js"></script>
 	<script src="dist/plugins/jqplot.pointLabels.min.js"></script>
+	
+	<script src="datatables/media/js/jquery.dataTables.js"></script>
 
     <link href="http://fonts.googleapis.com/css?family=Ubuntu:300,400,500,700,300italic,400italic,500italic,700italic" rel="stylesheet" type="text/css">
     <link href="http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,300,400,600,700,800" 
@@ -117,6 +119,15 @@
 	            window.document.location = $(this).attr("href");
 	      });
 	});
+	
+	$(document).ready(function() {
+	    $('#example3').dataTable( {
+	        "bProcessing": true,
+	        "sAjaxSource": "/json/onsite_summary.json",
+	        "sAjaxDataProp": "onsite"
+	    } );
+	} );
+	
 	</script>
 	
 	
@@ -124,7 +135,7 @@
 		var s1 = [758, 3742];
 		var ticks = ['Healthy urls', 'At risk urls'];
 		plot5 = jQuery.jqplot('chart5', [s1], {
-			title:'URL Summary',
+			title:'Number of URLs',
 			seriesColors:['#73C774', '#C7754C'],
 			seriesDefaults:{
 				renderer:jQuery.jqplot.BarRenderer,
@@ -241,9 +252,9 @@
   			      <thead>
   			          <tr class='clickableRow' href="/onsite.html">
   			              <th>#</th>
-  			              <th>Onsite URL quality</th>
-  			              <th>Number URLs</th>
-  			              <th>Percent URLs</th>
+  			              <th>Onsite URL state</th>
+  			              <th>Number of URLs</th>
+  			              <th>Percent of total</th>
   			          </tr>
   			      </thead>
   			      <tbody>
@@ -279,13 +290,55 @@
 				  <pre class="code prettyprint brush: js"></pre>
 			  </div> -->
 			  
-			  <div id="chart5" style="margin-top:20px; margin-left:20px; width:300px; height:300px;"></div>
+			  <div class='clickableRow' href="/onsite.html" id="chart5" style="margin-top:20px; margin-left:20px; width:300px; height:300px;"></div>
 			  <pre class="code brush:js"></pre>
 			  
 
 		  </div>
 	 
 	  </div>
+	  
+	  <div class="row-fluid pitch">
+		  		  <hr>
+		  <!-- <h2>Influential Feature Delta to Winning Mean</h2>
+		  <p>For top 10 features on aggregate</p> -->
+		  <div id="dynamic">
+			  <table cellpadding="0" cellspacing="0" border="0" class="display" id="example3">
+				  <thead>
+					  <tr>
+						  <th width="20%">Influence rank</th>
+						  <th width="16%">Feature</th>
+						  <th width="16%">#URLs at risk</th>
+						  <th width="16%">Average at risk SQ</th>
+						  <th width="16%">#URLs healthy</th>
+						  <th width="16%">Average healthy SQ</th>
+					  </tr>
+				  </thead>
+				  <tbody>
+					  
+				  </tbody>
+				  <tfoot>
+					  <tr>
+						  <th>Influence rank</th>
+						  <th>Feature</th>
+						  <th>#URLs at risk</th>
+						  <th>Average at risk SQ</th>
+						  <th>#URLs healthy</th>
+						  <th>Average healthy SQ</th>
+					  </tr>
+				  </tfoot>
+			  </table>
+		  </div>
+
+		  <hr>
+		  <p>
+		  <a href="/demo.html">Return to top level summary</a>
+		  </p>
+		  <div class="spacer"></div>
+		  <hr>
+	  
+	  
+	  
 	  <div class = "well">
 		  
 		  <h2>Offsite pages by readability</h2>
