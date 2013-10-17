@@ -136,40 +136,42 @@
 			legend: { show:true, location: 'e' }
 		}
 	);
-});
 
-$('#chart1').bind('jqplotDataClick', function(ev, seriesIndex, pointIndex, data) {
-	alert(plot.series[seriesIndex].seriesColors[pointIndex]);
-});
-	
-$(document).ready(function(){
-		
-	var s1 = [758, 3742];
-	var ticks = ['Healthy URLs', 'At risk URLs'];
-         
-	plot2 = $.jqplot('chartBar1', [s1, s2], {
-		seriesDefaults: {
-			renderer:$.jqplot.BarRenderer,
-			pointLabels: { show: true }
-		},
-		axes: {
-			xaxis: {
-				renderer: $.jqplot.CategoryAxisRenderer,
-				ticks: ticks
-			}
-		}
+	$('#chart1').bind('jqplotDataClick', function(ev, seriesIndex, pointIndex, data) {
+		alert(plot.series[seriesIndex].seriesColors[pointIndex]);
 	});
+	
+	
+	</script>
+
+	<script class="code" type="text/javascript">
+	$(document).ready(function(){
+		var s1 = [758, 3742];
+		var ticks = ['Healthy URLs', 'At risk URLs'];
+         
+		plot2 = $.jqplot('chartBar1', [s1, s2], {
+			seriesDefaults: {
+				renderer:$.jqplot.BarRenderer,
+				pointLabels: { show: true }
+			},
+			axes: {
+				xaxis: {
+					renderer: $.jqplot.CategoryAxisRenderer,
+					ticks: ticks
+				}
+			}
+		});
      
-	$('#chartBar1').bind('jqplotDataHighlight', 
-	function (ev, seriesIndex, pointIndex, data) {
-		$('#info2').html('series: '+seriesIndex+', point: '+pointIndex+', data: '+data);
-	}
-);
+		$('#chartBar1').bind('jqplotDataHighlight', 
+		function (ev, seriesIndex, pointIndex, data) {
+			$('#infoBar1').html('series: '+seriesIndex+', point: '+pointIndex+', data: '+data);
+		}
+	);
              
-$('#chartBar1').bind('jqplotDataUnhighlight', 
-function (ev) {
-	$('#info2').html('Nothing');
-}
+	$('#chartBar1').bind('jqplotDataUnhighlight', 
+	function (ev) {
+		$('#infoBar1').html('Nothing');
+	}
 );
 });
 
