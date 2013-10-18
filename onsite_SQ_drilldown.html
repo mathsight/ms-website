@@ -14,6 +14,11 @@
 	<script src="datatables/media/js/jquery.js"></script>
 	<script src="datatables/media/js/jquery.dataTables.js"></script>
 
+	<script>
+	var lblBike = 'I have a bike';
+	document.getElementById('lblVehicle').innerHTML = lblBike;
+	</script>
+
 	<script type="text/javascript" charset="utf-8">
 	
 	var aDataSet = [
@@ -133,104 +138,106 @@
 			{ "sTitle": "Losing Mean" , "sClass": "center"},
 			{ "sTitle": "Winning Mean" , "sClass": "center"},
 			{ "sTitle": "Mean Value (this domain)", "sClass": "center" },
-			]
-		} );
-
-		$(document).ready(function() {
-			$('#example1').dataTable( {
-				"bProcessing": true,
-				"sAjaxSource": "/json/drilldown/feature1.json",
-				"sAjaxDataProp": "Number of images in body",
-				"aaSorting": [[ 3, "desc" ]]
-			} );
-		} );
-		$(document).ready(function() {
-			$('#example2').dataTable( {
-				"bProcessing": true,
-				"sAjaxSource": "/json/drilldown/feature2.json",
-				"sAjaxDataProp": "Proximity of title tag words to external bound hyperlinks",
-				"aaSorting": [[ 3, "desc" ]]
-			} );
-		} );
-		$(document).ready(function() {
-			$('#example3').dataTable( {
-				"bProcessing": true,
-				"sAjaxSource": "/json/drilldown/feature3.json",
-				"sAjaxDataProp": "Number of scripts",
-				"aaSorting": [[ 3, "desc" ]]
-			} );
-		} );
-		$(document).ready(function() {
-			$('#example4').dataTable( {
-				"bProcessing": true,
-				"sAjaxSource": "/json/drilldown/feature4.json",
-				"sAjaxDataProp": "Number of hyperlinks",
-				"aaSorting": [[ 3, "desc" ]]
-			} );
-		} );
-		$(document).ready(function() {
-			$('#example5').dataTable( {
-				"bProcessing": true,
-				"sAjaxSource": "/json/drilldown/feature5.json",
-				"sAjaxDataProp": "Title character length",
-				"aaSorting": [[ 3, "desc" ]]
-			} );
-		} );
-		$(document).ready(function() {
-			$('#example6').dataTable( {
-				"bProcessing": true,
-				"sAjaxSource": "/json/drilldown/feature6.json",
-				"sAjaxDataProp": "Number of external CSS styles",
-				"aaSorting": [[ 3, "desc" ]]
-			} );
-		} );
-		$(document).ready(function() {
-			$('#example7').dataTable( {
-				"bProcessing": true,
-				"sAjaxSource": "/json/drilldown/feature7.json",
-				"sAjaxDataProp": "Number of titles same as h1",
-				"aaSorting": [[ 3, "desc" ]]
-			} );
-		} );
-		$(document).ready(function() {
-			$('#example8').dataTable( {
-				"bProcessing": true,
-				"sAjaxSource": "/json/drilldown/feature8.json",
-				"sAjaxDataProp": "Title total number of syllables",
-				"aaSorting": [[ 3, "desc" ]]
-			} );
-		} );
-		$(document).ready(function() {
-			$('#example9').dataTable( {
-				"bProcessing": true,
-				"sAjaxSource": "/json/drilldown/feature9.json",
-				"sAjaxDataProp": "Anchor number of unique words",
-				"aaSorting": [[ 3, "desc" ]]
-			} );
-		} );
-		$(document).ready(function() {
-			$('#example10').dataTable( {
-				"bProcessing": true,
-				"sAjaxSource": "/json/drilldown/feature10.json",
-				"sAjaxDataProp": "Total number of dictionary words",
-				"aaSorting": [[ 3, "desc" ]]
-			} );
+			],
+			"aaSorting": [[ 2, "asc" ]]
 		} );
 	} );
+
+	$(document).ready(function() {
+		$('#example1').dataTable( {
+			"bProcessing": true,
+			"sAjaxSource": "/json/drilldown/feature1.json",
+			"sAjaxDataProp": "Number of images in body",
+			"aaSorting": [[ 3, "desc" ]]
+		} );
+	} );
+	$(document).ready(function() {
+		$('#example2').dataTable( {
+			"bProcessing": true,
+			"sAjaxSource": "/json/drilldown/feature2.json",
+			"sAjaxDataProp": "Proximity of title tag words to external bound hyperlinks",
+			"aaSorting": [[ 3, "desc" ]]
+		} );
+	} );
+	$(document).ready(function() {
+		$('#example3').dataTable( {
+			"bProcessing": true,
+			"sAjaxSource": "/json/drilldown/feature3.json",
+			"sAjaxDataProp": "Number of scripts",
+			"aaSorting": [[ 3, "desc" ]]
+		} );
+	} );
+	$(document).ready(function() {
+		$('#example4').dataTable( {
+			"bProcessing": true,
+			"sAjaxSource": "/json/drilldown/feature4.json",
+			"sAjaxDataProp": "Number of hyperlinks",
+			"aaSorting": [[ 3, "desc" ]]
+		} );
+	} );
+	$(document).ready(function() {
+		$('#example5').dataTable( {
+			"bProcessing": true,
+			"sAjaxSource": "/json/drilldown/feature5.json",
+			"sAjaxDataProp": "Title character length",
+			"aaSorting": [[ 3, "desc" ]]
+		} );
+	} );
+	$(document).ready(function() {
+		$('#example6').dataTable( {
+			"bProcessing": true,
+			"sAjaxSource": "/json/drilldown/feature6.json",
+			"sAjaxDataProp": "Number of external CSS styles",
+			"aaSorting": [[ 3, "desc" ]]
+		} );
+	} );
+	$(document).ready(function() {
+		$('#example7').dataTable( {
+			"bProcessing": true,
+			"sAjaxSource": "/json/drilldown/feature7.json",
+			"sAjaxDataProp": "Number of titles same as h1",
+			"aaSorting": [[ 3, "desc" ]]
+		} );
+	} );
+	$(document).ready(function() {
+		$('#example8').dataTable( {
+			"bProcessing": true,
+			"sAjaxSource": "/json/drilldown/feature8.json",
+			"sAjaxDataProp": "Title total number of syllables",
+			"aaSorting": [[ 3, "desc" ]]
+		} );
+	} );
+	$(document).ready(function() {
+		$('#example9').dataTable( {
+			"bProcessing": true,
+			"sAjaxSource": "/json/drilldown/feature9.json",
+			"sAjaxDataProp": "Anchor number of unique words",
+			"aaSorting": [[ 3, "desc" ]]
+		} );
+	} );
+	$(document).ready(function() {
+		$('#example10').dataTable( {
+			"bProcessing": true,
+			"sAjaxSource": "/json/drilldown/feature10.json",
+			"sAjaxDataProp": "Total number of dictionary words",
+			"aaSorting": [[ 3, "desc" ]]
+		} );
+	} );
+} );
 	
 
-	</script>
+</script>
 
-	<link href="http://fonts.googleapis.com/css?family=Ubuntu:300,400,500,700,300italic,400italic,500italic,700italic" rel="stylesheet" type="text/css">
-	<link href="http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,300,400,600,700,800" 
-	rel="stylesheet" type="text/css">
+<link href="http://fonts.googleapis.com/css?family=Ubuntu:300,400,500,700,300italic,400italic,500italic,700italic" rel="stylesheet" type="text/css">
+<link href="http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,300,400,600,700,800" 
+rel="stylesheet" type="text/css">
 		  
-	<link rel="stylesheet" type="text/css" href="dist/jquery.jqplot.min.css" />
-	<style type="text/css" title="currentStyle">
-	@import "datatables/media/css/demo_page.css"; 
-	@import "datatables/media/css/header.ccss";
-	@import "datatables/media/css/demo_table.css";
-	</style>
+<link rel="stylesheet" type="text/css" href="dist/jquery.jqplot.min.css" />
+<style type="text/css" title="currentStyle">
+@import "datatables/media/css/demo_page.css"; 
+@import "datatables/media/css/header.ccss";
+@import "datatables/media/css/demo_table.css";
+</style>
     <style type="text/css">
 
       /* Large desktop */
@@ -374,23 +381,33 @@
 		  <h2>Influential Feature Value and Delta to Winning Mean</h2>
 		  <hr>
 		  <h3>Feature 1</h3>
+		  <input type="checkbox" name="vehicle" value="Bike" id="vehicle" />
+		  <label for="vehicle" id="lblVehicle"></label><br />
+		  
+		  
 		  <div id="dynamic">
 			  <table cellpadding="0" cellspacing="0" border="0" class="display" id="example1">
 				  <thead>
-					  <tr>
-						  <th width="80%">Page URL</th>
-						  <th width="10%">Feature value</th>
-						  <th width="10%">Delta</th>
-					  </tr>
+					<tr>
+						<th rowspan="2" width="80%">Page URL</th>
+						<th colspan="2" width="20%">Feature data</th>  
+					</tr>
+					<tr>
+						<th width="10%">Feature value</th>
+						<th width="10%">Delta</th>
+					</tr>
 				  </thead>
 				  <tbody>
 					  
 				  </tbody>
 				  <tfoot>
 					  <tr>
-						  <th>Page URL</th>
+						  <th rowspan="2" >Page URL</th>
 						  <th>Feature value</th>
 						  <th>Delta</th>
+					  </tr>
+					  <tr>
+						  <th colspan="2">Feature data</th>
 					  </tr>
 				  </tfoot>
 			  </table>
