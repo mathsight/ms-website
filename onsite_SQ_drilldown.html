@@ -14,11 +14,6 @@
 	<script src="datatables/media/js/jquery.js"></script>
 	<script src="datatables/media/js/jquery.dataTables.js"></script>
 
-	<script>
-	var lblBike = 'I have a bike';
-	document.getElementById('lblVehicle').innerHTML = lblBike;
-	</script>
-
 	<script type="text/javascript" charset="utf-8">
 	
 	var aDataSet = [
@@ -381,8 +376,6 @@ rel="stylesheet" type="text/css">
 		  <h2>Influential Feature Value and Delta to Winning Mean</h2>
 		  <hr>
 		  <h3>Feature 1</h3>
-		  <input type="checkbox" name="vehicle" value="Bike" id="vehicle" />
-		  <label for="vehicle" id="lblVehicle"></label><br />
 		  
 		  
 		  <div id="dynamic">
@@ -393,7 +386,7 @@ rel="stylesheet" type="text/css">
 						<th colspan="2" width="20%">Feature data</th>  
 					</tr>
 					<tr>
-						<th width="10%">Feature value</th>
+						<th width="10%">Value</th>
 						<th width="10%">Delta</th>
 					</tr>
 				  </thead>
@@ -403,7 +396,7 @@ rel="stylesheet" type="text/css">
 				  <tfoot>
 					  <tr>
 						  <th rowspan="2" >Page URL</th>
-						  <th>Feature value</th>
+						  <th>Value</th>
 						  <th>Delta</th>
 					  </tr>
 					  <tr>
