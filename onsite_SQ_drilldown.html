@@ -140,70 +140,80 @@
 			$('#example1').dataTable( {
 				"bProcessing": true,
 				"sAjaxSource": "/json/drilldown/feature1.json",
-				"sAjaxDataProp": "Number of images in body"
+				"sAjaxDataProp": "Number of images in body",
+				"aaSorting": [[ 4, "desc" ]]
 			} );
 		} );
 		$(document).ready(function() {
 			$('#example2').dataTable( {
 				"bProcessing": true,
 				"sAjaxSource": "/json/drilldown/feature2.json",
-				"sAjaxDataProp": "Proximity of title tag words to external bound hyperlinks"
+				"sAjaxDataProp": "Proximity of title tag words to external bound hyperlinks",
+				"aaSorting": [[ 4, "desc" ]]
 			} );
 		} );
 		$(document).ready(function() {
 			$('#example3').dataTable( {
 				"bProcessing": true,
 				"sAjaxSource": "/json/drilldown/feature3.json",
-				"sAjaxDataProp": "Number of scripts"
+				"sAjaxDataProp": "Number of scripts",
+				"aaSorting": [[ 4, "desc" ]]
 			} );
 		} );
 		$(document).ready(function() {
 			$('#example4').dataTable( {
 				"bProcessing": true,
 				"sAjaxSource": "/json/drilldown/feature4.json",
-				"sAjaxDataProp": "Number of hyperlinks"
+				"sAjaxDataProp": "Number of hyperlinks",
+				"aaSorting": [[ 4, "desc" ]]
 			} );
 		} );
 		$(document).ready(function() {
 			$('#example5').dataTable( {
 				"bProcessing": true,
 				"sAjaxSource": "/json/drilldown/feature5.json",
-				"sAjaxDataProp": "Title character length"
+				"sAjaxDataProp": "Title character length",
+				"aaSorting": [[ 4, "desc" ]]
 			} );
 		} );
 		$(document).ready(function() {
 			$('#example6').dataTable( {
 				"bProcessing": true,
 				"sAjaxSource": "/json/drilldown/feature6.json",
-				"sAjaxDataProp": "Number of external CSS styles"
+				"sAjaxDataProp": "Number of external CSS styles",
+				"aaSorting": [[ 4, "desc" ]]
 			} );
 		} );
 		$(document).ready(function() {
 			$('#example7').dataTable( {
 				"bProcessing": true,
 				"sAjaxSource": "/json/drilldown/feature7.json",
-				"sAjaxDataProp": "Number of titles same as h1"
+				"sAjaxDataProp": "Number of titles same as h1",
+				"aaSorting": [[ 4, "desc" ]]
 			} );
 		} );
 		$(document).ready(function() {
 			$('#example8').dataTable( {
 				"bProcessing": true,
 				"sAjaxSource": "/json/drilldown/feature8.json",
-				"sAjaxDataProp": "Title total number of syllables"
+				"sAjaxDataProp": "Title total number of syllables",
+				"aaSorting": [[ 4, "desc" ]]
 			} );
 		} );
 		$(document).ready(function() {
 			$('#example9').dataTable( {
 				"bProcessing": true,
 				"sAjaxSource": "/json/drilldown/feature9.json",
-				"sAjaxDataProp": "Anchor number of unique words"
+				"sAjaxDataProp": "Anchor number of unique words",
+				"aaSorting": [[ 4, "desc" ]]
 			} );
 		} );
 		$(document).ready(function() {
 			$('#example10').dataTable( {
 				"bProcessing": true,
 				"sAjaxSource": "/json/drilldown/feature10.json",
-				"sAjaxDataProp": "Total number of dictionary words"
+				"sAjaxDataProp": "Total number of dictionary words",
+				"aaSorting": [[ 4, "desc" ]]
 			} );
 		} );
 	} );
@@ -358,8 +368,10 @@
 		  </div>
 	  </div>
 	  <div class="row-fluid pitch">
-
-		  <h2>Influential Feature Delta to Winning Mean</h2>
+		  
+		  <hr>
+		  
+		  <h2>Influential Feature Value and Delta to Winning Mean</h2>
 		  <hr>
 		  <h3>Feature 1</h3>
 		  <div id="dynamic">
@@ -384,6 +396,8 @@
 			  </table>
 		  </div>
 		  
+		  <hr>
+		  
 		  <h3>Feature 2</h3>
 		  <div id="dynamic">
 			  <table cellpadding="0" cellspacing="0" border="0" class="display" id="example2">
@@ -406,6 +420,8 @@
 				  </tfoot>
 			  </table>
 		  </div>
+		  
+		  <hr>
 		  
 		  <h3>Feature 3</h3>
 		  <div id="dynamic">
@@ -430,6 +446,8 @@
 			  </table>
 		  </div>
 		  
+		  <hr>
+		  
 		  <h3>Feature 4</h3>
 		  <div id="dynamic">
 			  <table cellpadding="0" cellspacing="0" border="0" class="display" id="example4">
@@ -452,6 +470,8 @@
 				  </tfoot>
 			  </table>
 		  </div>
+		  
+		  <hr>
 		  
 		  <h3>Feature 5</h3>
 		  <div id="dynamic">
@@ -476,6 +496,8 @@
 			  </table>
 		  </div>
 		  
+		  <hr>
+		  
 		  <h3>Feature 6</h3>
 		  <div id="dynamic">
 			  <table cellpadding="0" cellspacing="0" border="0" class="display" id="example6">
@@ -498,6 +520,8 @@
 				  </tfoot>
 			  </table>
 		  </div>
+		  
+		  <hr>
 		  
 		  <h3>Feature 7</h3>
 		  <div id="dynamic">
@@ -522,6 +546,8 @@
 			  </table>
 		  </div>
 		  
+		  <hr>
+		  
 		  <h3>Feature 8</h3>
 		  <div id="dynamic">
 			  <table cellpadding="0" cellspacing="0" border="0" class="display" id="example8">
@@ -545,6 +571,8 @@
 			  </table>
 		  </div>
 		  
+		  <hr>
+		  
 		  <h3>Feature 9</h3>
 		  <div id="dynamic">
 			  <table cellpadding="0" cellspacing="0" border="0" class="display" id="example9">
@@ -567,6 +595,8 @@
 				  </tfoot>
 			  </table>
 		  </div>
+		  
+		  <hr>
 		  
 		  <h3>Feature 10</h3>
 		  <div id="dynamic">
