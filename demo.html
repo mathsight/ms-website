@@ -133,10 +133,10 @@
 	        "sAjaxSource": "/json/onsite_summary.json",
 	        "sAjaxDataProp": "onsite",
 			"aoColumnDefs": [ {
-			      "aTargets": [ 0 ],
+			      "aTargets": [ 1 ],
 			      "mData": "download_link",
 			      "mRender": function ( data, type, full ) {
-			        return '<a href="'+data+'">Download</a>';
+			        return '<a href="'+data+'">'+data+'</a>';
 			      }
 			    } ]
 	    } );
