@@ -145,7 +145,14 @@
 	    $('#example3').dataTable( {
 	        "bProcessing": true,
 	        "sAjaxSource": "/json/test_format.txt",
-	        "sAjaxDataProp": "demo"
+	        "sAjaxDataProp": "demo",
+			"aoColumnDefs": [ {
+			      "aTargets": [ 0 ],
+			      "mData": "download_link",
+			      "mRender": function ( data, type, full ) {
+			        return '<a href="'+data+'">Download</a>';
+			      }
+			    } ]
 	    } );
 	} );
 	
