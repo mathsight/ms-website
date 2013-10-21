@@ -131,14 +131,7 @@
 	    $('#example3').dataTable( {
 	        "bProcessing": true,
 	        "sAjaxSource": "/json/onsite_summary.json",
-	        "sAjaxDataProp": "onsite",
-			"aoColumnDefs": [ {
-			      "aTargets": [ 1 ],
-			      "mData": "download_link",
-			      "mRender": function ( data, type, full ) {
-			        return '<a href="'+data+'">'+data+'</a>';
-			      }
-			    } ]
+	        "sAjaxDataProp": "onsite"
 	    } );
 	} );
 	
