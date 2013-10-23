@@ -147,10 +147,7 @@
 			animate: !$.jqplot.use_excanvas,
 			title:'Number of URLs',
 			//seriesColors:['#00FF00', '#FF0000'],
-			series: [
-			            {seriesColors: ['#00FF00']}, 
-			            {seriesColors: ['#FF0000']}
-			            ],
+
 			seriesDefaults:{
 				renderer:jQuery.jqplot.BarRenderer,
 				shadowAngle: 135,
@@ -164,9 +161,10 @@
 			},
 			
 			series:[
-			            {label:'Healthy urls'},
-			            {label:'At risk urls'}
+			            {label:'Healthy urls', seriesColors: ['#00FF00']},
+			            {label:'At risk urls', seriesColors: ['#FF0000']}
 			        ],
+					
 			legend: {
 					show: true,
 					location: 'e',
