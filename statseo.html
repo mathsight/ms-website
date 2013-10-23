@@ -141,8 +141,8 @@
 	<script class="code" type="text/javascript">
 	
 	$(document).ready(function(){
-		line1 = [['Healthy urls', 758],['At risk urls', -3742]];
-		plot5 = jQuery.jqplot('chart5', [line1], {
+	
+		plot5 = jQuery.jqplot('chart5', [['Healthy urls', 758],['At risk urls', -3742]], {
 			// Only animate if we're not using excanvas (not in IE 7 or IE 8)..
 			animate: !$.jqplot.use_excanvas,
 			title:'Number of URLs',
@@ -153,8 +153,8 @@
 				rendererOptions: {
 					barDirection: 'horizontal',
 					highlightMouseDown: true,
-					varyBarColor: true,
-					fillToZero: true
+					varyBarColor: true
+					// fillToZero: true
 				},
 				pointLabels: {show: true, formatString: '%d'}
 			},
