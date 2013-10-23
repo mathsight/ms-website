@@ -143,14 +143,15 @@
 		var ticks = ['Healthy urls', 'At risk urls'];
 		plot5 = jQuery.jqplot('chart5', [s1], {
 			title:'Number of URLs',
-			seriesColors:['#73C774', '#C7754C'],
+			seriesColors:['#73C774', '#E11D21'],
 			seriesDefaults:{
 				renderer:jQuery.jqplot.BarRenderer,
 				shadowAngle: 135,
 				rendererOptions: {
-					barDirection: 'horizontal',
+					
 					highlightMouseDown: true   ,
 					varyBarColor: true 
+					fillToZero: true
 				},
 				pointLabels: {show: true, formatString: '%d'}
 			},
@@ -163,10 +164,15 @@
 				yaxis: {
 					renderer: jQuery.jqplot.CategoryAxisRenderer,
 					ticks: ticks
-				}
+	                pad: 1.05,
+	                tickOptions: {formatString: '$%d'}
+	            }
 			}
 		});
 	});
+	
+
+	
 	</script>
 	
 	<script class="code" type="text/javascript">
