@@ -143,13 +143,18 @@
 	$(document).ready(function(){
 		line1 = [['Healthy urls', 758],['At risk urls', -3742]];
 		plot5 = jQuery.jqplot('chart5', [line1], {
+			// Only animate if we're not using excanvas (not in IE 7 or IE 8)..
+			animate: !$.jqplot.use_excanvas,
 			title:'Number of URLs',
 			seriesColors:['#00FF00', '#FF0000'],
 			seriesDefaults:{
 				renderer:jQuery.jqplot.BarRenderer,
+				shadowAngle: 135,
 				rendererOptions: {
+					barDirection: 'horizontal',
 					highlightMouseDown: true,
-					varyBarColor: true
+					varyBarColor: true,
+					fillToZero: true
 				},
 				pointLabels: {show: true, formatString: '%d'}
 			},
@@ -160,7 +165,7 @@
 				// },
 				axes: {
 					// Use a category axis on the x axis and use our custom ticks.
-					xaxis: {
+					yaxis: {
 						renderer: jQuery.jqplot.CategoryAxisRenderer
 						// ticks: ticks
 					}
