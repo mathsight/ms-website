@@ -142,8 +142,8 @@
 	
 	$(document).ready(function(){
 	
-		plot5 = jQuery.jqplot('chart5', [[[758]], [[-3742]]], {
-
+		plot5 = jQuery.jqplot('chart5', [[[758, 'No. urls']], [[-3742, 'No. urls']]], {
+			
 			// Only animate if we're not using excanvas (not in IE 7 or IE 8)..
 			animate: !$.jqplot.use_excanvas,
 			title:'Number of URLs',
