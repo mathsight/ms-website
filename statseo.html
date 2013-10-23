@@ -142,7 +142,7 @@
 	
 	$(document).ready(function(){
 	
-		plot5 = jQuery.jqplot('chart5', [[ 758, -3742], ['Healthy urls', 'At risk urls']], {
+		plot5 = jQuery.jqplot('chart5', [[758], [-3742]], {
 			// Only animate if we're not using excanvas (not in IE 7 or IE 8)..
 			animate: !$.jqplot.use_excanvas,
 			title:'Number of URLs',
@@ -158,6 +158,11 @@
 				}
 				// pointLabels: {show: true, formatString: '%d'}
 			},
+			
+			series:[
+			            {label:'Healthy urls'},
+			            {label:'At risk urls'}
+			        ],
 			legend: {
 					show: true,
 					location: 'e',
