@@ -146,7 +146,6 @@
 			seriesColors:['#73C774', '#E11D21'],
 			seriesDefaults:{
 				renderer:jQuery.jqplot.BarRenderer,
-				shadowAngle: 135,
 				rendererOptions: {
 					highlightMouseDown: true   ,
 					varyBarColor: true ,
@@ -160,9 +159,11 @@
 			// 	placement: 'outside'
 			// },
 			axes: {
-				yaxis: {
+				xaxis: {
 					renderer: jQuery.jqplot.CategoryAxisRenderer,
-					ticks: ticks,
+					ticks: ticks
+				}
+				yaxis: {
 	                pad: 1.05,
 	                tickOptions: {formatString: '$%d'}
 	            }
