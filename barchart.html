@@ -1,39 +1,46 @@
 <!doctype html>
 <html>
-	<head>
-		<title>Bar Chart</title>
-		<script src="https://raw.github.com/nnnick/Chart.js/master/site/assets/Chart.js"></script>
-		<meta name = "viewport" content = "initial-scale = 1, user-scalable = no">
-		<style>
-			canvas{
-			}
-		</style>
-	</head>
-	<body>
+<head>
+		
+	<script src="https://d396qusza40orc.cloudfront.net/startup%2Fcode%2Fjquery.js"></script>
+	<script src="charts/Chart.js"></script>
+	<script type='text/javascript' src='knockout-2.3.0.js'></script>
+	
+</head>
+<body>
+	
+	<div>
 		<canvas id="canvas" height="450" width="600"></canvas>
-
-
-	<script>
-
-		var barChartData = {
-			labels : ["January","February","March","April","May","June","July"],
-			datasets : [
-				{
-					fillColor : "rgba(220,220,220,0.5)",
-					strokeColor : "rgba(220,220,220,1)",
-					data : [65,59,90,81,56,55,40]
-				},
-				{
-					fillColor : "rgba(151,187,205,0.5)",
-					strokeColor : "rgba(151,187,205,1)",
-					data : [28,48,40,19,96,27,100]
-				}
-			]
-			
+	</div>
+	
+	<div>
+		<button data-bind="click: function(){ loadDataset(1) }">Dataset 1</button>&nbsp;
+		<button data-bind="click: function(){ loadDataset(2) }">Dataset 2</button>
+	</div>
+	
+ 
+	<script type="text/javascript">
+	
+	function MainViewModel(data) {
+		var self = this;
+		var ctx = $("#canvas").get(0).getContext("2d");
+		
+		self.lineChartData = ko.observable();
+		
+		self.loadDataset = function(id) {
+			$.get("/data/"+id, function(data) {
+				self.lineChartData(data);	
+				var myLine = new Chart(ctx).Line( vm.lineChartData() );
+			});
 		}
-
-	var myLine = new Chart(document.getElementById("canvas").getContext("2d")).Bar(barChartData);
+		
+	}
+	
+	var vm = new MainViewModel();
+	ko.applyBindings(vm);
+	vm.loadDataset(1);
 	
 	</script>
-	</body>
+	
+</body>
 </html>
