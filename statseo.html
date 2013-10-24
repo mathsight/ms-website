@@ -132,11 +132,14 @@
 	        "bProcessing": true,
 	        "sAjaxSource": "/json/onsite_summary.json",
 	        "sAjaxDataProp": "onsite",
-			"aoColumns": [{
-			    "sType": 'numeric',
-			    "fnRender": RenderDecimalNumber,
-			    oCustomInfo{"decimalPlaces":2}
-			    }]
+		    "aoColumns": [
+		                   null,
+		                   null,
+		                   null,
+		                   { "sType": "numeric-comma" },
+		                   null,
+						   null
+		               ]
 	    } );
 	} );
 	
