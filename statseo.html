@@ -131,7 +131,12 @@
 	    $('#example3').dataTable( {
 	        "bProcessing": true,
 	        "sAjaxSource": "/json/onsite_summary.json",
-	        "sAjaxDataProp": "onsite"
+	        "sAjaxDataProp": "onsite",
+			aoColumns: [{
+			    sType: 'numeric',
+			    fnRender: RenderDecimalNumber,
+			    oCustomInfo{"decimalPlaces":2}
+			    }]
 	    } );
 	} );
 	
