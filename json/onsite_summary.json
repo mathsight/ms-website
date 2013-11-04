@@ -1,5 +1,5 @@
 {
-	"onsite": [
+	"onsite":[
 		["1" ,"Number of images in body" ,"3650" ,"-0.179691683355526" ,"105" ,"-0.00538330119840213" ],
 		["2" ,"Proximity of title tag words to external bound hyperlinks" ,"3755" ,"-0.185074984553928" ,"0" ,"0" ],
 		["3" ,"Number of scripts" ,"5" ,"-0.000300103861517976" ,"3750" ,"-0.18477488069241" ],
@@ -10,5 +10,25 @@
 		["8" ,"Title total number of syllables" ,"3596" ,"-0.177069020505992" ,"159" ,"-0.00800596404793609" ],
 		["9" ,"Anchor number of unique words" ,"3550" ,"-0.174994235685752" ,"205" ,"-0.0100807488681758" ],
 		["10" ,"Total number of dictionary words" ,"3720" ,"-0.183241040479361" ,"35" ,"-0.00183394407456724" ]
+	]
+	"offsite":[
+		["number_of_images_missing_alt", 2,178,-0.25,1,0],
+		["number_of_embedded_javascripts", 3,82,-0,97,-0.25],
+		["title_number_of_dictionary_words", 4,0,0,179,-0.25],
+		["number_of_images", 5,77,-0.1,102,-0.16],
+		["number_of_scripts", 6,29,-0.02,150,-0.24],
+		["ratio_of_common_words_to_total", 7,148,-0.16,31,-0.09],
+		["number_of_inline_css_styles", 8,61,-0.11,118,-0.15],
+		["number_of_images_in_body", 9,175,-0.25,4,0],
+		["html5_detected", 10,20,-0.03,159,-0.22],
+		["maximum_length_of_h1", 11,179,-0.25,0,0],
+		["ratio_of_rare_words_to_total", 12,20,-0.03,159,-0.22],
+		["average_length_of_h1", 13,179,-0.25,0,0],
+		["number_of_embedded_styles", 14,61,-0.11,118,-0.14],
+		["number_of_iframes", 15,23,-0.02,156,-0.23],
+		["number_of_external_css_styles", 16,179,-0.25,0,0],
+		["maximum_length_of_h2", 17,179,-0.25,0,0],
+		["average_length_of_h2", 18,97,-0.03,82,-0.23],
+		["number_of_dhtml_scripts", 19,24,-0.02,155,-0.23]
 	]
 }
