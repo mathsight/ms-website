@@ -167,10 +167,12 @@
 	</script>
 	
 	<script>
-	function myFunction(name,job)
-	{
-	alert("Welcome " + name + ", the " + job);
-	}
+	function doStuff()
+	      {
+	        var nameElement = document.getElementById("inputURL");
+	        var theUrl = nameElement.value;
+	        document.getElementById("someDiv").innerHTML += theUrl;
+	      }
 	</script>
 	
 	
@@ -300,15 +302,17 @@
 		        <input type="url" class="form-control" id="inputURL">
 		      </div>
 
-		      <button onclick="myFunction('Harry Potter','Wizard')" type="submit" class="btn btn-primary" id="submitYes">
+		      <button onclick="doStuff()" type="submit" class="btn btn-primary" id="submitYes">
 		        submit!
 		      </button>
-			  <div id="content">Hello <span></span></div>
+			  <div id="someDiv">
+				  for 
+			  </div>
 		      <hr>
 			  
 			  <!-- Special typography from Bootstrap for lead paragraph. -->
 			  <!-- http://twitter.github.io/bootstrap/base-css.html#typography -->
-			  <p class="lead">for www.leighmans.com</p>
+			  <p class="lead" >for www.leighmans.com</p>
 		  </div>
 	  </div>
 	  
