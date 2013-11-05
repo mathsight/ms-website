@@ -166,6 +166,13 @@
 	
 	</script>
 	
+	<script>
+	function myFunction(name,job)
+	{
+	alert("Welcome " + name + ", the " + job);
+	}
+	</script>
+	
 	
 	<script class="code" type="text/javascript">
 	
@@ -292,11 +299,8 @@
 		        </label>
 		        <input type="url" class="form-control" id="inputURL">
 		      </div>
-		      <label class="checkbox">
-		        <input type="checkbox">
-		        Remember me
-		      </label>
-		      <button type="submit" class="btn btn-primary" id="submitYes">
+
+		      <button onclick="myFunction('Harry Potter','Wizard')" type="submit" class="btn btn-primary" id="submitYes">
 		        submit!
 		      </button>
 			  <div id="content">Hello <span></span></div>
@@ -408,7 +412,9 @@
 		  </div>
 
 		  <hr>
-	
+		  <p>
+		  <a href="/onsite_SQ_drilldown.html">Click for onsite drilldown</a>
+		  </p>
 		  <div class="spacer"></div>
 		  <hr>
 	  
@@ -463,7 +469,9 @@
 					  </div>
 
 					  <hr>
-	
+					  <p>
+					  <a href="/offsite_SQ_drilldown.html">Click for offsite drilldown</a>
+					  </p>
 					  <div class="spacer"></div>
 					  <hr>
 				  </div>
