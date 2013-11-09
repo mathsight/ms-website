@@ -141,6 +141,24 @@
 		                   null,
 		                   null,
 		                   null,
+		                   null,
+						   {"bVisible": false},
+						   {"bVisible": false}
+		               ]
+	    } );
+	} );
+	
+	$(document).ready(function() {
+	    $('#example3b').dataTable( {
+	        "bProcessing": true,
+	        "sAjaxSource": "/json/summary/23_rawpearls_Xhat_05-Nov-13.json",
+	        "sAjaxDataProp": "onsite",
+		    "aoColumns": [
+		                   null,
+		                   null,
+						   {"bVisible": false},
+						   {"bVisible": false},
+		                   null,
 		                   null
 		               ]
 	    } );
@@ -150,14 +168,30 @@
 	    $('#example4').dataTable( {
 	        "bProcessing": true,
 	        "sAjaxSource": "/json/summary/23_rawpearls_XhatOff_05-Nov-13.json",
-	        "sAjaxDataProp": "offsite",
+			"sAjaxDataProp": "offsite",
+			"aoColumns": [
+			null,
+			null,
+			null,
+			null,
+			{"bVisible": false},
+			{"bVisible": false}
+			]
+	    } );
+	} );
+	
+	$(document).ready(function() {
+	    $('#example4b').dataTable( {
+	        "bProcessing": true,
+	        "sAjaxSource": "/json/summary/23_rawpearls_XhatOff_05-Nov-13.json",
+			"sAjaxDataProp": "offsite",
 		    "aoColumns": [
 		                   null,
 		                   null,
+						   {"bVisible": false},
+						   {"bVisible": false},
 		                   null,
-		                   null,
-		                   null,
-						   null
+		                   null
 		               ]
 	    } );
 	} );
