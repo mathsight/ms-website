@@ -173,10 +173,10 @@
 		
         var nameElement = document.getElementById("inputURL");
         var theUrl = nameElement.value;
-		var jsonFileName = "/json/summary/" += theUrl += ".json";
+		// var jsonFileName = "/json/summary/" += theUrl += ".json";
 	    $('#example4').dataTable( {
 	        "bProcessing": true,
-	        "sAjaxSource": jsonFileName,
+	        "sAjaxSource": theUrl,
 			"sAjaxDataProp": "offsite",
 			"aaSorting": [[ 2, "desc" ]],
 			"aoColumns": [
