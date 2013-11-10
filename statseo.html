@@ -13,8 +13,7 @@
 	<script src="//netdna.bootstrapcdn.com/bootstrap/3.0.2/js/bootstrap.min.js"></script>
 	<!-- Optional theme -->
 	<link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.0.2/css/bootstrap-theme.min.css">
-	
-	
+
 	<script src="//ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
 	
 	<script src="dist/jquery.jqplot.min.js"></script>
@@ -171,9 +170,13 @@
 	} );
 	
 	$(document).ready(function() {
+		
+        var nameElement = document.getElementById("inputURL");
+        var theUrl = nameElement.value;
+		var testString = "/json/summary/23_rawpearls_XhatOff_05-Nov-13.json";
 	    $('#example4').dataTable( {
 	        "bProcessing": true,
-	        "sAjaxSource": "/json/summary/23_rawpearls_XhatOff_05-Nov-13.json",
+	        "sAjaxSource": testString,
 			"sAjaxDataProp": "offsite",
 			"aaSorting": [[ 2, "desc" ]],
 			"aoColumns": [
