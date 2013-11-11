@@ -172,8 +172,8 @@
 	$(document).ready(function() {
 		
         var nameElement = document.getElementById("inputURL");
-        var theUrl = nameElement.value;
-		// var jsonFileName = "/json/summary/" += theUrl += ".json";
+        var url = nameElement.value;
+		var jsonFileName = "/json/summary/"" + url + "".json";
 	    $('#example4').dataTable( {
 	        "bProcessing": true,
 	        "sAjaxSource": theUrl,
