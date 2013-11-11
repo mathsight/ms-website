@@ -10,7 +10,10 @@
 	<link rel="stylesheet" href="https://d396qusza40orc.cloudfront.net/startup%2Fcode%2Fsocial-buttons.css">    
 	<script src="//ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.js"></script>
 	<script src="https://d396qusza40orc.cloudfront.net/startup%2Fcode%2Fbootstrap.js"></script>
-	
+	<script src="//netdna.bootstrapcdn.com/bootstrap/3.0.2/js/bootstrap.min.js"></script>
+	<!-- Optional theme -->
+	<link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.0.2/css/bootstrap-theme.min.css">
+
 	<script src="//ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
 	
 	<script src="dist/jquery.jqplot.min.js"></script>
@@ -135,23 +138,90 @@
 	$(document).ready(function() {
 	    $('#example3').dataTable( {
 	        "bProcessing": true,
-	        "sAjaxSource": "/json/onsite_summary.json",
+	        "sAjaxSource": "/json/summary/23_rawpearls_Xhat_05-Nov-13.json",
 	        "sAjaxDataProp": "onsite",
+			"aaSorting": [[ 2, "desc" ]],
 		    "aoColumns": [
 		                   null,
 		                   null,
 		                   null,
-		                   { "sType": "numeric-comma" },
 		                   null,
-						   null
+						   {"bVisible": false},
+						   {"bVisible": false}
+		               ]
+	    } );
+	} );
+	
+	$(document).ready(function() {
+	    $('#example3b').dataTable( {
+	        "bProcessing": true,
+	        "sAjaxSource": "/json/summary/23_rawpearls_Xhat_05-Nov-13.json",
+	        "sAjaxDataProp": "onsite",
+			"aaSorting": [[ 4, "desc" ]],
+		    "aoColumns": [
+		                   null,
+		                   null,
+						   {"bVisible": false},
+						   {"bVisible": false},
+		                   null,
+		                   null
+		               ]
+	    } );
+	} );
+	
+	$(document).ready(function() {
+		
+        var nameElement = document.getElementById("inputURL");
+        var url = nameElement.value;
+		var jsonFileName = "/json/summary/"" + url + "".json";
+	    $('#example4').dataTable( {
+	        "bProcessing": true,
+	        "sAjaxSource": theUrl,
+			"sAjaxDataProp": "offsite",
+			"aaSorting": [[ 2, "desc" ]],
+			"aoColumns": [
+			null,
+			null,
+			null,
+			null,
+			{"bVisible": false},
+			{"bVisible": false}
+			]
+	    } );
+	} );
+	
+	$(document).ready(function() {
+	    $('#example4b').dataTable( {
+	        "bProcessing": true,
+	        "sAjaxSource": "/json/summary/23_rawpearls_XhatOff_05-Nov-13.json",
+			"sAjaxDataProp": "offsite",
+			"aaSorting": [[ 4, "desc" ]],
+		    "aoColumns": [
+		                   null,
+		                   null,
+						   {"bVisible": false},
+						   {"bVisible": false},
+		                   null,
+		                   null
 		               ]
 	    } );
 	} );
 	
 	</script>
 	
+	<script>
+	function doStuff()
+	      {
+	        var nameElement = document.getElementById("inputURL");
+	        var theUrl = nameElement.value;
+	        document.getElementById("someDiv").innerHTML += theUrl;
+	      }
+	</script>
+	
 	
 	<script class="code" type="text/javascript">
+	
+	$("#content span").html("World!");
 	
 	$(document).ready(function(){
 		var s1 = [758, 'Num. urls']
@@ -198,6 +268,49 @@
 		});
 	
 
+		$(document).ready(function(){
+			var s1 = [26, 'Num. urls']
+			var s2 = [-37, 'Num. urls']
+			//var ticks = ['Healthy urls', 'At risk urls']
+			plot5 = jQuery.jqplot('chart6', [[s1],[s2]], {
+			
+				// Only animate if we're not using excanvas (not in IE 7 or IE 8)..
+				animate: !$.jqplot.use_excanvas,
+				// seriesColors:['#00FF00', '#FF0000'],
+				series:[
+				            {label:'Healthy links', seriesColors: ['#00FF00']},
+				            {label:'At risk links', seriesColors: ['#FF0000']}
+				        ],
+				seriesDefaults:{
+					renderer:jQuery.jqplot.BarRenderer,
+					shadowAngle: 135,
+					rendererOptions: {
+						barDirection: 'horizontal',
+						highlightMouseDown: true,
+						//varyBarColor: true,
+						fillToZero: true
+					}
+					// pointLabels: {show: true, formatString: '%d'}
+				},
+			
+
+					
+				legend: {
+						show: true,
+						location: 'e',
+						placement: 'outside'
+					},
+
+					axes: {
+						// Use a category axis on the x axis and use our custom ticks.
+						yaxis: {
+							renderer: jQuery.jqplot.CategoryAxisRenderer
+							//ticks: ticks
+						}
+
+					}
+				});
+			});
 	
 		</script>
 	
@@ -268,10 +381,27 @@
 	    
       <div class="row-fluid subheading">
 		  <div class="span12">
-			  <!-- Special typography from Bootstrap for lead paragraph. -->
-			  <!-- http://twitter.github.io/bootstrap/base-css.html#typography -->
-			  <p class="lead">for www.leighmans.com</p>
-		  </div>
+		      <div class="form-group">
+		        <label>
+		          Enter your domain URL
+		        </label>
+		        <input type="url" class="form-control" id="inputURL">
+		      </div>
+
+		      <button onclick="doStuff()" type="submit" class="btn btn-primary" id="submitYes">
+		        submit!
+		      </button>
+			  <div id="someDiv" class="lead" >
+			      <hr>
+				  <!-- Special typography from Bootstrap for lead paragraph. -->
+				  <!-- http://twitter.github.io/bootstrap/base-css.html#typography -->
+				  <!-- <p >for </p> -->
+				  for 
+			  </div>
+			  
+			  <hr>
+			</div>  
+			
 	  </div>
 	  
 	  <div class="well">
@@ -343,115 +473,211 @@
 	  
 	  <div class="row-fluid pitch">
 		  		  <hr>
+				  
+				  
 		  <!-- <h2>Influential Feature Delta to Winning Mean</h2>
 		  <p>For top 10 features on aggregate</p> -->
 		  <div id="dynamic">
-			  <table cellpadding="0" cellspacing="0" border="0" class="display" id="example3">
-				  <thead>
-					  <tr>
-						  <th width="5%">Influence rank</th>
-						  <th width="55%">Feature</th>
-						  <th width="10%">#URLs at risk</th>
-						  <th width="10%">Average at risk SQ</th>
-						  <th width="10%">#URLs healthy</th>
-						  <th width="10%">Average healthy SQ</th>
-					  </tr>
-				  </thead>
-				  <tbody>
+			  
+			  <div class="panel panel-danger">
+				  <div class="panel-heading">
+					  <h3 class="panel-title">
+						  URLs at risk
+					  </h3>
+				  </div>
+				  <div class="panel-body">
+			  
+					  <table cellpadding="0" cellspacing="0" border="0" class="display" id="example3">
+						  <thead>
+							  <tr>
+								  <th width="5%">Influence rank</th>
+								  <th width="55%">Feature</th>
+								  <th width="10%">#URLs at risk</th>
+								  <th width="10%">Average at risk SQ</th>
+								  <th width="10%">#URLs healthy</th>
+								  <th width="10%">Average healthy SQ</th>
+							  </tr>
+						  </thead>
+						  <tbody>
 					  
-				  </tbody>
-				  <tfoot>
-					  <tr>
-						  <th>Influence rank</th>
-						  <th>Feature</th>
-						  <th>#URLs at risk</th>
-						  <th>Average at risk SQ</th>
-						  <th>#URLs healthy</th>
-						  <th>Average healthy SQ</th>
-					  </tr>
-				  </tfoot>
-			  </table>
-		  </div>
+						  </tbody>
+						  <tfoot>
+							  <tr>
+								  <th>Influence rank</th>
+								  <th>Feature</th>
+								  <th>#URLs at risk</th>
+								  <th>Average at risk SQ</th>
+								  <th>#URLs healthy</th>
+								  <th>Average healthy SQ</th>
+							  </tr>
+						  </tfoot>
+					  </table>
+				  </div>
+			  </div>
+		  <hr>
 
+		  <div id="dynamic">
+			  <div class="panel panel-success" id="healthyBackLinks">
+				  <div class="panel-heading">
+					  <h3 class="panel-title">
+						  Healthy URLs
+					  </h3>
+				  </div>
+				  <div class="panel-body">
+			  
+					  <table cellpadding="0" cellspacing="0" border="0" class="display" id="example3b">
+						  <thead>
+							  <tr>
+								  <th width="5%">Influence rank</th>
+								  <th width="55%">Feature</th>
+								  <th width="10%">#URLs at risk</th>
+								  <th width="10%">Average at risk SQ</th>
+								  <th width="10%">#URLs healthy</th>
+								  <th width="10%">Average healthy SQ</th>
+							  </tr>
+						  </thead>
+						  <tbody>
+					  
+						  </tbody>
+						  <tfoot>
+							  <tr>
+								  <th>Influence rank</th>
+								  <th>Feature</th>
+								  <th>#URLs at risk</th>
+								  <th>Average at risk SQ</th>
+								  <th>#URLs healthy</th>
+								  <th>Average healthy SQ</th>
+							  </tr>
+						  </tfoot>
+					  </table>
+				  </div>
+		  
+			  </div>
 		  <hr>
 		  <p>
-		  <a href="/demo.html">Return to top level summary</a>
+		  <a href="/onsite_SQ_drilldown.html">Click for onsite drilldown</a>
 		  </p>
 		  <div class="spacer"></div>
 		  <hr>
 	  
 	  
 	  
-	  <div class = "well">
+		  <div class = "well">
 		  
-		  <h2>Offsite pages by readability</h2>
-		  <p></p>
-	  </div>
-		  
-	  <!-- <p>
-		  <a href="/offsite.html">Click for offsite readability feature summary</a>
-		  </p> -->
-		  
-
-		  <!-- Beyond this part the marketing copy begins. -->
-		  <!-- https://developer.mozilla.org/en-US/docs/Web/CSS/text-align -->
-		  <!-- http://twitter.github.io/bootstrap/base-css.html#images -->
-		  <!-- http://placehold.it -->
-		  <div class="row-fluid">
-
-			  <div class="span4 copy">
- 
-				  <table class="table table-striped table-bordered table-condensed">
-					  <thead>
-						  <tr class='clickableRow' href="/offsite.html">
-							  <th>#</th>
-							  <th>Offsite backlink quality</th>
-							  <th>Number of links</th>
-							  <th>Percent of links</th>
-						  </tr>
-					  </thead>
-					  <tbody>
-						  <tr class='clickableRow' href="/offsite.html">
-							  <td>1</td>
-							  <td>Good</td>
-							  <td>24</td>
-							  <td>4.6%</td>
-						  </tr>
-						  <tr class='clickableRow' href="/offsite.html">
-							  <td>2</td>
-							  <td>OK</td>
-							  <td>397</td>
-							  <td>75.6%</td>
-						  </tr>
-						  <tr class='clickableRow' href="/offsite.html">
-							  <td>3</td>
-							  <td>Bad</td>
-							  <td>104</td>
-							  <td>29.8%</td>
-						  </tr>
-						  <tr class='clickableRow' href="/offsite.html">
-							  <td>TOTAL</td>
-							  <td></td>
-							  <td>525</td>
-							  <td>100%</td>
-						  </tr>
-					  </tbody>
-				  </table>
-			  
-      
-			  </div>
-		
-			  <div class="span6 offset1 asset">
-	
-				  <!-- <img class="img-polaroid" alt="Placeholder" src="http://placehold.it/480x300"> -->
-				  <div class='clickableRow' href="/offsite.html" id="chart2" style="height:300px; width:500px;"></div>
-				  <div class="code prettyprint">
-					  <pre class="code prettyprint brush: js"></pre>
-			  
-				  </div>
-          
-			  </div>
+			  <h2>Offsite links summary</h2>
+			  <p></p>
 		  </div>
+		  
+		  <div class='clickableRow' href="/offsite_SQ_drilldown.html" id="chart6" style="margin-top:20px; margin-left:20px; width:300px; height:300px;"></div>
+		  <pre class="code brush:js"></pre>
+		  
+		  <!-- <p>
+			  <a href="/offsite.html">Click for offsite readability feature summary</a>
+			  </p> -->
+		  
+
+			  <!-- Beyond this part the marketing copy begins. -->
+			  <!-- https://developer.mozilla.org/en-US/docs/Web/CSS/text-align -->
+			  <!-- http://twitter.github.io/bootstrap/base-css.html#images -->
+			  <!-- http://placehold.it -->
+			  <div class="row-fluid">
+				  <hr>
+				  
+				  <div id="dynamic">
+					 <div class="panel panel-danger">
+						  <div class="panel-heading">
+							  <h3 class="panel-title">
+								  Harmful backlinks
+							  </h3>
+						  </div>
+						  <div class="panel-body">
+				  
+							  <!-- <h2>Influential Feature Delta to Winning Mean</h2>
+								  <p>For top 10 features on aggregate</p> -->
+					  
+								  <table cellpadding="0" cellspacing="0" border="0" class="display" id="example4">
+									  <thead>
+										  <tr>
+											  <th width="5%">Influence rank</th>
+											  <th width="55%">Feature</th>
+											  <th width="10%">#URLs at risk</th>
+											  <th width="10%">Average at risk SQ</th>
+											  <th width="10%">#URLs healthy</th>
+											  <th width="10%">Average healthy SQ</th>
+										  </tr>
+									  </thead>
+									  <tbody>
+				  
+									  </tbody>
+									  <tfoot>
+										  <tr>
+											  <th>Influence rank</th>
+											  <th>Feature</th>
+											  <th>#URLs at risk</th>
+											  <th>Average at risk SQ</th>
+											  <th>#URLs healthy</th>
+											  <th>Average healthy SQ</th>
+										  </tr>
+									  </tfoot>
+								  </table>
+							  </div>
+						  </div>
+					  <hr>
+					  <p>
+					  <a href="/offsite_SQ_drilldown.html">Click for offsite drilldown</a>
+					  </p>
+					  <div class="spacer"></div>
+					  <hr>
+					  
+				      <div class="panel panel-success" id="healthyBackLinks">
+				        <div class="panel-heading">
+				          <h3 class="panel-title">
+				            Healthy backlinks
+				          </h3>
+				        </div>
+				        <div class="panel-body">
+	  					  <table cellpadding="0" cellspacing="0" border="0" class="display" id="example4b">
+	  						  <thead>
+	  							  <tr>
+	  								  <th width="5%">Influence rank</th>
+	  								  <th width="55%">Feature</th>
+	  								  <th width="10%">#URLs at risk</th>
+	  								  <th width="10%">Average at risk SQ</th>
+	  								  <th width="10%">#URLs healthy</th>
+	  								  <th width="10%">Average healthy SQ</th>
+	  							  </tr>
+	  						  </thead>
+	  						  <tbody>
+			  
+	  						  </tbody>
+	  						  <tfoot>
+	  							  <tr>
+	  								  <th>Influence rank</th>
+	  								  <th>Feature</th>
+	  								  <th>#URLs at risk</th>
+	  								  <th>Average at risk SQ</th>
+	  								  <th>#URLs healthy</th>
+	  								  <th>Average healthy SQ</th>
+	  							  </tr>
+	  						  </tfoot>
+	  					  </table>
+				        </div>
+						
+				      </div>
+					  
+
+					  
+
+					  <hr>
+					  <p>
+					  <a href="/offsite_SQ_drilldown.html">Click for offsite drilldown</a>
+					  </p>
+					  <div class="spacer"></div>
+					  <hr>
+				  </div>
+		
+				
+			  </div>
 
 		  <!-- <div class="row-fluid section2">
 			  <div class="span5 offset1 copy copy-right">
