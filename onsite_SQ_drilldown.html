@@ -142,12 +142,12 @@
 		$('#example1').dataTable( {
 			"bProcessing": true,
 			"sAjaxSource": "/json/drilldown/5_alchemyviral_XDrill_11-Nov-13.json",
-			"sAjaxDataProp": "onsite",
+			"sAjaxDataProp": "onsite.average_backlink_flesch_reading_ease",
 			"aoColumns": [
-			        { "mData": "average_backlink_flesch_reading_ease.html_id" },
-			        { "mData": "average_backlink_flesch_reading_ease.feature_value" },
-			        { "mData": "average_backlink_flesch_reading_ease.cluster_win_mean" },
-			        { "mData": "average_backlink_flesch_reading_ease.delta" }
+			        { "mData": "html_id" },
+			        { "mData": "feature_value" },
+			        { "mData": "cluster_win_mean" },
+			        { "mData": "delta" }
 					],
 			"aaSorting": [[ 3, "desc" ]]
 		} );
