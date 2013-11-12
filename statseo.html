@@ -228,10 +228,9 @@
 		var s2 = [-3742, 'Num. urls']
 		//var ticks = ['Healthy urls', 'At risk urls']
 		plot5 = jQuery.jqplot('chart5', [[s1],[s2]], {
-			
+			title: 'Onsite URL status',
 			// Only animate if we're not using excanvas (not in IE 7 or IE 8)..
 			//animate: !$.jqplot.use_excanvas,
-			 seriesColors:['#00FF00', '#FF0000'],
 			series:[
 			            {label:'Healthy urls', seriesColors: ['#00FF00']},
 			            {label:'At risk urls', seriesColors: ['#FF0000']}
@@ -242,9 +241,10 @@
 				rendererOptions: {
 					barDirection: 'horizontal',
 					highlightMouseDown: true,
-					//varyBarColor: true,
+					varyBarColor: true,
 					fillToZero: true
-				}
+				},
+				seriesColors:['#00FF00', '#FF0000']
 				// pointLabels: {show: true, formatString: '%d'}
 			},
 			
