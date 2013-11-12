@@ -138,7 +138,7 @@
 	$(document).ready(function() {
 	    $('#example3').dataTable( {
 	        "bProcessing": true,
-	        "sAjaxSource": "/json/summary/23_rawpearls_Xhat_05-Nov-13.json",
+	        "sAjaxSource": "/json/summary/23_rawpearls_Xhat_11-Nov-13.json",
 	        "sAjaxDataProp": "onsite",
 			"aaSorting": [[ 2, "desc" ]],
 		    "aoColumns": [
@@ -155,7 +155,7 @@
 	$(document).ready(function() {
 	    $('#example3b').dataTable( {
 	        "bProcessing": true,
-	        "sAjaxSource": "/json/summary/23_rawpearls_Xhat_05-Nov-13.json",
+	        "sAjaxSource": "/json/summary/23_rawpearls_Xhat_11-Nov-13.json",
 	        "sAjaxDataProp": "onsite",
 			"aaSorting": [[ 4, "desc" ]],
 		    "aoColumns": [
@@ -171,12 +171,12 @@
 	
 	$(document).ready(function() {
 		
-        var nameElement = document.getElementById("inputURL");
-        var url = nameElement.value;
+		var nameElement = document.getElementById("inputURL");
+		var url = nameElement.value;
 		// var jsonFileName = "/json/summary/"" + url + "".json";
-	    $('#example4').dataTable( {
-	        "bProcessing": true,
-	        "sAjaxSource": "/json/summary/23_rawpearls_XhatOff_05-Nov-13.json",
+		$('#example4').dataTable( {
+			"bProcessing": true,
+			"sAjaxSource": "/json/summary/23_rawpearls_XhatOff_11-Nov-13.json",
 			"sAjaxDataProp": "offsite",
 			"aaSorting": [[ 2, "desc" ]],
 			"aoColumns": [
@@ -187,13 +187,13 @@
 			{"bVisible": false},
 			{"bVisible": false}
 			]
-	    } );
+		} );
 	} );
 	
 	$(document).ready(function() {
 	    $('#example4b').dataTable( {
 	        "bProcessing": true,
-	        "sAjaxSource": "/json/summary/23_rawpearls_XhatOff_05-Nov-13.json",
+	        "sAjaxSource": "/json/summary/23_rawpearls_XhatOff_11-Nov-13.json",
 			"sAjaxDataProp": "offsite",
 			"aaSorting": [[ 4, "desc" ]],
 		    "aoColumns": [
