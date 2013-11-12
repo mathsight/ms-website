@@ -16,20 +16,27 @@
 
 	<script src="//ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
 	
+	<!-- for jqplot charts -->
 	<script src="dist/jquery.jqplot.min.js"></script>
 	<script src="dist/plugins/jqplot.pieRenderer.min.js"></script>
 	<script src="dist/plugins/jqplot.barRenderer.min.js"></script>
 	<script src="dist/plugins/jqplot.categoryAxisRenderer.min.js"></script>
 	<script src="dist/plugins/jqplot.pointLabels.min.js"></script>
 
+	<!-- for datatables -->
 	<script src="datatables/media/js/jquery.dataTables.js"></script>
 
 	<link href="http://fonts.googleapis.com/css?family=Ubuntu:300,400,500,700,300italic,400italic,500italic,700italic" rel="stylesheet" type="text/css">
 	<link href="http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,300,400,600,700,800" 
 	rel="stylesheet" type="text/css">
-		  
+	
+	<!-- for jqplot charts -->	  
 	<link rel="stylesheet" type="text/css" href="dist/jquery.jqplot.min.css" />
-
+	
+	<!-- for nv.d3 charts -->
+	<link href="src/nv.d3.css" rel="stylesheet" type="text/css">
+	
+	<!-- for datatables -->
 	<style type="text/css" title="currentStyle">
 	@import "datatables/media/css/demo_page.css"; 
 	@import "datatables/media/css/header.ccss";
@@ -127,6 +134,37 @@
         color: #ccccff;
       }
     </style>
+    
+    
+    
+    
+    <style>
+/* for chart (nvd3) */
+body {
+  overflow-y:scroll;
+}
+
+text {
+  font: 12px sans-serif;
+}
+
+#chart1 {
+  margin: 10px;
+  min-width: 100px;
+  min-height: 100px;
+/*
+  Minimum height and width is a good idea to prevent negative SVG dimensions...
+  For example width should be =< margin.left + margin.right + 1,
+  of course 1 pixel for the entire chart would not be very useful, BUT should not have errors
+*/
+}
+
+#chart1 svg {
+  height: 500px;
+}
+
+</style>
+    
 	
 	<script>
 	jQuery(document).ready(function($) {
@@ -217,6 +255,361 @@
 	        document.getElementById("someDiv").innerHTML += theUrl;
 	      }
 	</script>
+	
+
+	
+	<script src="lib/d3.v3.js"></script>
+<script src="assets/js/nv.d3.js"></script>
+<script src="src/utils.js"></script>
+<script src="src/tooltip.js"></script>
+<script src="src/models/legend.js"></script>
+<script src="src/models/axis.js"></script>
+<script src="src/models/multiBarHorizontal.js"></script>
+<script src="src/models/multiBarHorizontalChart.js"></script>
+<script src="assets/js/stream_layers.js"></script>
+<script>
+
+// data for chart
+
+long_short_data = [ 
+  {
+    key: 'Series1',
+    color: '#d62728',
+    values: [
+      { 
+        "label" : "Group A" ,
+        "value" : -1.8746444827653
+      } , 
+      { 
+        "label" : "Group B" ,
+        "value" : -8.0961543492239
+      } , 
+      { 
+        "label" : "Group C" ,
+        "value" : -0.57072943117674
+      } , 
+      { 
+        "label" : "Group D" ,
+        "value" : -2.4174010336624
+      } , 
+      {
+        "label" : "Group E" ,
+        "value" : -0.72009071426284
+      } , 
+      { 
+        "label" : "Group F" ,
+        "value" : -0.77154485523777
+      } , 
+      { 
+        "label" : "Group G" ,
+        "value" : -0.90152097798131
+      } , 
+      {
+        "label" : "Group H" ,
+        "value" : -0.91445417330854
+      } , 
+      { 
+        "label" : "Group I" ,
+        "value" : -0.055746319141851
+      }
+    ]
+  },
+  {
+    key: 'Series2',
+    color: '#1f77b4',
+    values: [
+      { 
+        "label" : "Group A" ,
+        "value" : 25.307646510375
+      } , 
+      { 
+        "label" : "Group B" ,
+        "value" : 16.756779544553
+      } , 
+      { 
+        "label" : "Group C" ,
+        "value" : 18.451534877007
+      } , 
+      { 
+        "label" : "Group D" ,
+        "value" : 8.6142352811805
+      } , 
+      {
+        "label" : "Group E" ,
+        "value" : 7.8082472075876
+      } , 
+      { 
+        "label" : "Group F" ,
+        "value" : 5.259101026956
+      } , 
+      { 
+        "label" : "Group G" ,
+        "value" : 0.30947953487127
+      } , 
+      { 
+        "label" : "Group H" ,
+        "value" : 0
+      } , 
+      { 
+        "label" : "Group I" ,
+        "value" : 0 
+      }
+    ]
+  },
+  {
+    key: 'Series3',
+    color: '#2ca02c',
+    values: [
+      { 
+        "label" : "Group A" ,
+        "value" : -25.307646510375
+      } , 
+      { 
+        "label" : "Group B" ,
+        "value" : 16.756779544553
+      } , 
+      { 
+        "label" : "Group C" ,
+        "value" : -18.451534877007
+      } , 
+      { 
+        "label" : "Group D" ,
+        "value" : 8.6142352811805
+      } , 
+      {
+        "label" : "Group E" ,
+        "value" : -7.8082472075876
+      } , 
+      { 
+        "label" : "Group F" ,
+        "value" : 5.259101026956
+      } , 
+      { 
+        "label" : "Group G" ,
+        "value" : -0.30947953487127
+      } , 
+      { 
+        "label" : "Group H" ,
+        "value" : 0
+      } , 
+      { 
+        "label" : "Group I" ,
+        "value" : 0 
+      }
+    ]
+  }
+];
+
+
+
+long_short_pos_data = [ 
+  {
+    key: 'Series1',
+    color: '#d62728',
+    values: [
+      { 
+        "label" : "Group A" ,
+        "value" : 1.8746444827653
+      } , 
+      { 
+        "label" : "Group B" ,
+        "value" : 8.0961543492239
+      } , 
+      { 
+        "label" : "Group C" ,
+        "value" : 0.57072943117674
+      } , 
+      { 
+        "label" : "Group D" ,
+        "value" : 2.4174010336624
+      } , 
+      {
+        "label" : "Group E" ,
+        "value" : 0.72009071426284
+      } , 
+      { 
+        "label" : "Group F" ,
+        "value" : 0.77154485523777
+      } , 
+      { 
+        "label" : "Group G" ,
+        "value" : 0.90152097798131
+      } , 
+      {
+        "label" : "Group H" ,
+        "value" : 0.91445417330854
+      } , 
+      { 
+        "label" : "Group I" ,
+        "value" : 0.055746319141851
+      }
+    ]
+  },
+  {
+    key: 'Series2',
+    color: '#1f77b4',
+    values: [
+      { 
+        "label" : "Group A" ,
+        "value" : 25.307646510375
+      } , 
+      { 
+        "label" : "Group B" ,
+        "value" : 16.756779544553
+      } , 
+      { 
+        "label" : "Group C" ,
+        "value" : 18.451534877007
+      } , 
+      { 
+        "label" : "Group D" ,
+        "value" : 8.6142352811805
+      } , 
+      {
+        "label" : "Group E" ,
+        "value" : 7.8082472075876
+      } , 
+      { 
+        "label" : "Group F" ,
+        "value" : 5.259101026956
+      } , 
+      { 
+        "label" : "Group G" ,
+        "value" : 0.30947953487127
+      } , 
+      { 
+        "label" : "Group H" ,
+        "value" : 0
+      } , 
+      { 
+        "label" : "Group I" ,
+        "value" : 0 
+      }
+    ]
+  }
+];
+
+
+long_short_neg_data = [ 
+  {
+    key: 'Series1',
+    color: '#d62728',
+    values: [
+      { 
+        "label" : "Group A" ,
+        "value" : -1.8746444827653
+      } , 
+      { 
+        "label" : "Group B" ,
+        "value" : -8.0961543492239
+      } , 
+      { 
+        "label" : "Group C" ,
+        "value" : -0.57072943117674
+      } , 
+      { 
+        "label" : "Group D" ,
+        "value" : -2.4174010336624
+      } , 
+      {
+        "label" : "Group E" ,
+        "value" : -0.72009071426284
+      } , 
+      { 
+        "label" : "Group F" ,
+        "value" : -0.77154485523777
+      } , 
+      { 
+        "label" : "Group G" ,
+        "value" : -0.90152097798131
+      } , 
+      {
+        "label" : "Group H" ,
+        "value" : -0.91445417330854
+      } , 
+      { 
+        "label" : "Group I" ,
+        "value" : -0.055746319141851
+      }
+    ]
+  },
+  {
+    key: 'Series2',
+    color: '#1f77b4',
+    values: [
+      { 
+        "label" : "Group A" ,
+        "value" : -25.307646510375
+      } , 
+      { 
+        "label" : "Group B" ,
+        "value" : -16.756779544553
+      } , 
+      { 
+        "label" : "Group C" ,
+        "value" : -18.451534877007
+      } , 
+      { 
+        "label" : "Group D" ,
+        "value" : -8.6142352811805
+      } , 
+      {
+        "label" : "Group E" ,
+        "value" : -7.8082472075876
+      } , 
+      { 
+        "label" : "Group F" ,
+        "value" : -5.259101026956
+      } , 
+      { 
+        "label" : "Group G" ,
+        "value" : -0.30947953487127
+      } , 
+      { 
+        "label" : "Group H" ,
+        "value" : 0
+      } , 
+      { 
+        "label" : "Group I" ,
+        "value" : 0 
+      }
+    ]
+  }
+];
+
+
+
+
+var chart;
+nv.addGraph(function() {
+  chart = nv.models.multiBarHorizontalChart()
+      .x(function(d) { return d.label })
+      .y(function(d) { return d.value })
+      .margin({top: 30, right: 20, bottom: 50, left: 175})
+      //.showValues(true)
+      //.tooltips(false)
+      .barColor(d3.scale.category20().range())
+      .transitionDuration(250)
+      .stacked(true)
+      //.showControls(false);
+
+  chart.yAxis
+      .tickFormat(d3.format(',.2f'));
+
+  d3.select('#chart1 svg')
+      .datum(long_short_data)
+      .call(chart);
+
+  nv.utils.windowResize(chart.update);
+
+  chart.dispatch.on('stateChange', function(e) { nv.log('New State:', JSON.stringify(e)); });
+
+  return chart;
+});
+
+
+
+</script>
 	
 	
 	<script class="code" type="text/javascript">
@@ -412,10 +805,16 @@
 	  <a href="/onsite_SQ_drilldown.html">Click for onsite influential feature summary</a>
 	  </p> -->
 		 
+		 <div id="chart1" class='with-3d-shadow with-transitions'>
+    <svg></svg>
+  </div>
+		 
 
+<!-- 
 		  <div class='clickableRow' href="/onsite_SQ_drilldown.html" id="chart5" style="margin-top:20px; margin-left:20px; width:300px; height:300px;"></div>
 		  <pre class="code brush:js"></pre>
 	  
+ -->
 	  <!-- <div class="row-fluid"> -->
 
 		  <!-- We define a new 'actions' div to contain statistics, order, and share buttons.-->
