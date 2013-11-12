@@ -16,20 +16,27 @@
 
 	<script src="//ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
 	
+	<!-- for jqplot charts -->
 	<script src="dist/jquery.jqplot.min.js"></script>
 	<script src="dist/plugins/jqplot.pieRenderer.min.js"></script>
 	<script src="dist/plugins/jqplot.barRenderer.min.js"></script>
 	<script src="dist/plugins/jqplot.categoryAxisRenderer.min.js"></script>
 	<script src="dist/plugins/jqplot.pointLabels.min.js"></script>
 
+	<!-- for datatables -->
 	<script src="datatables/media/js/jquery.dataTables.js"></script>
 
 	<link href="http://fonts.googleapis.com/css?family=Ubuntu:300,400,500,700,300italic,400italic,500italic,700italic" rel="stylesheet" type="text/css">
 	<link href="http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,300,400,600,700,800" 
 	rel="stylesheet" type="text/css">
-		  
+	
+	<!-- for jqplot charts -->	  
 	<link rel="stylesheet" type="text/css" href="dist/jquery.jqplot.min.css" />
-
+	
+	<!-- for nv.d3 charts -->
+	<link href="src/nv.d3.css" rel="stylesheet" type="text/css">
+	
+	<!-- for datatables -->
 	<style type="text/css" title="currentStyle">
 	@import "datatables/media/css/demo_page.css"; 
 	@import "datatables/media/css/header.ccss";
@@ -127,6 +134,37 @@
         color: #ccccff;
       }
     </style>
+    
+    
+    
+    
+    <style>
+/* for chart (nvd3) */
+body {
+  overflow-y:scroll;
+}
+
+text {
+  font: 12px sans-serif;
+}
+
+#chart1 {
+  margin: 10px;
+  min-width: 100px;
+  min-height: 100px;
+/*
+  Minimum height and width is a good idea to prevent negative SVG dimensions...
+  For example width should be =< margin.left + margin.right + 1,
+  of course 1 pixel for the entire chart would not be very useful, BUT should not have errors
+*/
+}
+
+#chart1 svg {
+  height: 500px;
+}
+
+</style>
+    
 	
 	<script>
 	jQuery(document).ready(function($) {
@@ -138,7 +176,7 @@
 	$(document).ready(function() {
 	    $('#example3').dataTable( {
 	        "bProcessing": true,
-	        "sAjaxSource": "/json/summary/23_rawpearls_Xhat_05-Nov-13.json",
+	        "sAjaxSource": "/json/summary/23_rawpearls_Xhat_11-Nov-13.json",
 	        "sAjaxDataProp": "onsite",
 			"aaSorting": [[ 2, "desc" ]],
 		    "aoColumns": [
@@ -155,7 +193,7 @@
 	$(document).ready(function() {
 	    $('#example3b').dataTable( {
 	        "bProcessing": true,
-	        "sAjaxSource": "/json/summary/23_rawpearls_Xhat_05-Nov-13.json",
+	        "sAjaxSource": "/json/summary/23_rawpearls_Xhat_11-Nov-13.json",
 	        "sAjaxDataProp": "onsite",
 			"aaSorting": [[ 4, "desc" ]],
 		    "aoColumns": [
@@ -171,12 +209,12 @@
 	
 	$(document).ready(function() {
 		
-        var nameElement = document.getElementById("inputURL");
-        var url = nameElement.value;
-		var jsonFileName = "/json/summary/"" + url + "".json";
-	    $('#example4').dataTable( {
-	        "bProcessing": true,
-	        "sAjaxSource": theUrl,
+		var nameElement = document.getElementById("inputURL");
+		var url = nameElement.value;
+		// var jsonFileName = "/json/summary/"" + url + "".json";
+		$('#example4').dataTable( {
+			"bProcessing": true,
+			"sAjaxSource": "/json/summary/23_rawpearls_XhatOff_11-Nov-13.json",
 			"sAjaxDataProp": "offsite",
 			"aaSorting": [[ 2, "desc" ]],
 			"aoColumns": [
@@ -187,13 +225,13 @@
 			{"bVisible": false},
 			{"bVisible": false}
 			]
-	    } );
+		} );
 	} );
 	
 	$(document).ready(function() {
 	    $('#example4b').dataTable( {
 	        "bProcessing": true,
-	        "sAjaxSource": "/json/summary/23_rawpearls_XhatOff_05-Nov-13.json",
+	        "sAjaxSource": "/json/summary/23_rawpearls_XhatOff_11-Nov-13.json",
 			"sAjaxDataProp": "offsite",
 			"aaSorting": [[ 4, "desc" ]],
 		    "aoColumns": [
@@ -218,6 +256,99 @@
 	      }
 	</script>
 	
+
+	
+	<script src="lib/d3.v3.js"></script>
+<script src="assets/js/nv.d3.js"></script>
+<script src="src/utils.js"></script>
+<script src="src/tooltip.js"></script>
+<script src="src/models/legend.js"></script>
+<script src="src/models/axis.js"></script>
+<script src="src/models/multiBarHorizontal.js"></script>
+<script src="src/models/multiBarHorizontalChart.js"></script>
+<script src="assets/js/stream_layers.js"></script>
+<script>
+
+// data for chart
+
+long_short_data = [ 
+  {
+    key: 'Harmful',
+    color: '#d62728',
+    values: [
+      { 
+        "label" : "Onsite" ,
+        "value" : -1.8746444827653
+      } , 
+      { 
+        "label" : "Offsite" ,
+        "value" : -8.0961543492239
+      } 
+    ]
+  },
+  {
+    key: 'Neutral',
+    color: '#d62728',
+    values: [
+      { 
+        "label" : "Onsite" ,
+        "value" : -1.8746444827653
+      } , 
+      { 
+        "label" : "Offsite" ,
+        "value" : -8.0961543492239
+      } 
+    ]
+  },
+  {
+    key: 'Healthy',
+    color: '#1f77b4',
+    values: [
+      { 
+        "label" : "Onsite" ,
+        "value" : 25.307646510375
+      } , 
+      { 
+        "label" : "Offsite" ,
+        "value" : 16.756779544553
+      } 
+    ]
+  }
+];
+
+
+
+var chart;
+nv.addGraph(function() {
+  chart = nv.models.multiBarHorizontalChart()
+      .x(function(d) { return d.label })
+      .y(function(d) { return d.value })
+      .margin({top: 30, right: 20, bottom: 50, left: 175})
+      //.showValues(true)
+      //.tooltips(false)
+      .barColor(d3.scale.category20().range())
+      .transitionDuration(250)
+      .stacked(true)
+      //.showControls(false);
+
+  chart.yAxis
+      .tickFormat(d3.format(',.2f'));
+
+  d3.select('#chart1 svg')
+      .datum(long_short_data)
+      .call(chart);
+
+  nv.utils.windowResize(chart.update);
+
+  chart.dispatch.on('stateChange', function(e) { nv.log('New State:', JSON.stringify(e)); });
+
+  return chart;
+});
+
+
+
+</script>
+	
 	
 	<script class="code" type="text/javascript">
 	
@@ -228,10 +359,9 @@
 		var s2 = [-3742, 'Num. urls']
 		//var ticks = ['Healthy urls', 'At risk urls']
 		plot5 = jQuery.jqplot('chart5', [[s1],[s2]], {
-			
+			title: 'Onsite URL status',
 			// Only animate if we're not using excanvas (not in IE 7 or IE 8)..
-			animate: !$.jqplot.use_excanvas,
-			// seriesColors:['#00FF00', '#FF0000'],
+			//animate: !$.jqplot.use_excanvas,
 			series:[
 			            {label:'Healthy urls', seriesColors: ['#00FF00']},
 			            {label:'At risk urls', seriesColors: ['#FF0000']}
@@ -242,9 +372,10 @@
 				rendererOptions: {
 					barDirection: 'horizontal',
 					highlightMouseDown: true,
-					//varyBarColor: true,
+					varyBarColor: true,
 					fillToZero: true
-				}
+				},
+				seriesColors:['#00FF00', '#FF0000']
 				// pointLabels: {show: true, formatString: '%d'}
 			},
 			
@@ -275,8 +406,8 @@
 			plot5 = jQuery.jqplot('chart6', [[s1],[s2]], {
 			
 				// Only animate if we're not using excanvas (not in IE 7 or IE 8)..
-				animate: !$.jqplot.use_excanvas,
-				// seriesColors:['#00FF00', '#FF0000'],
+				// animate: !$.jqplot.use_excanvas,
+				seriesColors:['#00FF00', '#FF0000'],
 				series:[
 				            {label:'Healthy links', seriesColors: ['#00FF00']},
 				            {label:'At risk links', seriesColors: ['#FF0000']}
@@ -405,17 +536,23 @@
 	  </div>
 	  
 	  <div class="well">
-		  <h2>Onsite pages summary</h2>
+		  <h2>Domain health status summary</h2>
 		  <p></p>
 	  </div>
 	  <!-- <p>
 	  <a href="/onsite_SQ_drilldown.html">Click for onsite influential feature summary</a>
 	  </p> -->
 		 
+		 <div id="chart1" class='with-3d-shadow with-transitions'>
+    <svg></svg>
+  </div>
+		 
 
+<!-- 
 		  <div class='clickableRow' href="/onsite_SQ_drilldown.html" id="chart5" style="margin-top:20px; margin-left:20px; width:300px; height:300px;"></div>
 		  <pre class="code brush:js"></pre>
 	  
+ -->
 	  <!-- <div class="row-fluid"> -->
 
 		  <!-- We define a new 'actions' div to contain statistics, order, and share buttons.-->
@@ -568,8 +705,10 @@
 			  <p></p>
 		  </div>
 		  
-		  <div class='clickableRow' href="/offsite_SQ_drilldown.html" id="chart6" style="margin-top:20px; margin-left:20px; width:300px; height:300px;"></div>
+		 <!-- 
+ <div class='clickableRow' href="/offsite_SQ_drilldown.html" id="chart6" style="margin-top:20px; margin-left:20px; width:300px; height:300px;"></div>
 		  <pre class="code brush:js"></pre>
+ -->
 		  
 		  <!-- <p>
 			  <a href="/offsite.html">Click for offsite readability feature summary</a>

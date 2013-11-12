@@ -1,0 +1,154 @@
+Alchemy Desk stuff
+-------
+
+wifi: andrea$wir3d
+
+
+deploying app: HOW TO
+---------------
+# synchronise with Github app on mac
+
+useful:
+ls -lh
+sudo du -h --max-depth=1 ./
+
+#build on laptop
+cd ./haversham-codestore/mathsight/
+ mvn clean package
+
+#backup old .war on server
+$ sudo cp /opt/bitnami/apache-tomcat/webapps/labs.war /home/user/frank/labs-backup.war
+$ exit
+or:
+sudo mv labs.war labs.old
+
+#back to laptop, transfer new war across (to temp file)
+cd  users/frankkelly/
+scp -i fkelly.pem /Users/frankkelly/haversham-codestore/mathsight/mathsight-web/target/mathsight-web-0.1-SNAPSHOT.war bitnami@ec2-54-228-93-193.eu-west-1.compute.amazonaws.com:/opt/bitnami/apache-tomcat/webapps/labs.tmp
+
+#rename file to .war
+sudo mv labs.tmp labs.war
+
+#Login with SSH to EC2 and restart tomcat
+
+cd /opt/bitnami/apache-tomcat/bin
+sudo sh shutdown.sh
+sudo sh startup.sh
+
+----------
+
+
+Sarah's forfeits
+22 May:  x2
+
+Frank's forfeits
+--
+
+Forfeit ideas:
+An extra set for every missed session, for the next 2 sessions
+Lose an item of clothing for every missed session, for the next 2 sessions
+Embarrassing workout exercise to be provided by the other person (e.g. squat thrust), to be done next 2 sessions
+Buy a drink for the other person (one for each missed session)
+
+
+Matlab account login
+--------
+andreas' email
+AvatMat5
+
+WordPress
+------
+Username: Frank Kelly
+Password: fdkde$k
+http://www.alchemydesk.com/wp-login.php
+
+
+CPanel (old server)
+-----------
+Command line access can be issued via the control panel (security section) here:
+http://206.217.192.130:2082/cpsess7888070284/frontend/x3/index.html?post_login=93618105807133
+un: mathlabs
+pw: frank$034
+
+Server login  (old server)
+ssh -l root 206.217.192.130
+dwjhe73dvtl8
+tail -f /usr/local/jakarta/tomcat/logs/sitemirror.log
+
+Miranda
+rawpearls@gmail.com
+485923raw
+
+competitors
+--------------
+nexus pearls
+samuel jones
+euro pearl
+
+
+
+AWS
+frank@alchemydesk.com  
+Webr*p@a
+
+Email details for frank@alchemydesk.com
+89.145.116.172
+vCSz4lp.3hpr
+mail password: NvXa3AGlI6o+
+
+Mac office product ID
+03315-047-3443194-02901
+
+----------------
+
+DB connector
+
+user = 'mathlabs_frank';
+password = 'rever$3w3b';
+dbName = 'mathlabs_haversham'; 
+
+user = 'mathlabs_disp';
+password = '9utR3RUc';
+
+----------
+
+Google Analytics and google in general
+data@alchemydesk.com
+(Q^8BaulV&GJ
+
+-----
+Call asking for Chris Roberts
+(but really he is Nathan Beckles on 0207 836 3678, Nathan@alchemis.co.uk "he is unavailable and you will get him to return your call")
+---
+
+auth code thurs
+3oJn5.Io2gpuraaf0VOl05ti8ZT3ZJ8OhIeAI
+MySQL DB
+host:
+
+Dropbox API
+key: xopkxpu673ljc5w
+
+
+core:
+
+App name	
+App status	Development (Apply for production status)
+App key	f6uia8tve1xc4e7
+App secret	gtmembiyivfccce
+
+
+TOmcat restart
+
+
+root@server [~]# /scripts/restartsrv_tomcat
+root@server [~]#
+
+and as I see it is started:
+
+root@server [~]# ps axuwwf|grep cat
+root      4390  0.0  0.0  10168   364 ?        Ss   13:02   0:00 jsvc.exec -user tomcat -cp ./bootstrap.jar -Djava.endorsed.dirs=../common/endorsed -outfile ../logs/catalina.out -errfile ../logs/catalina.err -verbose org.apache.catalina.startup.Bootstrap start
+tomcat    4391 10.4  4.9 815804 76736 ?        Sl   13:02   0:05  \_ jsvc.exec -user tomcat -cp ./bootstrap.jar -Djava.endorsed.dirs=../common/endorsed -outfile ../logs/catalina.out -errfile ../logs/catalina.err -verbose org.apache.catalina.startup.Bootstrap start
+root@server [~]#
+
+Thank you.
