@@ -180,7 +180,7 @@ text {
 	$(document).ready(function() {
 	    $('#example3').dataTable( {
 	        "bProcessing": true,
-	        "sAjaxSource": "/json/summary/23_rawpearls_Xhat_11-Nov-13.json",
+	        "sAjaxSource": "/json/summary/"+websiteName+"_Xhat_11-Nov-13.json",
 	        "sAjaxDataProp": "onsite",
 			"aaSorting": [[ 2, "desc" ]],
 		    "aoColumns": [
@@ -197,7 +197,7 @@ text {
 	$(document).ready(function() {
 	    $('#example3b').dataTable( {
 	        "bProcessing": true,
-	        "sAjaxSource": "/json/summary/23_rawpearls_Xhat_11-Nov-13.json",
+	        "sAjaxSource": "/json/summary/"+websiteName+"_Xhat_11-Nov-13.json",
 	        "sAjaxDataProp": "onsite",
 			"aaSorting": [[ 4, "desc" ]],
 		    "aoColumns": [
@@ -218,7 +218,7 @@ text {
 		// var jsonFileName = "/json/summary/"" + url + "".json";
 		$('#example4').dataTable( {
 			"bProcessing": true,
-			"sAjaxSource": "/json/summary/23_rawpearls_XhatOff_11-Nov-13.json",
+	        "sAjaxSource": "/json/summary/"+websiteName+"_XhatOff_11-Nov-13.json",
 			"sAjaxDataProp": "offsite",
 			"aaSorting": [[ 2, "desc" ]],
 			"aoColumns": [
@@ -235,7 +235,7 @@ text {
 	$(document).ready(function() {
 	    $('#example4b').dataTable( {
 	        "bProcessing": true,
-	        "sAjaxSource": "/json/summary/23_rawpearls_XhatOff_11-Nov-13.json",
+	        "sAjaxSource": "/json/summary/"+websiteName+"_XhatOff_11-Nov-13.json",
 			"sAjaxDataProp": "offsite",
 			"aaSorting": [[ 4, "desc" ]],
 		    "aoColumns": [
@@ -252,11 +252,19 @@ text {
 	</script>
 	
 	<script>
+	var websiteURL = "www.alchemyviral.com";
+	var websiteSplit = websiteURL.split(".");
+	var websiteName = websiteSplit[1];
+	
 	function doStuff()
 	      {
 	        var nameElement = document.getElementById("inputURL");
-	        var theUrl = nameElement.value;
-	        document.getElementById("someDiv").innerHTML + theUrl;
+	        
+	        var websiteURL = nameElement.value;
+	        var websiteSplit = websiteURL.split(".");
+			var websiteName = websiteSplit[1];
+			
+	        document.getElementById("someDiv").innerHTML + websiteURL;
 	      }
 	</script>
 	
