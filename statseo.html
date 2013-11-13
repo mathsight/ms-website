@@ -274,43 +274,43 @@ text {
 long_short_data = [ 
   {
     key: 'Harmful',
-    color: '#d62728',
+    color: '#ff0000',
     values: [
       { 
         "label" : "Onsite" ,
-        "value" : -1.8746444827653
+        "value" : -146
       } , 
       { 
         "label" : "Offsite" ,
-        "value" : -8.0961543492239
+        "value" : -5
       } 
     ]
   },
   {
     key: 'Neutral',
-    color: '#d62728',
+    color: '#ff9900',
     values: [
       { 
         "label" : "Onsite" ,
-        "value" : -1.8746444827653
+        "value" : 50
       } , 
       { 
         "label" : "Offsite" ,
-        "value" : -8.0961543492239
+        "value" : 0
       } 
     ]
   },
   {
     key: 'Healthy',
-    color: '#1f77b4',
+    color: '#00cc00',
     values: [
       { 
         "label" : "Onsite" ,
-        "value" : 25.307646510375
+        "value" : 253
       } , 
       { 
         "label" : "Offsite" ,
-        "value" : 16.756779544553
+        "value" : 3
       } 
     ]
   }
@@ -323,12 +323,12 @@ nv.addGraph(function() {
   chart = nv.models.multiBarHorizontalChart()
       .x(function(d) { return d.label })
       .y(function(d) { return d.value })
-      .margin({top: 30, right: 20, bottom: 50, left: 175})
+      .margin({top: 30, right: 100, bottom: 50, left: 100})
       //.showValues(true)
       //.tooltips(false)
-      .barColor(d3.scale.category20().range())
+      //.barColor(d3.scale.category20().range())
       .transitionDuration(250)
-      .stacked(true)
+      .stacked(false)
       //.showControls(false);
 
   chart.yAxis
