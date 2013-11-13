@@ -123,6 +123,29 @@
 	];
 
 
+// data for chart
+
+var_feature_list_=_{1:"average_backlink_flesch_reading_ease",
+2:"number_of_images_missing_alt",
+3:"number_of_embedded_javascripts",
+4:"title_number_of_dictionary_words",
+5:"number_of_images",
+6:"number_of_scripts",
+7:"ratio_of_common_words_to_total",
+8:"number_of_inline_css_styles",
+9:"number_of_images_in_body",
+10:"html5_detected",
+11:"maximum_length_of_h1",
+12:"ratio_of_rare_words_to_total",
+13:"average_length_of_h1",
+14:"number_of_embedded_styles",
+15:"number_of_iframes",
+16:"number_of_external_css_styles",
+17:"maximum_length_of_h2",
+18:"average_length_of_h2",
+19:"number_of_dhtml_scripts"
+};
+
 	$(document).ready(function() {
 		$('#dynamicA').html( '<table cellpadding="0" cellspacing="0" border="0" class="display" id="example"></table>' );
 		$('#example').dataTable( {
@@ -156,7 +179,7 @@
 		$('#example2').dataTable( {
 			"bProcessing": true,
 			"sAjaxSource": "/json/drilldown/5_alchemyviral_XDrill_11-Nov-13.json",
-			"sAjaxDataProp": "onsite.2",
+			"sAjaxDataProp": "onsite."+ feature_list[2],
 			"aoColumns": [
 			        { "mData": "html_id" },
 			        { "mData": "feature_value" },
