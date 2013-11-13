@@ -252,19 +252,18 @@ text {
 	</script>
 	
 	<script>
-	var websiteURL = "www.alchemyviral.com";
-	var websiteSplit = websiteURL.split(".");
-	var websiteName = websiteSplit[1];
+
 	
-	function doStuff()
+	var websiteName = function doStuff()
 	      {
 	        var nameElement = document.getElementById("inputURL");
 	        
 	        var websiteURL = nameElement.value;
 	        var websiteSplit = websiteURL.split(".");
-			var websiteName = websiteSplit[1];
-			
+
 	        document.getElementById("someDiv").innerHTML + websiteURL;
+	        
+	        return websiteSplit[1];
 	      }
 	</script>
 	
