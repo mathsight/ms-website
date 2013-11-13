@@ -125,6 +125,10 @@
 
 // data for chart
 
+var websiteURL = "www.alchemyviral.com";
+var websiteSplit = websiteURL.split(".");
+var websiteName = websiteSplit[1];
+
 var feature_list= {1:"average_backlink_flesch_reading_ease",
 2:"number_of_images_missing_alt",
 3:"number_of_embedded_javascripts",
@@ -164,7 +168,7 @@ var feature_list= {1:"average_backlink_flesch_reading_ease",
 	$(document).ready(function() {
 		$('#example1').dataTable( {
 			"bProcessing": true,
-			"sAjaxSource": "/json/drilldown/5_alchemyviral_XDrill_11-Nov-13.json",
+			"sAjaxSource": "/json/drilldown/5_"+websiteName+"_XDrill_11-Nov-13.json",
 			"sAjaxDataProp": "onsite."+ feature_list[1],
 			"aoColumns": [
 			        { "mData": "html_id" },
@@ -449,7 +453,9 @@ rel="stylesheet" type="text/css">
 		  <div class="span12">
 			  <!-- Special typography from Bootstrap for lead paragraph. -->
 			  <!-- http://twitter.github.io/bootstrap/base-css.html#typography -->
-			  <p class="lead">for www.alchemyviral.com</p>
+			  <p class="lead">
+			  <script>document.write("for " + websiteURL);</script>
+			  </p>
 		  </div>
 	  </div>
 	  <div class="row-fluid pitch">
