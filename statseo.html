@@ -256,7 +256,7 @@ text {
 	      {
 	        var nameElement = document.getElementById("inputURL");
 	        var theUrl = nameElement.value;
-	        document.getElementById("someDiv").innerHTML += theUrl;
+	        document.getElementById("someDiv").innerHTML + theUrl;
 	      }
 	</script>
 	
@@ -359,32 +359,7 @@ nv.addGraph(function() {
 	$("#content span").html("World!");
 	</script>
 	
-	
-	
-	<script class="code" type="text/javascript">
-	$(document).ready(function(){
-		var data = [
-		['Good links', 24],['OK links', 397],['Bad links', 104]
-		];
-	  var plot2 = jQuery.jqplot ('chart2', [data], 
-	    {
-  	      seriesDefaults: {
-  	        // Make this a pie chart.
-  	        renderer: jQuery.jqplot.PieRenderer, 
-  	        rendererOptions: {
-  	          // Put data labels on the pie slices.
-  	          // By default, labels show the percentage of the slice.
-  	          showDataLabels: true
-  	        }
-  	      }, 
-	   
-	      legend: { show:true, location: 'e' }
-	    }
-	  );
-	});
-	</script>
-	
-	
+
   </head>
   <body>
 
