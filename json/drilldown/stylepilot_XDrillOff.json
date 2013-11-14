@@ -1,0 +1,280 @@
+{
+	"offsite": {
+		"number_of_images_missing_alt": [
+			{
+				"html_id": "http://community.apartmenttherapy.com/users/671833-soilgirl2",
+				"feature_value": "0",
+				"cluster_win_mean": " 11.2",
+				"delta": " 11.2"
+			},
+			{
+				"html_id": "http://www.1up.com/do/my1Up?publicUserId=6450814",
+				"feature_value": "2",
+				"cluster_win_mean": " 11.2",
+				"delta": "  9.2"
+			},
+			{
+				"html_id": "http://8tracks.com/llamacord2",
+				"feature_value": "1",
+				"cluster_win_mean": " 11.2",
+				"delta": " 10.2"
+			},
+			{
+				"html_id": "http://www.phpfox.com/profile-330828/",
+				"feature_value": "0",
+				"cluster_win_mean": "16.36",
+				"delta": "16.36"
+			},
+			{
+				"html_id": "http://www.shortlist.com/style/wardrobe/look-good-hungover",
+				"feature_value": "1",
+				"cluster_win_mean": "16.36",
+				"delta": "15.36"
+			}
+		],
+		"number_of_embedded_javascripts": [
+			{
+				"html_id": "http://www.1up.com/do/my1Up?publicUserId=6450814",
+				"feature_value": "26",
+				"cluster_win_mean": "6.44",
+				"delta": "-19.56"
+			},
+			{
+				"html_id": "http://8tracks.com/llamacord2",
+				"feature_value": "15",
+				"cluster_win_mean": "6.44",
+				"delta": " -8.56"
+			},
+			{
+				"html_id": "http://www.shortlist.com/style/wardrobe/look-good-hungover",
+				"feature_value": "18",
+				"cluster_win_mean": "3.27",
+				"delta": "-14.73"
+			}
+		],
+		"number_of_images": [
+			{
+				"html_id": "http://www.1up.com/do/my1Up?publicUserId=6450814",
+				"feature_value": "18",
+				"cluster_win_mean": "11.38",
+				"delta": "-6.62"
+			},
+			{
+				"html_id": "http://www.phpfox.com/profile-330828/",
+				"feature_value": " 7",
+				"cluster_win_mean": "17.41",
+				"delta": "10.41"
+			},
+			{
+				"html_id": "http://www.shortlist.com/style/wardrobe/look-good-hungover",
+				"feature_value": "16",
+				"cluster_win_mean": "17.41",
+				"delta": " 1.41"
+			}
+		],
+		"number_of_scripts": [
+			{
+				"html_id": "http://community.apartmenttherapy.com/users/671833-soilgirl2",
+				"feature_value": " 8",
+				"cluster_win_mean": "17.88",
+				"delta": " 9.88"
+			},
+			{
+				"html_id": "http://www.phpfox.com/profile-330828/",
+				"feature_value": "21",
+				"cluster_win_mean": " 12.8",
+				"delta": " -8.2"
+			},
+			{
+				"html_id": "http://www.shortlist.com/style/wardrobe/look-good-hungover",
+				"feature_value": "26",
+				"cluster_win_mean": " 12.8",
+				"delta": "-13.2"
+			}
+		],
+		"number_of_inline_css_styles": [
+			{
+				"html_id": "http://www.phpfox.com/profile-330828/",
+				"feature_value": "0",
+				"cluster_win_mean": "1.57",
+				"delta": "1.57"
+			},
+			{
+				"html_id": "http://www.shortlist.com/style/wardrobe/look-good-hungover",
+				"feature_value": "0",
+				"cluster_win_mean": "1.57",
+				"delta": "1.57"
+			}
+		],
+		"number_of_images_in_body": [
+			{
+				"html_id": "http://community.apartmenttherapy.com/users/671833-soilgirl2",
+				"feature_value": " 3",
+				"cluster_win_mean": "11.27",
+				"delta": " 8.27"
+			},
+			{
+				"html_id": "http://8tracks.com/llamacord2",
+				"feature_value": " 4",
+				"cluster_win_mean": "11.27",
+				"delta": " 7.27"
+			},
+			{
+				"html_id": "http://www.phpfox.com/profile-330828/",
+				"feature_value": " 7",
+				"cluster_win_mean": "17.41",
+				"delta": "10.41"
+			},
+			{
+				"html_id": "http://www.shortlist.com/style/wardrobe/look-good-hungover",
+				"feature_value": "16",
+				"cluster_win_mean": "17.41",
+				"delta": " 1.41"
+			}
+		],
+		"html5_detected": [
+			{
+				"html_id": "http://www.1up.com/do/my1Up?publicUserId=6450814",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.shortlist.com/style/wardrobe/look-good-hungover",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			}
+		],
+		"maximum_length_of_h1": [
+			{
+				"html_id": "http://community.apartmenttherapy.com/users/671833-soilgirl2",
+				"feature_value": "21",
+				"cluster_win_mean": "18.33",
+				"delta": "-2.67"
+			},
+			{
+				"html_id": "http://www.phpfox.com/profile-330828/",
+				"feature_value": " 0",
+				"cluster_win_mean": " 70.6",
+				"delta": " 70.6"
+			},
+			{
+				"html_id": "http://www.shortlist.com/style/wardrobe/look-good-hungover",
+				"feature_value": " 0",
+				"cluster_win_mean": " 70.6",
+				"delta": " 70.6"
+			}
+		],
+		"average_length_of_h1": {
+			"html_id": "http://community.apartmenttherapy.com/users/671833-soilgirl2",
+			"feature_value": "21",
+			"cluster_win_mean": "15.56",
+			"delta": "-5.44"
+		},
+		"number_of_embedded_styles": [
+			{
+				"html_id": "http://www.phpfox.com/profile-330828/",
+				"feature_value": "0",
+				"cluster_win_mean": "2.9",
+				"delta": "2.9"
+			},
+			{
+				"html_id": "http://www.shortlist.com/style/wardrobe/look-good-hungover",
+				"feature_value": "1",
+				"cluster_win_mean": "2.9",
+				"delta": "1.9"
+			}
+		],
+		"maximum_length_of_h2": [
+			{
+				"html_id": "http://community.apartmenttherapy.com/users/671833-soilgirl2",
+				"feature_value": "18",
+				"cluster_win_mean": "52.07",
+				"delta": "34.07"
+			},
+			{
+				"html_id": "http://www.1up.com/do/my1Up?publicUserId=6450814",
+				"feature_value": "34",
+				"cluster_win_mean": "52.07",
+				"delta": "18.07"
+			},
+			{
+				"html_id": "http://8tracks.com/llamacord2",
+				"feature_value": " 0",
+				"cluster_win_mean": "52.07",
+				"delta": "52.07"
+			},
+			{
+				"html_id": "http://www.phpfox.com/profile-330828/",
+				"feature_value": " 0",
+				"cluster_win_mean": "71.79",
+				"delta": "71.79"
+			},
+			{
+				"html_id": "http://www.shortlist.com/style/wardrobe/look-good-hungover",
+				"feature_value": " 0",
+				"cluster_win_mean": "71.79",
+				"delta": "71.79"
+			}
+		],
+		"average_length_of_h2": [
+			{
+				"html_id": "http://community.apartmenttherapy.com/users/671833-soilgirl2",
+				"feature_value": "18",
+				"cluster_win_mean": "51.77",
+				"delta": "33.77"
+			},
+			{
+				"html_id": "http://www.1up.com/do/my1Up?publicUserId=6450814",
+				"feature_value": "16",
+				"cluster_win_mean": "51.77",
+				"delta": "35.77"
+			},
+			{
+				"html_id": "http://8tracks.com/llamacord2",
+				"feature_value": " 0",
+				"cluster_win_mean": "51.77",
+				"delta": "51.77"
+			},
+			{
+				"html_id": "http://www.phpfox.com/profile-330828/",
+				"feature_value": " 0",
+				"cluster_win_mean": "71.22",
+				"delta": "71.22"
+			},
+			{
+				"html_id": "http://www.shortlist.com/style/wardrobe/look-good-hungover",
+				"feature_value": " 0",
+				"cluster_win_mean": "71.22",
+				"delta": "71.22"
+			}
+		],
+		"number_of_dhtml_scripts": [
+			{
+				"html_id": "http://community.apartmenttherapy.com/users/671833-soilgirl2",
+				"feature_value": "0",
+				"cluster_win_mean": "1.16",
+				"delta": "1.16"
+			},
+			{
+				"html_id": "http://www.1up.com/do/my1Up?publicUserId=6450814",
+				"feature_value": "0",
+				"cluster_win_mean": "1.16",
+				"delta": "1.16"
+			},
+			{
+				"html_id": "http://8tracks.com/llamacord2",
+				"feature_value": "0",
+				"cluster_win_mean": "1.16",
+				"delta": "1.16"
+			},
+			{
+				"html_id": "http://www.phpfox.com/profile-330828/",
+				"feature_value": "0",
+				"cluster_win_mean": "1.31",
+				"delta": "1.31"
+			}
+		]
+	}
+}
