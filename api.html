@@ -501,48 +501,29 @@
           <div>
             Response example:
           </div>
-          {&nbsp;
-          <div>
-            "onsite" : {&nbsp;
-            <div>
-              "count" : 553,&nbsp;
-              <div>
-                "healthy" : 53,&nbsp;
-                <div>
-                  "neutral" : 249,&nbsp;
-                  <div>
-                    "harmful" : 251 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-                    &nbsp;
-                    <div>
-                      },&nbsp;
-                      <div>
-                        "offsite" : {&nbsp;
-                        <div>
-                          "count" : 10,&nbsp;
-                          <div>
-                            "healthy" : 3,&nbsp;
-                            <div>
-                              "neutral" : 0,&nbsp;
-                              <div>
-                                "harmful" : 7 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-                                &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-                                <div>
-                                  }&nbsp;
-                                  <div>
-                                    }
-                                  </div>
-                                </div>
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
+           <pre><code>
+{ 
+"onsite" : 
+	{ 
+	"count" : 553, 
+	"healthy" : 53, 
+	"neutral" : 249, 
+	"harmful" : 251                  
+	}, 
+"offsite" : 
+	{ 
+	"count" : 10, 
+	"healthy" : 3, 
+	"neutral" : 0, 
+	"harmful" : 7                              
+	} 
+}
+</code></pre>
+           <br>
+     
+          
+          
+          
         </div>
       </div>
       <div class="well">
@@ -562,20 +543,20 @@
           <tbody>
             <tr>
               <td>
-                ONSITE
+                ONSITE:
               </td>
               <td>
-                https://api.mathsight.org/ms_api/v1/onsite?target=http%3A%2F%2Fwww.mydomain.com&amp;metric=highlight&amp;token={
-                Your MathSight key }
+                <pre><code>https://api.mathsight.org/ms_api/v1/onsite?target=http%3A%2F%2Fwww.mydomain.com&amp;metric=highlight&amp;token={
+                Your MathSight key }</code></pre>
               </td>
             </tr>
             <tr>
               <td>
-                OFFSITE
+                OFFSITE:
               </td>
               <td>
-                https://api.mathsight.org/ms_api/v1/offsite?target=http%3A%2F%2Fwww.blogpage.com&amp;metric=highlight&amp;token={
-                Your MathSight key }
+                <pre><code>https://api.mathsight.org/ms_api/v1/offsite?target=http%3A%2F%2Fwww.blogpage.com&amp;metric=highlight&amp;token={
+                Your MathSight key }</code></pre>
               </td>
             </tr>
           </tbody>
@@ -595,105 +576,28 @@
         </p>
         
         <pre><code>
-        {
+{
  "result": [ 
-{ 
-"average_backlink_flesch_reading_ease": [1,553,-0.24,0,0], 
- "number_of_images_missing_alt": [2,553,-0.24,0,0], 
-"number_of_embedded_javascripts": [3,254,-0.11,299,-0.13], 
-"title_number_of_dictionary_words": [4,299,-0.13,254,-0.11], 
- "number_of_images": [5,531,-0.21,22,-0.03], 
-"number_of_scripts": [6,0,0,553,-0.24], 
- "ratio_of_common_words_to_total": [7,211,-0.1,342,-0.14], 
-"number_of_inline_css_styles": [8,542,-0.24,11,-0], 
-"number_of_images_in_body": [9,523,-0.21,30,-0.03], 
- "html5_detected": [10,0,0,553,-0.24]
-...
-}
-]
+			{ 
+				"average_backlink_flesch_reading_ease": [1,553,-0.24,0,0], 
+ 				"number_of_images_missing_alt": [2,553,-0.24,0,0], 
+				"number_of_embedded_javascripts": [3,254,-0.11,299,-0.13], 
+				"title_number_of_dictionary_words": [4,299,-0.13,254,-0.11], 
+ 				"number_of_images": [5,531,-0.21,22,-0.03], 
+				"number_of_scripts": [6,0,0,553,-0.24], 
+ 				"ratio_of_common_words_to_total": [7,211,-0.1,342,-0.14], 
+				"number_of_inline_css_styles": [8,542,-0.24,11,-0], 
+				"number_of_images_in_body": [9,523,-0.21,30,-0.03], 
+ 				"html5_detected": [10,0,0,553,-0.24]
+			...
+			}
+		]
 } 
 </code></pre>
 
-       <!-- 
- <div class="control-group">
-          <div class="controls">
-          </div>
-        </div>
- -->
-       <!-- 
- <div>
-          <div>
-            <br>
-            <div>
-              &nbsp;{
-              <div>
-                &nbsp;"result": [&nbsp;
-                <div>
-                  {&nbsp;
-                  <div>
-                    "average_backlink_flesch_reading_ease": [1,553,-0.24,0,0],&nbsp;
-                    <div>
-                      &nbsp;"number_of_images_missing_alt": [2,553,-0.24,0,0],&nbsp;
-                      <div>
-                        "number_of_embedded_javascripts": [3,254,-0.11,299,-0.13],&nbsp;
-                        <div>
-                          "title_number_of_dictionary_words": [4,299,-0.13,254,-0.11],&nbsp;
-                          <div>
-                            &nbsp;"number_of_images": [5,531,-0.21,22,-0.03],&nbsp;
-                            <div>
-                              "number_of_scripts": [6,0,0,553,-0.24],&nbsp;
-                              <div>
-                                &nbsp;"ratio_of_common_words_to_total": [7,211,-0.1,342,-0.14],&nbsp;
-                                <div>
-                                  "number_of_inline_css_styles": [8,542,-0.24,11,-0],&nbsp;
-                                  <div>
-                                    "number_of_images_in_body": [9,523,-0.21,30,-0.03],&nbsp;
-                                    <div>
-                                      &nbsp;"html5_detected": [10,0,0,553,-0.24]
-                                      <div>
-                                        ...
-                                      </div>
-                                      <div>
-                                        }
-                                      </div>
-                                      <div>
-                                        ]
-                                      </div>
-                                      <div>
-                                        }
-                                        <br>
-                                        <div>
-                                        </div>
-                                      </div>
-                                    </div>
-                                  </div>
-                                </div>
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
- -->
-        <p>
-        </p>
+
         <br>
-       <!-- 
- <div>
-          <div>
-            <div>
-              <div>
-              </div>
-            </div>
-          </div>
-        </div>
- -->
+       
       </div>
       <div class="well">
         <h3 id="highlightsDef">
