@@ -175,6 +175,12 @@ text {
 var websiteSplit = websiteURL.split(".");
 var websiteName = websiteSplit[1];
 
+function getWebsiteName() {
+  var urlFull = document.getElementById("inputURL");
+  var websiteSplitDyn = urlFull.split(".");
+  return websiteSplitDyn[1];
+ }
+
 	jQuery(document).ready(function($) {
 	      $(".clickableRow").click(function() {
 	            window.document.location = $(this).attr("href");
@@ -257,12 +263,7 @@ var websiteName = websiteSplit[1];
 	
 	<script>
 
-function getWebsiteName() {
-  var urlFull = document.getElementById("inputURL");
-  var websiteSplitDyn = urlFull.split(".");
-var websiteNameDyn = websiteSplitDyn[1];
-  return websiteNameDyn;
- }
+
 
 	
 	function doStuff()
@@ -271,7 +272,7 @@ var websiteNameDyn = websiteSplitDyn[1];
 	        
 	        var websiteURLlocal = nameElement.value;
 
-	        document.getElementById("someDiv").innerHTML += websiteURLlocal;
+	        document.getElementById("someDiv").innerHTML = websiteURLlocal;
 	        
 	        // return websiteSplit[1];
 	      }
