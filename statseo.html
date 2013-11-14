@@ -293,7 +293,7 @@ var websiteName = websiteSplit[1];
 
 // data for chart
 
-long_short_data = [ 
+long_short_data_old = [ 
   {
     key: 'Harmful',
     color: '#ff0000',
@@ -338,6 +338,50 @@ long_short_data = [
   }
 ];
 
+long_short_data = [
+	{
+		"key": "Harmful",
+		"color": "#ff0000",
+		"values": [
+			{
+				"label": "Onsite",
+				"value": 7
+			},
+			{
+				"label": "Offsite",
+				"value": 7
+			}
+		]
+	},
+	{
+		"key": "Neutral",
+		"color": "#ff9900",
+		"values": [
+			{
+				"label": "Onsite",
+				"value": 6
+			},
+			{
+				"label": "Offsite",
+				"value": 6
+			}
+		]
+	},
+	{
+		"key": "Healthy",
+		"color": "#00cc00",
+		"values": [
+			{
+				"label": "Onsite",
+				"value": 7
+			},
+			{
+				"label": "Offsite",
+				"value": 7
+			}
+		]
+	}
+];
 
 
 var chart;
