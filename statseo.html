@@ -190,7 +190,7 @@ var websiteName = websiteSplit[1];
 	$(document).ready(function() {
 	    $('#example3').dataTable( {
 	        "bProcessing": true,
-	        "sAjaxSource": "/json/summary/"+websiteName+"_Xhat_11-Nov-13.json",
+	        "sAjaxSource": "/json/summary/"+websiteName+"_Xhat.json",
 	        "sAjaxDataProp": "onsite",
 			"aaSorting": [[ 2, "desc" ]],
 		    "aoColumns": [
@@ -207,7 +207,7 @@ var websiteName = websiteSplit[1];
 	$(document).ready(function() {
 	    $('#example3b').dataTable( {
 	        "bProcessing": true,
-	        "sAjaxSource": "/json/summary/"+websiteName+"_Xhat_11-Nov-13.json",
+	        "sAjaxSource": "/json/summary/"+websiteName+"_Xhat.json",
 	        "sAjaxDataProp": "onsite",
 			"aaSorting": [[ 4, "desc" ]],
 		    "aoColumns": [
@@ -228,7 +228,7 @@ var websiteName = websiteSplit[1];
 		// var jsonFileName = "/json/summary/"" + url + "".json";
 		$('#example4').dataTable( {
 			"bProcessing": true,
-	        "sAjaxSource": "/json/summary/"+websiteName+"_XhatOff_11-Nov-13.json",
+	        "sAjaxSource": "/json/summary/"+websiteName+"_XhatOff.json",
 			"sAjaxDataProp": "offsite",
 			"aaSorting": [[ 2, "desc" ]],
 			"aoColumns": [
@@ -245,7 +245,7 @@ var websiteName = websiteSplit[1];
 	$(document).ready(function() {
 	    $('#example4b').dataTable( {
 	        "bProcessing": true,
-	        "sAjaxSource": "/json/summary/"+websiteName+"_XhatOff_11-Nov-13.json",
+	        "sAjaxSource": "/json/summary/"+websiteName+"_XhatOff.json",
 			"sAjaxDataProp": "offsite",
 			"aaSorting": [[ 4, "desc" ]],
 		    "aoColumns": [

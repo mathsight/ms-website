@@ -1,0 +1,156 @@
+{
+	"onsite": [
+		[
+				"1",
+				"average backlink flesch reading ease",
+				"600",
+				"-0.02",
+				"875",
+				"-0.05"
+		],
+		[
+				"2",
+				"number of images missing alt",
+				"816",
+				"-0.04",
+				"659",
+				"-0.04"
+		],
+		[
+				"3",
+				"number of embedded javascripts",
+				"0",
+				"0",
+				"1475",
+				"-0.08"
+		],
+		[
+				"4",
+				"title number of dictionary words",
+				"0",
+				"0",
+				"1475",
+				"-0.08"
+		],
+		[
+				"5",
+				"number of images",
+				"832",
+				"-0.04",
+				"643",
+				"-0.04"
+		],
+		[
+				"6",
+				"number of scripts",
+				"12",
+				"0",
+				"1463",
+				"-0.08"
+		],
+		[
+				"7",
+				"ratio of common words to total",
+				"0",
+				"0",
+				"1475",
+				"-0.08"
+		],
+		[
+				"8",
+				"number of inline css styles",
+				"1257",
+				"-0.08",
+				"218",
+				"0"
+		],
+		[
+				"9",
+				"number of images in body",
+				"842",
+				"-0.04",
+				"633",
+				"-0.04"
+		],
+		[
+				"10",
+				"html5 detected",
+				"194",
+				"0",
+				"1281",
+				"-0.08"
+		],
+		[
+				"11",
+				"maximum length of h1",
+				"1463",
+				"-0.08",
+				"12",
+				"0"
+		],
+		[
+				"12",
+				"ratio of rare words to total",
+				"2",
+				"0",
+				"1473",
+				"-0.08"
+		],
+		[
+				"13",
+				"average length of h1",
+				"575",
+				"-0.04",
+				"900",
+				"-0.04"
+		],
+		[
+				"14",
+				"number of embedded styles",
+				"888",
+				"-0.04",
+				"587",
+				"-0.04"
+		],
+		[
+				"15",
+				"number of iframes",
+				"567",
+				"-0.04",
+				"908",
+				"-0.04"
+		],
+		[
+				"16",
+				"number of external css styles",
+				"18",
+				"0",
+				"1457",
+				"-0.08"
+		],
+		[
+				"17",
+				"maximum length of h2",
+				"1448",
+				"-0.08",
+				"27",
+				"0"
+		],
+		[
+				"18",
+				"average length of h2",
+				"914",
+				"-0.04",
+				"561",
+				"-0.04"
+		],
+		[
+				"19",
+				"number of dhtml scripts",
+				"1475",
+				"-0.08",
+				"0",
+				"0"
+		]
+	]
+}
