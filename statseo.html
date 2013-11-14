@@ -171,6 +171,10 @@ text {
     
 	
 	<script>
+	var websiteURL = "www.alchemyviral.com";
+var websiteSplit = websiteURL.split(".");
+var websiteName = websiteSplit[1];
+
 	jQuery(document).ready(function($) {
 	      $(".clickableRow").click(function() {
 	            window.document.location = $(this).attr("href");
@@ -213,8 +217,8 @@ text {
 	
 	$(document).ready(function() {
 		
-		var nameElement = document.getElementById("inputURL");
-		var url = nameElement.value;
+	// 	var nameElement = document.getElementById("inputURL");
+// 		var url = nameElement.value;
 		// var jsonFileName = "/json/summary/"" + url + "".json";
 		$('#example4').dataTable( {
 			"bProcessing": true,
@@ -258,10 +262,9 @@ text {
 	      {
 	        var nameElement = document.getElementById("inputURL");
 	        
-	        var websiteURL = nameElement.value;
-	        var websiteSplit = websiteURL.split(".");
+	        var websiteURLocal = nameElement.value;
 
-	        document.getElementById("someDiv").innerHTML += websiteURL;
+	        document.getElementById("someDiv").innerHTML += websiteURLlocal;
 	        
 	        return websiteSplit[1];
 	      }
