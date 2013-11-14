@@ -187,7 +187,7 @@ function getWebsiteName() {
 	      });
 	});
 	
-	$(document).ready(function() {
+	$(document).ready(function(getWebsiteName()) {
 	    $('#example3').dataTable( {
 	        "bProcessing": true,
 	        "sAjaxSource": "/json/summary/"+getWebsiteName()+"_Xhat_11-Nov-13.json",
@@ -272,7 +272,7 @@ function getWebsiteName() {
 	        
 	        var websiteURLlocal = nameElement.value;
 
-	        document.getElementById("someDiv").innerHTML = websiteURLlocal;
+	        document.getElementById("someDiv").innerHTML = "for " + websiteURLlocal;
 	        
 	        // return websiteSplit[1];
 	      }
