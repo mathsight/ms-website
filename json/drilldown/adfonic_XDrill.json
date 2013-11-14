@@ -1,0 +1,1148 @@
+{
+	"onsite": {
+		"number_of_images_missing_alt": [
+			{
+				"html_id": "http://www.adfonic.com/mobile-advertising-services/mobile-dsp",
+				"feature_value": "0",
+				"cluster_win_mean": "11.2",
+				"delta": "11.2"
+			},
+			{
+				"html_id": "http://www.adfonic.com/about/contact-us",
+				"feature_value": "1",
+				"cluster_win_mean": "11.2",
+				"delta": "10.2"
+			},
+			{
+				"html_id": "http://www.adfonic.com/support/contact-us",
+				"feature_value": "1",
+				"cluster_win_mean": "11.2",
+				"delta": "10.2"
+			},
+			{
+				"html_id": "http://www.adfonic.com/terms-and-conditions",
+				"feature_value": "0",
+				"cluster_win_mean": "11.2",
+				"delta": "11.2"
+			},
+			{
+				"html_id": "http://www.adfonic.com/terms-and-conditions#0.3__Ref232493738",
+				"feature_value": "0",
+				"cluster_win_mean": "11.2",
+				"delta": "11.2"
+			},
+			{
+				"html_id": "http://www.adfonic.com/terms-and-conditions#0.3__Ref230088424",
+				"feature_value": "0",
+				"cluster_win_mean": "11.2",
+				"delta": "11.2"
+			},
+			{
+				"html_id": "http://www.adfonic.com/terms-and-conditions#0.3__Ref232587961",
+				"feature_value": "0",
+				"cluster_win_mean": "11.2",
+				"delta": "11.2"
+			},
+			{
+				"html_id": "http://www.adfonic.com/terms-and-conditions#0.3__Ref230089836",
+				"feature_value": "0",
+				"cluster_win_mean": "11.2",
+				"delta": "11.2"
+			},
+			{
+				"html_id": "http://www.adfonic.com/privacy-policy",
+				"feature_value": "0",
+				"cluster_win_mean": "11.2",
+				"delta": "11.2"
+			},
+			{
+				"html_id": "http://www.adfonic.com/end-user-privacy-policy",
+				"feature_value": "0",
+				"cluster_win_mean": "11.2",
+				"delta": "11.2"
+			},
+			{
+				"html_id": "http://www.adfonic.com/mobile-advertising-services/advertisers",
+				"feature_value": "0",
+				"cluster_win_mean": "11.2",
+				"delta": "11.2"
+			},
+			{
+				"html_id": "http://www.adfonic.com/mobile-advertising-services/advertisers/performance",
+				"feature_value": "0",
+				"cluster_win_mean": "11.2",
+				"delta": "11.2"
+			},
+			{
+				"html_id": "http://www.adfonic.com/mobile-advertising-services/advertisers/rich-media",
+				"feature_value": "0",
+				"cluster_win_mean": "11.2",
+				"delta": "11.2"
+			},
+			{
+				"html_id": "http://www.adfonic.com/mobile-advertising-services/advertisers/video",
+				"feature_value": "0",
+				"cluster_win_mean": "11.2",
+				"delta": "11.2"
+			},
+			{
+				"html_id": "http://www.adfonic.com/mobile-advertising-services/mobile-DSP",
+				"feature_value": "0",
+				"cluster_win_mean": "11.2",
+				"delta": "11.2"
+			},
+			{
+				"html_id": "http://www.adfonic.com/mobile-advertising-services/publishers",
+				"feature_value": "0",
+				"cluster_win_mean": "11.2",
+				"delta": "11.2"
+			},
+			{
+				"html_id": "http://www.adfonic.com/mobile-advertising-services/publishers/global-campaigns",
+				"feature_value": "0",
+				"cluster_win_mean": "11.2",
+				"delta": "11.2"
+			},
+			{
+				"html_id": "http://www.adfonic.com/mobile-advertising-services/publishers/ad-serving",
+				"feature_value": "0",
+				"cluster_win_mean": "11.2",
+				"delta": "11.2"
+			},
+			{
+				"html_id": "http://www.adfonic.com/mobile-advertising-services/publishers/integration-options",
+				"feature_value": "0",
+				"cluster_win_mean": "11.2",
+				"delta": "11.2"
+			},
+			{
+				"html_id": "http://www.adfonic.com/mobile-advertising-services/publishers/sdks-for-developers",
+				"feature_value": "0",
+				"cluster_win_mean": "11.2",
+				"delta": "11.2"
+			},
+			{
+				"html_id": "http://www.adfonic.com/mobile-advertising-services/publishers/house-ads",
+				"feature_value": "0",
+				"cluster_win_mean": "11.2",
+				"delta": "11.2"
+			},
+			{
+				"html_id": "http://www.adfonic.com/mobile-advertising-services/publishers/apis",
+				"feature_value": "0",
+				"cluster_win_mean": "11.2",
+				"delta": "11.2"
+			},
+			{
+				"html_id": "http://www.adfonic.com/mobile-advertising-services/publishers/reporting-analytics",
+				"feature_value": "0",
+				"cluster_win_mean": "11.2",
+				"delta": "11.2"
+			},
+			{
+				"html_id": "http://www.adfonic.com/mobile-advertising-services/publishers/google-mediation",
+				"feature_value": "0",
+				"cluster_win_mean": "11.2",
+				"delta": "11.2"
+			}
+		],
+		"number_of_scripts": [
+			{
+				"html_id": "http://www.adfonic.com/mobile-advertising-services/mobile-dsp",
+				"feature_value": "11",
+				"cluster_win_mean": "17.88",
+				"delta": "6.88"
+			},
+			{
+				"html_id": "http://www.adfonic.com/about/contact-us",
+				"feature_value": "15",
+				"cluster_win_mean": "17.88",
+				"delta": "2.88"
+			},
+			{
+				"html_id": "http://www.adfonic.com/support/contact-us",
+				"feature_value": "15",
+				"cluster_win_mean": "17.88",
+				"delta": "2.88"
+			},
+			{
+				"html_id": "http://www.adfonic.com/terms-and-conditions",
+				"feature_value": "11",
+				"cluster_win_mean": "17.88",
+				"delta": "6.88"
+			},
+			{
+				"html_id": "http://www.adfonic.com/terms-and-conditions#0.3__Ref232493738",
+				"feature_value": "11",
+				"cluster_win_mean": "17.88",
+				"delta": "6.88"
+			},
+			{
+				"html_id": "http://www.adfonic.com/terms-and-conditions#0.3__Ref230088424",
+				"feature_value": "11",
+				"cluster_win_mean": "17.88",
+				"delta": "6.88"
+			},
+			{
+				"html_id": "http://www.adfonic.com/terms-and-conditions#0.3__Ref232587961",
+				"feature_value": "11",
+				"cluster_win_mean": "17.88",
+				"delta": "6.88"
+			},
+			{
+				"html_id": "http://www.adfonic.com/terms-and-conditions#0.3__Ref230089836",
+				"feature_value": "11",
+				"cluster_win_mean": "17.88",
+				"delta": "6.88"
+			},
+			{
+				"html_id": "http://www.adfonic.com/privacy-policy",
+				"feature_value": "11",
+				"cluster_win_mean": "17.88",
+				"delta": "6.88"
+			},
+			{
+				"html_id": "http://www.adfonic.com/end-user-privacy-policy",
+				"feature_value": "11",
+				"cluster_win_mean": "17.88",
+				"delta": "6.88"
+			},
+			{
+				"html_id": "http://www.adfonic.com/mobile-advertising-services/advertisers",
+				"feature_value": "11",
+				"cluster_win_mean": "17.88",
+				"delta": "6.88"
+			},
+			{
+				"html_id": "http://www.adfonic.com/mobile-advertising-services/advertisers/performance",
+				"feature_value": "11",
+				"cluster_win_mean": "17.88",
+				"delta": "6.88"
+			},
+			{
+				"html_id": "http://www.adfonic.com/mobile-advertising-services/advertisers/rich-media",
+				"feature_value": "11",
+				"cluster_win_mean": "17.88",
+				"delta": "6.88"
+			},
+			{
+				"html_id": "http://www.adfonic.com/mobile-advertising-services/advertisers/video",
+				"feature_value": "11",
+				"cluster_win_mean": "17.88",
+				"delta": "6.88"
+			},
+			{
+				"html_id": "http://www.adfonic.com/mobile-advertising-services/mobile-DSP",
+				"feature_value": "11",
+				"cluster_win_mean": "17.88",
+				"delta": "6.88"
+			},
+			{
+				"html_id": "http://www.adfonic.com/mobile-advertising-services/publishers",
+				"feature_value": "11",
+				"cluster_win_mean": "17.88",
+				"delta": "6.88"
+			},
+			{
+				"html_id": "http://www.adfonic.com/mobile-advertising-services/publishers/global-campaigns",
+				"feature_value": "11",
+				"cluster_win_mean": "17.88",
+				"delta": "6.88"
+			},
+			{
+				"html_id": "http://www.adfonic.com/mobile-advertising-services/publishers/ad-serving",
+				"feature_value": "11",
+				"cluster_win_mean": "17.88",
+				"delta": "6.88"
+			},
+			{
+				"html_id": "http://www.adfonic.com/mobile-advertising-services/publishers/integration-options",
+				"feature_value": "11",
+				"cluster_win_mean": "17.88",
+				"delta": "6.88"
+			},
+			{
+				"html_id": "http://www.adfonic.com/mobile-advertising-services/publishers/sdks-for-developers",
+				"feature_value": "11",
+				"cluster_win_mean": "17.88",
+				"delta": "6.88"
+			},
+			{
+				"html_id": "http://www.adfonic.com/mobile-advertising-services/publishers/house-ads",
+				"feature_value": "11",
+				"cluster_win_mean": "17.88",
+				"delta": "6.88"
+			},
+			{
+				"html_id": "http://www.adfonic.com/mobile-advertising-services/publishers/apis",
+				"feature_value": "11",
+				"cluster_win_mean": "17.88",
+				"delta": "6.88"
+			},
+			{
+				"html_id": "http://www.adfonic.com/mobile-advertising-services/publishers/reporting-analytics",
+				"feature_value": "11",
+				"cluster_win_mean": "17.88",
+				"delta": "6.88"
+			},
+			{
+				"html_id": "http://www.adfonic.com/mobile-advertising-services/publishers/google-mediation",
+				"feature_value": "11",
+				"cluster_win_mean": "17.88",
+				"delta": "6.88"
+			}
+		],
+		"number_of_images_in_body": [
+			{
+				"html_id": "http://www.adfonic.com/mobile-advertising-services/mobile-dsp",
+				"feature_value": "0",
+				"cluster_win_mean": "11.27",
+				"delta": "11.27"
+			},
+			{
+				"html_id": "http://www.adfonic.com/about/contact-us",
+				"feature_value": "0",
+				"cluster_win_mean": "11.27",
+				"delta": "11.27"
+			},
+			{
+				"html_id": "http://www.adfonic.com/support/contact-us",
+				"feature_value": "0",
+				"cluster_win_mean": "11.27",
+				"delta": "11.27"
+			},
+			{
+				"html_id": "http://www.adfonic.com/terms-and-conditions",
+				"feature_value": "0",
+				"cluster_win_mean": "11.27",
+				"delta": "11.27"
+			},
+			{
+				"html_id": "http://www.adfonic.com/terms-and-conditions#0.3__Ref232493738",
+				"feature_value": "0",
+				"cluster_win_mean": "11.27",
+				"delta": "11.27"
+			},
+			{
+				"html_id": "http://www.adfonic.com/terms-and-conditions#0.3__Ref230088424",
+				"feature_value": "0",
+				"cluster_win_mean": "11.27",
+				"delta": "11.27"
+			},
+			{
+				"html_id": "http://www.adfonic.com/terms-and-conditions#0.3__Ref232587961",
+				"feature_value": "0",
+				"cluster_win_mean": "11.27",
+				"delta": "11.27"
+			},
+			{
+				"html_id": "http://www.adfonic.com/terms-and-conditions#0.3__Ref230089836",
+				"feature_value": "0",
+				"cluster_win_mean": "11.27",
+				"delta": "11.27"
+			},
+			{
+				"html_id": "http://www.adfonic.com/privacy-policy",
+				"feature_value": "0",
+				"cluster_win_mean": "11.27",
+				"delta": "11.27"
+			},
+			{
+				"html_id": "http://www.adfonic.com/end-user-privacy-policy",
+				"feature_value": "0",
+				"cluster_win_mean": "11.27",
+				"delta": "11.27"
+			},
+			{
+				"html_id": "http://www.adfonic.com/mobile-advertising-services/advertisers",
+				"feature_value": "0",
+				"cluster_win_mean": "11.27",
+				"delta": "11.27"
+			},
+			{
+				"html_id": "http://www.adfonic.com/mobile-advertising-services/advertisers/performance",
+				"feature_value": "0",
+				"cluster_win_mean": "11.27",
+				"delta": "11.27"
+			},
+			{
+				"html_id": "http://www.adfonic.com/mobile-advertising-services/advertisers/rich-media",
+				"feature_value": "0",
+				"cluster_win_mean": "11.27",
+				"delta": "11.27"
+			},
+			{
+				"html_id": "http://www.adfonic.com/mobile-advertising-services/advertisers/video",
+				"feature_value": "0",
+				"cluster_win_mean": "11.27",
+				"delta": "11.27"
+			},
+			{
+				"html_id": "http://www.adfonic.com/mobile-advertising-services/mobile-DSP",
+				"feature_value": "0",
+				"cluster_win_mean": "11.27",
+				"delta": "11.27"
+			},
+			{
+				"html_id": "http://www.adfonic.com/mobile-advertising-services/publishers",
+				"feature_value": "0",
+				"cluster_win_mean": "11.27",
+				"delta": "11.27"
+			},
+			{
+				"html_id": "http://www.adfonic.com/mobile-advertising-services/publishers/global-campaigns",
+				"feature_value": "0",
+				"cluster_win_mean": "11.27",
+				"delta": "11.27"
+			},
+			{
+				"html_id": "http://www.adfonic.com/mobile-advertising-services/publishers/ad-serving",
+				"feature_value": "0",
+				"cluster_win_mean": "11.27",
+				"delta": "11.27"
+			},
+			{
+				"html_id": "http://www.adfonic.com/mobile-advertising-services/publishers/integration-options",
+				"feature_value": "0",
+				"cluster_win_mean": "11.27",
+				"delta": "11.27"
+			},
+			{
+				"html_id": "http://www.adfonic.com/mobile-advertising-services/publishers/sdks-for-developers",
+				"feature_value": "0",
+				"cluster_win_mean": "11.27",
+				"delta": "11.27"
+			},
+			{
+				"html_id": "http://www.adfonic.com/mobile-advertising-services/publishers/house-ads",
+				"feature_value": "0",
+				"cluster_win_mean": "11.27",
+				"delta": "11.27"
+			},
+			{
+				"html_id": "http://www.adfonic.com/mobile-advertising-services/publishers/apis",
+				"feature_value": "0",
+				"cluster_win_mean": "11.27",
+				"delta": "11.27"
+			},
+			{
+				"html_id": "http://www.adfonic.com/mobile-advertising-services/publishers/reporting-analytics",
+				"feature_value": "0",
+				"cluster_win_mean": "11.27",
+				"delta": "11.27"
+			},
+			{
+				"html_id": "http://www.adfonic.com/mobile-advertising-services/publishers/google-mediation",
+				"feature_value": "0",
+				"cluster_win_mean": "11.27",
+				"delta": "11.27"
+			}
+		],
+		"html5_detected": [
+			{
+				"html_id": "http://www.adfonic.com/mobile-advertising-services/mobile-dsp",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.adfonic.com/about/contact-us",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.adfonic.com/support/contact-us",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.adfonic.com/terms-and-conditions",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.adfonic.com/terms-and-conditions#0.3__Ref232493738",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.adfonic.com/terms-and-conditions#0.3__Ref230088424",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.adfonic.com/terms-and-conditions#0.3__Ref232587961",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.adfonic.com/terms-and-conditions#0.3__Ref230089836",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.adfonic.com/privacy-policy",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.adfonic.com/end-user-privacy-policy",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.adfonic.com/mobile-advertising-services/advertisers",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.adfonic.com/mobile-advertising-services/advertisers/performance",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.adfonic.com/mobile-advertising-services/advertisers/rich-media",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.adfonic.com/mobile-advertising-services/advertisers/video",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.adfonic.com/mobile-advertising-services/mobile-DSP",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.adfonic.com/mobile-advertising-services/publishers",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.adfonic.com/mobile-advertising-services/publishers/global-campaigns",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.adfonic.com/mobile-advertising-services/publishers/ad-serving",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.adfonic.com/mobile-advertising-services/publishers/integration-options",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.adfonic.com/mobile-advertising-services/publishers/sdks-for-developers",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.adfonic.com/mobile-advertising-services/publishers/house-ads",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.adfonic.com/mobile-advertising-services/publishers/apis",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.adfonic.com/mobile-advertising-services/publishers/reporting-analytics",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.adfonic.com/mobile-advertising-services/publishers/google-mediation",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			}
+		],
+		"ratio_of_rare_words_to_total": [
+			{
+				"html_id": "http://www.adfonic.com/mobile-advertising-services/mobile-dsp",
+				"feature_value": " 0.18966",
+				"cluster_win_mean": "0.23",
+				"delta": "0.04"
+			},
+			{
+				"html_id": "http://www.adfonic.com/about/contact-us",
+				"feature_value": " 0.10811",
+				"cluster_win_mean": "0.23",
+				"delta": "0.13"
+			},
+			{
+				"html_id": "http://www.adfonic.com/support/contact-us",
+				"feature_value": "0.071429",
+				"cluster_win_mean": "0.23",
+				"delta": "0.16"
+			},
+			{
+				"html_id": "http://www.adfonic.com/terms-and-conditions",
+				"feature_value": " 0.13351",
+				"cluster_win_mean": "0.23",
+				"delta": " 0.1"
+			},
+			{
+				"html_id": "http://www.adfonic.com/terms-and-conditions#0.3__Ref232493738",
+				"feature_value": " 0.13351",
+				"cluster_win_mean": "0.23",
+				"delta": " 0.1"
+			},
+			{
+				"html_id": "http://www.adfonic.com/terms-and-conditions#0.3__Ref230088424",
+				"feature_value": " 0.13351",
+				"cluster_win_mean": "0.23",
+				"delta": " 0.1"
+			},
+			{
+				"html_id": "http://www.adfonic.com/terms-and-conditions#0.3__Ref232587961",
+				"feature_value": " 0.13351",
+				"cluster_win_mean": "0.23",
+				"delta": " 0.1"
+			},
+			{
+				"html_id": "http://www.adfonic.com/terms-and-conditions#0.3__Ref230089836",
+				"feature_value": " 0.13351",
+				"cluster_win_mean": "0.23",
+				"delta": " 0.1"
+			},
+			{
+				"html_id": "http://www.adfonic.com/privacy-policy",
+				"feature_value": "0.072881",
+				"cluster_win_mean": "0.23",
+				"delta": "0.16"
+			},
+			{
+				"html_id": "http://www.adfonic.com/end-user-privacy-policy",
+				"feature_value": "0.092982",
+				"cluster_win_mean": "0.23",
+				"delta": "0.14"
+			},
+			{
+				"html_id": "http://www.adfonic.com/mobile-advertising-services/advertisers",
+				"feature_value": "   0.125",
+				"cluster_win_mean": "0.23",
+				"delta": "0.11"
+			},
+			{
+				"html_id": "http://www.adfonic.com/mobile-advertising-services/advertisers/performance",
+				"feature_value": "    0.12",
+				"cluster_win_mean": "0.23",
+				"delta": "0.11"
+			},
+			{
+				"html_id": "http://www.adfonic.com/mobile-advertising-services/advertisers/rich-media",
+				"feature_value": "  0.1068",
+				"cluster_win_mean": "0.23",
+				"delta": "0.13"
+			},
+			{
+				"html_id": "http://www.adfonic.com/mobile-advertising-services/advertisers/video",
+				"feature_value": " 0.12406",
+				"cluster_win_mean": "0.23",
+				"delta": "0.11"
+			},
+			{
+				"html_id": "http://www.adfonic.com/mobile-advertising-services/mobile-DSP",
+				"feature_value": " 0.18966",
+				"cluster_win_mean": "0.23",
+				"delta": "0.04"
+			},
+			{
+				"html_id": "http://www.adfonic.com/mobile-advertising-services/publishers",
+				"feature_value": " 0.17291",
+				"cluster_win_mean": "0.23",
+				"delta": "0.06"
+			},
+			{
+				"html_id": "http://www.adfonic.com/mobile-advertising-services/publishers/global-campaigns",
+				"feature_value": " 0.16312",
+				"cluster_win_mean": "0.23",
+				"delta": "0.07"
+			},
+			{
+				"html_id": "http://www.adfonic.com/mobile-advertising-services/publishers/ad-serving",
+				"feature_value": " 0.17021",
+				"cluster_win_mean": "0.23",
+				"delta": "0.06"
+			},
+			{
+				"html_id": "http://www.adfonic.com/mobile-advertising-services/publishers/house-ads",
+				"feature_value": " 0.20245",
+				"cluster_win_mean": "0.23",
+				"delta": "0.03"
+			},
+			{
+				"html_id": "http://www.adfonic.com/mobile-advertising-services/publishers/reporting-analytics",
+				"feature_value": " 0.18085",
+				"cluster_win_mean": "0.23",
+				"delta": "0.05"
+			}
+		],
+		"maximum_length_of_h2": [
+			{
+				"html_id": "http://www.adfonic.com/mobile-advertising-services/mobile-dsp",
+				"feature_value": "0",
+				"cluster_win_mean": "52.07",
+				"delta": "52.07"
+			},
+			{
+				"html_id": "http://www.adfonic.com/about/contact-us",
+				"feature_value": "0",
+				"cluster_win_mean": "52.07",
+				"delta": "52.07"
+			},
+			{
+				"html_id": "http://www.adfonic.com/support/contact-us",
+				"feature_value": "0",
+				"cluster_win_mean": "52.07",
+				"delta": "52.07"
+			},
+			{
+				"html_id": "http://www.adfonic.com/terms-and-conditions",
+				"feature_value": "0",
+				"cluster_win_mean": "52.07",
+				"delta": "52.07"
+			},
+			{
+				"html_id": "http://www.adfonic.com/terms-and-conditions#0.3__Ref232493738",
+				"feature_value": "0",
+				"cluster_win_mean": "52.07",
+				"delta": "52.07"
+			},
+			{
+				"html_id": "http://www.adfonic.com/terms-and-conditions#0.3__Ref230088424",
+				"feature_value": "0",
+				"cluster_win_mean": "52.07",
+				"delta": "52.07"
+			},
+			{
+				"html_id": "http://www.adfonic.com/terms-and-conditions#0.3__Ref232587961",
+				"feature_value": "0",
+				"cluster_win_mean": "52.07",
+				"delta": "52.07"
+			},
+			{
+				"html_id": "http://www.adfonic.com/terms-and-conditions#0.3__Ref230089836",
+				"feature_value": "0",
+				"cluster_win_mean": "52.07",
+				"delta": "52.07"
+			},
+			{
+				"html_id": "http://www.adfonic.com/privacy-policy",
+				"feature_value": "0",
+				"cluster_win_mean": "52.07",
+				"delta": "52.07"
+			},
+			{
+				"html_id": "http://www.adfonic.com/end-user-privacy-policy",
+				"feature_value": "0",
+				"cluster_win_mean": "52.07",
+				"delta": "52.07"
+			},
+			{
+				"html_id": "http://www.adfonic.com/mobile-advertising-services/advertisers",
+				"feature_value": "0",
+				"cluster_win_mean": "52.07",
+				"delta": "52.07"
+			},
+			{
+				"html_id": "http://www.adfonic.com/mobile-advertising-services/advertisers/performance",
+				"feature_value": "0",
+				"cluster_win_mean": "52.07",
+				"delta": "52.07"
+			},
+			{
+				"html_id": "http://www.adfonic.com/mobile-advertising-services/advertisers/rich-media",
+				"feature_value": "0",
+				"cluster_win_mean": "52.07",
+				"delta": "52.07"
+			},
+			{
+				"html_id": "http://www.adfonic.com/mobile-advertising-services/advertisers/video",
+				"feature_value": "0",
+				"cluster_win_mean": "52.07",
+				"delta": "52.07"
+			},
+			{
+				"html_id": "http://www.adfonic.com/mobile-advertising-services/mobile-DSP",
+				"feature_value": "0",
+				"cluster_win_mean": "52.07",
+				"delta": "52.07"
+			},
+			{
+				"html_id": "http://www.adfonic.com/mobile-advertising-services/publishers",
+				"feature_value": "0",
+				"cluster_win_mean": "52.07",
+				"delta": "52.07"
+			},
+			{
+				"html_id": "http://www.adfonic.com/mobile-advertising-services/publishers/global-campaigns",
+				"feature_value": "0",
+				"cluster_win_mean": "52.07",
+				"delta": "52.07"
+			},
+			{
+				"html_id": "http://www.adfonic.com/mobile-advertising-services/publishers/ad-serving",
+				"feature_value": "0",
+				"cluster_win_mean": "52.07",
+				"delta": "52.07"
+			},
+			{
+				"html_id": "http://www.adfonic.com/mobile-advertising-services/publishers/integration-options",
+				"feature_value": "0",
+				"cluster_win_mean": "52.07",
+				"delta": "52.07"
+			},
+			{
+				"html_id": "http://www.adfonic.com/mobile-advertising-services/publishers/sdks-for-developers",
+				"feature_value": "0",
+				"cluster_win_mean": "52.07",
+				"delta": "52.07"
+			},
+			{
+				"html_id": "http://www.adfonic.com/mobile-advertising-services/publishers/house-ads",
+				"feature_value": "0",
+				"cluster_win_mean": "52.07",
+				"delta": "52.07"
+			},
+			{
+				"html_id": "http://www.adfonic.com/mobile-advertising-services/publishers/apis",
+				"feature_value": "0",
+				"cluster_win_mean": "52.07",
+				"delta": "52.07"
+			},
+			{
+				"html_id": "http://www.adfonic.com/mobile-advertising-services/publishers/reporting-analytics",
+				"feature_value": "0",
+				"cluster_win_mean": "52.07",
+				"delta": "52.07"
+			},
+			{
+				"html_id": "http://www.adfonic.com/mobile-advertising-services/publishers/google-mediation",
+				"feature_value": "0",
+				"cluster_win_mean": "52.07",
+				"delta": "52.07"
+			}
+		],
+		"average_length_of_h2": [
+			{
+				"html_id": "http://www.adfonic.com/mobile-advertising-services/mobile-dsp",
+				"feature_value": "0",
+				"cluster_win_mean": "51.77",
+				"delta": "51.77"
+			},
+			{
+				"html_id": "http://www.adfonic.com/about/contact-us",
+				"feature_value": "0",
+				"cluster_win_mean": "51.77",
+				"delta": "51.77"
+			},
+			{
+				"html_id": "http://www.adfonic.com/support/contact-us",
+				"feature_value": "0",
+				"cluster_win_mean": "51.77",
+				"delta": "51.77"
+			},
+			{
+				"html_id": "http://www.adfonic.com/terms-and-conditions",
+				"feature_value": "0",
+				"cluster_win_mean": "51.77",
+				"delta": "51.77"
+			},
+			{
+				"html_id": "http://www.adfonic.com/terms-and-conditions#0.3__Ref232493738",
+				"feature_value": "0",
+				"cluster_win_mean": "51.77",
+				"delta": "51.77"
+			},
+			{
+				"html_id": "http://www.adfonic.com/terms-and-conditions#0.3__Ref230088424",
+				"feature_value": "0",
+				"cluster_win_mean": "51.77",
+				"delta": "51.77"
+			},
+			{
+				"html_id": "http://www.adfonic.com/terms-and-conditions#0.3__Ref232587961",
+				"feature_value": "0",
+				"cluster_win_mean": "51.77",
+				"delta": "51.77"
+			},
+			{
+				"html_id": "http://www.adfonic.com/terms-and-conditions#0.3__Ref230089836",
+				"feature_value": "0",
+				"cluster_win_mean": "51.77",
+				"delta": "51.77"
+			},
+			{
+				"html_id": "http://www.adfonic.com/privacy-policy",
+				"feature_value": "0",
+				"cluster_win_mean": "51.77",
+				"delta": "51.77"
+			},
+			{
+				"html_id": "http://www.adfonic.com/end-user-privacy-policy",
+				"feature_value": "0",
+				"cluster_win_mean": "51.77",
+				"delta": "51.77"
+			},
+			{
+				"html_id": "http://www.adfonic.com/mobile-advertising-services/advertisers",
+				"feature_value": "0",
+				"cluster_win_mean": "51.77",
+				"delta": "51.77"
+			},
+			{
+				"html_id": "http://www.adfonic.com/mobile-advertising-services/advertisers/performance",
+				"feature_value": "0",
+				"cluster_win_mean": "51.77",
+				"delta": "51.77"
+			},
+			{
+				"html_id": "http://www.adfonic.com/mobile-advertising-services/advertisers/rich-media",
+				"feature_value": "0",
+				"cluster_win_mean": "51.77",
+				"delta": "51.77"
+			},
+			{
+				"html_id": "http://www.adfonic.com/mobile-advertising-services/advertisers/video",
+				"feature_value": "0",
+				"cluster_win_mean": "51.77",
+				"delta": "51.77"
+			},
+			{
+				"html_id": "http://www.adfonic.com/mobile-advertising-services/mobile-DSP",
+				"feature_value": "0",
+				"cluster_win_mean": "51.77",
+				"delta": "51.77"
+			},
+			{
+				"html_id": "http://www.adfonic.com/mobile-advertising-services/publishers",
+				"feature_value": "0",
+				"cluster_win_mean": "51.77",
+				"delta": "51.77"
+			},
+			{
+				"html_id": "http://www.adfonic.com/mobile-advertising-services/publishers/global-campaigns",
+				"feature_value": "0",
+				"cluster_win_mean": "51.77",
+				"delta": "51.77"
+			},
+			{
+				"html_id": "http://www.adfonic.com/mobile-advertising-services/publishers/ad-serving",
+				"feature_value": "0",
+				"cluster_win_mean": "51.77",
+				"delta": "51.77"
+			},
+			{
+				"html_id": "http://www.adfonic.com/mobile-advertising-services/publishers/integration-options",
+				"feature_value": "0",
+				"cluster_win_mean": "51.77",
+				"delta": "51.77"
+			},
+			{
+				"html_id": "http://www.adfonic.com/mobile-advertising-services/publishers/sdks-for-developers",
+				"feature_value": "0",
+				"cluster_win_mean": "51.77",
+				"delta": "51.77"
+			},
+			{
+				"html_id": "http://www.adfonic.com/mobile-advertising-services/publishers/house-ads",
+				"feature_value": "0",
+				"cluster_win_mean": "51.77",
+				"delta": "51.77"
+			},
+			{
+				"html_id": "http://www.adfonic.com/mobile-advertising-services/publishers/apis",
+				"feature_value": "0",
+				"cluster_win_mean": "51.77",
+				"delta": "51.77"
+			},
+			{
+				"html_id": "http://www.adfonic.com/mobile-advertising-services/publishers/reporting-analytics",
+				"feature_value": "0",
+				"cluster_win_mean": "51.77",
+				"delta": "51.77"
+			},
+			{
+				"html_id": "http://www.adfonic.com/mobile-advertising-services/publishers/google-mediation",
+				"feature_value": "0",
+				"cluster_win_mean": "51.77",
+				"delta": "51.77"
+			}
+		],
+		"number_of_dhtml_scripts": [
+			{
+				"html_id": "http://www.adfonic.com/mobile-advertising-services/mobile-dsp",
+				"feature_value": "0",
+				"cluster_win_mean": "1.16",
+				"delta": "1.16"
+			},
+			{
+				"html_id": "http://www.adfonic.com/about/contact-us",
+				"feature_value": "0",
+				"cluster_win_mean": "1.16",
+				"delta": "1.16"
+			},
+			{
+				"html_id": "http://www.adfonic.com/support/contact-us",
+				"feature_value": "0",
+				"cluster_win_mean": "1.16",
+				"delta": "1.16"
+			},
+			{
+				"html_id": "http://www.adfonic.com/terms-and-conditions",
+				"feature_value": "0",
+				"cluster_win_mean": "1.16",
+				"delta": "1.16"
+			},
+			{
+				"html_id": "http://www.adfonic.com/terms-and-conditions#0.3__Ref232493738",
+				"feature_value": "0",
+				"cluster_win_mean": "1.16",
+				"delta": "1.16"
+			},
+			{
+				"html_id": "http://www.adfonic.com/terms-and-conditions#0.3__Ref230088424",
+				"feature_value": "0",
+				"cluster_win_mean": "1.16",
+				"delta": "1.16"
+			},
+			{
+				"html_id": "http://www.adfonic.com/terms-and-conditions#0.3__Ref232587961",
+				"feature_value": "0",
+				"cluster_win_mean": "1.16",
+				"delta": "1.16"
+			},
+			{
+				"html_id": "http://www.adfonic.com/terms-and-conditions#0.3__Ref230089836",
+				"feature_value": "0",
+				"cluster_win_mean": "1.16",
+				"delta": "1.16"
+			},
+			{
+				"html_id": "http://www.adfonic.com/privacy-policy",
+				"feature_value": "0",
+				"cluster_win_mean": "1.16",
+				"delta": "1.16"
+			},
+			{
+				"html_id": "http://www.adfonic.com/end-user-privacy-policy",
+				"feature_value": "0",
+				"cluster_win_mean": "1.16",
+				"delta": "1.16"
+			},
+			{
+				"html_id": "http://www.adfonic.com/mobile-advertising-services/advertisers",
+				"feature_value": "0",
+				"cluster_win_mean": "1.16",
+				"delta": "1.16"
+			},
+			{
+				"html_id": "http://www.adfonic.com/mobile-advertising-services/advertisers/performance",
+				"feature_value": "0",
+				"cluster_win_mean": "1.16",
+				"delta": "1.16"
+			},
+			{
+				"html_id": "http://www.adfonic.com/mobile-advertising-services/advertisers/rich-media",
+				"feature_value": "0",
+				"cluster_win_mean": "1.16",
+				"delta": "1.16"
+			},
+			{
+				"html_id": "http://www.adfonic.com/mobile-advertising-services/advertisers/video",
+				"feature_value": "0",
+				"cluster_win_mean": "1.16",
+				"delta": "1.16"
+			},
+			{
+				"html_id": "http://www.adfonic.com/mobile-advertising-services/mobile-DSP",
+				"feature_value": "0",
+				"cluster_win_mean": "1.16",
+				"delta": "1.16"
+			},
+			{
+				"html_id": "http://www.adfonic.com/mobile-advertising-services/publishers",
+				"feature_value": "0",
+				"cluster_win_mean": "1.16",
+				"delta": "1.16"
+			},
+			{
+				"html_id": "http://www.adfonic.com/mobile-advertising-services/publishers/global-campaigns",
+				"feature_value": "0",
+				"cluster_win_mean": "1.16",
+				"delta": "1.16"
+			},
+			{
+				"html_id": "http://www.adfonic.com/mobile-advertising-services/publishers/ad-serving",
+				"feature_value": "0",
+				"cluster_win_mean": "1.16",
+				"delta": "1.16"
+			},
+			{
+				"html_id": "http://www.adfonic.com/mobile-advertising-services/publishers/integration-options",
+				"feature_value": "0",
+				"cluster_win_mean": "1.16",
+				"delta": "1.16"
+			},
+			{
+				"html_id": "http://www.adfonic.com/mobile-advertising-services/publishers/sdks-for-developers",
+				"feature_value": "0",
+				"cluster_win_mean": "1.16",
+				"delta": "1.16"
+			},
+			{
+				"html_id": "http://www.adfonic.com/mobile-advertising-services/publishers/house-ads",
+				"feature_value": "0",
+				"cluster_win_mean": "1.16",
+				"delta": "1.16"
+			},
+			{
+				"html_id": "http://www.adfonic.com/mobile-advertising-services/publishers/apis",
+				"feature_value": "0",
+				"cluster_win_mean": "1.16",
+				"delta": "1.16"
+			},
+			{
+				"html_id": "http://www.adfonic.com/mobile-advertising-services/publishers/reporting-analytics",
+				"feature_value": "0",
+				"cluster_win_mean": "1.16",
+				"delta": "1.16"
+			},
+			{
+				"html_id": "http://www.adfonic.com/mobile-advertising-services/publishers/google-mediation",
+				"feature_value": "0",
+				"cluster_win_mean": "1.16",
+				"delta": "1.16"
+			}
+		]
+	}
+}
