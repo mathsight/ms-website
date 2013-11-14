@@ -292,7 +292,7 @@ var feature_list= {2:"number_of_images_missing_alt",
 		} );
 	} );
 		$(document).ready(function() {
-		$('#example1').dataTable( {
+		$('#example11').dataTable( {
 			"bProcessing": true,
 			"sAjaxSource": "/json/drilldown/5_"+websiteName+"_XDrillOff_11-Nov-13.json",
 			"sAjaxDataProp": "offsite."+ feature_list[11],
@@ -465,39 +465,7 @@ rel="stylesheet" type="text/css">
 		  <h2>Influential Feature Value and Delta to Winning Mean</h2>
 		  <hr>
 
-			  <h3><a id="F1"><script>document.write(feature_list[1].replace(/_/g," "));</script></a></h3>
-				  
-		  <div id="dynamic">
-			  <table cellpadding="0" cellspacing="0" border="0" class="display" id="example1">
-				  <thead>
-					<tr>
-						<th width="70%" rowspan="2">Page URL</th>
-						<th width="30%" colspan="3">Feature data</th>  
-					</tr>
-					<tr>
-						<th width="10%">Value</th>
-						<th width="10%">Cluster mean</th>
-						<th width="10%">Delta</th>
-					</tr>
-				  </thead>
-				  <tbody>
-					  
-				  </tbody>
-				  <tfoot>
-					  <tr>
-						  <th rowspan="2" >Page URL</th>
-						  <th>Value</th>
-						  <th>Cluster mean</th>
-						  <th>Delta</th>
-					  </tr>
-					  <tr>
-						  <th colspan="3">Feature data</th>
-					  </tr>
-				  </tfoot>
-			  </table>
-		  </div>
-		  
-		  <hr>
+			  
 		  
 		  <h3><a id="F2"><script>document.write(feature_list[2].replace(/_/g," "));</script></a></h3>
 		  <div id="dynamic">
@@ -793,6 +761,42 @@ rel="stylesheet" type="text/css">
 				  </tfoot>
 			  </table>
 		  </div>
+		  
+		  <hr>
+		  
+		  <h3><a id="F1"><script>document.write(feature_list[11].replace(/_/g," "));</script></a></h3>
+				  
+		  <div id="dynamic">
+			  <table cellpadding="0" cellspacing="0" border="0" class="display" id="example11">
+				  <thead>
+					<tr>
+						<th width="70%" rowspan="2">Page URL</th>
+						<th width="30%" colspan="3">Feature data</th>  
+					</tr>
+					<tr>
+						<th width="10%">Value</th>
+						<th width="10%">Cluster mean</th>
+						<th width="10%">Delta</th>
+					</tr>
+				  </thead>
+				  <tbody>
+					  
+				  </tbody>
+				  <tfoot>
+					  <tr>
+						  <th rowspan="2" >Page URL</th>
+						  <th>Value</th>
+						  <th>Cluster mean</th>
+						  <th>Delta</th>
+					  </tr>
+					  <tr>
+						  <th colspan="3">Feature data</th>
+					  </tr>
+				  </tfoot>
+			  </table>
+		  </div>
+		  
+		  <hr>
 
 		  
 		  <hr>
