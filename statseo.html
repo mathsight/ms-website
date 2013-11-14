@@ -184,7 +184,7 @@ var websiteName = websiteSplit[1];
 	$(document).ready(function() {
 	    $('#example3').dataTable( {
 	        "bProcessing": true,
-	        "sAjaxSource": "/json/summary/"+websiteName+"_Xhat_11-Nov-13.json",
+	        "sAjaxSource": "/json/summary/"+getWebsiteName()+"_Xhat_11-Nov-13.json",
 	        "sAjaxDataProp": "onsite",
 			"aaSorting": [[ 2, "desc" ]],
 		    "aoColumns": [
@@ -257,6 +257,13 @@ var websiteName = websiteSplit[1];
 	
 	<script>
 
+function getWebsiteName() {
+  var urlFull = document.getElementById("inputURL");
+  var websiteSplitDyn = urlFull.split(".");
+var websiteNameDyn = websiteSplitDyn[1];
+  return websiteNameDyn;
+ }
+
 	
 	function doStuff()
 	      {
@@ -264,7 +271,7 @@ var websiteName = websiteSplit[1];
 	        
 	        var websiteURLlocal = nameElement.value;
 
-	        document.getElementById("someDiv").innerHTML + websiteURLlocal;
+	        document.getElementById("someDiv").innerHTML += websiteURLlocal;
 	        
 	        // return websiteSplit[1];
 	      }
