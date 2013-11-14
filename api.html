@@ -614,20 +614,20 @@
             <tbody>
               <tr>
                 <td>
-                  ONSITE
+                  ONSITE:
                 </td>
                 <td>
-                  https://api.mathsight.org/ms_api/v1/onsite?target=http%3A%2F%2Fwww.mydomain.com&amp;metric=drilldown&amp;token={
-                  Your MathSight key }
+                  <pre><code>https://api.mathsight.org/ms_api/v1/onsite?target=http%3A%2F%2Fwww.mydomain.com&amp;metric=drilldown&amp;token={
+                  Your MathSight key }</code></pre>
                 </td>
               </tr>
               <tr>
                 <td>
-                  OFFSITE
+                  OFFSITE:
                 </td>
                 <td>
-                  https://api.mathsight.org/ms_api/v1/offsite?target=http%3A%2F%2Fwww.blogpage.com&amp;metric=drilldown&amp;token={
-                  Your MathSight key }
+                  <pre><code>https://api.mathsight.org/ms_api/v1/offsite?target=http%3A%2F%2Fwww.blogpage.com&amp;metric=drilldown&amp;token={
+                  Your MathSight key }</code></pre>
                 </td>
               </tr>
             </tbody>
@@ -644,117 +644,54 @@
           </table>
           Response example:
           <div>
+          <pre><code>
+          { 
+          	"result": 
+          		{ 
+          			"average_backlink_flesch_reading_ease": 
+          			[ 
+          				{ 
+          					"html_id": "http://www.mydomain.com/terms-and-conditions", 
+ 							"feature_value": 1, 
+ 							"delta": 41.615687 
+						}, 
+						{	 
+							"html_id": "http://www.mydomain.com/2012/12/13/jewellery-trends-spring-summer-2013", 
+							"feature_value": 2, 
+							"delta": 42.615687 
+						}, 
+						{ 
+							"html_id": "http://www.mydomain.com/terms-and-conditions", 
+							"feature_value": 3, 
+							"delta": 43.615687 
+						} 
+					], 
+					"number_of_images_missing_alt": 
+					[ 
+						{ 
+							"html_id": "http://www.mydomain.com/terms-and-conditions", 
+							"feature_value": 1, 
+							"delta": 41.615687 
+						}, 
+						{ 
+							"html_id": "http://www.mydomain.com/2012/12/13/jewellery-trends-spring-summer-2013", 
+							"feature_value": 2,
+							"delta": 42.615687
+						}, 
+						{ 
+							"html_id": "http://www.mydomain.com/terms-and-conditions", 
+							"feature_value": 3, 
+							"delta": 43.615687 
+						} 
+					] 
+					...
+				} 
+		} 
+          </code></pre>
+          
             <br>
           </div>
-          <div>
-            {&nbsp;
-            <div>
-              "result":&nbsp;
-              <div>
-                { "average_backlink_flesch_reading_ease": [&nbsp;
-                <div>
-                  {&nbsp;
-                  <div>
-                    "html_id": "http://www.mydomain.com/terms-and-conditions",&nbsp;
-                    <div>
-                      &nbsp;"feature_value": 1,&nbsp;
-                      <div>
-                        "delta": 41.615687&nbsp;
-                        <div>
-                          },&nbsp;
-                          <div>
-                            {&nbsp;
-                            <div>
-                              "html_id": "http://www.mydomain.com/2012/12/13/jewellery-trends-spring-summer-2013",&nbsp;
-                              <div>
-                                &nbsp;"feature_value": 2,&nbsp;
-                                <div>
-                                  "delta": 42.615687&nbsp;
-                                  <div>
-                                    },&nbsp;
-                                    <div>
-                                      { "html_id": "http://www.mydomain.com/terms-and-conditions",&nbsp;
-                                      <div>
-                                        &nbsp;"feature_value": 3,&nbsp;
-                                        <div>
-                                          "delta": 43.615687&nbsp;
-                                          <div>
-                                            }&nbsp;
-                                            <div>
-                                              ],&nbsp;
-                                              <div>
-                                                "number_of_images_missing_alt": [&nbsp;
-                                                <div>
-                                                  { "html_id": "http://www.mydomain.com/terms-and-conditions",&nbsp;
-                                                  <div>
-                                                    "feature_value": 1,&nbsp;
-                                                    <div>
-                                                      "delta": 41.615687&nbsp;
-                                                      <div>
-                                                        },&nbsp;
-                                                        <div>
-                                                          {&nbsp;
-                                                          <div>
-                                                            "html_id": "http://www.mydomain.com/2012/12/13/jewellery-trends-spring-summer-2013",&nbsp;
-                                                            <div>
-                                                              &nbsp;"feature_value": 2,&nbsp;
-                                                              <div>
-                                                                "delta": 42.615687
-                                                                <div>
-                                                                  &nbsp;},&nbsp;
-                                                                  <div>
-                                                                    {&nbsp;
-                                                                    <div>
-                                                                      "html_id": "http://www.mydomain.com/terms-and-conditions",&nbsp;
-                                                                      <div>
-                                                                        &nbsp;"feature_value": 3,&nbsp;
-                                                                        <div>
-                                                                          "delta": 43.615687&nbsp;
-                                                                          <div>
-                                                                            }&nbsp;
-                                                                            <div>
-                                                                              ]&nbsp;
-                                                                              <div>
-                                                                                }&nbsp;
-                                                                                <div>
-                                                                                  }
-                                                                                  <br>
-                                                                                </div>
-                                                                              </div>
-                                                                            </div>
-                                                                          </div>
-                                                                        </div>
-                                                                      </div>
-                                                                    </div>
-                                                                  </div>
-                                                                </div>
-                                                              </div>
-                                                            </div>
-                                                          </div>
-                                                        </div>
-                                                      </div>
-                                                    </div>
-                                                  </div>
-                                                </div>
-                                              </div>
-                                            </div>
-                                          </div>
-                                        </div>
-                                      </div>
-                                    </div>
-                                  </div>
-                                </div>
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
+
         </div>
         <p>
         </p>
