@@ -123,6 +123,33 @@
 	];
 
 
+// data for chart
+
+var websiteURL = "www.alchemyviral.com";
+var websiteSplit = websiteURL.split(".");
+var websiteName = websiteSplit[1];
+
+var feature_list= {1:"average_backlink_flesch_reading_ease",
+2:"number_of_images_missing_alt",
+3:"number_of_embedded_javascripts",
+4:"title_number_of_dictionary_words",
+5:"number_of_images",
+6:"number_of_scripts",
+7:"ratio_of_common_words_to_total",
+8:"number_of_inline_css_styles",
+9:"number_of_images_in_body",
+10:"html5_detected",
+11:"maximum_length_of_h1",
+12:"ratio_of_rare_words_to_total",
+13:"average_length_of_h1",
+14:"number_of_embedded_styles",
+15:"number_of_iframes",
+16:"number_of_external_css_styles",
+17:"maximum_length_of_h2",
+18:"average_length_of_h2",
+19:"number_of_dhtml_scripts"
+};
+
 	$(document).ready(function() {
 		$('#dynamicA').html( '<table cellpadding="0" cellspacing="0" border="0" class="display" id="example"></table>' );
 		$('#example').dataTable( {
@@ -141,8 +168,8 @@
 	$(document).ready(function() {
 		$('#example1').dataTable( {
 			"bProcessing": true,
-			"sAjaxSource": "/json/drilldown/5_alchemyviral_XDrill_11-Nov-13.json",
-			"sAjaxDataProp": "onsite.average_backlink_flesch_reading_ease",
+			"sAjaxSource": "/json/drilldown/5_"+websiteName+"_XDrill_11-Nov-13.json",
+			"sAjaxDataProp": "onsite."+ feature_list[1],
 			"aoColumns": [
 			        { "mData": "html_id" },
 			        { "mData": "feature_value" },
@@ -155,8 +182,8 @@
 	$(document).ready(function() {
 		$('#example2').dataTable( {
 			"bProcessing": true,
-			"sAjaxSource": "/json/drilldown/5_alchemyviral_XDrill_11-Nov-13.json",
-			"sAjaxDataProp": "onsite.2",
+			"sAjaxSource": "/json/drilldown/5_"+websiteName+"_XDrill_11-Nov-13.json",
+			"sAjaxDataProp": "onsite."+ feature_list[2],
 			"aoColumns": [
 			        { "mData": "html_id" },
 			        { "mData": "feature_value" },
@@ -169,8 +196,8 @@
 	$(document).ready(function() {
 		$('#example3').dataTable( {
 			"bProcessing": true,
-			"sAjaxSource": "/json/drilldown/5_alchemyviral_XDrill_11-Nov-13.json",
-			"sAjaxDataProp": "onsite.3",
+			"sAjaxSource": "/json/drilldown/5_"+websiteName+"_XDrill_11-Nov-13.json",
+			"sAjaxDataProp": "onsite."+ feature_list[3],
 			"aoColumns": [
 			        { "mData": "html_id" },
 			        { "mData": "feature_value" },
@@ -183,8 +210,8 @@
 	$(document).ready(function() {
 		$('#example4').dataTable( {
 			"bProcessing": true,
-			"sAjaxSource": "/json/drilldown/5_alchemyviral_XDrill_11-Nov-13.json",
-			"sAjaxDataProp": "onsite.Number of hyperlinks",
+			"sAjaxSource": "/json/drilldown/5_"+websiteName+"_XDrill_11-Nov-13.json",
+			"sAjaxDataProp": "onsite."+ feature_list[4],
 			"aoColumns": [
 			        { "mData": "html_id" },
 			        { "mData": "feature_value" },
@@ -197,8 +224,8 @@
 	$(document).ready(function() {
 		$('#example5').dataTable( {
 			"bProcessing": true,
-			"sAjaxSource": "/json/drilldown/5_alchemyviral_XDrill_11-Nov-13.json",
-			"sAjaxDataProp": "onsite.Title character length",
+			"sAjaxSource": "/json/drilldown/5_"+websiteName+"_XDrill_11-Nov-13.json",
+			"sAjaxDataProp": "onsite."+ feature_list[5],
 			"aoColumns": [
 			        { "mData": "html_id" },
 			        { "mData": "feature_value" },
@@ -211,8 +238,8 @@
 	$(document).ready(function() {
 		$('#example6').dataTable( {
 			"bProcessing": true,
-			"sAjaxSource": "/json/drilldown/5_alchemyviral_XDrill_11-Nov-13.json",
-			"sAjaxDataProp": "onsite.Number of external CSS styles",
+			"sAjaxSource": "/json/drilldown/5_"+websiteName+"_XDrill_11-Nov-13.json",
+			"sAjaxDataProp": "onsite."+ feature_list[6],
 			"aoColumns": [
 			        { "mData": "html_id" },
 			        { "mData": "feature_value" },
@@ -225,8 +252,8 @@
 	$(document).ready(function() {
 		$('#example7').dataTable( {
 			"bProcessing": true,
-			"sAjaxSource": "/json/drilldown/5_alchemyviral_XDrill_11-Nov-13.json",
-			"sAjaxDataProp": "onsite.Number of titles same as h1",
+			"sAjaxSource": "/json/drilldown/5_"+websiteName+"_XDrill_11-Nov-13.json",
+			"sAjaxDataProp": "onsite."+ feature_list[7],
 			"aoColumns": [
 			        { "mData": "html_id" },
 			        { "mData": "feature_value" },
@@ -239,8 +266,8 @@
 	$(document).ready(function() {
 		$('#example8').dataTable( {
 			"bProcessing": true,
-			"sAjaxSource": "/json/drilldown/5_alchemyviral_XDrill_11-Nov-13.json",
-			"sAjaxDataProp": "onsite.Title total number of syllables",
+			"sAjaxSource": "/json/drilldown/5_"+websiteName+"_XDrill_11-Nov-13.json",
+			"sAjaxDataProp": "onsite."+ feature_list[8],
 			"aoColumns": [
 			        { "mData": "html_id" },
 			        { "mData": "feature_value" },
@@ -253,8 +280,8 @@
 	$(document).ready(function() {
 		$('#example9').dataTable( {
 			"bProcessing": true,
-			"sAjaxSource": "/json/drilldown/5_alchemyviral_XDrill_11-Nov-13.json",
-			"sAjaxDataProp": "onsite.Anchor number of unique words",
+			"sAjaxSource": "/json/drilldown/5_"+websiteName+"_XDrill_11-Nov-13.json",
+			"sAjaxDataProp": "onsite."+ feature_list[9],
 			"aoColumns": [
 			        { "mData": "html_id" },
 			        { "mData": "feature_value" },
@@ -267,8 +294,8 @@
 	$(document).ready(function() {
 		$('#example10').dataTable( {
 			"bProcessing": true,
-			"sAjaxSource": "/json/drilldown/5_alchemyviral_XDrill_11-Nov-13.json",
-			"sAjaxDataProp": "onsite.Total number of dictionary words",
+			"sAjaxSource": "/json/drilldown/5_"+websiteName+"_XDrill_11-Nov-13.json",
+			"sAjaxDataProp": "onsite."+ feature_list[10],
 			"aoColumns": [
 			        { "mData": "html_id" },
 			        { "mData": "feature_value" },
@@ -426,7 +453,9 @@ rel="stylesheet" type="text/css">
 		  <div class="span12">
 			  <!-- Special typography from Bootstrap for lead paragraph. -->
 			  <!-- http://twitter.github.io/bootstrap/base-css.html#typography -->
-			  <p class="lead">for www.alchemyviral.com</p>
+			  <p class="lead">
+			  <script>document.write("for " + websiteURL);</script>
+			  </p>
 		  </div>
 	  </div>
 	  <div class="row-fluid pitch">
@@ -436,7 +465,7 @@ rel="stylesheet" type="text/css">
 		  <h2>Influential Feature Value and Delta to Winning Mean</h2>
 		  <hr>
 
-			  <h3><a id="F1">average_backlink_flesch_reading_ease</a></h3>
+			  <h3><a id="F1"><script>document.write(feature_list[1].replace(/_/g," "));</script></a></h3>
 				  
 		  <div id="dynamic">
 			  <table cellpadding="0" cellspacing="0" border="0" class="display" id="example1">
@@ -470,7 +499,7 @@ rel="stylesheet" type="text/css">
 		  
 		  <hr>
 		  
-		  <h3><a id="F2">Proximity of title tag words to external bound hyperlinks</a></h3>
+		  <h3><a id="F2"><script>document.write(feature_list[2].replace(/_/g," "));</script></a></h3>
 		  <div id="dynamic">
 			  <table cellpadding="0" cellspacing="0" border="0" class="display" id="example2">
 				  <thead>
@@ -503,7 +532,7 @@ rel="stylesheet" type="text/css">
 		  
 		  <hr>
 		  
-		  <h3><a id="F3">Number of scripts</a></h3>
+		  <h3><a id="F3"><script>document.write(feature_list[3].replace(/_/g," "));</script></a></h3>
 		  <div id="dynamic">
 			  <table cellpadding="0" cellspacing="0" border="0" class="display" id="example3">
 				  <thead>
@@ -536,7 +565,7 @@ rel="stylesheet" type="text/css">
 		  
 		  <hr>
 		  
-		  <h3><a id="F4">Number of hyperlinks</a></h3>
+		  <h3><a id="F4"><script>document.write(feature_list[4].replace(/_/g," "));</script></a></h3>
 		  <div id="dynamic">
 			  <table cellpadding="0" cellspacing="0" border="0" class="display" id="example4">
 				  <thead>
@@ -569,7 +598,7 @@ rel="stylesheet" type="text/css">
 		  
 		  <hr>
 		  
-		  <h3><a id="F5">Title character length</a></h3>
+		  <h3><a id="F5"><script>document.write(feature_list[5].replace(/_/g," "));</script></a></h3>
 		  <div id="dynamic">
 			  <table cellpadding="0" cellspacing="0" border="0" class="display" id="example5">
 				  <thead>
@@ -602,7 +631,7 @@ rel="stylesheet" type="text/css">
 		  
 		  <hr>
 		  
-		  <h3><a id="F6">Number of external CSS styles</a></h3>
+		  <h3><a id="F6"><script>document.write(feature_list[6].replace(/_/g," "));</script></a></h3>
 		  <div id="dynamic">
 			  <table cellpadding="0" cellspacing="0" border="0" class="display" id="example6">
 				  <thead>
@@ -635,7 +664,7 @@ rel="stylesheet" type="text/css">
 		  
 		  <hr>
 		  
-		  <h3><a id="F7">Number of titles same as h1</a></h3>
+		  <h3><a id="F7"><script>document.write(feature_list[7].replace(/_/g," "));</script></a></h3>
 		  <div id="dynamic">
 			  <table cellpadding="0" cellspacing="0" border="0" class="display" id="example7">
 				  <thead>
@@ -668,7 +697,7 @@ rel="stylesheet" type="text/css">
 		  
 		  <hr>
 		  
-		  <h3><a id="F8">Title total number of syllables</a></h3>
+		  <h3><a id="F8"><script>document.write(feature_list[8].replace(/_/g," "));</script></a></h3>
 		  <div id="dynamic">
 			  <table cellpadding="0" cellspacing="0" border="0" class="display" id="example8">
 				  <thead>
@@ -701,7 +730,7 @@ rel="stylesheet" type="text/css">
 		  
 		  <hr>
 		  
-		  <h3><a id="F9">Anchor number of unique words</a></h3>
+		  <h3><a id="F9"><script>document.write(feature_list[9].replace(/_/g," "));</script></a></h3>
 		  <div id="dynamic">
 			  <table cellpadding="0" cellspacing="0" border="0" class="display" id="example9">
 				  <thead>
@@ -734,7 +763,7 @@ rel="stylesheet" type="text/css">
 		  
 		  <hr>
 		  
-		  <h3><a id="F10">Total number of dictionary words</a></h3>
+		  <h3><a id="F10"><script>document.write(feature_list[10].replace(/_/g," "));</script></a></h3>
 		  <div id="dynamic">
 			  <table cellpadding="0" cellspacing="0" border="0" class="display" id="example10">
 				  <thead>
