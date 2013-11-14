@@ -1,0 +1,14 @@
+[
+	{
+		"key": "Healthy",
+		"color": "#ff0000"
+	},
+	{
+		"key": "Neutral",
+		"color": "#ff9900"
+	},
+	{
+		"key": "Harmful",
+		"color": "#00cc00"
+	}
+]
