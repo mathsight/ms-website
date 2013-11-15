@@ -193,11 +193,12 @@ var websiteName = websiteSplit[1];
 	        "sAjaxSource": "/json/summary/"+websiteName+"_Xhat.json",
 	        "sAjaxDataProp": "onsite",
 			"aaSorting": [[ 2, "desc" ]],
-			"mRender": function ( data, type, full ) {
-			        return '<a href="'+data+'">Download</a>';
-		    "aoColumns": [
+			    "aoColumns": [
 		                   null,
-		                   null,
+						   { "mData": null , //its null here because history column will contain the mRender
+						      "mRender" : function ( data, type, full ) {
+						      return '<a href="<?php echo base_url(); ?>operations/display/'+full[0]+'">'+full[0]+'</a>';}
+						    },
 		                   null,
 		                   null,
 						   {"bVisible": false},
