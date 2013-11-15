@@ -197,7 +197,7 @@ var websiteName = websiteSplit[1];
 		                   null,
 						   { "mData": null , //its null here because history column will contain the mRender
 						      "mRender" : function ( data, type, full ) {
-						      return '<a href="/onsite_SQ_drilldown/'+full[1]+'"'+full[1]+'</a>';}
+						      return '<a href="<?php echo base_url(); ?>operations/display/'+full[1]+'">'+full[1]+'</a>';}
 						    },
 		                   null,
 		                   null,
