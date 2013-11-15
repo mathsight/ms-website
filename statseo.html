@@ -197,7 +197,7 @@ var websiteName = websiteSplit[1];
 		                   null,
 						   { "mData": null , //its null here because history column will contain the mRender
 						      "mRender" : function ( data, type, full) {
-						      	return '<a href="onsite_SQ_drilldown.html#F'+ full[1].DT_RowId +'">'+full[1]+'</a>';
+						      	return '<a href="onsite_SQ_drilldown.html#F'+ full[1].rowid +'">'+full[1]+'</a>';
 						      }
 							  // return '<a href="?action=student_report&studentUID='+ data.DT_RowId + '">' + data + '</a>';
 							  // /%3C?php%20echo%20base_url();%20?%3Eoperations/display/number%20of%20dhtml%20scripts
