@@ -196,8 +196,13 @@ var websiteName = websiteSplit[1];
 			    "aoColumns": [
 		                   null,
 						   { "mData": null , //its null here because history column will contain the mRender
-						      "mRender" : function ( data, type, full ) {
-						      return '<a href="<?php echo base_url(); ?>operations/display/'+full[1]+'">'+full[1]+'</a>';}
+						      "mRender" : function ( data, type, full, row) {
+						      	return '<a href="onsite_SQ_drilldown/#F'+row.id+'">'+full[1]+'</a>';
+						      }
+
+							  // /%3C?php%20echo%20base_url();%20?%3Eoperations/display/number%20of%20dhtml%20scripts
+							  // /%3C?php%20echo%20base_url();%20?%3Eoperations/display/maximum%20length%20of%20h2
+							  
 						    },
 		                   null,
 		                   null,
