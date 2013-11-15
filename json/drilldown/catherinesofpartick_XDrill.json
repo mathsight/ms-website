@@ -1,0 +1,5652 @@
+{
+	"onsite": {
+		"average_backlink_flesch_reading_ease": [
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/top-tips-for-shopping-for-your-mother-of-the-bride-outfit",
+				"feature_value": "      0",
+				"cluster_win_mean": "42.62",
+				"delta": " 42.62"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/prom-dresses-evening-wear-glasgow-scotland",
+				"feature_value": "81.6209",
+				"cluster_win_mean": "47.51",
+				"delta": "-34.11"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/testimonials",
+				"feature_value": "      0",
+				"cluster_win_mean": "42.62",
+				"delta": " 42.62"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/collections",
+				"feature_value": "69.0287",
+				"cluster_win_mean": "47.51",
+				"delta": "-21.52"
+			}
+		],
+		"number_of_images_missing_alt": [
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/",
+				"feature_value": "13",
+				"cluster_win_mean": "16.36",
+				"delta": "3.36"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.50",
+				"feature_value": " 8",
+				"cluster_win_mean": " 11.2",
+				"delta": " 3.2"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/about-catherines-of-partick",
+				"feature_value": " 8",
+				"cluster_win_mean": "16.36",
+				"delta": "8.36"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/all-mother-of-the-bride-and-groom-outfits",
+				"feature_value": " 8",
+				"cluster_win_mean": "16.36",
+				"delta": "8.36"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/john-charles-mother-of-the-bride-outfits-glasgow-scotland",
+				"feature_value": "11",
+				"cluster_win_mean": "16.36",
+				"delta": "5.36"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news",
+				"feature_value": " 8",
+				"cluster_win_mean": "16.36",
+				"delta": "8.36"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/contact-us",
+				"feature_value": " 9",
+				"cluster_win_mean": "16.36",
+				"delta": "7.36"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/#wrapper",
+				"feature_value": "13",
+				"cluster_win_mean": "16.36",
+				"delta": "3.36"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/mother-of-the-bride",
+				"feature_value": " 8",
+				"cluster_win_mean": "16.36",
+				"delta": "8.36"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/2-mother-of-the-bride",
+				"feature_value": " 8",
+				"cluster_win_mean": "16.36",
+				"delta": "8.36"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk",
+				"feature_value": "13",
+				"cluster_win_mean": "16.36",
+				"delta": "3.36"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/latest-fashions",
+				"feature_value": " 8",
+				"cluster_win_mean": "16.36",
+				"delta": "8.36"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/info@catherinesofpartick.co.uk",
+				"feature_value": "13",
+				"cluster_win_mean": "16.36",
+				"delta": "3.36"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/sitellite-nav-sitemap-action",
+				"feature_value": " 8",
+				"cluster_win_mean": " 11.2",
+				"delta": " 3.2"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/index",
+				"feature_value": "13",
+				"cluster_win_mean": "16.36",
+				"delta": "3.36"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/index/evening-dresses-and-wear",
+				"feature_value": "13",
+				"cluster_win_mean": "16.36",
+				"delta": "3.36"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/aberdeen-mother-of-the-bride",
+				"feature_value": " 8",
+				"cluster_win_mean": "16.36",
+				"delta": "8.36"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/collections",
+				"feature_value": " 8",
+				"cluster_win_mean": "16.36",
+				"delta": "8.36"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/prom-offer",
+				"feature_value": " 9",
+				"cluster_win_mean": " 11.2",
+				"delta": " 2.2"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/accessories",
+				"feature_value": " 8",
+				"cluster_win_mean": " 11.2",
+				"delta": " 3.2"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/designers",
+				"feature_value": " 8",
+				"cluster_win_mean": "16.36",
+				"delta": "8.36"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/links",
+				"feature_value": " 8",
+				"cluster_win_mean": "16.36",
+				"delta": "8.36"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/join-our-team",
+				"feature_value": " 8",
+				"cluster_win_mean": "16.36",
+				"delta": "8.36"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/upcoming-prom",
+				"feature_value": " 8",
+				"cluster_win_mean": "16.36",
+				"delta": "8.36"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/#directions",
+				"feature_value": "13",
+				"cluster_win_mean": "16.36",
+				"delta": "3.36"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app?menu=no&limit=5&offset=5",
+				"feature_value": " 8",
+				"cluster_win_mean": " 11.2",
+				"delta": " 3.2"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app?menu=no&limit=5&offset=0",
+				"feature_value": " 8",
+				"cluster_win_mean": " 11.2",
+				"delta": " 3.2"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app?menu=no&limit=5&offset=10",
+				"feature_value": " 8",
+				"cluster_win_mean": " 11.2",
+				"delta": " 3.2"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app?menu=no&limit=5&offset=15",
+				"feature_value": " 8",
+				"cluster_win_mean": " 11.2",
+				"delta": " 3.2"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app?menu=no&limit=5&offset=20",
+				"feature_value": " 8",
+				"cluster_win_mean": " 11.2",
+				"delta": " 3.2"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app?menu=no&limit=5&offset=25",
+				"feature_value": " 8",
+				"cluster_win_mean": " 11.2",
+				"delta": " 3.2"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app?menu=no&limit=5&offset=30",
+				"feature_value": " 8",
+				"cluster_win_mean": " 11.2",
+				"delta": " 3.2"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app?menu=no&limit=5&offset=35",
+				"feature_value": " 8",
+				"cluster_win_mean": " 11.2",
+				"delta": " 3.2"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app?menu=no&limit=5&offset=40",
+				"feature_value": " 8",
+				"cluster_win_mean": " 11.2",
+				"delta": " 3.2"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app?menu=no&limit=5&offset=45",
+				"feature_value": " 8",
+				"cluster_win_mean": " 11.2",
+				"delta": " 3.2"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app?menu=no&limit=5&offset=50",
+				"feature_value": " 8",
+				"cluster_win_mean": " 11.2",
+				"delta": " 3.2"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.3/title.catherines-plays-fairy-godmother-to-three-prom-queens-with-itv-s-5-30-show-/menu.no/sec./home.",
+				"feature_value": " 8",
+				"cluster_win_mean": "16.36",
+				"delta": "8.36"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/author.Catherines of Partick",
+				"feature_value": " 8",
+				"cluster_win_mean": " 11.2",
+				"delta": " 3.2"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app",
+				"feature_value": " 8",
+				"cluster_win_mean": " 11.2",
+				"delta": " 3.2"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.53/title.arrival-of-autumn-winter-2013/menu.no/sec./home.",
+				"feature_value": " 8",
+				"cluster_win_mean": " 11.2",
+				"delta": " 3.2"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.52/title.sale-instore-now/menu.no/sec./home.",
+				"feature_value": " 8",
+				"cluster_win_mean": " 11.2",
+				"delta": " 3.2"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.51/title.prom-queen-announcement-/menu.no/sec./home.",
+				"feature_value": " 8",
+				"cluster_win_mean": " 11.2",
+				"delta": " 3.2"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.50/title.sales-advisor-required/menu.no/sec./home.",
+				"feature_value": " 8",
+				"cluster_win_mean": " 11.2",
+				"delta": " 3.2"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.54/title.stockist-of-joseph-ribkoff/menu.no/sec./home.",
+				"feature_value": " 8",
+				"cluster_win_mean": " 11.2",
+				"delta": " 3.2"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.2/title.katie-price-s-style-is-a-page-turner/menu.no/sec./home.",
+				"feature_value": " 8",
+				"cluster_win_mean": " 11.2",
+				"delta": " 3.2"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.1/title.dancing-on-ice-proves-a-huge-hit-with-catherines-clientele/menu.no/sec./home.",
+				"feature_value": " 8",
+				"cluster_win_mean": " 11.2",
+				"delta": " 3.2"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.13/title.teenage-cancer-trust-fashion-show/menu.no/sec./home.",
+				"feature_value": " 8",
+				"cluster_win_mean": " 11.2",
+				"delta": " 3.2"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.7/title.star-style-in-the-bag-at-catherines-of-partick/menu.no/sec./home.",
+				"feature_value": " 8",
+				"cluster_win_mean": " 11.2",
+				"delta": " 3.2"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.6/title.hats-off-to-the-mother-of-the-bride/menu.no/sec./home.",
+				"feature_value": " 8",
+				"cluster_win_mean": "16.36",
+				"delta": "8.36"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.5/title.dj-suzie-mcguire-dresses-for-a-day-at-the-races/menu.no/sec./home.",
+				"feature_value": " 8",
+				"cluster_win_mean": " 11.2",
+				"delta": " 3.2"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.4/title.miss-scotland-dresses-to-impress-with-a-little-help-from-catherines-/menu.no/sec./home.",
+				"feature_value": " 8",
+				"cluster_win_mean": " 11.2",
+				"delta": " 3.2"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.11/title.andrew-lloyd-webber-s-over-the-rainbow-chooses-rainbow-club/menu.no/sec./home.",
+				"feature_value": " 8",
+				"cluster_win_mean": " 11.2",
+				"delta": " 3.2"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.15/title.secc-wedding-show/menu.no/sec./home.",
+				"feature_value": " 8",
+				"cluster_win_mean": " 11.2",
+				"delta": " 3.2"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.10/title.clyde-1-wedding-outfit-promotion/menu.no/sec./home.",
+				"feature_value": " 9",
+				"cluster_win_mean": " 11.2",
+				"delta": " 2.2"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.8/title.new-year-new-offers-/menu.no/sec./home.",
+				"feature_value": " 8",
+				"cluster_win_mean": " 11.2",
+				"delta": " 3.2"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.9/title.annual-wedding-show-at-secc-glasgow/menu.no/sec./home.",
+				"feature_value": " 8",
+				"cluster_win_mean": " 11.2",
+				"delta": " 3.2"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.18/title.autumn-winter-2010-collection-now-in-store/menu.no/sec./home.",
+				"feature_value": " 8",
+				"cluster_win_mean": " 11.2",
+				"delta": " 3.2"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.17/title.gift-vouchers-for-catherines-of-partick/menu.no/sec./home.",
+				"feature_value": " 8",
+				"cluster_win_mean": " 11.2",
+				"delta": " 3.2"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.16/title.mother-of-the-bride-clearance-sale-now-on/menu.no/sec./home.",
+				"feature_value": " 8",
+				"cluster_win_mean": " 11.2",
+				"delta": " 3.2"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.14/title.prom-dress-event-of-the-year/menu.no/sec./home.",
+				"feature_value": " 8",
+				"cluster_win_mean": " 11.2",
+				"delta": " 3.2"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.12/title.10-discount-prom-wear-offer/menu.no/sec./home.",
+				"feature_value": " 8",
+				"cluster_win_mean": " 11.2",
+				"delta": " 3.2"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.23/title.spa-day-prize-draw/menu.no/sec./home.",
+				"feature_value": " 8",
+				"cluster_win_mean": " 11.2",
+				"delta": " 3.2"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.22/title.mid-season-clearance-sale/menu.no/sec./home.",
+				"feature_value": " 8",
+				"cluster_win_mean": " 11.2",
+				"delta": " 3.2"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.21/title.new-stock-available-condici-mon-cheri-/menu.no/sec./home.",
+				"feature_value": " 8",
+				"cluster_win_mean": " 11.2",
+				"delta": " 3.2"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.20/title.autumn-wedding-show-at-loch-lomond/menu.no/sec./home.",
+				"feature_value": " 9",
+				"cluster_win_mean": " 11.2",
+				"delta": " 2.2"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.19/title.secc-wedding-show/menu.no/sec./home.",
+				"feature_value": " 8",
+				"cluster_win_mean": " 11.2",
+				"delta": " 3.2"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.28/title.ian-stuart-new-monte-carlo-collection/menu.no/sec./home.",
+				"feature_value": " 8",
+				"cluster_win_mean": "16.36",
+				"delta": "8.36"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.29/title.our-dress-wins-best-dressed-lady-at-hamilton-racecourse/menu.no/sec./home.",
+				"feature_value": " 8",
+				"cluster_win_mean": "16.36",
+				"delta": "8.36"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.25/title.new-evening-wear-collections/menu.no/sec./home.",
+				"feature_value": " 8",
+				"cluster_win_mean": " 11.2",
+				"delta": " 3.2"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.26/title.dress-clearance-sale/menu.no/sec./home.",
+				"feature_value": " 8",
+				"cluster_win_mean": " 11.2",
+				"delta": " 3.2"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.27/title.royal-wedding-dress-prize-draw/menu.no/sec./home.",
+				"feature_value": "10",
+				"cluster_win_mean": " 11.2",
+				"delta": " 1.2"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.32/title.sequin-dress-for-camelot-at-knockhill-racing-circuit/menu.no/sec./home.",
+				"feature_value": " 8",
+				"cluster_win_mean": " 11.2",
+				"delta": " 3.2"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.33/title.joanna-lumley-outfit-by-john-charles/menu.no/sec./home.",
+				"feature_value": " 8",
+				"cluster_win_mean": " 11.2",
+				"delta": " 3.2"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.34/title.party-dress-for-euromillions-millionaire-month/menu.no/sec./home.",
+				"feature_value": " 8",
+				"cluster_win_mean": " 11.2",
+				"delta": " 3.2"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.30/title.mother-of-the-bride-groom-exhibition/menu.no/sec./home.",
+				"feature_value": " 8",
+				"cluster_win_mean": " 11.2",
+				"delta": " 3.2"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.24/title.scottish-wedding-show-exhibition/menu.no/sec./home.",
+				"feature_value": " 8",
+				"cluster_win_mean": " 11.2",
+				"delta": " 3.2"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.37/title.ladies-night-at-hamilton-race-course/menu.no/sec./home.",
+				"feature_value": " 8",
+				"cluster_win_mean": " 11.2",
+				"delta": " 3.2"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.36/title.dynasty-evening-wear-at-the-baftas-may-2012/menu.no/sec./home.",
+				"feature_value": " 8",
+				"cluster_win_mean": " 11.2",
+				"delta": " 3.2"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.35/title.john-charles-featured-in-conde-nast-brides-magazine/menu.no/sec./home.",
+				"feature_value": " 8",
+				"cluster_win_mean": " 11.2",
+				"delta": " 3.2"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.31/title.jubilee-weekend-sale/menu.no/sec./home.",
+				"feature_value": " 8",
+				"cluster_win_mean": " 11.2",
+				"delta": " 3.2"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.38/title.prince-princess-of-wales-hospice-ladies-lunch-2012/menu.no/sec./home.",
+				"feature_value": " 9",
+				"cluster_win_mean": "16.36",
+				"delta": "7.36"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.43/title.hamilton-racecourse-competition-winner/menu.no/sec./home.",
+				"feature_value": " 9",
+				"cluster_win_mean": " 11.2",
+				"delta": " 2.2"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.42/title.new-diva-sophia-collection/menu.no/sec./home.",
+				"feature_value": " 9",
+				"cluster_win_mean": " 11.2",
+				"delta": " 2.2"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.41/title.get-the-exact-match-with-diva-sophia-s-lucia-gold-bodycon-dress-/menu.no/sec./home.",
+				"feature_value": " 9",
+				"cluster_win_mean": " 11.2",
+				"delta": " 2.2"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.40/title.vivien-sheriff-millinery-meets-her-majesty-the-queen/menu.no/sec./home.",
+				"feature_value": " 9",
+				"cluster_win_mean": " 11.2",
+				"delta": " 2.2"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.39/title.ladies-night-at-hamilton-racecourse/menu.no/sec./home.",
+				"feature_value": "10",
+				"cluster_win_mean": "16.36",
+				"delta": "6.36"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.49/title.we-ll-be-at-girl-s-day-out/menu.no/sec./home.",
+				"feature_value": " 8",
+				"cluster_win_mean": " 11.2",
+				"delta": " 3.2"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.48/title.end-of-season-clearance-up-to-75-off-until-end-of-november/menu.no/sec./home.",
+				"feature_value": " 8",
+				"cluster_win_mean": " 11.2",
+				"delta": " 3.2"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.47/title.new-evening-wear-collection-now-in-store/menu.no/sec./home.",
+				"feature_value": "10",
+				"cluster_win_mean": " 11.2",
+				"delta": " 1.2"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.46/title.dress-featured-on-popular-tv-show/menu.no/sec./home.",
+				"feature_value": " 9",
+				"cluster_win_mean": " 11.2",
+				"delta": " 2.2"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.44/title.prize-draw-winner/menu.no/sec./home.",
+				"feature_value": " 8",
+				"cluster_win_mean": " 11.2",
+				"delta": " 3.2"
+			}
+		],
+		"number_of_images": [
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/",
+				"feature_value": "14",
+				"cluster_win_mean": "17.41",
+				"delta": "  3.41"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/about-catherines-of-partick",
+				"feature_value": " 9",
+				"cluster_win_mean": "17.41",
+				"delta": "  8.41"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/all-mother-of-the-bride-and-groom-outfits",
+				"feature_value": " 9",
+				"cluster_win_mean": "17.41",
+				"delta": "  8.41"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/sale",
+				"feature_value": "79",
+				"cluster_win_mean": "11.38",
+				"delta": "-67.62"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/john-charles-mother-of-the-bride-outfits-glasgow-scotland",
+				"feature_value": "12",
+				"cluster_win_mean": "17.41",
+				"delta": "  5.41"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news",
+				"feature_value": " 9",
+				"cluster_win_mean": "17.41",
+				"delta": "  8.41"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/contact-us",
+				"feature_value": "10",
+				"cluster_win_mean": "17.41",
+				"delta": "  7.41"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/mother-of-the-bride-groom-sale",
+				"feature_value": "79",
+				"cluster_win_mean": "11.38",
+				"delta": "-67.62"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/evening-wear-sale",
+				"feature_value": "40",
+				"cluster_win_mean": "11.38",
+				"delta": "-28.62"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/#wrapper",
+				"feature_value": "14",
+				"cluster_win_mean": "17.41",
+				"delta": "  3.41"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/mother-of-the-bride",
+				"feature_value": " 9",
+				"cluster_win_mean": "17.41",
+				"delta": "  8.41"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/2-mother-of-the-bride",
+				"feature_value": " 9",
+				"cluster_win_mean": "17.41",
+				"delta": "  8.41"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk",
+				"feature_value": "14",
+				"cluster_win_mean": "17.41",
+				"delta": "  3.41"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/latest-fashions",
+				"feature_value": " 9",
+				"cluster_win_mean": "17.41",
+				"delta": "  8.41"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/info@catherinesofpartick.co.uk",
+				"feature_value": "14",
+				"cluster_win_mean": "17.41",
+				"delta": "  3.41"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/index",
+				"feature_value": "14",
+				"cluster_win_mean": "17.41",
+				"delta": "  3.41"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/index/evening-dresses-and-wear",
+				"feature_value": "14",
+				"cluster_win_mean": "17.41",
+				"delta": "  3.41"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/aberdeen-mother-of-the-bride",
+				"feature_value": " 9",
+				"cluster_win_mean": "17.41",
+				"delta": "  8.41"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/collections",
+				"feature_value": " 9",
+				"cluster_win_mean": "17.41",
+				"delta": "  8.41"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/designers",
+				"feature_value": " 9",
+				"cluster_win_mean": "17.41",
+				"delta": "  8.41"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/links",
+				"feature_value": " 9",
+				"cluster_win_mean": "17.41",
+				"delta": "  8.41"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/join-our-team",
+				"feature_value": " 9",
+				"cluster_win_mean": "17.41",
+				"delta": "  8.41"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/upcoming-prom",
+				"feature_value": " 9",
+				"cluster_win_mean": "17.41",
+				"delta": "  8.41"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/#directions",
+				"feature_value": "14",
+				"cluster_win_mean": "17.41",
+				"delta": "  3.41"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.3/title.catherines-plays-fairy-godmother-to-three-prom-queens-with-itv-s-5-30-show-/menu.no/sec./home.",
+				"feature_value": " 9",
+				"cluster_win_mean": "17.41",
+				"delta": "  8.41"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.6/title.hats-off-to-the-mother-of-the-bride/menu.no/sec./home.",
+				"feature_value": " 9",
+				"cluster_win_mean": "17.41",
+				"delta": "  8.41"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.28/title.ian-stuart-new-monte-carlo-collection/menu.no/sec./home.",
+				"feature_value": " 9",
+				"cluster_win_mean": "17.41",
+				"delta": "  8.41"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.29/title.our-dress-wins-best-dressed-lady-at-hamilton-racecourse/menu.no/sec./home.",
+				"feature_value": " 9",
+				"cluster_win_mean": "17.41",
+				"delta": "  8.41"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.38/title.prince-princess-of-wales-hospice-ladies-lunch-2012/menu.no/sec./home.",
+				"feature_value": "10",
+				"cluster_win_mean": "17.41",
+				"delta": "  7.41"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.39/title.ladies-night-at-hamilton-racecourse/menu.no/sec./home.",
+				"feature_value": "11",
+				"cluster_win_mean": "17.41",
+				"delta": "  6.41"
+			}
+		],
+		"number_of_scripts": [
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.50",
+				"feature_value": "2",
+				"cluster_win_mean": "17.88",
+				"delta": "15.88"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/cruise-wear-day-wear-glasgow-scotland",
+				"feature_value": "6",
+				"cluster_win_mean": "17.88",
+				"delta": "11.88"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/sale",
+				"feature_value": "5",
+				"cluster_win_mean": "17.88",
+				"delta": "12.88"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/benjamin-adams-shoes-glasgow-scotland",
+				"feature_value": "5",
+				"cluster_win_mean": "17.88",
+				"delta": "12.88"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/stuart-weitzman-shoes-glasgow-scotland",
+				"feature_value": "6",
+				"cluster_win_mean": "17.88",
+				"delta": "11.88"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/designer-shoes-glasgow-scotland",
+				"feature_value": "6",
+				"cluster_win_mean": "17.88",
+				"delta": "11.88"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/wedding-shoes-and-bags-glasgow-scotland",
+				"feature_value": "6",
+				"cluster_win_mean": "17.88",
+				"delta": "11.88"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/ann-balon-mother-of-the-bride-outfits-glasgow-scotland",
+				"feature_value": "5",
+				"cluster_win_mean": "17.88",
+				"delta": "12.88"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/mother-of-the-bride-groom-sale",
+				"feature_value": "5",
+				"cluster_win_mean": "17.88",
+				"delta": "12.88"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/evening-wear-sale",
+				"feature_value": "2",
+				"cluster_win_mean": "17.88",
+				"delta": "15.88"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/sitellite-nav-sitemap-action",
+				"feature_value": "6",
+				"cluster_win_mean": "17.88",
+				"delta": "11.88"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/prom-offer",
+				"feature_value": "2",
+				"cluster_win_mean": "17.88",
+				"delta": "15.88"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/accessories",
+				"feature_value": "2",
+				"cluster_win_mean": "17.88",
+				"delta": "15.88"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/veni",
+				"feature_value": "5",
+				"cluster_win_mean": "17.88",
+				"delta": "12.88"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/sale-2",
+				"feature_value": "5",
+				"cluster_win_mean": "17.88",
+				"delta": "12.88"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/mother-of-the-bride-groom-sale2",
+				"feature_value": "5",
+				"cluster_win_mean": "17.88",
+				"delta": "12.88"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/all-wedding-hats",
+				"feature_value": "5",
+				"cluster_win_mean": "17.88",
+				"delta": "12.88"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/5-mother-of-the-bride",
+				"feature_value": "5",
+				"cluster_win_mean": "17.88",
+				"delta": "12.88"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app?menu=no&limit=5&offset=5",
+				"feature_value": "2",
+				"cluster_win_mean": "17.88",
+				"delta": "15.88"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app?menu=no&limit=5&offset=0",
+				"feature_value": "2",
+				"cluster_win_mean": "17.88",
+				"delta": "15.88"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app?menu=no&limit=5&offset=10",
+				"feature_value": "2",
+				"cluster_win_mean": "17.88",
+				"delta": "15.88"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app?menu=no&limit=5&offset=15",
+				"feature_value": "2",
+				"cluster_win_mean": "17.88",
+				"delta": "15.88"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app?menu=no&limit=5&offset=20",
+				"feature_value": "2",
+				"cluster_win_mean": "17.88",
+				"delta": "15.88"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app?menu=no&limit=5&offset=25",
+				"feature_value": "2",
+				"cluster_win_mean": "17.88",
+				"delta": "15.88"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app?menu=no&limit=5&offset=30",
+				"feature_value": "2",
+				"cluster_win_mean": "17.88",
+				"delta": "15.88"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app?menu=no&limit=5&offset=35",
+				"feature_value": "2",
+				"cluster_win_mean": "17.88",
+				"delta": "15.88"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app?menu=no&limit=5&offset=40",
+				"feature_value": "2",
+				"cluster_win_mean": "17.88",
+				"delta": "15.88"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app?menu=no&limit=5&offset=45",
+				"feature_value": "2",
+				"cluster_win_mean": "17.88",
+				"delta": "15.88"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app?menu=no&limit=5&offset=50",
+				"feature_value": "2",
+				"cluster_win_mean": "17.88",
+				"delta": "15.88"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/author.Catherines of Partick",
+				"feature_value": "2",
+				"cluster_win_mean": "17.88",
+				"delta": "15.88"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app",
+				"feature_value": "2",
+				"cluster_win_mean": "17.88",
+				"delta": "15.88"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.53/title.arrival-of-autumn-winter-2013/menu.no/sec./home.",
+				"feature_value": "2",
+				"cluster_win_mean": "17.88",
+				"delta": "15.88"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.52/title.sale-instore-now/menu.no/sec./home.",
+				"feature_value": "2",
+				"cluster_win_mean": "17.88",
+				"delta": "15.88"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.51/title.prom-queen-announcement-/menu.no/sec./home.",
+				"feature_value": "2",
+				"cluster_win_mean": "17.88",
+				"delta": "15.88"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.50/title.sales-advisor-required/menu.no/sec./home.",
+				"feature_value": "2",
+				"cluster_win_mean": "17.88",
+				"delta": "15.88"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.54/title.stockist-of-joseph-ribkoff/menu.no/sec./home.",
+				"feature_value": "2",
+				"cluster_win_mean": "17.88",
+				"delta": "15.88"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.2/title.katie-price-s-style-is-a-page-turner/menu.no/sec./home.",
+				"feature_value": "2",
+				"cluster_win_mean": "17.88",
+				"delta": "15.88"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.1/title.dancing-on-ice-proves-a-huge-hit-with-catherines-clientele/menu.no/sec./home.",
+				"feature_value": "2",
+				"cluster_win_mean": "17.88",
+				"delta": "15.88"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.13/title.teenage-cancer-trust-fashion-show/menu.no/sec./home.",
+				"feature_value": "2",
+				"cluster_win_mean": "17.88",
+				"delta": "15.88"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.7/title.star-style-in-the-bag-at-catherines-of-partick/menu.no/sec./home.",
+				"feature_value": "2",
+				"cluster_win_mean": "17.88",
+				"delta": "15.88"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.5/title.dj-suzie-mcguire-dresses-for-a-day-at-the-races/menu.no/sec./home.",
+				"feature_value": "2",
+				"cluster_win_mean": "17.88",
+				"delta": "15.88"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.4/title.miss-scotland-dresses-to-impress-with-a-little-help-from-catherines-/menu.no/sec./home.",
+				"feature_value": "2",
+				"cluster_win_mean": "17.88",
+				"delta": "15.88"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.11/title.andrew-lloyd-webber-s-over-the-rainbow-chooses-rainbow-club/menu.no/sec./home.",
+				"feature_value": "2",
+				"cluster_win_mean": "17.88",
+				"delta": "15.88"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.15/title.secc-wedding-show/menu.no/sec./home.",
+				"feature_value": "2",
+				"cluster_win_mean": "17.88",
+				"delta": "15.88"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.10/title.clyde-1-wedding-outfit-promotion/menu.no/sec./home.",
+				"feature_value": "2",
+				"cluster_win_mean": "17.88",
+				"delta": "15.88"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.8/title.new-year-new-offers-/menu.no/sec./home.",
+				"feature_value": "2",
+				"cluster_win_mean": "17.88",
+				"delta": "15.88"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.9/title.annual-wedding-show-at-secc-glasgow/menu.no/sec./home.",
+				"feature_value": "2",
+				"cluster_win_mean": "17.88",
+				"delta": "15.88"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.18/title.autumn-winter-2010-collection-now-in-store/menu.no/sec./home.",
+				"feature_value": "2",
+				"cluster_win_mean": "17.88",
+				"delta": "15.88"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.17/title.gift-vouchers-for-catherines-of-partick/menu.no/sec./home.",
+				"feature_value": "2",
+				"cluster_win_mean": "17.88",
+				"delta": "15.88"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.16/title.mother-of-the-bride-clearance-sale-now-on/menu.no/sec./home.",
+				"feature_value": "2",
+				"cluster_win_mean": "17.88",
+				"delta": "15.88"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.14/title.prom-dress-event-of-the-year/menu.no/sec./home.",
+				"feature_value": "2",
+				"cluster_win_mean": "17.88",
+				"delta": "15.88"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.12/title.10-discount-prom-wear-offer/menu.no/sec./home.",
+				"feature_value": "2",
+				"cluster_win_mean": "17.88",
+				"delta": "15.88"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.23/title.spa-day-prize-draw/menu.no/sec./home.",
+				"feature_value": "2",
+				"cluster_win_mean": "17.88",
+				"delta": "15.88"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.22/title.mid-season-clearance-sale/menu.no/sec./home.",
+				"feature_value": "2",
+				"cluster_win_mean": "17.88",
+				"delta": "15.88"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.21/title.new-stock-available-condici-mon-cheri-/menu.no/sec./home.",
+				"feature_value": "2",
+				"cluster_win_mean": "17.88",
+				"delta": "15.88"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.20/title.autumn-wedding-show-at-loch-lomond/menu.no/sec./home.",
+				"feature_value": "2",
+				"cluster_win_mean": "17.88",
+				"delta": "15.88"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.19/title.secc-wedding-show/menu.no/sec./home.",
+				"feature_value": "2",
+				"cluster_win_mean": "17.88",
+				"delta": "15.88"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.25/title.new-evening-wear-collections/menu.no/sec./home.",
+				"feature_value": "2",
+				"cluster_win_mean": "17.88",
+				"delta": "15.88"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.26/title.dress-clearance-sale/menu.no/sec./home.",
+				"feature_value": "2",
+				"cluster_win_mean": "17.88",
+				"delta": "15.88"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.27/title.royal-wedding-dress-prize-draw/menu.no/sec./home.",
+				"feature_value": "2",
+				"cluster_win_mean": "17.88",
+				"delta": "15.88"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.32/title.sequin-dress-for-camelot-at-knockhill-racing-circuit/menu.no/sec./home.",
+				"feature_value": "2",
+				"cluster_win_mean": "17.88",
+				"delta": "15.88"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.33/title.joanna-lumley-outfit-by-john-charles/menu.no/sec./home.",
+				"feature_value": "2",
+				"cluster_win_mean": "17.88",
+				"delta": "15.88"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.34/title.party-dress-for-euromillions-millionaire-month/menu.no/sec./home.",
+				"feature_value": "2",
+				"cluster_win_mean": "17.88",
+				"delta": "15.88"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.30/title.mother-of-the-bride-groom-exhibition/menu.no/sec./home.",
+				"feature_value": "2",
+				"cluster_win_mean": "17.88",
+				"delta": "15.88"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.24/title.scottish-wedding-show-exhibition/menu.no/sec./home.",
+				"feature_value": "2",
+				"cluster_win_mean": "17.88",
+				"delta": "15.88"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.37/title.ladies-night-at-hamilton-race-course/menu.no/sec./home.",
+				"feature_value": "2",
+				"cluster_win_mean": "17.88",
+				"delta": "15.88"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.36/title.dynasty-evening-wear-at-the-baftas-may-2012/menu.no/sec./home.",
+				"feature_value": "2",
+				"cluster_win_mean": "17.88",
+				"delta": "15.88"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.35/title.john-charles-featured-in-conde-nast-brides-magazine/menu.no/sec./home.",
+				"feature_value": "2",
+				"cluster_win_mean": "17.88",
+				"delta": "15.88"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.31/title.jubilee-weekend-sale/menu.no/sec./home.",
+				"feature_value": "2",
+				"cluster_win_mean": "17.88",
+				"delta": "15.88"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.43/title.hamilton-racecourse-competition-winner/menu.no/sec./home.",
+				"feature_value": "2",
+				"cluster_win_mean": "17.88",
+				"delta": "15.88"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.42/title.new-diva-sophia-collection/menu.no/sec./home.",
+				"feature_value": "2",
+				"cluster_win_mean": "17.88",
+				"delta": "15.88"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.41/title.get-the-exact-match-with-diva-sophia-s-lucia-gold-bodycon-dress-/menu.no/sec./home.",
+				"feature_value": "2",
+				"cluster_win_mean": "17.88",
+				"delta": "15.88"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.40/title.vivien-sheriff-millinery-meets-her-majesty-the-queen/menu.no/sec./home.",
+				"feature_value": "2",
+				"cluster_win_mean": "17.88",
+				"delta": "15.88"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.49/title.we-ll-be-at-girl-s-day-out/menu.no/sec./home.",
+				"feature_value": "2",
+				"cluster_win_mean": "17.88",
+				"delta": "15.88"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.48/title.end-of-season-clearance-up-to-75-off-until-end-of-november/menu.no/sec./home.",
+				"feature_value": "2",
+				"cluster_win_mean": "17.88",
+				"delta": "15.88"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.47/title.new-evening-wear-collection-now-in-store/menu.no/sec./home.",
+				"feature_value": "2",
+				"cluster_win_mean": "17.88",
+				"delta": "15.88"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.46/title.dress-featured-on-popular-tv-show/menu.no/sec./home.",
+				"feature_value": "2",
+				"cluster_win_mean": "17.88",
+				"delta": "15.88"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.44/title.prize-draw-winner/menu.no/sec./home.",
+				"feature_value": "2",
+				"cluster_win_mean": "17.88",
+				"delta": "15.88"
+			}
+		],
+		"number_of_inline_css_styles": [
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/",
+				"feature_value": "0",
+				"cluster_win_mean": "1.57",
+				"delta": "1.57"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/about-catherines-of-partick",
+				"feature_value": "0",
+				"cluster_win_mean": "1.57",
+				"delta": "1.57"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/top-tips-for-shopping-for-your-mother-of-the-bride-outfit",
+				"feature_value": "0",
+				"cluster_win_mean": "1.69",
+				"delta": "1.69"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/all-mother-of-the-bride-and-groom-outfits",
+				"feature_value": "0",
+				"cluster_win_mean": "1.57",
+				"delta": "1.57"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/evening-dresses-and-evening-wear-glasgow-scotland",
+				"feature_value": "0",
+				"cluster_win_mean": "1.57",
+				"delta": "1.57"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/prom-dresses-evening-wear-glasgow-scotland",
+				"feature_value": "0",
+				"cluster_win_mean": "1.57",
+				"delta": "1.57"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/wedding-hats-and-fascinators-glasgow-scotland",
+				"feature_value": "0",
+				"cluster_win_mean": "1.57",
+				"delta": "1.57"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/condici-mother-of-the-bride-outfits-glasgow-scotland",
+				"feature_value": "0",
+				"cluster_win_mean": "1.57",
+				"delta": "1.57"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/john-charles-mother-of-the-bride-outfits-glasgow-scotland",
+				"feature_value": "0",
+				"cluster_win_mean": "1.57",
+				"delta": "1.57"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/linea-raffaelli-mother-of-the-bride-outfits-glasgow-scotland",
+				"feature_value": "0",
+				"cluster_win_mean": "1.57",
+				"delta": "1.57"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/ispirato-mother-of-the-bride-outfits-glasgow-scotland",
+				"feature_value": "0",
+				"cluster_win_mean": "1.57",
+				"delta": "1.57"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/ian-stuart-mother-of-the-bride-outfits-glasgow-scotland",
+				"feature_value": "0",
+				"cluster_win_mean": "1.57",
+				"delta": "1.57"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/cabotine-zeila-mother-of-the-bride-outfits-glasgow-scotland",
+				"feature_value": "0",
+				"cluster_win_mean": "1.57",
+				"delta": "1.57"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news",
+				"feature_value": "0",
+				"cluster_win_mean": "1.57",
+				"delta": "1.57"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/contact-us",
+				"feature_value": "0",
+				"cluster_win_mean": "1.57",
+				"delta": "1.57"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/testimonials",
+				"feature_value": "0",
+				"cluster_win_mean": "1.69",
+				"delta": "1.69"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/#wrapper",
+				"feature_value": "0",
+				"cluster_win_mean": "1.57",
+				"delta": "1.57"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/kelsey-rose",
+				"feature_value": "0",
+				"cluster_win_mean": "1.57",
+				"delta": "1.57"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/mother-of-the-bride",
+				"feature_value": "0",
+				"cluster_win_mean": "1.57",
+				"delta": "1.57"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/2-mother-of-the-bride",
+				"feature_value": "0",
+				"cluster_win_mean": "1.57",
+				"delta": "1.57"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk",
+				"feature_value": "0",
+				"cluster_win_mean": "1.57",
+				"delta": "1.57"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/latest-fashions",
+				"feature_value": "0",
+				"cluster_win_mean": "1.57",
+				"delta": "1.57"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/info@catherinesofpartick.co.uk",
+				"feature_value": "0",
+				"cluster_win_mean": "1.57",
+				"delta": "1.57"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/index",
+				"feature_value": "0",
+				"cluster_win_mean": "1.57",
+				"delta": "1.57"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/evening-dresses-scotland",
+				"feature_value": "0",
+				"cluster_win_mean": "1.57",
+				"delta": "1.57"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/index/evening-dresses-and-wear",
+				"feature_value": "0",
+				"cluster_win_mean": "1.57",
+				"delta": "1.57"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/aberdeen-mother-of-the-bride",
+				"feature_value": "0",
+				"cluster_win_mean": "1.57",
+				"delta": "1.57"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/collections",
+				"feature_value": "0",
+				"cluster_win_mean": "1.57",
+				"delta": "1.57"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/designers",
+				"feature_value": "0",
+				"cluster_win_mean": "1.57",
+				"delta": "1.57"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/links",
+				"feature_value": "0",
+				"cluster_win_mean": "1.57",
+				"delta": "1.57"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/2-wedding-hats",
+				"feature_value": "0",
+				"cluster_win_mean": "1.57",
+				"delta": "1.57"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/join-our-team",
+				"feature_value": "0",
+				"cluster_win_mean": "1.57",
+				"delta": "1.57"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/3-mother-of-the-bride",
+				"feature_value": "0",
+				"cluster_win_mean": "1.57",
+				"delta": "1.57"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/4-mother-of-the-bride",
+				"feature_value": "0",
+				"cluster_win_mean": "1.57",
+				"delta": "1.57"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/upcoming-prom",
+				"feature_value": "0",
+				"cluster_win_mean": "1.57",
+				"delta": "1.57"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/#directions",
+				"feature_value": "0",
+				"cluster_win_mean": "1.57",
+				"delta": "1.57"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.3/title.catherines-plays-fairy-godmother-to-three-prom-queens-with-itv-s-5-30-show-/menu.no/sec./home.",
+				"feature_value": "0",
+				"cluster_win_mean": "1.57",
+				"delta": "1.57"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.6/title.hats-off-to-the-mother-of-the-bride/menu.no/sec./home.",
+				"feature_value": "0",
+				"cluster_win_mean": "1.57",
+				"delta": "1.57"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.28/title.ian-stuart-new-monte-carlo-collection/menu.no/sec./home.",
+				"feature_value": "0",
+				"cluster_win_mean": "1.57",
+				"delta": "1.57"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.29/title.our-dress-wins-best-dressed-lady-at-hamilton-racecourse/menu.no/sec./home.",
+				"feature_value": "0",
+				"cluster_win_mean": "1.57",
+				"delta": "1.57"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.38/title.prince-princess-of-wales-hospice-ladies-lunch-2012/menu.no/sec./home.",
+				"feature_value": "0",
+				"cluster_win_mean": "1.57",
+				"delta": "1.57"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.39/title.ladies-night-at-hamilton-racecourse/menu.no/sec./home.",
+				"feature_value": "0",
+				"cluster_win_mean": "1.57",
+				"delta": "1.57"
+			}
+		],
+		"number_of_images_in_body": [
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/",
+				"feature_value": "14",
+				"cluster_win_mean": "17.41",
+				"delta": "3.41"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.50",
+				"feature_value": " 9",
+				"cluster_win_mean": "11.27",
+				"delta": "2.27"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/about-catherines-of-partick",
+				"feature_value": " 9",
+				"cluster_win_mean": "17.41",
+				"delta": "8.41"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/all-mother-of-the-bride-and-groom-outfits",
+				"feature_value": " 9",
+				"cluster_win_mean": "17.41",
+				"delta": "8.41"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/john-charles-mother-of-the-bride-outfits-glasgow-scotland",
+				"feature_value": "12",
+				"cluster_win_mean": "17.41",
+				"delta": "5.41"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news",
+				"feature_value": " 9",
+				"cluster_win_mean": "17.41",
+				"delta": "8.41"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/contact-us",
+				"feature_value": "10",
+				"cluster_win_mean": "17.41",
+				"delta": "7.41"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/#wrapper",
+				"feature_value": "14",
+				"cluster_win_mean": "17.41",
+				"delta": "3.41"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/mother-of-the-bride",
+				"feature_value": " 9",
+				"cluster_win_mean": "17.41",
+				"delta": "8.41"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/2-mother-of-the-bride",
+				"feature_value": " 9",
+				"cluster_win_mean": "17.41",
+				"delta": "8.41"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk",
+				"feature_value": "14",
+				"cluster_win_mean": "17.41",
+				"delta": "3.41"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/latest-fashions",
+				"feature_value": " 9",
+				"cluster_win_mean": "17.41",
+				"delta": "8.41"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/info@catherinesofpartick.co.uk",
+				"feature_value": "14",
+				"cluster_win_mean": "17.41",
+				"delta": "3.41"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/sitellite-nav-sitemap-action",
+				"feature_value": " 9",
+				"cluster_win_mean": "11.27",
+				"delta": "2.27"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/index",
+				"feature_value": "14",
+				"cluster_win_mean": "17.41",
+				"delta": "3.41"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/index/evening-dresses-and-wear",
+				"feature_value": "14",
+				"cluster_win_mean": "17.41",
+				"delta": "3.41"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/aberdeen-mother-of-the-bride",
+				"feature_value": " 9",
+				"cluster_win_mean": "17.41",
+				"delta": "8.41"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/collections",
+				"feature_value": " 9",
+				"cluster_win_mean": "17.41",
+				"delta": "8.41"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/accessories",
+				"feature_value": " 9",
+				"cluster_win_mean": "11.27",
+				"delta": "2.27"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/designers",
+				"feature_value": " 9",
+				"cluster_win_mean": "17.41",
+				"delta": "8.41"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/links",
+				"feature_value": " 9",
+				"cluster_win_mean": "17.41",
+				"delta": "8.41"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/join-our-team",
+				"feature_value": " 9",
+				"cluster_win_mean": "17.41",
+				"delta": "8.41"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/upcoming-prom",
+				"feature_value": " 9",
+				"cluster_win_mean": "17.41",
+				"delta": "8.41"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/#directions",
+				"feature_value": "14",
+				"cluster_win_mean": "17.41",
+				"delta": "3.41"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app?menu=no&limit=5&offset=5",
+				"feature_value": " 9",
+				"cluster_win_mean": "11.27",
+				"delta": "2.27"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app?menu=no&limit=5&offset=0",
+				"feature_value": " 9",
+				"cluster_win_mean": "11.27",
+				"delta": "2.27"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app?menu=no&limit=5&offset=10",
+				"feature_value": " 9",
+				"cluster_win_mean": "11.27",
+				"delta": "2.27"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app?menu=no&limit=5&offset=15",
+				"feature_value": " 9",
+				"cluster_win_mean": "11.27",
+				"delta": "2.27"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app?menu=no&limit=5&offset=20",
+				"feature_value": " 9",
+				"cluster_win_mean": "11.27",
+				"delta": "2.27"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app?menu=no&limit=5&offset=25",
+				"feature_value": " 9",
+				"cluster_win_mean": "11.27",
+				"delta": "2.27"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app?menu=no&limit=5&offset=30",
+				"feature_value": " 9",
+				"cluster_win_mean": "11.27",
+				"delta": "2.27"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app?menu=no&limit=5&offset=35",
+				"feature_value": " 9",
+				"cluster_win_mean": "11.27",
+				"delta": "2.27"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app?menu=no&limit=5&offset=40",
+				"feature_value": " 9",
+				"cluster_win_mean": "11.27",
+				"delta": "2.27"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app?menu=no&limit=5&offset=45",
+				"feature_value": " 9",
+				"cluster_win_mean": "11.27",
+				"delta": "2.27"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app?menu=no&limit=5&offset=50",
+				"feature_value": " 9",
+				"cluster_win_mean": "11.27",
+				"delta": "2.27"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.3/title.catherines-plays-fairy-godmother-to-three-prom-queens-with-itv-s-5-30-show-/menu.no/sec./home.",
+				"feature_value": " 9",
+				"cluster_win_mean": "17.41",
+				"delta": "8.41"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/author.Catherines of Partick",
+				"feature_value": " 9",
+				"cluster_win_mean": "11.27",
+				"delta": "2.27"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app",
+				"feature_value": " 9",
+				"cluster_win_mean": "11.27",
+				"delta": "2.27"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.53/title.arrival-of-autumn-winter-2013/menu.no/sec./home.",
+				"feature_value": " 9",
+				"cluster_win_mean": "11.27",
+				"delta": "2.27"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.52/title.sale-instore-now/menu.no/sec./home.",
+				"feature_value": " 9",
+				"cluster_win_mean": "11.27",
+				"delta": "2.27"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.51/title.prom-queen-announcement-/menu.no/sec./home.",
+				"feature_value": " 9",
+				"cluster_win_mean": "11.27",
+				"delta": "2.27"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.50/title.sales-advisor-required/menu.no/sec./home.",
+				"feature_value": " 9",
+				"cluster_win_mean": "11.27",
+				"delta": "2.27"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.54/title.stockist-of-joseph-ribkoff/menu.no/sec./home.",
+				"feature_value": " 9",
+				"cluster_win_mean": "11.27",
+				"delta": "2.27"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.2/title.katie-price-s-style-is-a-page-turner/menu.no/sec./home.",
+				"feature_value": " 9",
+				"cluster_win_mean": "11.27",
+				"delta": "2.27"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.1/title.dancing-on-ice-proves-a-huge-hit-with-catherines-clientele/menu.no/sec./home.",
+				"feature_value": " 9",
+				"cluster_win_mean": "11.27",
+				"delta": "2.27"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.13/title.teenage-cancer-trust-fashion-show/menu.no/sec./home.",
+				"feature_value": " 9",
+				"cluster_win_mean": "11.27",
+				"delta": "2.27"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.7/title.star-style-in-the-bag-at-catherines-of-partick/menu.no/sec./home.",
+				"feature_value": " 9",
+				"cluster_win_mean": "11.27",
+				"delta": "2.27"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.6/title.hats-off-to-the-mother-of-the-bride/menu.no/sec./home.",
+				"feature_value": " 9",
+				"cluster_win_mean": "17.41",
+				"delta": "8.41"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.5/title.dj-suzie-mcguire-dresses-for-a-day-at-the-races/menu.no/sec./home.",
+				"feature_value": " 9",
+				"cluster_win_mean": "11.27",
+				"delta": "2.27"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.4/title.miss-scotland-dresses-to-impress-with-a-little-help-from-catherines-/menu.no/sec./home.",
+				"feature_value": " 9",
+				"cluster_win_mean": "11.27",
+				"delta": "2.27"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.11/title.andrew-lloyd-webber-s-over-the-rainbow-chooses-rainbow-club/menu.no/sec./home.",
+				"feature_value": " 9",
+				"cluster_win_mean": "11.27",
+				"delta": "2.27"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.15/title.secc-wedding-show/menu.no/sec./home.",
+				"feature_value": " 9",
+				"cluster_win_mean": "11.27",
+				"delta": "2.27"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.8/title.new-year-new-offers-/menu.no/sec./home.",
+				"feature_value": " 9",
+				"cluster_win_mean": "11.27",
+				"delta": "2.27"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.9/title.annual-wedding-show-at-secc-glasgow/menu.no/sec./home.",
+				"feature_value": " 9",
+				"cluster_win_mean": "11.27",
+				"delta": "2.27"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.18/title.autumn-winter-2010-collection-now-in-store/menu.no/sec./home.",
+				"feature_value": " 9",
+				"cluster_win_mean": "11.27",
+				"delta": "2.27"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.17/title.gift-vouchers-for-catherines-of-partick/menu.no/sec./home.",
+				"feature_value": " 9",
+				"cluster_win_mean": "11.27",
+				"delta": "2.27"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.16/title.mother-of-the-bride-clearance-sale-now-on/menu.no/sec./home.",
+				"feature_value": " 9",
+				"cluster_win_mean": "11.27",
+				"delta": "2.27"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.14/title.prom-dress-event-of-the-year/menu.no/sec./home.",
+				"feature_value": " 9",
+				"cluster_win_mean": "11.27",
+				"delta": "2.27"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.12/title.10-discount-prom-wear-offer/menu.no/sec./home.",
+				"feature_value": " 9",
+				"cluster_win_mean": "11.27",
+				"delta": "2.27"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.23/title.spa-day-prize-draw/menu.no/sec./home.",
+				"feature_value": " 9",
+				"cluster_win_mean": "11.27",
+				"delta": "2.27"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.22/title.mid-season-clearance-sale/menu.no/sec./home.",
+				"feature_value": " 9",
+				"cluster_win_mean": "11.27",
+				"delta": "2.27"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.21/title.new-stock-available-condici-mon-cheri-/menu.no/sec./home.",
+				"feature_value": " 9",
+				"cluster_win_mean": "11.27",
+				"delta": "2.27"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.19/title.secc-wedding-show/menu.no/sec./home.",
+				"feature_value": " 9",
+				"cluster_win_mean": "11.27",
+				"delta": "2.27"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.28/title.ian-stuart-new-monte-carlo-collection/menu.no/sec./home.",
+				"feature_value": " 9",
+				"cluster_win_mean": "17.41",
+				"delta": "8.41"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.29/title.our-dress-wins-best-dressed-lady-at-hamilton-racecourse/menu.no/sec./home.",
+				"feature_value": " 9",
+				"cluster_win_mean": "17.41",
+				"delta": "8.41"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.25/title.new-evening-wear-collections/menu.no/sec./home.",
+				"feature_value": " 9",
+				"cluster_win_mean": "11.27",
+				"delta": "2.27"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.26/title.dress-clearance-sale/menu.no/sec./home.",
+				"feature_value": " 9",
+				"cluster_win_mean": "11.27",
+				"delta": "2.27"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.32/title.sequin-dress-for-camelot-at-knockhill-racing-circuit/menu.no/sec./home.",
+				"feature_value": " 9",
+				"cluster_win_mean": "11.27",
+				"delta": "2.27"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.33/title.joanna-lumley-outfit-by-john-charles/menu.no/sec./home.",
+				"feature_value": " 9",
+				"cluster_win_mean": "11.27",
+				"delta": "2.27"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.34/title.party-dress-for-euromillions-millionaire-month/menu.no/sec./home.",
+				"feature_value": " 9",
+				"cluster_win_mean": "11.27",
+				"delta": "2.27"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.30/title.mother-of-the-bride-groom-exhibition/menu.no/sec./home.",
+				"feature_value": " 9",
+				"cluster_win_mean": "11.27",
+				"delta": "2.27"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.24/title.scottish-wedding-show-exhibition/menu.no/sec./home.",
+				"feature_value": " 9",
+				"cluster_win_mean": "11.27",
+				"delta": "2.27"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.37/title.ladies-night-at-hamilton-race-course/menu.no/sec./home.",
+				"feature_value": " 9",
+				"cluster_win_mean": "11.27",
+				"delta": "2.27"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.36/title.dynasty-evening-wear-at-the-baftas-may-2012/menu.no/sec./home.",
+				"feature_value": " 9",
+				"cluster_win_mean": "11.27",
+				"delta": "2.27"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.35/title.john-charles-featured-in-conde-nast-brides-magazine/menu.no/sec./home.",
+				"feature_value": " 9",
+				"cluster_win_mean": "11.27",
+				"delta": "2.27"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.31/title.jubilee-weekend-sale/menu.no/sec./home.",
+				"feature_value": " 9",
+				"cluster_win_mean": "11.27",
+				"delta": "2.27"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.38/title.prince-princess-of-wales-hospice-ladies-lunch-2012/menu.no/sec./home.",
+				"feature_value": "10",
+				"cluster_win_mean": "17.41",
+				"delta": "7.41"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.39/title.ladies-night-at-hamilton-racecourse/menu.no/sec./home.",
+				"feature_value": "11",
+				"cluster_win_mean": "17.41",
+				"delta": "6.41"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.49/title.we-ll-be-at-girl-s-day-out/menu.no/sec./home.",
+				"feature_value": " 9",
+				"cluster_win_mean": "11.27",
+				"delta": "2.27"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.48/title.end-of-season-clearance-up-to-75-off-until-end-of-november/menu.no/sec./home.",
+				"feature_value": " 9",
+				"cluster_win_mean": "11.27",
+				"delta": "2.27"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.44/title.prize-draw-winner/menu.no/sec./home.",
+				"feature_value": " 9",
+				"cluster_win_mean": "11.27",
+				"delta": "2.27"
+			}
+		],
+		"html5_detected": [
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.50",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/about-catherines-of-partick",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/top-tips-for-shopping-for-your-mother-of-the-bride-outfit",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/all-mother-of-the-bride-and-groom-outfits",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/evening-dresses-and-evening-wear-glasgow-scotland",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/cruise-wear-day-wear-glasgow-scotland",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/prom-dresses-evening-wear-glasgow-scotland",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/sale",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/benjamin-adams-shoes-glasgow-scotland",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/stuart-weitzman-shoes-glasgow-scotland",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/designer-shoes-glasgow-scotland",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/wedding-shoes-and-bags-glasgow-scotland",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/wedding-hats-and-fascinators-glasgow-scotland",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/condici-mother-of-the-bride-outfits-glasgow-scotland",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/john-charles-mother-of-the-bride-outfits-glasgow-scotland",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/linea-raffaelli-mother-of-the-bride-outfits-glasgow-scotland",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/ispirato-mother-of-the-bride-outfits-glasgow-scotland",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/ian-stuart-mother-of-the-bride-outfits-glasgow-scotland",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/ann-balon-mother-of-the-bride-outfits-glasgow-scotland",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/cabotine-zeila-mother-of-the-bride-outfits-glasgow-scotland",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/contact-us",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/testimonials",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/mother-of-the-bride-groom-sale",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/evening-wear-sale",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/#wrapper",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/kelsey-rose",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/mother-of-the-bride",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/2-mother-of-the-bride",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/latest-fashions",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/info@catherinesofpartick.co.uk",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/sitellite-nav-sitemap-action",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/index",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/evening-dresses-scotland",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/index/evening-dresses-and-wear",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/aberdeen-mother-of-the-bride",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/collections",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/prom-offer",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/accessories",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/designers",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/veni",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/links",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/sale-2",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/mother-of-the-bride-groom-sale2",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/all-wedding-hats",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/2-wedding-hats",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/join-our-team",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/3-mother-of-the-bride",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/4-mother-of-the-bride",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/5-mother-of-the-bride",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/upcoming-prom",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/#directions",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app?menu=no&limit=5&offset=5",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app?menu=no&limit=5&offset=0",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app?menu=no&limit=5&offset=10",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app?menu=no&limit=5&offset=15",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app?menu=no&limit=5&offset=20",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app?menu=no&limit=5&offset=25",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app?menu=no&limit=5&offset=30",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app?menu=no&limit=5&offset=35",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app?menu=no&limit=5&offset=40",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app?menu=no&limit=5&offset=45",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app?menu=no&limit=5&offset=50",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.3/title.catherines-plays-fairy-godmother-to-three-prom-queens-with-itv-s-5-30-show-/menu.no/sec./home.",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/author.Catherines of Partick",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.53/title.arrival-of-autumn-winter-2013/menu.no/sec./home.",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.52/title.sale-instore-now/menu.no/sec./home.",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.51/title.prom-queen-announcement-/menu.no/sec./home.",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.50/title.sales-advisor-required/menu.no/sec./home.",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.54/title.stockist-of-joseph-ribkoff/menu.no/sec./home.",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.2/title.katie-price-s-style-is-a-page-turner/menu.no/sec./home.",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.1/title.dancing-on-ice-proves-a-huge-hit-with-catherines-clientele/menu.no/sec./home.",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.13/title.teenage-cancer-trust-fashion-show/menu.no/sec./home.",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.7/title.star-style-in-the-bag-at-catherines-of-partick/menu.no/sec./home.",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.6/title.hats-off-to-the-mother-of-the-bride/menu.no/sec./home.",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.5/title.dj-suzie-mcguire-dresses-for-a-day-at-the-races/menu.no/sec./home.",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.4/title.miss-scotland-dresses-to-impress-with-a-little-help-from-catherines-/menu.no/sec./home.",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.11/title.andrew-lloyd-webber-s-over-the-rainbow-chooses-rainbow-club/menu.no/sec./home.",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.15/title.secc-wedding-show/menu.no/sec./home.",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.10/title.clyde-1-wedding-outfit-promotion/menu.no/sec./home.",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.8/title.new-year-new-offers-/menu.no/sec./home.",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.9/title.annual-wedding-show-at-secc-glasgow/menu.no/sec./home.",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.18/title.autumn-winter-2010-collection-now-in-store/menu.no/sec./home.",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.17/title.gift-vouchers-for-catherines-of-partick/menu.no/sec./home.",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.16/title.mother-of-the-bride-clearance-sale-now-on/menu.no/sec./home.",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.14/title.prom-dress-event-of-the-year/menu.no/sec./home.",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.12/title.10-discount-prom-wear-offer/menu.no/sec./home.",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.23/title.spa-day-prize-draw/menu.no/sec./home.",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.22/title.mid-season-clearance-sale/menu.no/sec./home.",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.21/title.new-stock-available-condici-mon-cheri-/menu.no/sec./home.",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.20/title.autumn-wedding-show-at-loch-lomond/menu.no/sec./home.",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.19/title.secc-wedding-show/menu.no/sec./home.",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.28/title.ian-stuart-new-monte-carlo-collection/menu.no/sec./home.",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.29/title.our-dress-wins-best-dressed-lady-at-hamilton-racecourse/menu.no/sec./home.",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.25/title.new-evening-wear-collections/menu.no/sec./home.",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.26/title.dress-clearance-sale/menu.no/sec./home.",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.27/title.royal-wedding-dress-prize-draw/menu.no/sec./home.",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.32/title.sequin-dress-for-camelot-at-knockhill-racing-circuit/menu.no/sec./home.",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.33/title.joanna-lumley-outfit-by-john-charles/menu.no/sec./home.",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.34/title.party-dress-for-euromillions-millionaire-month/menu.no/sec./home.",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.30/title.mother-of-the-bride-groom-exhibition/menu.no/sec./home.",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.24/title.scottish-wedding-show-exhibition/menu.no/sec./home.",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.37/title.ladies-night-at-hamilton-race-course/menu.no/sec./home.",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.36/title.dynasty-evening-wear-at-the-baftas-may-2012/menu.no/sec./home.",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.35/title.john-charles-featured-in-conde-nast-brides-magazine/menu.no/sec./home.",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.31/title.jubilee-weekend-sale/menu.no/sec./home.",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.38/title.prince-princess-of-wales-hospice-ladies-lunch-2012/menu.no/sec./home.",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.43/title.hamilton-racecourse-competition-winner/menu.no/sec./home.",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.42/title.new-diva-sophia-collection/menu.no/sec./home.",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.41/title.get-the-exact-match-with-diva-sophia-s-lucia-gold-bodycon-dress-/menu.no/sec./home.",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.40/title.vivien-sheriff-millinery-meets-her-majesty-the-queen/menu.no/sec./home.",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.39/title.ladies-night-at-hamilton-racecourse/menu.no/sec./home.",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.49/title.we-ll-be-at-girl-s-day-out/menu.no/sec./home.",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.48/title.end-of-season-clearance-up-to-75-off-until-end-of-november/menu.no/sec./home.",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.47/title.new-evening-wear-collection-now-in-store/menu.no/sec./home.",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.46/title.dress-featured-on-popular-tv-show/menu.no/sec./home.",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.44/title.prize-draw-winner/menu.no/sec./home.",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			}
+		],
+		"maximum_length_of_h1": [
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/",
+				"feature_value": "37",
+				"cluster_win_mean": " 70.6",
+				"delta": "  33.6"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/about-catherines-of-partick",
+				"feature_value": " 8",
+				"cluster_win_mean": " 70.6",
+				"delta": "  62.6"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/top-tips-for-shopping-for-your-mother-of-the-bride-outfit",
+				"feature_value": "57",
+				"cluster_win_mean": "92.38",
+				"delta": " 35.38"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/all-mother-of-the-bride-and-groom-outfits",
+				"feature_value": " 0",
+				"cluster_win_mean": " 70.6",
+				"delta": "  70.6"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/prom-dresses-evening-wear-glasgow-scotland",
+				"feature_value": "12",
+				"cluster_win_mean": " 70.6",
+				"delta": "  58.6"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/wedding-hats-and-fascinators-glasgow-scotland",
+				"feature_value": "18",
+				"cluster_win_mean": " 70.6",
+				"delta": "  52.6"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/condici-mother-of-the-bride-outfits-glasgow-scotland",
+				"feature_value": "37",
+				"cluster_win_mean": " 70.6",
+				"delta": "  33.6"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/john-charles-mother-of-the-bride-outfits-glasgow-scotland",
+				"feature_value": " 0",
+				"cluster_win_mean": " 70.6",
+				"delta": "  70.6"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/linea-raffaelli-mother-of-the-bride-outfits-glasgow-scotland",
+				"feature_value": " 0",
+				"cluster_win_mean": " 70.6",
+				"delta": "  70.6"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/ispirato-mother-of-the-bride-outfits-glasgow-scotland",
+				"feature_value": "48",
+				"cluster_win_mean": " 70.6",
+				"delta": "  22.6"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/ian-stuart-mother-of-the-bride-outfits-glasgow-scotland",
+				"feature_value": " 0",
+				"cluster_win_mean": " 70.6",
+				"delta": "  70.6"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/cabotine-zeila-mother-of-the-bride-outfits-glasgow-scotland",
+				"feature_value": " 0",
+				"cluster_win_mean": " 70.6",
+				"delta": "  70.6"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news",
+				"feature_value": "11",
+				"cluster_win_mean": " 70.6",
+				"delta": "  59.6"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/contact-us",
+				"feature_value": "10",
+				"cluster_win_mean": " 70.6",
+				"delta": "  60.6"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/testimonials",
+				"feature_value": "12",
+				"cluster_win_mean": "92.38",
+				"delta": " 80.38"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/#wrapper",
+				"feature_value": "37",
+				"cluster_win_mean": " 70.6",
+				"delta": "  33.6"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/kelsey-rose",
+				"feature_value": "11",
+				"cluster_win_mean": " 70.6",
+				"delta": "  59.6"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/mother-of-the-bride",
+				"feature_value": " 0",
+				"cluster_win_mean": " 70.6",
+				"delta": "  70.6"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/2-mother-of-the-bride",
+				"feature_value": " 0",
+				"cluster_win_mean": " 70.6",
+				"delta": "  70.6"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk",
+				"feature_value": "37",
+				"cluster_win_mean": " 70.6",
+				"delta": "  33.6"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/latest-fashions",
+				"feature_value": "32",
+				"cluster_win_mean": " 70.6",
+				"delta": "  38.6"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/info@catherinesofpartick.co.uk",
+				"feature_value": "37",
+				"cluster_win_mean": " 70.6",
+				"delta": "  33.6"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/index",
+				"feature_value": "37",
+				"cluster_win_mean": " 70.6",
+				"delta": "  33.6"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/evening-dresses-scotland",
+				"feature_value": "30",
+				"cluster_win_mean": " 70.6",
+				"delta": "  40.6"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/index/evening-dresses-and-wear",
+				"feature_value": "37",
+				"cluster_win_mean": " 70.6",
+				"delta": "  33.6"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/aberdeen-mother-of-the-bride",
+				"feature_value": "36",
+				"cluster_win_mean": " 70.6",
+				"delta": "  34.6"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/collections",
+				"feature_value": "11",
+				"cluster_win_mean": " 70.6",
+				"delta": "  59.6"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/designers",
+				"feature_value": " 9",
+				"cluster_win_mean": " 70.6",
+				"delta": "  61.6"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/links",
+				"feature_value": " 5",
+				"cluster_win_mean": " 70.6",
+				"delta": "  65.6"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/2-wedding-hats",
+				"feature_value": "18",
+				"cluster_win_mean": " 70.6",
+				"delta": "  52.6"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/join-our-team",
+				"feature_value": "13",
+				"cluster_win_mean": " 70.6",
+				"delta": "  57.6"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/3-mother-of-the-bride",
+				"feature_value": " 0",
+				"cluster_win_mean": " 70.6",
+				"delta": "  70.6"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/4-mother-of-the-bride",
+				"feature_value": " 0",
+				"cluster_win_mean": " 70.6",
+				"delta": "  70.6"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/upcoming-prom",
+				"feature_value": "31",
+				"cluster_win_mean": " 70.6",
+				"delta": "  39.6"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/#directions",
+				"feature_value": "37",
+				"cluster_win_mean": " 70.6",
+				"delta": "  33.6"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.1/title.dancing-on-ice-proves-a-huge-hit-with-catherines-clientele/menu.no/sec./home.",
+				"feature_value": "58",
+				"cluster_win_mean": "18.33",
+				"delta": "-39.67"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.6/title.hats-off-to-the-mother-of-the-bride/menu.no/sec./home.",
+				"feature_value": "35",
+				"cluster_win_mean": " 70.6",
+				"delta": "  35.6"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.4/title.miss-scotland-dresses-to-impress-with-a-little-help-from-catherines-/menu.no/sec./home.",
+				"feature_value": "68",
+				"cluster_win_mean": "18.33",
+				"delta": "-49.67"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.11/title.andrew-lloyd-webber-s-over-the-rainbow-chooses-rainbow-club/menu.no/sec./home.",
+				"feature_value": "61",
+				"cluster_win_mean": "18.33",
+				"delta": "-42.67"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.28/title.ian-stuart-new-monte-carlo-collection/menu.no/sec./home.",
+				"feature_value": "37",
+				"cluster_win_mean": " 70.6",
+				"delta": "  33.6"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.29/title.our-dress-wins-best-dressed-lady-at-hamilton-racecourse/menu.no/sec./home.",
+				"feature_value": "55",
+				"cluster_win_mean": " 70.6",
+				"delta": "  15.6"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.32/title.sequin-dress-for-camelot-at-knockhill-racing-circuit/menu.no/sec./home.",
+				"feature_value": "52",
+				"cluster_win_mean": "18.33",
+				"delta": "-33.67"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.35/title.john-charles-featured-in-conde-nast-brides-magazine/menu.no/sec./home.",
+				"feature_value": "51",
+				"cluster_win_mean": "18.33",
+				"delta": "-32.67"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.38/title.prince-princess-of-wales-hospice-ladies-lunch-2012/menu.no/sec./home.",
+				"feature_value": "52",
+				"cluster_win_mean": " 70.6",
+				"delta": "  18.6"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.41/title.get-the-exact-match-with-diva-sophia-s-lucia-gold-bodycon-dress-/menu.no/sec./home.",
+				"feature_value": "64",
+				"cluster_win_mean": "18.33",
+				"delta": "-45.67"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.40/title.vivien-sheriff-millinery-meets-her-majesty-the-queen/menu.no/sec./home.",
+				"feature_value": "52",
+				"cluster_win_mean": "18.33",
+				"delta": "-33.67"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.39/title.ladies-night-at-hamilton-racecourse/menu.no/sec./home.",
+				"feature_value": "35",
+				"cluster_win_mean": " 70.6",
+				"delta": "  35.6"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.48/title.end-of-season-clearance-up-to-75-off-until-end-of-november/menu.no/sec./home.",
+				"feature_value": "61",
+				"cluster_win_mean": "18.33",
+				"delta": "-42.67"
+			}
+		],
+		"ratio_of_rare_words_to_total": [
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/sale",
+				"feature_value": "   0.125",
+				"cluster_win_mean": "0.23",
+				"delta": "0.11"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/designer-shoes-glasgow-scotland",
+				"feature_value": " 0.16667",
+				"cluster_win_mean": "0.23",
+				"delta": "0.07"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/mother-of-the-bride-groom-sale",
+				"feature_value": "   0.125",
+				"cluster_win_mean": "0.23",
+				"delta": "0.11"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/evening-wear-sale",
+				"feature_value": "     0.2",
+				"cluster_win_mean": "0.23",
+				"delta": "0.03"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/sitellite-nav-sitemap-action",
+				"feature_value": " 0.16667",
+				"cluster_win_mean": "0.23",
+				"delta": "0.07"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/sale-2",
+				"feature_value": " 0.16667",
+				"cluster_win_mean": "0.23",
+				"delta": "0.07"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/mother-of-the-bride-groom-sale2",
+				"feature_value": " 0.16667",
+				"cluster_win_mean": "0.23",
+				"delta": "0.07"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app?menu=no&limit=5&offset=0",
+				"feature_value": " 0.16667",
+				"cluster_win_mean": "0.23",
+				"delta": "0.07"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app?menu=no&limit=5&offset=10",
+				"feature_value": " 0.16667",
+				"cluster_win_mean": "0.23",
+				"delta": "0.07"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app?menu=no&limit=5&offset=15",
+				"feature_value": " 0.16667",
+				"cluster_win_mean": "0.23",
+				"delta": "0.07"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app?menu=no&limit=5&offset=20",
+				"feature_value": " 0.16667",
+				"cluster_win_mean": "0.23",
+				"delta": "0.07"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app?menu=no&limit=5&offset=25",
+				"feature_value": " 0.16667",
+				"cluster_win_mean": "0.23",
+				"delta": "0.07"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app?menu=no&limit=5&offset=30",
+				"feature_value": " 0.16667",
+				"cluster_win_mean": "0.23",
+				"delta": "0.07"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app?menu=no&limit=5&offset=35",
+				"feature_value": " 0.16667",
+				"cluster_win_mean": "0.23",
+				"delta": "0.07"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app?menu=no&limit=5&offset=40",
+				"feature_value": " 0.16667",
+				"cluster_win_mean": "0.23",
+				"delta": "0.07"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app?menu=no&limit=5&offset=45",
+				"feature_value": " 0.16667",
+				"cluster_win_mean": "0.23",
+				"delta": "0.07"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app?menu=no&limit=5&offset=50",
+				"feature_value": " 0.16667",
+				"cluster_win_mean": "0.23",
+				"delta": "0.07"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/author.Catherines of Partick",
+				"feature_value": " 0.17647",
+				"cluster_win_mean": "0.23",
+				"delta": "0.06"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app",
+				"feature_value": " 0.16667",
+				"cluster_win_mean": "0.23",
+				"delta": "0.07"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.13/title.teenage-cancer-trust-fashion-show/menu.no/sec./home.",
+				"feature_value": "    0.15",
+				"cluster_win_mean": "0.23",
+				"delta": "0.08"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.8/title.new-year-new-offers-/menu.no/sec./home.",
+				"feature_value": " 0.16667",
+				"cluster_win_mean": "0.23",
+				"delta": "0.07"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.18/title.autumn-winter-2010-collection-now-in-store/menu.no/sec./home.",
+				"feature_value": " 0.17778",
+				"cluster_win_mean": "0.23",
+				"delta": "0.06"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.17/title.gift-vouchers-for-catherines-of-partick/menu.no/sec./home.",
+				"feature_value": " 0.17857",
+				"cluster_win_mean": "0.23",
+				"delta": "0.06"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.16/title.mother-of-the-bride-clearance-sale-now-on/menu.no/sec./home.",
+				"feature_value": " 0.14894",
+				"cluster_win_mean": "0.23",
+				"delta": "0.08"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.19/title.secc-wedding-show/menu.no/sec./home.",
+				"feature_value": "  0.2037",
+				"cluster_win_mean": "0.23",
+				"delta": "0.03"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.25/title.new-evening-wear-collections/menu.no/sec./home.",
+				"feature_value": "0.076923",
+				"cluster_win_mean": "0.23",
+				"delta": "0.16"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.27/title.royal-wedding-dress-prize-draw/menu.no/sec./home.",
+				"feature_value": "0.081081",
+				"cluster_win_mean": "0.23",
+				"delta": "0.15"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.30/title.mother-of-the-bride-groom-exhibition/menu.no/sec./home.",
+				"feature_value": " 0.19565",
+				"cluster_win_mean": "0.23",
+				"delta": "0.04"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.37/title.ladies-night-at-hamilton-race-course/menu.no/sec./home.",
+				"feature_value": " 0.16129",
+				"cluster_win_mean": "0.23",
+				"delta": "0.07"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.49/title.we-ll-be-at-girl-s-day-out/menu.no/sec./home.",
+				"feature_value": " 0.17857",
+				"cluster_win_mean": "0.23",
+				"delta": "0.06"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.48/title.end-of-season-clearance-up-to-75-off-until-end-of-november/menu.no/sec./home.",
+				"feature_value": "   0.175",
+				"cluster_win_mean": "0.23",
+				"delta": "0.06"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.47/title.new-evening-wear-collection-now-in-store/menu.no/sec./home.",
+				"feature_value": " 0.15278",
+				"cluster_win_mean": "0.23",
+				"delta": "0.08"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.46/title.dress-featured-on-popular-tv-show/menu.no/sec./home.",
+				"feature_value": " 0.18966",
+				"cluster_win_mean": "0.23",
+				"delta": "0.04"
+			}
+		],
+		"average_length_of_h1": [
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/evening-dresses-and-evening-wear-glasgow-scotland",
+				"feature_value": "73",
+				"cluster_win_mean": "45.52",
+				"delta": "-27.48"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/testimonials",
+				"feature_value": "12",
+				"cluster_win_mean": "46.69",
+				"delta": " 34.69"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.3/title.catherines-plays-fairy-godmother-to-three-prom-queens-with-itv-s-5-30-show-/menu.no/sec./home.",
+				"feature_value": "75",
+				"cluster_win_mean": "45.52",
+				"delta": "-29.48"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.1/title.dancing-on-ice-proves-a-huge-hit-with-catherines-clientele/menu.no/sec./home.",
+				"feature_value": "58",
+				"cluster_win_mean": "15.56",
+				"delta": "-42.44"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.4/title.miss-scotland-dresses-to-impress-with-a-little-help-from-catherines-/menu.no/sec./home.",
+				"feature_value": "68",
+				"cluster_win_mean": "15.56",
+				"delta": "-52.44"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.11/title.andrew-lloyd-webber-s-over-the-rainbow-chooses-rainbow-club/menu.no/sec./home.",
+				"feature_value": "61",
+				"cluster_win_mean": "15.56",
+				"delta": "-45.44"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.29/title.our-dress-wins-best-dressed-lady-at-hamilton-racecourse/menu.no/sec./home.",
+				"feature_value": "55",
+				"cluster_win_mean": "45.52",
+				"delta": " -9.48"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.32/title.sequin-dress-for-camelot-at-knockhill-racing-circuit/menu.no/sec./home.",
+				"feature_value": "52",
+				"cluster_win_mean": "15.56",
+				"delta": "-36.44"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.35/title.john-charles-featured-in-conde-nast-brides-magazine/menu.no/sec./home.",
+				"feature_value": "51",
+				"cluster_win_mean": "15.56",
+				"delta": "-35.44"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.38/title.prince-princess-of-wales-hospice-ladies-lunch-2012/menu.no/sec./home.",
+				"feature_value": "52",
+				"cluster_win_mean": "45.52",
+				"delta": " -6.48"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.41/title.get-the-exact-match-with-diva-sophia-s-lucia-gold-bodycon-dress-/menu.no/sec./home.",
+				"feature_value": "64",
+				"cluster_win_mean": "15.56",
+				"delta": "-48.44"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.40/title.vivien-sheriff-millinery-meets-her-majesty-the-queen/menu.no/sec./home.",
+				"feature_value": "52",
+				"cluster_win_mean": "15.56",
+				"delta": "-36.44"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.48/title.end-of-season-clearance-up-to-75-off-until-end-of-november/menu.no/sec./home.",
+				"feature_value": "61",
+				"cluster_win_mean": "15.56",
+				"delta": "-45.44"
+			}
+		],
+		"number_of_embedded_styles": [
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/",
+				"feature_value": "0",
+				"cluster_win_mean": "2.9",
+				"delta": "2.9"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/about-catherines-of-partick",
+				"feature_value": "0",
+				"cluster_win_mean": "2.9",
+				"delta": "2.9"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/all-mother-of-the-bride-and-groom-outfits",
+				"feature_value": "0",
+				"cluster_win_mean": "2.9",
+				"delta": "2.9"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/evening-dresses-and-evening-wear-glasgow-scotland",
+				"feature_value": "0",
+				"cluster_win_mean": "2.9",
+				"delta": "2.9"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/prom-dresses-evening-wear-glasgow-scotland",
+				"feature_value": "0",
+				"cluster_win_mean": "2.9",
+				"delta": "2.9"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/wedding-hats-and-fascinators-glasgow-scotland",
+				"feature_value": "0",
+				"cluster_win_mean": "2.9",
+				"delta": "2.9"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/condici-mother-of-the-bride-outfits-glasgow-scotland",
+				"feature_value": "0",
+				"cluster_win_mean": "2.9",
+				"delta": "2.9"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/john-charles-mother-of-the-bride-outfits-glasgow-scotland",
+				"feature_value": "0",
+				"cluster_win_mean": "2.9",
+				"delta": "2.9"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/linea-raffaelli-mother-of-the-bride-outfits-glasgow-scotland",
+				"feature_value": "0",
+				"cluster_win_mean": "2.9",
+				"delta": "2.9"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/ispirato-mother-of-the-bride-outfits-glasgow-scotland",
+				"feature_value": "0",
+				"cluster_win_mean": "2.9",
+				"delta": "2.9"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/ian-stuart-mother-of-the-bride-outfits-glasgow-scotland",
+				"feature_value": "0",
+				"cluster_win_mean": "2.9",
+				"delta": "2.9"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/cabotine-zeila-mother-of-the-bride-outfits-glasgow-scotland",
+				"feature_value": "0",
+				"cluster_win_mean": "2.9",
+				"delta": "2.9"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news",
+				"feature_value": "0",
+				"cluster_win_mean": "2.9",
+				"delta": "2.9"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/contact-us",
+				"feature_value": "0",
+				"cluster_win_mean": "2.9",
+				"delta": "2.9"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/#wrapper",
+				"feature_value": "0",
+				"cluster_win_mean": "2.9",
+				"delta": "2.9"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/kelsey-rose",
+				"feature_value": "0",
+				"cluster_win_mean": "2.9",
+				"delta": "2.9"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/mother-of-the-bride",
+				"feature_value": "0",
+				"cluster_win_mean": "2.9",
+				"delta": "2.9"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/2-mother-of-the-bride",
+				"feature_value": "0",
+				"cluster_win_mean": "2.9",
+				"delta": "2.9"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk",
+				"feature_value": "0",
+				"cluster_win_mean": "2.9",
+				"delta": "2.9"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/latest-fashions",
+				"feature_value": "0",
+				"cluster_win_mean": "2.9",
+				"delta": "2.9"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/info@catherinesofpartick.co.uk",
+				"feature_value": "0",
+				"cluster_win_mean": "2.9",
+				"delta": "2.9"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/index",
+				"feature_value": "0",
+				"cluster_win_mean": "2.9",
+				"delta": "2.9"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/evening-dresses-scotland",
+				"feature_value": "0",
+				"cluster_win_mean": "2.9",
+				"delta": "2.9"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/index/evening-dresses-and-wear",
+				"feature_value": "0",
+				"cluster_win_mean": "2.9",
+				"delta": "2.9"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/aberdeen-mother-of-the-bride",
+				"feature_value": "0",
+				"cluster_win_mean": "2.9",
+				"delta": "2.9"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/collections",
+				"feature_value": "0",
+				"cluster_win_mean": "2.9",
+				"delta": "2.9"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/designers",
+				"feature_value": "0",
+				"cluster_win_mean": "2.9",
+				"delta": "2.9"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/links",
+				"feature_value": "0",
+				"cluster_win_mean": "2.9",
+				"delta": "2.9"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/2-wedding-hats",
+				"feature_value": "0",
+				"cluster_win_mean": "2.9",
+				"delta": "2.9"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/join-our-team",
+				"feature_value": "0",
+				"cluster_win_mean": "2.9",
+				"delta": "2.9"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/3-mother-of-the-bride",
+				"feature_value": "0",
+				"cluster_win_mean": "2.9",
+				"delta": "2.9"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/4-mother-of-the-bride",
+				"feature_value": "0",
+				"cluster_win_mean": "2.9",
+				"delta": "2.9"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/upcoming-prom",
+				"feature_value": "0",
+				"cluster_win_mean": "2.9",
+				"delta": "2.9"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/#directions",
+				"feature_value": "0",
+				"cluster_win_mean": "2.9",
+				"delta": "2.9"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.3/title.catherines-plays-fairy-godmother-to-three-prom-queens-with-itv-s-5-30-show-/menu.no/sec./home.",
+				"feature_value": "0",
+				"cluster_win_mean": "2.9",
+				"delta": "2.9"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.6/title.hats-off-to-the-mother-of-the-bride/menu.no/sec./home.",
+				"feature_value": "0",
+				"cluster_win_mean": "2.9",
+				"delta": "2.9"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.28/title.ian-stuart-new-monte-carlo-collection/menu.no/sec./home.",
+				"feature_value": "0",
+				"cluster_win_mean": "2.9",
+				"delta": "2.9"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.29/title.our-dress-wins-best-dressed-lady-at-hamilton-racecourse/menu.no/sec./home.",
+				"feature_value": "0",
+				"cluster_win_mean": "2.9",
+				"delta": "2.9"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.38/title.prince-princess-of-wales-hospice-ladies-lunch-2012/menu.no/sec./home.",
+				"feature_value": "0",
+				"cluster_win_mean": "2.9",
+				"delta": "2.9"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.39/title.ladies-night-at-hamilton-racecourse/menu.no/sec./home.",
+				"feature_value": "0",
+				"cluster_win_mean": "2.9",
+				"delta": "2.9"
+			}
+		],
+		"number_of_iframes": [
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/top-tips-for-shopping-for-your-mother-of-the-bride-outfit",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/testimonials",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			}
+		],
+		"number_of_external_css_styles": [
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/top-tips-for-shopping-for-your-mother-of-the-bride-outfit",
+				"feature_value": "2",
+				"cluster_win_mean": "7.49",
+				"delta": "5.49"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/testimonials",
+				"feature_value": "2",
+				"cluster_win_mean": "7.49",
+				"delta": "5.49"
+			}
+		],
+		"maximum_length_of_h2": [
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/",
+				"feature_value": "23",
+				"cluster_win_mean": "71.79",
+				"delta": "48.79"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.50",
+				"feature_value": " 0",
+				"cluster_win_mean": "52.07",
+				"delta": "52.07"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/about-catherines-of-partick",
+				"feature_value": " 0",
+				"cluster_win_mean": "71.79",
+				"delta": "71.79"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/top-tips-for-shopping-for-your-mother-of-the-bride-outfit",
+				"feature_value": "30",
+				"cluster_win_mean": "43.68",
+				"delta": "13.68"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/all-mother-of-the-bride-and-groom-outfits",
+				"feature_value": " 6",
+				"cluster_win_mean": "71.79",
+				"delta": "65.79"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/evening-dresses-and-evening-wear-glasgow-scotland",
+				"feature_value": " 0",
+				"cluster_win_mean": "71.79",
+				"delta": "71.79"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/cruise-wear-day-wear-glasgow-scotland",
+				"feature_value": " 0",
+				"cluster_win_mean": "52.07",
+				"delta": "52.07"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/prom-dresses-evening-wear-glasgow-scotland",
+				"feature_value": " 0",
+				"cluster_win_mean": "71.79",
+				"delta": "71.79"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/sale",
+				"feature_value": " 0",
+				"cluster_win_mean": "52.07",
+				"delta": "52.07"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/benjamin-adams-shoes-glasgow-scotland",
+				"feature_value": " 0",
+				"cluster_win_mean": "52.07",
+				"delta": "52.07"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/stuart-weitzman-shoes-glasgow-scotland",
+				"feature_value": " 0",
+				"cluster_win_mean": "52.07",
+				"delta": "52.07"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/designer-shoes-glasgow-scotland",
+				"feature_value": " 0",
+				"cluster_win_mean": "52.07",
+				"delta": "52.07"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/wedding-shoes-and-bags-glasgow-scotland",
+				"feature_value": " 0",
+				"cluster_win_mean": "52.07",
+				"delta": "52.07"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/wedding-hats-and-fascinators-glasgow-scotland",
+				"feature_value": " 0",
+				"cluster_win_mean": "71.79",
+				"delta": "71.79"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/condici-mother-of-the-bride-outfits-glasgow-scotland",
+				"feature_value": " 0",
+				"cluster_win_mean": "71.79",
+				"delta": "71.79"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/john-charles-mother-of-the-bride-outfits-glasgow-scotland",
+				"feature_value": " 0",
+				"cluster_win_mean": "71.79",
+				"delta": "71.79"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/linea-raffaelli-mother-of-the-bride-outfits-glasgow-scotland",
+				"feature_value": " 0",
+				"cluster_win_mean": "71.79",
+				"delta": "71.79"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/ispirato-mother-of-the-bride-outfits-glasgow-scotland",
+				"feature_value": " 0",
+				"cluster_win_mean": "71.79",
+				"delta": "71.79"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/ian-stuart-mother-of-the-bride-outfits-glasgow-scotland",
+				"feature_value": " 0",
+				"cluster_win_mean": "71.79",
+				"delta": "71.79"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/ann-balon-mother-of-the-bride-outfits-glasgow-scotland",
+				"feature_value": " 9",
+				"cluster_win_mean": "52.07",
+				"delta": "43.07"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/cabotine-zeila-mother-of-the-bride-outfits-glasgow-scotland",
+				"feature_value": "16",
+				"cluster_win_mean": "71.79",
+				"delta": "55.79"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news",
+				"feature_value": " 0",
+				"cluster_win_mean": "71.79",
+				"delta": "71.79"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/testimonials",
+				"feature_value": " 0",
+				"cluster_win_mean": "43.68",
+				"delta": "43.68"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/mother-of-the-bride-groom-sale",
+				"feature_value": " 0",
+				"cluster_win_mean": "52.07",
+				"delta": "52.07"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/evening-wear-sale",
+				"feature_value": "17",
+				"cluster_win_mean": "52.07",
+				"delta": "35.07"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/#wrapper",
+				"feature_value": "23",
+				"cluster_win_mean": "71.79",
+				"delta": "48.79"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/kelsey-rose",
+				"feature_value": " 0",
+				"cluster_win_mean": "71.79",
+				"delta": "71.79"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/mother-of-the-bride",
+				"feature_value": " 6",
+				"cluster_win_mean": "71.79",
+				"delta": "65.79"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/2-mother-of-the-bride",
+				"feature_value": " 6",
+				"cluster_win_mean": "71.79",
+				"delta": "65.79"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk",
+				"feature_value": "23",
+				"cluster_win_mean": "71.79",
+				"delta": "48.79"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/info@catherinesofpartick.co.uk",
+				"feature_value": "23",
+				"cluster_win_mean": "71.79",
+				"delta": "48.79"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/sitellite-nav-sitemap-action",
+				"feature_value": " 0",
+				"cluster_win_mean": "52.07",
+				"delta": "52.07"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/index",
+				"feature_value": "23",
+				"cluster_win_mean": "71.79",
+				"delta": "48.79"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/evening-dresses-scotland",
+				"feature_value": " 7",
+				"cluster_win_mean": "71.79",
+				"delta": "64.79"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/index/evening-dresses-and-wear",
+				"feature_value": "23",
+				"cluster_win_mean": "71.79",
+				"delta": "48.79"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/aberdeen-mother-of-the-bride",
+				"feature_value": "48",
+				"cluster_win_mean": "71.79",
+				"delta": "23.79"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/collections",
+				"feature_value": " 0",
+				"cluster_win_mean": "71.79",
+				"delta": "71.79"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/prom-offer",
+				"feature_value": " 0",
+				"cluster_win_mean": "52.07",
+				"delta": "52.07"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/accessories",
+				"feature_value": " 0",
+				"cluster_win_mean": "52.07",
+				"delta": "52.07"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/designers",
+				"feature_value": " 0",
+				"cluster_win_mean": "71.79",
+				"delta": "71.79"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/veni",
+				"feature_value": " 0",
+				"cluster_win_mean": "52.07",
+				"delta": "52.07"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/links",
+				"feature_value": " 0",
+				"cluster_win_mean": "71.79",
+				"delta": "71.79"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/sale-2",
+				"feature_value": " 0",
+				"cluster_win_mean": "52.07",
+				"delta": "52.07"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/mother-of-the-bride-groom-sale2",
+				"feature_value": " 0",
+				"cluster_win_mean": "52.07",
+				"delta": "52.07"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/all-wedding-hats",
+				"feature_value": " 6",
+				"cluster_win_mean": "52.07",
+				"delta": "46.07"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/2-wedding-hats",
+				"feature_value": " 0",
+				"cluster_win_mean": "71.79",
+				"delta": "71.79"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/join-our-team",
+				"feature_value": " 0",
+				"cluster_win_mean": "71.79",
+				"delta": "71.79"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/3-mother-of-the-bride",
+				"feature_value": " 6",
+				"cluster_win_mean": "71.79",
+				"delta": "65.79"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/4-mother-of-the-bride",
+				"feature_value": " 6",
+				"cluster_win_mean": "71.79",
+				"delta": "65.79"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/5-mother-of-the-bride",
+				"feature_value": " 0",
+				"cluster_win_mean": "52.07",
+				"delta": "52.07"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/#directions",
+				"feature_value": "23",
+				"cluster_win_mean": "71.79",
+				"delta": "48.79"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app?menu=no&limit=5&offset=5",
+				"feature_value": " 0",
+				"cluster_win_mean": "52.07",
+				"delta": "52.07"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app?menu=no&limit=5&offset=0",
+				"feature_value": " 0",
+				"cluster_win_mean": "52.07",
+				"delta": "52.07"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app?menu=no&limit=5&offset=10",
+				"feature_value": " 0",
+				"cluster_win_mean": "52.07",
+				"delta": "52.07"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app?menu=no&limit=5&offset=15",
+				"feature_value": " 0",
+				"cluster_win_mean": "52.07",
+				"delta": "52.07"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app?menu=no&limit=5&offset=20",
+				"feature_value": " 0",
+				"cluster_win_mean": "52.07",
+				"delta": "52.07"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app?menu=no&limit=5&offset=25",
+				"feature_value": " 0",
+				"cluster_win_mean": "52.07",
+				"delta": "52.07"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app?menu=no&limit=5&offset=30",
+				"feature_value": " 0",
+				"cluster_win_mean": "52.07",
+				"delta": "52.07"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app?menu=no&limit=5&offset=35",
+				"feature_value": " 0",
+				"cluster_win_mean": "52.07",
+				"delta": "52.07"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app?menu=no&limit=5&offset=40",
+				"feature_value": " 0",
+				"cluster_win_mean": "52.07",
+				"delta": "52.07"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app?menu=no&limit=5&offset=45",
+				"feature_value": " 0",
+				"cluster_win_mean": "52.07",
+				"delta": "52.07"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app?menu=no&limit=5&offset=50",
+				"feature_value": " 0",
+				"cluster_win_mean": "52.07",
+				"delta": "52.07"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.3/title.catherines-plays-fairy-godmother-to-three-prom-queens-with-itv-s-5-30-show-/menu.no/sec./home.",
+				"feature_value": " 0",
+				"cluster_win_mean": "71.79",
+				"delta": "71.79"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/author.Catherines of Partick",
+				"feature_value": " 0",
+				"cluster_win_mean": "52.07",
+				"delta": "52.07"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app",
+				"feature_value": " 0",
+				"cluster_win_mean": "52.07",
+				"delta": "52.07"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.53/title.arrival-of-autumn-winter-2013/menu.no/sec./home.",
+				"feature_value": " 0",
+				"cluster_win_mean": "52.07",
+				"delta": "52.07"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.52/title.sale-instore-now/menu.no/sec./home.",
+				"feature_value": " 0",
+				"cluster_win_mean": "52.07",
+				"delta": "52.07"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.51/title.prom-queen-announcement-/menu.no/sec./home.",
+				"feature_value": " 0",
+				"cluster_win_mean": "52.07",
+				"delta": "52.07"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.50/title.sales-advisor-required/menu.no/sec./home.",
+				"feature_value": " 0",
+				"cluster_win_mean": "52.07",
+				"delta": "52.07"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.54/title.stockist-of-joseph-ribkoff/menu.no/sec./home.",
+				"feature_value": " 0",
+				"cluster_win_mean": "52.07",
+				"delta": "52.07"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.2/title.katie-price-s-style-is-a-page-turner/menu.no/sec./home.",
+				"feature_value": " 0",
+				"cluster_win_mean": "52.07",
+				"delta": "52.07"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.1/title.dancing-on-ice-proves-a-huge-hit-with-catherines-clientele/menu.no/sec./home.",
+				"feature_value": " 0",
+				"cluster_win_mean": "52.07",
+				"delta": "52.07"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.13/title.teenage-cancer-trust-fashion-show/menu.no/sec./home.",
+				"feature_value": " 0",
+				"cluster_win_mean": "52.07",
+				"delta": "52.07"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.7/title.star-style-in-the-bag-at-catherines-of-partick/menu.no/sec./home.",
+				"feature_value": " 0",
+				"cluster_win_mean": "52.07",
+				"delta": "52.07"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.6/title.hats-off-to-the-mother-of-the-bride/menu.no/sec./home.",
+				"feature_value": "42",
+				"cluster_win_mean": "71.79",
+				"delta": "29.79"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.5/title.dj-suzie-mcguire-dresses-for-a-day-at-the-races/menu.no/sec./home.",
+				"feature_value": " 0",
+				"cluster_win_mean": "52.07",
+				"delta": "52.07"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.4/title.miss-scotland-dresses-to-impress-with-a-little-help-from-catherines-/menu.no/sec./home.",
+				"feature_value": " 0",
+				"cluster_win_mean": "52.07",
+				"delta": "52.07"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.11/title.andrew-lloyd-webber-s-over-the-rainbow-chooses-rainbow-club/menu.no/sec./home.",
+				"feature_value": " 0",
+				"cluster_win_mean": "52.07",
+				"delta": "52.07"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.15/title.secc-wedding-show/menu.no/sec./home.",
+				"feature_value": " 0",
+				"cluster_win_mean": "52.07",
+				"delta": "52.07"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.10/title.clyde-1-wedding-outfit-promotion/menu.no/sec./home.",
+				"feature_value": " 0",
+				"cluster_win_mean": "52.07",
+				"delta": "52.07"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.8/title.new-year-new-offers-/menu.no/sec./home.",
+				"feature_value": " 0",
+				"cluster_win_mean": "52.07",
+				"delta": "52.07"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.9/title.annual-wedding-show-at-secc-glasgow/menu.no/sec./home.",
+				"feature_value": " 0",
+				"cluster_win_mean": "52.07",
+				"delta": "52.07"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.18/title.autumn-winter-2010-collection-now-in-store/menu.no/sec./home.",
+				"feature_value": " 0",
+				"cluster_win_mean": "52.07",
+				"delta": "52.07"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.17/title.gift-vouchers-for-catherines-of-partick/menu.no/sec./home.",
+				"feature_value": " 0",
+				"cluster_win_mean": "52.07",
+				"delta": "52.07"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.16/title.mother-of-the-bride-clearance-sale-now-on/menu.no/sec./home.",
+				"feature_value": " 0",
+				"cluster_win_mean": "52.07",
+				"delta": "52.07"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.14/title.prom-dress-event-of-the-year/menu.no/sec./home.",
+				"feature_value": " 0",
+				"cluster_win_mean": "52.07",
+				"delta": "52.07"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.12/title.10-discount-prom-wear-offer/menu.no/sec./home.",
+				"feature_value": " 0",
+				"cluster_win_mean": "52.07",
+				"delta": "52.07"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.23/title.spa-day-prize-draw/menu.no/sec./home.",
+				"feature_value": " 0",
+				"cluster_win_mean": "52.07",
+				"delta": "52.07"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.22/title.mid-season-clearance-sale/menu.no/sec./home.",
+				"feature_value": " 0",
+				"cluster_win_mean": "52.07",
+				"delta": "52.07"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.21/title.new-stock-available-condici-mon-cheri-/menu.no/sec./home.",
+				"feature_value": " 0",
+				"cluster_win_mean": "52.07",
+				"delta": "52.07"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.20/title.autumn-wedding-show-at-loch-lomond/menu.no/sec./home.",
+				"feature_value": " 0",
+				"cluster_win_mean": "52.07",
+				"delta": "52.07"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.19/title.secc-wedding-show/menu.no/sec./home.",
+				"feature_value": " 0",
+				"cluster_win_mean": "52.07",
+				"delta": "52.07"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.28/title.ian-stuart-new-monte-carlo-collection/menu.no/sec./home.",
+				"feature_value": "26",
+				"cluster_win_mean": "71.79",
+				"delta": "45.79"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.29/title.our-dress-wins-best-dressed-lady-at-hamilton-racecourse/menu.no/sec./home.",
+				"feature_value": "17",
+				"cluster_win_mean": "71.79",
+				"delta": "54.79"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.25/title.new-evening-wear-collections/menu.no/sec./home.",
+				"feature_value": " 0",
+				"cluster_win_mean": "52.07",
+				"delta": "52.07"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.26/title.dress-clearance-sale/menu.no/sec./home.",
+				"feature_value": " 0",
+				"cluster_win_mean": "52.07",
+				"delta": "52.07"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.27/title.royal-wedding-dress-prize-draw/menu.no/sec./home.",
+				"feature_value": " 0",
+				"cluster_win_mean": "52.07",
+				"delta": "52.07"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.32/title.sequin-dress-for-camelot-at-knockhill-racing-circuit/menu.no/sec./home.",
+				"feature_value": " 0",
+				"cluster_win_mean": "52.07",
+				"delta": "52.07"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.33/title.joanna-lumley-outfit-by-john-charles/menu.no/sec./home.",
+				"feature_value": " 0",
+				"cluster_win_mean": "52.07",
+				"delta": "52.07"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.34/title.party-dress-for-euromillions-millionaire-month/menu.no/sec./home.",
+				"feature_value": " 0",
+				"cluster_win_mean": "52.07",
+				"delta": "52.07"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.30/title.mother-of-the-bride-groom-exhibition/menu.no/sec./home.",
+				"feature_value": " 0",
+				"cluster_win_mean": "52.07",
+				"delta": "52.07"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.24/title.scottish-wedding-show-exhibition/menu.no/sec./home.",
+				"feature_value": " 0",
+				"cluster_win_mean": "52.07",
+				"delta": "52.07"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.37/title.ladies-night-at-hamilton-race-course/menu.no/sec./home.",
+				"feature_value": " 0",
+				"cluster_win_mean": "52.07",
+				"delta": "52.07"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.36/title.dynasty-evening-wear-at-the-baftas-may-2012/menu.no/sec./home.",
+				"feature_value": " 0",
+				"cluster_win_mean": "52.07",
+				"delta": "52.07"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.35/title.john-charles-featured-in-conde-nast-brides-magazine/menu.no/sec./home.",
+				"feature_value": " 0",
+				"cluster_win_mean": "52.07",
+				"delta": "52.07"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.31/title.jubilee-weekend-sale/menu.no/sec./home.",
+				"feature_value": " 0",
+				"cluster_win_mean": "52.07",
+				"delta": "52.07"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.38/title.prince-princess-of-wales-hospice-ladies-lunch-2012/menu.no/sec./home.",
+				"feature_value": " 0",
+				"cluster_win_mean": "71.79",
+				"delta": "71.79"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.43/title.hamilton-racecourse-competition-winner/menu.no/sec./home.",
+				"feature_value": " 0",
+				"cluster_win_mean": "52.07",
+				"delta": "52.07"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.42/title.new-diva-sophia-collection/menu.no/sec./home.",
+				"feature_value": " 0",
+				"cluster_win_mean": "52.07",
+				"delta": "52.07"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.41/title.get-the-exact-match-with-diva-sophia-s-lucia-gold-bodycon-dress-/menu.no/sec./home.",
+				"feature_value": " 0",
+				"cluster_win_mean": "52.07",
+				"delta": "52.07"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.40/title.vivien-sheriff-millinery-meets-her-majesty-the-queen/menu.no/sec./home.",
+				"feature_value": " 0",
+				"cluster_win_mean": "52.07",
+				"delta": "52.07"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.39/title.ladies-night-at-hamilton-racecourse/menu.no/sec./home.",
+				"feature_value": " 0",
+				"cluster_win_mean": "71.79",
+				"delta": "71.79"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.49/title.we-ll-be-at-girl-s-day-out/menu.no/sec./home.",
+				"feature_value": " 0",
+				"cluster_win_mean": "52.07",
+				"delta": "52.07"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.48/title.end-of-season-clearance-up-to-75-off-until-end-of-november/menu.no/sec./home.",
+				"feature_value": " 0",
+				"cluster_win_mean": "52.07",
+				"delta": "52.07"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.47/title.new-evening-wear-collection-now-in-store/menu.no/sec./home.",
+				"feature_value": " 0",
+				"cluster_win_mean": "52.07",
+				"delta": "52.07"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.46/title.dress-featured-on-popular-tv-show/menu.no/sec./home.",
+				"feature_value": " 0",
+				"cluster_win_mean": "52.07",
+				"delta": "52.07"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.44/title.prize-draw-winner/menu.no/sec./home.",
+				"feature_value": " 0",
+				"cluster_win_mean": "52.07",
+				"delta": "52.07"
+			}
+		],
+		"average_length_of_h2": [
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/",
+				"feature_value": "15",
+				"cluster_win_mean": "71.22",
+				"delta": "56.22"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.50",
+				"feature_value": " 0",
+				"cluster_win_mean": "51.77",
+				"delta": "51.77"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/about-catherines-of-partick",
+				"feature_value": " 0",
+				"cluster_win_mean": "71.22",
+				"delta": "71.22"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/all-mother-of-the-bride-and-groom-outfits",
+				"feature_value": " 6",
+				"cluster_win_mean": "71.22",
+				"delta": "65.22"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/evening-dresses-and-evening-wear-glasgow-scotland",
+				"feature_value": " 0",
+				"cluster_win_mean": "71.22",
+				"delta": "71.22"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/cruise-wear-day-wear-glasgow-scotland",
+				"feature_value": " 0",
+				"cluster_win_mean": "51.77",
+				"delta": "51.77"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/prom-dresses-evening-wear-glasgow-scotland",
+				"feature_value": " 0",
+				"cluster_win_mean": "71.22",
+				"delta": "71.22"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/sale",
+				"feature_value": " 0",
+				"cluster_win_mean": "51.77",
+				"delta": "51.77"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/benjamin-adams-shoes-glasgow-scotland",
+				"feature_value": " 0",
+				"cluster_win_mean": "51.77",
+				"delta": "51.77"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/stuart-weitzman-shoes-glasgow-scotland",
+				"feature_value": " 0",
+				"cluster_win_mean": "51.77",
+				"delta": "51.77"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/designer-shoes-glasgow-scotland",
+				"feature_value": " 0",
+				"cluster_win_mean": "51.77",
+				"delta": "51.77"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/wedding-shoes-and-bags-glasgow-scotland",
+				"feature_value": " 0",
+				"cluster_win_mean": "51.77",
+				"delta": "51.77"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/wedding-hats-and-fascinators-glasgow-scotland",
+				"feature_value": " 0",
+				"cluster_win_mean": "71.22",
+				"delta": "71.22"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/condici-mother-of-the-bride-outfits-glasgow-scotland",
+				"feature_value": " 0",
+				"cluster_win_mean": "71.22",
+				"delta": "71.22"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/john-charles-mother-of-the-bride-outfits-glasgow-scotland",
+				"feature_value": " 0",
+				"cluster_win_mean": "71.22",
+				"delta": "71.22"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/linea-raffaelli-mother-of-the-bride-outfits-glasgow-scotland",
+				"feature_value": " 0",
+				"cluster_win_mean": "71.22",
+				"delta": "71.22"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/ispirato-mother-of-the-bride-outfits-glasgow-scotland",
+				"feature_value": " 0",
+				"cluster_win_mean": "71.22",
+				"delta": "71.22"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/ian-stuart-mother-of-the-bride-outfits-glasgow-scotland",
+				"feature_value": " 0",
+				"cluster_win_mean": "71.22",
+				"delta": "71.22"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/ann-balon-mother-of-the-bride-outfits-glasgow-scotland",
+				"feature_value": " 9",
+				"cluster_win_mean": "51.77",
+				"delta": "42.77"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/cabotine-zeila-mother-of-the-bride-outfits-glasgow-scotland",
+				"feature_value": "16",
+				"cluster_win_mean": "71.22",
+				"delta": "55.22"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news",
+				"feature_value": " 0",
+				"cluster_win_mean": "71.22",
+				"delta": "71.22"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/mother-of-the-bride-groom-sale",
+				"feature_value": " 0",
+				"cluster_win_mean": "51.77",
+				"delta": "51.77"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/evening-wear-sale",
+				"feature_value": "17",
+				"cluster_win_mean": "51.77",
+				"delta": "34.77"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/#wrapper",
+				"feature_value": "15",
+				"cluster_win_mean": "71.22",
+				"delta": "56.22"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/kelsey-rose",
+				"feature_value": " 0",
+				"cluster_win_mean": "71.22",
+				"delta": "71.22"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/mother-of-the-bride",
+				"feature_value": " 6",
+				"cluster_win_mean": "71.22",
+				"delta": "65.22"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/2-mother-of-the-bride",
+				"feature_value": " 6",
+				"cluster_win_mean": "71.22",
+				"delta": "65.22"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk",
+				"feature_value": "15",
+				"cluster_win_mean": "71.22",
+				"delta": "56.22"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/info@catherinesofpartick.co.uk",
+				"feature_value": "15",
+				"cluster_win_mean": "71.22",
+				"delta": "56.22"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/sitellite-nav-sitemap-action",
+				"feature_value": " 0",
+				"cluster_win_mean": "51.77",
+				"delta": "51.77"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/index",
+				"feature_value": "15",
+				"cluster_win_mean": "71.22",
+				"delta": "56.22"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/evening-dresses-scotland",
+				"feature_value": " 7",
+				"cluster_win_mean": "71.22",
+				"delta": "64.22"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/index/evening-dresses-and-wear",
+				"feature_value": "15",
+				"cluster_win_mean": "71.22",
+				"delta": "56.22"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/aberdeen-mother-of-the-bride",
+				"feature_value": "17",
+				"cluster_win_mean": "71.22",
+				"delta": "54.22"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/collections",
+				"feature_value": " 0",
+				"cluster_win_mean": "71.22",
+				"delta": "71.22"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/prom-offer",
+				"feature_value": " 0",
+				"cluster_win_mean": "51.77",
+				"delta": "51.77"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/accessories",
+				"feature_value": " 0",
+				"cluster_win_mean": "51.77",
+				"delta": "51.77"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/designers",
+				"feature_value": " 0",
+				"cluster_win_mean": "71.22",
+				"delta": "71.22"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/veni",
+				"feature_value": " 0",
+				"cluster_win_mean": "51.77",
+				"delta": "51.77"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/links",
+				"feature_value": " 0",
+				"cluster_win_mean": "71.22",
+				"delta": "71.22"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/sale-2",
+				"feature_value": " 0",
+				"cluster_win_mean": "51.77",
+				"delta": "51.77"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/mother-of-the-bride-groom-sale2",
+				"feature_value": " 0",
+				"cluster_win_mean": "51.77",
+				"delta": "51.77"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/all-wedding-hats",
+				"feature_value": " 6",
+				"cluster_win_mean": "51.77",
+				"delta": "45.77"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/2-wedding-hats",
+				"feature_value": " 0",
+				"cluster_win_mean": "71.22",
+				"delta": "71.22"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/join-our-team",
+				"feature_value": " 0",
+				"cluster_win_mean": "71.22",
+				"delta": "71.22"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/3-mother-of-the-bride",
+				"feature_value": " 6",
+				"cluster_win_mean": "71.22",
+				"delta": "65.22"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/4-mother-of-the-bride",
+				"feature_value": " 6",
+				"cluster_win_mean": "71.22",
+				"delta": "65.22"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/5-mother-of-the-bride",
+				"feature_value": " 0",
+				"cluster_win_mean": "51.77",
+				"delta": "51.77"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/#directions",
+				"feature_value": "15",
+				"cluster_win_mean": "71.22",
+				"delta": "56.22"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app?menu=no&limit=5&offset=5",
+				"feature_value": " 0",
+				"cluster_win_mean": "51.77",
+				"delta": "51.77"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app?menu=no&limit=5&offset=0",
+				"feature_value": " 0",
+				"cluster_win_mean": "51.77",
+				"delta": "51.77"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app?menu=no&limit=5&offset=10",
+				"feature_value": " 0",
+				"cluster_win_mean": "51.77",
+				"delta": "51.77"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app?menu=no&limit=5&offset=15",
+				"feature_value": " 0",
+				"cluster_win_mean": "51.77",
+				"delta": "51.77"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app?menu=no&limit=5&offset=20",
+				"feature_value": " 0",
+				"cluster_win_mean": "51.77",
+				"delta": "51.77"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app?menu=no&limit=5&offset=25",
+				"feature_value": " 0",
+				"cluster_win_mean": "51.77",
+				"delta": "51.77"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app?menu=no&limit=5&offset=30",
+				"feature_value": " 0",
+				"cluster_win_mean": "51.77",
+				"delta": "51.77"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app?menu=no&limit=5&offset=35",
+				"feature_value": " 0",
+				"cluster_win_mean": "51.77",
+				"delta": "51.77"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app?menu=no&limit=5&offset=40",
+				"feature_value": " 0",
+				"cluster_win_mean": "51.77",
+				"delta": "51.77"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app?menu=no&limit=5&offset=45",
+				"feature_value": " 0",
+				"cluster_win_mean": "51.77",
+				"delta": "51.77"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app?menu=no&limit=5&offset=50",
+				"feature_value": " 0",
+				"cluster_win_mean": "51.77",
+				"delta": "51.77"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.3/title.catherines-plays-fairy-godmother-to-three-prom-queens-with-itv-s-5-30-show-/menu.no/sec./home.",
+				"feature_value": " 0",
+				"cluster_win_mean": "71.22",
+				"delta": "71.22"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/author.Catherines of Partick",
+				"feature_value": " 0",
+				"cluster_win_mean": "51.77",
+				"delta": "51.77"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app",
+				"feature_value": " 0",
+				"cluster_win_mean": "51.77",
+				"delta": "51.77"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.53/title.arrival-of-autumn-winter-2013/menu.no/sec./home.",
+				"feature_value": " 0",
+				"cluster_win_mean": "51.77",
+				"delta": "51.77"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.52/title.sale-instore-now/menu.no/sec./home.",
+				"feature_value": " 0",
+				"cluster_win_mean": "51.77",
+				"delta": "51.77"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.51/title.prom-queen-announcement-/menu.no/sec./home.",
+				"feature_value": " 0",
+				"cluster_win_mean": "51.77",
+				"delta": "51.77"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.50/title.sales-advisor-required/menu.no/sec./home.",
+				"feature_value": " 0",
+				"cluster_win_mean": "51.77",
+				"delta": "51.77"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.54/title.stockist-of-joseph-ribkoff/menu.no/sec./home.",
+				"feature_value": " 0",
+				"cluster_win_mean": "51.77",
+				"delta": "51.77"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.2/title.katie-price-s-style-is-a-page-turner/menu.no/sec./home.",
+				"feature_value": " 0",
+				"cluster_win_mean": "51.77",
+				"delta": "51.77"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.1/title.dancing-on-ice-proves-a-huge-hit-with-catherines-clientele/menu.no/sec./home.",
+				"feature_value": " 0",
+				"cluster_win_mean": "51.77",
+				"delta": "51.77"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.13/title.teenage-cancer-trust-fashion-show/menu.no/sec./home.",
+				"feature_value": " 0",
+				"cluster_win_mean": "51.77",
+				"delta": "51.77"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.7/title.star-style-in-the-bag-at-catherines-of-partick/menu.no/sec./home.",
+				"feature_value": " 0",
+				"cluster_win_mean": "51.77",
+				"delta": "51.77"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.6/title.hats-off-to-the-mother-of-the-bride/menu.no/sec./home.",
+				"feature_value": "32",
+				"cluster_win_mean": "71.22",
+				"delta": "39.22"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.5/title.dj-suzie-mcguire-dresses-for-a-day-at-the-races/menu.no/sec./home.",
+				"feature_value": " 0",
+				"cluster_win_mean": "51.77",
+				"delta": "51.77"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.4/title.miss-scotland-dresses-to-impress-with-a-little-help-from-catherines-/menu.no/sec./home.",
+				"feature_value": " 0",
+				"cluster_win_mean": "51.77",
+				"delta": "51.77"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.11/title.andrew-lloyd-webber-s-over-the-rainbow-chooses-rainbow-club/menu.no/sec./home.",
+				"feature_value": " 0",
+				"cluster_win_mean": "51.77",
+				"delta": "51.77"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.15/title.secc-wedding-show/menu.no/sec./home.",
+				"feature_value": " 0",
+				"cluster_win_mean": "51.77",
+				"delta": "51.77"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.10/title.clyde-1-wedding-outfit-promotion/menu.no/sec./home.",
+				"feature_value": " 0",
+				"cluster_win_mean": "51.77",
+				"delta": "51.77"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.8/title.new-year-new-offers-/menu.no/sec./home.",
+				"feature_value": " 0",
+				"cluster_win_mean": "51.77",
+				"delta": "51.77"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.9/title.annual-wedding-show-at-secc-glasgow/menu.no/sec./home.",
+				"feature_value": " 0",
+				"cluster_win_mean": "51.77",
+				"delta": "51.77"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.18/title.autumn-winter-2010-collection-now-in-store/menu.no/sec./home.",
+				"feature_value": " 0",
+				"cluster_win_mean": "51.77",
+				"delta": "51.77"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.17/title.gift-vouchers-for-catherines-of-partick/menu.no/sec./home.",
+				"feature_value": " 0",
+				"cluster_win_mean": "51.77",
+				"delta": "51.77"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.16/title.mother-of-the-bride-clearance-sale-now-on/menu.no/sec./home.",
+				"feature_value": " 0",
+				"cluster_win_mean": "51.77",
+				"delta": "51.77"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.14/title.prom-dress-event-of-the-year/menu.no/sec./home.",
+				"feature_value": " 0",
+				"cluster_win_mean": "51.77",
+				"delta": "51.77"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.12/title.10-discount-prom-wear-offer/menu.no/sec./home.",
+				"feature_value": " 0",
+				"cluster_win_mean": "51.77",
+				"delta": "51.77"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.23/title.spa-day-prize-draw/menu.no/sec./home.",
+				"feature_value": " 0",
+				"cluster_win_mean": "51.77",
+				"delta": "51.77"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.22/title.mid-season-clearance-sale/menu.no/sec./home.",
+				"feature_value": " 0",
+				"cluster_win_mean": "51.77",
+				"delta": "51.77"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.21/title.new-stock-available-condici-mon-cheri-/menu.no/sec./home.",
+				"feature_value": " 0",
+				"cluster_win_mean": "51.77",
+				"delta": "51.77"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.20/title.autumn-wedding-show-at-loch-lomond/menu.no/sec./home.",
+				"feature_value": " 0",
+				"cluster_win_mean": "51.77",
+				"delta": "51.77"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.19/title.secc-wedding-show/menu.no/sec./home.",
+				"feature_value": " 0",
+				"cluster_win_mean": "51.77",
+				"delta": "51.77"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.28/title.ian-stuart-new-monte-carlo-collection/menu.no/sec./home.",
+				"feature_value": "26",
+				"cluster_win_mean": "71.22",
+				"delta": "45.22"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.29/title.our-dress-wins-best-dressed-lady-at-hamilton-racecourse/menu.no/sec./home.",
+				"feature_value": "17",
+				"cluster_win_mean": "71.22",
+				"delta": "54.22"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.25/title.new-evening-wear-collections/menu.no/sec./home.",
+				"feature_value": " 0",
+				"cluster_win_mean": "51.77",
+				"delta": "51.77"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.26/title.dress-clearance-sale/menu.no/sec./home.",
+				"feature_value": " 0",
+				"cluster_win_mean": "51.77",
+				"delta": "51.77"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.27/title.royal-wedding-dress-prize-draw/menu.no/sec./home.",
+				"feature_value": " 0",
+				"cluster_win_mean": "51.77",
+				"delta": "51.77"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.32/title.sequin-dress-for-camelot-at-knockhill-racing-circuit/menu.no/sec./home.",
+				"feature_value": " 0",
+				"cluster_win_mean": "51.77",
+				"delta": "51.77"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.33/title.joanna-lumley-outfit-by-john-charles/menu.no/sec./home.",
+				"feature_value": " 0",
+				"cluster_win_mean": "51.77",
+				"delta": "51.77"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.34/title.party-dress-for-euromillions-millionaire-month/menu.no/sec./home.",
+				"feature_value": " 0",
+				"cluster_win_mean": "51.77",
+				"delta": "51.77"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.30/title.mother-of-the-bride-groom-exhibition/menu.no/sec./home.",
+				"feature_value": " 0",
+				"cluster_win_mean": "51.77",
+				"delta": "51.77"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.24/title.scottish-wedding-show-exhibition/menu.no/sec./home.",
+				"feature_value": " 0",
+				"cluster_win_mean": "51.77",
+				"delta": "51.77"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.37/title.ladies-night-at-hamilton-race-course/menu.no/sec./home.",
+				"feature_value": " 0",
+				"cluster_win_mean": "51.77",
+				"delta": "51.77"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.36/title.dynasty-evening-wear-at-the-baftas-may-2012/menu.no/sec./home.",
+				"feature_value": " 0",
+				"cluster_win_mean": "51.77",
+				"delta": "51.77"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.35/title.john-charles-featured-in-conde-nast-brides-magazine/menu.no/sec./home.",
+				"feature_value": " 0",
+				"cluster_win_mean": "51.77",
+				"delta": "51.77"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.31/title.jubilee-weekend-sale/menu.no/sec./home.",
+				"feature_value": " 0",
+				"cluster_win_mean": "51.77",
+				"delta": "51.77"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.38/title.prince-princess-of-wales-hospice-ladies-lunch-2012/menu.no/sec./home.",
+				"feature_value": " 0",
+				"cluster_win_mean": "71.22",
+				"delta": "71.22"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.43/title.hamilton-racecourse-competition-winner/menu.no/sec./home.",
+				"feature_value": " 0",
+				"cluster_win_mean": "51.77",
+				"delta": "51.77"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.42/title.new-diva-sophia-collection/menu.no/sec./home.",
+				"feature_value": " 0",
+				"cluster_win_mean": "51.77",
+				"delta": "51.77"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.41/title.get-the-exact-match-with-diva-sophia-s-lucia-gold-bodycon-dress-/menu.no/sec./home.",
+				"feature_value": " 0",
+				"cluster_win_mean": "51.77",
+				"delta": "51.77"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.40/title.vivien-sheriff-millinery-meets-her-majesty-the-queen/menu.no/sec./home.",
+				"feature_value": " 0",
+				"cluster_win_mean": "51.77",
+				"delta": "51.77"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.39/title.ladies-night-at-hamilton-racecourse/menu.no/sec./home.",
+				"feature_value": " 0",
+				"cluster_win_mean": "71.22",
+				"delta": "71.22"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.49/title.we-ll-be-at-girl-s-day-out/menu.no/sec./home.",
+				"feature_value": " 0",
+				"cluster_win_mean": "51.77",
+				"delta": "51.77"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.48/title.end-of-season-clearance-up-to-75-off-until-end-of-november/menu.no/sec./home.",
+				"feature_value": " 0",
+				"cluster_win_mean": "51.77",
+				"delta": "51.77"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.47/title.new-evening-wear-collection-now-in-store/menu.no/sec./home.",
+				"feature_value": " 0",
+				"cluster_win_mean": "51.77",
+				"delta": "51.77"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.46/title.dress-featured-on-popular-tv-show/menu.no/sec./home.",
+				"feature_value": " 0",
+				"cluster_win_mean": "51.77",
+				"delta": "51.77"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.44/title.prize-draw-winner/menu.no/sec./home.",
+				"feature_value": " 0",
+				"cluster_win_mean": "51.77",
+				"delta": "51.77"
+			}
+		],
+		"number_of_dhtml_scripts": [
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/",
+				"feature_value": "0",
+				"cluster_win_mean": "1.31",
+				"delta": "1.31"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.50",
+				"feature_value": "0",
+				"cluster_win_mean": "1.16",
+				"delta": "1.16"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/about-catherines-of-partick",
+				"feature_value": "0",
+				"cluster_win_mean": "1.31",
+				"delta": "1.31"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/top-tips-for-shopping-for-your-mother-of-the-bride-outfit",
+				"feature_value": "0",
+				"cluster_win_mean": "   2",
+				"delta": "   2"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/all-mother-of-the-bride-and-groom-outfits",
+				"feature_value": "0",
+				"cluster_win_mean": "1.31",
+				"delta": "1.31"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/evening-dresses-and-evening-wear-glasgow-scotland",
+				"feature_value": "0",
+				"cluster_win_mean": "1.31",
+				"delta": "1.31"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/cruise-wear-day-wear-glasgow-scotland",
+				"feature_value": "0",
+				"cluster_win_mean": "1.16",
+				"delta": "1.16"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/prom-dresses-evening-wear-glasgow-scotland",
+				"feature_value": "0",
+				"cluster_win_mean": "1.31",
+				"delta": "1.31"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/sale",
+				"feature_value": "0",
+				"cluster_win_mean": "1.16",
+				"delta": "1.16"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/benjamin-adams-shoes-glasgow-scotland",
+				"feature_value": "0",
+				"cluster_win_mean": "1.16",
+				"delta": "1.16"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/stuart-weitzman-shoes-glasgow-scotland",
+				"feature_value": "0",
+				"cluster_win_mean": "1.16",
+				"delta": "1.16"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/designer-shoes-glasgow-scotland",
+				"feature_value": "0",
+				"cluster_win_mean": "1.16",
+				"delta": "1.16"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/wedding-shoes-and-bags-glasgow-scotland",
+				"feature_value": "0",
+				"cluster_win_mean": "1.16",
+				"delta": "1.16"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/wedding-hats-and-fascinators-glasgow-scotland",
+				"feature_value": "0",
+				"cluster_win_mean": "1.31",
+				"delta": "1.31"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/condici-mother-of-the-bride-outfits-glasgow-scotland",
+				"feature_value": "0",
+				"cluster_win_mean": "1.31",
+				"delta": "1.31"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/john-charles-mother-of-the-bride-outfits-glasgow-scotland",
+				"feature_value": "0",
+				"cluster_win_mean": "1.31",
+				"delta": "1.31"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/linea-raffaelli-mother-of-the-bride-outfits-glasgow-scotland",
+				"feature_value": "0",
+				"cluster_win_mean": "1.31",
+				"delta": "1.31"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/ispirato-mother-of-the-bride-outfits-glasgow-scotland",
+				"feature_value": "0",
+				"cluster_win_mean": "1.31",
+				"delta": "1.31"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/ian-stuart-mother-of-the-bride-outfits-glasgow-scotland",
+				"feature_value": "0",
+				"cluster_win_mean": "1.31",
+				"delta": "1.31"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/ann-balon-mother-of-the-bride-outfits-glasgow-scotland",
+				"feature_value": "0",
+				"cluster_win_mean": "1.16",
+				"delta": "1.16"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/cabotine-zeila-mother-of-the-bride-outfits-glasgow-scotland",
+				"feature_value": "0",
+				"cluster_win_mean": "1.31",
+				"delta": "1.31"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news",
+				"feature_value": "0",
+				"cluster_win_mean": "1.31",
+				"delta": "1.31"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/contact-us",
+				"feature_value": "0",
+				"cluster_win_mean": "1.31",
+				"delta": "1.31"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/testimonials",
+				"feature_value": "0",
+				"cluster_win_mean": "   2",
+				"delta": "   2"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/mother-of-the-bride-groom-sale",
+				"feature_value": "0",
+				"cluster_win_mean": "1.16",
+				"delta": "1.16"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/evening-wear-sale",
+				"feature_value": "0",
+				"cluster_win_mean": "1.16",
+				"delta": "1.16"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/#wrapper",
+				"feature_value": "0",
+				"cluster_win_mean": "1.31",
+				"delta": "1.31"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/kelsey-rose",
+				"feature_value": "0",
+				"cluster_win_mean": "1.31",
+				"delta": "1.31"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/mother-of-the-bride",
+				"feature_value": "0",
+				"cluster_win_mean": "1.31",
+				"delta": "1.31"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/2-mother-of-the-bride",
+				"feature_value": "0",
+				"cluster_win_mean": "1.31",
+				"delta": "1.31"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk",
+				"feature_value": "0",
+				"cluster_win_mean": "1.31",
+				"delta": "1.31"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/latest-fashions",
+				"feature_value": "0",
+				"cluster_win_mean": "1.31",
+				"delta": "1.31"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/info@catherinesofpartick.co.uk",
+				"feature_value": "0",
+				"cluster_win_mean": "1.31",
+				"delta": "1.31"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/sitellite-nav-sitemap-action",
+				"feature_value": "0",
+				"cluster_win_mean": "1.16",
+				"delta": "1.16"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/index",
+				"feature_value": "0",
+				"cluster_win_mean": "1.31",
+				"delta": "1.31"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/evening-dresses-scotland",
+				"feature_value": "0",
+				"cluster_win_mean": "1.31",
+				"delta": "1.31"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/index/evening-dresses-and-wear",
+				"feature_value": "0",
+				"cluster_win_mean": "1.31",
+				"delta": "1.31"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/aberdeen-mother-of-the-bride",
+				"feature_value": "0",
+				"cluster_win_mean": "1.31",
+				"delta": "1.31"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/collections",
+				"feature_value": "0",
+				"cluster_win_mean": "1.31",
+				"delta": "1.31"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/prom-offer",
+				"feature_value": "0",
+				"cluster_win_mean": "1.16",
+				"delta": "1.16"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/accessories",
+				"feature_value": "0",
+				"cluster_win_mean": "1.16",
+				"delta": "1.16"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/designers",
+				"feature_value": "0",
+				"cluster_win_mean": "1.31",
+				"delta": "1.31"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/veni",
+				"feature_value": "0",
+				"cluster_win_mean": "1.16",
+				"delta": "1.16"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/links",
+				"feature_value": "0",
+				"cluster_win_mean": "1.31",
+				"delta": "1.31"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/sale-2",
+				"feature_value": "0",
+				"cluster_win_mean": "1.16",
+				"delta": "1.16"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/mother-of-the-bride-groom-sale2",
+				"feature_value": "0",
+				"cluster_win_mean": "1.16",
+				"delta": "1.16"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/all-wedding-hats",
+				"feature_value": "0",
+				"cluster_win_mean": "1.16",
+				"delta": "1.16"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/2-wedding-hats",
+				"feature_value": "0",
+				"cluster_win_mean": "1.31",
+				"delta": "1.31"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/join-our-team",
+				"feature_value": "0",
+				"cluster_win_mean": "1.31",
+				"delta": "1.31"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/3-mother-of-the-bride",
+				"feature_value": "0",
+				"cluster_win_mean": "1.31",
+				"delta": "1.31"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/4-mother-of-the-bride",
+				"feature_value": "0",
+				"cluster_win_mean": "1.31",
+				"delta": "1.31"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/5-mother-of-the-bride",
+				"feature_value": "0",
+				"cluster_win_mean": "1.16",
+				"delta": "1.16"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/upcoming-prom",
+				"feature_value": "0",
+				"cluster_win_mean": "1.31",
+				"delta": "1.31"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/#directions",
+				"feature_value": "0",
+				"cluster_win_mean": "1.31",
+				"delta": "1.31"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app?menu=no&limit=5&offset=5",
+				"feature_value": "0",
+				"cluster_win_mean": "1.16",
+				"delta": "1.16"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app?menu=no&limit=5&offset=0",
+				"feature_value": "0",
+				"cluster_win_mean": "1.16",
+				"delta": "1.16"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app?menu=no&limit=5&offset=10",
+				"feature_value": "0",
+				"cluster_win_mean": "1.16",
+				"delta": "1.16"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app?menu=no&limit=5&offset=15",
+				"feature_value": "0",
+				"cluster_win_mean": "1.16",
+				"delta": "1.16"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app?menu=no&limit=5&offset=20",
+				"feature_value": "0",
+				"cluster_win_mean": "1.16",
+				"delta": "1.16"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app?menu=no&limit=5&offset=25",
+				"feature_value": "0",
+				"cluster_win_mean": "1.16",
+				"delta": "1.16"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app?menu=no&limit=5&offset=30",
+				"feature_value": "0",
+				"cluster_win_mean": "1.16",
+				"delta": "1.16"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app?menu=no&limit=5&offset=35",
+				"feature_value": "0",
+				"cluster_win_mean": "1.16",
+				"delta": "1.16"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app?menu=no&limit=5&offset=40",
+				"feature_value": "0",
+				"cluster_win_mean": "1.16",
+				"delta": "1.16"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app?menu=no&limit=5&offset=45",
+				"feature_value": "0",
+				"cluster_win_mean": "1.16",
+				"delta": "1.16"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app?menu=no&limit=5&offset=50",
+				"feature_value": "0",
+				"cluster_win_mean": "1.16",
+				"delta": "1.16"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.3/title.catherines-plays-fairy-godmother-to-three-prom-queens-with-itv-s-5-30-show-/menu.no/sec./home.",
+				"feature_value": "0",
+				"cluster_win_mean": "1.31",
+				"delta": "1.31"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/author.Catherines of Partick",
+				"feature_value": "0",
+				"cluster_win_mean": "1.16",
+				"delta": "1.16"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app",
+				"feature_value": "0",
+				"cluster_win_mean": "1.16",
+				"delta": "1.16"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.53/title.arrival-of-autumn-winter-2013/menu.no/sec./home.",
+				"feature_value": "0",
+				"cluster_win_mean": "1.16",
+				"delta": "1.16"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.52/title.sale-instore-now/menu.no/sec./home.",
+				"feature_value": "0",
+				"cluster_win_mean": "1.16",
+				"delta": "1.16"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.51/title.prom-queen-announcement-/menu.no/sec./home.",
+				"feature_value": "0",
+				"cluster_win_mean": "1.16",
+				"delta": "1.16"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.50/title.sales-advisor-required/menu.no/sec./home.",
+				"feature_value": "0",
+				"cluster_win_mean": "1.16",
+				"delta": "1.16"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.54/title.stockist-of-joseph-ribkoff/menu.no/sec./home.",
+				"feature_value": "0",
+				"cluster_win_mean": "1.16",
+				"delta": "1.16"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.2/title.katie-price-s-style-is-a-page-turner/menu.no/sec./home.",
+				"feature_value": "0",
+				"cluster_win_mean": "1.16",
+				"delta": "1.16"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.1/title.dancing-on-ice-proves-a-huge-hit-with-catherines-clientele/menu.no/sec./home.",
+				"feature_value": "0",
+				"cluster_win_mean": "1.16",
+				"delta": "1.16"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.13/title.teenage-cancer-trust-fashion-show/menu.no/sec./home.",
+				"feature_value": "0",
+				"cluster_win_mean": "1.16",
+				"delta": "1.16"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.7/title.star-style-in-the-bag-at-catherines-of-partick/menu.no/sec./home.",
+				"feature_value": "0",
+				"cluster_win_mean": "1.16",
+				"delta": "1.16"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.6/title.hats-off-to-the-mother-of-the-bride/menu.no/sec./home.",
+				"feature_value": "0",
+				"cluster_win_mean": "1.31",
+				"delta": "1.31"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.5/title.dj-suzie-mcguire-dresses-for-a-day-at-the-races/menu.no/sec./home.",
+				"feature_value": "0",
+				"cluster_win_mean": "1.16",
+				"delta": "1.16"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.4/title.miss-scotland-dresses-to-impress-with-a-little-help-from-catherines-/menu.no/sec./home.",
+				"feature_value": "0",
+				"cluster_win_mean": "1.16",
+				"delta": "1.16"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.11/title.andrew-lloyd-webber-s-over-the-rainbow-chooses-rainbow-club/menu.no/sec./home.",
+				"feature_value": "0",
+				"cluster_win_mean": "1.16",
+				"delta": "1.16"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.15/title.secc-wedding-show/menu.no/sec./home.",
+				"feature_value": "0",
+				"cluster_win_mean": "1.16",
+				"delta": "1.16"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.10/title.clyde-1-wedding-outfit-promotion/menu.no/sec./home.",
+				"feature_value": "0",
+				"cluster_win_mean": "1.16",
+				"delta": "1.16"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.8/title.new-year-new-offers-/menu.no/sec./home.",
+				"feature_value": "0",
+				"cluster_win_mean": "1.16",
+				"delta": "1.16"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.9/title.annual-wedding-show-at-secc-glasgow/menu.no/sec./home.",
+				"feature_value": "0",
+				"cluster_win_mean": "1.16",
+				"delta": "1.16"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.18/title.autumn-winter-2010-collection-now-in-store/menu.no/sec./home.",
+				"feature_value": "0",
+				"cluster_win_mean": "1.16",
+				"delta": "1.16"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.17/title.gift-vouchers-for-catherines-of-partick/menu.no/sec./home.",
+				"feature_value": "0",
+				"cluster_win_mean": "1.16",
+				"delta": "1.16"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.16/title.mother-of-the-bride-clearance-sale-now-on/menu.no/sec./home.",
+				"feature_value": "0",
+				"cluster_win_mean": "1.16",
+				"delta": "1.16"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.14/title.prom-dress-event-of-the-year/menu.no/sec./home.",
+				"feature_value": "0",
+				"cluster_win_mean": "1.16",
+				"delta": "1.16"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.12/title.10-discount-prom-wear-offer/menu.no/sec./home.",
+				"feature_value": "0",
+				"cluster_win_mean": "1.16",
+				"delta": "1.16"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.23/title.spa-day-prize-draw/menu.no/sec./home.",
+				"feature_value": "0",
+				"cluster_win_mean": "1.16",
+				"delta": "1.16"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.22/title.mid-season-clearance-sale/menu.no/sec./home.",
+				"feature_value": "0",
+				"cluster_win_mean": "1.16",
+				"delta": "1.16"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.21/title.new-stock-available-condici-mon-cheri-/menu.no/sec./home.",
+				"feature_value": "0",
+				"cluster_win_mean": "1.16",
+				"delta": "1.16"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.20/title.autumn-wedding-show-at-loch-lomond/menu.no/sec./home.",
+				"feature_value": "0",
+				"cluster_win_mean": "1.16",
+				"delta": "1.16"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.19/title.secc-wedding-show/menu.no/sec./home.",
+				"feature_value": "0",
+				"cluster_win_mean": "1.16",
+				"delta": "1.16"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.28/title.ian-stuart-new-monte-carlo-collection/menu.no/sec./home.",
+				"feature_value": "0",
+				"cluster_win_mean": "1.31",
+				"delta": "1.31"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.29/title.our-dress-wins-best-dressed-lady-at-hamilton-racecourse/menu.no/sec./home.",
+				"feature_value": "0",
+				"cluster_win_mean": "1.31",
+				"delta": "1.31"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.25/title.new-evening-wear-collections/menu.no/sec./home.",
+				"feature_value": "0",
+				"cluster_win_mean": "1.16",
+				"delta": "1.16"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.26/title.dress-clearance-sale/menu.no/sec./home.",
+				"feature_value": "0",
+				"cluster_win_mean": "1.16",
+				"delta": "1.16"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.27/title.royal-wedding-dress-prize-draw/menu.no/sec./home.",
+				"feature_value": "0",
+				"cluster_win_mean": "1.16",
+				"delta": "1.16"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.32/title.sequin-dress-for-camelot-at-knockhill-racing-circuit/menu.no/sec./home.",
+				"feature_value": "0",
+				"cluster_win_mean": "1.16",
+				"delta": "1.16"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.33/title.joanna-lumley-outfit-by-john-charles/menu.no/sec./home.",
+				"feature_value": "0",
+				"cluster_win_mean": "1.16",
+				"delta": "1.16"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.34/title.party-dress-for-euromillions-millionaire-month/menu.no/sec./home.",
+				"feature_value": "0",
+				"cluster_win_mean": "1.16",
+				"delta": "1.16"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.30/title.mother-of-the-bride-groom-exhibition/menu.no/sec./home.",
+				"feature_value": "0",
+				"cluster_win_mean": "1.16",
+				"delta": "1.16"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.24/title.scottish-wedding-show-exhibition/menu.no/sec./home.",
+				"feature_value": "0",
+				"cluster_win_mean": "1.16",
+				"delta": "1.16"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.37/title.ladies-night-at-hamilton-race-course/menu.no/sec./home.",
+				"feature_value": "0",
+				"cluster_win_mean": "1.16",
+				"delta": "1.16"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.36/title.dynasty-evening-wear-at-the-baftas-may-2012/menu.no/sec./home.",
+				"feature_value": "0",
+				"cluster_win_mean": "1.16",
+				"delta": "1.16"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.35/title.john-charles-featured-in-conde-nast-brides-magazine/menu.no/sec./home.",
+				"feature_value": "0",
+				"cluster_win_mean": "1.16",
+				"delta": "1.16"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.31/title.jubilee-weekend-sale/menu.no/sec./home.",
+				"feature_value": "0",
+				"cluster_win_mean": "1.16",
+				"delta": "1.16"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.38/title.prince-princess-of-wales-hospice-ladies-lunch-2012/menu.no/sec./home.",
+				"feature_value": "0",
+				"cluster_win_mean": "1.31",
+				"delta": "1.31"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.43/title.hamilton-racecourse-competition-winner/menu.no/sec./home.",
+				"feature_value": "0",
+				"cluster_win_mean": "1.16",
+				"delta": "1.16"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.42/title.new-diva-sophia-collection/menu.no/sec./home.",
+				"feature_value": "0",
+				"cluster_win_mean": "1.16",
+				"delta": "1.16"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.41/title.get-the-exact-match-with-diva-sophia-s-lucia-gold-bodycon-dress-/menu.no/sec./home.",
+				"feature_value": "0",
+				"cluster_win_mean": "1.16",
+				"delta": "1.16"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.40/title.vivien-sheriff-millinery-meets-her-majesty-the-queen/menu.no/sec./home.",
+				"feature_value": "0",
+				"cluster_win_mean": "1.16",
+				"delta": "1.16"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.39/title.ladies-night-at-hamilton-racecourse/menu.no/sec./home.",
+				"feature_value": "0",
+				"cluster_win_mean": "1.31",
+				"delta": "1.31"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.49/title.we-ll-be-at-girl-s-day-out/menu.no/sec./home.",
+				"feature_value": "0",
+				"cluster_win_mean": "1.16",
+				"delta": "1.16"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.48/title.end-of-season-clearance-up-to-75-off-until-end-of-november/menu.no/sec./home.",
+				"feature_value": "0",
+				"cluster_win_mean": "1.16",
+				"delta": "1.16"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.47/title.new-evening-wear-collection-now-in-store/menu.no/sec./home.",
+				"feature_value": "0",
+				"cluster_win_mean": "1.16",
+				"delta": "1.16"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.46/title.dress-featured-on-popular-tv-show/menu.no/sec./home.",
+				"feature_value": "0",
+				"cluster_win_mean": "1.16",
+				"delta": "1.16"
+			},
+			{
+				"html_id": "http://www.catherinesofpartick.co.uk/index/news-app/story.44/title.prize-draw-winner/menu.no/sec./home.",
+				"feature_value": "0",
+				"cluster_win_mean": "1.16",
+				"delta": "1.16"
+			}
+		]
+	}
+}
