@@ -193,6 +193,8 @@ var websiteName = websiteSplit[1];
 	        "sAjaxSource": "/json/summary/"+websiteName+"_Xhat.json",
 	        "sAjaxDataProp": "onsite",
 			"aaSorting": [[ 2, "desc" ]],
+			"mRender": function ( data, type, full ) {
+			        return '<a href="'+data+'">Download</a>';
 		    "aoColumns": [
 		                   null,
 		                   null,
@@ -293,51 +295,6 @@ var websiteName = websiteSplit[1];
 
 // data for chart
 
-long_short_data_old = [ 
-  {
-    key: 'Harmful',
-    color: '#ff0000',
-    values: [
-      { 
-        "label" : "Onsite" ,
-        "value" : -146
-      } , 
-      { 
-        "label" : "Offsite" ,
-        "value" : -5
-      } 
-    ]
-  },
-  {
-    key: 'Neutral',
-    color: '#ff9900',
-    values: [
-      { 
-        "label" : "Onsite" ,
-        "value" : 50
-      } , 
-      { 
-        "label" : "Offsite" ,
-        "value" : 0
-      } 
-    ]
-  },
-  {
-    key: 'Healthy',
-    color: '#00cc00',
-    values: [
-      { 
-        "label" : "Onsite" ,
-        "value" : 253
-      } , 
-      { 
-        "label" : "Offsite" ,
-        "value" : 3
-      } 
-    ]
-  }
-];
-
 long_short_data = [
 	{
 		"key": "Healthy",
@@ -381,8 +338,7 @@ long_short_data = [
 			}
 		]
 	}
-]
-;
+];
 
 
 var chart;
