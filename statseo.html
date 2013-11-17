@@ -302,11 +302,24 @@ var websiteName = websiteSplit[1];
 
 var topLevelFile = "/json/toplevel/" + websiteName + "_ybar.json";
 
-var json = $.getJSON(topLevelFile, function(json) {
-    console.log(json); // this will show the info it in firebug console
-});
+// var jsonLoaded = $.getJSON(topLevelFile, function(json) {
+//     console.log(json); // this will show the info it in firebug console
+// });
 
-var long_short_data = eval(json.responseText);
+var jsonLoaded = $.getJSON( topLevelFile, function() {
+  console.log( "success" );
+})
+  .done(function() {
+    console.log( "second success" );
+  })
+  .fail(function() {
+    console.log( "error" );
+  })
+  .always(function() {
+    console.log( "complete" );
+  });
+
+var long_short_data = eval(jsonLoaded.responseText);
 
 
 // data for chart
