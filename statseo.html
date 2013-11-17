@@ -419,148 +419,151 @@ nv.addGraph(function() {
     <!-- We use row-fluid inside containers to achieve a resizable layout. -->
     <!-- blogs.endjin.com/2013/04/tips-for-implementing-responsive-designs-using-bootstrap/ -->
     <!-- http://stackoverflow.com/a/12270322 -->
-    <div class="container">
-      <!-- Font and paired font of .heading/.subheading and body from Google Fonts -->
-      <!-- www.google.com/fonts/specimen/Ubuntu -->
-      <!-- www.google.com/fonts/specimen/Ubuntu#pairings -->
-      <div class="row-fluid heading">
-        <div class="span12">
-          <h1>StatSEO: Demonstration</h1>
-        </div> <!-- span12-- >
-      </div> <!-- row-fluid heading-- >
-	    
-      <div class="row-fluid subheading">
-		  <div class="span12">
-		      <div class="form-group">
-		        <label>
-		          Enter your domain URL
-		        </label>
-		        <input type="url" class="form-control" id="inputURL">
-		      </div> <!-- form group -- >
-
-		      <button onclick="doStuff()" type="submit" class="btn btn-primary" id="submitYes">
-		        submit!
-		      </button>
-			  <div id="someDiv" class="lead" >
-			      <hr>
-				  <!-- Special typography from Bootstrap for lead paragraph. -->
-				  <!-- http://twitter.github.io/bootstrap/base-css.html#typography -->
-				  <!-- <p >for </p> -->
-				  for 
-			  </div> <!-- someDiv -- >
-			  
-			  
-			</div>  <!-- span12-- >
-			<hr>
-		</div> <!-- row-fluid subheading-- >
-			
-			<div class="row-fluid">
-				<div class="span12">
-					<div class="well">
-						<h2>Domain health status summary</h2>
-						<p></p>
-					</div> <!-- well-- >
-
-			
-						<div id="chart1" class='with-3d-shadow with-transitions'>
-							<svg></svg>
-						</div>
-					</div> <!-- span12 -->
-				</div> <!-- row-fluid -->
-
-		<hr>
-		<div class="row-fluid">
+	<div class="container">
+		<!-- Font and paired font of .heading/.subheading and body from Google Fonts -->
+		<!-- www.google.com/fonts/specimen/Ubuntu -->
+		<!-- www.google.com/fonts/specimen/Ubuntu#pairings -->
+		<div class="row-fluid heading">
 			<div class="span12">
-				<div class="row-fluid">
-					<div class="span6">
-						<div class="panel panel-danger">
-							<div class="panel-heading">
-								<h3 class="panel-title">
-									URLs at risk
-								</h3>
-							</div> <!-- panel-heading -->
-							<div class="panel-body">
+				<h1>StatSEO: Demonstration</h1>
+			</div> <!-- span12-- >
+			</div> <!-- row-fluid heading-- >
+	    
+				<div class="row-fluid subheading">
+					<div class="span12">
+						<div class="form-group">
+							<label>
+								Enter your domain URL
+							</label>
+							<input type="url" class="form-control" id="inputURL">
+						</div> <!-- form group -- >
+
+							<button onclick="doStuff()" type="submit" class="btn btn-primary" id="submitYes">
+								submit!
+							</button>
+							<div id="someDiv" class="lead" >
+								<hr>
+								<!-- Special typography from Bootstrap for lead paragraph. -->
+								<!-- http://twitter.github.io/bootstrap/base-css.html#typography -->
+								<!-- <p >for </p> -->
+								for 
+							</div> <!-- someDiv -- >
+
+							</div>  <!-- span12-- >
+								<hr>
+							</div> <!-- row-fluid subheading-- >
+							</div> <!-- span12 -->
+						</div> <!-- row-fluid heading end-->
+					</div> <!-- container end -- >
+			
+						<div class="container">
+						
+							<div class="well">
+								<h2>Domain health status summary</h2>
+								<p></p>
+							</div> <!-- well-- >
+
+								<div id="chart1" class='with-3d-shadow with-transitions'>
+									<svg></svg>
+								</div>
+						
+							</div> <!-- container end -- >
+
+								<hr>
+								
+								<div class="container">
+									<div class="row-fluid">
+										<div class="span12">
+											<div class="row-fluid">
+												<div class="span6">
+													<div class="panel panel-danger">
+														<div class="panel-heading">
+															<h3 class="panel-title">
+																URLs at risk
+															</h3>
+														</div> <!-- panel-heading -->
+														<div class="panel-body">
 			  
-								<table cellpadding="0" cellspacing="0" border="0" class="display" id="example3">
-									<thead>
-										<tr>
-											<th width="5%">Influence rank</th>
-											<th width="55%">Feature</th>
-											<th width="10%">#URLs at risk</th>
-											<th width="10%">Average at risk SQ</th>
-											<th width="10%">#URLs healthy</th>
-											<th width="10%">Average healthy SQ</th>
-										</tr>
-									</thead>
-									<tbody>
+															<table cellpadding="0" cellspacing="0" border="0" class="display" id="example3">
+																<thead>
+																	<tr>
+																		<th width="5%">Influence rank</th>
+																		<th width="55%">Feature</th>
+																		<th width="10%">#URLs at risk</th>
+																		<th width="10%">Average at risk SQ</th>
+																		<th width="10%">#URLs healthy</th>
+																		<th width="10%">Average healthy SQ</th>
+																	</tr>
+																</thead>
+																<tbody>
 					  
-									</tbody>
-									<tfoot>
-										<tr>
-											<th>Influence rank</th>
-											<th>Feature</th>
-											<th>#URLs at risk</th>
-											<th>Average at risk SQ</th>
-											<th>#URLs healthy</th>
-											<th>Average healthy SQ</th>
-										</tr>
-									</tfoot>
-								</table>
-							</div> <!-- panel-body -->
-						</div> <!-- panel- panel danger -->						
-					</div>  <!-- span6 -->
+																</tbody>
+																<tfoot>
+																	<tr>
+																		<th>Influence rank</th>
+																		<th>Feature</th>
+																		<th>#URLs at risk</th>
+																		<th>Average at risk SQ</th>
+																		<th>#URLs healthy</th>
+																		<th>Average healthy SQ</th>
+																	</tr>
+																</tfoot>
+															</table>
+														</div> <!-- panel-body -->
+													</div> <!-- panel- panel danger -->						
+												</div>  <!-- span6 -->
 							
-					<!-- <div class="spacer"></div> -->
+												<!-- <div class="spacer"></div> -->
 		
-					<div class="span6">
-						<div class="panel panel-success" id="healthyBackLinks">
-							<div class="panel-heading">
-								<h3 class="panel-title">
-									Healthy URLs
-								</h3>
-							</div> <!-- panel-heading -->
-							<div class="panel-body">
+												<div class="span6">
+													<div class="panel panel-success" id="healthyBackLinks">
+														<div class="panel-heading">
+															<h3 class="panel-title">
+																Healthy URLs
+															</h3>
+														</div> <!-- panel-heading -->
+														<div class="panel-body">
 			  
-								<table cellpadding="0" cellspacing="0" border="0" class="display" id="example3b">
-									<thead>
-										<tr>
-											<th width="5%">Influence rank</th>
-											<th width="55%">Feature</th>
-											<th width="10%">#URLs at risk</th>
-											<th width="10%">Average at risk SQ</th>
-											<th width="10%">#URLs healthy</th>
-											<th width="10%">Average healthy SQ</th>
-										</tr>
-									</thead>
-									<tbody>
+															<table cellpadding="0" cellspacing="0" border="0" class="display" id="example3b">
+																<thead>
+																	<tr>
+																		<th width="5%">Influence rank</th>
+																		<th width="55%">Feature</th>
+																		<th width="10%">#URLs at risk</th>
+																		<th width="10%">Average at risk SQ</th>
+																		<th width="10%">#URLs healthy</th>
+																		<th width="10%">Average healthy SQ</th>
+																	</tr>
+																</thead>
+																<tbody>
 					  
-									</tbody>
-									<tfoot>
-										<tr>
-											<th>Influence rank</th>
-											<th>Feature</th>
-											<th>#URLs at risk</th>
-											<th>Average at risk SQ</th>
-											<th>#URLs healthy</th>
-											<th>Average healthy SQ</th>
-										</tr>
-									</tfoot>
-								</table>
-							</div> <!-- panel-body -->
-						</div> <!-- panel- panel success -->						
-					</div>  <!-- span6 -->
-				</div> <!-- end nested fluid row -->
-			</div> <!-- end span12 -->
-		</div> <!-- end fluid row -->
+																</tbody>
+																<tfoot>
+																	<tr>
+																		<th>Influence rank</th>
+																		<th>Feature</th>
+																		<th>#URLs at risk</th>
+																		<th>Average at risk SQ</th>
+																		<th>#URLs healthy</th>
+																		<th>Average healthy SQ</th>
+																	</tr>
+																</tfoot>
+															</table>
+														</div> <!-- panel-body -->
+													</div> <!-- panel- panel success -->						
+												</div>  <!-- span6 -->
+											</div> <!-- end nested fluid row -->
+										</div> <!-- end span12 -->
+									</div> <!-- end fluid row -->
 									
 								
 		  
-		  <hr>
-		  <p>
-		  <a href="/onsite_SQ_drilldown.html">Click for onsite drilldown</a>
-		  </p>
-		  <div class="spacer"></div>
-		  <hr>
+									<hr>
+									<p>
+										<a href="/onsite_SQ_drilldown.html">Click for onsite drilldown</a>
+									</p>
+									<div class="spacer"></div>
+									<hr>
 	  
 	  
 	  
