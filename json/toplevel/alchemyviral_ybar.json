@@ -1,11 +1,11 @@
 [
 	{
 		"key": "Healthy",
-		"color": "#ff0000",
+		"color": "#00cc00",
 		"values": [
 			{
 				"label": "Onsite",
-				"value": 55
+				"value": 63
 			},
 			{
 				"label": "Offsite",
@@ -19,7 +19,7 @@
 		"values": [
 			{
 				"label": "Onsite",
-				"value": 8
+				"value": 5
 			},
 			{
 				"label": "Offsite",
@@ -29,11 +29,11 @@
 	},
 	{
 		"key": "Harmful",
-		"color": "#00cc00",
+		"color": "#ff0000",
 		"values": [
 			{
 				"label": "Onsite",
-				"value": -15
+				"value": -10
 			},
 			{
 				"label": "Offsite",

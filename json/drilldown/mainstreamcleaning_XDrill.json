@@ -1,0 +1,612 @@
+{
+	"onsite": {
+		"average_backlink_flesch_reading_ease": {
+			"html_id": "http://www.mainstreamcleaning.co.uk/legal/privacy-policy",
+			"feature_value": "0",
+			"cluster_win_mean": "42.62",
+			"delta": "42.62"
+		},
+		"number_of_images_missing_alt": [
+			{
+				"html_id": "http://www.mainstreamcleaning.co.uk",
+				"feature_value": "0",
+				"cluster_win_mean": "16.36",
+				"delta": "16.36"
+			},
+			{
+				"html_id": "http://www.mainstreamcleaning.co.uk/services",
+				"feature_value": "0",
+				"cluster_win_mean": "16.36",
+				"delta": "16.36"
+			},
+			{
+				"html_id": "http://www.mainstreamcleaning.co.uk/services/retail-cleaning-company-surrey",
+				"feature_value": "0",
+				"cluster_win_mean": "16.36",
+				"delta": "16.36"
+			},
+			{
+				"html_id": "http://www.mainstreamcleaning.co.uk/services/factory-office-cleaning-company-surrey",
+				"feature_value": "0",
+				"cluster_win_mean": "16.36",
+				"delta": "16.36"
+			},
+			{
+				"html_id": "http://www.mainstreamcleaning.co.uk/services/post-build-cleaning-commissioning-cleans",
+				"feature_value": "0",
+				"cluster_win_mean": "16.36",
+				"delta": "16.36"
+			},
+			{
+				"html_id": "http://www.mainstreamcleaning.co.uk/services/escalator-cleaning",
+				"feature_value": "0",
+				"cluster_win_mean": "16.36",
+				"delta": "16.36"
+			},
+			{
+				"html_id": "http://www.mainstreamcleaning.co.uk/services/pub-and-restaurant-cleaning",
+				"feature_value": "0",
+				"cluster_win_mean": "16.36",
+				"delta": "16.36"
+			},
+			{
+				"html_id": "http://www.mainstreamcleaning.co.uk/about-us",
+				"feature_value": "0",
+				"cluster_win_mean": "16.36",
+				"delta": "16.36"
+			},
+			{
+				"html_id": "http://www.mainstreamcleaning.co.uk/contact-us",
+				"feature_value": "0",
+				"cluster_win_mean": "16.36",
+				"delta": "16.36"
+			},
+			{
+				"html_id": "http://www.mainstreamcleaning.co.uk/legal/accessibility",
+				"feature_value": "0",
+				"cluster_win_mean": "16.36",
+				"delta": "16.36"
+			}
+		],
+		"number_of_images": [
+			{
+				"html_id": "http://www.mainstreamcleaning.co.uk",
+				"feature_value": "4",
+				"cluster_win_mean": "17.41",
+				"delta": "13.41"
+			},
+			{
+				"html_id": "http://www.mainstreamcleaning.co.uk/services",
+				"feature_value": "2",
+				"cluster_win_mean": "17.41",
+				"delta": "15.41"
+			},
+			{
+				"html_id": "http://www.mainstreamcleaning.co.uk/services/retail-cleaning-company-surrey",
+				"feature_value": "2",
+				"cluster_win_mean": "17.41",
+				"delta": "15.41"
+			},
+			{
+				"html_id": "http://www.mainstreamcleaning.co.uk/services/factory-office-cleaning-company-surrey",
+				"feature_value": "2",
+				"cluster_win_mean": "17.41",
+				"delta": "15.41"
+			},
+			{
+				"html_id": "http://www.mainstreamcleaning.co.uk/services/post-build-cleaning-commissioning-cleans",
+				"feature_value": "2",
+				"cluster_win_mean": "17.41",
+				"delta": "15.41"
+			},
+			{
+				"html_id": "http://www.mainstreamcleaning.co.uk/services/escalator-cleaning",
+				"feature_value": "3",
+				"cluster_win_mean": "17.41",
+				"delta": "14.41"
+			},
+			{
+				"html_id": "http://www.mainstreamcleaning.co.uk/services/pub-and-restaurant-cleaning",
+				"feature_value": "2",
+				"cluster_win_mean": "17.41",
+				"delta": "15.41"
+			},
+			{
+				"html_id": "http://www.mainstreamcleaning.co.uk/about-us",
+				"feature_value": "2",
+				"cluster_win_mean": "17.41",
+				"delta": "15.41"
+			},
+			{
+				"html_id": "http://www.mainstreamcleaning.co.uk/contact-us",
+				"feature_value": "7",
+				"cluster_win_mean": "17.41",
+				"delta": "10.41"
+			},
+			{
+				"html_id": "http://www.mainstreamcleaning.co.uk/legal/accessibility",
+				"feature_value": "2",
+				"cluster_win_mean": "17.41",
+				"delta": "15.41"
+			}
+		],
+		"number_of_inline_css_styles": [
+			{
+				"html_id": "http://www.mainstreamcleaning.co.uk",
+				"feature_value": "0",
+				"cluster_win_mean": "1.57",
+				"delta": "1.57"
+			},
+			{
+				"html_id": "http://www.mainstreamcleaning.co.uk/services",
+				"feature_value": "0",
+				"cluster_win_mean": "1.57",
+				"delta": "1.57"
+			},
+			{
+				"html_id": "http://www.mainstreamcleaning.co.uk/services/retail-cleaning-company-surrey",
+				"feature_value": "0",
+				"cluster_win_mean": "1.57",
+				"delta": "1.57"
+			},
+			{
+				"html_id": "http://www.mainstreamcleaning.co.uk/services/factory-office-cleaning-company-surrey",
+				"feature_value": "0",
+				"cluster_win_mean": "1.57",
+				"delta": "1.57"
+			},
+			{
+				"html_id": "http://www.mainstreamcleaning.co.uk/services/post-build-cleaning-commissioning-cleans",
+				"feature_value": "0",
+				"cluster_win_mean": "1.57",
+				"delta": "1.57"
+			},
+			{
+				"html_id": "http://www.mainstreamcleaning.co.uk/services/escalator-cleaning",
+				"feature_value": "0",
+				"cluster_win_mean": "1.57",
+				"delta": "1.57"
+			},
+			{
+				"html_id": "http://www.mainstreamcleaning.co.uk/services/pub-and-restaurant-cleaning",
+				"feature_value": "0",
+				"cluster_win_mean": "1.57",
+				"delta": "1.57"
+			},
+			{
+				"html_id": "http://www.mainstreamcleaning.co.uk/about-us",
+				"feature_value": "0",
+				"cluster_win_mean": "1.57",
+				"delta": "1.57"
+			},
+			{
+				"html_id": "http://www.mainstreamcleaning.co.uk/contact-us",
+				"feature_value": "0",
+				"cluster_win_mean": "1.57",
+				"delta": "1.57"
+			},
+			{
+				"html_id": "http://www.mainstreamcleaning.co.uk/legal/accessibility",
+				"feature_value": "0",
+				"cluster_win_mean": "1.57",
+				"delta": "1.57"
+			},
+			{
+				"html_id": "http://www.mainstreamcleaning.co.uk/legal/privacy-policy",
+				"feature_value": "0",
+				"cluster_win_mean": "1.69",
+				"delta": "1.69"
+			}
+		],
+		"number_of_images_in_body": [
+			{
+				"html_id": "http://www.mainstreamcleaning.co.uk",
+				"feature_value": "4",
+				"cluster_win_mean": "17.41",
+				"delta": "13.41"
+			},
+			{
+				"html_id": "http://www.mainstreamcleaning.co.uk/services",
+				"feature_value": "2",
+				"cluster_win_mean": "17.41",
+				"delta": "15.41"
+			},
+			{
+				"html_id": "http://www.mainstreamcleaning.co.uk/services/retail-cleaning-company-surrey",
+				"feature_value": "2",
+				"cluster_win_mean": "17.41",
+				"delta": "15.41"
+			},
+			{
+				"html_id": "http://www.mainstreamcleaning.co.uk/services/factory-office-cleaning-company-surrey",
+				"feature_value": "2",
+				"cluster_win_mean": "17.41",
+				"delta": "15.41"
+			},
+			{
+				"html_id": "http://www.mainstreamcleaning.co.uk/services/post-build-cleaning-commissioning-cleans",
+				"feature_value": "2",
+				"cluster_win_mean": "17.41",
+				"delta": "15.41"
+			},
+			{
+				"html_id": "http://www.mainstreamcleaning.co.uk/services/escalator-cleaning",
+				"feature_value": "3",
+				"cluster_win_mean": "17.41",
+				"delta": "14.41"
+			},
+			{
+				"html_id": "http://www.mainstreamcleaning.co.uk/services/pub-and-restaurant-cleaning",
+				"feature_value": "2",
+				"cluster_win_mean": "17.41",
+				"delta": "15.41"
+			},
+			{
+				"html_id": "http://www.mainstreamcleaning.co.uk/about-us",
+				"feature_value": "2",
+				"cluster_win_mean": "17.41",
+				"delta": "15.41"
+			},
+			{
+				"html_id": "http://www.mainstreamcleaning.co.uk/contact-us",
+				"feature_value": "7",
+				"cluster_win_mean": "17.41",
+				"delta": "10.41"
+			},
+			{
+				"html_id": "http://www.mainstreamcleaning.co.uk/legal/accessibility",
+				"feature_value": "2",
+				"cluster_win_mean": "17.41",
+				"delta": "15.41"
+			}
+		],
+		"maximum_length_of_h1": [
+			{
+				"html_id": "http://www.mainstreamcleaning.co.uk",
+				"feature_value": " 0",
+				"cluster_win_mean": " 70.6",
+				"delta": " 70.6"
+			},
+			{
+				"html_id": "http://www.mainstreamcleaning.co.uk/services/retail-cleaning-company-surrey",
+				"feature_value": "24",
+				"cluster_win_mean": " 70.6",
+				"delta": " 46.6"
+			},
+			{
+				"html_id": "http://www.mainstreamcleaning.co.uk/services/factory-office-cleaning-company-surrey",
+				"feature_value": "25",
+				"cluster_win_mean": " 70.6",
+				"delta": " 45.6"
+			},
+			{
+				"html_id": "http://www.mainstreamcleaning.co.uk/services/post-build-cleaning-commissioning-cleans",
+				"feature_value": "33",
+				"cluster_win_mean": " 70.6",
+				"delta": " 37.6"
+			},
+			{
+				"html_id": "http://www.mainstreamcleaning.co.uk/services/escalator-cleaning",
+				"feature_value": "26",
+				"cluster_win_mean": " 70.6",
+				"delta": " 44.6"
+			},
+			{
+				"html_id": "http://www.mainstreamcleaning.co.uk/services/pub-and-restaurant-cleaning",
+				"feature_value": "27",
+				"cluster_win_mean": " 70.6",
+				"delta": " 43.6"
+			},
+			{
+				"html_id": "http://www.mainstreamcleaning.co.uk/about-us",
+				"feature_value": "25",
+				"cluster_win_mean": " 70.6",
+				"delta": " 45.6"
+			},
+			{
+				"html_id": "http://www.mainstreamcleaning.co.uk/contact-us",
+				"feature_value": "10",
+				"cluster_win_mean": " 70.6",
+				"delta": " 60.6"
+			},
+			{
+				"html_id": "http://www.mainstreamcleaning.co.uk/legal/accessibility",
+				"feature_value": "13",
+				"cluster_win_mean": " 70.6",
+				"delta": " 57.6"
+			},
+			{
+				"html_id": "http://www.mainstreamcleaning.co.uk/legal/privacy-policy",
+				"feature_value": "37",
+				"cluster_win_mean": "92.38",
+				"delta": "55.38"
+			}
+		],
+		"average_length_of_h1": [
+			{
+				"html_id": "http://www.mainstreamcleaning.co.uk/services",
+				"feature_value": "76",
+				"cluster_win_mean": "45.52",
+				"delta": "-30.48"
+			},
+			{
+				"html_id": "http://www.mainstreamcleaning.co.uk/legal/privacy-policy",
+				"feature_value": "37",
+				"cluster_win_mean": "46.69",
+				"delta": "  9.69"
+			}
+		],
+		"number_of_embedded_styles": [
+			{
+				"html_id": "http://www.mainstreamcleaning.co.uk",
+				"feature_value": "0",
+				"cluster_win_mean": "2.9",
+				"delta": "2.9"
+			},
+			{
+				"html_id": "http://www.mainstreamcleaning.co.uk/services",
+				"feature_value": "0",
+				"cluster_win_mean": "2.9",
+				"delta": "2.9"
+			},
+			{
+				"html_id": "http://www.mainstreamcleaning.co.uk/services/retail-cleaning-company-surrey",
+				"feature_value": "0",
+				"cluster_win_mean": "2.9",
+				"delta": "2.9"
+			},
+			{
+				"html_id": "http://www.mainstreamcleaning.co.uk/services/factory-office-cleaning-company-surrey",
+				"feature_value": "0",
+				"cluster_win_mean": "2.9",
+				"delta": "2.9"
+			},
+			{
+				"html_id": "http://www.mainstreamcleaning.co.uk/services/post-build-cleaning-commissioning-cleans",
+				"feature_value": "0",
+				"cluster_win_mean": "2.9",
+				"delta": "2.9"
+			},
+			{
+				"html_id": "http://www.mainstreamcleaning.co.uk/services/escalator-cleaning",
+				"feature_value": "0",
+				"cluster_win_mean": "2.9",
+				"delta": "2.9"
+			},
+			{
+				"html_id": "http://www.mainstreamcleaning.co.uk/services/pub-and-restaurant-cleaning",
+				"feature_value": "0",
+				"cluster_win_mean": "2.9",
+				"delta": "2.9"
+			},
+			{
+				"html_id": "http://www.mainstreamcleaning.co.uk/about-us",
+				"feature_value": "0",
+				"cluster_win_mean": "2.9",
+				"delta": "2.9"
+			},
+			{
+				"html_id": "http://www.mainstreamcleaning.co.uk/contact-us",
+				"feature_value": "0",
+				"cluster_win_mean": "2.9",
+				"delta": "2.9"
+			},
+			{
+				"html_id": "http://www.mainstreamcleaning.co.uk/legal/accessibility",
+				"feature_value": "0",
+				"cluster_win_mean": "2.9",
+				"delta": "2.9"
+			}
+		],
+		"number_of_iframes": {
+			"html_id": "http://www.mainstreamcleaning.co.uk/legal/privacy-policy",
+			"feature_value": "0",
+			"cluster_win_mean": "1",
+			"delta": "1"
+		},
+		"number_of_external_css_styles": {
+			"html_id": "http://www.mainstreamcleaning.co.uk/legal/privacy-policy",
+			"feature_value": "3",
+			"cluster_win_mean": "7.49",
+			"delta": "4.49"
+		},
+		"maximum_length_of_h2": [
+			{
+				"html_id": "http://www.mainstreamcleaning.co.uk",
+				"feature_value": "31",
+				"cluster_win_mean": "71.79",
+				"delta": "40.79"
+			},
+			{
+				"html_id": "http://www.mainstreamcleaning.co.uk/services",
+				"feature_value": "31",
+				"cluster_win_mean": "71.79",
+				"delta": "40.79"
+			},
+			{
+				"html_id": "http://www.mainstreamcleaning.co.uk/services/retail-cleaning-company-surrey",
+				"feature_value": "31",
+				"cluster_win_mean": "71.79",
+				"delta": "40.79"
+			},
+			{
+				"html_id": "http://www.mainstreamcleaning.co.uk/services/factory-office-cleaning-company-surrey",
+				"feature_value": "31",
+				"cluster_win_mean": "71.79",
+				"delta": "40.79"
+			},
+			{
+				"html_id": "http://www.mainstreamcleaning.co.uk/services/post-build-cleaning-commissioning-cleans",
+				"feature_value": "31",
+				"cluster_win_mean": "71.79",
+				"delta": "40.79"
+			},
+			{
+				"html_id": "http://www.mainstreamcleaning.co.uk/services/escalator-cleaning",
+				"feature_value": "31",
+				"cluster_win_mean": "71.79",
+				"delta": "40.79"
+			},
+			{
+				"html_id": "http://www.mainstreamcleaning.co.uk/services/pub-and-restaurant-cleaning",
+				"feature_value": "31",
+				"cluster_win_mean": "71.79",
+				"delta": "40.79"
+			},
+			{
+				"html_id": "http://www.mainstreamcleaning.co.uk/about-us",
+				"feature_value": "31",
+				"cluster_win_mean": "71.79",
+				"delta": "40.79"
+			},
+			{
+				"html_id": "http://www.mainstreamcleaning.co.uk/contact-us",
+				"feature_value": "31",
+				"cluster_win_mean": "71.79",
+				"delta": "40.79"
+			},
+			{
+				"html_id": "http://www.mainstreamcleaning.co.uk/legal/accessibility",
+				"feature_value": "40",
+				"cluster_win_mean": "71.79",
+				"delta": "31.79"
+			},
+			{
+				"html_id": "http://www.mainstreamcleaning.co.uk/legal/privacy-policy",
+				"feature_value": "31",
+				"cluster_win_mean": "43.68",
+				"delta": "12.68"
+			}
+		],
+		"average_length_of_h2": [
+			{
+				"html_id": "http://www.mainstreamcleaning.co.uk",
+				"feature_value": "26",
+				"cluster_win_mean": "71.22",
+				"delta": "45.22"
+			},
+			{
+				"html_id": "http://www.mainstreamcleaning.co.uk/services",
+				"feature_value": "27",
+				"cluster_win_mean": "71.22",
+				"delta": "44.22"
+			},
+			{
+				"html_id": "http://www.mainstreamcleaning.co.uk/services/retail-cleaning-company-surrey",
+				"feature_value": "27",
+				"cluster_win_mean": "71.22",
+				"delta": "44.22"
+			},
+			{
+				"html_id": "http://www.mainstreamcleaning.co.uk/services/factory-office-cleaning-company-surrey",
+				"feature_value": "27",
+				"cluster_win_mean": "71.22",
+				"delta": "44.22"
+			},
+			{
+				"html_id": "http://www.mainstreamcleaning.co.uk/services/post-build-cleaning-commissioning-cleans",
+				"feature_value": "27",
+				"cluster_win_mean": "71.22",
+				"delta": "44.22"
+			},
+			{
+				"html_id": "http://www.mainstreamcleaning.co.uk/services/escalator-cleaning",
+				"feature_value": "27",
+				"cluster_win_mean": "71.22",
+				"delta": "44.22"
+			},
+			{
+				"html_id": "http://www.mainstreamcleaning.co.uk/services/pub-and-restaurant-cleaning",
+				"feature_value": "27",
+				"cluster_win_mean": "71.22",
+				"delta": "44.22"
+			},
+			{
+				"html_id": "http://www.mainstreamcleaning.co.uk/about-us",
+				"feature_value": "27",
+				"cluster_win_mean": "71.22",
+				"delta": "44.22"
+			},
+			{
+				"html_id": "http://www.mainstreamcleaning.co.uk/contact-us",
+				"feature_value": "26",
+				"cluster_win_mean": "71.22",
+				"delta": "45.22"
+			},
+			{
+				"html_id": "http://www.mainstreamcleaning.co.uk/legal/accessibility",
+				"feature_value": "26",
+				"cluster_win_mean": "71.22",
+				"delta": "45.22"
+			}
+		],
+		"number_of_dhtml_scripts": [
+			{
+				"html_id": "http://www.mainstreamcleaning.co.uk",
+				"feature_value": "0",
+				"cluster_win_mean": "1.31",
+				"delta": "1.31"
+			},
+			{
+				"html_id": "http://www.mainstreamcleaning.co.uk/services",
+				"feature_value": "0",
+				"cluster_win_mean": "1.31",
+				"delta": "1.31"
+			},
+			{
+				"html_id": "http://www.mainstreamcleaning.co.uk/services/retail-cleaning-company-surrey",
+				"feature_value": "0",
+				"cluster_win_mean": "1.31",
+				"delta": "1.31"
+			},
+			{
+				"html_id": "http://www.mainstreamcleaning.co.uk/services/factory-office-cleaning-company-surrey",
+				"feature_value": "0",
+				"cluster_win_mean": "1.31",
+				"delta": "1.31"
+			},
+			{
+				"html_id": "http://www.mainstreamcleaning.co.uk/services/post-build-cleaning-commissioning-cleans",
+				"feature_value": "0",
+				"cluster_win_mean": "1.31",
+				"delta": "1.31"
+			},
+			{
+				"html_id": "http://www.mainstreamcleaning.co.uk/services/escalator-cleaning",
+				"feature_value": "0",
+				"cluster_win_mean": "1.31",
+				"delta": "1.31"
+			},
+			{
+				"html_id": "http://www.mainstreamcleaning.co.uk/services/pub-and-restaurant-cleaning",
+				"feature_value": "0",
+				"cluster_win_mean": "1.31",
+				"delta": "1.31"
+			},
+			{
+				"html_id": "http://www.mainstreamcleaning.co.uk/about-us",
+				"feature_value": "0",
+				"cluster_win_mean": "1.31",
+				"delta": "1.31"
+			},
+			{
+				"html_id": "http://www.mainstreamcleaning.co.uk/contact-us",
+				"feature_value": "0",
+				"cluster_win_mean": "1.31",
+				"delta": "1.31"
+			},
+			{
+				"html_id": "http://www.mainstreamcleaning.co.uk/legal/accessibility",
+				"feature_value": "0",
+				"cluster_win_mean": "1.31",
+				"delta": "1.31"
+			},
+			{
+				"html_id": "http://www.mainstreamcleaning.co.uk/legal/privacy-policy",
+				"feature_value": "0",
+				"cluster_win_mean": "   2",
+				"delta": "   2"
+			}
+		]
+	}
+}

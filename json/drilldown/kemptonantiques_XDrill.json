@@ -1,0 +1,46 @@
+{
+	"onsite": {
+		"number_of_images_missing_alt": {
+			"html_id": "http://www.kemptonantiques.com",
+			"feature_value": "0",
+			"cluster_win_mean": "11.2",
+			"delta": "11.2"
+		},
+		"number_of_scripts": {
+			"html_id": "http://www.kemptonantiques.com",
+			"feature_value": "1",
+			"cluster_win_mean": "17.88",
+			"delta": "16.88"
+		},
+		"number_of_images_in_body": {
+			"html_id": "http://www.kemptonantiques.com",
+			"feature_value": "0",
+			"cluster_win_mean": "11.27",
+			"delta": "11.27"
+		},
+		"html5_detected": {
+			"html_id": "http://www.kemptonantiques.com",
+			"feature_value": "0",
+			"cluster_win_mean": "1",
+			"delta": "1"
+		},
+		"maximum_length_of_h2": {
+			"html_id": "http://www.kemptonantiques.com",
+			"feature_value": "0",
+			"cluster_win_mean": "52.07",
+			"delta": "52.07"
+		},
+		"average_length_of_h2": {
+			"html_id": "http://www.kemptonantiques.com",
+			"feature_value": "0",
+			"cluster_win_mean": "51.77",
+			"delta": "51.77"
+		},
+		"number_of_dhtml_scripts": {
+			"html_id": "http://www.kemptonantiques.com",
+			"feature_value": "0",
+			"cluster_win_mean": "1.16",
+			"delta": "1.16"
+		}
+	}
+}
