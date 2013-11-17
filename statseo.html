@@ -300,14 +300,13 @@ var websiteName = websiteSplit[1];
 
 <script>
 
-
-
 var topLevelFile = "/json/toplevel/" + websiteName + "_ybar.json";
 
-var long_short_data = $.getJSON(topLevelFile, function(json) {
+var json = $.getJSON(topLevelFile, function(json) {
     console.log(json); // this will show the info it in firebug console
 });
 
+var long_short_data = eval(json.responseText);
 
 
 // data for chart
