@@ -306,7 +306,7 @@ var topLevelFile = "/json/toplevel/" + websiteName + "_ybar.json";
 //     console.log(json); // this will show the info it in firebug console
 // });
 
-var jsonLoaded = $.getJSON( topLevelFile, function() {
+var jsonLoaded = $.getJSON( "/json/toplevel/alchemyviral_ybar.json", function() {
   console.log( "success" );
 })
   .done(function() {
@@ -319,7 +319,7 @@ var jsonLoaded = $.getJSON( topLevelFile, function() {
     console.log( "complete" );
   });
 
-var long_short_data = eval(jsonLoaded.responseText);
+var long_short_data = jsonLoaded.responseText;
 
 
 // data for chart
