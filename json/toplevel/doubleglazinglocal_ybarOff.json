@@ -1,7 +1,7 @@
 [
 	{
 		"key": "Healthy",
-		"color": "#ff0000"
+		"color": "#00cc00"
 	},
 	{
 		"key": "Neutral",
@@ -9,6 +9,6 @@
 	},
 	{
 		"key": "Harmful",
-		"color": "#00cc00"
+		"color": "#ff0000"
 	}
 ]

@@ -2,106 +2,16 @@
 	"onsite": {
 		"average_backlink_flesch_reading_ease": [
 			{
-				"html_id": "http://www.alchemyviral.com/2012/10/page/3",
+				"html_id": "http://www.alchemyviral.com/2012/02",
 				"feature_value": "      0",
 				"cluster_win_mean": "42.62",
 				"delta": "42.62"
 			},
 			{
-				"html_id": "http://www.alchemyviral.com/privacy-policy",
+				"html_id": "http://www.alchemyviral.com/2013/05",
 				"feature_value": "      0",
 				"cluster_win_mean": "42.62",
 				"delta": "42.62"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/blog",
-				"feature_value": "      0",
-				"cluster_win_mean": "42.62",
-				"delta": "42.62"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/thank-you",
-				"feature_value": "      0",
-				"cluster_win_mean": "42.62",
-				"delta": "42.62"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/2012/09/page/2",
-				"feature_value": "      0",
-				"cluster_win_mean": "42.62",
-				"delta": "42.62"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/2012/11",
-				"feature_value": "      0",
-				"cluster_win_mean": "42.62",
-				"delta": "42.62"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/2012/10",
-				"feature_value": "      0",
-				"cluster_win_mean": "42.62",
-				"delta": "42.62"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/2012/07/page/2",
-				"feature_value": "      0",
-				"cluster_win_mean": "42.62",
-				"delta": "42.62"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/2013/02",
-				"feature_value": "      0",
-				"cluster_win_mean": "42.62",
-				"delta": "42.62"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/search-algorithms-are-only-half-the-battle/#comments",
-				"feature_value": "      0",
-				"cluster_win_mean": "42.62",
-				"delta": "42.62"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/getting-traffic-to-your-website/#comments",
-				"feature_value": "      0",
-				"cluster_win_mean": "42.62",
-				"delta": "42.62"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/hl-twitter/alchemyviral",
-				"feature_value": "      0",
-				"cluster_win_mean": "42.62",
-				"delta": "42.62"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/2013/03",
-				"feature_value": "      0",
-				"cluster_win_mean": "42.62",
-				"delta": "42.62"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/the-world-according-to-matt-cutts-and-duane-forrester/#comments",
-				"feature_value": "      0",
-				"cluster_win_mean": "42.62",
-				"delta": "42.62"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/content-auditing-for-the-search-journey/#comments",
-				"feature_value": "      0",
-				"cluster_win_mean": "42.62",
-				"delta": "42.62"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/2013/04",
-				"feature_value": "      0",
-				"cluster_win_mean": "42.62",
-				"delta": "42.62"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/discount-codes-and-vouchers-living-the-blogger-dream/#comments",
-				"feature_value": "53.8738",
-				"cluster_win_mean": "39.47",
-				"delta": "-14.4"
 			},
 			{
 				"html_id": "http://www.alchemyviral.com/predictive-modelling-benefits-e-commerce-sites",
@@ -110,43 +20,13 @@
 				"delta": "42.62"
 			},
 			{
-				"html_id": "http://www.alchemyviral.com/2013/03",
+				"html_id": "http://www.alchemyviral.com/2012/10/page/2",
 				"feature_value": "      0",
 				"cluster_win_mean": "42.62",
 				"delta": "42.62"
 			},
 			{
-				"html_id": "http://www.alchemyviral.com/2013/02",
-				"feature_value": "      0",
-				"cluster_win_mean": "42.62",
-				"delta": "42.62"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/2013/01",
-				"feature_value": "      0",
-				"cluster_win_mean": "42.62",
-				"delta": "42.62"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/2012/10",
-				"feature_value": "      0",
-				"cluster_win_mean": "42.62",
-				"delta": "42.62"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/2012/09",
-				"feature_value": "      0",
-				"cluster_win_mean": "42.62",
-				"delta": "42.62"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/2012/08",
-				"feature_value": "      0",
-				"cluster_win_mean": "42.62",
-				"delta": "42.62"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/2012/07",
+				"html_id": "http://www.alchemyviral.com/2012/06",
 				"feature_value": "      0",
 				"cluster_win_mean": "42.62",
 				"delta": "42.62"
@@ -158,55 +38,25 @@
 				"delta": "42.62"
 			},
 			{
-				"html_id": "http://www.alchemyviral.com/2012/05",
-				"feature_value": "      0",
-				"cluster_win_mean": "42.62",
-				"delta": "42.62"
-			},
-			{
 				"html_id": "http://www.alchemyviral.com/2012/05/page/2",
 				"feature_value": "      0",
 				"cluster_win_mean": "42.62",
 				"delta": "42.62"
 			},
 			{
-				"html_id": "http://www.alchemyviral.com/2012/02",
+				"html_id": "http://www.alchemyviral.com/2012/04",
 				"feature_value": "      0",
 				"cluster_win_mean": "42.62",
 				"delta": "42.62"
 			},
 			{
-				"html_id": "http://www.alchemyviral.com/blog",
-				"feature_value": "      0",
-				"cluster_win_mean": "42.62",
-				"delta": "42.62"
+				"html_id": "http://www.alchemyviral.com/privacy-policy",
+				"feature_value": "53.7191",
+				"cluster_win_mean": "47.51",
+				"delta": "-6.21"
 			},
 			{
-				"html_id": "http://www.alchemyviral.com/international",
-				"feature_value": "      0",
-				"cluster_win_mean": "42.62",
-				"delta": "42.62"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/thank-you",
-				"feature_value": "      0",
-				"cluster_win_mean": "42.62",
-				"delta": "42.62"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/2012/08/page/2",
-				"feature_value": "      0",
-				"cluster_win_mean": "42.62",
-				"delta": "42.62"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/predictive-modelling-benefits-e-commerce-sites/#comments",
-				"feature_value": "      0",
-				"cluster_win_mean": "42.62",
-				"delta": "42.62"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/2013/06",
+				"html_id": "http://www.alchemyviral.com/sopr-winning-seo-in-2013-and-beyond",
 				"feature_value": "      0",
 				"cluster_win_mean": "42.62",
 				"delta": "42.62"
@@ -214,13 +64,55 @@
 		],
 		"number_of_images_missing_alt": [
 			{
-				"html_id": "http://www.alchemyviral.com/2012/06/page/2",
+				"html_id": "http://www.alchemyviral.com/2012/08/page/2",
 				"feature_value": "4",
 				"cluster_win_mean": "16.36",
 				"delta": "12.36"
 			},
 			{
-				"html_id": "http://www.alchemyviral.com/2012/05/page/2",
+				"html_id": "http://www.alchemyviral.com/terms-conditions",
+				"feature_value": "4",
+				"cluster_win_mean": "16.36",
+				"delta": "12.36"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/international",
+				"feature_value": "4",
+				"cluster_win_mean": "16.36",
+				"delta": "12.36"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/site-map/termsandconditions",
+				"feature_value": "4",
+				"cluster_win_mean": "16.36",
+				"delta": "12.36"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/blog",
+				"feature_value": "4",
+				"cluster_win_mean": "16.36",
+				"delta": "12.36"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2013/05",
+				"feature_value": "4",
+				"cluster_win_mean": "16.36",
+				"delta": "12.36"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/penguin-2-0-prompts-questions-about-links/#comments",
+				"feature_value": "4",
+				"cluster_win_mean": "16.36",
+				"delta": "12.36"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/discount-codes-and-vouchers-living-the-blogger-dream/#comments",
+				"feature_value": "4",
+				"cluster_win_mean": "16.36",
+				"delta": "12.36"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/thank-you",
 				"feature_value": "4",
 				"cluster_win_mean": "16.36",
 				"delta": "12.36"
@@ -250,12 +142,6 @@
 				"delta": "12.36"
 			},
 			{
-				"html_id": "http://www.alchemyviral.com/2012/02",
-				"feature_value": "4",
-				"cluster_win_mean": "16.36",
-				"delta": "12.36"
-			},
-			{
 				"html_id": "http://www.alchemyviral.com/2012/04",
 				"feature_value": "4",
 				"cluster_win_mean": "16.36",
@@ -268,43 +154,163 @@
 				"delta": "12.36"
 			},
 			{
-				"html_id": "http://www.alchemyviral.com/2013/01",
+				"html_id": "http://www.alchemyviral.com/myopic-technology-on-links/#comments",
 				"feature_value": "4",
 				"cluster_win_mean": "16.36",
 				"delta": "12.36"
 			},
 			{
-				"html_id": "http://www.alchemyviral.com/2012/10/page/2",
+				"html_id": "http://www.alchemyviral.com/thinking/page/2/?",
 				"feature_value": "4",
 				"cluster_win_mean": "16.36",
 				"delta": "12.36"
 			},
 			{
-				"html_id": "http://www.alchemyviral.com/thinking/white-papers",
-				"feature_value": "4",
-				"cluster_win_mean": "16.36",
-				"delta": "12.36"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/2012/11/page/2",
-				"feature_value": "4",
-				"cluster_win_mean": "16.36",
-				"delta": "12.36"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/2012/08/page/2",
-				"feature_value": "4",
-				"cluster_win_mean": "16.36",
-				"delta": "12.36"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/terms-conditions",
+				"html_id": "http://www.alchemyviral.com/2012/09/page/2",
 				"feature_value": "4",
 				"cluster_win_mean": " 11.2",
 				"delta": "  7.2"
 			},
 			{
+				"html_id": "http://www.alchemyviral.com/2012/11",
+				"feature_value": "4",
+				"cluster_win_mean": "16.36",
+				"delta": "12.36"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2012/12",
+				"feature_value": "4",
+				"cluster_win_mean": "16.36",
+				"delta": "12.36"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2012/10",
+				"feature_value": "4",
+				"cluster_win_mean": "16.36",
+				"delta": "12.36"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2012/07/page/2",
+				"feature_value": "4",
+				"cluster_win_mean": "16.36",
+				"delta": "12.36"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2013/04",
+				"feature_value": "0",
+				"cluster_win_mean": "16.36",
+				"delta": "16.36"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2013/03",
+				"feature_value": "0",
+				"cluster_win_mean": " 11.2",
+				"delta": " 11.2"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2013/02",
+				"feature_value": "0",
+				"cluster_win_mean": " 11.2",
+				"delta": " 11.2"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2013/01",
+				"feature_value": "0",
+				"cluster_win_mean": " 11.2",
+				"delta": " 11.2"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2012/12",
+				"feature_value": "0",
+				"cluster_win_mean": " 11.2",
+				"delta": " 11.2"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2012/11",
+				"feature_value": "0",
+				"cluster_win_mean": " 11.2",
+				"delta": " 11.2"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2012/10",
+				"feature_value": "0",
+				"cluster_win_mean": " 11.2",
+				"delta": " 11.2"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2012/09",
+				"feature_value": "0",
+				"cluster_win_mean": " 11.2",
+				"delta": " 11.2"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2012/09/page/2",
+				"feature_value": "0",
+				"cluster_win_mean": " 11.2",
+				"delta": " 11.2"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2012/08",
+				"feature_value": "0",
+				"cluster_win_mean": " 11.2",
+				"delta": " 11.2"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2012/07",
+				"feature_value": "4",
+				"cluster_win_mean": "16.36",
+				"delta": "12.36"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2012/06",
+				"feature_value": "4",
+				"cluster_win_mean": "16.36",
+				"delta": "12.36"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2012/06/page/2",
+				"feature_value": "4",
+				"cluster_win_mean": "16.36",
+				"delta": "12.36"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2012/05",
+				"feature_value": "4",
+				"cluster_win_mean": "16.36",
+				"delta": "12.36"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2012/05/page/2",
+				"feature_value": "4",
+				"cluster_win_mean": "16.36",
+				"delta": "12.36"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2012/04",
+				"feature_value": "4",
+				"cluster_win_mean": "16.36",
+				"delta": "12.36"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2012/02",
+				"feature_value": "4",
+				"cluster_win_mean": "16.36",
+				"delta": "12.36"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/blog",
+				"feature_value": "4",
+				"cluster_win_mean": "16.36",
+				"delta": "12.36"
+			},
+			{
 				"html_id": "http://www.alchemyviral.com/international",
+				"feature_value": "4",
+				"cluster_win_mean": "16.36",
+				"delta": "12.36"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/privacy-policy",
 				"feature_value": "4",
 				"cluster_win_mean": "16.36",
 				"delta": "12.36"
@@ -316,7 +322,145 @@
 				"delta": "12.36"
 			},
 			{
-				"html_id": "http://www.alchemyviral.com/2012/12",
+				"html_id": "http://www.alchemyviral.com/terms-conditions",
+				"feature_value": "4",
+				"cluster_win_mean": "16.36",
+				"delta": "12.36"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/thank-you",
+				"feature_value": "4",
+				"cluster_win_mean": "16.36",
+				"delta": "12.36"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/thinking/white-papers",
+				"feature_value": "4",
+				"cluster_win_mean": "16.36",
+				"delta": "12.36"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2012/07/page/2",
+				"feature_value": "4",
+				"cluster_win_mean": "16.36",
+				"delta": "12.36"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2012/08/page/2",
+				"feature_value": "4",
+				"cluster_win_mean": "16.36",
+				"delta": "12.36"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2012/10/page/3",
+				"feature_value": "4",
+				"cluster_win_mean": "16.36",
+				"delta": "12.36"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2012/11/page/2",
+				"feature_value": "4",
+				"cluster_win_mean": "16.36",
+				"delta": "12.36"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/predictive-modelling-benefits-e-commerce-sites/#comments",
+				"feature_value": "4",
+				"cluster_win_mean": "16.36",
+				"delta": "12.36"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2013/06",
+				"feature_value": "4",
+				"cluster_win_mean": "16.36",
+				"delta": "12.36"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/to-disavow-or-avow",
+				"feature_value": "4",
+				"cluster_win_mean": "16.36",
+				"delta": "12.36"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/brand-searches-are-the-currency-for-seo",
+				"feature_value": "4",
+				"cluster_win_mean": "16.36",
+				"delta": "12.36"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/pagerank-inheritance-and-lies",
+				"feature_value": "4",
+				"cluster_win_mean": "16.36",
+				"delta": "12.36"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2013/02",
+				"feature_value": "4",
+				"cluster_win_mean": "16.36",
+				"delta": "12.36"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2012/09",
+				"feature_value": "4",
+				"cluster_win_mean": "16.36",
+				"delta": "12.36"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2012/09/page/2",
+				"feature_value": "4",
+				"cluster_win_mean": "16.36",
+				"delta": "12.36"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2012/08",
+				"feature_value": "4",
+				"cluster_win_mean": "16.36",
+				"delta": "12.36"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2012/07",
+				"feature_value": "4",
+				"cluster_win_mean": "16.36",
+				"delta": "12.36"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2012/05",
+				"feature_value": "4",
+				"cluster_win_mean": "16.36",
+				"delta": "12.36"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2012/02",
+				"feature_value": "5",
+				"cluster_win_mean": "16.36",
+				"delta": "11.36"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/blog",
+				"feature_value": "4",
+				"cluster_win_mean": "16.36",
+				"delta": "12.36"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/international",
+				"feature_value": "4",
+				"cluster_win_mean": "16.36",
+				"delta": "12.36"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/privacy-policy",
+				"feature_value": "4",
+				"cluster_win_mean": "16.36",
+				"delta": "12.36"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/site-map/termsandconditions",
+				"feature_value": "4",
+				"cluster_win_mean": "16.36",
+				"delta": "12.36"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/terms-conditions",
 				"feature_value": "4",
 				"cluster_win_mean": "16.36",
 				"delta": "12.36"
@@ -328,165 +472,63 @@
 				"delta": "12.36"
 			},
 			{
-				"html_id": "http://www.alchemyviral.com/ideas-for-a-killer-seo-phone-app/#comments",
-				"feature_value": "0",
-				"cluster_win_mean": "16.36",
-				"delta": "16.36"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/image-is-everything/#comments",
-				"feature_value": "0",
-				"cluster_win_mean": "16.36",
-				"delta": "16.36"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/managing-robotic-price-scrapers-and-other-rogues/#comments",
-				"feature_value": "0",
-				"cluster_win_mean": " 11.2",
-				"delta": " 11.2"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/buying-pagerank-dont-do-it/#comments",
-				"feature_value": "0",
-				"cluster_win_mean": " 11.2",
-				"delta": " 11.2"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/the-search-love-triangle-search-engines-users-and-publishers/#comments",
-				"feature_value": "0",
-				"cluster_win_mean": " 11.2",
-				"delta": " 11.2"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/2013/05",
-				"feature_value": "0",
-				"cluster_win_mean": " 11.2",
-				"delta": " 11.2"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/penguin-2-0-prompts-questions-about-links/#comments",
-				"feature_value": "0",
-				"cluster_win_mean": " 11.2",
-				"delta": " 11.2"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/discount-codes-and-vouchers-living-the-blogger-dream/#comments",
-				"feature_value": "0",
-				"cluster_win_mean": " 11.2",
-				"delta": " 11.2"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/myopic-technology-on-links/#comments",
-				"feature_value": "5",
-				"cluster_win_mean": "16.36",
-				"delta": "11.36"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/thinking/page/2/?",
-				"feature_value": "5",
-				"cluster_win_mean": "16.36",
-				"delta": "11.36"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/2013/05",
+				"html_id": "http://www.alchemyviral.com/what-your-penguin-2-0-analysis-is-worth",
 				"feature_value": "4",
 				"cluster_win_mean": "16.36",
 				"delta": "12.36"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/2013/04",
-				"feature_value": "5",
-				"cluster_win_mean": "16.36",
-				"delta": "11.36"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/2012/12",
-				"feature_value": "5",
-				"cluster_win_mean": "16.36",
-				"delta": "11.36"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/2012/11",
-				"feature_value": "4",
-				"cluster_win_mean": "16.36",
-				"delta": "12.36"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/2012/09/page/2",
-				"feature_value": "5",
-				"cluster_win_mean": "16.36",
-				"delta": "11.36"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/2012/06",
-				"feature_value": "5",
-				"cluster_win_mean": "16.36",
-				"delta": "11.36"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/2012/04",
-				"feature_value": "5",
-				"cluster_win_mean": "16.36",
-				"delta": "11.36"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/privacy-policy",
-				"feature_value": "7",
-				"cluster_win_mean": "16.36",
-				"delta": " 9.36"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/site-map/termsandconditions",
-				"feature_value": "7",
-				"cluster_win_mean": "16.36",
-				"delta": " 9.36"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/terms-conditions",
-				"feature_value": "5",
-				"cluster_win_mean": "16.36",
-				"delta": "11.36"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/thinking/white-papers",
-				"feature_value": "4",
-				"cluster_win_mean": "16.36",
-				"delta": "12.36"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/2012/07/page/2",
-				"feature_value": "5",
-				"cluster_win_mean": "16.36",
-				"delta": "11.36"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/2012/10/page/2",
-				"feature_value": "7",
-				"cluster_win_mean": "16.36",
-				"delta": " 9.36"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/2012/10/page/3",
-				"feature_value": "4",
-				"cluster_win_mean": "16.36",
-				"delta": "12.36"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/2012/11/page/2",
-				"feature_value": "5",
-				"cluster_win_mean": "16.36",
-				"delta": "11.36"
 			}
 		],
 		"number_of_images": [
 			{
-				"html_id": "http://www.alchemyviral.com/2012/06/page/2",
+				"html_id": "http://www.alchemyviral.com/2012/08/page/2",
 				"feature_value": "4",
 				"cluster_win_mean": "17.41",
 				"delta": "13.41"
 			},
 			{
-				"html_id": "http://www.alchemyviral.com/2012/05/page/2",
+				"html_id": "http://www.alchemyviral.com/terms-conditions",
+				"feature_value": "4",
+				"cluster_win_mean": "17.41",
+				"delta": "13.41"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/international",
+				"feature_value": "4",
+				"cluster_win_mean": "17.41",
+				"delta": "13.41"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/site-map/termsandconditions",
+				"feature_value": "4",
+				"cluster_win_mean": "17.41",
+				"delta": "13.41"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/blog",
+				"feature_value": "4",
+				"cluster_win_mean": "17.41",
+				"delta": "13.41"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2013/05",
+				"feature_value": "4",
+				"cluster_win_mean": "17.41",
+				"delta": "13.41"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/penguin-2-0-prompts-questions-about-links/#comments",
+				"feature_value": "4",
+				"cluster_win_mean": "17.41",
+				"delta": "13.41"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/discount-codes-and-vouchers-living-the-blogger-dream/#comments",
+				"feature_value": "4",
+				"cluster_win_mean": "17.41",
+				"delta": "13.41"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/thank-you",
 				"feature_value": "4",
 				"cluster_win_mean": "17.41",
 				"delta": "13.41"
@@ -516,12 +558,6 @@
 				"delta": "13.41"
 			},
 			{
-				"html_id": "http://www.alchemyviral.com/2012/02",
-				"feature_value": "4",
-				"cluster_win_mean": "17.41",
-				"delta": "13.41"
-			},
-			{
 				"html_id": "http://www.alchemyviral.com/2012/04",
 				"feature_value": "4",
 				"cluster_win_mean": "17.41",
@@ -534,31 +570,91 @@
 				"delta": "13.41"
 			},
 			{
-				"html_id": "http://www.alchemyviral.com/2013/01",
+				"html_id": "http://www.alchemyviral.com/myopic-technology-on-links/#comments",
 				"feature_value": "4",
 				"cluster_win_mean": "17.41",
 				"delta": "13.41"
 			},
 			{
-				"html_id": "http://www.alchemyviral.com/2012/10/page/2",
+				"html_id": "http://www.alchemyviral.com/thinking/page/2/?",
 				"feature_value": "4",
 				"cluster_win_mean": "17.41",
 				"delta": "13.41"
 			},
 			{
-				"html_id": "http://www.alchemyviral.com/thinking/white-papers",
+				"html_id": "http://www.alchemyviral.com/2012/11",
 				"feature_value": "4",
 				"cluster_win_mean": "17.41",
 				"delta": "13.41"
 			},
 			{
-				"html_id": "http://www.alchemyviral.com/2012/11/page/2",
+				"html_id": "http://www.alchemyviral.com/2012/12",
 				"feature_value": "4",
 				"cluster_win_mean": "17.41",
 				"delta": "13.41"
 			},
 			{
-				"html_id": "http://www.alchemyviral.com/2012/08/page/2",
+				"html_id": "http://www.alchemyviral.com/2012/10",
+				"feature_value": "4",
+				"cluster_win_mean": "17.41",
+				"delta": "13.41"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2012/07/page/2",
+				"feature_value": "4",
+				"cluster_win_mean": "17.41",
+				"delta": "13.41"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2013/04",
+				"feature_value": "4",
+				"cluster_win_mean": "17.41",
+				"delta": "13.41"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2012/07",
+				"feature_value": "4",
+				"cluster_win_mean": "17.41",
+				"delta": "13.41"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2012/06",
+				"feature_value": "4",
+				"cluster_win_mean": "17.41",
+				"delta": "13.41"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2012/06/page/2",
+				"feature_value": "4",
+				"cluster_win_mean": "17.41",
+				"delta": "13.41"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2012/05",
+				"feature_value": "4",
+				"cluster_win_mean": "17.41",
+				"delta": "13.41"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2012/05/page/2",
+				"feature_value": "4",
+				"cluster_win_mean": "17.41",
+				"delta": "13.41"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2012/04",
+				"feature_value": "4",
+				"cluster_win_mean": "17.41",
+				"delta": "13.41"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2012/02",
+				"feature_value": "4",
+				"cluster_win_mean": "17.41",
+				"delta": "13.41"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/blog",
 				"feature_value": "4",
 				"cluster_win_mean": "17.41",
 				"delta": "13.41"
@@ -570,13 +666,157 @@
 				"delta": "13.41"
 			},
 			{
+				"html_id": "http://www.alchemyviral.com/privacy-policy",
+				"feature_value": "4",
+				"cluster_win_mean": "17.41",
+				"delta": "13.41"
+			},
+			{
 				"html_id": "http://www.alchemyviral.com/site-map/termsandconditions",
 				"feature_value": "4",
 				"cluster_win_mean": "17.41",
 				"delta": "13.41"
 			},
 			{
-				"html_id": "http://www.alchemyviral.com/2012/12",
+				"html_id": "http://www.alchemyviral.com/terms-conditions",
+				"feature_value": "4",
+				"cluster_win_mean": "17.41",
+				"delta": "13.41"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/thank-you",
+				"feature_value": "4",
+				"cluster_win_mean": "17.41",
+				"delta": "13.41"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/thinking/white-papers",
+				"feature_value": "4",
+				"cluster_win_mean": "17.41",
+				"delta": "13.41"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2012/07/page/2",
+				"feature_value": "4",
+				"cluster_win_mean": "17.41",
+				"delta": "13.41"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2012/08/page/2",
+				"feature_value": "4",
+				"cluster_win_mean": "17.41",
+				"delta": "13.41"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2012/10/page/3",
+				"feature_value": "4",
+				"cluster_win_mean": "17.41",
+				"delta": "13.41"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2012/11/page/2",
+				"feature_value": "4",
+				"cluster_win_mean": "17.41",
+				"delta": "13.41"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/predictive-modelling-benefits-e-commerce-sites/#comments",
+				"feature_value": "4",
+				"cluster_win_mean": "17.41",
+				"delta": "13.41"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2013/06",
+				"feature_value": "4",
+				"cluster_win_mean": "17.41",
+				"delta": "13.41"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/to-disavow-or-avow",
+				"feature_value": "4",
+				"cluster_win_mean": "17.41",
+				"delta": "13.41"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/brand-searches-are-the-currency-for-seo",
+				"feature_value": "4",
+				"cluster_win_mean": "17.41",
+				"delta": "13.41"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/pagerank-inheritance-and-lies",
+				"feature_value": "4",
+				"cluster_win_mean": "17.41",
+				"delta": "13.41"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2013/02",
+				"feature_value": "4",
+				"cluster_win_mean": "17.41",
+				"delta": "13.41"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2012/09",
+				"feature_value": "4",
+				"cluster_win_mean": "17.41",
+				"delta": "13.41"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2012/09/page/2",
+				"feature_value": "4",
+				"cluster_win_mean": "17.41",
+				"delta": "13.41"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2012/08",
+				"feature_value": "4",
+				"cluster_win_mean": "17.41",
+				"delta": "13.41"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2012/07",
+				"feature_value": "4",
+				"cluster_win_mean": "17.41",
+				"delta": "13.41"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2012/05",
+				"feature_value": "4",
+				"cluster_win_mean": "17.41",
+				"delta": "13.41"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2012/02",
+				"feature_value": "5",
+				"cluster_win_mean": "17.41",
+				"delta": "12.41"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/blog",
+				"feature_value": "4",
+				"cluster_win_mean": "17.41",
+				"delta": "13.41"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/international",
+				"feature_value": "4",
+				"cluster_win_mean": "17.41",
+				"delta": "13.41"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/privacy-policy",
+				"feature_value": "4",
+				"cluster_win_mean": "17.41",
+				"delta": "13.41"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/site-map/termsandconditions",
+				"feature_value": "4",
+				"cluster_win_mean": "17.41",
+				"delta": "13.41"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/terms-conditions",
 				"feature_value": "4",
 				"cluster_win_mean": "17.41",
 				"delta": "13.41"
@@ -588,159 +828,69 @@
 				"delta": "13.41"
 			},
 			{
-				"html_id": "http://www.alchemyviral.com/ideas-for-a-killer-seo-phone-app/#comments",
+				"html_id": "http://www.alchemyviral.com/what-your-penguin-2-0-analysis-is-worth",
 				"feature_value": "4",
 				"cluster_win_mean": "17.41",
 				"delta": "13.41"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/image-is-everything/#comments",
-				"feature_value": "4",
-				"cluster_win_mean": "17.41",
-				"delta": "13.41"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/myopic-technology-on-links/#comments",
-				"feature_value": "5",
-				"cluster_win_mean": "17.41",
-				"delta": "12.41"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/thinking/page/2/?",
-				"feature_value": "5",
-				"cluster_win_mean": "17.41",
-				"delta": "12.41"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/2013/05",
-				"feature_value": "4",
-				"cluster_win_mean": "17.41",
-				"delta": "13.41"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/2013/04",
-				"feature_value": "5",
-				"cluster_win_mean": "17.41",
-				"delta": "12.41"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/2012/12",
-				"feature_value": "5",
-				"cluster_win_mean": "17.41",
-				"delta": "12.41"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/2012/11",
-				"feature_value": "4",
-				"cluster_win_mean": "17.41",
-				"delta": "13.41"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/2012/09/page/2",
-				"feature_value": "5",
-				"cluster_win_mean": "17.41",
-				"delta": "12.41"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/2012/06",
-				"feature_value": "5",
-				"cluster_win_mean": "17.41",
-				"delta": "12.41"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/2012/04",
-				"feature_value": "5",
-				"cluster_win_mean": "17.41",
-				"delta": "12.41"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/privacy-policy",
-				"feature_value": "7",
-				"cluster_win_mean": "17.41",
-				"delta": "10.41"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/site-map/termsandconditions",
-				"feature_value": "7",
-				"cluster_win_mean": "17.41",
-				"delta": "10.41"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/terms-conditions",
-				"feature_value": "5",
-				"cluster_win_mean": "17.41",
-				"delta": "12.41"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/thinking/white-papers",
-				"feature_value": "4",
-				"cluster_win_mean": "17.41",
-				"delta": "13.41"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/2012/07/page/2",
-				"feature_value": "5",
-				"cluster_win_mean": "17.41",
-				"delta": "12.41"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/2012/10/page/2",
-				"feature_value": "7",
-				"cluster_win_mean": "17.41",
-				"delta": "10.41"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/2012/10/page/3",
-				"feature_value": "5",
-				"cluster_win_mean": "17.41",
-				"delta": "12.41"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/2012/11/page/2",
-				"feature_value": "5",
-				"cluster_win_mean": "17.41",
-				"delta": "12.41"
 			}
 		],
 		"number_of_scripts": [
 			{
-				"html_id": "http://www.alchemyviral.com/terms-conditions",
+				"html_id": "http://www.alchemyviral.com/2012/09/page/2",
 				"feature_value": "8",
 				"cluster_win_mean": "17.88",
 				"delta": " 9.88"
 			},
 			{
-				"html_id": "http://www.alchemyviral.com/managing-robotic-price-scrapers-and-other-rogues/#comments",
+				"html_id": "http://www.alchemyviral.com/2013/03",
 				"feature_value": "0",
 				"cluster_win_mean": "17.88",
 				"delta": "17.88"
 			},
 			{
-				"html_id": "http://www.alchemyviral.com/buying-pagerank-dont-do-it/#comments",
+				"html_id": "http://www.alchemyviral.com/2013/02",
 				"feature_value": "0",
 				"cluster_win_mean": "17.88",
 				"delta": "17.88"
 			},
 			{
-				"html_id": "http://www.alchemyviral.com/the-search-love-triangle-search-engines-users-and-publishers/#comments",
+				"html_id": "http://www.alchemyviral.com/2013/01",
 				"feature_value": "0",
 				"cluster_win_mean": "17.88",
 				"delta": "17.88"
 			},
 			{
-				"html_id": "http://www.alchemyviral.com/2013/05",
+				"html_id": "http://www.alchemyviral.com/2012/12",
 				"feature_value": "0",
 				"cluster_win_mean": "17.88",
 				"delta": "17.88"
 			},
 			{
-				"html_id": "http://www.alchemyviral.com/penguin-2-0-prompts-questions-about-links/#comments",
+				"html_id": "http://www.alchemyviral.com/2012/11",
 				"feature_value": "0",
 				"cluster_win_mean": "17.88",
 				"delta": "17.88"
 			},
 			{
-				"html_id": "http://www.alchemyviral.com/discount-codes-and-vouchers-living-the-blogger-dream/#comments",
+				"html_id": "http://www.alchemyviral.com/2012/10",
+				"feature_value": "0",
+				"cluster_win_mean": "17.88",
+				"delta": "17.88"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2012/09",
+				"feature_value": "0",
+				"cluster_win_mean": "17.88",
+				"delta": "17.88"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2012/09/page/2",
+				"feature_value": "0",
+				"cluster_win_mean": "17.88",
+				"delta": "17.88"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2012/08",
 				"feature_value": "0",
 				"cluster_win_mean": "17.88",
 				"delta": "17.88"
@@ -748,97 +898,13 @@
 		],
 		"number_of_inline_css_styles": [
 			{
-				"html_id": "http://www.alchemyviral.com/2012/06/page/2",
-				"feature_value": "0",
-				"cluster_win_mean": "1.57",
-				"delta": "1.57"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/2012/05/page/2",
-				"feature_value": "0",
-				"cluster_win_mean": "1.57",
-				"delta": "1.57"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/2012/06",
-				"feature_value": "0",
-				"cluster_win_mean": "1.57",
-				"delta": "1.57"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/2012/07",
-				"feature_value": "0",
-				"cluster_win_mean": "1.57",
-				"delta": "1.57"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/2012/08",
-				"feature_value": "0",
-				"cluster_win_mean": "1.57",
-				"delta": "1.57"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/2012/09",
-				"feature_value": "0",
-				"cluster_win_mean": "1.57",
-				"delta": "1.57"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/2012/02",
-				"feature_value": "0",
-				"cluster_win_mean": "1.57",
-				"delta": "1.57"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/2012/04",
-				"feature_value": "0",
-				"cluster_win_mean": "1.57",
-				"delta": "1.57"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/2012/05",
-				"feature_value": "0",
-				"cluster_win_mean": "1.57",
-				"delta": "1.57"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/2013/01",
-				"feature_value": "0",
-				"cluster_win_mean": "1.57",
-				"delta": "1.57"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/2012/10/page/2",
-				"feature_value": "0",
-				"cluster_win_mean": "1.57",
-				"delta": "1.57"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/2012/10/page/3",
-				"feature_value": "0",
-				"cluster_win_mean": "1.69",
-				"delta": "1.69"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/thinking/white-papers",
-				"feature_value": "0",
-				"cluster_win_mean": "1.57",
-				"delta": "1.57"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/2012/11/page/2",
-				"feature_value": "0",
-				"cluster_win_mean": "1.57",
-				"delta": "1.57"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/privacy-policy",
-				"feature_value": "0",
-				"cluster_win_mean": "1.69",
-				"delta": "1.69"
-			},
-			{
 				"html_id": "http://www.alchemyviral.com/2012/08/page/2",
+				"feature_value": "0",
+				"cluster_win_mean": "1.57",
+				"delta": "1.57"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/terms-conditions",
 				"feature_value": "0",
 				"cluster_win_mean": "1.57",
 				"delta": "1.57"
@@ -858,107 +924,71 @@
 			{
 				"html_id": "http://www.alchemyviral.com/blog",
 				"feature_value": "0",
-				"cluster_win_mean": "1.69",
-				"delta": "1.69"
+				"cluster_win_mean": "1.57",
+				"delta": "1.57"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2013/05",
+				"feature_value": "0",
+				"cluster_win_mean": "1.57",
+				"delta": "1.57"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/penguin-2-0-prompts-questions-about-links/#comments",
+				"feature_value": "0",
+				"cluster_win_mean": "1.57",
+				"delta": "1.57"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/discount-codes-and-vouchers-living-the-blogger-dream/#comments",
+				"feature_value": "0",
+				"cluster_win_mean": "1.57",
+				"delta": "1.57"
 			},
 			{
 				"html_id": "http://www.alchemyviral.com/thank-you",
 				"feature_value": "0",
-				"cluster_win_mean": "1.69",
-				"delta": "1.69"
+				"cluster_win_mean": "1.57",
+				"delta": "1.57"
 			},
 			{
-				"html_id": "http://www.alchemyviral.com/2012/09/page/2",
-				"feature_value": "0",
-				"cluster_win_mean": "1.69",
-				"delta": "1.69"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/2012/11",
-				"feature_value": "0",
-				"cluster_win_mean": "1.69",
-				"delta": "1.69"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/2012/12",
+				"html_id": "http://www.alchemyviral.com/2012/06",
 				"feature_value": "0",
 				"cluster_win_mean": "1.57",
 				"delta": "1.57"
 			},
 			{
-				"html_id": "http://www.alchemyviral.com/2012/10",
-				"feature_value": "0",
-				"cluster_win_mean": "1.69",
-				"delta": "1.69"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/2012/07/page/2",
-				"feature_value": "0",
-				"cluster_win_mean": "1.69",
-				"delta": "1.69"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/2013/02",
-				"feature_value": "0",
-				"cluster_win_mean": "1.69",
-				"delta": "1.69"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/migrating-websites/#comments",
+				"html_id": "http://www.alchemyviral.com/2012/07",
 				"feature_value": "0",
 				"cluster_win_mean": "1.57",
 				"delta": "1.57"
 			},
 			{
-				"html_id": "http://www.alchemyviral.com/search-algorithms-are-only-half-the-battle/#comments",
-				"feature_value": "0",
-				"cluster_win_mean": "1.69",
-				"delta": "1.69"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/getting-traffic-to-your-website/#comments",
-				"feature_value": "0",
-				"cluster_win_mean": "1.69",
-				"delta": "1.69"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/hl-twitter/alchemyviral",
-				"feature_value": "0",
-				"cluster_win_mean": "1.69",
-				"delta": "1.69"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/2013/03",
-				"feature_value": "0",
-				"cluster_win_mean": "1.69",
-				"delta": "1.69"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/ideas-for-a-killer-seo-phone-app/#comments",
+				"html_id": "http://www.alchemyviral.com/2012/08",
 				"feature_value": "0",
 				"cluster_win_mean": "1.57",
 				"delta": "1.57"
 			},
 			{
-				"html_id": "http://www.alchemyviral.com/the-world-according-to-matt-cutts-and-duane-forrester/#comments",
+				"html_id": "http://www.alchemyviral.com/2012/09",
+				"feature_value": "0",
+				"cluster_win_mean": "1.57",
+				"delta": "1.57"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2012/02",
 				"feature_value": "0",
 				"cluster_win_mean": "1.69",
 				"delta": "1.69"
 			},
 			{
-				"html_id": "http://www.alchemyviral.com/content-auditing-for-the-search-journey/#comments",
+				"html_id": "http://www.alchemyviral.com/2012/04",
 				"feature_value": "0",
-				"cluster_win_mean": "1.69",
-				"delta": "1.69"
+				"cluster_win_mean": "1.57",
+				"delta": "1.57"
 			},
 			{
-				"html_id": "http://www.alchemyviral.com/2013/04",
-				"feature_value": "0",
-				"cluster_win_mean": "1.69",
-				"delta": "1.69"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/image-is-everything/#comments",
+				"html_id": "http://www.alchemyviral.com/2012/05",
 				"feature_value": "0",
 				"cluster_win_mean": "1.57",
 				"delta": "1.57"
@@ -976,10 +1006,34 @@
 				"delta": "1.57"
 			},
 			{
-				"html_id": "http://www.alchemyviral.com/2013/05",
+				"html_id": "http://www.alchemyviral.com/2012/11",
 				"feature_value": "0",
 				"cluster_win_mean": "1.57",
 				"delta": "1.57"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2012/12",
+				"feature_value": "0",
+				"cluster_win_mean": "1.57",
+				"delta": "1.57"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2012/10",
+				"feature_value": "0",
+				"cluster_win_mean": "1.57",
+				"delta": "1.57"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2012/07/page/2",
+				"feature_value": "0",
+				"cluster_win_mean": "1.57",
+				"delta": "1.57"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2013/05",
+				"feature_value": "0",
+				"cluster_win_mean": "1.69",
+				"delta": "1.69"
 			},
 			{
 				"html_id": "http://www.alchemyviral.com/predictive-modelling-benefits-e-commerce-sites",
@@ -994,64 +1048,10 @@
 				"delta": "1.57"
 			},
 			{
-				"html_id": "http://www.alchemyviral.com/2013/03",
-				"feature_value": "0",
-				"cluster_win_mean": "1.69",
-				"delta": "1.69"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/2013/02",
-				"feature_value": "0",
-				"cluster_win_mean": "1.69",
-				"delta": "1.69"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/2013/01",
-				"feature_value": "0",
-				"cluster_win_mean": "1.69",
-				"delta": "1.69"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/2012/12",
-				"feature_value": "0",
-				"cluster_win_mean": "1.57",
-				"delta": "1.57"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/2012/11",
-				"feature_value": "0",
-				"cluster_win_mean": "1.57",
-				"delta": "1.57"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/2012/10",
-				"feature_value": "0",
-				"cluster_win_mean": "1.69",
-				"delta": "1.69"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/2012/09",
-				"feature_value": "0",
-				"cluster_win_mean": "1.69",
-				"delta": "1.69"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/2012/09/page/2",
-				"feature_value": "0",
-				"cluster_win_mean": "1.57",
-				"delta": "1.57"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/2012/08",
-				"feature_value": "0",
-				"cluster_win_mean": "1.69",
-				"delta": "1.69"
-			},
-			{
 				"html_id": "http://www.alchemyviral.com/2012/07",
 				"feature_value": "0",
-				"cluster_win_mean": "1.69",
-				"delta": "1.69"
+				"cluster_win_mean": "1.57",
+				"delta": "1.57"
 			},
 			{
 				"html_id": "http://www.alchemyviral.com/2012/06",
@@ -1062,20 +1062,20 @@
 			{
 				"html_id": "http://www.alchemyviral.com/2012/06/page/2",
 				"feature_value": "0",
-				"cluster_win_mean": "1.69",
-				"delta": "1.69"
+				"cluster_win_mean": "1.57",
+				"delta": "1.57"
 			},
 			{
 				"html_id": "http://www.alchemyviral.com/2012/05",
 				"feature_value": "0",
-				"cluster_win_mean": "1.69",
-				"delta": "1.69"
+				"cluster_win_mean": "1.57",
+				"delta": "1.57"
 			},
 			{
 				"html_id": "http://www.alchemyviral.com/2012/05/page/2",
 				"feature_value": "0",
-				"cluster_win_mean": "1.69",
-				"delta": "1.69"
+				"cluster_win_mean": "1.57",
+				"delta": "1.57"
 			},
 			{
 				"html_id": "http://www.alchemyviral.com/2012/04",
@@ -1086,20 +1086,20 @@
 			{
 				"html_id": "http://www.alchemyviral.com/2012/02",
 				"feature_value": "0",
-				"cluster_win_mean": "1.69",
-				"delta": "1.69"
+				"cluster_win_mean": "1.57",
+				"delta": "1.57"
 			},
 			{
 				"html_id": "http://www.alchemyviral.com/blog",
 				"feature_value": "0",
-				"cluster_win_mean": "1.69",
-				"delta": "1.69"
+				"cluster_win_mean": "1.57",
+				"delta": "1.57"
 			},
 			{
 				"html_id": "http://www.alchemyviral.com/international",
 				"feature_value": "0",
-				"cluster_win_mean": "1.69",
-				"delta": "1.69"
+				"cluster_win_mean": "1.57",
+				"delta": "1.57"
 			},
 			{
 				"html_id": "http://www.alchemyviral.com/privacy-policy",
@@ -1122,8 +1122,8 @@
 			{
 				"html_id": "http://www.alchemyviral.com/thank-you",
 				"feature_value": "0",
-				"cluster_win_mean": "1.69",
-				"delta": "1.69"
+				"cluster_win_mean": "1.57",
+				"delta": "1.57"
 			},
 			{
 				"html_id": "http://www.alchemyviral.com/thinking/white-papers",
@@ -1140,20 +1140,20 @@
 			{
 				"html_id": "http://www.alchemyviral.com/2012/08/page/2",
 				"feature_value": "0",
-				"cluster_win_mean": "1.69",
-				"delta": "1.69"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/2012/10/page/2",
-				"feature_value": "0",
 				"cluster_win_mean": "1.57",
 				"delta": "1.57"
 			},
 			{
+				"html_id": "http://www.alchemyviral.com/2012/10/page/2",
+				"feature_value": "0",
+				"cluster_win_mean": "1.69",
+				"delta": "1.69"
+			},
+			{
 				"html_id": "http://www.alchemyviral.com/2012/10/page/3",
-				"feature_value": "1",
+				"feature_value": "0",
 				"cluster_win_mean": "1.57",
-				"delta": "0.57"
+				"delta": "1.57"
 			},
 			{
 				"html_id": "http://www.alchemyviral.com/2012/11/page/2",
@@ -1164,11 +1164,143 @@
 			{
 				"html_id": "http://www.alchemyviral.com/predictive-modelling-benefits-e-commerce-sites/#comments",
 				"feature_value": "0",
+				"cluster_win_mean": "1.57",
+				"delta": "1.57"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2013/06",
+				"feature_value": "0",
+				"cluster_win_mean": "1.57",
+				"delta": "1.57"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/to-disavow-or-avow",
+				"feature_value": "0",
+				"cluster_win_mean": "1.57",
+				"delta": "1.57"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/brand-searches-are-the-currency-for-seo",
+				"feature_value": "0",
+				"cluster_win_mean": "1.57",
+				"delta": "1.57"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/pagerank-inheritance-and-lies",
+				"feature_value": "0",
+				"cluster_win_mean": "1.57",
+				"delta": "1.57"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2013/02",
+				"feature_value": "0",
+				"cluster_win_mean": "1.57",
+				"delta": "1.57"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2012/09",
+				"feature_value": "0",
+				"cluster_win_mean": "1.57",
+				"delta": "1.57"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2012/09/page/2",
+				"feature_value": "0",
+				"cluster_win_mean": "1.57",
+				"delta": "1.57"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2012/08",
+				"feature_value": "0",
+				"cluster_win_mean": "1.57",
+				"delta": "1.57"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2012/07",
+				"feature_value": "0",
+				"cluster_win_mean": "1.57",
+				"delta": "1.57"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2012/06",
+				"feature_value": "0",
 				"cluster_win_mean": "1.69",
 				"delta": "1.69"
 			},
 			{
-				"html_id": "http://www.alchemyviral.com/2013/06",
+				"html_id": "http://www.alchemyviral.com/2012/06/page/2",
+				"feature_value": "0",
+				"cluster_win_mean": "1.69",
+				"delta": "1.69"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2012/05",
+				"feature_value": "0",
+				"cluster_win_mean": "1.57",
+				"delta": "1.57"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2012/05/page/2",
+				"feature_value": "0",
+				"cluster_win_mean": "1.69",
+				"delta": "1.69"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2012/04",
+				"feature_value": "0",
+				"cluster_win_mean": "1.69",
+				"delta": "1.69"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2012/02",
+				"feature_value": "0",
+				"cluster_win_mean": "1.57",
+				"delta": "1.57"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/blog",
+				"feature_value": "0",
+				"cluster_win_mean": "1.57",
+				"delta": "1.57"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/international",
+				"feature_value": "0",
+				"cluster_win_mean": "1.57",
+				"delta": "1.57"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/privacy-policy",
+				"feature_value": "0",
+				"cluster_win_mean": "1.57",
+				"delta": "1.57"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/site-map/termsandconditions",
+				"feature_value": "0",
+				"cluster_win_mean": "1.57",
+				"delta": "1.57"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/terms-conditions",
+				"feature_value": "0",
+				"cluster_win_mean": "1.57",
+				"delta": "1.57"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/migrating-websites/#comments",
+				"feature_value": "0",
+				"cluster_win_mean": "1.57",
+				"delta": "1.57"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/what-your-penguin-2-0-analysis-is-worth",
+				"feature_value": "0",
+				"cluster_win_mean": "1.57",
+				"delta": "1.57"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/sopr-winning-seo-in-2013-and-beyond",
 				"feature_value": "0",
 				"cluster_win_mean": "1.69",
 				"delta": "1.69"
@@ -1176,84 +1308,6 @@
 		],
 		"number_of_images_in_body": [
 			{
-				"html_id": "http://www.alchemyviral.com/2012/06/page/2",
-				"feature_value": "4",
-				"cluster_win_mean": "17.41",
-				"delta": "13.41"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/2012/05/page/2",
-				"feature_value": "4",
-				"cluster_win_mean": "17.41",
-				"delta": "13.41"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/2012/06",
-				"feature_value": "4",
-				"cluster_win_mean": "17.41",
-				"delta": "13.41"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/2012/07",
-				"feature_value": "4",
-				"cluster_win_mean": "17.41",
-				"delta": "13.41"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/2012/08",
-				"feature_value": "4",
-				"cluster_win_mean": "17.41",
-				"delta": "13.41"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/2012/09",
-				"feature_value": "4",
-				"cluster_win_mean": "17.41",
-				"delta": "13.41"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/2012/02",
-				"feature_value": "4",
-				"cluster_win_mean": "17.41",
-				"delta": "13.41"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/2012/04",
-				"feature_value": "4",
-				"cluster_win_mean": "17.41",
-				"delta": "13.41"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/2012/05",
-				"feature_value": "4",
-				"cluster_win_mean": "17.41",
-				"delta": "13.41"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/2013/01",
-				"feature_value": "4",
-				"cluster_win_mean": "17.41",
-				"delta": "13.41"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/2012/10/page/2",
-				"feature_value": "4",
-				"cluster_win_mean": "17.41",
-				"delta": "13.41"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/thinking/white-papers",
-				"feature_value": "4",
-				"cluster_win_mean": "17.41",
-				"delta": "13.41"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/2012/11/page/2",
-				"feature_value": "4",
-				"cluster_win_mean": "17.41",
-				"delta": "13.41"
-			},
-			{
 				"html_id": "http://www.alchemyviral.com/2012/08/page/2",
 				"feature_value": "4",
 				"cluster_win_mean": "17.41",
@@ -1262,8 +1316,8 @@
 			{
 				"html_id": "http://www.alchemyviral.com/terms-conditions",
 				"feature_value": "4",
-				"cluster_win_mean": "11.27",
-				"delta": " 7.27"
+				"cluster_win_mean": "17.41",
+				"delta": "13.41"
 			},
 			{
 				"html_id": "http://www.alchemyviral.com/international",
@@ -1278,7 +1332,379 @@
 				"delta": "13.41"
 			},
 			{
+				"html_id": "http://www.alchemyviral.com/blog",
+				"feature_value": "4",
+				"cluster_win_mean": "17.41",
+				"delta": "13.41"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2013/05",
+				"feature_value": "4",
+				"cluster_win_mean": "17.41",
+				"delta": "13.41"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/penguin-2-0-prompts-questions-about-links/#comments",
+				"feature_value": "4",
+				"cluster_win_mean": "17.41",
+				"delta": "13.41"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/discount-codes-and-vouchers-living-the-blogger-dream/#comments",
+				"feature_value": "4",
+				"cluster_win_mean": "17.41",
+				"delta": "13.41"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/thank-you",
+				"feature_value": "4",
+				"cluster_win_mean": "17.41",
+				"delta": "13.41"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2012/06",
+				"feature_value": "4",
+				"cluster_win_mean": "17.41",
+				"delta": "13.41"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2012/07",
+				"feature_value": "4",
+				"cluster_win_mean": "17.41",
+				"delta": "13.41"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2012/08",
+				"feature_value": "4",
+				"cluster_win_mean": "17.41",
+				"delta": "13.41"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2012/09",
+				"feature_value": "4",
+				"cluster_win_mean": "17.41",
+				"delta": "13.41"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2012/04",
+				"feature_value": "4",
+				"cluster_win_mean": "17.41",
+				"delta": "13.41"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2012/05",
+				"feature_value": "4",
+				"cluster_win_mean": "17.41",
+				"delta": "13.41"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/myopic-technology-on-links/#comments",
+				"feature_value": "4",
+				"cluster_win_mean": "17.41",
+				"delta": "13.41"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/thinking/page/2/?",
+				"feature_value": "4",
+				"cluster_win_mean": "17.41",
+				"delta": "13.41"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2012/09/page/2",
+				"feature_value": "4",
+				"cluster_win_mean": "11.27",
+				"delta": " 7.27"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2012/11",
+				"feature_value": "4",
+				"cluster_win_mean": "17.41",
+				"delta": "13.41"
+			},
+			{
 				"html_id": "http://www.alchemyviral.com/2012/12",
+				"feature_value": "4",
+				"cluster_win_mean": "17.41",
+				"delta": "13.41"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2012/10",
+				"feature_value": "4",
+				"cluster_win_mean": "17.41",
+				"delta": "13.41"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2012/07/page/2",
+				"feature_value": "4",
+				"cluster_win_mean": "17.41",
+				"delta": "13.41"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2013/04",
+				"feature_value": "4",
+				"cluster_win_mean": "17.41",
+				"delta": "13.41"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2013/03",
+				"feature_value": "0",
+				"cluster_win_mean": "11.27",
+				"delta": "11.27"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2013/02",
+				"feature_value": "0",
+				"cluster_win_mean": "11.27",
+				"delta": "11.27"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2013/01",
+				"feature_value": "0",
+				"cluster_win_mean": "11.27",
+				"delta": "11.27"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2012/12",
+				"feature_value": "0",
+				"cluster_win_mean": "11.27",
+				"delta": "11.27"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2012/11",
+				"feature_value": "0",
+				"cluster_win_mean": "11.27",
+				"delta": "11.27"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2012/10",
+				"feature_value": "0",
+				"cluster_win_mean": "11.27",
+				"delta": "11.27"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2012/09",
+				"feature_value": "0",
+				"cluster_win_mean": "11.27",
+				"delta": "11.27"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2012/09/page/2",
+				"feature_value": "0",
+				"cluster_win_mean": "11.27",
+				"delta": "11.27"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2012/08",
+				"feature_value": "0",
+				"cluster_win_mean": "11.27",
+				"delta": "11.27"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2012/07",
+				"feature_value": "4",
+				"cluster_win_mean": "17.41",
+				"delta": "13.41"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2012/06",
+				"feature_value": "4",
+				"cluster_win_mean": "17.41",
+				"delta": "13.41"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2012/06/page/2",
+				"feature_value": "4",
+				"cluster_win_mean": "17.41",
+				"delta": "13.41"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2012/05",
+				"feature_value": "4",
+				"cluster_win_mean": "17.41",
+				"delta": "13.41"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2012/05/page/2",
+				"feature_value": "4",
+				"cluster_win_mean": "17.41",
+				"delta": "13.41"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2012/04",
+				"feature_value": "4",
+				"cluster_win_mean": "17.41",
+				"delta": "13.41"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2012/02",
+				"feature_value": "4",
+				"cluster_win_mean": "17.41",
+				"delta": "13.41"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/blog",
+				"feature_value": "4",
+				"cluster_win_mean": "17.41",
+				"delta": "13.41"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/international",
+				"feature_value": "4",
+				"cluster_win_mean": "17.41",
+				"delta": "13.41"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/privacy-policy",
+				"feature_value": "4",
+				"cluster_win_mean": "17.41",
+				"delta": "13.41"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/site-map/termsandconditions",
+				"feature_value": "4",
+				"cluster_win_mean": "17.41",
+				"delta": "13.41"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/terms-conditions",
+				"feature_value": "4",
+				"cluster_win_mean": "17.41",
+				"delta": "13.41"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/thank-you",
+				"feature_value": "4",
+				"cluster_win_mean": "17.41",
+				"delta": "13.41"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/thinking/white-papers",
+				"feature_value": "4",
+				"cluster_win_mean": "17.41",
+				"delta": "13.41"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2012/07/page/2",
+				"feature_value": "4",
+				"cluster_win_mean": "17.41",
+				"delta": "13.41"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2012/08/page/2",
+				"feature_value": "4",
+				"cluster_win_mean": "17.41",
+				"delta": "13.41"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2012/10/page/3",
+				"feature_value": "4",
+				"cluster_win_mean": "17.41",
+				"delta": "13.41"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2012/11/page/2",
+				"feature_value": "4",
+				"cluster_win_mean": "17.41",
+				"delta": "13.41"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/predictive-modelling-benefits-e-commerce-sites/#comments",
+				"feature_value": "4",
+				"cluster_win_mean": "17.41",
+				"delta": "13.41"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2013/06",
+				"feature_value": "4",
+				"cluster_win_mean": "17.41",
+				"delta": "13.41"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/to-disavow-or-avow",
+				"feature_value": "4",
+				"cluster_win_mean": "17.41",
+				"delta": "13.41"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/brand-searches-are-the-currency-for-seo",
+				"feature_value": "4",
+				"cluster_win_mean": "17.41",
+				"delta": "13.41"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/pagerank-inheritance-and-lies",
+				"feature_value": "4",
+				"cluster_win_mean": "17.41",
+				"delta": "13.41"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2013/02",
+				"feature_value": "4",
+				"cluster_win_mean": "17.41",
+				"delta": "13.41"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2012/09",
+				"feature_value": "4",
+				"cluster_win_mean": "17.41",
+				"delta": "13.41"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2012/09/page/2",
+				"feature_value": "4",
+				"cluster_win_mean": "17.41",
+				"delta": "13.41"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2012/08",
+				"feature_value": "4",
+				"cluster_win_mean": "17.41",
+				"delta": "13.41"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2012/07",
+				"feature_value": "4",
+				"cluster_win_mean": "17.41",
+				"delta": "13.41"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2012/05",
+				"feature_value": "4",
+				"cluster_win_mean": "17.41",
+				"delta": "13.41"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2012/02",
+				"feature_value": "5",
+				"cluster_win_mean": "17.41",
+				"delta": "12.41"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/blog",
+				"feature_value": "4",
+				"cluster_win_mean": "17.41",
+				"delta": "13.41"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/international",
+				"feature_value": "4",
+				"cluster_win_mean": "17.41",
+				"delta": "13.41"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/privacy-policy",
+				"feature_value": "4",
+				"cluster_win_mean": "17.41",
+				"delta": "13.41"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/site-map/termsandconditions",
+				"feature_value": "4",
+				"cluster_win_mean": "17.41",
+				"delta": "13.41"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/terms-conditions",
 				"feature_value": "4",
 				"cluster_win_mean": "17.41",
 				"delta": "13.41"
@@ -1290,249 +1716,21 @@
 				"delta": "13.41"
 			},
 			{
-				"html_id": "http://www.alchemyviral.com/ideas-for-a-killer-seo-phone-app/#comments",
+				"html_id": "http://www.alchemyviral.com/what-your-penguin-2-0-analysis-is-worth",
 				"feature_value": "4",
 				"cluster_win_mean": "17.41",
 				"delta": "13.41"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/image-is-everything/#comments",
-				"feature_value": "4",
-				"cluster_win_mean": "17.41",
-				"delta": "13.41"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/managing-robotic-price-scrapers-and-other-rogues/#comments",
-				"feature_value": "0",
-				"cluster_win_mean": "11.27",
-				"delta": "11.27"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/buying-pagerank-dont-do-it/#comments",
-				"feature_value": "0",
-				"cluster_win_mean": "11.27",
-				"delta": "11.27"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/the-search-love-triangle-search-engines-users-and-publishers/#comments",
-				"feature_value": "0",
-				"cluster_win_mean": "11.27",
-				"delta": "11.27"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/2013/05",
-				"feature_value": "0",
-				"cluster_win_mean": "11.27",
-				"delta": "11.27"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/penguin-2-0-prompts-questions-about-links/#comments",
-				"feature_value": "0",
-				"cluster_win_mean": "11.27",
-				"delta": "11.27"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/discount-codes-and-vouchers-living-the-blogger-dream/#comments",
-				"feature_value": "0",
-				"cluster_win_mean": "11.27",
-				"delta": "11.27"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/myopic-technology-on-links/#comments",
-				"feature_value": "5",
-				"cluster_win_mean": "17.41",
-				"delta": "12.41"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/thinking/page/2/?",
-				"feature_value": "5",
-				"cluster_win_mean": "17.41",
-				"delta": "12.41"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/2013/05",
-				"feature_value": "4",
-				"cluster_win_mean": "17.41",
-				"delta": "13.41"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/2013/04",
-				"feature_value": "5",
-				"cluster_win_mean": "17.41",
-				"delta": "12.41"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/2012/12",
-				"feature_value": "5",
-				"cluster_win_mean": "17.41",
-				"delta": "12.41"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/2012/11",
-				"feature_value": "4",
-				"cluster_win_mean": "17.41",
-				"delta": "13.41"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/2012/09/page/2",
-				"feature_value": "5",
-				"cluster_win_mean": "17.41",
-				"delta": "12.41"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/2012/06",
-				"feature_value": "5",
-				"cluster_win_mean": "17.41",
-				"delta": "12.41"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/2012/04",
-				"feature_value": "5",
-				"cluster_win_mean": "17.41",
-				"delta": "12.41"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/privacy-policy",
-				"feature_value": "7",
-				"cluster_win_mean": "17.41",
-				"delta": "10.41"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/site-map/termsandconditions",
-				"feature_value": "7",
-				"cluster_win_mean": "17.41",
-				"delta": "10.41"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/terms-conditions",
-				"feature_value": "5",
-				"cluster_win_mean": "17.41",
-				"delta": "12.41"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/thinking/white-papers",
-				"feature_value": "4",
-				"cluster_win_mean": "17.41",
-				"delta": "13.41"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/2012/07/page/2",
-				"feature_value": "5",
-				"cluster_win_mean": "17.41",
-				"delta": "12.41"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/2012/10/page/2",
-				"feature_value": "7",
-				"cluster_win_mean": "17.41",
-				"delta": "10.41"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/2012/10/page/3",
-				"feature_value": "5",
-				"cluster_win_mean": "17.41",
-				"delta": "12.41"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/2012/11/page/2",
-				"feature_value": "5",
-				"cluster_win_mean": "17.41",
-				"delta": "12.41"
 			}
 		],
 		"html5_detected": [
 			{
-				"html_id": "http://www.alchemyviral.com/2012/06/page/2",
-				"feature_value": "0",
-				"cluster_win_mean": "1",
-				"delta": "1"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/2012/05/page/2",
-				"feature_value": "0",
-				"cluster_win_mean": "1",
-				"delta": "1"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/2012/06",
-				"feature_value": "0",
-				"cluster_win_mean": "1",
-				"delta": "1"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/2012/07",
-				"feature_value": "0",
-				"cluster_win_mean": "1",
-				"delta": "1"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/2012/08",
-				"feature_value": "0",
-				"cluster_win_mean": "1",
-				"delta": "1"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/2012/09",
-				"feature_value": "0",
-				"cluster_win_mean": "1",
-				"delta": "1"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/2012/02",
-				"feature_value": "0",
-				"cluster_win_mean": "1",
-				"delta": "1"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/2012/04",
-				"feature_value": "0",
-				"cluster_win_mean": "1",
-				"delta": "1"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/2012/05",
-				"feature_value": "0",
-				"cluster_win_mean": "1",
-				"delta": "1"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/2013/01",
-				"feature_value": "0",
-				"cluster_win_mean": "1",
-				"delta": "1"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/2012/10/page/2",
-				"feature_value": "0",
-				"cluster_win_mean": "1",
-				"delta": "1"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/2012/10/page/3",
-				"feature_value": "0",
-				"cluster_win_mean": "1",
-				"delta": "1"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/thinking/white-papers",
-				"feature_value": "0",
-				"cluster_win_mean": "1",
-				"delta": "1"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/2012/11/page/2",
-				"feature_value": "0",
-				"cluster_win_mean": "1",
-				"delta": "1"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/privacy-policy",
-				"feature_value": "0",
-				"cluster_win_mean": "1",
-				"delta": "1"
-			},
-			{
 				"html_id": "http://www.alchemyviral.com/2012/08/page/2",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/terms-conditions",
 				"feature_value": "0",
 				"cluster_win_mean": "1",
 				"delta": "1"
@@ -1556,13 +1754,79 @@
 				"delta": "1"
 			},
 			{
+				"html_id": "http://www.alchemyviral.com/2013/05",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/penguin-2-0-prompts-questions-about-links/#comments",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/discount-codes-and-vouchers-living-the-blogger-dream/#comments",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
 				"html_id": "http://www.alchemyviral.com/thank-you",
 				"feature_value": "0",
 				"cluster_win_mean": "1",
 				"delta": "1"
 			},
 			{
-				"html_id": "http://www.alchemyviral.com/2012/09/page/2",
+				"html_id": "http://www.alchemyviral.com/2012/06",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2012/07",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2012/08",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2012/09",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2012/02",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2012/04",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2012/05",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/myopic-technology-on-links/#comments",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/thinking/page/2/?",
 				"feature_value": "0",
 				"cluster_win_mean": "1",
 				"delta": "1"
@@ -1592,55 +1856,13 @@
 				"delta": "1"
 			},
 			{
-				"html_id": "http://www.alchemyviral.com/2013/02",
+				"html_id": "http://www.alchemyviral.com/2013/05",
 				"feature_value": "0",
 				"cluster_win_mean": "1",
 				"delta": "1"
 			},
 			{
-				"html_id": "http://www.alchemyviral.com/migrating-websites/#comments",
-				"feature_value": "0",
-				"cluster_win_mean": "1",
-				"delta": "1"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/search-algorithms-are-only-half-the-battle/#comments",
-				"feature_value": "0",
-				"cluster_win_mean": "1",
-				"delta": "1"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/getting-traffic-to-your-website/#comments",
-				"feature_value": "0",
-				"cluster_win_mean": "1",
-				"delta": "1"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/hl-twitter/alchemyviral",
-				"feature_value": "0",
-				"cluster_win_mean": "1",
-				"delta": "1"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/2013/03",
-				"feature_value": "0",
-				"cluster_win_mean": "1",
-				"delta": "1"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/ideas-for-a-killer-seo-phone-app/#comments",
-				"feature_value": "0",
-				"cluster_win_mean": "1",
-				"delta": "1"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/the-world-according-to-matt-cutts-and-duane-forrester/#comments",
-				"feature_value": "0",
-				"cluster_win_mean": "1",
-				"delta": "1"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/content-auditing-for-the-search-journey/#comments",
+				"html_id": "http://www.alchemyviral.com/predictive-modelling-benefits-e-commerce-sites",
 				"feature_value": "0",
 				"cluster_win_mean": "1",
 				"delta": "1"
@@ -1652,43 +1874,247 @@
 				"delta": "1"
 			},
 			{
-				"html_id": "http://www.alchemyviral.com/image-is-everything/#comments",
+				"html_id": "http://www.alchemyviral.com/2013/03",
 				"feature_value": "0",
 				"cluster_win_mean": "1",
 				"delta": "1"
 			},
 			{
-				"html_id": "http://www.alchemyviral.com/managing-robotic-price-scrapers-and-other-rogues/#comments",
+				"html_id": "http://www.alchemyviral.com/2013/02",
 				"feature_value": "0",
 				"cluster_win_mean": "1",
 				"delta": "1"
 			},
 			{
-				"html_id": "http://www.alchemyviral.com/buying-pagerank-dont-do-it/#comments",
+				"html_id": "http://www.alchemyviral.com/2013/01",
 				"feature_value": "0",
 				"cluster_win_mean": "1",
 				"delta": "1"
 			},
 			{
-				"html_id": "http://www.alchemyviral.com/the-search-love-triangle-search-engines-users-and-publishers/#comments",
+				"html_id": "http://www.alchemyviral.com/2012/12",
 				"feature_value": "0",
 				"cluster_win_mean": "1",
 				"delta": "1"
 			},
 			{
-				"html_id": "http://www.alchemyviral.com/2013/05",
+				"html_id": "http://www.alchemyviral.com/2012/11",
 				"feature_value": "0",
 				"cluster_win_mean": "1",
 				"delta": "1"
 			},
 			{
-				"html_id": "http://www.alchemyviral.com/penguin-2-0-prompts-questions-about-links/#comments",
+				"html_id": "http://www.alchemyviral.com/2012/10",
 				"feature_value": "0",
 				"cluster_win_mean": "1",
 				"delta": "1"
 			},
 			{
-				"html_id": "http://www.alchemyviral.com/discount-codes-and-vouchers-living-the-blogger-dream/#comments",
+				"html_id": "http://www.alchemyviral.com/2012/09",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2012/09/page/2",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2012/08",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2012/07",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2012/06",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2012/06/page/2",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2012/05",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2012/05/page/2",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2012/04",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2012/02",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/blog",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/international",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/privacy-policy",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/site-map/termsandconditions",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/terms-conditions",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/thank-you",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/thinking/white-papers",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2012/07/page/2",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2012/08/page/2",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2012/10/page/2",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2012/10/page/3",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2012/11/page/2",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/predictive-modelling-benefits-e-commerce-sites/#comments",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2013/06",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/to-disavow-or-avow",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/brand-searches-are-the-currency-for-seo",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/pagerank-inheritance-and-lies",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2013/02",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2012/09",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2012/09/page/2",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2012/08",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2012/07",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2012/06",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2012/06/page/2",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2012/05",
 				"feature_value": "0",
 				"cluster_win_mean": "1",
 				"delta": "1"
@@ -1696,34 +2122,76 @@
 		],
 		"maximum_length_of_h1": [
 			{
-				"html_id": "http://www.alchemyviral.com/2012/06/page/2",
+				"html_id": "http://www.alchemyviral.com/2012/08/page/2",
 				"feature_value": " 9",
 				"cluster_win_mean": " 70.6",
 				"delta": " 61.6"
 			},
 			{
-				"html_id": "http://www.alchemyviral.com/2012/05/page/2",
+				"html_id": "http://www.alchemyviral.com/terms-conditions",
+				"feature_value": " 8",
+				"cluster_win_mean": " 70.6",
+				"delta": " 62.6"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/international",
+				"feature_value": " 9",
+				"cluster_win_mean": " 70.6",
+				"delta": " 61.6"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/site-map/termsandconditions",
+				"feature_value": " 9",
+				"cluster_win_mean": " 70.6",
+				"delta": " 61.6"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/blog",
+				"feature_value": "11",
+				"cluster_win_mean": " 70.6",
+				"delta": " 59.6"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2013/05",
+				"feature_value": "14",
+				"cluster_win_mean": " 70.6",
+				"delta": " 56.6"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/penguin-2-0-prompts-questions-about-links/#comments",
+				"feature_value": "13",
+				"cluster_win_mean": " 70.6",
+				"delta": " 57.6"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/discount-codes-and-vouchers-living-the-blogger-dream/#comments",
+				"feature_value": "10",
+				"cluster_win_mean": " 70.6",
+				"delta": " 60.6"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/thank-you",
 				"feature_value": " 8",
 				"cluster_win_mean": " 70.6",
 				"delta": " 62.6"
 			},
 			{
 				"html_id": "http://www.alchemyviral.com/2012/06",
-				"feature_value": " 9",
+				"feature_value": "12",
 				"cluster_win_mean": " 70.6",
-				"delta": " 61.6"
+				"delta": " 58.6"
 			},
 			{
 				"html_id": "http://www.alchemyviral.com/2012/07",
-				"feature_value": "11",
+				"feature_value": "12",
 				"cluster_win_mean": " 70.6",
-				"delta": " 59.6"
+				"delta": " 58.6"
 			},
 			{
 				"html_id": "http://www.alchemyviral.com/2012/08",
-				"feature_value": "14",
+				"feature_value": "12",
 				"cluster_win_mean": " 70.6",
-				"delta": " 56.6"
+				"delta": " 58.6"
 			},
 			{
 				"html_id": "http://www.alchemyviral.com/2012/09",
@@ -1733,201 +2201,63 @@
 			},
 			{
 				"html_id": "http://www.alchemyviral.com/2012/02",
-				"feature_value": "10",
-				"cluster_win_mean": " 70.6",
-				"delta": " 60.6"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/2012/04",
-				"feature_value": "12",
-				"cluster_win_mean": " 70.6",
-				"delta": " 58.6"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/2012/05",
-				"feature_value": "12",
-				"cluster_win_mean": " 70.6",
-				"delta": " 58.6"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/2013/01",
-				"feature_value": "12",
-				"cluster_win_mean": " 70.6",
-				"delta": " 58.6"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/2012/10/page/2",
-				"feature_value": "13",
-				"cluster_win_mean": " 70.6",
-				"delta": " 57.6"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/2012/10/page/3",
 				"feature_value": "14",
 				"cluster_win_mean": "92.38",
 				"delta": "78.38"
 			},
 			{
-				"html_id": "http://www.alchemyviral.com/thinking/white-papers",
+				"html_id": "http://www.alchemyviral.com/2012/04",
+				"feature_value": "11",
+				"cluster_win_mean": " 70.6",
+				"delta": " 59.6"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2012/05",
 				"feature_value": "27",
 				"cluster_win_mean": " 70.6",
 				"delta": " 43.6"
 			},
 			{
-				"html_id": "http://www.alchemyviral.com/2012/11/page/2",
+				"html_id": "http://www.alchemyviral.com/myopic-technology-on-links/#comments",
 				"feature_value": "13",
 				"cluster_win_mean": " 70.6",
 				"delta": " 57.6"
 			},
 			{
-				"html_id": "http://www.alchemyviral.com/privacy-policy",
-				"feature_value": "20",
-				"cluster_win_mean": "92.38",
-				"delta": "72.38"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/2012/08/page/2",
+				"html_id": "http://www.alchemyviral.com/thinking/page/2/?",
 				"feature_value": " 4",
 				"cluster_win_mean": " 70.6",
 				"delta": " 66.6"
 			},
 			{
-				"html_id": "http://www.alchemyviral.com/international",
-				"feature_value": "13",
-				"cluster_win_mean": " 70.6",
-				"delta": " 57.6"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/site-map/termsandconditions",
-				"feature_value": "13",
-				"cluster_win_mean": " 70.6",
-				"delta": " 57.6"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/blog",
-				"feature_value": " 0",
-				"cluster_win_mean": "92.38",
-				"delta": "92.38"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/thank-you",
-				"feature_value": " 0",
-				"cluster_win_mean": "92.38",
-				"delta": "92.38"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/2012/09/page/2",
-				"feature_value": " 0",
-				"cluster_win_mean": "92.38",
-				"delta": "92.38"
-			},
-			{
 				"html_id": "http://www.alchemyviral.com/2012/11",
-				"feature_value": " 0",
-				"cluster_win_mean": "92.38",
-				"delta": "92.38"
+				"feature_value": "14",
+				"cluster_win_mean": " 70.6",
+				"delta": " 56.6"
 			},
 			{
 				"html_id": "http://www.alchemyviral.com/2012/12",
-				"feature_value": "10",
+				"feature_value": "12",
 				"cluster_win_mean": " 70.6",
-				"delta": " 60.6"
+				"delta": " 58.6"
 			},
 			{
 				"html_id": "http://www.alchemyviral.com/2012/10",
-				"feature_value": " 0",
-				"cluster_win_mean": "92.38",
-				"delta": "92.38"
+				"feature_value": " 9",
+				"cluster_win_mean": " 70.6",
+				"delta": " 61.6"
 			},
 			{
 				"html_id": "http://www.alchemyviral.com/2012/07/page/2",
-				"feature_value": " 0",
-				"cluster_win_mean": "92.38",
-				"delta": "92.38"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/2013/02",
-				"feature_value": " 0",
-				"cluster_win_mean": "92.38",
-				"delta": "92.38"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/migrating-websites/#comments",
-				"feature_value": "10",
+				"feature_value": "13",
 				"cluster_win_mean": " 70.6",
-				"delta": " 60.6"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/search-algorithms-are-only-half-the-battle/#comments",
-				"feature_value": " 0",
-				"cluster_win_mean": "92.38",
-				"delta": "92.38"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/getting-traffic-to-your-website/#comments",
-				"feature_value": " 0",
-				"cluster_win_mean": "92.38",
-				"delta": "92.38"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/hl-twitter/alchemyviral",
-				"feature_value": " 0",
-				"cluster_win_mean": "92.38",
-				"delta": "92.38"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/2013/03",
-				"feature_value": " 0",
-				"cluster_win_mean": "92.38",
-				"delta": "92.38"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/ideas-for-a-killer-seo-phone-app/#comments",
-				"feature_value": " 8",
-				"cluster_win_mean": " 70.6",
-				"delta": " 62.6"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/the-world-according-to-matt-cutts-and-duane-forrester/#comments",
-				"feature_value": " 0",
-				"cluster_win_mean": "92.38",
-				"delta": "92.38"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/content-auditing-for-the-search-journey/#comments",
-				"feature_value": " 0",
-				"cluster_win_mean": "92.38",
-				"delta": "92.38"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/2013/04",
-				"feature_value": " 0",
-				"cluster_win_mean": "92.38",
-				"delta": "92.38"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/image-is-everything/#comments",
-				"feature_value": " 0",
-				"cluster_win_mean": " 70.6",
-				"delta": " 70.6"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/myopic-technology-on-links/#comments",
-				"feature_value": " 0",
-				"cluster_win_mean": " 70.6",
-				"delta": " 70.6"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/thinking/page/2/?",
-				"feature_value": " 0",
-				"cluster_win_mean": " 70.6",
-				"delta": " 70.6"
+				"delta": " 57.6"
 			},
 			{
 				"html_id": "http://www.alchemyviral.com/2013/05",
 				"feature_value": " 0",
-				"cluster_win_mean": " 70.6",
-				"delta": " 70.6"
+				"cluster_win_mean": "92.38",
+				"delta": "92.38"
 			},
 			{
 				"html_id": "http://www.alchemyviral.com/predictive-modelling-benefits-e-commerce-sites",
@@ -1942,82 +2272,196 @@
 				"delta": " 70.6"
 			},
 			{
-				"html_id": "http://www.alchemyviral.com/2013/03",
-				"feature_value": " 0",
-				"cluster_win_mean": "92.38",
-				"delta": "92.38"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/2013/02",
-				"feature_value": " 0",
-				"cluster_win_mean": "92.38",
-				"delta": "92.38"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/2013/01",
-				"feature_value": " 0",
-				"cluster_win_mean": "92.38",
-				"delta": "92.38"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/2012/12",
-				"feature_value": " 0",
-				"cluster_win_mean": " 70.6",
-				"delta": " 70.6"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/2012/11",
-				"feature_value": " 0",
-				"cluster_win_mean": " 70.6",
-				"delta": " 70.6"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/2012/10",
-				"feature_value": " 0",
-				"cluster_win_mean": "92.38",
-				"delta": "92.38"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/2012/09",
-				"feature_value": " 0",
-				"cluster_win_mean": "92.38",
-				"delta": "92.38"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/2012/09/page/2",
-				"feature_value": " 0",
-				"cluster_win_mean": " 70.6",
-				"delta": " 70.6"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/2012/08",
-				"feature_value": " 0",
-				"cluster_win_mean": "92.38",
-				"delta": "92.38"
-			},
-			{
 				"html_id": "http://www.alchemyviral.com/2012/07",
-				"feature_value": " 0",
-				"cluster_win_mean": "92.38",
-				"delta": "92.38"
+				"feature_value": "13",
+				"cluster_win_mean": " 70.6",
+				"delta": " 57.6"
 			},
 			{
 				"html_id": "http://www.alchemyviral.com/2012/06",
-				"feature_value": " 0",
+				"feature_value": "12",
 				"cluster_win_mean": " 70.6",
-				"delta": " 70.6"
+				"delta": " 58.6"
 			},
 			{
 				"html_id": "http://www.alchemyviral.com/2012/06/page/2",
-				"feature_value": " 0",
-				"cluster_win_mean": "92.38",
-				"delta": "92.38"
+				"feature_value": "13",
+				"cluster_win_mean": " 70.6",
+				"delta": " 57.6"
 			},
 			{
 				"html_id": "http://www.alchemyviral.com/2012/05",
-				"feature_value": " 0",
+				"feature_value": "13",
+				"cluster_win_mean": " 70.6",
+				"delta": " 57.6"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2012/05/page/2",
+				"feature_value": "12",
+				"cluster_win_mean": " 70.6",
+				"delta": " 58.6"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2012/04",
+				"feature_value": "14",
+				"cluster_win_mean": " 70.6",
+				"delta": " 56.6"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2012/02",
+				"feature_value": "14",
+				"cluster_win_mean": " 70.6",
+				"delta": " 56.6"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/blog",
+				"feature_value": " 9",
+				"cluster_win_mean": " 70.6",
+				"delta": " 61.6"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/international",
+				"feature_value": " 9",
+				"cluster_win_mean": " 70.6",
+				"delta": " 61.6"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/privacy-policy",
+				"feature_value": " 9",
+				"cluster_win_mean": " 70.6",
+				"delta": " 61.6"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/site-map/termsandconditions",
+				"feature_value": " 8",
+				"cluster_win_mean": " 70.6",
+				"delta": " 62.6"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/terms-conditions",
+				"feature_value": " 8",
+				"cluster_win_mean": " 70.6",
+				"delta": " 62.6"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/thank-you",
+				"feature_value": "10",
+				"cluster_win_mean": " 70.6",
+				"delta": " 60.6"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/thinking/white-papers",
+				"feature_value": "13",
+				"cluster_win_mean": " 70.6",
+				"delta": " 57.6"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2012/07/page/2",
+				"feature_value": " 4",
+				"cluster_win_mean": " 70.6",
+				"delta": " 66.6"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2012/08/page/2",
+				"feature_value": "13",
+				"cluster_win_mean": " 70.6",
+				"delta": " 57.6"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2012/10/page/2",
+				"feature_value": "14",
 				"cluster_win_mean": "92.38",
-				"delta": "92.38"
+				"delta": "78.38"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2012/10/page/3",
+				"feature_value": "14",
+				"cluster_win_mean": " 70.6",
+				"delta": " 56.6"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2012/11/page/2",
+				"feature_value": "14",
+				"cluster_win_mean": " 70.6",
+				"delta": " 56.6"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/predictive-modelling-benefits-e-commerce-sites/#comments",
+				"feature_value": "11",
+				"cluster_win_mean": " 70.6",
+				"delta": " 59.6"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2013/06",
+				"feature_value": "11",
+				"cluster_win_mean": " 70.6",
+				"delta": " 59.6"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/to-disavow-or-avow",
+				"feature_value": " 9",
+				"cluster_win_mean": " 70.6",
+				"delta": " 61.6"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/brand-searches-are-the-currency-for-seo",
+				"feature_value": " 9",
+				"cluster_win_mean": " 70.6",
+				"delta": " 61.6"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/pagerank-inheritance-and-lies",
+				"feature_value": " 9",
+				"cluster_win_mean": " 70.6",
+				"delta": " 61.6"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2013/02",
+				"feature_value": " 8",
+				"cluster_win_mean": " 70.6",
+				"delta": " 62.6"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2012/09",
+				"feature_value": "10",
+				"cluster_win_mean": " 70.6",
+				"delta": " 60.6"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2012/09/page/2",
+				"feature_value": "13",
+				"cluster_win_mean": " 70.6",
+				"delta": " 57.6"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2012/08",
+				"feature_value": " 4",
+				"cluster_win_mean": " 70.6",
+				"delta": " 66.6"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2012/07",
+				"feature_value": "13",
+				"cluster_win_mean": " 70.6",
+				"delta": " 57.6"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2012/06",
+				"feature_value": "14",
+				"cluster_win_mean": "92.38",
+				"delta": "78.38"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2012/06/page/2",
+				"feature_value": "20",
+				"cluster_win_mean": "92.38",
+				"delta": "72.38"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2012/05",
+				"feature_value": "27",
+				"cluster_win_mean": " 70.6",
+				"delta": " 43.6"
 			},
 			{
 				"html_id": "http://www.alchemyviral.com/2012/05/page/2",
@@ -2028,26 +2472,26 @@
 			{
 				"html_id": "http://www.alchemyviral.com/2012/04",
 				"feature_value": " 0",
-				"cluster_win_mean": " 70.6",
-				"delta": " 70.6"
+				"cluster_win_mean": "92.38",
+				"delta": "92.38"
 			},
 			{
 				"html_id": "http://www.alchemyviral.com/2012/02",
 				"feature_value": " 0",
-				"cluster_win_mean": "92.38",
-				"delta": "92.38"
+				"cluster_win_mean": " 70.6",
+				"delta": " 70.6"
 			},
 			{
 				"html_id": "http://www.alchemyviral.com/blog",
 				"feature_value": " 0",
-				"cluster_win_mean": "92.38",
-				"delta": "92.38"
+				"cluster_win_mean": " 70.6",
+				"delta": " 70.6"
 			},
 			{
 				"html_id": "http://www.alchemyviral.com/international",
 				"feature_value": " 0",
-				"cluster_win_mean": "92.38",
-				"delta": "92.38"
+				"cluster_win_mean": " 70.6",
+				"delta": " 70.6"
 			},
 			{
 				"html_id": "http://www.alchemyviral.com/privacy-policy",
@@ -2068,55 +2512,19 @@
 				"delta": " 70.6"
 			},
 			{
-				"html_id": "http://www.alchemyviral.com/thank-you",
-				"feature_value": " 0",
-				"cluster_win_mean": "92.38",
-				"delta": "92.38"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/thinking/white-papers",
+				"html_id": "http://www.alchemyviral.com/migrating-websites/#comments",
 				"feature_value": " 0",
 				"cluster_win_mean": " 70.6",
 				"delta": " 70.6"
 			},
 			{
-				"html_id": "http://www.alchemyviral.com/2012/07/page/2",
+				"html_id": "http://www.alchemyviral.com/what-your-penguin-2-0-analysis-is-worth",
 				"feature_value": " 0",
 				"cluster_win_mean": " 70.6",
 				"delta": " 70.6"
 			},
 			{
-				"html_id": "http://www.alchemyviral.com/2012/08/page/2",
-				"feature_value": " 0",
-				"cluster_win_mean": "92.38",
-				"delta": "92.38"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/2012/10/page/2",
-				"feature_value": " 0",
-				"cluster_win_mean": " 70.6",
-				"delta": " 70.6"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/2012/10/page/3",
-				"feature_value": " 0",
-				"cluster_win_mean": " 70.6",
-				"delta": " 70.6"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/2012/11/page/2",
-				"feature_value": " 0",
-				"cluster_win_mean": " 70.6",
-				"delta": " 70.6"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/predictive-modelling-benefits-e-commerce-sites/#comments",
-				"feature_value": " 0",
-				"cluster_win_mean": "92.38",
-				"delta": "92.38"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/2013/06",
+				"html_id": "http://www.alchemyviral.com/sopr-winning-seo-in-2013-and-beyond",
 				"feature_value": " 0",
 				"cluster_win_mean": "92.38",
 				"delta": "92.38"
@@ -2124,37 +2532,55 @@
 		],
 		"ratio_of_rare_words_to_total": [
 			{
-				"html_id": "http://www.alchemyviral.com/managing-robotic-price-scrapers-and-other-rogues/#comments",
+				"html_id": "http://www.alchemyviral.com/2013/03",
 				"feature_value": "0",
 				"cluster_win_mean": "0.23",
 				"delta": "0.23"
 			},
 			{
-				"html_id": "http://www.alchemyviral.com/buying-pagerank-dont-do-it/#comments",
+				"html_id": "http://www.alchemyviral.com/2013/02",
 				"feature_value": "0",
 				"cluster_win_mean": "0.23",
 				"delta": "0.23"
 			},
 			{
-				"html_id": "http://www.alchemyviral.com/the-search-love-triangle-search-engines-users-and-publishers/#comments",
+				"html_id": "http://www.alchemyviral.com/2013/01",
 				"feature_value": "0",
 				"cluster_win_mean": "0.23",
 				"delta": "0.23"
 			},
 			{
-				"html_id": "http://www.alchemyviral.com/2013/05",
+				"html_id": "http://www.alchemyviral.com/2012/12",
 				"feature_value": "0",
 				"cluster_win_mean": "0.23",
 				"delta": "0.23"
 			},
 			{
-				"html_id": "http://www.alchemyviral.com/penguin-2-0-prompts-questions-about-links/#comments",
+				"html_id": "http://www.alchemyviral.com/2012/11",
 				"feature_value": "0",
 				"cluster_win_mean": "0.23",
 				"delta": "0.23"
 			},
 			{
-				"html_id": "http://www.alchemyviral.com/discount-codes-and-vouchers-living-the-blogger-dream/#comments",
+				"html_id": "http://www.alchemyviral.com/2012/10",
+				"feature_value": "0",
+				"cluster_win_mean": "0.23",
+				"delta": "0.23"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2012/09",
+				"feature_value": "0",
+				"cluster_win_mean": "0.23",
+				"delta": "0.23"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2012/09/page/2",
+				"feature_value": "0",
+				"cluster_win_mean": "0.23",
+				"delta": "0.23"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2012/08",
 				"feature_value": "0",
 				"cluster_win_mean": "0.23",
 				"delta": "0.23"
@@ -2162,97 +2588,13 @@
 		],
 		"average_length_of_h1": [
 			{
-				"html_id": "http://www.alchemyviral.com/2012/10/page/3",
+				"html_id": "http://www.alchemyviral.com/2012/02",
 				"feature_value": "14",
 				"cluster_win_mean": "46.69",
 				"delta": "32.69"
 			},
 			{
-				"html_id": "http://www.alchemyviral.com/privacy-policy",
-				"feature_value": "20",
-				"cluster_win_mean": "46.69",
-				"delta": "26.69"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/blog",
-				"feature_value": " 0",
-				"cluster_win_mean": "46.69",
-				"delta": "46.69"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/thank-you",
-				"feature_value": " 0",
-				"cluster_win_mean": "46.69",
-				"delta": "46.69"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/2012/09/page/2",
-				"feature_value": " 0",
-				"cluster_win_mean": "46.69",
-				"delta": "46.69"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/2012/11",
-				"feature_value": " 0",
-				"cluster_win_mean": "46.69",
-				"delta": "46.69"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/2012/10",
-				"feature_value": " 0",
-				"cluster_win_mean": "46.69",
-				"delta": "46.69"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/2012/07/page/2",
-				"feature_value": " 0",
-				"cluster_win_mean": "46.69",
-				"delta": "46.69"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/2013/02",
-				"feature_value": " 0",
-				"cluster_win_mean": "46.69",
-				"delta": "46.69"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/search-algorithms-are-only-half-the-battle/#comments",
-				"feature_value": " 0",
-				"cluster_win_mean": "46.69",
-				"delta": "46.69"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/getting-traffic-to-your-website/#comments",
-				"feature_value": " 0",
-				"cluster_win_mean": "46.69",
-				"delta": "46.69"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/hl-twitter/alchemyviral",
-				"feature_value": " 0",
-				"cluster_win_mean": "46.69",
-				"delta": "46.69"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/2013/03",
-				"feature_value": " 0",
-				"cluster_win_mean": "46.69",
-				"delta": "46.69"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/the-world-according-to-matt-cutts-and-duane-forrester/#comments",
-				"feature_value": " 0",
-				"cluster_win_mean": "46.69",
-				"delta": "46.69"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/content-auditing-for-the-search-journey/#comments",
-				"feature_value": " 0",
-				"cluster_win_mean": "46.69",
-				"delta": "46.69"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/2013/04",
+				"html_id": "http://www.alchemyviral.com/2013/05",
 				"feature_value": " 0",
 				"cluster_win_mean": "46.69",
 				"delta": "46.69"
@@ -2264,58 +2606,22 @@
 				"delta": "46.69"
 			},
 			{
-				"html_id": "http://www.alchemyviral.com/2013/03",
-				"feature_value": " 0",
+				"html_id": "http://www.alchemyviral.com/2012/10/page/2",
+				"feature_value": "14",
 				"cluster_win_mean": "46.69",
-				"delta": "46.69"
+				"delta": "32.69"
 			},
 			{
-				"html_id": "http://www.alchemyviral.com/2013/02",
-				"feature_value": " 0",
+				"html_id": "http://www.alchemyviral.com/2012/06",
+				"feature_value": "14",
 				"cluster_win_mean": "46.69",
-				"delta": "46.69"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/2013/01",
-				"feature_value": " 0",
-				"cluster_win_mean": "46.69",
-				"delta": "46.69"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/2012/10",
-				"feature_value": " 0",
-				"cluster_win_mean": "46.69",
-				"delta": "46.69"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/2012/09",
-				"feature_value": " 0",
-				"cluster_win_mean": "46.69",
-				"delta": "46.69"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/2012/08",
-				"feature_value": " 0",
-				"cluster_win_mean": "46.69",
-				"delta": "46.69"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/2012/07",
-				"feature_value": " 0",
-				"cluster_win_mean": "46.69",
-				"delta": "46.69"
+				"delta": "32.69"
 			},
 			{
 				"html_id": "http://www.alchemyviral.com/2012/06/page/2",
-				"feature_value": " 0",
+				"feature_value": "20",
 				"cluster_win_mean": "46.69",
-				"delta": "46.69"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/2012/05",
-				"feature_value": " 0",
-				"cluster_win_mean": "46.69",
-				"delta": "46.69"
+				"delta": "26.69"
 			},
 			{
 				"html_id": "http://www.alchemyviral.com/2012/05/page/2",
@@ -2324,43 +2630,13 @@
 				"delta": "46.69"
 			},
 			{
-				"html_id": "http://www.alchemyviral.com/2012/02",
+				"html_id": "http://www.alchemyviral.com/2012/04",
 				"feature_value": " 0",
 				"cluster_win_mean": "46.69",
 				"delta": "46.69"
 			},
 			{
-				"html_id": "http://www.alchemyviral.com/blog",
-				"feature_value": " 0",
-				"cluster_win_mean": "46.69",
-				"delta": "46.69"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/international",
-				"feature_value": " 0",
-				"cluster_win_mean": "46.69",
-				"delta": "46.69"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/thank-you",
-				"feature_value": " 0",
-				"cluster_win_mean": "46.69",
-				"delta": "46.69"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/2012/08/page/2",
-				"feature_value": " 0",
-				"cluster_win_mean": "46.69",
-				"delta": "46.69"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/predictive-modelling-benefits-e-commerce-sites/#comments",
-				"feature_value": " 0",
-				"cluster_win_mean": "46.69",
-				"delta": "46.69"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/2013/06",
+				"html_id": "http://www.alchemyviral.com/sopr-winning-seo-in-2013-and-beyond",
 				"feature_value": " 0",
 				"cluster_win_mean": "46.69",
 				"delta": "46.69"
@@ -2368,13 +2644,55 @@
 		],
 		"number_of_embedded_styles": [
 			{
-				"html_id": "http://www.alchemyviral.com/2012/06/page/2",
+				"html_id": "http://www.alchemyviral.com/2012/08/page/2",
 				"feature_value": "0",
 				"cluster_win_mean": "2.9",
 				"delta": "2.9"
 			},
 			{
-				"html_id": "http://www.alchemyviral.com/2012/05/page/2",
+				"html_id": "http://www.alchemyviral.com/terms-conditions",
+				"feature_value": "0",
+				"cluster_win_mean": "2.9",
+				"delta": "2.9"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/international",
+				"feature_value": "0",
+				"cluster_win_mean": "2.9",
+				"delta": "2.9"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/site-map/termsandconditions",
+				"feature_value": "0",
+				"cluster_win_mean": "2.9",
+				"delta": "2.9"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/blog",
+				"feature_value": "0",
+				"cluster_win_mean": "2.9",
+				"delta": "2.9"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2013/05",
+				"feature_value": "0",
+				"cluster_win_mean": "2.9",
+				"delta": "2.9"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/penguin-2-0-prompts-questions-about-links/#comments",
+				"feature_value": "0",
+				"cluster_win_mean": "2.9",
+				"delta": "2.9"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/discount-codes-and-vouchers-living-the-blogger-dream/#comments",
+				"feature_value": "0",
+				"cluster_win_mean": "2.9",
+				"delta": "2.9"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/thank-you",
 				"feature_value": "0",
 				"cluster_win_mean": "2.9",
 				"delta": "2.9"
@@ -2404,12 +2722,6 @@
 				"delta": "2.9"
 			},
 			{
-				"html_id": "http://www.alchemyviral.com/2012/02",
-				"feature_value": "0",
-				"cluster_win_mean": "2.9",
-				"delta": "2.9"
-			},
-			{
 				"html_id": "http://www.alchemyviral.com/2012/04",
 				"feature_value": "0",
 				"cluster_win_mean": "2.9",
@@ -2422,31 +2734,91 @@
 				"delta": "2.9"
 			},
 			{
-				"html_id": "http://www.alchemyviral.com/2013/01",
+				"html_id": "http://www.alchemyviral.com/myopic-technology-on-links/#comments",
 				"feature_value": "0",
 				"cluster_win_mean": "2.9",
 				"delta": "2.9"
 			},
 			{
-				"html_id": "http://www.alchemyviral.com/2012/10/page/2",
+				"html_id": "http://www.alchemyviral.com/thinking/page/2/?",
 				"feature_value": "0",
 				"cluster_win_mean": "2.9",
 				"delta": "2.9"
 			},
 			{
-				"html_id": "http://www.alchemyviral.com/thinking/white-papers",
+				"html_id": "http://www.alchemyviral.com/2012/11",
 				"feature_value": "0",
 				"cluster_win_mean": "2.9",
 				"delta": "2.9"
 			},
 			{
-				"html_id": "http://www.alchemyviral.com/2012/11/page/2",
+				"html_id": "http://www.alchemyviral.com/2012/12",
 				"feature_value": "0",
 				"cluster_win_mean": "2.9",
 				"delta": "2.9"
 			},
 			{
-				"html_id": "http://www.alchemyviral.com/2012/08/page/2",
+				"html_id": "http://www.alchemyviral.com/2012/10",
+				"feature_value": "0",
+				"cluster_win_mean": "2.9",
+				"delta": "2.9"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2012/07/page/2",
+				"feature_value": "0",
+				"cluster_win_mean": "2.9",
+				"delta": "2.9"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2013/04",
+				"feature_value": "0",
+				"cluster_win_mean": "2.9",
+				"delta": "2.9"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2012/07",
+				"feature_value": "0",
+				"cluster_win_mean": "2.9",
+				"delta": "2.9"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2012/06",
+				"feature_value": "0",
+				"cluster_win_mean": "2.9",
+				"delta": "2.9"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2012/06/page/2",
+				"feature_value": "0",
+				"cluster_win_mean": "2.9",
+				"delta": "2.9"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2012/05",
+				"feature_value": "0",
+				"cluster_win_mean": "2.9",
+				"delta": "2.9"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2012/05/page/2",
+				"feature_value": "0",
+				"cluster_win_mean": "2.9",
+				"delta": "2.9"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2012/04",
+				"feature_value": "0",
+				"cluster_win_mean": "2.9",
+				"delta": "2.9"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2012/02",
+				"feature_value": "0",
+				"cluster_win_mean": "2.9",
+				"delta": "2.9"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/blog",
 				"feature_value": "0",
 				"cluster_win_mean": "2.9",
 				"delta": "2.9"
@@ -2458,85 +2830,139 @@
 				"delta": "2.9"
 			},
 			{
+				"html_id": "http://www.alchemyviral.com/privacy-policy",
+				"feature_value": "0",
+				"cluster_win_mean": "2.9",
+				"delta": "2.9"
+			},
+			{
 				"html_id": "http://www.alchemyviral.com/site-map/termsandconditions",
 				"feature_value": "0",
 				"cluster_win_mean": "2.9",
 				"delta": "2.9"
 			},
 			{
-				"html_id": "http://www.alchemyviral.com/2012/12",
+				"html_id": "http://www.alchemyviral.com/terms-conditions",
 				"feature_value": "0",
 				"cluster_win_mean": "2.9",
 				"delta": "2.9"
 			},
 			{
-				"html_id": "http://www.alchemyviral.com/migrating-websites/#comments",
+				"html_id": "http://www.alchemyviral.com/thank-you",
 				"feature_value": "0",
 				"cluster_win_mean": "2.9",
 				"delta": "2.9"
 			},
 			{
-				"html_id": "http://www.alchemyviral.com/ideas-for-a-killer-seo-phone-app/#comments",
+				"html_id": "http://www.alchemyviral.com/thinking/white-papers",
 				"feature_value": "0",
 				"cluster_win_mean": "2.9",
 				"delta": "2.9"
 			},
 			{
-				"html_id": "http://www.alchemyviral.com/image-is-everything/#comments",
+				"html_id": "http://www.alchemyviral.com/2012/07/page/2",
 				"feature_value": "0",
 				"cluster_win_mean": "2.9",
 				"delta": "2.9"
 			},
 			{
-				"html_id": "http://www.alchemyviral.com/myopic-technology-on-links/#comments",
-				"feature_value": "2",
+				"html_id": "http://www.alchemyviral.com/2012/08/page/2",
+				"feature_value": "0",
 				"cluster_win_mean": "2.9",
-				"delta": "0.9"
+				"delta": "2.9"
 			},
 			{
-				"html_id": "http://www.alchemyviral.com/thinking/page/2/?",
-				"feature_value": "2",
+				"html_id": "http://www.alchemyviral.com/2012/10/page/3",
+				"feature_value": "0",
 				"cluster_win_mean": "2.9",
-				"delta": "0.9"
+				"delta": "2.9"
 			},
 			{
-				"html_id": "http://www.alchemyviral.com/2013/05",
-				"feature_value": "2",
+				"html_id": "http://www.alchemyviral.com/2012/11/page/2",
+				"feature_value": "0",
 				"cluster_win_mean": "2.9",
-				"delta": "0.9"
+				"delta": "2.9"
 			},
 			{
-				"html_id": "http://www.alchemyviral.com/2013/04",
-				"feature_value": "2",
+				"html_id": "http://www.alchemyviral.com/predictive-modelling-benefits-e-commerce-sites/#comments",
+				"feature_value": "0",
 				"cluster_win_mean": "2.9",
-				"delta": "0.9"
+				"delta": "2.9"
 			},
 			{
-				"html_id": "http://www.alchemyviral.com/2012/12",
-				"feature_value": "2",
+				"html_id": "http://www.alchemyviral.com/2013/06",
+				"feature_value": "0",
 				"cluster_win_mean": "2.9",
-				"delta": "0.9"
+				"delta": "2.9"
 			},
 			{
-				"html_id": "http://www.alchemyviral.com/2012/11",
-				"feature_value": "2",
+				"html_id": "http://www.alchemyviral.com/to-disavow-or-avow",
+				"feature_value": "0",
 				"cluster_win_mean": "2.9",
-				"delta": "0.9"
+				"delta": "2.9"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/brand-searches-are-the-currency-for-seo",
+				"feature_value": "0",
+				"cluster_win_mean": "2.9",
+				"delta": "2.9"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/pagerank-inheritance-and-lies",
+				"feature_value": "0",
+				"cluster_win_mean": "2.9",
+				"delta": "2.9"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2013/02",
+				"feature_value": "0",
+				"cluster_win_mean": "2.9",
+				"delta": "2.9"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2012/09",
+				"feature_value": "0",
+				"cluster_win_mean": "2.9",
+				"delta": "2.9"
 			},
 			{
 				"html_id": "http://www.alchemyviral.com/2012/09/page/2",
+				"feature_value": "0",
+				"cluster_win_mean": "2.9",
+				"delta": "2.9"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2012/08",
+				"feature_value": "0",
+				"cluster_win_mean": "2.9",
+				"delta": "2.9"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2012/07",
+				"feature_value": "0",
+				"cluster_win_mean": "2.9",
+				"delta": "2.9"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2012/05",
+				"feature_value": "0",
+				"cluster_win_mean": "2.9",
+				"delta": "2.9"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2012/02",
 				"feature_value": "2",
 				"cluster_win_mean": "2.9",
 				"delta": "0.9"
 			},
 			{
-				"html_id": "http://www.alchemyviral.com/2012/06",
+				"html_id": "http://www.alchemyviral.com/blog",
 				"feature_value": "2",
 				"cluster_win_mean": "2.9",
 				"delta": "0.9"
 			},
 			{
-				"html_id": "http://www.alchemyviral.com/2012/04",
+				"html_id": "http://www.alchemyviral.com/international",
 				"feature_value": "2",
 				"cluster_win_mean": "2.9",
 				"delta": "0.9"
@@ -2560,31 +2986,13 @@
 				"delta": "0.9"
 			},
 			{
-				"html_id": "http://www.alchemyviral.com/thinking/white-papers",
+				"html_id": "http://www.alchemyviral.com/migrating-websites/#comments",
 				"feature_value": "2",
 				"cluster_win_mean": "2.9",
 				"delta": "0.9"
 			},
 			{
-				"html_id": "http://www.alchemyviral.com/2012/07/page/2",
-				"feature_value": "2",
-				"cluster_win_mean": "2.9",
-				"delta": "0.9"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/2012/10/page/2",
-				"feature_value": "2",
-				"cluster_win_mean": "2.9",
-				"delta": "0.9"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/2012/10/page/3",
-				"feature_value": "2",
-				"cluster_win_mean": "2.9",
-				"delta": "0.9"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/2012/11/page/2",
+				"html_id": "http://www.alchemyviral.com/what-your-penguin-2-0-analysis-is-worth",
 				"feature_value": "2",
 				"cluster_win_mean": "2.9",
 				"delta": "0.9"
@@ -2592,97 +3000,13 @@
 		],
 		"number_of_iframes": [
 			{
-				"html_id": "http://www.alchemyviral.com/2012/10/page/3",
+				"html_id": "http://www.alchemyviral.com/2012/02",
 				"feature_value": "0",
 				"cluster_win_mean": "1",
 				"delta": "1"
 			},
 			{
-				"html_id": "http://www.alchemyviral.com/privacy-policy",
-				"feature_value": "0",
-				"cluster_win_mean": "1",
-				"delta": "1"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/blog",
-				"feature_value": "0",
-				"cluster_win_mean": "1",
-				"delta": "1"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/thank-you",
-				"feature_value": "0",
-				"cluster_win_mean": "1",
-				"delta": "1"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/2012/09/page/2",
-				"feature_value": "0",
-				"cluster_win_mean": "1",
-				"delta": "1"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/2012/11",
-				"feature_value": "0",
-				"cluster_win_mean": "1",
-				"delta": "1"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/2012/10",
-				"feature_value": "0",
-				"cluster_win_mean": "1",
-				"delta": "1"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/2012/07/page/2",
-				"feature_value": "0",
-				"cluster_win_mean": "1",
-				"delta": "1"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/2013/02",
-				"feature_value": "0",
-				"cluster_win_mean": "1",
-				"delta": "1"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/search-algorithms-are-only-half-the-battle/#comments",
-				"feature_value": "0",
-				"cluster_win_mean": "1",
-				"delta": "1"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/getting-traffic-to-your-website/#comments",
-				"feature_value": "0",
-				"cluster_win_mean": "1",
-				"delta": "1"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/hl-twitter/alchemyviral",
-				"feature_value": "0",
-				"cluster_win_mean": "1",
-				"delta": "1"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/2013/03",
-				"feature_value": "0",
-				"cluster_win_mean": "1",
-				"delta": "1"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/the-world-according-to-matt-cutts-and-duane-forrester/#comments",
-				"feature_value": "0",
-				"cluster_win_mean": "1",
-				"delta": "1"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/content-auditing-for-the-search-journey/#comments",
-				"feature_value": "0",
-				"cluster_win_mean": "1",
-				"delta": "1"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/2013/04",
+				"html_id": "http://www.alchemyviral.com/2013/05",
 				"feature_value": "0",
 				"cluster_win_mean": "1",
 				"delta": "1"
@@ -2694,37 +3018,13 @@
 				"delta": "1"
 			},
 			{
-				"html_id": "http://www.alchemyviral.com/2013/03",
+				"html_id": "http://www.alchemyviral.com/2012/10/page/2",
 				"feature_value": "0",
 				"cluster_win_mean": "1",
 				"delta": "1"
 			},
 			{
-				"html_id": "http://www.alchemyviral.com/2013/02",
-				"feature_value": "0",
-				"cluster_win_mean": "1",
-				"delta": "1"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/2013/01",
-				"feature_value": "0",
-				"cluster_win_mean": "1",
-				"delta": "1"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/2012/10",
-				"feature_value": "0",
-				"cluster_win_mean": "1",
-				"delta": "1"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/2012/09",
-				"feature_value": "0",
-				"cluster_win_mean": "1",
-				"delta": "1"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/2012/08",
+				"html_id": "http://www.alchemyviral.com/2012/06",
 				"feature_value": "0",
 				"cluster_win_mean": "1",
 				"delta": "1"
@@ -2736,55 +3036,19 @@
 				"delta": "1"
 			},
 			{
-				"html_id": "http://www.alchemyviral.com/2012/05",
-				"feature_value": "0",
-				"cluster_win_mean": "1",
-				"delta": "1"
-			},
-			{
 				"html_id": "http://www.alchemyviral.com/2012/05/page/2",
 				"feature_value": "0",
 				"cluster_win_mean": "1",
 				"delta": "1"
 			},
 			{
-				"html_id": "http://www.alchemyviral.com/2012/02",
+				"html_id": "http://www.alchemyviral.com/2012/04",
 				"feature_value": "0",
 				"cluster_win_mean": "1",
 				"delta": "1"
 			},
 			{
-				"html_id": "http://www.alchemyviral.com/blog",
-				"feature_value": "0",
-				"cluster_win_mean": "1",
-				"delta": "1"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/international",
-				"feature_value": "0",
-				"cluster_win_mean": "1",
-				"delta": "1"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/thank-you",
-				"feature_value": "0",
-				"cluster_win_mean": "1",
-				"delta": "1"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/2012/08/page/2",
-				"feature_value": "0",
-				"cluster_win_mean": "1",
-				"delta": "1"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/predictive-modelling-benefits-e-commerce-sites/#comments",
-				"feature_value": "0",
-				"cluster_win_mean": "1",
-				"delta": "1"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/2013/06",
+				"html_id": "http://www.alchemyviral.com/sopr-winning-seo-in-2013-and-beyond",
 				"feature_value": "0",
 				"cluster_win_mean": "1",
 				"delta": "1"
@@ -2792,115 +3056,19 @@
 		],
 		"number_of_external_css_styles": [
 			{
-				"html_id": "http://www.alchemyviral.com/2013/04",
-				"feature_value": "0",
-				"cluster_win_mean": "7.49",
-				"delta": "7.49"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/predictive-modelling-benefits-e-commerce-sites",
-				"feature_value": "4",
-				"cluster_win_mean": "7.49",
-				"delta": "3.49"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/2013/03",
-				"feature_value": "4",
-				"cluster_win_mean": "7.49",
-				"delta": "3.49"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/2013/02",
-				"feature_value": "4",
-				"cluster_win_mean": "7.49",
-				"delta": "3.49"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/2013/01",
-				"feature_value": "4",
-				"cluster_win_mean": "7.49",
-				"delta": "3.49"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/2012/10",
-				"feature_value": "4",
-				"cluster_win_mean": "7.49",
-				"delta": "3.49"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/2012/09",
-				"feature_value": "4",
-				"cluster_win_mean": "7.49",
-				"delta": "3.49"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/2012/08",
-				"feature_value": "4",
-				"cluster_win_mean": "7.49",
-				"delta": "3.49"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/2012/07",
-				"feature_value": "4",
-				"cluster_win_mean": "7.49",
-				"delta": "3.49"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/2012/06/page/2",
-				"feature_value": "4",
-				"cluster_win_mean": "7.49",
-				"delta": "3.49"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/2012/05",
-				"feature_value": "4",
-				"cluster_win_mean": "7.49",
-				"delta": "3.49"
-			},
-			{
 				"html_id": "http://www.alchemyviral.com/2012/05/page/2",
 				"feature_value": "4",
 				"cluster_win_mean": "7.49",
 				"delta": "3.49"
 			},
 			{
-				"html_id": "http://www.alchemyviral.com/2012/02",
+				"html_id": "http://www.alchemyviral.com/2012/04",
 				"feature_value": "4",
 				"cluster_win_mean": "7.49",
 				"delta": "3.49"
 			},
 			{
-				"html_id": "http://www.alchemyviral.com/blog",
-				"feature_value": "4",
-				"cluster_win_mean": "7.49",
-				"delta": "3.49"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/international",
-				"feature_value": "4",
-				"cluster_win_mean": "7.49",
-				"delta": "3.49"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/thank-you",
-				"feature_value": "4",
-				"cluster_win_mean": "7.49",
-				"delta": "3.49"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/2012/08/page/2",
-				"feature_value": "4",
-				"cluster_win_mean": "7.49",
-				"delta": "3.49"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/predictive-modelling-benefits-e-commerce-sites/#comments",
-				"feature_value": "4",
-				"cluster_win_mean": "7.49",
-				"delta": "3.49"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/2013/06",
+				"html_id": "http://www.alchemyviral.com/sopr-winning-seo-in-2013-and-beyond",
 				"feature_value": "4",
 				"cluster_win_mean": "7.49",
 				"delta": "3.49"
@@ -2908,13 +3076,55 @@
 		],
 		"maximum_length_of_h2": [
 			{
-				"html_id": "http://www.alchemyviral.com/2012/06/page/2",
+				"html_id": "http://www.alchemyviral.com/2012/08/page/2",
 				"feature_value": " 0",
 				"cluster_win_mean": "71.79",
 				"delta": "71.79"
 			},
 			{
-				"html_id": "http://www.alchemyviral.com/2012/05/page/2",
+				"html_id": "http://www.alchemyviral.com/terms-conditions",
+				"feature_value": " 0",
+				"cluster_win_mean": "71.79",
+				"delta": "71.79"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/international",
+				"feature_value": " 0",
+				"cluster_win_mean": "71.79",
+				"delta": "71.79"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/site-map/termsandconditions",
+				"feature_value": " 0",
+				"cluster_win_mean": "71.79",
+				"delta": "71.79"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/blog",
+				"feature_value": " 0",
+				"cluster_win_mean": "71.79",
+				"delta": "71.79"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2013/05",
+				"feature_value": " 0",
+				"cluster_win_mean": "71.79",
+				"delta": "71.79"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/penguin-2-0-prompts-questions-about-links/#comments",
+				"feature_value": " 0",
+				"cluster_win_mean": "71.79",
+				"delta": "71.79"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/discount-codes-and-vouchers-living-the-blogger-dream/#comments",
+				"feature_value": " 0",
+				"cluster_win_mean": "71.79",
+				"delta": "71.79"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/thank-you",
 				"feature_value": " 0",
 				"cluster_win_mean": "71.79",
 				"delta": "71.79"
@@ -2946,8 +3156,8 @@
 			{
 				"html_id": "http://www.alchemyviral.com/2012/02",
 				"feature_value": " 0",
-				"cluster_win_mean": "71.79",
-				"delta": "71.79"
+				"cluster_win_mean": "43.68",
+				"delta": "43.68"
 			},
 			{
 				"html_id": "http://www.alchemyviral.com/2012/04",
@@ -2957,201 +3167,9 @@
 			},
 			{
 				"html_id": "http://www.alchemyviral.com/2012/05",
-				"feature_value": " 0",
-				"cluster_win_mean": "71.79",
-				"delta": "71.79"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/2013/01",
-				"feature_value": " 0",
-				"cluster_win_mean": "71.79",
-				"delta": "71.79"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/2012/10/page/2",
-				"feature_value": " 0",
-				"cluster_win_mean": "71.79",
-				"delta": "71.79"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/2012/10/page/3",
-				"feature_value": " 0",
-				"cluster_win_mean": "43.68",
-				"delta": "43.68"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/thinking/white-papers",
 				"feature_value": "27",
 				"cluster_win_mean": "71.79",
 				"delta": "44.79"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/2012/11/page/2",
-				"feature_value": " 0",
-				"cluster_win_mean": "71.79",
-				"delta": "71.79"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/privacy-policy",
-				"feature_value": " 0",
-				"cluster_win_mean": "43.68",
-				"delta": "43.68"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/2012/08/page/2",
-				"feature_value": " 0",
-				"cluster_win_mean": "71.79",
-				"delta": "71.79"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/terms-conditions",
-				"feature_value": " 0",
-				"cluster_win_mean": "52.07",
-				"delta": "52.07"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/international",
-				"feature_value": " 0",
-				"cluster_win_mean": "71.79",
-				"delta": "71.79"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/site-map/termsandconditions",
-				"feature_value": " 0",
-				"cluster_win_mean": "71.79",
-				"delta": "71.79"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/thank-you",
-				"feature_value": "19",
-				"cluster_win_mean": "43.68",
-				"delta": "24.68"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/2012/09/page/2",
-				"feature_value": "28",
-				"cluster_win_mean": "43.68",
-				"delta": "15.68"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/2012/12",
-				"feature_value": " 0",
-				"cluster_win_mean": "71.79",
-				"delta": "71.79"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/2012/10",
-				"feature_value": "22",
-				"cluster_win_mean": "43.68",
-				"delta": "21.68"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/2012/07/page/2",
-				"feature_value": "14",
-				"cluster_win_mean": "43.68",
-				"delta": "29.68"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/2013/02",
-				"feature_value": " 0",
-				"cluster_win_mean": "43.68",
-				"delta": "43.68"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/migrating-websites/#comments",
-				"feature_value": " 0",
-				"cluster_win_mean": "71.79",
-				"delta": "71.79"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/search-algorithms-are-only-half-the-battle/#comments",
-				"feature_value": "24",
-				"cluster_win_mean": "43.68",
-				"delta": "19.68"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/getting-traffic-to-your-website/#comments",
-				"feature_value": "21",
-				"cluster_win_mean": "43.68",
-				"delta": "22.68"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/hl-twitter/alchemyviral",
-				"feature_value": " 0",
-				"cluster_win_mean": "43.68",
-				"delta": "43.68"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/2013/03",
-				"feature_value": "33",
-				"cluster_win_mean": "43.68",
-				"delta": "10.68"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/ideas-for-a-killer-seo-phone-app/#comments",
-				"feature_value": " 0",
-				"cluster_win_mean": "71.79",
-				"delta": "71.79"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/the-world-according-to-matt-cutts-and-duane-forrester/#comments",
-				"feature_value": " 0",
-				"cluster_win_mean": "43.68",
-				"delta": "43.68"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/content-auditing-for-the-search-journey/#comments",
-				"feature_value": " 0",
-				"cluster_win_mean": "43.68",
-				"delta": "43.68"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/2013/04",
-				"feature_value": " 0",
-				"cluster_win_mean": "43.68",
-				"delta": "43.68"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/image-is-everything/#comments",
-				"feature_value": " 0",
-				"cluster_win_mean": "71.79",
-				"delta": "71.79"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/managing-robotic-price-scrapers-and-other-rogues/#comments",
-				"feature_value": " 0",
-				"cluster_win_mean": "52.07",
-				"delta": "52.07"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/buying-pagerank-dont-do-it/#comments",
-				"feature_value": " 0",
-				"cluster_win_mean": "52.07",
-				"delta": "52.07"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/the-search-love-triangle-search-engines-users-and-publishers/#comments",
-				"feature_value": " 0",
-				"cluster_win_mean": "52.07",
-				"delta": "52.07"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/2013/05",
-				"feature_value": " 0",
-				"cluster_win_mean": "52.07",
-				"delta": "52.07"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/penguin-2-0-prompts-questions-about-links/#comments",
-				"feature_value": " 0",
-				"cluster_win_mean": "52.07",
-				"delta": "52.07"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/discount-codes-and-vouchers-living-the-blogger-dream/#comments",
-				"feature_value": " 0",
-				"cluster_win_mean": "52.07",
-				"delta": "52.07"
 			},
 			{
 				"html_id": "http://www.alchemyviral.com/myopic-technology-on-links/#comments",
@@ -3166,16 +3184,40 @@
 				"delta": "71.79"
 			},
 			{
-				"html_id": "http://www.alchemyviral.com/2013/05",
+				"html_id": "http://www.alchemyviral.com/2012/09/page/2",
+				"feature_value": " 0",
+				"cluster_win_mean": "52.07",
+				"delta": "52.07"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2012/11",
+				"feature_value": " 0",
+				"cluster_win_mean": "71.79",
+				"delta": "71.79"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2012/12",
+				"feature_value": " 0",
+				"cluster_win_mean": "71.79",
+				"delta": "71.79"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2012/10",
+				"feature_value": " 0",
+				"cluster_win_mean": "71.79",
+				"delta": "71.79"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2012/07/page/2",
 				"feature_value": " 0",
 				"cluster_win_mean": "71.79",
 				"delta": "71.79"
 			},
 			{
 				"html_id": "http://www.alchemyviral.com/predictive-modelling-benefits-e-commerce-sites",
-				"feature_value": "10",
+				"feature_value": "19",
 				"cluster_win_mean": "43.68",
-				"delta": "33.68"
+				"delta": "24.68"
 			},
 			{
 				"html_id": "http://www.alchemyviral.com/2013/04",
@@ -3186,62 +3228,62 @@
 			{
 				"html_id": "http://www.alchemyviral.com/2013/03",
 				"feature_value": " 0",
-				"cluster_win_mean": "43.68",
-				"delta": "43.68"
+				"cluster_win_mean": "52.07",
+				"delta": "52.07"
 			},
 			{
 				"html_id": "http://www.alchemyviral.com/2013/02",
-				"feature_value": "21",
-				"cluster_win_mean": "43.68",
-				"delta": "22.68"
+				"feature_value": " 0",
+				"cluster_win_mean": "52.07",
+				"delta": "52.07"
 			},
 			{
 				"html_id": "http://www.alchemyviral.com/2013/01",
 				"feature_value": " 0",
-				"cluster_win_mean": "43.68",
-				"delta": "43.68"
+				"cluster_win_mean": "52.07",
+				"delta": "52.07"
 			},
 			{
 				"html_id": "http://www.alchemyviral.com/2012/12",
 				"feature_value": " 0",
-				"cluster_win_mean": "71.79",
-				"delta": "71.79"
+				"cluster_win_mean": "52.07",
+				"delta": "52.07"
 			},
 			{
 				"html_id": "http://www.alchemyviral.com/2012/11",
 				"feature_value": " 0",
-				"cluster_win_mean": "71.79",
-				"delta": "71.79"
+				"cluster_win_mean": "52.07",
+				"delta": "52.07"
 			},
 			{
 				"html_id": "http://www.alchemyviral.com/2012/10",
 				"feature_value": " 0",
-				"cluster_win_mean": "43.68",
-				"delta": "43.68"
+				"cluster_win_mean": "52.07",
+				"delta": "52.07"
 			},
 			{
 				"html_id": "http://www.alchemyviral.com/2012/09",
 				"feature_value": " 0",
-				"cluster_win_mean": "43.68",
-				"delta": "43.68"
+				"cluster_win_mean": "52.07",
+				"delta": "52.07"
 			},
 			{
 				"html_id": "http://www.alchemyviral.com/2012/09/page/2",
 				"feature_value": " 0",
-				"cluster_win_mean": "71.79",
-				"delta": "71.79"
+				"cluster_win_mean": "52.07",
+				"delta": "52.07"
 			},
 			{
 				"html_id": "http://www.alchemyviral.com/2012/08",
-				"feature_value": "28",
-				"cluster_win_mean": "43.68",
-				"delta": "15.68"
+				"feature_value": " 0",
+				"cluster_win_mean": "52.07",
+				"delta": "52.07"
 			},
 			{
 				"html_id": "http://www.alchemyviral.com/2012/07",
 				"feature_value": " 0",
-				"cluster_win_mean": "43.68",
-				"delta": "43.68"
+				"cluster_win_mean": "71.79",
+				"delta": "71.79"
 			},
 			{
 				"html_id": "http://www.alchemyviral.com/2012/06",
@@ -3252,20 +3294,20 @@
 			{
 				"html_id": "http://www.alchemyviral.com/2012/06/page/2",
 				"feature_value": " 0",
-				"cluster_win_mean": "43.68",
-				"delta": "43.68"
+				"cluster_win_mean": "71.79",
+				"delta": "71.79"
 			},
 			{
 				"html_id": "http://www.alchemyviral.com/2012/05",
 				"feature_value": " 0",
-				"cluster_win_mean": "43.68",
-				"delta": "43.68"
+				"cluster_win_mean": "71.79",
+				"delta": "71.79"
 			},
 			{
 				"html_id": "http://www.alchemyviral.com/2012/05/page/2",
 				"feature_value": " 0",
-				"cluster_win_mean": "43.68",
-				"delta": "43.68"
+				"cluster_win_mean": "71.79",
+				"delta": "71.79"
 			},
 			{
 				"html_id": "http://www.alchemyviral.com/2012/04",
@@ -3276,20 +3318,20 @@
 			{
 				"html_id": "http://www.alchemyviral.com/2012/02",
 				"feature_value": " 0",
-				"cluster_win_mean": "43.68",
-				"delta": "43.68"
+				"cluster_win_mean": "71.79",
+				"delta": "71.79"
 			},
 			{
 				"html_id": "http://www.alchemyviral.com/blog",
 				"feature_value": " 0",
-				"cluster_win_mean": "43.68",
-				"delta": "43.68"
+				"cluster_win_mean": "71.79",
+				"delta": "71.79"
 			},
 			{
 				"html_id": "http://www.alchemyviral.com/international",
 				"feature_value": " 0",
-				"cluster_win_mean": "43.68",
-				"delta": "43.68"
+				"cluster_win_mean": "71.79",
+				"delta": "71.79"
 			},
 			{
 				"html_id": "http://www.alchemyviral.com/privacy-policy",
@@ -3312,8 +3354,8 @@
 			{
 				"html_id": "http://www.alchemyviral.com/thank-you",
 				"feature_value": " 0",
-				"cluster_win_mean": "43.68",
-				"delta": "43.68"
+				"cluster_win_mean": "71.79",
+				"delta": "71.79"
 			},
 			{
 				"html_id": "http://www.alchemyviral.com/thinking/white-papers",
@@ -3329,15 +3371,15 @@
 			},
 			{
 				"html_id": "http://www.alchemyviral.com/2012/08/page/2",
-				"feature_value": "13",
-				"cluster_win_mean": "43.68",
-				"delta": "30.68"
+				"feature_value": " 0",
+				"cluster_win_mean": "71.79",
+				"delta": "71.79"
 			},
 			{
 				"html_id": "http://www.alchemyviral.com/2012/10/page/2",
 				"feature_value": " 0",
-				"cluster_win_mean": "71.79",
-				"delta": "71.79"
+				"cluster_win_mean": "43.68",
+				"delta": "43.68"
 			},
 			{
 				"html_id": "http://www.alchemyviral.com/2012/10/page/3",
@@ -3347,6 +3389,12 @@
 			},
 			{
 				"html_id": "http://www.alchemyviral.com/2012/11/page/2",
+				"feature_value": " 0",
+				"cluster_win_mean": "71.79",
+				"delta": "71.79"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/predictive-modelling-benefits-e-commerce-sites/#comments",
 				"feature_value": " 0",
 				"cluster_win_mean": "71.79",
 				"delta": "71.79"
@@ -3354,19 +3402,193 @@
 			{
 				"html_id": "http://www.alchemyviral.com/2013/06",
 				"feature_value": " 0",
+				"cluster_win_mean": "71.79",
+				"delta": "71.79"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/to-disavow-or-avow",
+				"feature_value": " 0",
+				"cluster_win_mean": "71.79",
+				"delta": "71.79"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/brand-searches-are-the-currency-for-seo",
+				"feature_value": " 0",
+				"cluster_win_mean": "71.79",
+				"delta": "71.79"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/pagerank-inheritance-and-lies",
+				"feature_value": " 0",
+				"cluster_win_mean": "71.79",
+				"delta": "71.79"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2013/02",
+				"feature_value": " 0",
+				"cluster_win_mean": "71.79",
+				"delta": "71.79"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2012/09",
+				"feature_value": " 0",
+				"cluster_win_mean": "71.79",
+				"delta": "71.79"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2012/09/page/2",
+				"feature_value": " 0",
+				"cluster_win_mean": "71.79",
+				"delta": "71.79"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2012/08",
+				"feature_value": " 0",
+				"cluster_win_mean": "71.79",
+				"delta": "71.79"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2012/07",
+				"feature_value": " 0",
+				"cluster_win_mean": "71.79",
+				"delta": "71.79"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2012/06",
+				"feature_value": " 0",
+				"cluster_win_mean": "43.68",
+				"delta": "43.68"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2012/06/page/2",
+				"feature_value": " 0",
+				"cluster_win_mean": "43.68",
+				"delta": "43.68"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2012/05",
+				"feature_value": "27",
+				"cluster_win_mean": "71.79",
+				"delta": "44.79"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2012/05/page/2",
+				"feature_value": " 0",
+				"cluster_win_mean": "43.68",
+				"delta": "43.68"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2012/04",
+				"feature_value": " 0",
+				"cluster_win_mean": "43.68",
+				"delta": "43.68"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2012/02",
+				"feature_value": " 0",
+				"cluster_win_mean": "71.79",
+				"delta": "71.79"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/blog",
+				"feature_value": " 0",
+				"cluster_win_mean": "71.79",
+				"delta": "71.79"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/international",
+				"feature_value": " 0",
+				"cluster_win_mean": "71.79",
+				"delta": "71.79"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/privacy-policy",
+				"feature_value": " 0",
+				"cluster_win_mean": "71.79",
+				"delta": "71.79"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/site-map/termsandconditions",
+				"feature_value": " 0",
+				"cluster_win_mean": "71.79",
+				"delta": "71.79"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/terms-conditions",
+				"feature_value": " 0",
+				"cluster_win_mean": "71.79",
+				"delta": "71.79"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/migrating-websites/#comments",
+				"feature_value": " 0",
+				"cluster_win_mean": "71.79",
+				"delta": "71.79"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/what-your-penguin-2-0-analysis-is-worth",
+				"feature_value": " 0",
+				"cluster_win_mean": "71.79",
+				"delta": "71.79"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/sopr-winning-seo-in-2013-and-beyond",
+				"feature_value": " 0",
 				"cluster_win_mean": "43.68",
 				"delta": "43.68"
 			}
 		],
 		"average_length_of_h2": [
 			{
-				"html_id": "http://www.alchemyviral.com/2012/06/page/2",
+				"html_id": "http://www.alchemyviral.com/2012/08/page/2",
 				"feature_value": " 0",
 				"cluster_win_mean": "71.22",
 				"delta": " 71.22"
 			},
 			{
-				"html_id": "http://www.alchemyviral.com/2012/05/page/2",
+				"html_id": "http://www.alchemyviral.com/terms-conditions",
+				"feature_value": " 0",
+				"cluster_win_mean": "71.22",
+				"delta": " 71.22"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/international",
+				"feature_value": " 0",
+				"cluster_win_mean": "71.22",
+				"delta": " 71.22"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/site-map/termsandconditions",
+				"feature_value": " 0",
+				"cluster_win_mean": "71.22",
+				"delta": " 71.22"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/blog",
+				"feature_value": " 0",
+				"cluster_win_mean": "71.22",
+				"delta": " 71.22"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2013/05",
+				"feature_value": " 0",
+				"cluster_win_mean": "71.22",
+				"delta": " 71.22"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/penguin-2-0-prompts-questions-about-links/#comments",
+				"feature_value": " 0",
+				"cluster_win_mean": "71.22",
+				"delta": " 71.22"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/discount-codes-and-vouchers-living-the-blogger-dream/#comments",
+				"feature_value": " 0",
+				"cluster_win_mean": "71.22",
+				"delta": " 71.22"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/thank-you",
 				"feature_value": " 0",
 				"cluster_win_mean": "71.22",
 				"delta": " 71.22"
@@ -3396,12 +3618,6 @@
 				"delta": " 71.22"
 			},
 			{
-				"html_id": "http://www.alchemyviral.com/2012/02",
-				"feature_value": " 0",
-				"cluster_win_mean": "71.22",
-				"delta": " 71.22"
-			},
-			{
 				"html_id": "http://www.alchemyviral.com/2012/04",
 				"feature_value": " 0",
 				"cluster_win_mean": "71.22",
@@ -3409,123 +3625,9 @@
 			},
 			{
 				"html_id": "http://www.alchemyviral.com/2012/05",
-				"feature_value": " 0",
-				"cluster_win_mean": "71.22",
-				"delta": " 71.22"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/2013/01",
-				"feature_value": " 0",
-				"cluster_win_mean": "71.22",
-				"delta": " 71.22"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/2012/10/page/2",
-				"feature_value": " 0",
-				"cluster_win_mean": "71.22",
-				"delta": " 71.22"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/thinking/white-papers",
 				"feature_value": "27",
 				"cluster_win_mean": "71.22",
 				"delta": " 44.22"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/2012/11/page/2",
-				"feature_value": " 0",
-				"cluster_win_mean": "71.22",
-				"delta": " 71.22"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/2012/08/page/2",
-				"feature_value": " 0",
-				"cluster_win_mean": "71.22",
-				"delta": " 71.22"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/terms-conditions",
-				"feature_value": " 0",
-				"cluster_win_mean": "51.77",
-				"delta": " 51.77"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/international",
-				"feature_value": " 0",
-				"cluster_win_mean": "71.22",
-				"delta": " 71.22"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/site-map/termsandconditions",
-				"feature_value": " 0",
-				"cluster_win_mean": "71.22",
-				"delta": " 71.22"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/blog",
-				"feature_value": "44",
-				"cluster_win_mean": "32.92",
-				"delta": "-11.08"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/2012/12",
-				"feature_value": " 0",
-				"cluster_win_mean": "71.22",
-				"delta": " 71.22"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/migrating-websites/#comments",
-				"feature_value": " 0",
-				"cluster_win_mean": "71.22",
-				"delta": " 71.22"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/ideas-for-a-killer-seo-phone-app/#comments",
-				"feature_value": " 0",
-				"cluster_win_mean": "71.22",
-				"delta": " 71.22"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/image-is-everything/#comments",
-				"feature_value": " 0",
-				"cluster_win_mean": "71.22",
-				"delta": " 71.22"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/managing-robotic-price-scrapers-and-other-rogues/#comments",
-				"feature_value": " 0",
-				"cluster_win_mean": "51.77",
-				"delta": " 51.77"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/buying-pagerank-dont-do-it/#comments",
-				"feature_value": " 0",
-				"cluster_win_mean": "51.77",
-				"delta": " 51.77"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/the-search-love-triangle-search-engines-users-and-publishers/#comments",
-				"feature_value": " 0",
-				"cluster_win_mean": "51.77",
-				"delta": " 51.77"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/2013/05",
-				"feature_value": " 0",
-				"cluster_win_mean": "51.77",
-				"delta": " 51.77"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/penguin-2-0-prompts-questions-about-links/#comments",
-				"feature_value": " 0",
-				"cluster_win_mean": "51.77",
-				"delta": " 51.77"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/discount-codes-and-vouchers-living-the-blogger-dream/#comments",
-				"feature_value": " 0",
-				"cluster_win_mean": "51.77",
-				"delta": " 51.77"
 			},
 			{
 				"html_id": "http://www.alchemyviral.com/myopic-technology-on-links/#comments",
@@ -3540,13 +3642,13 @@
 				"delta": " 71.22"
 			},
 			{
-				"html_id": "http://www.alchemyviral.com/2013/05",
+				"html_id": "http://www.alchemyviral.com/2012/09/page/2",
 				"feature_value": " 0",
-				"cluster_win_mean": "71.22",
-				"delta": " 71.22"
+				"cluster_win_mean": "51.77",
+				"delta": " 51.77"
 			},
 			{
-				"html_id": "http://www.alchemyviral.com/2013/04",
+				"html_id": "http://www.alchemyviral.com/2012/11",
 				"feature_value": " 0",
 				"cluster_win_mean": "71.22",
 				"delta": " 71.22"
@@ -3558,13 +3660,85 @@
 				"delta": " 71.22"
 			},
 			{
-				"html_id": "http://www.alchemyviral.com/2012/11",
+				"html_id": "http://www.alchemyviral.com/2012/10",
 				"feature_value": " 0",
 				"cluster_win_mean": "71.22",
 				"delta": " 71.22"
 			},
 			{
+				"html_id": "http://www.alchemyviral.com/2012/07/page/2",
+				"feature_value": " 0",
+				"cluster_win_mean": "71.22",
+				"delta": " 71.22"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2013/05",
+				"feature_value": "44",
+				"cluster_win_mean": "32.92",
+				"delta": "-11.08"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2013/04",
+				"feature_value": " 0",
+				"cluster_win_mean": "71.22",
+				"delta": " 71.22"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2013/03",
+				"feature_value": " 0",
+				"cluster_win_mean": "51.77",
+				"delta": " 51.77"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2013/02",
+				"feature_value": " 0",
+				"cluster_win_mean": "51.77",
+				"delta": " 51.77"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2013/01",
+				"feature_value": " 0",
+				"cluster_win_mean": "51.77",
+				"delta": " 51.77"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2012/12",
+				"feature_value": " 0",
+				"cluster_win_mean": "51.77",
+				"delta": " 51.77"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2012/11",
+				"feature_value": " 0",
+				"cluster_win_mean": "51.77",
+				"delta": " 51.77"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2012/10",
+				"feature_value": " 0",
+				"cluster_win_mean": "51.77",
+				"delta": " 51.77"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2012/09",
+				"feature_value": " 0",
+				"cluster_win_mean": "51.77",
+				"delta": " 51.77"
+			},
+			{
 				"html_id": "http://www.alchemyviral.com/2012/09/page/2",
+				"feature_value": " 0",
+				"cluster_win_mean": "51.77",
+				"delta": " 51.77"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2012/08",
+				"feature_value": " 0",
+				"cluster_win_mean": "51.77",
+				"delta": " 51.77"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2012/07",
 				"feature_value": " 0",
 				"cluster_win_mean": "71.22",
 				"delta": " 71.22"
@@ -3576,7 +3750,43 @@
 				"delta": " 71.22"
 			},
 			{
+				"html_id": "http://www.alchemyviral.com/2012/06/page/2",
+				"feature_value": " 0",
+				"cluster_win_mean": "71.22",
+				"delta": " 71.22"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2012/05",
+				"feature_value": " 0",
+				"cluster_win_mean": "71.22",
+				"delta": " 71.22"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2012/05/page/2",
+				"feature_value": " 0",
+				"cluster_win_mean": "71.22",
+				"delta": " 71.22"
+			},
+			{
 				"html_id": "http://www.alchemyviral.com/2012/04",
+				"feature_value": " 0",
+				"cluster_win_mean": "71.22",
+				"delta": " 71.22"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2012/02",
+				"feature_value": " 0",
+				"cluster_win_mean": "71.22",
+				"delta": " 71.22"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/blog",
+				"feature_value": " 0",
+				"cluster_win_mean": "71.22",
+				"delta": " 71.22"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/international",
 				"feature_value": " 0",
 				"cluster_win_mean": "71.22",
 				"delta": " 71.22"
@@ -3595,6 +3805,12 @@
 			},
 			{
 				"html_id": "http://www.alchemyviral.com/terms-conditions",
+				"feature_value": " 0",
+				"cluster_win_mean": "71.22",
+				"delta": " 71.22"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/thank-you",
 				"feature_value": " 0",
 				"cluster_win_mean": "71.22",
 				"delta": " 71.22"
@@ -3612,7 +3828,7 @@
 				"delta": " 71.22"
 			},
 			{
-				"html_id": "http://www.alchemyviral.com/2012/10/page/2",
+				"html_id": "http://www.alchemyviral.com/2012/08/page/2",
 				"feature_value": " 0",
 				"cluster_win_mean": "71.22",
 				"delta": " 71.22"
@@ -3628,17 +3844,173 @@
 				"feature_value": " 0",
 				"cluster_win_mean": "71.22",
 				"delta": " 71.22"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/predictive-modelling-benefits-e-commerce-sites/#comments",
+				"feature_value": " 0",
+				"cluster_win_mean": "71.22",
+				"delta": " 71.22"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2013/06",
+				"feature_value": " 0",
+				"cluster_win_mean": "71.22",
+				"delta": " 71.22"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/to-disavow-or-avow",
+				"feature_value": " 0",
+				"cluster_win_mean": "71.22",
+				"delta": " 71.22"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/brand-searches-are-the-currency-for-seo",
+				"feature_value": " 0",
+				"cluster_win_mean": "71.22",
+				"delta": " 71.22"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/pagerank-inheritance-and-lies",
+				"feature_value": " 0",
+				"cluster_win_mean": "71.22",
+				"delta": " 71.22"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2013/02",
+				"feature_value": " 0",
+				"cluster_win_mean": "71.22",
+				"delta": " 71.22"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2012/09",
+				"feature_value": " 0",
+				"cluster_win_mean": "71.22",
+				"delta": " 71.22"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2012/09/page/2",
+				"feature_value": " 0",
+				"cluster_win_mean": "71.22",
+				"delta": " 71.22"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2012/08",
+				"feature_value": " 0",
+				"cluster_win_mean": "71.22",
+				"delta": " 71.22"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2012/07",
+				"feature_value": " 0",
+				"cluster_win_mean": "71.22",
+				"delta": " 71.22"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2012/05",
+				"feature_value": "27",
+				"cluster_win_mean": "71.22",
+				"delta": " 44.22"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2012/02",
+				"feature_value": " 0",
+				"cluster_win_mean": "71.22",
+				"delta": " 71.22"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/blog",
+				"feature_value": " 0",
+				"cluster_win_mean": "71.22",
+				"delta": " 71.22"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/international",
+				"feature_value": " 0",
+				"cluster_win_mean": "71.22",
+				"delta": " 71.22"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/privacy-policy",
+				"feature_value": " 0",
+				"cluster_win_mean": "71.22",
+				"delta": " 71.22"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/site-map/termsandconditions",
+				"feature_value": " 0",
+				"cluster_win_mean": "71.22",
+				"delta": " 71.22"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/terms-conditions",
+				"feature_value": " 0",
+				"cluster_win_mean": "71.22",
+				"delta": " 71.22"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/migrating-websites/#comments",
+				"feature_value": " 0",
+				"cluster_win_mean": "71.22",
+				"delta": " 71.22"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/what-your-penguin-2-0-analysis-is-worth",
+				"feature_value": " 0",
+				"cluster_win_mean": "71.22",
+				"delta": " 71.22"
 			}
 		],
 		"number_of_dhtml_scripts": [
 			{
-				"html_id": "http://www.alchemyviral.com/2012/06/page/2",
+				"html_id": "http://www.alchemyviral.com/2012/08/page/2",
 				"feature_value": "0",
 				"cluster_win_mean": "1.31",
 				"delta": "1.31"
 			},
 			{
-				"html_id": "http://www.alchemyviral.com/2012/05/page/2",
+				"html_id": "http://www.alchemyviral.com/terms-conditions",
+				"feature_value": "0",
+				"cluster_win_mean": "1.31",
+				"delta": "1.31"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/international",
+				"feature_value": "0",
+				"cluster_win_mean": "1.31",
+				"delta": "1.31"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/site-map/termsandconditions",
+				"feature_value": "0",
+				"cluster_win_mean": "1.31",
+				"delta": "1.31"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/blog",
+				"feature_value": "0",
+				"cluster_win_mean": "1.31",
+				"delta": "1.31"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2013/05",
+				"feature_value": "0",
+				"cluster_win_mean": "1.31",
+				"delta": "1.31"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/penguin-2-0-prompts-questions-about-links/#comments",
+				"feature_value": "0",
+				"cluster_win_mean": "1.31",
+				"delta": "1.31"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/discount-codes-and-vouchers-living-the-blogger-dream/#comments",
+				"feature_value": "0",
+				"cluster_win_mean": "1.31",
+				"delta": "1.31"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/thank-you",
 				"feature_value": "0",
 				"cluster_win_mean": "1.31",
 				"delta": "1.31"
@@ -3670,8 +4042,8 @@
 			{
 				"html_id": "http://www.alchemyviral.com/2012/02",
 				"feature_value": "0",
-				"cluster_win_mean": "1.31",
-				"delta": "1.31"
+				"cluster_win_mean": "   2",
+				"delta": "   2"
 			},
 			{
 				"html_id": "http://www.alchemyviral.com/2012/04",
@@ -3686,88 +4058,28 @@
 				"delta": "1.31"
 			},
 			{
-				"html_id": "http://www.alchemyviral.com/2013/01",
+				"html_id": "http://www.alchemyviral.com/myopic-technology-on-links/#comments",
 				"feature_value": "0",
 				"cluster_win_mean": "1.31",
 				"delta": "1.31"
 			},
 			{
-				"html_id": "http://www.alchemyviral.com/2012/10/page/2",
+				"html_id": "http://www.alchemyviral.com/thinking/page/2/?",
 				"feature_value": "0",
 				"cluster_win_mean": "1.31",
 				"delta": "1.31"
 			},
 			{
-				"html_id": "http://www.alchemyviral.com/2012/10/page/3",
-				"feature_value": "0",
-				"cluster_win_mean": "   2",
-				"delta": "   2"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/thinking/white-papers",
-				"feature_value": "0",
-				"cluster_win_mean": "1.31",
-				"delta": "1.31"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/2012/11/page/2",
-				"feature_value": "0",
-				"cluster_win_mean": "1.31",
-				"delta": "1.31"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/privacy-policy",
-				"feature_value": "0",
-				"cluster_win_mean": "   2",
-				"delta": "   2"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/2012/08/page/2",
-				"feature_value": "0",
-				"cluster_win_mean": "1.31",
-				"delta": "1.31"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/terms-conditions",
+				"html_id": "http://www.alchemyviral.com/2012/09/page/2",
 				"feature_value": "0",
 				"cluster_win_mean": "1.16",
 				"delta": "1.16"
 			},
 			{
-				"html_id": "http://www.alchemyviral.com/international",
-				"feature_value": "0",
-				"cluster_win_mean": "1.31",
-				"delta": "1.31"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/site-map/termsandconditions",
-				"feature_value": "0",
-				"cluster_win_mean": "1.31",
-				"delta": "1.31"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/blog",
-				"feature_value": "0",
-				"cluster_win_mean": "   2",
-				"delta": "   2"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/thank-you",
-				"feature_value": "0",
-				"cluster_win_mean": "   2",
-				"delta": "   2"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/2012/09/page/2",
-				"feature_value": "0",
-				"cluster_win_mean": "   2",
-				"delta": "   2"
-			},
-			{
 				"html_id": "http://www.alchemyviral.com/2012/11",
 				"feature_value": "0",
-				"cluster_win_mean": "   2",
-				"delta": "   2"
+				"cluster_win_mean": "1.31",
+				"delta": "1.31"
 			},
 			{
 				"html_id": "http://www.alchemyviral.com/2012/12",
@@ -3778,134 +4090,20 @@
 			{
 				"html_id": "http://www.alchemyviral.com/2012/10",
 				"feature_value": "0",
-				"cluster_win_mean": "   2",
-				"delta": "   2"
+				"cluster_win_mean": "1.31",
+				"delta": "1.31"
 			},
 			{
 				"html_id": "http://www.alchemyviral.com/2012/07/page/2",
 				"feature_value": "0",
-				"cluster_win_mean": "   2",
-				"delta": "   2"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/2013/02",
-				"feature_value": "0",
-				"cluster_win_mean": "   2",
-				"delta": "   2"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/migrating-websites/#comments",
-				"feature_value": "0",
-				"cluster_win_mean": "1.31",
-				"delta": "1.31"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/search-algorithms-are-only-half-the-battle/#comments",
-				"feature_value": "0",
-				"cluster_win_mean": "   2",
-				"delta": "   2"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/getting-traffic-to-your-website/#comments",
-				"feature_value": "0",
-				"cluster_win_mean": "   2",
-				"delta": "   2"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/hl-twitter/alchemyviral",
-				"feature_value": "0",
-				"cluster_win_mean": "   2",
-				"delta": "   2"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/2013/03",
-				"feature_value": "0",
-				"cluster_win_mean": "   2",
-				"delta": "   2"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/ideas-for-a-killer-seo-phone-app/#comments",
-				"feature_value": "0",
-				"cluster_win_mean": "1.31",
-				"delta": "1.31"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/the-world-according-to-matt-cutts-and-duane-forrester/#comments",
-				"feature_value": "0",
-				"cluster_win_mean": "   2",
-				"delta": "   2"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/content-auditing-for-the-search-journey/#comments",
-				"feature_value": "0",
-				"cluster_win_mean": "   2",
-				"delta": "   2"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/2013/04",
-				"feature_value": "0",
-				"cluster_win_mean": "   2",
-				"delta": "   2"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/image-is-everything/#comments",
-				"feature_value": "0",
-				"cluster_win_mean": "1.31",
-				"delta": "1.31"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/managing-robotic-price-scrapers-and-other-rogues/#comments",
-				"feature_value": "0",
-				"cluster_win_mean": "1.16",
-				"delta": "1.16"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/buying-pagerank-dont-do-it/#comments",
-				"feature_value": "0",
-				"cluster_win_mean": "1.16",
-				"delta": "1.16"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/the-search-love-triangle-search-engines-users-and-publishers/#comments",
-				"feature_value": "0",
-				"cluster_win_mean": "1.16",
-				"delta": "1.16"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/2013/05",
-				"feature_value": "0",
-				"cluster_win_mean": "1.16",
-				"delta": "1.16"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/penguin-2-0-prompts-questions-about-links/#comments",
-				"feature_value": "0",
-				"cluster_win_mean": "1.16",
-				"delta": "1.16"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/discount-codes-and-vouchers-living-the-blogger-dream/#comments",
-				"feature_value": "0",
-				"cluster_win_mean": "1.16",
-				"delta": "1.16"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/myopic-technology-on-links/#comments",
-				"feature_value": "0",
-				"cluster_win_mean": "1.31",
-				"delta": "1.31"
-			},
-			{
-				"html_id": "http://www.alchemyviral.com/thinking/page/2/?",
-				"feature_value": "0",
 				"cluster_win_mean": "1.31",
 				"delta": "1.31"
 			},
 			{
 				"html_id": "http://www.alchemyviral.com/2013/05",
 				"feature_value": "0",
-				"cluster_win_mean": "1.31",
-				"delta": "1.31"
+				"cluster_win_mean": "   2",
+				"delta": "   2"
 			},
 			{
 				"html_id": "http://www.alchemyviral.com/predictive-modelling-benefits-e-commerce-sites",
@@ -3922,62 +4120,62 @@
 			{
 				"html_id": "http://www.alchemyviral.com/2013/03",
 				"feature_value": "0",
-				"cluster_win_mean": "   2",
-				"delta": "   2"
+				"cluster_win_mean": "1.16",
+				"delta": "1.16"
 			},
 			{
 				"html_id": "http://www.alchemyviral.com/2013/02",
 				"feature_value": "0",
-				"cluster_win_mean": "   2",
-				"delta": "   2"
+				"cluster_win_mean": "1.16",
+				"delta": "1.16"
 			},
 			{
 				"html_id": "http://www.alchemyviral.com/2013/01",
 				"feature_value": "0",
-				"cluster_win_mean": "   2",
-				"delta": "   2"
+				"cluster_win_mean": "1.16",
+				"delta": "1.16"
 			},
 			{
 				"html_id": "http://www.alchemyviral.com/2012/12",
 				"feature_value": "0",
-				"cluster_win_mean": "1.31",
-				"delta": "1.31"
+				"cluster_win_mean": "1.16",
+				"delta": "1.16"
 			},
 			{
 				"html_id": "http://www.alchemyviral.com/2012/11",
 				"feature_value": "0",
-				"cluster_win_mean": "1.31",
-				"delta": "1.31"
+				"cluster_win_mean": "1.16",
+				"delta": "1.16"
 			},
 			{
 				"html_id": "http://www.alchemyviral.com/2012/10",
 				"feature_value": "0",
-				"cluster_win_mean": "   2",
-				"delta": "   2"
+				"cluster_win_mean": "1.16",
+				"delta": "1.16"
 			},
 			{
 				"html_id": "http://www.alchemyviral.com/2012/09",
 				"feature_value": "0",
-				"cluster_win_mean": "   2",
-				"delta": "   2"
+				"cluster_win_mean": "1.16",
+				"delta": "1.16"
 			},
 			{
 				"html_id": "http://www.alchemyviral.com/2012/09/page/2",
 				"feature_value": "0",
-				"cluster_win_mean": "1.31",
-				"delta": "1.31"
+				"cluster_win_mean": "1.16",
+				"delta": "1.16"
 			},
 			{
 				"html_id": "http://www.alchemyviral.com/2012/08",
 				"feature_value": "0",
-				"cluster_win_mean": "   2",
-				"delta": "   2"
+				"cluster_win_mean": "1.16",
+				"delta": "1.16"
 			},
 			{
 				"html_id": "http://www.alchemyviral.com/2012/07",
 				"feature_value": "0",
-				"cluster_win_mean": "   2",
-				"delta": "   2"
+				"cluster_win_mean": "1.31",
+				"delta": "1.31"
 			},
 			{
 				"html_id": "http://www.alchemyviral.com/2012/06",
@@ -3988,20 +4186,20 @@
 			{
 				"html_id": "http://www.alchemyviral.com/2012/06/page/2",
 				"feature_value": "0",
-				"cluster_win_mean": "   2",
-				"delta": "   2"
+				"cluster_win_mean": "1.31",
+				"delta": "1.31"
 			},
 			{
 				"html_id": "http://www.alchemyviral.com/2012/05",
 				"feature_value": "0",
-				"cluster_win_mean": "   2",
-				"delta": "   2"
+				"cluster_win_mean": "1.31",
+				"delta": "1.31"
 			},
 			{
 				"html_id": "http://www.alchemyviral.com/2012/05/page/2",
 				"feature_value": "0",
-				"cluster_win_mean": "   2",
-				"delta": "   2"
+				"cluster_win_mean": "1.31",
+				"delta": "1.31"
 			},
 			{
 				"html_id": "http://www.alchemyviral.com/2012/04",
@@ -4012,20 +4210,20 @@
 			{
 				"html_id": "http://www.alchemyviral.com/2012/02",
 				"feature_value": "0",
-				"cluster_win_mean": "   2",
-				"delta": "   2"
+				"cluster_win_mean": "1.31",
+				"delta": "1.31"
 			},
 			{
 				"html_id": "http://www.alchemyviral.com/blog",
 				"feature_value": "0",
-				"cluster_win_mean": "   2",
-				"delta": "   2"
+				"cluster_win_mean": "1.31",
+				"delta": "1.31"
 			},
 			{
 				"html_id": "http://www.alchemyviral.com/international",
 				"feature_value": "0",
-				"cluster_win_mean": "   2",
-				"delta": "   2"
+				"cluster_win_mean": "1.31",
+				"delta": "1.31"
 			},
 			{
 				"html_id": "http://www.alchemyviral.com/privacy-policy",
@@ -4048,8 +4246,8 @@
 			{
 				"html_id": "http://www.alchemyviral.com/thank-you",
 				"feature_value": "0",
-				"cluster_win_mean": "   2",
-				"delta": "   2"
+				"cluster_win_mean": "1.31",
+				"delta": "1.31"
 			},
 			{
 				"html_id": "http://www.alchemyviral.com/thinking/white-papers",
@@ -4066,14 +4264,14 @@
 			{
 				"html_id": "http://www.alchemyviral.com/2012/08/page/2",
 				"feature_value": "0",
-				"cluster_win_mean": "   2",
-				"delta": "   2"
+				"cluster_win_mean": "1.31",
+				"delta": "1.31"
 			},
 			{
 				"html_id": "http://www.alchemyviral.com/2012/10/page/2",
 				"feature_value": "0",
-				"cluster_win_mean": "1.31",
-				"delta": "1.31"
+				"cluster_win_mean": "   2",
+				"delta": "   2"
 			},
 			{
 				"html_id": "http://www.alchemyviral.com/2012/10/page/3",
@@ -4090,11 +4288,143 @@
 			{
 				"html_id": "http://www.alchemyviral.com/predictive-modelling-benefits-e-commerce-sites/#comments",
 				"feature_value": "0",
+				"cluster_win_mean": "1.31",
+				"delta": "1.31"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2013/06",
+				"feature_value": "0",
+				"cluster_win_mean": "1.31",
+				"delta": "1.31"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/to-disavow-or-avow",
+				"feature_value": "0",
+				"cluster_win_mean": "1.31",
+				"delta": "1.31"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/brand-searches-are-the-currency-for-seo",
+				"feature_value": "0",
+				"cluster_win_mean": "1.31",
+				"delta": "1.31"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/pagerank-inheritance-and-lies",
+				"feature_value": "0",
+				"cluster_win_mean": "1.31",
+				"delta": "1.31"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2013/02",
+				"feature_value": "0",
+				"cluster_win_mean": "1.31",
+				"delta": "1.31"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2012/09",
+				"feature_value": "0",
+				"cluster_win_mean": "1.31",
+				"delta": "1.31"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2012/09/page/2",
+				"feature_value": "0",
+				"cluster_win_mean": "1.31",
+				"delta": "1.31"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2012/08",
+				"feature_value": "0",
+				"cluster_win_mean": "1.31",
+				"delta": "1.31"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2012/07",
+				"feature_value": "0",
+				"cluster_win_mean": "1.31",
+				"delta": "1.31"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2012/06",
+				"feature_value": "0",
 				"cluster_win_mean": "   2",
 				"delta": "   2"
 			},
 			{
-				"html_id": "http://www.alchemyviral.com/2013/06",
+				"html_id": "http://www.alchemyviral.com/2012/06/page/2",
+				"feature_value": "0",
+				"cluster_win_mean": "   2",
+				"delta": "   2"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2012/05",
+				"feature_value": "0",
+				"cluster_win_mean": "1.31",
+				"delta": "1.31"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2012/05/page/2",
+				"feature_value": "0",
+				"cluster_win_mean": "   2",
+				"delta": "   2"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2012/04",
+				"feature_value": "0",
+				"cluster_win_mean": "   2",
+				"delta": "   2"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/2012/02",
+				"feature_value": "0",
+				"cluster_win_mean": "1.31",
+				"delta": "1.31"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/blog",
+				"feature_value": "0",
+				"cluster_win_mean": "1.31",
+				"delta": "1.31"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/international",
+				"feature_value": "0",
+				"cluster_win_mean": "1.31",
+				"delta": "1.31"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/privacy-policy",
+				"feature_value": "0",
+				"cluster_win_mean": "1.31",
+				"delta": "1.31"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/site-map/termsandconditions",
+				"feature_value": "0",
+				"cluster_win_mean": "1.31",
+				"delta": "1.31"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/terms-conditions",
+				"feature_value": "0",
+				"cluster_win_mean": "1.31",
+				"delta": "1.31"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/migrating-websites/#comments",
+				"feature_value": "0",
+				"cluster_win_mean": "1.31",
+				"delta": "1.31"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/what-your-penguin-2-0-analysis-is-worth",
+				"feature_value": "0",
+				"cluster_win_mean": "1.31",
+				"delta": "1.31"
+			},
+			{
+				"html_id": "http://www.alchemyviral.com/sopr-winning-seo-in-2013-and-beyond",
 				"feature_value": "0",
 				"cluster_win_mean": "   2",
 				"delta": "   2"
