@@ -15,7 +15,7 @@
 	},
 	{
 		"key": "Neutral",
-		"color": "#ff0000",
+		"color": "#ff9900",
 		"values": [
 			{
 				"label": "Onsite",
@@ -29,7 +29,7 @@
 	},
 	{
 		"key": "Harmful",
-		"color": "#ff9900",
+		"color": "#ff0000",
 		"values": [
 			{
 				"label": "Onsite",
