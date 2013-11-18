@@ -169,6 +169,19 @@ text {
 
 </style>
 
+
+	
+	<!-- <th width="5%">Influence rank</th>
+	<th width="55%">Feature</th>
+	<th width="10%">#URLs at risk</th>
+	<th width="10%">Average group feature value</th>
+	<th width="10%">Average losing mean</th> 
+	<th width="10%">Average at risk SQ</th>
+	<th width="10%">#URLs healthy</th>
+	<th width="10%">Average group feature value</th>
+	<th width="10%">Average winning mean</th>
+	<th width="10%">Average healthy SQ</th> -->
+
 	<script>
 	var websiteURL = "www.alchemyviral.com";
 var websiteSplit = websiteURL.split(".");
@@ -187,25 +200,29 @@ var websiteName = websiteSplit[1];
 	});
 	
 	$(document).ready(function() {
-	    $('#example3').dataTable( {
-	        "bProcessing": true,
-	        "sAjaxSource": "/json/summary/"+websiteName+"_Xhat.json",
-	        "sAjaxDataProp": "onsite",
+		$('#example3').dataTable( {
+			"bProcessing": true,
+			"sAjaxSource": "/json/summary/"+websiteName+"_Xhat.json",
+			"sAjaxDataProp": "onsite",
 			"aaSorting": [[ 2, "desc" ]],
-			    "aoColumns": [
-		                   null,
-						   { "mData": null , //its null here because history column will contain the mRender
-						      "mRender" : function ( data, type, full) {
-						      	return '<a href="onsite_SQ_drilldown.html#F'+ full[0] +'">'+full[1]+'</a>';
-						      }
-						    },
-		                   null,
-		                   null,
-						   {"bVisible": false},
-						   {"bVisible": false}
-		               ]
-	    } );
+			"aoColumns": [
+			null,
+			{ "mData": null , //its null here because history column will contain the mRender
+			"mRender" : function ( data, type, full) {
+				return '<a href="onsite_SQ_drilldown.html#F'+ full[0] +'">'+full[1]+'</a>';
+			}
+		},
+		null,
+		null,
+		null,
+		{"bVisible": false}		
+		{"bVisible": false},
+		{"bVisible": false},
+		{"bVisible": false},
+		{"bVisible": false}
+		]
 	} );
+} );
 	
 	$(document).ready(function() {
 	    $('#example3b').dataTable( {
@@ -218,36 +235,44 @@ var websiteName = websiteSplit[1];
 		                   null,
 						   {"bVisible": false},
 						   {"bVisible": false},
+						   {"bVisible": false},
+						   {"bVisible": false},
+						   null,
 		                   null,
-		                   null
+						   null,
+		                   {"bVisible": false}
 		               ]
 	    } );
 	} );
 	
 	$(document).ready(function() {
 		
-	// 	var nameElement = document.getElementById("inputURL");
-// 		var url = nameElement.value;
+		// 	var nameElement = document.getElementById("inputURL");
+		// 		var url = nameElement.value;
 		// var jsonFileName = "/json/summary/"" + url + "".json";
 		$('#example4').dataTable( {
 			"bProcessing": true,
-	        "sAjaxSource": "/json/summary/"+websiteName+"_XhatOff.json",
+			"sAjaxSource": "/json/summary/"+websiteName+"_XhatOff.json",
 			"sAjaxDataProp": "offsite",
 			"aaSorting": [[ 2, "desc" ]],
 			"aoColumns": [
 			null,
-		   { "mData": null , //its null here because history column will contain the mRender
-		      "mRender" : function ( data, type, full) {
-		      	return '<a href="offsite_SQ_drilldown.html#F'+ full[0] +'">'+full[1]+'</a>';
-		      }
-		    },
-			null,
-			null,
-			{"bVisible": false},
-			{"bVisible": false}
-			]
-		} );
+			{ "mData": null , //its null here because history column will contain the mRender
+			"mRender" : function ( data, type, full) {
+				return '<a href="offsite_SQ_drilldown.html#F'+ full[0] +'">'+full[1]+'</a>';
+			}
+		},
+		null,
+		null,
+	    null,
+        {"bVisible": false}		
+		{"bVisible": false},
+		{"bVisible": false},
+		{"bVisible": false},
+		{"bVisible": false}
+		]
 	} );
+} );
 	
 	$(document).ready(function() {
 	    $('#example4b').dataTable( {
@@ -260,30 +285,46 @@ var websiteName = websiteSplit[1];
 		                   null,
 						   {"bVisible": false},
 						   {"bVisible": false},
+						   {"bVisible": false},
+						   {"bVisible": false},
+						   null,
 		                   null,
-		                   null
+						   null,
+		                   {"bVisible": false}
 		               ]
 	    } );
 	} );
 	
 	</script>
 	
-	<script>
+	
+	<!-- <th width="5%">Influence rank</th>
+	<th width="55%">Feature</th>
+	<th width="10%">#URLs at risk</th>
+	<th width="10%">Average group feature value</th>
+	<th width="10%">Average losing mean</th> 
+	<th width="10%">Average at risk SQ</th>
+	<th width="10%">#URLs healthy</th>
+	<th width="10%">Average group feature value</th>
+	<th width="10%">Average winning mean</th>
+	<th width="10%">Average healthy SQ</th> -->
+	
+		<script>
 
 
 
 	
-	function doStuff()
-	      {
-	        var nameElement = document.getElementById("inputURL");
+		function doStuff()
+		{
+			var nameElement = document.getElementById("inputURL");
 	        
-	        var websiteURLlocal = nameElement.value;
+			var websiteURLlocal = nameElement.value;
 
-	        document.getElementById("someDiv").innerHTML = "for " + websiteURLlocal;
+			document.getElementById("someDiv").innerHTML = "for " + websiteURLlocal;
 	        
-	        // return websiteSplit[1];
-	      }
-	</script>
+			// return websiteSplit[1];
+		}
+		</script>
 	
 
 	
@@ -470,87 +511,103 @@ nv.addGraph(function() {
 			<!-- <hr> -->
 				  
 				  
-				<!-- <h2>Influential Feature Delta to Winning Mean</h2>
-					<p>For top 10 features on aggregate</p> -->
-					<!-- <div id="dynamic"> -->
-						<div class="span6">
-							<div class="panel panel-danger">
-								<div class="panel-heading">
-									<h3 class="panel-title">
-										URLs at risk
-									</h3>
-								</div>
-								<div class="panel-body">
+			<!-- <h2>Influential Feature Delta to Winning Mean</h2>
+				<p>For top 10 features on aggregate</p> -->
+				<!-- <div id="dynamic"> -->
+					<div class="span6">
+						<div class="panel panel-danger">
+							<div class="panel-heading">
+								<h3 class="panel-title">
+									URLs at risk
+								</h3>
+							</div>
+							<div class="panel-body">
 			  
-									<table cellpadding="0" cellspacing="0" border="0" class="display" id="example3">
-										<thead>
-											<tr>
-												<th width="5%">Influence rank</th>
-													<th width="55%">Feature</th>
-													<th width="10%">#URLs at risk</th>
-													<th width="10%">Average at risk SQ</th>
-													<th width="10%">#URLs healthy</th>
-													<th width="10%">Average healthy SQ</th>
-												</tr>
-											</thead>
-											<tbody>
-					  
-											</tbody>
-											<tfoot>
-												<tr>
-													<th>Influence rank</th>
-													<th>Feature</th>
-													<th>#URLs at risk</th>
-													<th>Average at risk SQ</th>
-													<th>#URLs healthy</th>
-													<th>Average healthy SQ</th>
-												</tr>
-											</tfoot>
-										</table>
-									</div> <!-- panel-body -->
-								</div> <!-- panel- panel danger -->						
-							</div>  <!-- span6 -->
-							<div></div>
+								<table cellpadding="0" cellspacing="0" border="0" class="display" id="example3">
+									<thead>
+										<tr>
+											<th width="5%">Influence rank</th>
+											<th width="55%">Feature</th>
+											<th width="10%">#URLs at risk</th>
+											<th width="10%">Average group feature value</th>
+											<th width="10%">Average losing mean</th> 
+											<th width="10%">Average at risk SQ</th>
+											<th width="10%">#URLs healthy</th>
+											<th width="10%">Average group feature value</th>
+											<th width="10%">Average winning mean</th>
+											<th width="10%">Average healthy SQ</th>
+										</tr>
+									</thead>
+									<tbody>
+		  
+									</tbody>
+									<tfoot>
+										<tr>
+											<th>Influence rank</th>
+											<th>Feature</th>
+											<th>#URLs at risk</th>
+											<th>Average group feature value</th>
+											<th>Average losing mean</th>
+											<th>Average at risk SQ</th>
+											<th>#URLs healthy</th>
+											<th>Average group feature value</th>
+											<th>Average winning mean</th>
+											<th>Average healthy SQ</th>
+										</tr>
+									</tfoot>
+								</table>
+							</div> <!-- panel-body -->
+						</div> <!-- panel- panel danger -->						
+					</div>  <!-- span6 -->
+					<div></div>
 		<div class="spacer"></div>
 		<div></div>
-							<div class="span6">
-										<div class="panel panel-success" id="healthyBackLinks">
-											<div class="panel-heading">
-												<h3 class="panel-title">
-													Healthy URLs
-												</h3>
-											</div>
-											<div class="panel-body">
+		<div class="span6">
+			<div class="panel panel-success" id="healthyBackLinks">
+				<div class="panel-heading">
+					<h3 class="panel-title">
+						Healthy URLs
+					</h3>
+				</div>
+				<div class="panel-body">
 			  
-												<table cellpadding="0" cellspacing="0" border="0" class="display" id="example3b">
-													<thead>
-														<tr>
-															<th width="5%">Influence rank</th>
-																<th width="55%">Feature</th>
-																<th width="10%">#URLs at risk</th>
-																<th width="10%">Average at risk SQ</th>
-																<th width="10%">#URLs healthy</th>
-																<th width="10%">Average healthy SQ</th>
-															</tr>
-														</thead>
-														<tbody>
+					<table cellpadding="0" cellspacing="0" border="0" class="display" id="example3b">
+						<thead>
+							<tr>
+								<th width="5%">Influence rank</th>
+								<th width="55%">Feature</th>
+								<th width="10%">#URLs at risk</th>
+								<th width="10%">Average group feature value</th>
+								<th width="10%">Average losing mean</th> 
+								<th width="10%">Average at risk SQ</th>
+								<th width="10%">#URLs healthy</th>
+								<th width="10%">Average group feature value</th>
+								<th width="10%">Average winning mean</th>
+								<th width="10%">Average healthy SQ</th>
+							</tr>
+						</thead>
+						<tbody>
 					  
-														</tbody>
-														<tfoot>
-															<tr>
-																<th>Influence rank</th>
-																<th>Feature</th>
-																<th>#URLs at risk</th>
-																<th>Average at risk SQ</th>
-																<th>#URLs healthy</th>
-																<th>Average healthy SQ</th>
-															</tr>
-														</tfoot>
-													</table>
-									</div> <!-- panel-body -->
-								</div> <!-- panel- panel success -->						
-							</div>  <!-- span6 -->
-						</div> <!-- pitch row-fluid -->
+						</tbody>
+						<tfoot>
+							<tr>
+								<th>Influence rank</th>
+								<th>Feature</th>
+								<th>#URLs at risk</th>
+								<th>Average group feature value</th>
+								<th>Average losing mean</th>
+								<th>Average at risk SQ</th>
+								<th>#URLs healthy</th>
+								<th>Average group feature value</th>
+								<th>Average winning mean</th>
+								<th>Average healthy SQ</th>
+							</tr>
+						</tfoot>
+					</table>
+				</div> <!-- panel-body -->
+			</div> <!-- panel- panel success -->						
+		</div>  <!-- span6 -->
+	</div> <!-- pitch row-fluid -->
 									
 								
 		  
@@ -598,29 +655,37 @@ nv.addGraph(function() {
 									  <p>For top 10 features on aggregate</p> -->
 					  
 									  <table cellpadding="0" cellspacing="0" border="0" class="display" id="example4">
-										  <thead>
-											  <tr>
-												  <th width="5%">Influence rank</th>
-												  <th width="55%">Feature</th>
-												  <th width="10%">#URLs at risk</th>
-												  <th width="10%">Average at risk SQ</th>
-												  <th width="10%">#URLs healthy</th>
-												  <th width="10%">Average healthy SQ</th>
-											  </tr>
-										  </thead>
-										  <tbody>
-				  
-										  </tbody>
-										  <tfoot>
-											  <tr>
-												  <th>Influence rank</th>
-												  <th>Feature</th>
-												  <th>#URLs at risk</th>
-												  <th>Average at risk SQ</th>
-												  <th>#URLs healthy</th>
-												  <th>Average healthy SQ</th>
-											  </tr>
-										  </tfoot>
+										<thead>
+											<tr>
+													<th width="5%">Influence rank</th>
+													<th width="55%">Feature</th>
+													<th width="10%">#URLs at risk</th>
+													<th width="10%">Average group feature value</th>
+													<th width="10%">Average losing mean</th> 
+													<th width="10%">Average at risk SQ</th>
+													<th width="10%">#URLs healthy</th>
+													<th width="10%">Average group feature value</th>
+													<th width="10%">Average winning mean</th>
+													<th width="10%">Average healthy SQ</th>
+												</tr>
+											</thead>
+											<tbody>
+		  
+											</tbody>
+											<tfoot>
+												<tr>
+													<th>Influence rank</th>
+													<th>Feature</th>
+													<th>#URLs at risk</th>
+													<th>Average group feature value</th>
+													<th>Average losing mean</th>
+													<th>Average at risk SQ</th>
+													<th>#URLs healthy</th>
+													<th>Average group feature value</th>
+													<th>Average winning mean</th>
+													<th>Average healthy SQ</th>
+												</tr>
+											</tfoot>
 									  </table>
 								  </div>  <!-- panel body -->
 			
@@ -638,29 +703,37 @@ nv.addGraph(function() {
 								  </div> <!-- panel heading -->
 								  <div class="panel-body">
 									  <table cellpadding="0" cellspacing="0" border="0" class="display" id="example4b">
-										  <thead>
-											  <tr>
-												  <th width="5%">Influence rank</th>
-												  <th width="55%">Feature</th>
-												  <th width="10%">#URLs at risk</th>
-												  <th width="10%">Average at risk SQ</th>
-												  <th width="10%">#URLs healthy</th>
-												  <th width="10%">Average healthy SQ</th>
-											  </tr>
-										  </thead>
-										  <tbody>
-			  
-										  </tbody>
-										  <tfoot>
-											  <tr>
-												  <th>Influence rank</th>
-												  <th>Feature</th>
-												  <th>#URLs at risk</th>
-												  <th>Average at risk SQ</th>
-												  <th>#URLs healthy</th>
-												  <th>Average healthy SQ</th>
-											  </tr>
-										  </tfoot>
+										<thead>
+											<tr>
+													<th width="5%">Influence rank</th>
+													<th width="55%">Feature</th>
+													<th width="10%">#URLs at risk</th>
+													<th width="10%">Average group feature value</th>
+													<th width="10%">Average losing mean</th> 
+													<th width="10%">Average at risk SQ</th>
+													<th width="10%">#URLs healthy</th>
+													<th width="10%">Average group feature value</th>
+													<th width="10%">Average winning mean</th>
+													<th width="10%">Average healthy SQ</th>
+												</tr>
+											</thead>
+											<tbody>
+		  
+											</tbody>
+											<tfoot>
+												<tr>
+													<th>Influence rank</th>
+													<th>Feature</th>
+													<th>#URLs at risk</th>
+													<th>Average group feature value</th>
+													<th>Average losing mean</th>
+													<th>Average at risk SQ</th>
+													<th>#URLs healthy</th>
+													<th>Average group feature value</th>
+													<th>Average winning mean</th>
+													<th>Average healthy SQ</th>
+												</tr>
+											</tfoot>
 									  </table>
 								  </div>  <!-- panel body -->
 						
