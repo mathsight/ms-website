@@ -194,7 +194,7 @@ var feature_list= {1:"average_backlink_flesch_reading_ease",
 
 		$(document).ready(function() {
 			$('#example1').dataTable( {
-				"bProcessing": true,
+				//"bProcessing": true,
 				"sAjaxSource": "/json/drilldown/"+websiteName+"_XDrill.json",
 				"sAjaxDataProp": "onsite."+ feature_list[1],
 				"aoColumns": [
@@ -1314,7 +1314,7 @@ rel="stylesheet" type="text/css">
 		  
 		  <hr>
 		  
-		  <!-- <h3><a id="F18"><script>document.write(feature_list[18].replace(/_/g," "));</script></a></h3>
+		  <h3><a id="F18"><script>document.write(feature_list[18].replace(/_/g," "));</script></a></h3>
 		  <div id="dynamic">
 			  <table cellpadding="0" cellspacing="0" border="0" class="display" id="example18">
 				  <thead>
@@ -1409,10 +1409,77 @@ rel="stylesheet" type="text/css">
 					  </tr>
 				  </tfoot>
 			  </table>
-		  </div> -->
+		  </div>
 
 		  
-		  <!-- <hr> -->
+		  <hr>
+			  <h3><a id="F21"><script>document.write(feature_list[21].replace(/_/g," "));</script></a></h3>
+				  
+		  <div id="dynamic">
+			  <table cellpadding="0" cellspacing="0" border="0" class="display" id="example21">
+				  <thead>
+					<tr>
+						<th width="70%" rowspan="2">Page URL</th>
+						<th width="30%" colspan="3">Feature data</th>  
+					</tr>
+					<tr>
+						<th width="10%">Value</th>
+						<th width="10%">Cluster mean</th>
+						<th width="10%">Delta</th>
+					</tr>
+				  </thead>
+				  <tbody>
+					  
+				  </tbody>
+				  <tfoot>
+					  <tr>
+						  <th rowspan="2" >Page URL</th>
+						  <th>Value</th>
+						  <th>Cluster mean</th>
+						  <th>Delta</th>
+					  </tr>
+					  <tr>
+						  <th colspan="3">Feature data</th>
+					  </tr>
+				  </tfoot>
+			  </table>
+		  </div>
+		  
+		  <hr>
+		  
+		  <h3><a id="F22"><script>document.write(feature_list[22].replace(/_/g," "));</script></a></h3>
+		  <div id="dynamic">
+			  <table cellpadding="0" cellspacing="0" border="0" class="display" id="example22">
+				  <thead>
+					<tr>
+						<th width="70%" rowspan="2">Page URL</th>
+						<th width="30%" colspan="3">Feature data</th>  
+					</tr>
+					<tr>
+						<th width="10%">Value</th>
+						<th width="10%">Cluster mean</th>
+						<th width="10%">Delta</th>
+					</tr>
+				  </thead>
+				  <tbody>
+					  
+				  </tbody>
+				  <tfoot>
+					  <tr>
+						  <th rowspan="2" >Page URL</th>
+						  <th>Value</th>
+						  <th>Cluster mean</th>
+						  <th>Delta</th>
+					  </tr>
+					  <tr>
+						  <th colspan="3">Feature data</th>
+					  </tr>
+				  </tfoot>
+			  </table>
+		  </div>
+		  
+		  <hr>
+		  
 		  
 		  <p>
 		  <a href="/statseo.html">Return to top level summary</a>
