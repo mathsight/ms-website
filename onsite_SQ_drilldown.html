@@ -129,23 +129,28 @@ var websiteURL = "www.dizzyheights.com";
 var websiteSplit = websiteURL.split(".");
 var websiteName = websiteSplit[1];
 
-var feature_list= {1:"number_of_inline_css_styles",
-2:"average_backlink_flesch_kincaid_grade",
-3:"number_of_images_missing_alt",
-4:"number_of_images",
-5:"total_number_of_words",
-6:"number_of_unique_words",
-7:"number_of_destination_titles_same_as_anchor_text",
-8:"maximum_length_of_h1",
-9:"average_length_of_h1",
-10:"average_backlink_dale_chall_readability",
-11:"number_of_duplicate_words",
-12:"number_of_hyperlinks_with_file",
-13:"number_of_rare_words",
-14:"total_number_of_5k_common_words",
-15:"number_of_titles_same_as_h1",
-16:"number_of_iframes",
-17:"html5_detected"
+var feature_list= {1:"average_backlink_flesch_reading_ease",
+2:"number_of_inline_css_styles",
+3:"average_backlink_flesch_kincaid_grade",
+4:"number_of_images_missing_alt",
+5:"number_of_h1_instances",
+6:"number_of_images",
+7:"total_number_of_words",
+8:"total_number_of_dictionary_words",
+9:"number_of_hyperlinks_with_html",
+10:"number_of_unique_words",
+11:"ratio_of_dictionary_words_to_total",
+12:"number_of_destination_titles_same_as_anchor_text",
+13:"maximum_length_of_h1",
+14:"average_length_of_h1",
+15:"average_backlink_dale_chall_readability",
+16:"number_of_duplicate_words",
+17:"number_of_hyperlinks_with_file",
+18:"number_of_rare_words",
+19:"total_number_of_5k_common_words",
+20:"number_of_titles_same_as_h1",
+21:"number_of_iframes",
+22:"html5_detected"
 };
 
 // var feature_list= {1:"average_backlink_flesch_reading_ease",
@@ -493,60 +498,99 @@ $(document).ready(function() {
 		"aaSorting": [[ 3, "desc" ]]
 	} );
 } );
-// $(document).ready(function() {
-// 	$('#example18').dataTable( {
-// 		"bProcessing": true,
-// 		"sAjaxSource": "/json/drilldown/"+websiteName+"_XDrill.json",
-// 		"sAjaxDataProp": "onsite."+ feature_list[18],
-// 		"aoColumns": [
-// 		{ "mData": "html_id",
-// 		"mRender" : function ( data, type, full) {
-// 								return '<a href="'+ data +'">'+data+'</a>';
-// 													}
-// 		},
-// 		        { "mData": "feature_value" },
-// 		        { "mData": "cluster_win_mean" },
-// 		        { "mData": "delta" }
-// 				],
-// 		"aaSorting": [[ 3, "desc" ]]
-// 	} );
-// } );
-// $(document).ready(function() {
-// 	$('#example19').dataTable( {
-// 		"bProcessing": true,
-// 		"sAjaxSource": "/json/drilldown/"+websiteName+"_XDrill.json",
-// 		"sAjaxDataProp": "onsite."+ feature_list[19],
-// 		"aoColumns": [
-// 		{ "mData": "html_id",
-// 		"mRender" : function ( data, type, full) {
-// 								return '<a href="'+ data +'">'+data+'</a>';
-// 													}
-// 		},
-// 		        { "mData": "feature_value" },
-// 		        { "mData": "cluster_win_mean" },
-// 		        { "mData": "delta" }
-// 				],
-// 		"aaSorting": [[ 3, "desc" ]]
-// 	} );
-// } );
-// $(document).ready(function() {
-// 	$('#example20').dataTable( {
-// 		"bProcessing": true,
-// 		"sAjaxSource": "/json/drilldown/"+websiteName+"_XDrill.json",
-// 		"sAjaxDataProp": "onsite."+ feature_list[20],
-// 		"aoColumns": [
-// 		{ "mData": "html_id",
-// 		"mRender" : function ( data, type, full) {
-// 								return '<a href="'+ data +'">'+data+'</a>';
-// 													}
-// 		},
-// 		        { "mData": "feature_value" },
-// 		        { "mData": "cluster_win_mean" },
-// 		        { "mData": "delta" }
-// 				],
-// 		"aaSorting": [[ 3, "desc" ]]
-// 	} );
-// } );
+$(document).ready(function() {
+	$('#example18').dataTable( {
+		"bProcessing": true,
+		"sAjaxSource": "/json/drilldown/"+websiteName+"_XDrill.json",
+		"sAjaxDataProp": "onsite."+ feature_list[18],
+		"aoColumns": [
+		{ "mData": "html_id",
+		"mRender" : function ( data, type, full) {
+								return '<a href="'+ data +'">'+data+'</a>';
+													}
+		},
+		        { "mData": "feature_value" },
+		        { "mData": "cluster_win_mean" },
+		        { "mData": "delta" }
+				],
+		"aaSorting": [[ 3, "desc" ]]
+	} );
+} );
+$(document).ready(function() {
+	$('#example19').dataTable( {
+		"bProcessing": true,
+		"sAjaxSource": "/json/drilldown/"+websiteName+"_XDrill.json",
+		"sAjaxDataProp": "onsite."+ feature_list[19],
+		"aoColumns": [
+		{ "mData": "html_id",
+		"mRender" : function ( data, type, full) {
+								return '<a href="'+ data +'">'+data+'</a>';
+													}
+		},
+		        { "mData": "feature_value" },
+		        { "mData": "cluster_win_mean" },
+		        { "mData": "delta" }
+				],
+		"aaSorting": [[ 3, "desc" ]]
+	} );
+} );
+$(document).ready(function() {
+	$('#example20').dataTable( {
+		"bProcessing": true,
+		"sAjaxSource": "/json/drilldown/"+websiteName+"_XDrill.json",
+		"sAjaxDataProp": "onsite."+ feature_list[20],
+		"aoColumns": [
+		{ "mData": "html_id",
+		"mRender" : function ( data, type, full) {
+								return '<a href="'+ data +'">'+data+'</a>';
+													}
+		},
+		        { "mData": "feature_value" },
+		        { "mData": "cluster_win_mean" },
+		        { "mData": "delta" }
+				],
+		"aaSorting": [[ 3, "desc" ]]
+	} );
+} );
+	$(document).ready(function() {
+		$('#example21').dataTable( {
+			"bProcessing": true,
+			"sAjaxSource": "/json/drilldown/"+websiteName+"_XDrill.json",
+			"sAjaxDataProp": "onsite."+ feature_list[21],
+			"aoColumns": [
+			{ "mData": "html_id",
+			"mRender" : function ( data, type, full) {
+									return '<a href="'+ data +'">'+data+'</a>';
+														}
+			},
+			{ "mData": "feature_value" },
+			{ "mData": "cluster_win_mean" },
+			{ "mData": "delta" }
+			],
+			"aaSorting": [[ 3, "desc" ]]
+		} );
+} );
+$(document).ready(function() {
+	$('#example22').dataTable( {
+		"bProcessing": true,
+		"sAjaxSource": "/json/drilldown/"+websiteName+"_XDrill.json",
+		"sAjaxDataProp": "onsite."+ feature_list[22],
+		"aoColumns": [
+		{ "mData": "html_id",
+		"mRender" : function ( data, type, full) {
+								return '<a href="'+ data +'">'+data+'</a>';
+													}
+		},
+		        { "mData": "feature_value" },
+		        { "mData": "cluster_win_mean" },
+		        { "mData": "delta" }
+				],
+		"aaSorting": [[ 3, "desc" ]]
+	} );
+} );
+
+
+
 } );
 	
 
