@@ -125,29 +125,32 @@
 
 // data for chart
 
-var websiteURL = "www.alchemyviral.com";
+var websiteURL = "www.dizzyheights.com";
 var websiteSplit = websiteURL.split(".");
 var websiteName = websiteSplit[1];
 
 var feature_list= {1:"average_backlink_flesch_reading_ease",
-2:"number_of_images_missing_alt",
-3:"number_of_embedded_javascripts",
-4:"title_number_of_dictionary_words",
-5:"number_of_images",
-6:"number_of_scripts",
-7:"ratio_of_common_words_to_total",
-8:"number_of_inline_css_styles",
-9:"number_of_images_in_body",
-10:"html5_detected",
-11:"maximum_length_of_h1",
-12:"ratio_of_rare_words_to_total",
-13:"average_length_of_h1",
-14:"number_of_embedded_styles",
-15:"number_of_iframes",
-16:"number_of_external_css_styles",
-17:"maximum_length_of_h2",
-18:"average_length_of_h2",
-19:"number_of_dhtml_scripts"
+2:"number_of_inline_css_styles",
+3:"average_backlink_flesch_kincaid_grade",
+4:"number_of_images_missing_alt",
+5:"number_of_h1_instances",
+6:"number_of_images",
+7:"total_number_of_words",
+8:"total_number_of_dictionary_words",
+9:"number_of_hyperlinks_with_html",
+10:"number_of_unique_words",
+11:"ratio_of_dictionary_words_to_total",
+12:"number_of_destination_titles_same_as_anchor_text",
+13:"maximum_length_of_h1",
+14:"average_length_of_h1",
+15:"average_backlink_dale_chall_readability",
+16:"number_of_duplicate_words",
+17:"number_of_hyperlinks_with_file",
+18:"number_of_rare_words",
+19:"total_number_of_5k_common_words",
+20:"number_of_hyperlinks_with_file",
+21:"number_of_rare_words",
+22:"number_of_hyperlinks_with_file"
 };
 
 	$(document).ready(function() {
@@ -345,6 +348,186 @@ var feature_list= {1:"average_backlink_flesch_reading_ease",
 			"aaSorting": [[ 3, "desc" ]]
 		} );
 	} );
+	$(document).ready(function() {
+		$('#example11').dataTable( {
+			"bProcessing": true,
+			"sAjaxSource": "/json/drilldown/"+websiteName+"_XDrill.json",
+			"sAjaxDataProp": "onsite."+ feature_list[11],
+			"aoColumns": [
+			{ "mData": "html_id",
+			"mRender" : function ( data, type, full) {
+									return '<a href="'+ data +'">'+data+'</a>';
+														}
+			},
+			{ "mData": "feature_value" },
+			{ "mData": "cluster_win_mean" },
+			{ "mData": "delta" }
+			],
+			"aaSorting": [[ 3, "desc" ]]
+		} );
+} );
+$(document).ready(function() {
+	$('#example12').dataTable( {
+		"bProcessing": true,
+		"sAjaxSource": "/json/drilldown/"+websiteName+"_XDrill.json",
+		"sAjaxDataProp": "onsite."+ feature_list[12],
+		"aoColumns": [
+		{ "mData": "html_id",
+		"mRender" : function ( data, type, full) {
+								return '<a href="'+ data +'">'+data+'</a>';
+													}
+		},
+		        { "mData": "feature_value" },
+		        { "mData": "cluster_win_mean" },
+		        { "mData": "delta" }
+				],
+		"aaSorting": [[ 3, "desc" ]]
+	} );
+} );
+$(document).ready(function() {
+	$('#example13').dataTable( {
+		"bProcessing": true,
+		"sAjaxSource": "/json/drilldown/"+websiteName+"_XDrill.json",
+		"sAjaxDataProp": "onsite."+ feature_list[13],
+		"aoColumns": [
+		{ "mData": "html_id",
+		"mRender" : function ( data, type, full) {
+								return '<a href="'+ data +'">'+data+'</a>';
+													}
+		},
+		        { "mData": "feature_value" },
+		        { "mData": "cluster_win_mean" },
+		        { "mData": "delta" }
+				],
+		"aaSorting": [[ 3, "desc" ]]
+	} );
+} );
+$(document).ready(function() {
+	$('#example14').dataTable( {
+		"bProcessing": true,
+		"sAjaxSource": "/json/drilldown/"+websiteName+"_XDrill.json",
+		"sAjaxDataProp": "onsite."+ feature_list[14],
+		"aoColumns": [
+		{ "mData": "html_id",
+		"mRender" : function ( data, type, full) {
+								return '<a href="'+ data +'">'+data+'</a>';
+													}
+		},
+		        { "mData": "feature_value" },
+		        { "mData": "cluster_win_mean" },
+		        { "mData": "delta" }
+				],
+		"aaSorting": [[ 3, "desc" ]]
+	} );
+} );
+$(document).ready(function() {
+	$('#example15').dataTable( {
+		"bProcessing": true,
+		"sAjaxSource": "/json/drilldown/"+websiteName+"_XDrill.json",
+		"sAjaxDataProp": "onsite."+ feature_list[15],
+		"aoColumns": [
+		{ "mData": "html_id",
+		"mRender" : function ( data, type, full) {
+								return '<a href="'+ data +'">'+data+'</a>';
+													}
+		},
+		        { "mData": "feature_value" },
+		        { "mData": "cluster_win_mean" },
+		        { "mData": "delta" }
+				],
+		"aaSorting": [[ 3, "desc" ]]
+	} );
+} );
+$(document).ready(function() {
+	$('#example16').dataTable( {
+		"bProcessing": true,
+		"sAjaxSource": "/json/drilldown/"+websiteName+"_XDrill.json",
+		"sAjaxDataProp": "onsite."+ feature_list[16],
+		"aoColumns": [
+		{ "mData": "html_id",
+		"mRender" : function ( data, type, full) {
+								return '<a href="'+ data +'">'+data+'</a>';
+													}
+		},
+		        { "mData": "feature_value" },
+		        { "mData": "cluster_win_mean" },
+		        { "mData": "delta" }
+				],
+		"aaSorting": [[ 3, "desc" ]]
+	} );
+} );
+$(document).ready(function() {
+	$('#example17').dataTable( {
+		"bProcessing": true,
+		"sAjaxSource": "/json/drilldown/"+websiteName+"_XDrill.json",
+		"sAjaxDataProp": "onsite."+ feature_list[17],
+		"aoColumns": [
+		{ "mData": "html_id",
+		"mRender" : function ( data, type, full) {
+								return '<a href="'+ data +'">'+data+'</a>';
+													}
+		},
+		        { "mData": "feature_value" },
+		        { "mData": "cluster_win_mean" },
+		        { "mData": "delta" }
+				],
+		"aaSorting": [[ 3, "desc" ]]
+	} );
+} );
+$(document).ready(function() {
+	$('#example18').dataTable( {
+		"bProcessing": true,
+		"sAjaxSource": "/json/drilldown/"+websiteName+"_XDrill.json",
+		"sAjaxDataProp": "onsite."+ feature_list[18],
+		"aoColumns": [
+		{ "mData": "html_id",
+		"mRender" : function ( data, type, full) {
+								return '<a href="'+ data +'">'+data+'</a>';
+													}
+		},
+		        { "mData": "feature_value" },
+		        { "mData": "cluster_win_mean" },
+		        { "mData": "delta" }
+				],
+		"aaSorting": [[ 3, "desc" ]]
+	} );
+} );
+$(document).ready(function() {
+	$('#example19').dataTable( {
+		"bProcessing": true,
+		"sAjaxSource": "/json/drilldown/"+websiteName+"_XDrill.json",
+		"sAjaxDataProp": "onsite."+ feature_list[19],
+		"aoColumns": [
+		{ "mData": "html_id",
+		"mRender" : function ( data, type, full) {
+								return '<a href="'+ data +'">'+data+'</a>';
+													}
+		},
+		        { "mData": "feature_value" },
+		        { "mData": "cluster_win_mean" },
+		        { "mData": "delta" }
+				],
+		"aaSorting": [[ 3, "desc" ]]
+	} );
+} );
+$(document).ready(function() {
+	$('#example20').dataTable( {
+		"bProcessing": true,
+		"sAjaxSource": "/json/drilldown/"+websiteName+"_XDrill.json",
+		"sAjaxDataProp": "onsite."+ feature_list[20],
+		"aoColumns": [
+		{ "mData": "html_id",
+		"mRender" : function ( data, type, full) {
+								return '<a href="'+ data +'">'+data+'</a>';
+													}
+		},
+		        { "mData": "feature_value" },
+		        { "mData": "cluster_win_mean" },
+		        { "mData": "delta" }
+				],
+		"aaSorting": [[ 3, "desc" ]]
+	} );
+} );
 } );
 	
 
@@ -836,6 +1019,338 @@ rel="stylesheet" type="text/css">
 
 		  
 		  <hr>
+			  <h3><a id="F11"><script>document.write(feature_list[11].replace(/_/g," "));</script></a></h3>
+				  
+		  <div id="dynamic">
+			  <table cellpadding="0" cellspacing="0" border="0" class="display" id="example1">
+				  <thead>
+					<tr>
+						<th width="70%" rowspan="2">Page URL</th>
+						<th width="30%" colspan="3">Feature data</th>  
+					</tr>
+					<tr>
+						<th width="10%">Value</th>
+						<th width="10%">Cluster mean</th>
+						<th width="10%">Delta</th>
+					</tr>
+				  </thead>
+				  <tbody>
+					  
+				  </tbody>
+				  <tfoot>
+					  <tr>
+						  <th rowspan="2" >Page URL</th>
+						  <th>Value</th>
+						  <th>Cluster mean</th>
+						  <th>Delta</th>
+					  </tr>
+					  <tr>
+						  <th colspan="3">Feature data</th>
+					  </tr>
+				  </tfoot>
+			  </table>
+		  </div>
+		  
+		  <hr>
+		  
+		  <h3><a id="F12"><script>document.write(feature_list[12].replace(/_/g," "));</script></a></h3>
+		  <div id="dynamic">
+			  <table cellpadding="0" cellspacing="0" border="0" class="display" id="example2">
+				  <thead>
+					<tr>
+						<th width="70%" rowspan="2">Page URL</th>
+						<th width="30%" colspan="3">Feature data</th>  
+					</tr>
+					<tr>
+						<th width="10%">Value</th>
+						<th width="10%">Cluster mean</th>
+						<th width="10%">Delta</th>
+					</tr>
+				  </thead>
+				  <tbody>
+					  
+				  </tbody>
+				  <tfoot>
+					  <tr>
+						  <th rowspan="2" >Page URL</th>
+						  <th>Value</th>
+						  <th>Cluster mean</th>
+						  <th>Delta</th>
+					  </tr>
+					  <tr>
+						  <th colspan="3">Feature data</th>
+					  </tr>
+				  </tfoot>
+			  </table>
+		  </div>
+		  
+		  <hr>
+		  
+		  <h3><a id="F13"><script>document.write(feature_list[13].replace(/_/g," "));</script></a></h3>
+		  <div id="dynamic">
+			  <table cellpadding="0" cellspacing="0" border="0" class="display" id="example3">
+				  <thead>
+					<tr>
+						<th width="70%" rowspan="2">Page URL</th>
+						<th width="30%" colspan="3">Feature data</th>  
+					</tr>
+					<tr>
+						<th width="10%">Value</th>
+						<th width="10%">Cluster mean</th>
+						<th width="10%">Delta</th>
+					</tr>
+				  </thead>
+				  <tbody>
+					  
+				  </tbody>
+				  <tfoot>
+					  <tr>
+						  <th rowspan="2" >Page URL</th>
+						  <th>Value</th>
+						  <th>Cluster mean</th>
+						  <th>Delta</th>
+					  </tr>
+					  <tr>
+						  <th colspan="3">Feature data</th>
+					  </tr>
+				  </tfoot>
+			  </table>
+		  </div>
+		  
+		  <hr>
+		  
+		  <h3><a id="F14"><script>document.write(feature_list[14].replace(/_/g," "));</script></a></h3>
+		  <div id="dynamic">
+			  <table cellpadding="0" cellspacing="0" border="0" class="display" id="example4">
+				  <thead>
+					<tr>
+						<th width="70%" rowspan="2">Page URL</th>
+						<th width="30%" colspan="3">Feature data</th>  
+					</tr>
+					<tr>
+						<th width="10%">Value</th>
+						<th width="10%">Cluster mean</th>
+						<th width="10%">Delta</th>
+					</tr>
+				  </thead>
+				  <tbody>
+					  
+				  </tbody>
+				  <tfoot>
+					  <tr>
+						  <th rowspan="2" >Page URL</th>
+						  <th>Value</th>
+						  <th>Cluster mean</th>
+						  <th>Delta</th>
+					  </tr>
+					  <tr>
+						  <th colspan="3">Feature data</th>
+					  </tr>
+				  </tfoot>
+			  </table>
+		  </div>
+		  
+		  <hr>
+		  
+		  <h3><a id="F15"><script>document.write(feature_list[15].replace(/_/g," "));</script></a></h3>
+		  <div id="dynamic">
+			  <table cellpadding="0" cellspacing="0" border="0" class="display" id="example5">
+				  <thead>
+					<tr>
+						<th width="70%" rowspan="2">Page URL</th>
+						<th width="30%" colspan="3">Feature data</th>  
+					</tr>
+					<tr>
+						<th width="10%">Value</th>
+						<th width="10%">Cluster mean</th>
+						<th width="10%">Delta</th>
+					</tr>
+				  </thead>
+				  <tbody>
+					  
+				  </tbody>
+				  <tfoot>
+					  <tr>
+						  <th rowspan="2" >Page URL</th>
+						  <th>Value</th>
+						  <th>Cluster mean</th>
+						  <th>Delta</th>
+					  </tr>
+					  <tr>
+						  <th colspan="3">Feature data</th>
+					  </tr>
+				  </tfoot>
+			  </table>
+		  </div>
+		  
+		  <hr>
+		  
+		  <h3><a id="F16"><script>document.write(feature_list[16].replace(/_/g," "));</script></a></h3>
+		  <div id="dynamic">
+			  <table cellpadding="0" cellspacing="0" border="0" class="display" id="example6">
+				  <thead>
+					<tr>
+						<th width="70%" rowspan="2">Page URL</th>
+						<th width="30%" colspan="3">Feature data</th>  
+					</tr>
+					<tr>
+						<th width="10%">Value</th>
+						<th width="10%">Cluster mean</th>
+						<th width="10%">Delta</th>
+					</tr>
+				  </thead>
+				  <tbody>
+					  
+				  </tbody>
+				  <tfoot>
+					  <tr>
+						  <th rowspan="2" >Page URL</th>
+						  <th>Value</th>
+						  <th>Cluster mean</th>
+						  <th>Delta</th>
+					  </tr>
+					  <tr>
+						  <th colspan="3">Feature data</th>
+					  </tr>
+				  </tfoot>
+			  </table>
+		  </div>
+		  
+		  <hr>
+		  
+		  <h3><a id="F17"><script>document.write(feature_list[17].replace(/_/g," "));</script></a></h3>
+		  <div id="dynamic">
+			  <table cellpadding="0" cellspacing="0" border="0" class="display" id="example7">
+				  <thead>
+					<tr>
+						<th width="70%" rowspan="2">Page URL</th>
+						<th width="30%" colspan="3">Feature data</th>  
+					</tr>
+					<tr>
+						<th width="10%">Value</th>
+						<th width="10%">Cluster mean</th>
+						<th width="10%">Delta</th>
+					</tr>
+				  </thead>
+				  <tbody>
+					  
+				  </tbody>
+				  <tfoot>
+					  <tr>
+						  <th rowspan="2" >Page URL</th>
+						  <th>Value</th>
+						  <th>Cluster mean</th>
+						  <th>Delta</th>
+					  </tr>
+					  <tr>
+						  <th colspan="3">Feature data</th>
+					  </tr>
+				  </tfoot>
+			  </table>
+		  </div>
+		  
+		  <hr>
+		  
+		  <h3><a id="F18"><script>document.write(feature_list[18].replace(/_/g," "));</script></a></h3>
+		  <div id="dynamic">
+			  <table cellpadding="0" cellspacing="0" border="0" class="display" id="example8">
+				  <thead>
+					<tr>
+						<th width="70%" rowspan="2">Page URL</th>
+						<th width="30%" colspan="3">Feature data</th>  
+					</tr>
+					<tr>
+						<th width="10%">Value</th>
+						<th width="10%">Cluster mean</th>
+						<th width="10%">Delta</th>
+					</tr>
+				  </thead>
+				  <tbody>
+					  
+				  </tbody>
+				  <tfoot>
+					  <tr>
+						  <th rowspan="2" >Page URL</th>
+						  <th>Value</th>
+						  <th>Cluster mean</th>
+						  <th>Delta</th>
+					  </tr>
+					  <tr>
+						  <th colspan="3">Feature data</th>
+					  </tr>
+				  </tfoot>
+			  </table>
+		  </div>
+		  
+		  <hr>
+		  
+		  <h3><a id="F19"><script>document.write(feature_list[19].replace(/_/g," "));</script></a></h3>
+		  <div id="dynamic">
+			  <table cellpadding="0" cellspacing="0" border="0" class="display" id="example9">
+				  <thead>
+					<tr>
+						<th width="70%" rowspan="2">Page URL</th>
+						<th width="30%" colspan="3">Feature data</th>  
+					</tr>
+					<tr>
+						<th width="10%">Value</th>
+						<th width="10%">Cluster mean</th>
+						<th width="10%">Delta</th>
+					</tr>
+				  </thead>
+				  <tbody>
+					  
+				  </tbody>
+				  <tfoot>
+					  <tr>
+						  <th rowspan="2" >Page URL</th>
+						  <th>Value</th>
+						  <th>Cluster mean</th>
+						  <th>Delta</th>
+					  </tr>
+					  <tr>
+						  <th colspan="3">Feature data</th>
+					  </tr>
+				  </tfoot>
+			  </table>
+		  </div>
+		  
+		  <hr>
+		  
+		  <h3><a id="F20"><script>document.write(feature_list[20].replace(/_/g," "));</script></a></h3>
+		  <div id="dynamic">
+			  <table cellpadding="0" cellspacing="0" border="0" class="display" id="example10">
+				  <thead>
+					<tr>
+						<th width="70%" rowspan="2">Page URL</th>
+						<th width="30%" colspan="3">Feature data</th>  
+					</tr>
+					<tr>
+						<th width="10%">Value</th>
+						<th width="10%">Cluster mean</th>
+						<th width="10%">Delta</th>
+					</tr>
+				  </thead>
+				  <tbody>
+					  
+				  </tbody>
+				  <tfoot>
+					  <tr>
+						  <th rowspan="2" >Page URL</th>
+						  <th>Value</th>
+						  <th>Cluster mean</th>
+						  <th>Delta</th>
+					  </tr>
+					  <tr>
+						  <th colspan="3">Feature data</th>
+					  </tr>
+				  </tfoot>
+			  </table>
+		  </div>
+
+		  
+		  <hr>
+		  
 		  <p>
 		  <a href="/statseo.html">Return to top level summary</a>
 		  </p>
@@ -849,9 +1364,9 @@ rel="stylesheet" type="text/css">
 		  </div>
 
 		  <hr>
-		  <p>
+		  <!-- <p>
 		  <a href="/statseo.html">Return to top level summary</a>
-		  </p>
+		  </p> -->
 		  <div class="spacer"></div>
 
 		  <!-- For the FAQ, we introduce a little bit of JS, using the accordion. -->
