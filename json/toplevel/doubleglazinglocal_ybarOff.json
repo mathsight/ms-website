@@ -9,7 +9,7 @@
 			},
 			{
 				"label": "Offsite",
-				"value": 3
+				"value": 2
 			}
 		]
 	},
@@ -23,7 +23,7 @@
 			},
 			{
 				"label": "Offsite",
-				"value": 0
+				"value": 1
 			}
 		]
 	},

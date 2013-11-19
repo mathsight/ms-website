@@ -1,46 +1,88 @@
 {
 	"onsite": {
+		"average_backlink_flesch_reading_ease": {
+			"html_id": "http://www.kemptonantiques.com",
+			"feature_value": "0",
+			"cluster_win_mean": "53.39",
+			"delta": "53.39"
+		},
 		"number_of_images_missing_alt": {
 			"html_id": "http://www.kemptonantiques.com",
 			"feature_value": "0",
-			"cluster_win_mean": "11.2",
-			"delta": "11.2"
+			"cluster_win_mean": "15.5",
+			"delta": "15.5"
 		},
-		"number_of_scripts": {
-			"html_id": "http://www.kemptonantiques.com",
-			"feature_value": "1",
-			"cluster_win_mean": "17.88",
-			"delta": "16.88"
-		},
-		"number_of_images_in_body": {
+		"number_of_images": {
 			"html_id": "http://www.kemptonantiques.com",
 			"feature_value": "0",
-			"cluster_win_mean": "11.27",
-			"delta": "11.27"
+			"cluster_win_mean": "15.47",
+			"delta": "15.47"
+		},
+		"total_number_of_words": {
+			"html_id": "http://www.kemptonantiques.com",
+			"feature_value": "6",
+			"cluster_win_mean": "54.12",
+			"delta": "48.12"
+		},
+		"total_number_of_dictionary_words": {
+			"html_id": "http://www.kemptonantiques.com",
+			"feature_value": "0",
+			"cluster_win_mean": "2.5",
+			"delta": "2.5"
+		},
+		"number_of_hyperlinks_with_html": {
+			"html_id": "http://www.kemptonantiques.com",
+			"feature_value": "0",
+			"cluster_win_mean": "42.78",
+			"delta": "42.78"
+		},
+		"number_of_unique_words": {
+			"html_id": "http://www.kemptonantiques.com",
+			"feature_value": "2",
+			"cluster_win_mean": "37.03",
+			"delta": "35.03"
+		},
+		"ratio_of_dictionary_words_to_total": {
+			"html_id": "http://www.kemptonantiques.com",
+			"feature_value": "0",
+			"cluster_win_mean": "0.01",
+			"delta": "0.01"
+		},
+		"number_of_destination_titles_same_as_anchor_text": {
+			"html_id": "http://www.kemptonantiques.com",
+			"feature_value": "0",
+			"cluster_win_mean": "25",
+			"delta": "25"
+		},
+		"number_of_hyperlinks_with_file": {
+			"html_id": "http://www.kemptonantiques.com",
+			"feature_value": "0",
+			"cluster_win_mean": "8.83",
+			"delta": "8.83"
+		},
+		"number_of_rare_words": {
+			"html_id": "http://www.kemptonantiques.com",
+			"feature_value": "6",
+			"cluster_win_mean": "12.98",
+			"delta": "6.98"
+		},
+		"total_number_of_5k_common_words": {
+			"html_id": "http://www.kemptonantiques.com",
+			"feature_value": "0",
+			"cluster_win_mean": "37.66",
+			"delta": "37.66"
+		},
+		"number_of_titles_same_as_h1": {
+			"html_id": "http://www.kemptonantiques.com",
+			"feature_value": "0",
+			"cluster_win_mean": "1",
+			"delta": "1"
 		},
 		"html5_detected": {
 			"html_id": "http://www.kemptonantiques.com",
 			"feature_value": "0",
 			"cluster_win_mean": "1",
 			"delta": "1"
-		},
-		"maximum_length_of_h2": {
-			"html_id": "http://www.kemptonantiques.com",
-			"feature_value": "0",
-			"cluster_win_mean": "52.07",
-			"delta": "52.07"
-		},
-		"average_length_of_h2": {
-			"html_id": "http://www.kemptonantiques.com",
-			"feature_value": "0",
-			"cluster_win_mean": "51.77",
-			"delta": "51.77"
-		},
-		"number_of_dhtml_scripts": {
-			"html_id": "http://www.kemptonantiques.com",
-			"feature_value": "0",
-			"cluster_win_mean": "1.16",
-			"delta": "1.16"
 		}
 	}
 }

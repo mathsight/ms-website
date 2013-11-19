@@ -2,2076 +2,3530 @@
 	"onsite": {
 		"average_backlink_flesch_reading_ease": [
 			{
+				"html_id": "http://www.rawpearls.com/blog",
+				"feature_value": "0",
+				"cluster_win_mean": "47.78",
+				"delta": "47.78"
+			},
+			{
 				"html_id": "http://www.rawpearls.com/terms-and-conditions",
 				"feature_value": "0",
-				"cluster_win_mean": "42.62",
-				"delta": "42.62"
+				"cluster_win_mean": "47.78",
+				"delta": "47.78"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/category/education",
+				"feature_value": "0",
+				"cluster_win_mean": "47.78",
+				"delta": "47.78"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/category/news",
+				"feature_value": "0",
+				"cluster_win_mean": "47.78",
+				"delta": "47.78"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/category/press",
+				"feature_value": "0",
+				"cluster_win_mean": "47.78",
+				"delta": "47.78"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/category/services",
+				"feature_value": "0",
+				"cluster_win_mean": "47.78",
+				"delta": "47.78"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/category/special-offers",
+				"feature_value": "0",
+				"cluster_win_mean": "47.78",
+				"delta": "47.78"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2013/05",
+				"feature_value": "0",
+				"cluster_win_mean": "47.78",
+				"delta": "47.78"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2013/04",
+				"feature_value": "0",
+				"cluster_win_mean": "47.78",
+				"delta": "47.78"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2013/03",
+				"feature_value": "0",
+				"cluster_win_mean": "53.39",
+				"delta": "53.39"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2013/02",
+				"feature_value": "0",
+				"cluster_win_mean": "47.78",
+				"delta": "47.78"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2013/01",
+				"feature_value": "0",
+				"cluster_win_mean": "47.78",
+				"delta": "47.78"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2012/12",
+				"feature_value": "0",
+				"cluster_win_mean": "47.78",
+				"delta": "47.78"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2012/11",
+				"feature_value": "0",
+				"cluster_win_mean": "47.78",
+				"delta": "47.78"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2012/10",
+				"feature_value": "0",
+				"cluster_win_mean": "47.78",
+				"delta": "47.78"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2012/09",
+				"feature_value": "0",
+				"cluster_win_mean": "47.78",
+				"delta": "47.78"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2012/08",
+				"feature_value": "0",
+				"cluster_win_mean": "53.39",
+				"delta": "53.39"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2012/07",
+				"feature_value": "0",
+				"cluster_win_mean": "47.78",
+				"delta": "47.78"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2012/06",
+				"feature_value": "0",
+				"cluster_win_mean": "47.78",
+				"delta": "47.78"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2012/05",
+				"feature_value": "0",
+				"cluster_win_mean": "47.78",
+				"delta": "47.78"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2012/04",
+				"feature_value": "0",
+				"cluster_win_mean": "47.78",
+				"delta": "47.78"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2012/03",
+				"feature_value": "0",
+				"cluster_win_mean": "47.78",
+				"delta": "47.78"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2012/02",
+				"feature_value": "0",
+				"cluster_win_mean": "47.78",
+				"delta": "47.78"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2012/01",
+				"feature_value": "0",
+				"cluster_win_mean": "53.39",
+				"delta": "53.39"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2011/12",
+				"feature_value": "0",
+				"cluster_win_mean": "47.78",
+				"delta": "47.78"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2011/11",
+				"feature_value": "0",
+				"cluster_win_mean": "47.78",
+				"delta": "47.78"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2011/05",
+				"feature_value": "0",
+				"cluster_win_mean": "53.39",
+				"delta": "53.39"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2011/12/23/free-row-of-pearls",
+				"feature_value": "0",
+				"cluster_win_mean": "53.39",
+				"delta": "53.39"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2011/12/15/pearls-are-back-in-vogue-according-to-professional-jeweller-magazine",
+				"feature_value": "0",
+				"cluster_win_mean": "47.78",
+				"delta": "47.78"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2011/12/14/la-peregrina-is-sold-at-christie%e2%80%99s-in-new-york",
+				"feature_value": "0",
+				"cluster_win_mean": "47.78",
+				"delta": "47.78"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2012/04/30/earrings-hidden-in-a-drawer-sell-for-1-6mm",
+				"feature_value": "0",
+				"cluster_win_mean": "53.39",
+				"delta": "53.39"
+			}
+		],
+		"number_of_inline_css_styles": [
+			{
+				"html_id": "http://www.rawpearls.com/blog",
+				"feature_value": "1",
+				"cluster_win_mean": "1.81",
+				"delta": "0.81"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/terms-and-conditions",
+				"feature_value": "1",
+				"cluster_win_mean": "1.81",
+				"delta": "0.81"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/category/education",
+				"feature_value": "1",
+				"cluster_win_mean": "1.81",
+				"delta": "0.81"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/category/news",
+				"feature_value": "1",
+				"cluster_win_mean": "1.81",
+				"delta": "0.81"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/category/press",
+				"feature_value": "1",
+				"cluster_win_mean": "1.81",
+				"delta": "0.81"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/category/services",
+				"feature_value": "1",
+				"cluster_win_mean": "1.81",
+				"delta": "0.81"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/category/special-offers",
+				"feature_value": "1",
+				"cluster_win_mean": "1.81",
+				"delta": "0.81"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2013/05",
+				"feature_value": "1",
+				"cluster_win_mean": "1.81",
+				"delta": "0.81"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2013/04",
+				"feature_value": "1",
+				"cluster_win_mean": "1.81",
+				"delta": "0.81"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2013/02",
+				"feature_value": "1",
+				"cluster_win_mean": "1.81",
+				"delta": "0.81"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2013/01",
+				"feature_value": "1",
+				"cluster_win_mean": "1.81",
+				"delta": "0.81"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2012/12",
+				"feature_value": "1",
+				"cluster_win_mean": "1.81",
+				"delta": "0.81"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2012/11",
+				"feature_value": "1",
+				"cluster_win_mean": "1.81",
+				"delta": "0.81"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2012/10",
+				"feature_value": "1",
+				"cluster_win_mean": "1.81",
+				"delta": "0.81"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2012/09",
+				"feature_value": "1",
+				"cluster_win_mean": "1.81",
+				"delta": "0.81"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2012/07",
+				"feature_value": "1",
+				"cluster_win_mean": "1.81",
+				"delta": "0.81"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2012/06",
+				"feature_value": "1",
+				"cluster_win_mean": "1.81",
+				"delta": "0.81"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2012/05",
+				"feature_value": "1",
+				"cluster_win_mean": "1.81",
+				"delta": "0.81"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2012/04",
+				"feature_value": "1",
+				"cluster_win_mean": "1.81",
+				"delta": "0.81"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2012/03",
+				"feature_value": "1",
+				"cluster_win_mean": "1.81",
+				"delta": "0.81"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2012/02",
+				"feature_value": "1",
+				"cluster_win_mean": "1.81",
+				"delta": "0.81"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2011/12",
+				"feature_value": "1",
+				"cluster_win_mean": "1.81",
+				"delta": "0.81"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2011/11",
+				"feature_value": "1",
+				"cluster_win_mean": "1.81",
+				"delta": "0.81"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2011/12/15/pearls-are-back-in-vogue-according-to-professional-jeweller-magazine",
+				"feature_value": "1",
+				"cluster_win_mean": "1.81",
+				"delta": "0.81"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2011/12/14/la-peregrina-is-sold-at-christie%e2%80%99s-in-new-york",
+				"feature_value": "1",
+				"cluster_win_mean": "1.81",
+				"delta": "0.81"
+			}
+		],
+		"average_backlink_flesch_kincaid_grade": [
+			{
+				"html_id": "http://www.rawpearls.com/about-us",
+				"feature_value": "0",
+				"cluster_win_mean": "12.66",
+				"delta": "12.66"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/services",
+				"feature_value": "0",
+				"cluster_win_mean": "12.66",
+				"delta": "12.66"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/gallery",
+				"feature_value": "0",
+				"cluster_win_mean": "12.66",
+				"delta": "12.66"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/contact",
+				"feature_value": "0",
+				"cluster_win_mean": "12.66",
+				"delta": "12.66"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/sitemap",
+				"feature_value": "0",
+				"cluster_win_mean": "12.66",
+				"delta": "12.66"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/data-protection",
+				"feature_value": "0",
+				"cluster_win_mean": "12.66",
+				"delta": "12.66"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/conditions-of-use",
+				"feature_value": "0",
+				"cluster_win_mean": "12.66",
+				"delta": "12.66"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/faq",
+				"feature_value": "0",
+				"cluster_win_mean": "12.66",
+				"delta": "12.66"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2011/05/28/the-jeweller-magazine",
+				"feature_value": "0",
+				"cluster_win_mean": "12.66",
+				"delta": "12.66"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2011/11/28/pearl-care",
+				"feature_value": "0",
+				"cluster_win_mean": "12.66",
+				"delta": "12.66"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2011/11/28/why-you-should-be-stocking-pearls-right-now",
+				"feature_value": "0",
+				"cluster_win_mean": "12.66",
+				"delta": "12.66"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2012/01/12/raw-pearls-support-jacobs-of-reading",
+				"feature_value": "0",
+				"cluster_win_mean": "12.66",
+				"delta": "12.66"
 			},
 			{
 				"html_id": "http://www.rawpearls.com/2012/02/10/professional-jeweller-report-on-our-new-website",
 				"feature_value": "0",
-				"cluster_win_mean": "42.62",
-				"delta": "42.62"
+				"cluster_win_mean": "12.66",
+				"delta": "12.66"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2012/02/02/how-to-style-spring-pearls",
+				"feature_value": "0",
+				"cluster_win_mean": "12.66",
+				"delta": "12.66"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2012/03/28/professional-jeweller-report-on-our-holts-pearl-masterclass",
+				"feature_value": "0",
+				"cluster_win_mean": "12.66",
+				"delta": "12.66"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2012/03/27/jewellery-focus-report-on-the-pearl-production-crisis",
+				"feature_value": "0",
+				"cluster_win_mean": "12.66",
+				"delta": "12.66"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2012/03/21/holts-and-raw-pearls-collaborate-on-a-pearl-seminar",
+				"feature_value": "0",
+				"cluster_win_mean": "12.66",
+				"delta": "12.66"
 			},
 			{
 				"html_id": "http://www.rawpearls.com/2012/03/01/oyster-pearl-looses-its-lustre",
 				"feature_value": "0",
-				"cluster_win_mean": "42.62",
-				"delta": "42.62"
+				"cluster_win_mean": "12.66",
+				"delta": "12.66"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2012/04/25/pearl-earrings-shunned-by-owner-may-fetch-500000-at-auction",
+				"feature_value": "0",
+				"cluster_win_mean": "12.66",
+				"delta": "12.66"
 			}
 		],
 		"number_of_images_missing_alt": [
 			{
 				"html_id": "http://www.rawpearls.com/about-us",
 				"feature_value": "4",
-				"cluster_win_mean": "16.36",
-				"delta": "12.36"
+				"cluster_win_mean": "10.1",
+				"delta": " 6.1"
 			},
 			{
 				"html_id": "http://www.rawpearls.com/services",
 				"feature_value": "4",
-				"cluster_win_mean": " 11.2",
-				"delta": "  7.2"
+				"cluster_win_mean": "10.1",
+				"delta": " 6.1"
 			},
 			{
 				"html_id": "http://www.rawpearls.com/gallery",
 				"feature_value": "4",
-				"cluster_win_mean": " 11.2",
-				"delta": "  7.2"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/blog",
-				"feature_value": "4",
-				"cluster_win_mean": "16.36",
-				"delta": "12.36"
+				"cluster_win_mean": "10.1",
+				"delta": " 6.1"
 			},
 			{
 				"html_id": "http://www.rawpearls.com/contact",
 				"feature_value": "4",
-				"cluster_win_mean": " 11.2",
-				"delta": "  7.2"
+				"cluster_win_mean": "10.1",
+				"delta": " 6.1"
 			},
 			{
 				"html_id": "http://www.rawpearls.com/sitemap",
 				"feature_value": "4",
-				"cluster_win_mean": " 11.2",
-				"delta": "  7.2"
+				"cluster_win_mean": "10.1",
+				"delta": " 6.1"
 			},
 			{
 				"html_id": "http://www.rawpearls.com/data-protection",
 				"feature_value": "4",
-				"cluster_win_mean": "16.36",
-				"delta": "12.36"
+				"cluster_win_mean": "10.1",
+				"delta": " 6.1"
 			},
 			{
 				"html_id": "http://www.rawpearls.com/conditions-of-use",
 				"feature_value": "4",
-				"cluster_win_mean": " 11.2",
-				"delta": "  7.2"
+				"cluster_win_mean": "10.1",
+				"delta": " 6.1"
 			},
 			{
 				"html_id": "http://www.rawpearls.com/faq",
 				"feature_value": "4",
-				"cluster_win_mean": " 11.2",
-				"delta": "  7.2"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/category/education",
-				"feature_value": "4",
-				"cluster_win_mean": "16.36",
-				"delta": "12.36"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/category/news",
-				"feature_value": "4",
-				"cluster_win_mean": "16.36",
-				"delta": "12.36"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/category/press",
-				"feature_value": "4",
-				"cluster_win_mean": "16.36",
-				"delta": "12.36"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/category/services",
-				"feature_value": "4",
-				"cluster_win_mean": "16.36",
-				"delta": "12.36"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/category/special-offers",
-				"feature_value": "4",
-				"cluster_win_mean": "16.36",
-				"delta": "12.36"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/2013/05",
-				"feature_value": "4",
-				"cluster_win_mean": " 11.2",
-				"delta": "  7.2"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/2013/04",
-				"feature_value": "4",
-				"cluster_win_mean": " 11.2",
-				"delta": "  7.2"
+				"cluster_win_mean": "10.1",
+				"delta": " 6.1"
 			},
 			{
 				"html_id": "http://www.rawpearls.com/2013/03",
 				"feature_value": "4",
-				"cluster_win_mean": " 11.2",
-				"delta": "  7.2"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/2013/02",
-				"feature_value": "4",
-				"cluster_win_mean": " 11.2",
-				"delta": "  7.2"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/2013/01",
-				"feature_value": "4",
-				"cluster_win_mean": " 11.2",
-				"delta": "  7.2"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/2012/12",
-				"feature_value": "4",
-				"cluster_win_mean": " 11.2",
-				"delta": "  7.2"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/2012/11",
-				"feature_value": "4",
-				"cluster_win_mean": "16.36",
-				"delta": "12.36"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/2012/10",
-				"feature_value": "4",
-				"cluster_win_mean": "16.36",
-				"delta": "12.36"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/2012/09",
-				"feature_value": "4",
-				"cluster_win_mean": " 11.2",
-				"delta": "  7.2"
+				"cluster_win_mean": "15.5",
+				"delta": "11.5"
 			},
 			{
 				"html_id": "http://www.rawpearls.com/2012/08",
 				"feature_value": "4",
-				"cluster_win_mean": " 11.2",
-				"delta": "  7.2"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/2012/07",
-				"feature_value": "4",
-				"cluster_win_mean": " 11.2",
-				"delta": "  7.2"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/2012/06",
-				"feature_value": "4",
-				"cluster_win_mean": " 11.2",
-				"delta": "  7.2"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/2012/05",
-				"feature_value": "4",
-				"cluster_win_mean": " 11.2",
-				"delta": "  7.2"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/2012/04",
-				"feature_value": "4",
-				"cluster_win_mean": " 11.2",
-				"delta": "  7.2"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/2012/03",
-				"feature_value": "4",
-				"cluster_win_mean": "16.36",
-				"delta": "12.36"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/2012/02",
-				"feature_value": "4",
-				"cluster_win_mean": " 11.2",
-				"delta": "  7.2"
+				"cluster_win_mean": "15.5",
+				"delta": "11.5"
 			},
 			{
 				"html_id": "http://www.rawpearls.com/2012/01",
 				"feature_value": "4",
-				"cluster_win_mean": " 11.2",
-				"delta": "  7.2"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/2011/12",
-				"feature_value": "4",
-				"cluster_win_mean": " 11.2",
-				"delta": "  7.2"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/2011/11",
-				"feature_value": "4",
-				"cluster_win_mean": " 11.2",
-				"delta": "  7.2"
+				"cluster_win_mean": "15.5",
+				"delta": "11.5"
 			},
 			{
 				"html_id": "http://www.rawpearls.com/2011/05",
 				"feature_value": "4",
-				"cluster_win_mean": " 11.2",
-				"delta": "  7.2"
+				"cluster_win_mean": "15.5",
+				"delta": "11.5"
 			},
 			{
 				"html_id": "http://www.rawpearls.com/2011/05/28/the-jeweller-magazine",
 				"feature_value": "4",
-				"cluster_win_mean": "16.36",
-				"delta": "12.36"
+				"cluster_win_mean": "10.1",
+				"delta": " 6.1"
 			},
 			{
 				"html_id": "http://www.rawpearls.com/2011/11/28/pearl-care",
 				"feature_value": "4",
-				"cluster_win_mean": " 11.2",
-				"delta": "  7.2"
+				"cluster_win_mean": "10.1",
+				"delta": " 6.1"
 			},
 			{
 				"html_id": "http://www.rawpearls.com/2011/11/28/why-you-should-be-stocking-pearls-right-now",
 				"feature_value": "4",
-				"cluster_win_mean": "16.36",
-				"delta": "12.36"
+				"cluster_win_mean": "10.1",
+				"delta": " 6.1"
 			},
 			{
 				"html_id": "http://www.rawpearls.com/2011/12/23/free-row-of-pearls",
 				"feature_value": "4",
-				"cluster_win_mean": " 11.2",
-				"delta": "  7.2"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/2011/12/15/pearls-are-back-in-vogue-according-to-professional-jeweller-magazine",
-				"feature_value": "4",
-				"cluster_win_mean": "16.36",
-				"delta": "12.36"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/2011/12/14/la-peregrina-is-sold-at-christie%e2%80%99s-in-new-york",
-				"feature_value": "4",
-				"cluster_win_mean": " 11.2",
-				"delta": "  7.2"
+				"cluster_win_mean": "15.5",
+				"delta": "11.5"
 			},
 			{
 				"html_id": "http://www.rawpearls.com/2012/01/12/raw-pearls-support-jacobs-of-reading",
 				"feature_value": "4",
-				"cluster_win_mean": "16.36",
-				"delta": "12.36"
+				"cluster_win_mean": "10.1",
+				"delta": " 6.1"
 			},
 			{
 				"html_id": "http://www.rawpearls.com/2012/02/15/retail-jeweller-report-on-the-raw-pearls-website-launch",
 				"feature_value": "4",
-				"cluster_win_mean": " 11.2",
-				"delta": "  7.2"
+				"cluster_win_mean": "10.1",
+				"delta": " 6.1"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2012/02/10/professional-jeweller-report-on-our-new-website",
+				"feature_value": "4",
+				"cluster_win_mean": "10.1",
+				"delta": " 6.1"
 			},
 			{
 				"html_id": "http://www.rawpearls.com/2012/02/02/how-to-style-spring-pearls",
 				"feature_value": "4",
-				"cluster_win_mean": "16.36",
-				"delta": "12.36"
+				"cluster_win_mean": "10.1",
+				"delta": " 6.1"
 			},
 			{
 				"html_id": "http://www.rawpearls.com/2012/03/28/professional-jeweller-report-on-our-holts-pearl-masterclass",
 				"feature_value": "4",
-				"cluster_win_mean": "16.36",
-				"delta": "12.36"
+				"cluster_win_mean": "10.1",
+				"delta": " 6.1"
 			},
 			{
 				"html_id": "http://www.rawpearls.com/2012/03/27/jewellery-focus-report-on-the-pearl-production-crisis",
 				"feature_value": "4",
-				"cluster_win_mean": " 11.2",
-				"delta": "  7.2"
+				"cluster_win_mean": "10.1",
+				"delta": " 6.1"
 			},
 			{
 				"html_id": "http://www.rawpearls.com/2012/03/21/holts-and-raw-pearls-collaborate-on-a-pearl-seminar",
 				"feature_value": "4",
-				"cluster_win_mean": "16.36",
-				"delta": "12.36"
+				"cluster_win_mean": "10.1",
+				"delta": " 6.1"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2012/03/01/oyster-pearl-looses-its-lustre",
+				"feature_value": "4",
+				"cluster_win_mean": "10.1",
+				"delta": " 6.1"
 			},
 			{
 				"html_id": "http://www.rawpearls.com/2012/04/30/earrings-hidden-in-a-drawer-sell-for-1-6mm",
 				"feature_value": "4",
-				"cluster_win_mean": " 11.2",
-				"delta": "  7.2"
+				"cluster_win_mean": "15.5",
+				"delta": "11.5"
 			},
 			{
 				"html_id": "http://www.rawpearls.com/2012/04/25/pearl-earrings-shunned-by-owner-may-fetch-500000-at-auction",
 				"feature_value": "4",
-				"cluster_win_mean": "16.36",
-				"delta": "12.36"
+				"cluster_win_mean": "10.1",
+				"delta": " 6.1"
+			}
+		],
+		"number_of_h1_instances": [
+			{
+				"html_id": "http://www.rawpearls.com/blog",
+				"feature_value": "0",
+				"cluster_win_mean": "2.97",
+				"delta": "2.97"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/terms-and-conditions",
+				"feature_value": "0",
+				"cluster_win_mean": "2.97",
+				"delta": "2.97"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/category/education",
+				"feature_value": "0",
+				"cluster_win_mean": "2.97",
+				"delta": "2.97"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/category/news",
+				"feature_value": "0",
+				"cluster_win_mean": "2.97",
+				"delta": "2.97"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/category/press",
+				"feature_value": "0",
+				"cluster_win_mean": "2.97",
+				"delta": "2.97"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/category/services",
+				"feature_value": "0",
+				"cluster_win_mean": "2.97",
+				"delta": "2.97"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/category/special-offers",
+				"feature_value": "0",
+				"cluster_win_mean": "2.97",
+				"delta": "2.97"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2013/05",
+				"feature_value": "0",
+				"cluster_win_mean": "2.97",
+				"delta": "2.97"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2013/04",
+				"feature_value": "0",
+				"cluster_win_mean": "2.97",
+				"delta": "2.97"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2013/02",
+				"feature_value": "0",
+				"cluster_win_mean": "2.97",
+				"delta": "2.97"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2013/01",
+				"feature_value": "0",
+				"cluster_win_mean": "2.97",
+				"delta": "2.97"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2012/12",
+				"feature_value": "0",
+				"cluster_win_mean": "2.97",
+				"delta": "2.97"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2012/11",
+				"feature_value": "0",
+				"cluster_win_mean": "2.97",
+				"delta": "2.97"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2012/10",
+				"feature_value": "0",
+				"cluster_win_mean": "2.97",
+				"delta": "2.97"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2012/09",
+				"feature_value": "0",
+				"cluster_win_mean": "2.97",
+				"delta": "2.97"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2012/07",
+				"feature_value": "0",
+				"cluster_win_mean": "2.97",
+				"delta": "2.97"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2012/06",
+				"feature_value": "0",
+				"cluster_win_mean": "2.97",
+				"delta": "2.97"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2012/05",
+				"feature_value": "0",
+				"cluster_win_mean": "2.97",
+				"delta": "2.97"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2012/04",
+				"feature_value": "0",
+				"cluster_win_mean": "2.97",
+				"delta": "2.97"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2012/03",
+				"feature_value": "0",
+				"cluster_win_mean": "2.97",
+				"delta": "2.97"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2012/02",
+				"feature_value": "0",
+				"cluster_win_mean": "2.97",
+				"delta": "2.97"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2011/12",
+				"feature_value": "0",
+				"cluster_win_mean": "2.97",
+				"delta": "2.97"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2011/11",
+				"feature_value": "0",
+				"cluster_win_mean": "2.97",
+				"delta": "2.97"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2011/12/15/pearls-are-back-in-vogue-according-to-professional-jeweller-magazine",
+				"feature_value": "0",
+				"cluster_win_mean": "2.97",
+				"delta": "2.97"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2011/12/14/la-peregrina-is-sold-at-christie%e2%80%99s-in-new-york",
+				"feature_value": "0",
+				"cluster_win_mean": "2.97",
+				"delta": "2.97"
 			}
 		],
 		"number_of_images": [
 			{
 				"html_id": "http://www.rawpearls.com/about-us",
-				"feature_value": " 4",
-				"cluster_win_mean": "17.41",
-				"delta": "13.41"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/blog",
-				"feature_value": "14",
-				"cluster_win_mean": "17.41",
-				"delta": " 3.41"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/data-protection",
-				"feature_value": " 4",
-				"cluster_win_mean": "17.41",
-				"delta": "13.41"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/category/education",
-				"feature_value": "13",
-				"cluster_win_mean": "17.41",
-				"delta": " 4.41"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/category/news",
-				"feature_value": "14",
-				"cluster_win_mean": "17.41",
-				"delta": " 3.41"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/category/press",
-				"feature_value": "14",
-				"cluster_win_mean": "17.41",
-				"delta": " 3.41"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/category/services",
-				"feature_value": "11",
-				"cluster_win_mean": "17.41",
-				"delta": " 6.41"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/category/special-offers",
-				"feature_value": "10",
-				"cluster_win_mean": "17.41",
-				"delta": " 7.41"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/2012/11",
-				"feature_value": " 9",
-				"cluster_win_mean": "17.41",
-				"delta": " 8.41"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/2012/10",
-				"feature_value": " 9",
-				"cluster_win_mean": "17.41",
-				"delta": " 8.41"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/2012/03",
-				"feature_value": " 8",
-				"cluster_win_mean": "17.41",
-				"delta": " 9.41"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/2011/05/28/the-jeweller-magazine",
-				"feature_value": " 6",
-				"cluster_win_mean": "17.41",
-				"delta": "11.41"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/2011/11/28/why-you-should-be-stocking-pearls-right-now",
-				"feature_value": "12",
-				"cluster_win_mean": "17.41",
-				"delta": " 5.41"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/2011/12/15/pearls-are-back-in-vogue-according-to-professional-jeweller-magazine",
-				"feature_value": " 8",
-				"cluster_win_mean": "17.41",
-				"delta": " 9.41"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/2012/02/02/how-to-style-spring-pearls",
-				"feature_value": " 8",
-				"cluster_win_mean": "17.41",
-				"delta": " 9.41"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/2012/03/28/professional-jeweller-report-on-our-holts-pearl-masterclass",
-				"feature_value": " 6",
-				"cluster_win_mean": "17.41",
-				"delta": "11.41"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/2012/03/21/holts-and-raw-pearls-collaborate-on-a-pearl-seminar",
-				"feature_value": " 5",
-				"cluster_win_mean": "17.41",
-				"delta": "12.41"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/2012/04/25/pearl-earrings-shunned-by-owner-may-fetch-500000-at-auction",
-				"feature_value": " 5",
-				"cluster_win_mean": "17.41",
-				"delta": "12.41"
-			}
-		],
-		"number_of_inline_css_styles": [
-			{
-				"html_id": "http://www.rawpearls.com/about-us",
-				"feature_value": "1",
-				"cluster_win_mean": "1.57",
-				"delta": "0.57"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/blog",
-				"feature_value": "1",
-				"cluster_win_mean": "1.57",
-				"delta": "0.57"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/data-protection",
-				"feature_value": "1",
-				"cluster_win_mean": "1.57",
-				"delta": "0.57"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/terms-and-conditions",
-				"feature_value": "1",
-				"cluster_win_mean": "1.69",
-				"delta": "0.69"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/category/education",
-				"feature_value": "1",
-				"cluster_win_mean": "1.57",
-				"delta": "0.57"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/category/news",
-				"feature_value": "1",
-				"cluster_win_mean": "1.57",
-				"delta": "0.57"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/category/press",
-				"feature_value": "1",
-				"cluster_win_mean": "1.57",
-				"delta": "0.57"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/category/services",
-				"feature_value": "1",
-				"cluster_win_mean": "1.57",
-				"delta": "0.57"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/category/special-offers",
-				"feature_value": "1",
-				"cluster_win_mean": "1.57",
-				"delta": "0.57"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/2012/11",
-				"feature_value": "1",
-				"cluster_win_mean": "1.57",
-				"delta": "0.57"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/2012/10",
-				"feature_value": "1",
-				"cluster_win_mean": "1.57",
-				"delta": "0.57"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/2012/03",
-				"feature_value": "1",
-				"cluster_win_mean": "1.57",
-				"delta": "0.57"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/2011/05/28/the-jeweller-magazine",
-				"feature_value": "1",
-				"cluster_win_mean": "1.57",
-				"delta": "0.57"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/2011/11/28/why-you-should-be-stocking-pearls-right-now",
-				"feature_value": "1",
-				"cluster_win_mean": "1.57",
-				"delta": "0.57"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/2011/12/15/pearls-are-back-in-vogue-according-to-professional-jeweller-magazine",
-				"feature_value": "1",
-				"cluster_win_mean": "1.57",
-				"delta": "0.57"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/2012/01/12/raw-pearls-support-jacobs-of-reading",
-				"feature_value": "1",
-				"cluster_win_mean": "1.57",
-				"delta": "0.57"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/2012/02/10/professional-jeweller-report-on-our-new-website",
-				"feature_value": "1",
-				"cluster_win_mean": "1.69",
-				"delta": "0.69"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/2012/02/02/how-to-style-spring-pearls",
-				"feature_value": "1",
-				"cluster_win_mean": "1.57",
-				"delta": "0.57"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/2012/03/21/holts-and-raw-pearls-collaborate-on-a-pearl-seminar",
-				"feature_value": "1",
-				"cluster_win_mean": "1.57",
-				"delta": "0.57"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/2012/03/01/oyster-pearl-looses-its-lustre",
-				"feature_value": "1",
-				"cluster_win_mean": "1.69",
-				"delta": "0.69"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/2012/04/25/pearl-earrings-shunned-by-owner-may-fetch-500000-at-auction",
-				"feature_value": "1",
-				"cluster_win_mean": "1.57",
-				"delta": "0.57"
-			}
-		],
-		"number_of_images_in_body": [
-			{
-				"html_id": "http://www.rawpearls.com/about-us",
-				"feature_value": " 4",
-				"cluster_win_mean": "17.41",
-				"delta": "13.41"
+				"feature_value": "4",
+				"cluster_win_mean": " 11.1",
+				"delta": "  7.1"
 			},
 			{
 				"html_id": "http://www.rawpearls.com/services",
-				"feature_value": " 5",
-				"cluster_win_mean": "11.27",
-				"delta": " 6.27"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/blog",
-				"feature_value": "14",
-				"cluster_win_mean": "17.41",
-				"delta": " 3.41"
+				"feature_value": "5",
+				"cluster_win_mean": " 11.1",
+				"delta": "  6.1"
 			},
 			{
 				"html_id": "http://www.rawpearls.com/contact",
-				"feature_value": " 5",
-				"cluster_win_mean": "11.27",
-				"delta": " 6.27"
+				"feature_value": "5",
+				"cluster_win_mean": " 11.1",
+				"delta": "  6.1"
 			},
 			{
 				"html_id": "http://www.rawpearls.com/sitemap",
-				"feature_value": " 4",
-				"cluster_win_mean": "11.27",
-				"delta": " 7.27"
+				"feature_value": "4",
+				"cluster_win_mean": " 11.1",
+				"delta": "  7.1"
 			},
 			{
 				"html_id": "http://www.rawpearls.com/data-protection",
-				"feature_value": " 4",
-				"cluster_win_mean": "17.41",
-				"delta": "13.41"
+				"feature_value": "4",
+				"cluster_win_mean": " 11.1",
+				"delta": "  7.1"
 			},
 			{
 				"html_id": "http://www.rawpearls.com/conditions-of-use",
-				"feature_value": " 4",
-				"cluster_win_mean": "11.27",
-				"delta": " 7.27"
+				"feature_value": "4",
+				"cluster_win_mean": " 11.1",
+				"delta": "  7.1"
 			},
 			{
 				"html_id": "http://www.rawpearls.com/faq",
-				"feature_value": " 4",
-				"cluster_win_mean": "11.27",
-				"delta": " 7.27"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/category/education",
-				"feature_value": "13",
-				"cluster_win_mean": "17.41",
-				"delta": " 4.41"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/category/news",
-				"feature_value": "14",
-				"cluster_win_mean": "17.41",
-				"delta": " 3.41"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/category/press",
-				"feature_value": "14",
-				"cluster_win_mean": "17.41",
-				"delta": " 3.41"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/category/services",
-				"feature_value": "11",
-				"cluster_win_mean": "17.41",
-				"delta": " 6.41"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/category/special-offers",
-				"feature_value": "10",
-				"cluster_win_mean": "17.41",
-				"delta": " 7.41"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/2013/05",
-				"feature_value": " 8",
-				"cluster_win_mean": "11.27",
-				"delta": " 3.27"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/2013/04",
-				"feature_value": " 7",
-				"cluster_win_mean": "11.27",
-				"delta": " 4.27"
+				"feature_value": "4",
+				"cluster_win_mean": " 11.1",
+				"delta": "  7.1"
 			},
 			{
 				"html_id": "http://www.rawpearls.com/2013/03",
-				"feature_value": " 5",
-				"cluster_win_mean": "11.27",
-				"delta": " 6.27"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/2013/02",
-				"feature_value": " 7",
-				"cluster_win_mean": "11.27",
-				"delta": " 4.27"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/2013/01",
-				"feature_value": " 7",
-				"cluster_win_mean": "11.27",
-				"delta": " 4.27"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/2012/12",
-				"feature_value": " 7",
-				"cluster_win_mean": "11.27",
-				"delta": " 4.27"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/2012/11",
-				"feature_value": " 9",
-				"cluster_win_mean": "17.41",
-				"delta": " 8.41"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/2012/10",
-				"feature_value": " 9",
-				"cluster_win_mean": "17.41",
-				"delta": " 8.41"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/2012/09",
-				"feature_value": " 7",
-				"cluster_win_mean": "11.27",
-				"delta": " 4.27"
+				"feature_value": "5",
+				"cluster_win_mean": "15.47",
+				"delta": "10.47"
 			},
 			{
 				"html_id": "http://www.rawpearls.com/2012/08",
-				"feature_value": " 5",
-				"cluster_win_mean": "11.27",
-				"delta": " 6.27"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/2012/07",
-				"feature_value": " 7",
-				"cluster_win_mean": "11.27",
-				"delta": " 4.27"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/2012/06",
-				"feature_value": " 6",
-				"cluster_win_mean": "11.27",
-				"delta": " 5.27"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/2012/05",
-				"feature_value": " 7",
-				"cluster_win_mean": "11.27",
-				"delta": " 4.27"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/2012/04",
-				"feature_value": " 7",
-				"cluster_win_mean": "11.27",
-				"delta": " 4.27"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/2012/03",
-				"feature_value": " 8",
-				"cluster_win_mean": "17.41",
-				"delta": " 9.41"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/2012/02",
-				"feature_value": " 7",
-				"cluster_win_mean": "11.27",
-				"delta": " 4.27"
+				"feature_value": "5",
+				"cluster_win_mean": "15.47",
+				"delta": "10.47"
 			},
 			{
 				"html_id": "http://www.rawpearls.com/2012/01",
-				"feature_value": " 5",
-				"cluster_win_mean": "11.27",
-				"delta": " 6.27"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/2011/12",
-				"feature_value": " 7",
-				"cluster_win_mean": "11.27",
-				"delta": " 4.27"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/2011/11",
-				"feature_value": " 6",
-				"cluster_win_mean": "11.27",
-				"delta": " 5.27"
+				"feature_value": "5",
+				"cluster_win_mean": "15.47",
+				"delta": "10.47"
 			},
 			{
 				"html_id": "http://www.rawpearls.com/2011/05",
-				"feature_value": " 5",
-				"cluster_win_mean": "11.27",
-				"delta": " 6.27"
+				"feature_value": "5",
+				"cluster_win_mean": "15.47",
+				"delta": "10.47"
 			},
 			{
 				"html_id": "http://www.rawpearls.com/2011/05/28/the-jeweller-magazine",
-				"feature_value": " 6",
-				"cluster_win_mean": "17.41",
-				"delta": "11.41"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/2011/11/28/why-you-should-be-stocking-pearls-right-now",
-				"feature_value": "12",
-				"cluster_win_mean": "17.41",
-				"delta": " 5.41"
+				"feature_value": "6",
+				"cluster_win_mean": " 11.1",
+				"delta": "  5.1"
 			},
 			{
 				"html_id": "http://www.rawpearls.com/2011/12/23/free-row-of-pearls",
-				"feature_value": " 5",
-				"cluster_win_mean": "11.27",
-				"delta": " 6.27"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/2011/12/15/pearls-are-back-in-vogue-according-to-professional-jeweller-magazine",
-				"feature_value": " 8",
-				"cluster_win_mean": "17.41",
-				"delta": " 9.41"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/2011/12/14/la-peregrina-is-sold-at-christie%e2%80%99s-in-new-york",
-				"feature_value": " 6",
-				"cluster_win_mean": "11.27",
-				"delta": " 5.27"
+				"feature_value": "5",
+				"cluster_win_mean": "15.47",
+				"delta": "10.47"
 			},
 			{
 				"html_id": "http://www.rawpearls.com/2012/02/15/retail-jeweller-report-on-the-raw-pearls-website-launch",
-				"feature_value": " 6",
-				"cluster_win_mean": "11.27",
-				"delta": " 5.27"
+				"feature_value": "6",
+				"cluster_win_mean": " 11.1",
+				"delta": "  5.1"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2012/02/10/professional-jeweller-report-on-our-new-website",
+				"feature_value": "4",
+				"cluster_win_mean": " 11.1",
+				"delta": "  7.1"
 			},
 			{
 				"html_id": "http://www.rawpearls.com/2012/02/02/how-to-style-spring-pearls",
-				"feature_value": " 8",
-				"cluster_win_mean": "17.41",
-				"delta": " 9.41"
+				"feature_value": "8",
+				"cluster_win_mean": " 11.1",
+				"delta": "  3.1"
 			},
 			{
 				"html_id": "http://www.rawpearls.com/2012/03/28/professional-jeweller-report-on-our-holts-pearl-masterclass",
-				"feature_value": " 6",
-				"cluster_win_mean": "17.41",
-				"delta": "11.41"
+				"feature_value": "6",
+				"cluster_win_mean": " 11.1",
+				"delta": "  5.1"
 			},
 			{
 				"html_id": "http://www.rawpearls.com/2012/03/27/jewellery-focus-report-on-the-pearl-production-crisis",
-				"feature_value": " 4",
-				"cluster_win_mean": "11.27",
-				"delta": " 7.27"
+				"feature_value": "4",
+				"cluster_win_mean": " 11.1",
+				"delta": "  7.1"
 			},
 			{
 				"html_id": "http://www.rawpearls.com/2012/03/21/holts-and-raw-pearls-collaborate-on-a-pearl-seminar",
-				"feature_value": " 5",
-				"cluster_win_mean": "17.41",
-				"delta": "12.41"
+				"feature_value": "5",
+				"cluster_win_mean": " 11.1",
+				"delta": "  6.1"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2012/03/01/oyster-pearl-looses-its-lustre",
+				"feature_value": "6",
+				"cluster_win_mean": " 11.1",
+				"delta": "  5.1"
 			},
 			{
 				"html_id": "http://www.rawpearls.com/2012/04/30/earrings-hidden-in-a-drawer-sell-for-1-6mm",
-				"feature_value": " 5",
-				"cluster_win_mean": "11.27",
-				"delta": " 6.27"
+				"feature_value": "5",
+				"cluster_win_mean": "15.47",
+				"delta": "10.47"
 			},
 			{
 				"html_id": "http://www.rawpearls.com/2012/04/25/pearl-earrings-shunned-by-owner-may-fetch-500000-at-auction",
-				"feature_value": " 5",
-				"cluster_win_mean": "17.41",
-				"delta": "12.41"
+				"feature_value": "5",
+				"cluster_win_mean": " 11.1",
+				"delta": "  6.1"
+			}
+		],
+		"total_number_of_words": [
+			{
+				"html_id": "http://www.rawpearls.com/about-us",
+				"feature_value": "298",
+				"cluster_win_mean": "433.15",
+				"delta": "135.15"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/services",
+				"feature_value": " 46",
+				"cluster_win_mean": "433.15",
+				"delta": "387.15"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/gallery",
+				"feature_value": " 25",
+				"cluster_win_mean": "433.15",
+				"delta": "408.15"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/contact",
+				"feature_value": " 73",
+				"cluster_win_mean": "433.15",
+				"delta": "360.15"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/sitemap",
+				"feature_value": " 34",
+				"cluster_win_mean": "433.15",
+				"delta": "399.15"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/data-protection",
+				"feature_value": "386",
+				"cluster_win_mean": "433.15",
+				"delta": " 47.15"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/conditions-of-use",
+				"feature_value": " 79",
+				"cluster_win_mean": "433.15",
+				"delta": "354.15"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/faq",
+				"feature_value": " 37",
+				"cluster_win_mean": "433.15",
+				"delta": "396.15"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/category/education",
+				"feature_value": "131",
+				"cluster_win_mean": "177.25",
+				"delta": " 46.25"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/category/news",
+				"feature_value": "147",
+				"cluster_win_mean": "177.25",
+				"delta": " 30.25"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/category/press",
+				"feature_value": "148",
+				"cluster_win_mean": "177.25",
+				"delta": " 29.25"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/category/services",
+				"feature_value": "109",
+				"cluster_win_mean": "177.25",
+				"delta": " 68.25"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/category/special-offers",
+				"feature_value": " 96",
+				"cluster_win_mean": "177.25",
+				"delta": " 81.25"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2013/05",
+				"feature_value": " 74",
+				"cluster_win_mean": "177.25",
+				"delta": "103.25"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2013/04",
+				"feature_value": " 61",
+				"cluster_win_mean": "177.25",
+				"delta": "116.25"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2013/03",
+				"feature_value": " 32",
+				"cluster_win_mean": " 54.12",
+				"delta": " 22.12"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2013/02",
+				"feature_value": " 56",
+				"cluster_win_mean": "177.25",
+				"delta": "121.25"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2013/01",
+				"feature_value": " 59",
+				"cluster_win_mean": "177.25",
+				"delta": "118.25"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2012/12",
+				"feature_value": " 46",
+				"cluster_win_mean": "177.25",
+				"delta": "131.25"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2012/11",
+				"feature_value": " 81",
+				"cluster_win_mean": "177.25",
+				"delta": " 96.25"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2012/10",
+				"feature_value": " 83",
+				"cluster_win_mean": "177.25",
+				"delta": " 94.25"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2012/09",
+				"feature_value": " 57",
+				"cluster_win_mean": "177.25",
+				"delta": "120.25"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2012/08",
+				"feature_value": " 34",
+				"cluster_win_mean": " 54.12",
+				"delta": " 20.12"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2012/07",
+				"feature_value": " 59",
+				"cluster_win_mean": "177.25",
+				"delta": "118.25"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2012/06",
+				"feature_value": " 46",
+				"cluster_win_mean": "177.25",
+				"delta": "131.25"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2012/05",
+				"feature_value": " 59",
+				"cluster_win_mean": "177.25",
+				"delta": "118.25"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2012/04",
+				"feature_value": " 60",
+				"cluster_win_mean": "177.25",
+				"delta": "117.25"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2012/03",
+				"feature_value": " 71",
+				"cluster_win_mean": "177.25",
+				"delta": "106.25"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2012/02",
+				"feature_value": " 59",
+				"cluster_win_mean": "177.25",
+				"delta": "118.25"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2012/01",
+				"feature_value": " 34",
+				"cluster_win_mean": " 54.12",
+				"delta": " 20.12"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2011/12",
+				"feature_value": " 57",
+				"cluster_win_mean": "177.25",
+				"delta": "120.25"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2011/11",
+				"feature_value": " 45",
+				"cluster_win_mean": "177.25",
+				"delta": "132.25"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2011/05",
+				"feature_value": " 34",
+				"cluster_win_mean": " 54.12",
+				"delta": " 20.12"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2011/05/28/the-jeweller-magazine",
+				"feature_value": "109",
+				"cluster_win_mean": "433.15",
+				"delta": "324.15"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2011/11/28/pearl-care",
+				"feature_value": " 52",
+				"cluster_win_mean": "433.15",
+				"delta": "381.15"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2011/11/28/why-you-should-be-stocking-pearls-right-now",
+				"feature_value": " 85",
+				"cluster_win_mean": "433.15",
+				"delta": "348.15"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2011/12/23/free-row-of-pearls",
+				"feature_value": " 32",
+				"cluster_win_mean": " 54.12",
+				"delta": " 22.12"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2011/12/15/pearls-are-back-in-vogue-according-to-professional-jeweller-magazine",
+				"feature_value": " 71",
+				"cluster_win_mean": "177.25",
+				"delta": "106.25"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2011/12/14/la-peregrina-is-sold-at-christie%e2%80%99s-in-new-york",
+				"feature_value": " 50",
+				"cluster_win_mean": "177.25",
+				"delta": "127.25"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2012/01/12/raw-pearls-support-jacobs-of-reading",
+				"feature_value": "128",
+				"cluster_win_mean": "433.15",
+				"delta": "305.15"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2012/02/15/retail-jeweller-report-on-the-raw-pearls-website-launch",
+				"feature_value": " 39",
+				"cluster_win_mean": "433.15",
+				"delta": "394.15"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2012/02/02/how-to-style-spring-pearls",
+				"feature_value": "174",
+				"cluster_win_mean": "433.15",
+				"delta": "259.15"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2012/03/28/professional-jeweller-report-on-our-holts-pearl-masterclass",
+				"feature_value": "365",
+				"cluster_win_mean": "433.15",
+				"delta": " 68.15"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2012/03/27/jewellery-focus-report-on-the-pearl-production-crisis",
+				"feature_value": " 31",
+				"cluster_win_mean": "433.15",
+				"delta": "402.15"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2012/03/21/holts-and-raw-pearls-collaborate-on-a-pearl-seminar",
+				"feature_value": "248",
+				"cluster_win_mean": "433.15",
+				"delta": "185.15"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2012/04/30/earrings-hidden-in-a-drawer-sell-for-1-6mm",
+				"feature_value": " 34",
+				"cluster_win_mean": " 54.12",
+				"delta": " 20.12"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2012/04/25/pearl-earrings-shunned-by-owner-may-fetch-500000-at-auction",
+				"feature_value": "166",
+				"cluster_win_mean": "433.15",
+				"delta": "267.15"
+			}
+		],
+		"total_number_of_dictionary_words": [
+			{
+				"html_id": "http://www.rawpearls.com/blog",
+				"feature_value": "0",
+				"cluster_win_mean": "4.15",
+				"delta": "4.15"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/terms-and-conditions",
+				"feature_value": "0",
+				"cluster_win_mean": "4.15",
+				"delta": "4.15"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/category/education",
+				"feature_value": "1",
+				"cluster_win_mean": "4.15",
+				"delta": "3.15"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/category/news",
+				"feature_value": "0",
+				"cluster_win_mean": "4.15",
+				"delta": "4.15"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/category/press",
+				"feature_value": "0",
+				"cluster_win_mean": "4.15",
+				"delta": "4.15"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/category/services",
+				"feature_value": "0",
+				"cluster_win_mean": "4.15",
+				"delta": "4.15"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/category/special-offers",
+				"feature_value": "0",
+				"cluster_win_mean": "4.15",
+				"delta": "4.15"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2013/05",
+				"feature_value": "0",
+				"cluster_win_mean": "4.15",
+				"delta": "4.15"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2013/04",
+				"feature_value": "0",
+				"cluster_win_mean": "4.15",
+				"delta": "4.15"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2013/03",
+				"feature_value": "0",
+				"cluster_win_mean": " 2.5",
+				"delta": " 2.5"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2013/02",
+				"feature_value": "0",
+				"cluster_win_mean": "4.15",
+				"delta": "4.15"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2013/01",
+				"feature_value": "0",
+				"cluster_win_mean": "4.15",
+				"delta": "4.15"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2012/12",
+				"feature_value": "0",
+				"cluster_win_mean": "4.15",
+				"delta": "4.15"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2012/11",
+				"feature_value": "0",
+				"cluster_win_mean": "4.15",
+				"delta": "4.15"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2012/10",
+				"feature_value": "0",
+				"cluster_win_mean": "4.15",
+				"delta": "4.15"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2012/09",
+				"feature_value": "0",
+				"cluster_win_mean": "4.15",
+				"delta": "4.15"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2012/08",
+				"feature_value": "0",
+				"cluster_win_mean": " 2.5",
+				"delta": " 2.5"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2012/07",
+				"feature_value": "0",
+				"cluster_win_mean": "4.15",
+				"delta": "4.15"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2012/06",
+				"feature_value": "0",
+				"cluster_win_mean": "4.15",
+				"delta": "4.15"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2012/05",
+				"feature_value": "1",
+				"cluster_win_mean": "4.15",
+				"delta": "3.15"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2012/04",
+				"feature_value": "0",
+				"cluster_win_mean": "4.15",
+				"delta": "4.15"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2012/03",
+				"feature_value": "0",
+				"cluster_win_mean": "4.15",
+				"delta": "4.15"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2012/02",
+				"feature_value": "0",
+				"cluster_win_mean": "4.15",
+				"delta": "4.15"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2012/01",
+				"feature_value": "0",
+				"cluster_win_mean": " 2.5",
+				"delta": " 2.5"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2011/12",
+				"feature_value": "0",
+				"cluster_win_mean": "4.15",
+				"delta": "4.15"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2011/11",
+				"feature_value": "0",
+				"cluster_win_mean": "4.15",
+				"delta": "4.15"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2011/05",
+				"feature_value": "0",
+				"cluster_win_mean": " 2.5",
+				"delta": " 2.5"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2011/12/23/free-row-of-pearls",
+				"feature_value": "0",
+				"cluster_win_mean": " 2.5",
+				"delta": " 2.5"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2011/12/15/pearls-are-back-in-vogue-according-to-professional-jeweller-magazine",
+				"feature_value": "0",
+				"cluster_win_mean": "4.15",
+				"delta": "4.15"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2011/12/14/la-peregrina-is-sold-at-christie%e2%80%99s-in-new-york",
+				"feature_value": "0",
+				"cluster_win_mean": "4.15",
+				"delta": "4.15"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2012/04/30/earrings-hidden-in-a-drawer-sell-for-1-6mm",
+				"feature_value": "0",
+				"cluster_win_mean": " 2.5",
+				"delta": " 2.5"
+			}
+		],
+		"number_of_hyperlinks_with_html": [
+			{
+				"html_id": "http://www.rawpearls.com/blog",
+				"feature_value": "67",
+				"cluster_win_mean": "46.02",
+				"delta": "-20.98"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/category/education",
+				"feature_value": "64",
+				"cluster_win_mean": "46.02",
+				"delta": "-17.98"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/category/news",
+				"feature_value": "67",
+				"cluster_win_mean": "46.02",
+				"delta": "-20.98"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/category/press",
+				"feature_value": "67",
+				"cluster_win_mean": "46.02",
+				"delta": "-20.98"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/category/services",
+				"feature_value": "58",
+				"cluster_win_mean": "46.02",
+				"delta": "-11.98"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/category/special-offers",
+				"feature_value": "55",
+				"cluster_win_mean": "46.02",
+				"delta": " -8.98"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2012/11",
+				"feature_value": "52",
+				"cluster_win_mean": "46.02",
+				"delta": " -5.98"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2012/10",
+				"feature_value": "52",
+				"cluster_win_mean": "46.02",
+				"delta": " -5.98"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2011/12/15/pearls-are-back-in-vogue-according-to-professional-jeweller-magazine",
+				"feature_value": "53",
+				"cluster_win_mean": "46.02",
+				"delta": " -6.98"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2012/01/12/raw-pearls-support-jacobs-of-reading",
+				"feature_value": "42",
+				"cluster_win_mean": "28.77",
+				"delta": "-13.23"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2012/02/15/retail-jeweller-report-on-the-raw-pearls-website-launch",
+				"feature_value": "43",
+				"cluster_win_mean": "28.77",
+				"delta": "-14.23"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2012/02/10/professional-jeweller-report-on-our-new-website",
+				"feature_value": "42",
+				"cluster_win_mean": "28.77",
+				"delta": "-13.23"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2012/02/02/how-to-style-spring-pearls",
+				"feature_value": "42",
+				"cluster_win_mean": "28.77",
+				"delta": "-13.23"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2012/03/28/professional-jeweller-report-on-our-holts-pearl-masterclass",
+				"feature_value": "42",
+				"cluster_win_mean": "28.77",
+				"delta": "-13.23"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2012/03/27/jewellery-focus-report-on-the-pearl-production-crisis",
+				"feature_value": "45",
+				"cluster_win_mean": "28.77",
+				"delta": "-16.23"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2012/03/21/holts-and-raw-pearls-collaborate-on-a-pearl-seminar",
+				"feature_value": "42",
+				"cluster_win_mean": "28.77",
+				"delta": "-13.23"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2012/03/01/oyster-pearl-looses-its-lustre",
+				"feature_value": "56",
+				"cluster_win_mean": "28.77",
+				"delta": "-27.23"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2012/04/25/pearl-earrings-shunned-by-owner-may-fetch-500000-at-auction",
+				"feature_value": "45",
+				"cluster_win_mean": "28.77",
+				"delta": "-16.23"
+			}
+		],
+		"number_of_unique_words": [
+			{
+				"html_id": "http://www.rawpearls.com/about-us",
+				"feature_value": "143",
+				"cluster_win_mean": "192.42",
+				"delta": " 49.42"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/services",
+				"feature_value": " 36",
+				"cluster_win_mean": "192.42",
+				"delta": "156.42"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/gallery",
+				"feature_value": " 22",
+				"cluster_win_mean": "192.42",
+				"delta": "170.42"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/contact",
+				"feature_value": " 51",
+				"cluster_win_mean": "192.42",
+				"delta": "141.42"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/sitemap",
+				"feature_value": " 29",
+				"cluster_win_mean": "192.42",
+				"delta": "163.42"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/data-protection",
+				"feature_value": "161",
+				"cluster_win_mean": "192.42",
+				"delta": " 31.42"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/conditions-of-use",
+				"feature_value": " 39",
+				"cluster_win_mean": "192.42",
+				"delta": "153.42"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/faq",
+				"feature_value": " 27",
+				"cluster_win_mean": "192.42",
+				"delta": "165.42"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2013/05",
+				"feature_value": " 56",
+				"cluster_win_mean": " 77.18",
+				"delta": " 21.18"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2013/04",
+				"feature_value": " 49",
+				"cluster_win_mean": " 77.18",
+				"delta": " 28.18"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2013/03",
+				"feature_value": " 28",
+				"cluster_win_mean": " 37.03",
+				"delta": "  9.03"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2013/02",
+				"feature_value": " 45",
+				"cluster_win_mean": " 77.18",
+				"delta": " 32.18"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2013/01",
+				"feature_value": " 50",
+				"cluster_win_mean": " 77.18",
+				"delta": " 27.18"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2012/12",
+				"feature_value": " 42",
+				"cluster_win_mean": " 77.18",
+				"delta": " 35.18"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2012/11",
+				"feature_value": " 68",
+				"cluster_win_mean": " 77.18",
+				"delta": "  9.18"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2012/10",
+				"feature_value": " 63",
+				"cluster_win_mean": " 77.18",
+				"delta": " 14.18"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2012/09",
+				"feature_value": " 48",
+				"cluster_win_mean": " 77.18",
+				"delta": " 29.18"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2012/08",
+				"feature_value": " 28",
+				"cluster_win_mean": " 37.03",
+				"delta": "  9.03"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2012/07",
+				"feature_value": " 46",
+				"cluster_win_mean": " 77.18",
+				"delta": " 31.18"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2012/06",
+				"feature_value": " 39",
+				"cluster_win_mean": " 77.18",
+				"delta": " 38.18"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2012/05",
+				"feature_value": " 46",
+				"cluster_win_mean": " 77.18",
+				"delta": " 31.18"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2012/04",
+				"feature_value": " 52",
+				"cluster_win_mean": " 77.18",
+				"delta": " 25.18"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2012/03",
+				"feature_value": " 54",
+				"cluster_win_mean": " 77.18",
+				"delta": " 23.18"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2012/02",
+				"feature_value": " 38",
+				"cluster_win_mean": " 77.18",
+				"delta": " 39.18"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2011/12",
+				"feature_value": " 47",
+				"cluster_win_mean": " 77.18",
+				"delta": " 30.18"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2011/11",
+				"feature_value": " 32",
+				"cluster_win_mean": " 77.18",
+				"delta": " 45.18"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2011/05",
+				"feature_value": " 28",
+				"cluster_win_mean": " 37.03",
+				"delta": "  9.03"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2011/05/28/the-jeweller-magazine",
+				"feature_value": " 72",
+				"cluster_win_mean": "192.42",
+				"delta": "120.42"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2011/11/28/pearl-care",
+				"feature_value": " 34",
+				"cluster_win_mean": "192.42",
+				"delta": "158.42"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2011/11/28/why-you-should-be-stocking-pearls-right-now",
+				"feature_value": " 49",
+				"cluster_win_mean": "192.42",
+				"delta": "143.42"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2011/12/15/pearls-are-back-in-vogue-according-to-professional-jeweller-magazine",
+				"feature_value": " 59",
+				"cluster_win_mean": " 77.18",
+				"delta": " 18.18"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2011/12/14/la-peregrina-is-sold-at-christie%e2%80%99s-in-new-york",
+				"feature_value": " 39",
+				"cluster_win_mean": " 77.18",
+				"delta": " 38.18"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2012/01/12/raw-pearls-support-jacobs-of-reading",
+				"feature_value": " 79",
+				"cluster_win_mean": "192.42",
+				"delta": "113.42"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2012/02/15/retail-jeweller-report-on-the-raw-pearls-website-launch",
+				"feature_value": " 35",
+				"cluster_win_mean": "192.42",
+				"delta": "157.42"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2012/02/02/how-to-style-spring-pearls",
+				"feature_value": " 97",
+				"cluster_win_mean": "192.42",
+				"delta": " 95.42"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2012/03/27/jewellery-focus-report-on-the-pearl-production-crisis",
+				"feature_value": " 24",
+				"cluster_win_mean": "192.42",
+				"delta": "168.42"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2012/03/21/holts-and-raw-pearls-collaborate-on-a-pearl-seminar",
+				"feature_value": "129",
+				"cluster_win_mean": "192.42",
+				"delta": " 63.42"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2012/04/30/earrings-hidden-in-a-drawer-sell-for-1-6mm",
+				"feature_value": " 28",
+				"cluster_win_mean": " 37.03",
+				"delta": "  9.03"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2012/04/25/pearl-earrings-shunned-by-owner-may-fetch-500000-at-auction",
+				"feature_value": " 90",
+				"cluster_win_mean": "192.42",
+				"delta": "102.42"
+			}
+		],
+		"ratio_of_dictionary_words_to_total": [
+			{
+				"html_id": "http://www.rawpearls.com/2013/03",
+				"feature_value": "0",
+				"cluster_win_mean": "0.01",
+				"delta": "0.01"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2012/08",
+				"feature_value": "0",
+				"cluster_win_mean": "0.01",
+				"delta": "0.01"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2012/01",
+				"feature_value": "0",
+				"cluster_win_mean": "0.01",
+				"delta": "0.01"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2011/05",
+				"feature_value": "0",
+				"cluster_win_mean": "0.01",
+				"delta": "0.01"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2011/12/23/free-row-of-pearls",
+				"feature_value": "0",
+				"cluster_win_mean": "0.01",
+				"delta": "0.01"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2012/04/30/earrings-hidden-in-a-drawer-sell-for-1-6mm",
+				"feature_value": "0",
+				"cluster_win_mean": "0.01",
+				"delta": "0.01"
+			}
+		],
+		"number_of_destination_titles_same_as_anchor_text": [
+			{
+				"html_id": "http://www.rawpearls.com/about-us",
+				"feature_value": "1",
+				"cluster_win_mean": "16.69",
+				"delta": "15.69"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/services",
+				"feature_value": "2",
+				"cluster_win_mean": "16.69",
+				"delta": "14.69"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/gallery",
+				"feature_value": "0",
+				"cluster_win_mean": "16.69",
+				"delta": "16.69"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/contact",
+				"feature_value": "0",
+				"cluster_win_mean": "16.69",
+				"delta": "16.69"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/sitemap",
+				"feature_value": "0",
+				"cluster_win_mean": "16.69",
+				"delta": "16.69"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/data-protection",
+				"feature_value": "0",
+				"cluster_win_mean": "16.69",
+				"delta": "16.69"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/terms-and-conditions",
+				"feature_value": "0",
+				"cluster_win_mean": "14.94",
+				"delta": "14.94"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/conditions-of-use",
+				"feature_value": "0",
+				"cluster_win_mean": "16.69",
+				"delta": "16.69"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/faq",
+				"feature_value": "0",
+				"cluster_win_mean": "16.69",
+				"delta": "16.69"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2011/05/28/the-jeweller-magazine",
+				"feature_value": "2",
+				"cluster_win_mean": "16.69",
+				"delta": "14.69"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2011/11/28/pearl-care",
+				"feature_value": "2",
+				"cluster_win_mean": "16.69",
+				"delta": "14.69"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2011/11/28/why-you-should-be-stocking-pearls-right-now",
+				"feature_value": "2",
+				"cluster_win_mean": "16.69",
+				"delta": "14.69"
 			}
 		],
 		"maximum_length_of_h1": [
 			{
 				"html_id": "http://www.rawpearls.com/about-us",
 				"feature_value": "0",
-				"cluster_win_mean": " 70.6",
-				"delta": " 70.6"
+				"cluster_win_mean": "20.97",
+				"delta": "20.97"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/services",
+				"feature_value": "0",
+				"cluster_win_mean": "20.97",
+				"delta": "20.97"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/gallery",
+				"feature_value": "0",
+				"cluster_win_mean": "20.97",
+				"delta": "20.97"
 			},
 			{
 				"html_id": "http://www.rawpearls.com/blog",
 				"feature_value": "0",
-				"cluster_win_mean": " 70.6",
-				"delta": " 70.6"
+				"cluster_win_mean": "82.06",
+				"delta": "82.06"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/contact",
+				"feature_value": "0",
+				"cluster_win_mean": "20.97",
+				"delta": "20.97"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/sitemap",
+				"feature_value": "0",
+				"cluster_win_mean": "20.97",
+				"delta": "20.97"
 			},
 			{
 				"html_id": "http://www.rawpearls.com/data-protection",
 				"feature_value": "0",
-				"cluster_win_mean": " 70.6",
-				"delta": " 70.6"
+				"cluster_win_mean": "20.97",
+				"delta": "20.97"
 			},
 			{
 				"html_id": "http://www.rawpearls.com/terms-and-conditions",
 				"feature_value": "0",
-				"cluster_win_mean": "92.38",
-				"delta": "92.38"
+				"cluster_win_mean": "82.06",
+				"delta": "82.06"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/conditions-of-use",
+				"feature_value": "0",
+				"cluster_win_mean": "20.97",
+				"delta": "20.97"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/faq",
+				"feature_value": "0",
+				"cluster_win_mean": "20.97",
+				"delta": "20.97"
 			},
 			{
 				"html_id": "http://www.rawpearls.com/category/education",
 				"feature_value": "0",
-				"cluster_win_mean": " 70.6",
-				"delta": " 70.6"
+				"cluster_win_mean": "82.06",
+				"delta": "82.06"
 			},
 			{
 				"html_id": "http://www.rawpearls.com/category/news",
 				"feature_value": "0",
-				"cluster_win_mean": " 70.6",
-				"delta": " 70.6"
+				"cluster_win_mean": "82.06",
+				"delta": "82.06"
 			},
 			{
 				"html_id": "http://www.rawpearls.com/category/press",
 				"feature_value": "0",
-				"cluster_win_mean": " 70.6",
-				"delta": " 70.6"
+				"cluster_win_mean": "82.06",
+				"delta": "82.06"
 			},
 			{
 				"html_id": "http://www.rawpearls.com/category/services",
 				"feature_value": "0",
-				"cluster_win_mean": " 70.6",
-				"delta": " 70.6"
+				"cluster_win_mean": "82.06",
+				"delta": "82.06"
 			},
 			{
 				"html_id": "http://www.rawpearls.com/category/special-offers",
 				"feature_value": "0",
-				"cluster_win_mean": " 70.6",
-				"delta": " 70.6"
+				"cluster_win_mean": "82.06",
+				"delta": "82.06"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2013/05",
+				"feature_value": "0",
+				"cluster_win_mean": "82.06",
+				"delta": "82.06"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2013/04",
+				"feature_value": "0",
+				"cluster_win_mean": "82.06",
+				"delta": "82.06"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2013/02",
+				"feature_value": "0",
+				"cluster_win_mean": "82.06",
+				"delta": "82.06"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2013/01",
+				"feature_value": "0",
+				"cluster_win_mean": "82.06",
+				"delta": "82.06"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2012/12",
+				"feature_value": "0",
+				"cluster_win_mean": "82.06",
+				"delta": "82.06"
 			},
 			{
 				"html_id": "http://www.rawpearls.com/2012/11",
 				"feature_value": "0",
-				"cluster_win_mean": " 70.6",
-				"delta": " 70.6"
+				"cluster_win_mean": "82.06",
+				"delta": "82.06"
 			},
 			{
 				"html_id": "http://www.rawpearls.com/2012/10",
 				"feature_value": "0",
-				"cluster_win_mean": " 70.6",
-				"delta": " 70.6"
+				"cluster_win_mean": "82.06",
+				"delta": "82.06"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2012/09",
+				"feature_value": "0",
+				"cluster_win_mean": "82.06",
+				"delta": "82.06"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2012/07",
+				"feature_value": "0",
+				"cluster_win_mean": "82.06",
+				"delta": "82.06"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2012/06",
+				"feature_value": "0",
+				"cluster_win_mean": "82.06",
+				"delta": "82.06"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2012/05",
+				"feature_value": "0",
+				"cluster_win_mean": "82.06",
+				"delta": "82.06"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2012/04",
+				"feature_value": "0",
+				"cluster_win_mean": "82.06",
+				"delta": "82.06"
 			},
 			{
 				"html_id": "http://www.rawpearls.com/2012/03",
 				"feature_value": "0",
-				"cluster_win_mean": " 70.6",
-				"delta": " 70.6"
+				"cluster_win_mean": "82.06",
+				"delta": "82.06"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2012/02",
+				"feature_value": "0",
+				"cluster_win_mean": "82.06",
+				"delta": "82.06"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2011/12",
+				"feature_value": "0",
+				"cluster_win_mean": "82.06",
+				"delta": "82.06"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2011/11",
+				"feature_value": "0",
+				"cluster_win_mean": "82.06",
+				"delta": "82.06"
 			},
 			{
 				"html_id": "http://www.rawpearls.com/2011/05/28/the-jeweller-magazine",
 				"feature_value": "0",
-				"cluster_win_mean": " 70.6",
-				"delta": " 70.6"
+				"cluster_win_mean": "20.97",
+				"delta": "20.97"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2011/11/28/pearl-care",
+				"feature_value": "0",
+				"cluster_win_mean": "20.97",
+				"delta": "20.97"
 			},
 			{
 				"html_id": "http://www.rawpearls.com/2011/11/28/why-you-should-be-stocking-pearls-right-now",
 				"feature_value": "0",
-				"cluster_win_mean": " 70.6",
-				"delta": " 70.6"
+				"cluster_win_mean": "20.97",
+				"delta": "20.97"
 			},
 			{
 				"html_id": "http://www.rawpearls.com/2011/12/15/pearls-are-back-in-vogue-according-to-professional-jeweller-magazine",
 				"feature_value": "0",
-				"cluster_win_mean": " 70.6",
-				"delta": " 70.6"
+				"cluster_win_mean": "82.06",
+				"delta": "82.06"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2011/12/14/la-peregrina-is-sold-at-christie%e2%80%99s-in-new-york",
+				"feature_value": "0",
+				"cluster_win_mean": "82.06",
+				"delta": "82.06"
 			},
 			{
 				"html_id": "http://www.rawpearls.com/2012/01/12/raw-pearls-support-jacobs-of-reading",
 				"feature_value": "0",
-				"cluster_win_mean": " 70.6",
-				"delta": " 70.6"
+				"cluster_win_mean": "20.97",
+				"delta": "20.97"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2012/02/15/retail-jeweller-report-on-the-raw-pearls-website-launch",
+				"feature_value": "0",
+				"cluster_win_mean": "20.97",
+				"delta": "20.97"
 			},
 			{
 				"html_id": "http://www.rawpearls.com/2012/02/10/professional-jeweller-report-on-our-new-website",
 				"feature_value": "0",
-				"cluster_win_mean": "92.38",
-				"delta": "92.38"
+				"cluster_win_mean": "20.97",
+				"delta": "20.97"
 			},
 			{
 				"html_id": "http://www.rawpearls.com/2012/02/02/how-to-style-spring-pearls",
 				"feature_value": "0",
-				"cluster_win_mean": " 70.6",
-				"delta": " 70.6"
+				"cluster_win_mean": "20.97",
+				"delta": "20.97"
 			},
 			{
 				"html_id": "http://www.rawpearls.com/2012/03/28/professional-jeweller-report-on-our-holts-pearl-masterclass",
 				"feature_value": "0",
-				"cluster_win_mean": " 70.6",
-				"delta": " 70.6"
+				"cluster_win_mean": "20.97",
+				"delta": "20.97"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2012/03/27/jewellery-focus-report-on-the-pearl-production-crisis",
+				"feature_value": "0",
+				"cluster_win_mean": "20.97",
+				"delta": "20.97"
 			},
 			{
 				"html_id": "http://www.rawpearls.com/2012/03/21/holts-and-raw-pearls-collaborate-on-a-pearl-seminar",
 				"feature_value": "0",
-				"cluster_win_mean": " 70.6",
-				"delta": " 70.6"
+				"cluster_win_mean": "20.97",
+				"delta": "20.97"
 			},
 			{
 				"html_id": "http://www.rawpearls.com/2012/03/01/oyster-pearl-looses-its-lustre",
 				"feature_value": "0",
-				"cluster_win_mean": "92.38",
-				"delta": "92.38"
+				"cluster_win_mean": "20.97",
+				"delta": "20.97"
 			},
 			{
 				"html_id": "http://www.rawpearls.com/2012/04/25/pearl-earrings-shunned-by-owner-may-fetch-500000-at-auction",
 				"feature_value": "0",
-				"cluster_win_mean": " 70.6",
-				"delta": " 70.6"
-			}
-		],
-		"ratio_of_rare_words_to_total": [
-			{
-				"html_id": "http://www.rawpearls.com/services",
-				"feature_value": "0.19565",
-				"cluster_win_mean": "0.23",
-				"delta": "0.04"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/gallery",
-				"feature_value": "    0.2",
-				"cluster_win_mean": "0.23",
-				"delta": "0.03"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/conditions-of-use",
-				"feature_value": "0.13924",
-				"cluster_win_mean": "0.23",
-				"delta": "0.09"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/faq",
-				"feature_value": "0.18919",
-				"cluster_win_mean": "0.23",
-				"delta": "0.04"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/2012/08",
-				"feature_value": "0.20588",
-				"cluster_win_mean": "0.23",
-				"delta": "0.03"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/2011/11/28/pearl-care",
-				"feature_value": "0.19231",
-				"cluster_win_mean": "0.23",
-				"delta": "0.04"
+				"cluster_win_mean": "20.97",
+				"delta": "20.97"
 			}
 		],
 		"average_length_of_h1": [
 			{
-				"html_id": "http://www.rawpearls.com/terms-and-conditions",
-				"feature_value": "0",
-				"cluster_win_mean": "46.69",
-				"delta": "46.69"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/2012/02/10/professional-jeweller-report-on-our-new-website",
-				"feature_value": "0",
-				"cluster_win_mean": "46.69",
-				"delta": "46.69"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/2012/03/01/oyster-pearl-looses-its-lustre",
-				"feature_value": "0",
-				"cluster_win_mean": "46.69",
-				"delta": "46.69"
-			}
-		],
-		"number_of_embedded_styles": [
-			{
 				"html_id": "http://www.rawpearls.com/about-us",
 				"feature_value": "0",
-				"cluster_win_mean": "2.9",
-				"delta": "2.9"
+				"cluster_win_mean": "19.34",
+				"delta": "19.34"
 			},
 			{
-				"html_id": "http://www.rawpearls.com/blog",
+				"html_id": "http://www.rawpearls.com/services",
 				"feature_value": "0",
-				"cluster_win_mean": "2.9",
-				"delta": "2.9"
+				"cluster_win_mean": "19.34",
+				"delta": "19.34"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/gallery",
+				"feature_value": "0",
+				"cluster_win_mean": "19.34",
+				"delta": "19.34"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/contact",
+				"feature_value": "0",
+				"cluster_win_mean": "19.34",
+				"delta": "19.34"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/sitemap",
+				"feature_value": "0",
+				"cluster_win_mean": "19.34",
+				"delta": "19.34"
 			},
 			{
 				"html_id": "http://www.rawpearls.com/data-protection",
 				"feature_value": "0",
-				"cluster_win_mean": "2.9",
-				"delta": "2.9"
+				"cluster_win_mean": "19.34",
+				"delta": "19.34"
 			},
 			{
-				"html_id": "http://www.rawpearls.com/category/education",
+				"html_id": "http://www.rawpearls.com/conditions-of-use",
 				"feature_value": "0",
-				"cluster_win_mean": "2.9",
-				"delta": "2.9"
+				"cluster_win_mean": "19.34",
+				"delta": "19.34"
 			},
 			{
-				"html_id": "http://www.rawpearls.com/category/news",
+				"html_id": "http://www.rawpearls.com/faq",
 				"feature_value": "0",
-				"cluster_win_mean": "2.9",
-				"delta": "2.9"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/category/press",
-				"feature_value": "0",
-				"cluster_win_mean": "2.9",
-				"delta": "2.9"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/category/services",
-				"feature_value": "0",
-				"cluster_win_mean": "2.9",
-				"delta": "2.9"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/category/special-offers",
-				"feature_value": "0",
-				"cluster_win_mean": "2.9",
-				"delta": "2.9"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/2012/11",
-				"feature_value": "0",
-				"cluster_win_mean": "2.9",
-				"delta": "2.9"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/2012/10",
-				"feature_value": "0",
-				"cluster_win_mean": "2.9",
-				"delta": "2.9"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/2012/03",
-				"feature_value": "0",
-				"cluster_win_mean": "2.9",
-				"delta": "2.9"
+				"cluster_win_mean": "19.34",
+				"delta": "19.34"
 			},
 			{
 				"html_id": "http://www.rawpearls.com/2011/05/28/the-jeweller-magazine",
 				"feature_value": "0",
-				"cluster_win_mean": "2.9",
-				"delta": "2.9"
+				"cluster_win_mean": "19.34",
+				"delta": "19.34"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2011/11/28/pearl-care",
+				"feature_value": "0",
+				"cluster_win_mean": "19.34",
+				"delta": "19.34"
 			},
 			{
 				"html_id": "http://www.rawpearls.com/2011/11/28/why-you-should-be-stocking-pearls-right-now",
 				"feature_value": "0",
-				"cluster_win_mean": "2.9",
-				"delta": "2.9"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/2011/12/15/pearls-are-back-in-vogue-according-to-professional-jeweller-magazine",
-				"feature_value": "1",
-				"cluster_win_mean": "2.9",
-				"delta": "1.9"
+				"cluster_win_mean": "19.34",
+				"delta": "19.34"
 			},
 			{
 				"html_id": "http://www.rawpearls.com/2012/01/12/raw-pearls-support-jacobs-of-reading",
-				"feature_value": "1",
-				"cluster_win_mean": "2.9",
-				"delta": "1.9"
+				"feature_value": "0",
+				"cluster_win_mean": "19.34",
+				"delta": "19.34"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2012/02/15/retail-jeweller-report-on-the-raw-pearls-website-launch",
+				"feature_value": "0",
+				"cluster_win_mean": "19.34",
+				"delta": "19.34"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2012/02/10/professional-jeweller-report-on-our-new-website",
+				"feature_value": "0",
+				"cluster_win_mean": "19.34",
+				"delta": "19.34"
 			},
 			{
 				"html_id": "http://www.rawpearls.com/2012/02/02/how-to-style-spring-pearls",
-				"feature_value": "1",
-				"cluster_win_mean": "2.9",
-				"delta": "1.9"
+				"feature_value": "0",
+				"cluster_win_mean": "19.34",
+				"delta": "19.34"
 			},
 			{
 				"html_id": "http://www.rawpearls.com/2012/03/28/professional-jeweller-report-on-our-holts-pearl-masterclass",
-				"feature_value": "1",
-				"cluster_win_mean": "2.9",
-				"delta": "1.9"
+				"feature_value": "0",
+				"cluster_win_mean": "19.34",
+				"delta": "19.34"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2012/03/27/jewellery-focus-report-on-the-pearl-production-crisis",
+				"feature_value": "0",
+				"cluster_win_mean": "19.34",
+				"delta": "19.34"
 			},
 			{
 				"html_id": "http://www.rawpearls.com/2012/03/21/holts-and-raw-pearls-collaborate-on-a-pearl-seminar",
-				"feature_value": "1",
-				"cluster_win_mean": "2.9",
-				"delta": "1.9"
+				"feature_value": "0",
+				"cluster_win_mean": "19.34",
+				"delta": "19.34"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2012/03/01/oyster-pearl-looses-its-lustre",
+				"feature_value": "0",
+				"cluster_win_mean": "19.34",
+				"delta": "19.34"
 			},
 			{
 				"html_id": "http://www.rawpearls.com/2012/04/25/pearl-earrings-shunned-by-owner-may-fetch-500000-at-auction",
-				"feature_value": "1",
-				"cluster_win_mean": "2.9",
-				"delta": "1.9"
+				"feature_value": "0",
+				"cluster_win_mean": "19.34",
+				"delta": "19.34"
+			}
+		],
+		"average_backlink_dale_chall_readability": [
+			{
+				"html_id": "http://www.rawpearls.com/about-us",
+				"feature_value": "0",
+				"cluster_win_mean": "9.05",
+				"delta": "9.05"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/services",
+				"feature_value": "0",
+				"cluster_win_mean": "9.05",
+				"delta": "9.05"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/gallery",
+				"feature_value": "0",
+				"cluster_win_mean": "9.05",
+				"delta": "9.05"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/contact",
+				"feature_value": "0",
+				"cluster_win_mean": "9.05",
+				"delta": "9.05"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/sitemap",
+				"feature_value": "0",
+				"cluster_win_mean": "9.05",
+				"delta": "9.05"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/data-protection",
+				"feature_value": "0",
+				"cluster_win_mean": "9.05",
+				"delta": "9.05"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/conditions-of-use",
+				"feature_value": "0",
+				"cluster_win_mean": "9.05",
+				"delta": "9.05"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/faq",
+				"feature_value": "0",
+				"cluster_win_mean": "9.05",
+				"delta": "9.05"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2011/05/28/the-jeweller-magazine",
+				"feature_value": "0",
+				"cluster_win_mean": "9.05",
+				"delta": "9.05"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2011/11/28/pearl-care",
+				"feature_value": "0",
+				"cluster_win_mean": "9.05",
+				"delta": "9.05"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2011/11/28/why-you-should-be-stocking-pearls-right-now",
+				"feature_value": "0",
+				"cluster_win_mean": "9.05",
+				"delta": "9.05"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2012/01/12/raw-pearls-support-jacobs-of-reading",
+				"feature_value": "0",
+				"cluster_win_mean": "9.05",
+				"delta": "9.05"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2012/02/10/professional-jeweller-report-on-our-new-website",
+				"feature_value": "0",
+				"cluster_win_mean": "9.05",
+				"delta": "9.05"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2012/02/02/how-to-style-spring-pearls",
+				"feature_value": "0",
+				"cluster_win_mean": "9.05",
+				"delta": "9.05"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2012/03/28/professional-jeweller-report-on-our-holts-pearl-masterclass",
+				"feature_value": "0",
+				"cluster_win_mean": "9.05",
+				"delta": "9.05"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2012/03/27/jewellery-focus-report-on-the-pearl-production-crisis",
+				"feature_value": "0",
+				"cluster_win_mean": "9.05",
+				"delta": "9.05"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2012/03/21/holts-and-raw-pearls-collaborate-on-a-pearl-seminar",
+				"feature_value": "0",
+				"cluster_win_mean": "9.05",
+				"delta": "9.05"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2012/03/01/oyster-pearl-looses-its-lustre",
+				"feature_value": "0",
+				"cluster_win_mean": "9.05",
+				"delta": "9.05"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2012/04/25/pearl-earrings-shunned-by-owner-may-fetch-500000-at-auction",
+				"feature_value": "0",
+				"cluster_win_mean": "9.05",
+				"delta": "9.05"
+			}
+		],
+		"number_of_duplicate_words": [
+			{
+				"html_id": "http://www.rawpearls.com/about-us",
+				"feature_value": "155",
+				"cluster_win_mean": "200.91",
+				"delta": "  45.91"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/blog",
+				"feature_value": " 56",
+				"cluster_win_mean": " 97.66",
+				"delta": "  41.66"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/data-protection",
+				"feature_value": "225",
+				"cluster_win_mean": "200.91",
+				"delta": " -24.09"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/conditions-of-use",
+				"feature_value": " 40",
+				"cluster_win_mean": "200.91",
+				"delta": " 160.91"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/category/education",
+				"feature_value": " 37",
+				"cluster_win_mean": " 97.66",
+				"delta": "  60.66"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/category/news",
+				"feature_value": " 39",
+				"cluster_win_mean": " 97.66",
+				"delta": "  58.66"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/category/press",
+				"feature_value": " 51",
+				"cluster_win_mean": " 97.66",
+				"delta": "  46.66"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/category/services",
+				"feature_value": " 30",
+				"cluster_win_mean": " 97.66",
+				"delta": "  67.66"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/category/special-offers",
+				"feature_value": " 24",
+				"cluster_win_mean": " 97.66",
+				"delta": "  73.66"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2013/05",
+				"feature_value": " 18",
+				"cluster_win_mean": " 97.66",
+				"delta": "  79.66"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2013/04",
+				"feature_value": " 12",
+				"cluster_win_mean": " 97.66",
+				"delta": "  85.66"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2013/02",
+				"feature_value": " 11",
+				"cluster_win_mean": " 97.66",
+				"delta": "  86.66"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2013/01",
+				"feature_value": "  9",
+				"cluster_win_mean": " 97.66",
+				"delta": "  88.66"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2012/12",
+				"feature_value": "  4",
+				"cluster_win_mean": " 97.66",
+				"delta": "  93.66"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2012/11",
+				"feature_value": " 13",
+				"cluster_win_mean": " 97.66",
+				"delta": "  84.66"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2012/10",
+				"feature_value": " 20",
+				"cluster_win_mean": " 97.66",
+				"delta": "  77.66"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2012/09",
+				"feature_value": "  9",
+				"cluster_win_mean": " 97.66",
+				"delta": "  88.66"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2012/07",
+				"feature_value": " 13",
+				"cluster_win_mean": " 97.66",
+				"delta": "  84.66"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2012/06",
+				"feature_value": "  7",
+				"cluster_win_mean": " 97.66",
+				"delta": "  90.66"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2012/05",
+				"feature_value": " 13",
+				"cluster_win_mean": " 97.66",
+				"delta": "  84.66"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2012/04",
+				"feature_value": "  8",
+				"cluster_win_mean": " 97.66",
+				"delta": "  89.66"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2012/03",
+				"feature_value": " 17",
+				"cluster_win_mean": " 97.66",
+				"delta": "  80.66"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2012/02",
+				"feature_value": " 21",
+				"cluster_win_mean": " 97.66",
+				"delta": "  76.66"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2011/12",
+				"feature_value": " 10",
+				"cluster_win_mean": " 97.66",
+				"delta": "  87.66"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2011/11",
+				"feature_value": " 13",
+				"cluster_win_mean": " 97.66",
+				"delta": "  84.66"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2011/12/15/pearls-are-back-in-vogue-according-to-professional-jeweller-magazine",
+				"feature_value": " 12",
+				"cluster_win_mean": " 97.66",
+				"delta": "  85.66"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2011/12/14/la-peregrina-is-sold-at-christie%e2%80%99s-in-new-york",
+				"feature_value": " 11",
+				"cluster_win_mean": " 97.66",
+				"delta": "  86.66"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2012/01/12/raw-pearls-support-jacobs-of-reading",
+				"feature_value": " 49",
+				"cluster_win_mean": "200.91",
+				"delta": " 151.91"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2012/02/10/professional-jeweller-report-on-our-new-website",
+				"feature_value": "342",
+				"cluster_win_mean": "200.91",
+				"delta": "-141.09"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2012/02/02/how-to-style-spring-pearls",
+				"feature_value": " 77",
+				"cluster_win_mean": "200.91",
+				"delta": " 123.91"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2012/03/28/professional-jeweller-report-on-our-holts-pearl-masterclass",
+				"feature_value": "162",
+				"cluster_win_mean": "200.91",
+				"delta": "  38.91"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2012/03/21/holts-and-raw-pearls-collaborate-on-a-pearl-seminar",
+				"feature_value": "119",
+				"cluster_win_mean": "200.91",
+				"delta": "  81.91"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2012/03/01/oyster-pearl-looses-its-lustre",
+				"feature_value": "718",
+				"cluster_win_mean": "200.91",
+				"delta": "-517.09"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2012/04/25/pearl-earrings-shunned-by-owner-may-fetch-500000-at-auction",
+				"feature_value": " 76",
+				"cluster_win_mean": "200.91",
+				"delta": " 124.91"
+			}
+		],
+		"number_of_hyperlinks_with_file": [
+			{
+				"html_id": "http://www.rawpearls.com/2013/03",
+				"feature_value": "4",
+				"cluster_win_mean": "8.83",
+				"delta": "4.83"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2012/08",
+				"feature_value": "4",
+				"cluster_win_mean": "8.83",
+				"delta": "4.83"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2012/01",
+				"feature_value": "4",
+				"cluster_win_mean": "8.83",
+				"delta": "4.83"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2011/05",
+				"feature_value": "4",
+				"cluster_win_mean": "8.83",
+				"delta": "4.83"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2011/12/23/free-row-of-pearls",
+				"feature_value": "4",
+				"cluster_win_mean": "8.83",
+				"delta": "4.83"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2012/04/30/earrings-hidden-in-a-drawer-sell-for-1-6mm",
+				"feature_value": "4",
+				"cluster_win_mean": "8.83",
+				"delta": "4.83"
+			}
+		],
+		"number_of_rare_words": [
+			{
+				"html_id": "http://www.rawpearls.com/about-us",
+				"feature_value": "40",
+				"cluster_win_mean": "93.24",
+				"delta": "53.24"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/services",
+				"feature_value": " 9",
+				"cluster_win_mean": "93.24",
+				"delta": "84.24"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/gallery",
+				"feature_value": " 5",
+				"cluster_win_mean": "93.24",
+				"delta": "88.24"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/contact",
+				"feature_value": "18",
+				"cluster_win_mean": "93.24",
+				"delta": "75.24"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/sitemap",
+				"feature_value": " 9",
+				"cluster_win_mean": "93.24",
+				"delta": "84.24"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/data-protection",
+				"feature_value": "58",
+				"cluster_win_mean": "93.24",
+				"delta": "35.24"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/conditions-of-use",
+				"feature_value": "11",
+				"cluster_win_mean": "93.24",
+				"delta": "82.24"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/faq",
+				"feature_value": " 7",
+				"cluster_win_mean": "93.24",
+				"delta": "86.24"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/category/services",
+				"feature_value": "32",
+				"cluster_win_mean": "39.86",
+				"delta": " 7.86"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/category/special-offers",
+				"feature_value": "20",
+				"cluster_win_mean": "39.86",
+				"delta": "19.86"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2013/05",
+				"feature_value": "20",
+				"cluster_win_mean": "39.86",
+				"delta": "19.86"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2013/04",
+				"feature_value": "18",
+				"cluster_win_mean": "39.86",
+				"delta": "21.86"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2013/03",
+				"feature_value": " 7",
+				"cluster_win_mean": "12.98",
+				"delta": " 5.98"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2013/02",
+				"feature_value": "14",
+				"cluster_win_mean": "39.86",
+				"delta": "25.86"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2013/01",
+				"feature_value": "18",
+				"cluster_win_mean": "39.86",
+				"delta": "21.86"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2012/12",
+				"feature_value": "13",
+				"cluster_win_mean": "39.86",
+				"delta": "26.86"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2012/11",
+				"feature_value": "32",
+				"cluster_win_mean": "39.86",
+				"delta": " 7.86"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2012/10",
+				"feature_value": "23",
+				"cluster_win_mean": "39.86",
+				"delta": "16.86"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2012/09",
+				"feature_value": "13",
+				"cluster_win_mean": "39.86",
+				"delta": "26.86"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2012/08",
+				"feature_value": " 7",
+				"cluster_win_mean": "12.98",
+				"delta": " 5.98"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2012/07",
+				"feature_value": "17",
+				"cluster_win_mean": "39.86",
+				"delta": "22.86"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2012/06",
+				"feature_value": "11",
+				"cluster_win_mean": "39.86",
+				"delta": "28.86"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2012/05",
+				"feature_value": "19",
+				"cluster_win_mean": "39.86",
+				"delta": "20.86"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2012/04",
+				"feature_value": "21",
+				"cluster_win_mean": "39.86",
+				"delta": "18.86"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2012/03",
+				"feature_value": "17",
+				"cluster_win_mean": "39.86",
+				"delta": "22.86"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2012/02",
+				"feature_value": "13",
+				"cluster_win_mean": "39.86",
+				"delta": "26.86"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2011/12",
+				"feature_value": "18",
+				"cluster_win_mean": "39.86",
+				"delta": "21.86"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2011/11",
+				"feature_value": "13",
+				"cluster_win_mean": "39.86",
+				"delta": "26.86"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2011/05",
+				"feature_value": " 8",
+				"cluster_win_mean": "12.98",
+				"delta": " 4.98"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2011/05/28/the-jeweller-magazine",
+				"feature_value": "19",
+				"cluster_win_mean": "93.24",
+				"delta": "74.24"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2011/11/28/pearl-care",
+				"feature_value": "10",
+				"cluster_win_mean": "93.24",
+				"delta": "83.24"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2011/11/28/why-you-should-be-stocking-pearls-right-now",
+				"feature_value": "16",
+				"cluster_win_mean": "93.24",
+				"delta": "77.24"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2011/12/15/pearls-are-back-in-vogue-according-to-professional-jeweller-magazine",
+				"feature_value": "25",
+				"cluster_win_mean": "39.86",
+				"delta": "14.86"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2011/12/14/la-peregrina-is-sold-at-christie%e2%80%99s-in-new-york",
+				"feature_value": "14",
+				"cluster_win_mean": "39.86",
+				"delta": "25.86"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2012/01/12/raw-pearls-support-jacobs-of-reading",
+				"feature_value": "39",
+				"cluster_win_mean": "93.24",
+				"delta": "54.24"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2012/02/15/retail-jeweller-report-on-the-raw-pearls-website-launch",
+				"feature_value": "10",
+				"cluster_win_mean": "93.24",
+				"delta": "83.24"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2012/03/28/professional-jeweller-report-on-our-holts-pearl-masterclass",
+				"feature_value": "86",
+				"cluster_win_mean": "93.24",
+				"delta": " 7.24"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2012/03/27/jewellery-focus-report-on-the-pearl-production-crisis",
+				"feature_value": " 8",
+				"cluster_win_mean": "93.24",
+				"delta": "85.24"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2012/03/21/holts-and-raw-pearls-collaborate-on-a-pearl-seminar",
+				"feature_value": "49",
+				"cluster_win_mean": "93.24",
+				"delta": "44.24"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2012/04/30/earrings-hidden-in-a-drawer-sell-for-1-6mm",
+				"feature_value": " 8",
+				"cluster_win_mean": "12.98",
+				"delta": " 4.98"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2012/04/25/pearl-earrings-shunned-by-owner-may-fetch-500000-at-auction",
+				"feature_value": "32",
+				"cluster_win_mean": "93.24",
+				"delta": "61.24"
+			}
+		],
+		"total_number_of_5k_common_words": [
+			{
+				"html_id": "http://www.rawpearls.com/about-us",
+				"feature_value": "258",
+				"cluster_win_mean": "281.97",
+				"delta": "  23.97"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/blog",
+				"feature_value": "121",
+				"cluster_win_mean": "132.73",
+				"delta": "  11.73"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/contact",
+				"feature_value": " 55",
+				"cluster_win_mean": "281.97",
+				"delta": " 226.97"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/data-protection",
+				"feature_value": "328",
+				"cluster_win_mean": "281.97",
+				"delta": " -46.03"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/conditions-of-use",
+				"feature_value": " 68",
+				"cluster_win_mean": "281.97",
+				"delta": " 213.97"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/category/education",
+				"feature_value": " 91",
+				"cluster_win_mean": "132.73",
+				"delta": "  41.73"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/category/news",
+				"feature_value": "106",
+				"cluster_win_mean": "132.73",
+				"delta": "  26.73"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/category/press",
+				"feature_value": "108",
+				"cluster_win_mean": "132.73",
+				"delta": "  24.73"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/category/services",
+				"feature_value": " 77",
+				"cluster_win_mean": "132.73",
+				"delta": "  55.73"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/category/special-offers",
+				"feature_value": " 76",
+				"cluster_win_mean": "132.73",
+				"delta": "  56.73"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2013/05",
+				"feature_value": " 54",
+				"cluster_win_mean": "132.73",
+				"delta": "  78.73"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2013/04",
+				"feature_value": " 43",
+				"cluster_win_mean": "132.73",
+				"delta": "  89.73"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2013/03",
+				"feature_value": " 25",
+				"cluster_win_mean": " 37.66",
+				"delta": "  12.66"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2013/02",
+				"feature_value": " 42",
+				"cluster_win_mean": "132.73",
+				"delta": "  90.73"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2013/01",
+				"feature_value": " 41",
+				"cluster_win_mean": "132.73",
+				"delta": "  91.73"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2012/12",
+				"feature_value": " 33",
+				"cluster_win_mean": "132.73",
+				"delta": "  99.73"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2012/11",
+				"feature_value": " 49",
+				"cluster_win_mean": "132.73",
+				"delta": "  83.73"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2012/10",
+				"feature_value": " 60",
+				"cluster_win_mean": "132.73",
+				"delta": "  72.73"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2012/09",
+				"feature_value": " 44",
+				"cluster_win_mean": "132.73",
+				"delta": "  88.73"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2012/08",
+				"feature_value": " 27",
+				"cluster_win_mean": " 37.66",
+				"delta": "  10.66"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2012/07",
+				"feature_value": " 42",
+				"cluster_win_mean": "132.73",
+				"delta": "  90.73"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2012/06",
+				"feature_value": " 35",
+				"cluster_win_mean": "132.73",
+				"delta": "  97.73"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2012/05",
+				"feature_value": " 40",
+				"cluster_win_mean": "132.73",
+				"delta": "  92.73"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2012/04",
+				"feature_value": " 39",
+				"cluster_win_mean": "132.73",
+				"delta": "  93.73"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2012/03",
+				"feature_value": " 54",
+				"cluster_win_mean": "132.73",
+				"delta": "  78.73"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2012/02",
+				"feature_value": " 46",
+				"cluster_win_mean": "132.73",
+				"delta": "  86.73"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2012/01",
+				"feature_value": " 23",
+				"cluster_win_mean": " 37.66",
+				"delta": "  14.66"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2011/12",
+				"feature_value": " 39",
+				"cluster_win_mean": "132.73",
+				"delta": "  93.73"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2011/11",
+				"feature_value": " 32",
+				"cluster_win_mean": "132.73",
+				"delta": " 100.73"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2011/05",
+				"feature_value": " 26",
+				"cluster_win_mean": " 37.66",
+				"delta": "  11.66"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2011/05/28/the-jeweller-magazine",
+				"feature_value": " 90",
+				"cluster_win_mean": "281.97",
+				"delta": " 191.97"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2011/11/28/pearl-care",
+				"feature_value": " 42",
+				"cluster_win_mean": "281.97",
+				"delta": " 239.97"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2011/11/28/why-you-should-be-stocking-pearls-right-now",
+				"feature_value": " 69",
+				"cluster_win_mean": "281.97",
+				"delta": " 212.97"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2011/12/23/free-row-of-pearls",
+				"feature_value": " 18",
+				"cluster_win_mean": " 37.66",
+				"delta": "  19.66"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2011/12/15/pearls-are-back-in-vogue-according-to-professional-jeweller-magazine",
+				"feature_value": " 46",
+				"cluster_win_mean": "132.73",
+				"delta": "  86.73"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2011/12/14/la-peregrina-is-sold-at-christie%e2%80%99s-in-new-york",
+				"feature_value": " 36",
+				"cluster_win_mean": "132.73",
+				"delta": "  96.73"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2012/01/12/raw-pearls-support-jacobs-of-reading",
+				"feature_value": " 89",
+				"cluster_win_mean": "281.97",
+				"delta": " 192.97"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2012/02/10/professional-jeweller-report-on-our-new-website",
+				"feature_value": "470",
+				"cluster_win_mean": "281.97",
+				"delta": "-188.03"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2012/02/02/how-to-style-spring-pearls",
+				"feature_value": " 84",
+				"cluster_win_mean": "281.97",
+				"delta": " 197.97"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2012/03/28/professional-jeweller-report-on-our-holts-pearl-masterclass",
+				"feature_value": "279",
+				"cluster_win_mean": "281.97",
+				"delta": "   2.97"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2012/03/21/holts-and-raw-pearls-collaborate-on-a-pearl-seminar",
+				"feature_value": "199",
+				"cluster_win_mean": "281.97",
+				"delta": "  82.97"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2012/03/01/oyster-pearl-looses-its-lustre",
+				"feature_value": "934",
+				"cluster_win_mean": "281.97",
+				"delta": "-652.03"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2012/04/30/earrings-hidden-in-a-drawer-sell-for-1-6mm",
+				"feature_value": " 26",
+				"cluster_win_mean": " 37.66",
+				"delta": "  11.66"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2012/04/25/pearl-earrings-shunned-by-owner-may-fetch-500000-at-auction",
+				"feature_value": "134",
+				"cluster_win_mean": "281.97",
+				"delta": " 147.97"
+			}
+		],
+		"number_of_titles_same_as_h1": [
+			{
+				"html_id": "http://www.rawpearls.com/about-us",
+				"feature_value": "0",
+				"cluster_win_mean": " 1.1",
+				"delta": " 1.1"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/services",
+				"feature_value": "0",
+				"cluster_win_mean": " 1.1",
+				"delta": " 1.1"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/gallery",
+				"feature_value": "0",
+				"cluster_win_mean": " 1.1",
+				"delta": " 1.1"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/blog",
+				"feature_value": "0",
+				"cluster_win_mean": "1.06",
+				"delta": "1.06"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/contact",
+				"feature_value": "0",
+				"cluster_win_mean": " 1.1",
+				"delta": " 1.1"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/sitemap",
+				"feature_value": "0",
+				"cluster_win_mean": " 1.1",
+				"delta": " 1.1"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/data-protection",
+				"feature_value": "0",
+				"cluster_win_mean": " 1.1",
+				"delta": " 1.1"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/terms-and-conditions",
+				"feature_value": "0",
+				"cluster_win_mean": "1.06",
+				"delta": "1.06"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/conditions-of-use",
+				"feature_value": "0",
+				"cluster_win_mean": " 1.1",
+				"delta": " 1.1"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/faq",
+				"feature_value": "0",
+				"cluster_win_mean": " 1.1",
+				"delta": " 1.1"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/category/education",
+				"feature_value": "0",
+				"cluster_win_mean": "1.06",
+				"delta": "1.06"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/category/news",
+				"feature_value": "0",
+				"cluster_win_mean": "1.06",
+				"delta": "1.06"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/category/press",
+				"feature_value": "0",
+				"cluster_win_mean": "1.06",
+				"delta": "1.06"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/category/services",
+				"feature_value": "0",
+				"cluster_win_mean": "1.06",
+				"delta": "1.06"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/category/special-offers",
+				"feature_value": "0",
+				"cluster_win_mean": "1.06",
+				"delta": "1.06"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2013/05",
+				"feature_value": "0",
+				"cluster_win_mean": "1.06",
+				"delta": "1.06"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2013/04",
+				"feature_value": "0",
+				"cluster_win_mean": "1.06",
+				"delta": "1.06"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2013/03",
+				"feature_value": "0",
+				"cluster_win_mean": "   1",
+				"delta": "   1"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2013/02",
+				"feature_value": "0",
+				"cluster_win_mean": "1.06",
+				"delta": "1.06"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2013/01",
+				"feature_value": "0",
+				"cluster_win_mean": "1.06",
+				"delta": "1.06"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2012/12",
+				"feature_value": "0",
+				"cluster_win_mean": "1.06",
+				"delta": "1.06"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2012/11",
+				"feature_value": "0",
+				"cluster_win_mean": "1.06",
+				"delta": "1.06"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2012/10",
+				"feature_value": "0",
+				"cluster_win_mean": "1.06",
+				"delta": "1.06"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2012/09",
+				"feature_value": "0",
+				"cluster_win_mean": "1.06",
+				"delta": "1.06"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2012/08",
+				"feature_value": "0",
+				"cluster_win_mean": "   1",
+				"delta": "   1"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2012/07",
+				"feature_value": "0",
+				"cluster_win_mean": "1.06",
+				"delta": "1.06"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2012/06",
+				"feature_value": "0",
+				"cluster_win_mean": "1.06",
+				"delta": "1.06"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2012/05",
+				"feature_value": "0",
+				"cluster_win_mean": "1.06",
+				"delta": "1.06"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2012/04",
+				"feature_value": "0",
+				"cluster_win_mean": "1.06",
+				"delta": "1.06"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2012/03",
+				"feature_value": "0",
+				"cluster_win_mean": "1.06",
+				"delta": "1.06"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2012/02",
+				"feature_value": "0",
+				"cluster_win_mean": "1.06",
+				"delta": "1.06"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2012/01",
+				"feature_value": "0",
+				"cluster_win_mean": "   1",
+				"delta": "   1"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2011/12",
+				"feature_value": "0",
+				"cluster_win_mean": "1.06",
+				"delta": "1.06"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2011/11",
+				"feature_value": "0",
+				"cluster_win_mean": "1.06",
+				"delta": "1.06"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2011/05",
+				"feature_value": "0",
+				"cluster_win_mean": "   1",
+				"delta": "   1"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2011/05/28/the-jeweller-magazine",
+				"feature_value": "0",
+				"cluster_win_mean": " 1.1",
+				"delta": " 1.1"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2011/11/28/pearl-care",
+				"feature_value": "0",
+				"cluster_win_mean": " 1.1",
+				"delta": " 1.1"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2011/11/28/why-you-should-be-stocking-pearls-right-now",
+				"feature_value": "0",
+				"cluster_win_mean": " 1.1",
+				"delta": " 1.1"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2011/12/23/free-row-of-pearls",
+				"feature_value": "0",
+				"cluster_win_mean": "   1",
+				"delta": "   1"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2011/12/15/pearls-are-back-in-vogue-according-to-professional-jeweller-magazine",
+				"feature_value": "0",
+				"cluster_win_mean": "1.06",
+				"delta": "1.06"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2011/12/14/la-peregrina-is-sold-at-christie%e2%80%99s-in-new-york",
+				"feature_value": "0",
+				"cluster_win_mean": "1.06",
+				"delta": "1.06"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2012/01/12/raw-pearls-support-jacobs-of-reading",
+				"feature_value": "0",
+				"cluster_win_mean": " 1.1",
+				"delta": " 1.1"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2012/02/15/retail-jeweller-report-on-the-raw-pearls-website-launch",
+				"feature_value": "0",
+				"cluster_win_mean": " 1.1",
+				"delta": " 1.1"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2012/02/10/professional-jeweller-report-on-our-new-website",
+				"feature_value": "0",
+				"cluster_win_mean": " 1.1",
+				"delta": " 1.1"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2012/02/02/how-to-style-spring-pearls",
+				"feature_value": "0",
+				"cluster_win_mean": " 1.1",
+				"delta": " 1.1"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2012/03/28/professional-jeweller-report-on-our-holts-pearl-masterclass",
+				"feature_value": "0",
+				"cluster_win_mean": " 1.1",
+				"delta": " 1.1"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2012/03/27/jewellery-focus-report-on-the-pearl-production-crisis",
+				"feature_value": "0",
+				"cluster_win_mean": " 1.1",
+				"delta": " 1.1"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2012/03/21/holts-and-raw-pearls-collaborate-on-a-pearl-seminar",
+				"feature_value": "0",
+				"cluster_win_mean": " 1.1",
+				"delta": " 1.1"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2012/03/01/oyster-pearl-looses-its-lustre",
+				"feature_value": "0",
+				"cluster_win_mean": " 1.1",
+				"delta": " 1.1"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2012/04/30/earrings-hidden-in-a-drawer-sell-for-1-6mm",
+				"feature_value": "0",
+				"cluster_win_mean": "   1",
+				"delta": "   1"
+			},
+			{
+				"html_id": "http://www.rawpearls.com/2012/04/25/pearl-earrings-shunned-by-owner-may-fetch-500000-at-auction",
+				"feature_value": "0",
+				"cluster_win_mean": " 1.1",
+				"delta": " 1.1"
 			}
 		],
 		"number_of_iframes": [
 			{
-				"html_id": "http://www.rawpearls.com/terms-and-conditions",
-				"feature_value": "0",
-				"cluster_win_mean": "1",
-				"delta": "1"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/2012/02/10/professional-jeweller-report-on-our-new-website",
-				"feature_value": "0",
-				"cluster_win_mean": "1",
-				"delta": "1"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/2012/03/01/oyster-pearl-looses-its-lustre",
-				"feature_value": "0",
-				"cluster_win_mean": "1",
-				"delta": "1"
-			}
-		],
-		"number_of_external_css_styles": [
-			{
-				"html_id": "http://www.rawpearls.com/terms-and-conditions",
-				"feature_value": "6",
-				"cluster_win_mean": "7.49",
-				"delta": "1.49"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/2012/02/10/professional-jeweller-report-on-our-new-website",
-				"feature_value": "5",
-				"cluster_win_mean": "7.49",
-				"delta": "2.49"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/2012/03/01/oyster-pearl-looses-its-lustre",
-				"feature_value": "5",
-				"cluster_win_mean": "7.49",
-				"delta": "2.49"
-			}
-		],
-		"maximum_length_of_h2": [
-			{
-				"html_id": "http://www.rawpearls.com/about-us",
-				"feature_value": " 0",
-				"cluster_win_mean": "71.79",
-				"delta": "71.79"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/services",
-				"feature_value": " 0",
-				"cluster_win_mean": "52.07",
-				"delta": "52.07"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/gallery",
-				"feature_value": " 0",
-				"cluster_win_mean": "52.07",
-				"delta": "52.07"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/blog",
-				"feature_value": "10",
-				"cluster_win_mean": "71.79",
-				"delta": "61.79"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/contact",
-				"feature_value": " 0",
-				"cluster_win_mean": "52.07",
-				"delta": "52.07"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/sitemap",
-				"feature_value": " 0",
-				"cluster_win_mean": "52.07",
-				"delta": "52.07"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/data-protection",
-				"feature_value": " 0",
-				"cluster_win_mean": "71.79",
-				"delta": "71.79"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/terms-and-conditions",
-				"feature_value": " 0",
-				"cluster_win_mean": "43.68",
-				"delta": "43.68"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/conditions-of-use",
-				"feature_value": " 0",
-				"cluster_win_mean": "52.07",
-				"delta": "52.07"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/faq",
-				"feature_value": " 0",
-				"cluster_win_mean": "52.07",
-				"delta": "52.07"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/category/education",
-				"feature_value": "10",
-				"cluster_win_mean": "71.79",
-				"delta": "61.79"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/category/news",
-				"feature_value": "10",
-				"cluster_win_mean": "71.79",
-				"delta": "61.79"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/category/press",
-				"feature_value": "10",
-				"cluster_win_mean": "71.79",
-				"delta": "61.79"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/category/services",
-				"feature_value": "10",
-				"cluster_win_mean": "71.79",
-				"delta": "61.79"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/category/special-offers",
-				"feature_value": "10",
-				"cluster_win_mean": "71.79",
-				"delta": "61.79"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/2013/05",
-				"feature_value": "10",
-				"cluster_win_mean": "52.07",
-				"delta": "42.07"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/2013/04",
-				"feature_value": "10",
-				"cluster_win_mean": "52.07",
-				"delta": "42.07"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/2013/03",
-				"feature_value": "10",
-				"cluster_win_mean": "52.07",
-				"delta": "42.07"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/2013/02",
-				"feature_value": "10",
-				"cluster_win_mean": "52.07",
-				"delta": "42.07"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/2013/01",
-				"feature_value": "10",
-				"cluster_win_mean": "52.07",
-				"delta": "42.07"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/2012/12",
-				"feature_value": "10",
-				"cluster_win_mean": "52.07",
-				"delta": "42.07"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/2012/11",
-				"feature_value": "10",
-				"cluster_win_mean": "71.79",
-				"delta": "61.79"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/2012/10",
-				"feature_value": "10",
-				"cluster_win_mean": "71.79",
-				"delta": "61.79"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/2012/09",
-				"feature_value": "10",
-				"cluster_win_mean": "52.07",
-				"delta": "42.07"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/2012/08",
-				"feature_value": "10",
-				"cluster_win_mean": "52.07",
-				"delta": "42.07"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/2012/07",
-				"feature_value": "10",
-				"cluster_win_mean": "52.07",
-				"delta": "42.07"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/2012/06",
-				"feature_value": "10",
-				"cluster_win_mean": "52.07",
-				"delta": "42.07"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/2012/05",
-				"feature_value": "10",
-				"cluster_win_mean": "52.07",
-				"delta": "42.07"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/2012/04",
-				"feature_value": "10",
-				"cluster_win_mean": "52.07",
-				"delta": "42.07"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/2012/03",
-				"feature_value": "10",
-				"cluster_win_mean": "71.79",
-				"delta": "61.79"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/2012/02",
-				"feature_value": "10",
-				"cluster_win_mean": "52.07",
-				"delta": "42.07"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/2012/01",
-				"feature_value": "10",
-				"cluster_win_mean": "52.07",
-				"delta": "42.07"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/2011/12",
-				"feature_value": "10",
-				"cluster_win_mean": "52.07",
-				"delta": "42.07"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/2011/11",
-				"feature_value": "10",
-				"cluster_win_mean": "52.07",
-				"delta": "42.07"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/2011/05",
-				"feature_value": "10",
-				"cluster_win_mean": "52.07",
-				"delta": "42.07"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/2011/05/28/the-jeweller-magazine",
-				"feature_value": " 0",
-				"cluster_win_mean": "71.79",
-				"delta": "71.79"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/2011/11/28/pearl-care",
-				"feature_value": " 0",
-				"cluster_win_mean": "52.07",
-				"delta": "52.07"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/2011/11/28/why-you-should-be-stocking-pearls-right-now",
-				"feature_value": " 0",
-				"cluster_win_mean": "71.79",
-				"delta": "71.79"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/2011/12/23/free-row-of-pearls",
-				"feature_value": "10",
-				"cluster_win_mean": "52.07",
-				"delta": "42.07"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/2011/12/15/pearls-are-back-in-vogue-according-to-professional-jeweller-magazine",
-				"feature_value": "10",
-				"cluster_win_mean": "71.79",
-				"delta": "61.79"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/2011/12/14/la-peregrina-is-sold-at-christie%e2%80%99s-in-new-york",
-				"feature_value": "10",
-				"cluster_win_mean": "52.07",
-				"delta": "42.07"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/2012/01/12/raw-pearls-support-jacobs-of-reading",
-				"feature_value": "10",
-				"cluster_win_mean": "71.79",
-				"delta": "61.79"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/2012/02/15/retail-jeweller-report-on-the-raw-pearls-website-launch",
-				"feature_value": "10",
-				"cluster_win_mean": "52.07",
-				"delta": "42.07"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/2012/02/10/professional-jeweller-report-on-our-new-website",
-				"feature_value": "10",
-				"cluster_win_mean": "43.68",
-				"delta": "33.68"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/2012/02/02/how-to-style-spring-pearls",
-				"feature_value": "10",
-				"cluster_win_mean": "71.79",
-				"delta": "61.79"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/2012/03/28/professional-jeweller-report-on-our-holts-pearl-masterclass",
-				"feature_value": "10",
-				"cluster_win_mean": "71.79",
-				"delta": "61.79"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/2012/03/27/jewellery-focus-report-on-the-pearl-production-crisis",
-				"feature_value": "10",
-				"cluster_win_mean": "52.07",
-				"delta": "42.07"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/2012/03/21/holts-and-raw-pearls-collaborate-on-a-pearl-seminar",
-				"feature_value": "10",
-				"cluster_win_mean": "71.79",
-				"delta": "61.79"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/2012/03/01/oyster-pearl-looses-its-lustre",
-				"feature_value": "10",
-				"cluster_win_mean": "43.68",
-				"delta": "33.68"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/2012/04/30/earrings-hidden-in-a-drawer-sell-for-1-6mm",
-				"feature_value": "10",
-				"cluster_win_mean": "52.07",
-				"delta": "42.07"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/2012/04/25/pearl-earrings-shunned-by-owner-may-fetch-500000-at-auction",
-				"feature_value": "10",
-				"cluster_win_mean": "71.79",
-				"delta": "61.79"
-			}
-		],
-		"average_length_of_h2": [
-			{
 				"html_id": "http://www.rawpearls.com/about-us",
 				"feature_value": "0",
-				"cluster_win_mean": "71.22",
-				"delta": "71.22"
+				"cluster_win_mean": "1.02",
+				"delta": "1.02"
 			},
 			{
 				"html_id": "http://www.rawpearls.com/services",
 				"feature_value": "0",
-				"cluster_win_mean": "51.77",
-				"delta": "51.77"
+				"cluster_win_mean": "1.02",
+				"delta": "1.02"
 			},
 			{
 				"html_id": "http://www.rawpearls.com/gallery",
 				"feature_value": "0",
-				"cluster_win_mean": "51.77",
-				"delta": "51.77"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/blog",
-				"feature_value": "9",
-				"cluster_win_mean": "71.22",
-				"delta": "62.22"
+				"cluster_win_mean": "1.02",
+				"delta": "1.02"
 			},
 			{
 				"html_id": "http://www.rawpearls.com/contact",
 				"feature_value": "0",
-				"cluster_win_mean": "51.77",
-				"delta": "51.77"
+				"cluster_win_mean": "1.02",
+				"delta": "1.02"
 			},
 			{
 				"html_id": "http://www.rawpearls.com/sitemap",
 				"feature_value": "0",
-				"cluster_win_mean": "51.77",
-				"delta": "51.77"
+				"cluster_win_mean": "1.02",
+				"delta": "1.02"
 			},
 			{
 				"html_id": "http://www.rawpearls.com/data-protection",
 				"feature_value": "0",
-				"cluster_win_mean": "71.22",
-				"delta": "71.22"
+				"cluster_win_mean": "1.02",
+				"delta": "1.02"
 			},
 			{
 				"html_id": "http://www.rawpearls.com/conditions-of-use",
 				"feature_value": "0",
-				"cluster_win_mean": "51.77",
-				"delta": "51.77"
+				"cluster_win_mean": "1.02",
+				"delta": "1.02"
 			},
 			{
 				"html_id": "http://www.rawpearls.com/faq",
 				"feature_value": "0",
-				"cluster_win_mean": "51.77",
-				"delta": "51.77"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/category/education",
-				"feature_value": "9",
-				"cluster_win_mean": "71.22",
-				"delta": "62.22"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/category/news",
-				"feature_value": "9",
-				"cluster_win_mean": "71.22",
-				"delta": "62.22"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/category/press",
-				"feature_value": "9",
-				"cluster_win_mean": "71.22",
-				"delta": "62.22"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/category/services",
-				"feature_value": "9",
-				"cluster_win_mean": "71.22",
-				"delta": "62.22"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/category/special-offers",
-				"feature_value": "9",
-				"cluster_win_mean": "71.22",
-				"delta": "62.22"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/2013/05",
-				"feature_value": "9",
-				"cluster_win_mean": "51.77",
-				"delta": "42.77"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/2013/04",
-				"feature_value": "9",
-				"cluster_win_mean": "51.77",
-				"delta": "42.77"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/2013/03",
-				"feature_value": "9",
-				"cluster_win_mean": "51.77",
-				"delta": "42.77"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/2013/02",
-				"feature_value": "9",
-				"cluster_win_mean": "51.77",
-				"delta": "42.77"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/2013/01",
-				"feature_value": "9",
-				"cluster_win_mean": "51.77",
-				"delta": "42.77"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/2012/12",
-				"feature_value": "9",
-				"cluster_win_mean": "51.77",
-				"delta": "42.77"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/2012/11",
-				"feature_value": "9",
-				"cluster_win_mean": "71.22",
-				"delta": "62.22"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/2012/10",
-				"feature_value": "9",
-				"cluster_win_mean": "71.22",
-				"delta": "62.22"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/2012/09",
-				"feature_value": "9",
-				"cluster_win_mean": "51.77",
-				"delta": "42.77"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/2012/08",
-				"feature_value": "9",
-				"cluster_win_mean": "51.77",
-				"delta": "42.77"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/2012/07",
-				"feature_value": "9",
-				"cluster_win_mean": "51.77",
-				"delta": "42.77"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/2012/06",
-				"feature_value": "9",
-				"cluster_win_mean": "51.77",
-				"delta": "42.77"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/2012/05",
-				"feature_value": "9",
-				"cluster_win_mean": "51.77",
-				"delta": "42.77"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/2012/04",
-				"feature_value": "9",
-				"cluster_win_mean": "51.77",
-				"delta": "42.77"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/2012/03",
-				"feature_value": "9",
-				"cluster_win_mean": "71.22",
-				"delta": "62.22"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/2012/02",
-				"feature_value": "9",
-				"cluster_win_mean": "51.77",
-				"delta": "42.77"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/2012/01",
-				"feature_value": "9",
-				"cluster_win_mean": "51.77",
-				"delta": "42.77"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/2011/12",
-				"feature_value": "9",
-				"cluster_win_mean": "51.77",
-				"delta": "42.77"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/2011/11",
-				"feature_value": "9",
-				"cluster_win_mean": "51.77",
-				"delta": "42.77"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/2011/05",
-				"feature_value": "9",
-				"cluster_win_mean": "51.77",
-				"delta": "42.77"
+				"cluster_win_mean": "1.02",
+				"delta": "1.02"
 			},
 			{
 				"html_id": "http://www.rawpearls.com/2011/05/28/the-jeweller-magazine",
 				"feature_value": "0",
-				"cluster_win_mean": "71.22",
-				"delta": "71.22"
+				"cluster_win_mean": "1.02",
+				"delta": "1.02"
 			},
 			{
 				"html_id": "http://www.rawpearls.com/2011/11/28/pearl-care",
 				"feature_value": "0",
-				"cluster_win_mean": "51.77",
-				"delta": "51.77"
+				"cluster_win_mean": "1.02",
+				"delta": "1.02"
 			},
 			{
 				"html_id": "http://www.rawpearls.com/2011/11/28/why-you-should-be-stocking-pearls-right-now",
 				"feature_value": "0",
-				"cluster_win_mean": "71.22",
-				"delta": "71.22"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/2011/12/23/free-row-of-pearls",
-				"feature_value": "9",
-				"cluster_win_mean": "51.77",
-				"delta": "42.77"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/2011/12/15/pearls-are-back-in-vogue-according-to-professional-jeweller-magazine",
-				"feature_value": "9",
-				"cluster_win_mean": "71.22",
-				"delta": "62.22"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/2011/12/14/la-peregrina-is-sold-at-christie%e2%80%99s-in-new-york",
-				"feature_value": "9",
-				"cluster_win_mean": "51.77",
-				"delta": "42.77"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/2012/01/12/raw-pearls-support-jacobs-of-reading",
-				"feature_value": "9",
-				"cluster_win_mean": "71.22",
-				"delta": "62.22"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/2012/02/15/retail-jeweller-report-on-the-raw-pearls-website-launch",
-				"feature_value": "9",
-				"cluster_win_mean": "51.77",
-				"delta": "42.77"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/2012/02/02/how-to-style-spring-pearls",
-				"feature_value": "9",
-				"cluster_win_mean": "71.22",
-				"delta": "62.22"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/2012/03/28/professional-jeweller-report-on-our-holts-pearl-masterclass",
-				"feature_value": "9",
-				"cluster_win_mean": "71.22",
-				"delta": "62.22"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/2012/03/27/jewellery-focus-report-on-the-pearl-production-crisis",
-				"feature_value": "9",
-				"cluster_win_mean": "51.77",
-				"delta": "42.77"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/2012/03/21/holts-and-raw-pearls-collaborate-on-a-pearl-seminar",
-				"feature_value": "9",
-				"cluster_win_mean": "71.22",
-				"delta": "62.22"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/2012/04/30/earrings-hidden-in-a-drawer-sell-for-1-6mm",
-				"feature_value": "9",
-				"cluster_win_mean": "51.77",
-				"delta": "42.77"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/2012/04/25/pearl-earrings-shunned-by-owner-may-fetch-500000-at-auction",
-				"feature_value": "9",
-				"cluster_win_mean": "71.22",
-				"delta": "62.22"
-			}
-		],
-		"number_of_dhtml_scripts": [
-			{
-				"html_id": "http://www.rawpearls.com/about-us",
-				"feature_value": "0",
-				"cluster_win_mean": "1.31",
-				"delta": "1.31"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/services",
-				"feature_value": "0",
-				"cluster_win_mean": "1.16",
-				"delta": "1.16"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/gallery",
-				"feature_value": "0",
-				"cluster_win_mean": "1.16",
-				"delta": "1.16"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/blog",
-				"feature_value": "0",
-				"cluster_win_mean": "1.31",
-				"delta": "1.31"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/contact",
-				"feature_value": "0",
-				"cluster_win_mean": "1.16",
-				"delta": "1.16"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/sitemap",
-				"feature_value": "0",
-				"cluster_win_mean": "1.16",
-				"delta": "1.16"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/data-protection",
-				"feature_value": "0",
-				"cluster_win_mean": "1.31",
-				"delta": "1.31"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/terms-and-conditions",
-				"feature_value": "0",
-				"cluster_win_mean": "   2",
-				"delta": "   2"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/conditions-of-use",
-				"feature_value": "0",
-				"cluster_win_mean": "1.16",
-				"delta": "1.16"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/faq",
-				"feature_value": "0",
-				"cluster_win_mean": "1.16",
-				"delta": "1.16"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/category/education",
-				"feature_value": "0",
-				"cluster_win_mean": "1.31",
-				"delta": "1.31"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/category/news",
-				"feature_value": "0",
-				"cluster_win_mean": "1.31",
-				"delta": "1.31"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/category/press",
-				"feature_value": "0",
-				"cluster_win_mean": "1.31",
-				"delta": "1.31"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/category/services",
-				"feature_value": "0",
-				"cluster_win_mean": "1.31",
-				"delta": "1.31"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/category/special-offers",
-				"feature_value": "0",
-				"cluster_win_mean": "1.31",
-				"delta": "1.31"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/2013/05",
-				"feature_value": "0",
-				"cluster_win_mean": "1.16",
-				"delta": "1.16"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/2013/04",
-				"feature_value": "0",
-				"cluster_win_mean": "1.16",
-				"delta": "1.16"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/2013/03",
-				"feature_value": "0",
-				"cluster_win_mean": "1.16",
-				"delta": "1.16"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/2013/02",
-				"feature_value": "0",
-				"cluster_win_mean": "1.16",
-				"delta": "1.16"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/2013/01",
-				"feature_value": "0",
-				"cluster_win_mean": "1.16",
-				"delta": "1.16"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/2012/12",
-				"feature_value": "0",
-				"cluster_win_mean": "1.16",
-				"delta": "1.16"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/2012/11",
-				"feature_value": "0",
-				"cluster_win_mean": "1.31",
-				"delta": "1.31"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/2012/10",
-				"feature_value": "0",
-				"cluster_win_mean": "1.31",
-				"delta": "1.31"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/2012/09",
-				"feature_value": "0",
-				"cluster_win_mean": "1.16",
-				"delta": "1.16"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/2012/08",
-				"feature_value": "0",
-				"cluster_win_mean": "1.16",
-				"delta": "1.16"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/2012/07",
-				"feature_value": "0",
-				"cluster_win_mean": "1.16",
-				"delta": "1.16"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/2012/06",
-				"feature_value": "0",
-				"cluster_win_mean": "1.16",
-				"delta": "1.16"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/2012/05",
-				"feature_value": "0",
-				"cluster_win_mean": "1.16",
-				"delta": "1.16"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/2012/04",
-				"feature_value": "0",
-				"cluster_win_mean": "1.16",
-				"delta": "1.16"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/2012/03",
-				"feature_value": "0",
-				"cluster_win_mean": "1.31",
-				"delta": "1.31"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/2012/02",
-				"feature_value": "0",
-				"cluster_win_mean": "1.16",
-				"delta": "1.16"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/2012/01",
-				"feature_value": "0",
-				"cluster_win_mean": "1.16",
-				"delta": "1.16"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/2011/12",
-				"feature_value": "0",
-				"cluster_win_mean": "1.16",
-				"delta": "1.16"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/2011/11",
-				"feature_value": "0",
-				"cluster_win_mean": "1.16",
-				"delta": "1.16"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/2011/05",
-				"feature_value": "0",
-				"cluster_win_mean": "1.16",
-				"delta": "1.16"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/2011/05/28/the-jeweller-magazine",
-				"feature_value": "0",
-				"cluster_win_mean": "1.31",
-				"delta": "1.31"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/2011/11/28/pearl-care",
-				"feature_value": "0",
-				"cluster_win_mean": "1.16",
-				"delta": "1.16"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/2011/11/28/why-you-should-be-stocking-pearls-right-now",
-				"feature_value": "0",
-				"cluster_win_mean": "1.31",
-				"delta": "1.31"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/2011/12/23/free-row-of-pearls",
-				"feature_value": "0",
-				"cluster_win_mean": "1.16",
-				"delta": "1.16"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/2011/12/15/pearls-are-back-in-vogue-according-to-professional-jeweller-magazine",
-				"feature_value": "0",
-				"cluster_win_mean": "1.31",
-				"delta": "1.31"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/2011/12/14/la-peregrina-is-sold-at-christie%e2%80%99s-in-new-york",
-				"feature_value": "0",
-				"cluster_win_mean": "1.16",
-				"delta": "1.16"
+				"cluster_win_mean": "1.02",
+				"delta": "1.02"
 			},
 			{
 				"html_id": "http://www.rawpearls.com/2012/01/12/raw-pearls-support-jacobs-of-reading",
 				"feature_value": "0",
-				"cluster_win_mean": "1.31",
-				"delta": "1.31"
+				"cluster_win_mean": "1.02",
+				"delta": "1.02"
 			},
 			{
 				"html_id": "http://www.rawpearls.com/2012/02/15/retail-jeweller-report-on-the-raw-pearls-website-launch",
 				"feature_value": "0",
-				"cluster_win_mean": "1.16",
-				"delta": "1.16"
+				"cluster_win_mean": "1.02",
+				"delta": "1.02"
 			},
 			{
 				"html_id": "http://www.rawpearls.com/2012/02/10/professional-jeweller-report-on-our-new-website",
 				"feature_value": "0",
-				"cluster_win_mean": "   2",
-				"delta": "   2"
+				"cluster_win_mean": "1.02",
+				"delta": "1.02"
 			},
 			{
 				"html_id": "http://www.rawpearls.com/2012/02/02/how-to-style-spring-pearls",
 				"feature_value": "0",
-				"cluster_win_mean": "1.31",
-				"delta": "1.31"
+				"cluster_win_mean": "1.02",
+				"delta": "1.02"
 			},
 			{
 				"html_id": "http://www.rawpearls.com/2012/03/28/professional-jeweller-report-on-our-holts-pearl-masterclass",
 				"feature_value": "0",
-				"cluster_win_mean": "1.31",
-				"delta": "1.31"
+				"cluster_win_mean": "1.02",
+				"delta": "1.02"
 			},
 			{
 				"html_id": "http://www.rawpearls.com/2012/03/27/jewellery-focus-report-on-the-pearl-production-crisis",
 				"feature_value": "0",
-				"cluster_win_mean": "1.16",
-				"delta": "1.16"
+				"cluster_win_mean": "1.02",
+				"delta": "1.02"
 			},
 			{
 				"html_id": "http://www.rawpearls.com/2012/03/21/holts-and-raw-pearls-collaborate-on-a-pearl-seminar",
 				"feature_value": "0",
-				"cluster_win_mean": "1.31",
-				"delta": "1.31"
+				"cluster_win_mean": "1.02",
+				"delta": "1.02"
 			},
 			{
 				"html_id": "http://www.rawpearls.com/2012/03/01/oyster-pearl-looses-its-lustre",
 				"feature_value": "0",
-				"cluster_win_mean": "   2",
-				"delta": "   2"
-			},
-			{
-				"html_id": "http://www.rawpearls.com/2012/04/30/earrings-hidden-in-a-drawer-sell-for-1-6mm",
-				"feature_value": "0",
-				"cluster_win_mean": "1.16",
-				"delta": "1.16"
+				"cluster_win_mean": "1.02",
+				"delta": "1.02"
 			},
 			{
 				"html_id": "http://www.rawpearls.com/2012/04/25/pearl-earrings-shunned-by-owner-may-fetch-500000-at-auction",
 				"feature_value": "0",
-				"cluster_win_mean": "1.31",
-				"delta": "1.31"
+				"cluster_win_mean": "1.02",
+				"delta": "1.02"
 			}
 		]
 	}

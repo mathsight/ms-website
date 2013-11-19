@@ -1,0 +1,3350 @@
+{
+	"onsite": {
+		"number_of_inline_css_styles": [
+			{
+				"html_id": "http://www.dizzyheights.com/general_competition_terms.html",
+				"feature_value": "46",
+				"cluster_win_mean": "2.63",
+				"delta": "-43.37"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/general-competition-terms",
+				"feature_value": "46",
+				"cluster_win_mean": "2.63",
+				"delta": "-43.37"
+			}
+		],
+		"average_backlink_flesch_kincaid_grade": [
+			{
+				"html_id": "http://www.dizzyheights.com",
+				"feature_value": "0",
+				"cluster_win_mean": "12.66",
+				"delta": "12.66"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/golf-tips-products",
+				"feature_value": "0",
+				"cluster_win_mean": "12.66",
+				"delta": "12.66"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/golf-lessons",
+				"feature_value": "0",
+				"cluster_win_mean": "12.66",
+				"delta": "12.66"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/iphone-ipod-golf-video-tips",
+				"feature_value": "0",
+				"cluster_win_mean": "12.66",
+				"delta": "12.66"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/pete-cowen-golf-dvd",
+				"feature_value": "0",
+				"cluster_win_mean": "12.66",
+				"delta": "12.66"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/golf-online-store",
+				"feature_value": "0",
+				"cluster_win_mean": "12.66",
+				"delta": "12.66"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/node/101",
+				"feature_value": "0",
+				"cluster_win_mean": "12.66",
+				"delta": "12.66"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/golf-marketing-services",
+				"feature_value": "0",
+				"cluster_win_mean": "12.66",
+				"delta": "12.66"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/golf-day-organisers",
+				"feature_value": "0",
+				"cluster_win_mean": "12.66",
+				"delta": "12.66"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/golf-video-production",
+				"feature_value": "0",
+				"cluster_win_mean": "12.66",
+				"delta": "12.66"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/corporate-promotional-golf",
+				"feature_value": "0",
+				"cluster_win_mean": "12.66",
+				"delta": "12.66"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/golf-coaches",
+				"feature_value": "0",
+				"cluster_win_mean": "12.66",
+				"delta": "12.66"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/golf-directory",
+				"feature_value": "0",
+				"cluster_win_mean": "12.66",
+				"delta": "12.66"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/about-us",
+				"feature_value": "0",
+				"cluster_win_mean": "12.66",
+				"delta": "12.66"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/golf-trade",
+				"feature_value": "0",
+				"cluster_win_mean": "12.66",
+				"delta": "12.66"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/contact-us",
+				"feature_value": "0",
+				"cluster_win_mean": "12.66",
+				"delta": "12.66"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/dizzy-heights-media-centre",
+				"feature_value": "0",
+				"cluster_win_mean": "12.66",
+				"delta": "12.66"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/competition",
+				"feature_value": "0",
+				"cluster_win_mean": "12.66",
+				"delta": "12.66"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/golf-tips-podcast",
+				"feature_value": "0",
+				"cluster_win_mean": "12.66",
+				"delta": "12.66"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/product-and-service-reviews",
+				"feature_value": "0",
+				"cluster_win_mean": "12.66",
+				"delta": "12.66"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/golf-gift",
+				"feature_value": "0",
+				"cluster_win_mean": "12.66",
+				"delta": "12.66"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/pocketshots-swing-fundamentals",
+				"feature_value": "0",
+				"cluster_win_mean": "12.66",
+				"delta": "12.66"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/pocketshots-putting-fundamentals",
+				"feature_value": "0",
+				"cluster_win_mean": "12.66",
+				"delta": "12.66"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/pocketshots-bunker-fundamentals",
+				"feature_value": "0",
+				"cluster_win_mean": "12.66",
+				"delta": "12.66"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/pocketshots-mental-game-effective-practice",
+				"feature_value": "0",
+				"cluster_win_mean": "12.66",
+				"delta": "12.66"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/pocketshots-fitness-fit-golf",
+				"feature_value": "0",
+				"cluster_win_mean": "12.66",
+				"delta": "12.66"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/pocketshots-short-game-fundamentals",
+				"feature_value": "0",
+				"cluster_win_mean": "12.66",
+				"delta": "12.66"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/pocketshots-short-game-speciality-shots",
+				"feature_value": "0",
+				"cluster_win_mean": "12.66",
+				"delta": "12.66"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/contact_us.html",
+				"feature_value": "0",
+				"cluster_win_mean": "12.66",
+				"delta": "12.66"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/register",
+				"feature_value": "0",
+				"cluster_win_mean": "12.66",
+				"delta": "12.66"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/golf_competition_terms_and_conditions.html",
+				"feature_value": "0",
+				"cluster_win_mean": "12.66",
+				"delta": "12.66"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/general_competition_terms.html",
+				"feature_value": "0",
+				"cluster_win_mean": "12.66",
+				"delta": "12.66"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/terms_and_conditions.html",
+				"feature_value": "0",
+				"cluster_win_mean": "12.66",
+				"delta": "12.66"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/general-competition-terms",
+				"feature_value": "0",
+				"cluster_win_mean": "12.66",
+				"delta": "12.66"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/terms-and-conditions",
+				"feature_value": "0",
+				"cluster_win_mean": "12.66",
+				"delta": "12.66"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/old_golf_competition_1.html",
+				"feature_value": "0",
+				"cluster_win_mean": "12.66",
+				"delta": "12.66"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/golf-competition-terms-and-conditions",
+				"feature_value": "0",
+				"cluster_win_mean": "12.66",
+				"delta": "12.66"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/old-golf-competition-1",
+				"feature_value": "0",
+				"cluster_win_mean": "12.66",
+				"delta": "12.66"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/pocketshots_golf_reviews.html",
+				"feature_value": "0",
+				"cluster_win_mean": "12.66",
+				"delta": "12.66"
+			}
+		],
+		"number_of_images_missing_alt": [
+			{
+				"html_id": "http://www.dizzyheights.com",
+				"feature_value": "0",
+				"cluster_win_mean": "10.1",
+				"delta": "10.1"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/golf-tips-products",
+				"feature_value": "0",
+				"cluster_win_mean": "10.1",
+				"delta": "10.1"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/golf-lessons",
+				"feature_value": "0",
+				"cluster_win_mean": "10.1",
+				"delta": "10.1"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/iphone-ipod-golf-video-tips",
+				"feature_value": "0",
+				"cluster_win_mean": "10.1",
+				"delta": "10.1"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/pete-cowen-golf-dvd",
+				"feature_value": "0",
+				"cluster_win_mean": "10.1",
+				"delta": "10.1"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/golf-online-store",
+				"feature_value": "0",
+				"cluster_win_mean": "10.1",
+				"delta": "10.1"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/node/101",
+				"feature_value": "0",
+				"cluster_win_mean": "10.1",
+				"delta": "10.1"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/golf-marketing-services",
+				"feature_value": "0",
+				"cluster_win_mean": "10.1",
+				"delta": "10.1"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/golf-day-organisers",
+				"feature_value": "0",
+				"cluster_win_mean": "10.1",
+				"delta": "10.1"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/golf-video-production",
+				"feature_value": "0",
+				"cluster_win_mean": "10.1",
+				"delta": "10.1"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/corporate-promotional-golf",
+				"feature_value": "0",
+				"cluster_win_mean": "10.1",
+				"delta": "10.1"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/golf-coaches",
+				"feature_value": "0",
+				"cluster_win_mean": "10.1",
+				"delta": "10.1"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/golf-directory",
+				"feature_value": "0",
+				"cluster_win_mean": "10.1",
+				"delta": "10.1"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/about-us",
+				"feature_value": "0",
+				"cluster_win_mean": "10.1",
+				"delta": "10.1"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/golf-trade",
+				"feature_value": "0",
+				"cluster_win_mean": "10.1",
+				"delta": "10.1"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/contact-us",
+				"feature_value": "0",
+				"cluster_win_mean": "10.1",
+				"delta": "10.1"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/dizzy-heights-media-centre",
+				"feature_value": "0",
+				"cluster_win_mean": "10.1",
+				"delta": "10.1"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/competition",
+				"feature_value": "0",
+				"cluster_win_mean": "10.1",
+				"delta": "10.1"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/golf-tips-podcast",
+				"feature_value": "0",
+				"cluster_win_mean": "10.1",
+				"delta": "10.1"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/product-and-service-reviews",
+				"feature_value": "0",
+				"cluster_win_mean": "10.1",
+				"delta": "10.1"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/golf-gift",
+				"feature_value": "0",
+				"cluster_win_mean": "10.1",
+				"delta": "10.1"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/pocketshots-swing-fundamentals",
+				"feature_value": "0",
+				"cluster_win_mean": "10.1",
+				"delta": "10.1"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/pocketshots-putting-fundamentals",
+				"feature_value": "0",
+				"cluster_win_mean": "10.1",
+				"delta": "10.1"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/pocketshots-bunker-fundamentals",
+				"feature_value": "0",
+				"cluster_win_mean": "10.1",
+				"delta": "10.1"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/pocketshots-mental-game-effective-practice",
+				"feature_value": "0",
+				"cluster_win_mean": "10.1",
+				"delta": "10.1"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/pocketshots-fitness-fit-golf",
+				"feature_value": "0",
+				"cluster_win_mean": "10.1",
+				"delta": "10.1"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/pocketshots-short-game-fundamentals",
+				"feature_value": "0",
+				"cluster_win_mean": "10.1",
+				"delta": "10.1"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/pocketshots-short-game-speciality-shots",
+				"feature_value": "0",
+				"cluster_win_mean": "10.1",
+				"delta": "10.1"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/contact_us.html",
+				"feature_value": "0",
+				"cluster_win_mean": "10.1",
+				"delta": "10.1"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/register",
+				"feature_value": "0",
+				"cluster_win_mean": "10.1",
+				"delta": "10.1"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/golf_competition_terms_and_conditions.html",
+				"feature_value": "0",
+				"cluster_win_mean": "10.1",
+				"delta": "10.1"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/general_competition_terms.html",
+				"feature_value": "0",
+				"cluster_win_mean": "10.1",
+				"delta": "10.1"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/terms_and_conditions.html",
+				"feature_value": "0",
+				"cluster_win_mean": "10.1",
+				"delta": "10.1"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/general-competition-terms",
+				"feature_value": "0",
+				"cluster_win_mean": "10.1",
+				"delta": "10.1"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/terms-and-conditions",
+				"feature_value": "0",
+				"cluster_win_mean": "10.1",
+				"delta": "10.1"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/old_golf_competition_1.html",
+				"feature_value": "0",
+				"cluster_win_mean": "10.1",
+				"delta": "10.1"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/golf-competition-terms-and-conditions",
+				"feature_value": "0",
+				"cluster_win_mean": "10.1",
+				"delta": "10.1"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/old-golf-competition-1",
+				"feature_value": "0",
+				"cluster_win_mean": "10.1",
+				"delta": "10.1"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/pocketshots_golf_reviews.html",
+				"feature_value": "0",
+				"cluster_win_mean": "10.1",
+				"delta": "10.1"
+			}
+		],
+		"number_of_images": [
+			{
+				"html_id": "http://www.dizzyheights.com",
+				"feature_value": "11",
+				"cluster_win_mean": "11.1",
+				"delta": "0.1"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/golf-tips-products",
+				"feature_value": " 5",
+				"cluster_win_mean": "11.1",
+				"delta": "6.1"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/iphone-ipod-golf-video-tips",
+				"feature_value": " 5",
+				"cluster_win_mean": "11.1",
+				"delta": "6.1"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/pete-cowen-golf-dvd",
+				"feature_value": "10",
+				"cluster_win_mean": "11.1",
+				"delta": "1.1"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/node/101",
+				"feature_value": " 2",
+				"cluster_win_mean": "11.1",
+				"delta": "9.1"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/golf-marketing-services",
+				"feature_value": " 7",
+				"cluster_win_mean": "11.1",
+				"delta": "4.1"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/golf-day-organisers",
+				"feature_value": "10",
+				"cluster_win_mean": "11.1",
+				"delta": "1.1"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/golf-video-production",
+				"feature_value": "10",
+				"cluster_win_mean": "11.1",
+				"delta": "1.1"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/corporate-promotional-golf",
+				"feature_value": " 5",
+				"cluster_win_mean": "11.1",
+				"delta": "6.1"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/golf-coaches",
+				"feature_value": " 3",
+				"cluster_win_mean": "11.1",
+				"delta": "8.1"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/golf-directory",
+				"feature_value": " 4",
+				"cluster_win_mean": "11.1",
+				"delta": "7.1"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/about-us",
+				"feature_value": " 2",
+				"cluster_win_mean": "11.1",
+				"delta": "9.1"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/golf-trade",
+				"feature_value": " 3",
+				"cluster_win_mean": "11.1",
+				"delta": "8.1"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/contact-us",
+				"feature_value": " 2",
+				"cluster_win_mean": "11.1",
+				"delta": "9.1"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/competition",
+				"feature_value": " 4",
+				"cluster_win_mean": "11.1",
+				"delta": "7.1"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/golf-tips-podcast",
+				"feature_value": " 2",
+				"cluster_win_mean": "11.1",
+				"delta": "9.1"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/product-and-service-reviews",
+				"feature_value": " 8",
+				"cluster_win_mean": "11.1",
+				"delta": "3.1"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/golf-gift",
+				"feature_value": " 3",
+				"cluster_win_mean": "11.1",
+				"delta": "8.1"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/pocketshots-swing-fundamentals",
+				"feature_value": " 7",
+				"cluster_win_mean": "11.1",
+				"delta": "4.1"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/pocketshots-putting-fundamentals",
+				"feature_value": " 8",
+				"cluster_win_mean": "11.1",
+				"delta": "3.1"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/pocketshots-bunker-fundamentals",
+				"feature_value": " 7",
+				"cluster_win_mean": "11.1",
+				"delta": "4.1"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/pocketshots-mental-game-effective-practice",
+				"feature_value": " 6",
+				"cluster_win_mean": "11.1",
+				"delta": "5.1"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/pocketshots-fitness-fit-golf",
+				"feature_value": " 8",
+				"cluster_win_mean": "11.1",
+				"delta": "3.1"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/pocketshots-short-game-fundamentals",
+				"feature_value": " 7",
+				"cluster_win_mean": "11.1",
+				"delta": "4.1"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/pocketshots-short-game-speciality-shots",
+				"feature_value": " 5",
+				"cluster_win_mean": "11.1",
+				"delta": "6.1"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/contact_us.html",
+				"feature_value": " 2",
+				"cluster_win_mean": "11.1",
+				"delta": "9.1"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/register",
+				"feature_value": " 2",
+				"cluster_win_mean": "11.1",
+				"delta": "9.1"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/golf_competition_terms_and_conditions.html",
+				"feature_value": " 2",
+				"cluster_win_mean": "11.1",
+				"delta": "9.1"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/general_competition_terms.html",
+				"feature_value": " 2",
+				"cluster_win_mean": "11.1",
+				"delta": "9.1"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/terms_and_conditions.html",
+				"feature_value": " 2",
+				"cluster_win_mean": "11.1",
+				"delta": "9.1"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/general-competition-terms",
+				"feature_value": " 2",
+				"cluster_win_mean": "11.1",
+				"delta": "9.1"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/terms-and-conditions",
+				"feature_value": " 2",
+				"cluster_win_mean": "11.1",
+				"delta": "9.1"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/old_golf_competition_1.html",
+				"feature_value": " 2",
+				"cluster_win_mean": "11.1",
+				"delta": "9.1"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/golf-competition-terms-and-conditions",
+				"feature_value": " 2",
+				"cluster_win_mean": "11.1",
+				"delta": "9.1"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/old-golf-competition-1",
+				"feature_value": " 2",
+				"cluster_win_mean": "11.1",
+				"delta": "9.1"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/pocketshots_golf_reviews.html",
+				"feature_value": " 8",
+				"cluster_win_mean": "11.1",
+				"delta": "3.1"
+			}
+		],
+		"total_number_of_words": [
+			{
+				"html_id": "http://www.dizzyheights.com",
+				"feature_value": "127",
+				"cluster_win_mean": "433.15",
+				"delta": "306.15"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/golf-tips-products",
+				"feature_value": "117",
+				"cluster_win_mean": "433.15",
+				"delta": "316.15"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/golf-lessons",
+				"feature_value": "332",
+				"cluster_win_mean": "433.15",
+				"delta": "101.15"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/iphone-ipod-golf-video-tips",
+				"feature_value": "262",
+				"cluster_win_mean": "433.15",
+				"delta": "171.15"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/pete-cowen-golf-dvd",
+				"feature_value": "359",
+				"cluster_win_mean": "433.15",
+				"delta": " 74.15"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/golf-online-store",
+				"feature_value": " 26",
+				"cluster_win_mean": "433.15",
+				"delta": "407.15"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/node/101",
+				"feature_value": "193",
+				"cluster_win_mean": "433.15",
+				"delta": "240.15"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/golf-marketing-services",
+				"feature_value": " 91",
+				"cluster_win_mean": "433.15",
+				"delta": "342.15"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/golf-day-organisers",
+				"feature_value": " 49",
+				"cluster_win_mean": "433.15",
+				"delta": "384.15"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/corporate-promotional-golf",
+				"feature_value": "213",
+				"cluster_win_mean": "433.15",
+				"delta": "220.15"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/golf-directory",
+				"feature_value": " 87",
+				"cluster_win_mean": "433.15",
+				"delta": "346.15"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/about-us",
+				"feature_value": " 47",
+				"cluster_win_mean": "433.15",
+				"delta": "386.15"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/golf-trade",
+				"feature_value": "194",
+				"cluster_win_mean": "433.15",
+				"delta": "239.15"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/contact-us",
+				"feature_value": " 48",
+				"cluster_win_mean": "433.15",
+				"delta": "385.15"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/dizzy-heights-media-centre",
+				"feature_value": "183",
+				"cluster_win_mean": "433.15",
+				"delta": "250.15"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/competition",
+				"feature_value": " 57",
+				"cluster_win_mean": "433.15",
+				"delta": "376.15"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/golf-tips-podcast",
+				"feature_value": "130",
+				"cluster_win_mean": "433.15",
+				"delta": "303.15"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/product-and-service-reviews",
+				"feature_value": " 48",
+				"cluster_win_mean": "433.15",
+				"delta": "385.15"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/golf-gift",
+				"feature_value": "122",
+				"cluster_win_mean": "433.15",
+				"delta": "311.15"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/pocketshots-swing-fundamentals",
+				"feature_value": "278",
+				"cluster_win_mean": "433.15",
+				"delta": "155.15"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/pocketshots-putting-fundamentals",
+				"feature_value": "262",
+				"cluster_win_mean": "433.15",
+				"delta": "171.15"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/pocketshots-bunker-fundamentals",
+				"feature_value": "291",
+				"cluster_win_mean": "433.15",
+				"delta": "142.15"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/pocketshots-mental-game-effective-practice",
+				"feature_value": "122",
+				"cluster_win_mean": "433.15",
+				"delta": "311.15"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/pocketshots-fitness-fit-golf",
+				"feature_value": " 76",
+				"cluster_win_mean": "433.15",
+				"delta": "357.15"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/pocketshots-short-game-fundamentals",
+				"feature_value": "159",
+				"cluster_win_mean": "433.15",
+				"delta": "274.15"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/pocketshots-short-game-speciality-shots",
+				"feature_value": " 96",
+				"cluster_win_mean": "433.15",
+				"delta": "337.15"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/contact_us.html",
+				"feature_value": " 48",
+				"cluster_win_mean": "433.15",
+				"delta": "385.15"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/register",
+				"feature_value": " 79",
+				"cluster_win_mean": "433.15",
+				"delta": "354.15"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/general_competition_terms.html",
+				"feature_value": " 35",
+				"cluster_win_mean": "433.15",
+				"delta": "398.15"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/terms_and_conditions.html",
+				"feature_value": "104",
+				"cluster_win_mean": "433.15",
+				"delta": "329.15"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/general-competition-terms",
+				"feature_value": " 35",
+				"cluster_win_mean": "433.15",
+				"delta": "398.15"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/terms-and-conditions",
+				"feature_value": "104",
+				"cluster_win_mean": "433.15",
+				"delta": "329.15"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/old_golf_competition_1.html",
+				"feature_value": " 65",
+				"cluster_win_mean": "433.15",
+				"delta": "368.15"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/old-golf-competition-1",
+				"feature_value": " 65",
+				"cluster_win_mean": "433.15",
+				"delta": "368.15"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/pocketshots_golf_reviews.html",
+				"feature_value": " 48",
+				"cluster_win_mean": "433.15",
+				"delta": "385.15"
+			}
+		],
+		"number_of_unique_words": [
+			{
+				"html_id": "http://www.dizzyheights.com",
+				"feature_value": " 53",
+				"cluster_win_mean": "192.42",
+				"delta": "139.42"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/golf-tips-products",
+				"feature_value": " 76",
+				"cluster_win_mean": "192.42",
+				"delta": "116.42"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/golf-lessons",
+				"feature_value": "140",
+				"cluster_win_mean": "192.42",
+				"delta": " 52.42"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/iphone-ipod-golf-video-tips",
+				"feature_value": "130",
+				"cluster_win_mean": "192.42",
+				"delta": " 62.42"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/golf-online-store",
+				"feature_value": " 24",
+				"cluster_win_mean": "192.42",
+				"delta": "168.42"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/node/101",
+				"feature_value": " 87",
+				"cluster_win_mean": "192.42",
+				"delta": "105.42"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/golf-marketing-services",
+				"feature_value": " 64",
+				"cluster_win_mean": "192.42",
+				"delta": "128.42"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/golf-day-organisers",
+				"feature_value": " 36",
+				"cluster_win_mean": "192.42",
+				"delta": "156.42"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/golf-video-production",
+				"feature_value": "179",
+				"cluster_win_mean": "192.42",
+				"delta": " 13.42"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/corporate-promotional-golf",
+				"feature_value": "117",
+				"cluster_win_mean": "192.42",
+				"delta": " 75.42"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/golf-directory",
+				"feature_value": " 55",
+				"cluster_win_mean": "192.42",
+				"delta": "137.42"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/about-us",
+				"feature_value": " 30",
+				"cluster_win_mean": "192.42",
+				"delta": "162.42"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/golf-trade",
+				"feature_value": "107",
+				"cluster_win_mean": "192.42",
+				"delta": " 85.42"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/contact-us",
+				"feature_value": " 33",
+				"cluster_win_mean": "192.42",
+				"delta": "159.42"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/dizzy-heights-media-centre",
+				"feature_value": "102",
+				"cluster_win_mean": "192.42",
+				"delta": " 90.42"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/competition",
+				"feature_value": " 38",
+				"cluster_win_mean": "192.42",
+				"delta": "154.42"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/golf-tips-podcast",
+				"feature_value": " 53",
+				"cluster_win_mean": "192.42",
+				"delta": "139.42"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/product-and-service-reviews",
+				"feature_value": " 26",
+				"cluster_win_mean": "192.42",
+				"delta": "166.42"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/golf-gift",
+				"feature_value": " 78",
+				"cluster_win_mean": "192.42",
+				"delta": "114.42"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/pocketshots-swing-fundamentals",
+				"feature_value": "153",
+				"cluster_win_mean": "192.42",
+				"delta": " 39.42"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/pocketshots-putting-fundamentals",
+				"feature_value": "144",
+				"cluster_win_mean": "192.42",
+				"delta": " 48.42"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/pocketshots-bunker-fundamentals",
+				"feature_value": "152",
+				"cluster_win_mean": "192.42",
+				"delta": " 40.42"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/pocketshots-mental-game-effective-practice",
+				"feature_value": " 81",
+				"cluster_win_mean": "192.42",
+				"delta": "111.42"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/pocketshots-fitness-fit-golf",
+				"feature_value": " 50",
+				"cluster_win_mean": "192.42",
+				"delta": "142.42"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/pocketshots-short-game-fundamentals",
+				"feature_value": "102",
+				"cluster_win_mean": "192.42",
+				"delta": " 90.42"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/pocketshots-short-game-speciality-shots",
+				"feature_value": " 69",
+				"cluster_win_mean": "192.42",
+				"delta": "123.42"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/contact_us.html",
+				"feature_value": " 33",
+				"cluster_win_mean": "192.42",
+				"delta": "159.42"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/register",
+				"feature_value": " 54",
+				"cluster_win_mean": "192.42",
+				"delta": "138.42"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/golf_competition_terms_and_conditions.html",
+				"feature_value": "147",
+				"cluster_win_mean": "192.42",
+				"delta": " 45.42"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/general_competition_terms.html",
+				"feature_value": " 24",
+				"cluster_win_mean": "192.42",
+				"delta": "168.42"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/terms_and_conditions.html",
+				"feature_value": " 61",
+				"cluster_win_mean": "192.42",
+				"delta": "131.42"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/general-competition-terms",
+				"feature_value": " 24",
+				"cluster_win_mean": "192.42",
+				"delta": "168.42"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/terms-and-conditions",
+				"feature_value": " 61",
+				"cluster_win_mean": "192.42",
+				"delta": "131.42"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/old_golf_competition_1.html",
+				"feature_value": " 46",
+				"cluster_win_mean": "192.42",
+				"delta": "146.42"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/golf-competition-terms-and-conditions",
+				"feature_value": "147",
+				"cluster_win_mean": "192.42",
+				"delta": " 45.42"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/old-golf-competition-1",
+				"feature_value": " 46",
+				"cluster_win_mean": "192.42",
+				"delta": "146.42"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/pocketshots_golf_reviews.html",
+				"feature_value": " 26",
+				"cluster_win_mean": "192.42",
+				"delta": "166.42"
+			}
+		],
+		"number_of_destination_titles_same_as_anchor_text": [
+			{
+				"html_id": "http://www.dizzyheights.com",
+				"feature_value": "1",
+				"cluster_win_mean": "16.69",
+				"delta": "15.69"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/golf-tips-products",
+				"feature_value": "1",
+				"cluster_win_mean": "16.69",
+				"delta": "15.69"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/golf-lessons",
+				"feature_value": "1",
+				"cluster_win_mean": "16.69",
+				"delta": "15.69"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/iphone-ipod-golf-video-tips",
+				"feature_value": "1",
+				"cluster_win_mean": "16.69",
+				"delta": "15.69"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/pete-cowen-golf-dvd",
+				"feature_value": "1",
+				"cluster_win_mean": "16.69",
+				"delta": "15.69"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/golf-online-store",
+				"feature_value": "1",
+				"cluster_win_mean": "16.69",
+				"delta": "15.69"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/node/101",
+				"feature_value": "1",
+				"cluster_win_mean": "16.69",
+				"delta": "15.69"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/golf-marketing-services",
+				"feature_value": "1",
+				"cluster_win_mean": "16.69",
+				"delta": "15.69"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/golf-day-organisers",
+				"feature_value": "1",
+				"cluster_win_mean": "16.69",
+				"delta": "15.69"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/golf-video-production",
+				"feature_value": "1",
+				"cluster_win_mean": "16.69",
+				"delta": "15.69"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/corporate-promotional-golf",
+				"feature_value": "1",
+				"cluster_win_mean": "16.69",
+				"delta": "15.69"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/golf-coaches",
+				"feature_value": "1",
+				"cluster_win_mean": "16.69",
+				"delta": "15.69"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/about-us",
+				"feature_value": "1",
+				"cluster_win_mean": "16.69",
+				"delta": "15.69"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/golf-trade",
+				"feature_value": "1",
+				"cluster_win_mean": "16.69",
+				"delta": "15.69"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/contact-us",
+				"feature_value": "1",
+				"cluster_win_mean": "16.69",
+				"delta": "15.69"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/dizzy-heights-media-centre",
+				"feature_value": "1",
+				"cluster_win_mean": "16.69",
+				"delta": "15.69"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/competition",
+				"feature_value": "1",
+				"cluster_win_mean": "16.69",
+				"delta": "15.69"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/golf-tips-podcast",
+				"feature_value": "1",
+				"cluster_win_mean": "16.69",
+				"delta": "15.69"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/product-and-service-reviews",
+				"feature_value": "1",
+				"cluster_win_mean": "16.69",
+				"delta": "15.69"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/golf-gift",
+				"feature_value": "1",
+				"cluster_win_mean": "16.69",
+				"delta": "15.69"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/pocketshots-swing-fundamentals",
+				"feature_value": "1",
+				"cluster_win_mean": "16.69",
+				"delta": "15.69"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/pocketshots-putting-fundamentals",
+				"feature_value": "1",
+				"cluster_win_mean": "16.69",
+				"delta": "15.69"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/pocketshots-bunker-fundamentals",
+				"feature_value": "1",
+				"cluster_win_mean": "16.69",
+				"delta": "15.69"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/pocketshots-mental-game-effective-practice",
+				"feature_value": "1",
+				"cluster_win_mean": "16.69",
+				"delta": "15.69"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/pocketshots-fitness-fit-golf",
+				"feature_value": "1",
+				"cluster_win_mean": "16.69",
+				"delta": "15.69"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/pocketshots-short-game-fundamentals",
+				"feature_value": "1",
+				"cluster_win_mean": "16.69",
+				"delta": "15.69"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/pocketshots-short-game-speciality-shots",
+				"feature_value": "1",
+				"cluster_win_mean": "16.69",
+				"delta": "15.69"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/contact_us.html",
+				"feature_value": "1",
+				"cluster_win_mean": "16.69",
+				"delta": "15.69"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/register",
+				"feature_value": "1",
+				"cluster_win_mean": "16.69",
+				"delta": "15.69"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/golf_competition_terms_and_conditions.html",
+				"feature_value": "1",
+				"cluster_win_mean": "16.69",
+				"delta": "15.69"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/general_competition_terms.html",
+				"feature_value": "1",
+				"cluster_win_mean": "16.69",
+				"delta": "15.69"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/terms_and_conditions.html",
+				"feature_value": "1",
+				"cluster_win_mean": "16.69",
+				"delta": "15.69"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/general-competition-terms",
+				"feature_value": "1",
+				"cluster_win_mean": "16.69",
+				"delta": "15.69"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/terms-and-conditions",
+				"feature_value": "1",
+				"cluster_win_mean": "16.69",
+				"delta": "15.69"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/old_golf_competition_1.html",
+				"feature_value": "1",
+				"cluster_win_mean": "16.69",
+				"delta": "15.69"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/golf-competition-terms-and-conditions",
+				"feature_value": "1",
+				"cluster_win_mean": "16.69",
+				"delta": "15.69"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/old-golf-competition-1",
+				"feature_value": "1",
+				"cluster_win_mean": "16.69",
+				"delta": "15.69"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/pocketshots_golf_reviews.html",
+				"feature_value": "1",
+				"cluster_win_mean": "16.69",
+				"delta": "15.69"
+			}
+		],
+		"maximum_length_of_h1": [
+			{
+				"html_id": "http://www.dizzyheights.com",
+				"feature_value": "0",
+				"cluster_win_mean": "20.97",
+				"delta": "20.97"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/golf-tips-products",
+				"feature_value": "0",
+				"cluster_win_mean": "20.97",
+				"delta": "20.97"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/golf-lessons",
+				"feature_value": "0",
+				"cluster_win_mean": "20.97",
+				"delta": "20.97"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/iphone-ipod-golf-video-tips",
+				"feature_value": "0",
+				"cluster_win_mean": "20.97",
+				"delta": "20.97"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/pete-cowen-golf-dvd",
+				"feature_value": "0",
+				"cluster_win_mean": "20.97",
+				"delta": "20.97"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/golf-online-store",
+				"feature_value": "0",
+				"cluster_win_mean": "20.97",
+				"delta": "20.97"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/node/101",
+				"feature_value": "0",
+				"cluster_win_mean": "20.97",
+				"delta": "20.97"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/golf-marketing-services",
+				"feature_value": "0",
+				"cluster_win_mean": "20.97",
+				"delta": "20.97"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/golf-day-organisers",
+				"feature_value": "0",
+				"cluster_win_mean": "20.97",
+				"delta": "20.97"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/golf-video-production",
+				"feature_value": "0",
+				"cluster_win_mean": "20.97",
+				"delta": "20.97"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/corporate-promotional-golf",
+				"feature_value": "0",
+				"cluster_win_mean": "20.97",
+				"delta": "20.97"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/golf-coaches",
+				"feature_value": "0",
+				"cluster_win_mean": "20.97",
+				"delta": "20.97"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/golf-directory",
+				"feature_value": "0",
+				"cluster_win_mean": "20.97",
+				"delta": "20.97"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/about-us",
+				"feature_value": "0",
+				"cluster_win_mean": "20.97",
+				"delta": "20.97"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/golf-trade",
+				"feature_value": "0",
+				"cluster_win_mean": "20.97",
+				"delta": "20.97"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/contact-us",
+				"feature_value": "0",
+				"cluster_win_mean": "20.97",
+				"delta": "20.97"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/dizzy-heights-media-centre",
+				"feature_value": "0",
+				"cluster_win_mean": "20.97",
+				"delta": "20.97"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/competition",
+				"feature_value": "0",
+				"cluster_win_mean": "20.97",
+				"delta": "20.97"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/golf-tips-podcast",
+				"feature_value": "0",
+				"cluster_win_mean": "20.97",
+				"delta": "20.97"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/product-and-service-reviews",
+				"feature_value": "0",
+				"cluster_win_mean": "20.97",
+				"delta": "20.97"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/golf-gift",
+				"feature_value": "0",
+				"cluster_win_mean": "20.97",
+				"delta": "20.97"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/pocketshots-swing-fundamentals",
+				"feature_value": "0",
+				"cluster_win_mean": "20.97",
+				"delta": "20.97"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/pocketshots-putting-fundamentals",
+				"feature_value": "0",
+				"cluster_win_mean": "20.97",
+				"delta": "20.97"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/pocketshots-bunker-fundamentals",
+				"feature_value": "0",
+				"cluster_win_mean": "20.97",
+				"delta": "20.97"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/pocketshots-mental-game-effective-practice",
+				"feature_value": "0",
+				"cluster_win_mean": "20.97",
+				"delta": "20.97"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/pocketshots-fitness-fit-golf",
+				"feature_value": "0",
+				"cluster_win_mean": "20.97",
+				"delta": "20.97"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/pocketshots-short-game-fundamentals",
+				"feature_value": "0",
+				"cluster_win_mean": "20.97",
+				"delta": "20.97"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/pocketshots-short-game-speciality-shots",
+				"feature_value": "0",
+				"cluster_win_mean": "20.97",
+				"delta": "20.97"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/contact_us.html",
+				"feature_value": "0",
+				"cluster_win_mean": "20.97",
+				"delta": "20.97"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/register",
+				"feature_value": "0",
+				"cluster_win_mean": "20.97",
+				"delta": "20.97"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/golf_competition_terms_and_conditions.html",
+				"feature_value": "0",
+				"cluster_win_mean": "20.97",
+				"delta": "20.97"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/general_competition_terms.html",
+				"feature_value": "0",
+				"cluster_win_mean": "20.97",
+				"delta": "20.97"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/terms_and_conditions.html",
+				"feature_value": "0",
+				"cluster_win_mean": "20.97",
+				"delta": "20.97"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/general-competition-terms",
+				"feature_value": "0",
+				"cluster_win_mean": "20.97",
+				"delta": "20.97"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/terms-and-conditions",
+				"feature_value": "0",
+				"cluster_win_mean": "20.97",
+				"delta": "20.97"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/old_golf_competition_1.html",
+				"feature_value": "0",
+				"cluster_win_mean": "20.97",
+				"delta": "20.97"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/golf-competition-terms-and-conditions",
+				"feature_value": "0",
+				"cluster_win_mean": "20.97",
+				"delta": "20.97"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/old-golf-competition-1",
+				"feature_value": "0",
+				"cluster_win_mean": "20.97",
+				"delta": "20.97"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/pocketshots_golf_reviews.html",
+				"feature_value": "0",
+				"cluster_win_mean": "20.97",
+				"delta": "20.97"
+			}
+		],
+		"average_length_of_h1": [
+			{
+				"html_id": "http://www.dizzyheights.com",
+				"feature_value": "0",
+				"cluster_win_mean": "19.34",
+				"delta": "19.34"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/golf-tips-products",
+				"feature_value": "0",
+				"cluster_win_mean": "19.34",
+				"delta": "19.34"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/golf-lessons",
+				"feature_value": "0",
+				"cluster_win_mean": "19.34",
+				"delta": "19.34"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/iphone-ipod-golf-video-tips",
+				"feature_value": "0",
+				"cluster_win_mean": "19.34",
+				"delta": "19.34"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/pete-cowen-golf-dvd",
+				"feature_value": "0",
+				"cluster_win_mean": "19.34",
+				"delta": "19.34"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/golf-online-store",
+				"feature_value": "0",
+				"cluster_win_mean": "19.34",
+				"delta": "19.34"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/node/101",
+				"feature_value": "0",
+				"cluster_win_mean": "19.34",
+				"delta": "19.34"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/golf-marketing-services",
+				"feature_value": "0",
+				"cluster_win_mean": "19.34",
+				"delta": "19.34"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/golf-day-organisers",
+				"feature_value": "0",
+				"cluster_win_mean": "19.34",
+				"delta": "19.34"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/golf-video-production",
+				"feature_value": "0",
+				"cluster_win_mean": "19.34",
+				"delta": "19.34"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/corporate-promotional-golf",
+				"feature_value": "0",
+				"cluster_win_mean": "19.34",
+				"delta": "19.34"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/golf-coaches",
+				"feature_value": "0",
+				"cluster_win_mean": "19.34",
+				"delta": "19.34"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/golf-directory",
+				"feature_value": "0",
+				"cluster_win_mean": "19.34",
+				"delta": "19.34"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/about-us",
+				"feature_value": "0",
+				"cluster_win_mean": "19.34",
+				"delta": "19.34"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/golf-trade",
+				"feature_value": "0",
+				"cluster_win_mean": "19.34",
+				"delta": "19.34"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/contact-us",
+				"feature_value": "0",
+				"cluster_win_mean": "19.34",
+				"delta": "19.34"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/dizzy-heights-media-centre",
+				"feature_value": "0",
+				"cluster_win_mean": "19.34",
+				"delta": "19.34"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/competition",
+				"feature_value": "0",
+				"cluster_win_mean": "19.34",
+				"delta": "19.34"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/golf-tips-podcast",
+				"feature_value": "0",
+				"cluster_win_mean": "19.34",
+				"delta": "19.34"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/product-and-service-reviews",
+				"feature_value": "0",
+				"cluster_win_mean": "19.34",
+				"delta": "19.34"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/golf-gift",
+				"feature_value": "0",
+				"cluster_win_mean": "19.34",
+				"delta": "19.34"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/pocketshots-swing-fundamentals",
+				"feature_value": "0",
+				"cluster_win_mean": "19.34",
+				"delta": "19.34"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/pocketshots-putting-fundamentals",
+				"feature_value": "0",
+				"cluster_win_mean": "19.34",
+				"delta": "19.34"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/pocketshots-bunker-fundamentals",
+				"feature_value": "0",
+				"cluster_win_mean": "19.34",
+				"delta": "19.34"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/pocketshots-mental-game-effective-practice",
+				"feature_value": "0",
+				"cluster_win_mean": "19.34",
+				"delta": "19.34"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/pocketshots-fitness-fit-golf",
+				"feature_value": "0",
+				"cluster_win_mean": "19.34",
+				"delta": "19.34"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/pocketshots-short-game-fundamentals",
+				"feature_value": "0",
+				"cluster_win_mean": "19.34",
+				"delta": "19.34"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/pocketshots-short-game-speciality-shots",
+				"feature_value": "0",
+				"cluster_win_mean": "19.34",
+				"delta": "19.34"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/contact_us.html",
+				"feature_value": "0",
+				"cluster_win_mean": "19.34",
+				"delta": "19.34"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/register",
+				"feature_value": "0",
+				"cluster_win_mean": "19.34",
+				"delta": "19.34"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/golf_competition_terms_and_conditions.html",
+				"feature_value": "0",
+				"cluster_win_mean": "19.34",
+				"delta": "19.34"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/general_competition_terms.html",
+				"feature_value": "0",
+				"cluster_win_mean": "19.34",
+				"delta": "19.34"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/terms_and_conditions.html",
+				"feature_value": "0",
+				"cluster_win_mean": "19.34",
+				"delta": "19.34"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/general-competition-terms",
+				"feature_value": "0",
+				"cluster_win_mean": "19.34",
+				"delta": "19.34"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/terms-and-conditions",
+				"feature_value": "0",
+				"cluster_win_mean": "19.34",
+				"delta": "19.34"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/old_golf_competition_1.html",
+				"feature_value": "0",
+				"cluster_win_mean": "19.34",
+				"delta": "19.34"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/golf-competition-terms-and-conditions",
+				"feature_value": "0",
+				"cluster_win_mean": "19.34",
+				"delta": "19.34"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/old-golf-competition-1",
+				"feature_value": "0",
+				"cluster_win_mean": "19.34",
+				"delta": "19.34"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/pocketshots_golf_reviews.html",
+				"feature_value": "0",
+				"cluster_win_mean": "19.34",
+				"delta": "19.34"
+			}
+		],
+		"average_backlink_dale_chall_readability": [
+			{
+				"html_id": "http://www.dizzyheights.com",
+				"feature_value": "0",
+				"cluster_win_mean": "9.05",
+				"delta": "9.05"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/golf-tips-products",
+				"feature_value": "0",
+				"cluster_win_mean": "9.05",
+				"delta": "9.05"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/golf-lessons",
+				"feature_value": "0",
+				"cluster_win_mean": "9.05",
+				"delta": "9.05"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/iphone-ipod-golf-video-tips",
+				"feature_value": "0",
+				"cluster_win_mean": "9.05",
+				"delta": "9.05"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/pete-cowen-golf-dvd",
+				"feature_value": "0",
+				"cluster_win_mean": "9.05",
+				"delta": "9.05"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/golf-online-store",
+				"feature_value": "0",
+				"cluster_win_mean": "9.05",
+				"delta": "9.05"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/node/101",
+				"feature_value": "0",
+				"cluster_win_mean": "9.05",
+				"delta": "9.05"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/golf-marketing-services",
+				"feature_value": "0",
+				"cluster_win_mean": "9.05",
+				"delta": "9.05"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/golf-day-organisers",
+				"feature_value": "0",
+				"cluster_win_mean": "9.05",
+				"delta": "9.05"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/golf-video-production",
+				"feature_value": "0",
+				"cluster_win_mean": "9.05",
+				"delta": "9.05"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/corporate-promotional-golf",
+				"feature_value": "0",
+				"cluster_win_mean": "9.05",
+				"delta": "9.05"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/golf-coaches",
+				"feature_value": "0",
+				"cluster_win_mean": "9.05",
+				"delta": "9.05"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/golf-directory",
+				"feature_value": "0",
+				"cluster_win_mean": "9.05",
+				"delta": "9.05"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/about-us",
+				"feature_value": "0",
+				"cluster_win_mean": "9.05",
+				"delta": "9.05"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/golf-trade",
+				"feature_value": "0",
+				"cluster_win_mean": "9.05",
+				"delta": "9.05"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/contact-us",
+				"feature_value": "0",
+				"cluster_win_mean": "9.05",
+				"delta": "9.05"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/dizzy-heights-media-centre",
+				"feature_value": "0",
+				"cluster_win_mean": "9.05",
+				"delta": "9.05"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/competition",
+				"feature_value": "0",
+				"cluster_win_mean": "9.05",
+				"delta": "9.05"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/golf-tips-podcast",
+				"feature_value": "0",
+				"cluster_win_mean": "9.05",
+				"delta": "9.05"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/product-and-service-reviews",
+				"feature_value": "0",
+				"cluster_win_mean": "9.05",
+				"delta": "9.05"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/golf-gift",
+				"feature_value": "0",
+				"cluster_win_mean": "9.05",
+				"delta": "9.05"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/pocketshots-swing-fundamentals",
+				"feature_value": "0",
+				"cluster_win_mean": "9.05",
+				"delta": "9.05"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/pocketshots-putting-fundamentals",
+				"feature_value": "0",
+				"cluster_win_mean": "9.05",
+				"delta": "9.05"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/pocketshots-bunker-fundamentals",
+				"feature_value": "0",
+				"cluster_win_mean": "9.05",
+				"delta": "9.05"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/pocketshots-mental-game-effective-practice",
+				"feature_value": "0",
+				"cluster_win_mean": "9.05",
+				"delta": "9.05"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/pocketshots-fitness-fit-golf",
+				"feature_value": "0",
+				"cluster_win_mean": "9.05",
+				"delta": "9.05"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/pocketshots-short-game-fundamentals",
+				"feature_value": "0",
+				"cluster_win_mean": "9.05",
+				"delta": "9.05"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/pocketshots-short-game-speciality-shots",
+				"feature_value": "0",
+				"cluster_win_mean": "9.05",
+				"delta": "9.05"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/contact_us.html",
+				"feature_value": "0",
+				"cluster_win_mean": "9.05",
+				"delta": "9.05"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/register",
+				"feature_value": "0",
+				"cluster_win_mean": "9.05",
+				"delta": "9.05"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/golf_competition_terms_and_conditions.html",
+				"feature_value": "0",
+				"cluster_win_mean": "9.05",
+				"delta": "9.05"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/general_competition_terms.html",
+				"feature_value": "0",
+				"cluster_win_mean": "9.05",
+				"delta": "9.05"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/terms_and_conditions.html",
+				"feature_value": "0",
+				"cluster_win_mean": "9.05",
+				"delta": "9.05"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/general-competition-terms",
+				"feature_value": "0",
+				"cluster_win_mean": "9.05",
+				"delta": "9.05"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/terms-and-conditions",
+				"feature_value": "0",
+				"cluster_win_mean": "9.05",
+				"delta": "9.05"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/old_golf_competition_1.html",
+				"feature_value": "0",
+				"cluster_win_mean": "9.05",
+				"delta": "9.05"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/golf-competition-terms-and-conditions",
+				"feature_value": "0",
+				"cluster_win_mean": "9.05",
+				"delta": "9.05"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/old-golf-competition-1",
+				"feature_value": "0",
+				"cluster_win_mean": "9.05",
+				"delta": "9.05"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/pocketshots_golf_reviews.html",
+				"feature_value": "0",
+				"cluster_win_mean": "9.05",
+				"delta": "9.05"
+			}
+		],
+		"number_of_duplicate_words": [
+			{
+				"html_id": "http://www.dizzyheights.com",
+				"feature_value": " 74",
+				"cluster_win_mean": "200.91",
+				"delta": " 126.91"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/golf-tips-products",
+				"feature_value": " 41",
+				"cluster_win_mean": "200.91",
+				"delta": " 159.91"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/golf-lessons",
+				"feature_value": "192",
+				"cluster_win_mean": "200.91",
+				"delta": "   8.91"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/iphone-ipod-golf-video-tips",
+				"feature_value": "132",
+				"cluster_win_mean": "200.91",
+				"delta": "  68.91"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/pete-cowen-golf-dvd",
+				"feature_value": "178",
+				"cluster_win_mean": "200.91",
+				"delta": "  22.91"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/node/101",
+				"feature_value": "106",
+				"cluster_win_mean": "200.91",
+				"delta": "  94.91"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/golf-video-production",
+				"feature_value": "517",
+				"cluster_win_mean": "200.91",
+				"delta": "-316.09"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/corporate-promotional-golf",
+				"feature_value": " 96",
+				"cluster_win_mean": "200.91",
+				"delta": " 104.91"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/golf-coaches",
+				"feature_value": "219",
+				"cluster_win_mean": "200.91",
+				"delta": " -18.09"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/golf-trade",
+				"feature_value": " 87",
+				"cluster_win_mean": "200.91",
+				"delta": " 113.91"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/dizzy-heights-media-centre",
+				"feature_value": " 81",
+				"cluster_win_mean": "200.91",
+				"delta": " 119.91"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/golf-tips-podcast",
+				"feature_value": " 77",
+				"cluster_win_mean": "200.91",
+				"delta": " 123.91"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/golf-gift",
+				"feature_value": " 44",
+				"cluster_win_mean": "200.91",
+				"delta": " 156.91"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/pocketshots-swing-fundamentals",
+				"feature_value": "125",
+				"cluster_win_mean": "200.91",
+				"delta": "  75.91"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/pocketshots-putting-fundamentals",
+				"feature_value": "118",
+				"cluster_win_mean": "200.91",
+				"delta": "  82.91"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/pocketshots-bunker-fundamentals",
+				"feature_value": "139",
+				"cluster_win_mean": "200.91",
+				"delta": "  61.91"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/pocketshots-mental-game-effective-practice",
+				"feature_value": " 41",
+				"cluster_win_mean": "200.91",
+				"delta": " 159.91"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/pocketshots-short-game-fundamentals",
+				"feature_value": " 57",
+				"cluster_win_mean": "200.91",
+				"delta": " 143.91"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/golf_competition_terms_and_conditions.html",
+				"feature_value": "442",
+				"cluster_win_mean": "200.91",
+				"delta": "-241.09"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/terms_and_conditions.html",
+				"feature_value": " 43",
+				"cluster_win_mean": "200.91",
+				"delta": " 157.91"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/terms-and-conditions",
+				"feature_value": " 43",
+				"cluster_win_mean": "200.91",
+				"delta": " 157.91"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/golf-competition-terms-and-conditions",
+				"feature_value": "442",
+				"cluster_win_mean": "200.91",
+				"delta": "-241.09"
+			}
+		],
+		"number_of_hyperlinks_with_file": [
+			{
+				"html_id": "http://www.dizzyheights.com/golf-tips-products",
+				"feature_value": "46",
+				"cluster_win_mean": "8.33",
+				"delta": "-37.67"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/golf-lessons",
+				"feature_value": "69",
+				"cluster_win_mean": "8.33",
+				"delta": "-60.67"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/golf-online-store",
+				"feature_value": "64",
+				"cluster_win_mean": "8.33",
+				"delta": "-55.67"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/golf-marketing-services",
+				"feature_value": "48",
+				"cluster_win_mean": "8.33",
+				"delta": "-39.67"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/golf-directory",
+				"feature_value": "54",
+				"cluster_win_mean": "8.33",
+				"delta": "-45.67"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/dizzy-heights-media-centre",
+				"feature_value": "49",
+				"cluster_win_mean": "8.33",
+				"delta": "-40.67"
+			}
+		],
+		"number_of_rare_words": [
+			{
+				"html_id": "http://www.dizzyheights.com",
+				"feature_value": "21",
+				"cluster_win_mean": "93.24",
+				"delta": "72.24"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/golf-tips-products",
+				"feature_value": "23",
+				"cluster_win_mean": "93.24",
+				"delta": "70.24"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/golf-lessons",
+				"feature_value": "54",
+				"cluster_win_mean": "93.24",
+				"delta": "39.24"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/iphone-ipod-golf-video-tips",
+				"feature_value": "49",
+				"cluster_win_mean": "93.24",
+				"delta": "44.24"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/golf-online-store",
+				"feature_value": " 9",
+				"cluster_win_mean": "93.24",
+				"delta": "84.24"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/node/101",
+				"feature_value": "37",
+				"cluster_win_mean": "93.24",
+				"delta": "56.24"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/golf-marketing-services",
+				"feature_value": "15",
+				"cluster_win_mean": "93.24",
+				"delta": "78.24"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/golf-day-organisers",
+				"feature_value": " 9",
+				"cluster_win_mean": "93.24",
+				"delta": "84.24"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/corporate-promotional-golf",
+				"feature_value": "41",
+				"cluster_win_mean": "93.24",
+				"delta": "52.24"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/golf-directory",
+				"feature_value": "19",
+				"cluster_win_mean": "93.24",
+				"delta": "74.24"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/about-us",
+				"feature_value": "16",
+				"cluster_win_mean": "93.24",
+				"delta": "77.24"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/golf-trade",
+				"feature_value": "30",
+				"cluster_win_mean": "93.24",
+				"delta": "63.24"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/contact-us",
+				"feature_value": " 9",
+				"cluster_win_mean": "93.24",
+				"delta": "84.24"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/dizzy-heights-media-centre",
+				"feature_value": "34",
+				"cluster_win_mean": "93.24",
+				"delta": "59.24"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/competition",
+				"feature_value": "15",
+				"cluster_win_mean": "93.24",
+				"delta": "78.24"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/golf-tips-podcast",
+				"feature_value": "32",
+				"cluster_win_mean": "93.24",
+				"delta": "61.24"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/product-and-service-reviews",
+				"feature_value": "12",
+				"cluster_win_mean": "93.24",
+				"delta": "81.24"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/golf-gift",
+				"feature_value": "18",
+				"cluster_win_mean": "93.24",
+				"delta": "75.24"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/pocketshots-swing-fundamentals",
+				"feature_value": "38",
+				"cluster_win_mean": "93.24",
+				"delta": "55.24"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/pocketshots-putting-fundamentals",
+				"feature_value": "51",
+				"cluster_win_mean": "93.24",
+				"delta": "42.24"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/pocketshots-bunker-fundamentals",
+				"feature_value": "47",
+				"cluster_win_mean": "93.24",
+				"delta": "46.24"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/pocketshots-mental-game-effective-practice",
+				"feature_value": "22",
+				"cluster_win_mean": "93.24",
+				"delta": "71.24"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/pocketshots-fitness-fit-golf",
+				"feature_value": "15",
+				"cluster_win_mean": "93.24",
+				"delta": "78.24"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/pocketshots-short-game-fundamentals",
+				"feature_value": "37",
+				"cluster_win_mean": "93.24",
+				"delta": "56.24"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/pocketshots-short-game-speciality-shots",
+				"feature_value": "15",
+				"cluster_win_mean": "93.24",
+				"delta": "78.24"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/contact_us.html",
+				"feature_value": " 9",
+				"cluster_win_mean": "93.24",
+				"delta": "84.24"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/register",
+				"feature_value": "13",
+				"cluster_win_mean": "93.24",
+				"delta": "80.24"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/general_competition_terms.html",
+				"feature_value": " 7",
+				"cluster_win_mean": "93.24",
+				"delta": "86.24"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/terms_and_conditions.html",
+				"feature_value": "14",
+				"cluster_win_mean": "93.24",
+				"delta": "79.24"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/general-competition-terms",
+				"feature_value": " 7",
+				"cluster_win_mean": "93.24",
+				"delta": "86.24"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/terms-and-conditions",
+				"feature_value": "14",
+				"cluster_win_mean": "93.24",
+				"delta": "79.24"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/old_golf_competition_1.html",
+				"feature_value": "20",
+				"cluster_win_mean": "93.24",
+				"delta": "73.24"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/old-golf-competition-1",
+				"feature_value": "20",
+				"cluster_win_mean": "93.24",
+				"delta": "73.24"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/pocketshots_golf_reviews.html",
+				"feature_value": "12",
+				"cluster_win_mean": "93.24",
+				"delta": "81.24"
+			}
+		],
+		"total_number_of_5k_common_words": [
+			{
+				"html_id": "http://www.dizzyheights.com",
+				"feature_value": "106",
+				"cluster_win_mean": "281.97",
+				"delta": " 175.97"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/golf-tips-products",
+				"feature_value": " 94",
+				"cluster_win_mean": "281.97",
+				"delta": " 187.97"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/golf-lessons",
+				"feature_value": "278",
+				"cluster_win_mean": "281.97",
+				"delta": "   3.97"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/iphone-ipod-golf-video-tips",
+				"feature_value": "213",
+				"cluster_win_mean": "281.97",
+				"delta": "  68.97"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/pete-cowen-golf-dvd",
+				"feature_value": "252",
+				"cluster_win_mean": "281.97",
+				"delta": "  29.97"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/node/101",
+				"feature_value": "156",
+				"cluster_win_mean": "281.97",
+				"delta": " 125.97"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/golf-marketing-services",
+				"feature_value": " 76",
+				"cluster_win_mean": "281.97",
+				"delta": " 205.97"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/golf-video-production",
+				"feature_value": "591",
+				"cluster_win_mean": "281.97",
+				"delta": "-309.03"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/corporate-promotional-golf",
+				"feature_value": "172",
+				"cluster_win_mean": "281.97",
+				"delta": " 109.97"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/golf-coaches",
+				"feature_value": "345",
+				"cluster_win_mean": "281.97",
+				"delta": " -63.03"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/golf-directory",
+				"feature_value": " 68",
+				"cluster_win_mean": "281.97",
+				"delta": " 213.97"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/golf-trade",
+				"feature_value": "164",
+				"cluster_win_mean": "281.97",
+				"delta": " 117.97"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/dizzy-heights-media-centre",
+				"feature_value": "149",
+				"cluster_win_mean": "281.97",
+				"delta": " 132.97"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/competition",
+				"feature_value": " 42",
+				"cluster_win_mean": "281.97",
+				"delta": " 239.97"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/golf-tips-podcast",
+				"feature_value": " 98",
+				"cluster_win_mean": "281.97",
+				"delta": " 183.97"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/golf-gift",
+				"feature_value": "104",
+				"cluster_win_mean": "281.97",
+				"delta": " 177.97"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/pocketshots-swing-fundamentals",
+				"feature_value": "240",
+				"cluster_win_mean": "281.97",
+				"delta": "  41.97"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/pocketshots-putting-fundamentals",
+				"feature_value": "211",
+				"cluster_win_mean": "281.97",
+				"delta": "  70.97"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/pocketshots-bunker-fundamentals",
+				"feature_value": "244",
+				"cluster_win_mean": "281.97",
+				"delta": "  37.97"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/pocketshots-mental-game-effective-practice",
+				"feature_value": "100",
+				"cluster_win_mean": "281.97",
+				"delta": " 181.97"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/pocketshots-fitness-fit-golf",
+				"feature_value": " 61",
+				"cluster_win_mean": "281.97",
+				"delta": " 220.97"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/pocketshots-short-game-fundamentals",
+				"feature_value": "122",
+				"cluster_win_mean": "281.97",
+				"delta": " 159.97"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/pocketshots-short-game-speciality-shots",
+				"feature_value": " 81",
+				"cluster_win_mean": "281.97",
+				"delta": " 200.97"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/register",
+				"feature_value": " 66",
+				"cluster_win_mean": "281.97",
+				"delta": " 215.97"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/golf_competition_terms_and_conditions.html",
+				"feature_value": "433",
+				"cluster_win_mean": "281.97",
+				"delta": "-151.03"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/terms_and_conditions.html",
+				"feature_value": " 90",
+				"cluster_win_mean": "281.97",
+				"delta": " 191.97"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/terms-and-conditions",
+				"feature_value": " 90",
+				"cluster_win_mean": "281.97",
+				"delta": " 191.97"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/old_golf_competition_1.html",
+				"feature_value": " 45",
+				"cluster_win_mean": "281.97",
+				"delta": " 236.97"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/golf-competition-terms-and-conditions",
+				"feature_value": "433",
+				"cluster_win_mean": "281.97",
+				"delta": "-151.03"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/old-golf-competition-1",
+				"feature_value": " 45",
+				"cluster_win_mean": "281.97",
+				"delta": " 236.97"
+			}
+		],
+		"number_of_titles_same_as_h1": [
+			{
+				"html_id": "http://www.dizzyheights.com",
+				"feature_value": "0",
+				"cluster_win_mean": "1.1",
+				"delta": "1.1"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/golf-tips-products",
+				"feature_value": "0",
+				"cluster_win_mean": "1.1",
+				"delta": "1.1"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/golf-lessons",
+				"feature_value": "0",
+				"cluster_win_mean": "1.1",
+				"delta": "1.1"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/iphone-ipod-golf-video-tips",
+				"feature_value": "0",
+				"cluster_win_mean": "1.1",
+				"delta": "1.1"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/pete-cowen-golf-dvd",
+				"feature_value": "0",
+				"cluster_win_mean": "1.1",
+				"delta": "1.1"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/golf-online-store",
+				"feature_value": "0",
+				"cluster_win_mean": "1.1",
+				"delta": "1.1"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/node/101",
+				"feature_value": "0",
+				"cluster_win_mean": "1.1",
+				"delta": "1.1"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/golf-marketing-services",
+				"feature_value": "0",
+				"cluster_win_mean": "1.1",
+				"delta": "1.1"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/golf-day-organisers",
+				"feature_value": "0",
+				"cluster_win_mean": "1.1",
+				"delta": "1.1"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/golf-video-production",
+				"feature_value": "0",
+				"cluster_win_mean": "1.1",
+				"delta": "1.1"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/corporate-promotional-golf",
+				"feature_value": "0",
+				"cluster_win_mean": "1.1",
+				"delta": "1.1"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/golf-coaches",
+				"feature_value": "0",
+				"cluster_win_mean": "1.1",
+				"delta": "1.1"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/golf-directory",
+				"feature_value": "0",
+				"cluster_win_mean": "1.1",
+				"delta": "1.1"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/about-us",
+				"feature_value": "0",
+				"cluster_win_mean": "1.1",
+				"delta": "1.1"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/golf-trade",
+				"feature_value": "0",
+				"cluster_win_mean": "1.1",
+				"delta": "1.1"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/contact-us",
+				"feature_value": "0",
+				"cluster_win_mean": "1.1",
+				"delta": "1.1"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/dizzy-heights-media-centre",
+				"feature_value": "0",
+				"cluster_win_mean": "1.1",
+				"delta": "1.1"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/competition",
+				"feature_value": "0",
+				"cluster_win_mean": "1.1",
+				"delta": "1.1"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/golf-tips-podcast",
+				"feature_value": "0",
+				"cluster_win_mean": "1.1",
+				"delta": "1.1"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/product-and-service-reviews",
+				"feature_value": "0",
+				"cluster_win_mean": "1.1",
+				"delta": "1.1"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/golf-gift",
+				"feature_value": "0",
+				"cluster_win_mean": "1.1",
+				"delta": "1.1"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/pocketshots-swing-fundamentals",
+				"feature_value": "0",
+				"cluster_win_mean": "1.1",
+				"delta": "1.1"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/pocketshots-putting-fundamentals",
+				"feature_value": "0",
+				"cluster_win_mean": "1.1",
+				"delta": "1.1"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/pocketshots-bunker-fundamentals",
+				"feature_value": "0",
+				"cluster_win_mean": "1.1",
+				"delta": "1.1"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/pocketshots-mental-game-effective-practice",
+				"feature_value": "0",
+				"cluster_win_mean": "1.1",
+				"delta": "1.1"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/pocketshots-fitness-fit-golf",
+				"feature_value": "0",
+				"cluster_win_mean": "1.1",
+				"delta": "1.1"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/pocketshots-short-game-fundamentals",
+				"feature_value": "0",
+				"cluster_win_mean": "1.1",
+				"delta": "1.1"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/pocketshots-short-game-speciality-shots",
+				"feature_value": "0",
+				"cluster_win_mean": "1.1",
+				"delta": "1.1"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/contact_us.html",
+				"feature_value": "0",
+				"cluster_win_mean": "1.1",
+				"delta": "1.1"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/register",
+				"feature_value": "0",
+				"cluster_win_mean": "1.1",
+				"delta": "1.1"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/golf_competition_terms_and_conditions.html",
+				"feature_value": "0",
+				"cluster_win_mean": "1.1",
+				"delta": "1.1"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/general_competition_terms.html",
+				"feature_value": "0",
+				"cluster_win_mean": "1.1",
+				"delta": "1.1"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/terms_and_conditions.html",
+				"feature_value": "0",
+				"cluster_win_mean": "1.1",
+				"delta": "1.1"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/general-competition-terms",
+				"feature_value": "0",
+				"cluster_win_mean": "1.1",
+				"delta": "1.1"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/terms-and-conditions",
+				"feature_value": "0",
+				"cluster_win_mean": "1.1",
+				"delta": "1.1"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/old_golf_competition_1.html",
+				"feature_value": "0",
+				"cluster_win_mean": "1.1",
+				"delta": "1.1"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/golf-competition-terms-and-conditions",
+				"feature_value": "0",
+				"cluster_win_mean": "1.1",
+				"delta": "1.1"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/old-golf-competition-1",
+				"feature_value": "0",
+				"cluster_win_mean": "1.1",
+				"delta": "1.1"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/pocketshots_golf_reviews.html",
+				"feature_value": "0",
+				"cluster_win_mean": "1.1",
+				"delta": "1.1"
+			}
+		],
+		"number_of_iframes": [
+			{
+				"html_id": "http://www.dizzyheights.com",
+				"feature_value": "0",
+				"cluster_win_mean": "1.02",
+				"delta": "1.02"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/golf-tips-products",
+				"feature_value": "0",
+				"cluster_win_mean": "1.02",
+				"delta": "1.02"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/golf-lessons",
+				"feature_value": "0",
+				"cluster_win_mean": "1.02",
+				"delta": "1.02"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/iphone-ipod-golf-video-tips",
+				"feature_value": "0",
+				"cluster_win_mean": "1.02",
+				"delta": "1.02"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/pete-cowen-golf-dvd",
+				"feature_value": "0",
+				"cluster_win_mean": "1.02",
+				"delta": "1.02"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/golf-online-store",
+				"feature_value": "0",
+				"cluster_win_mean": "1.02",
+				"delta": "1.02"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/node/101",
+				"feature_value": "0",
+				"cluster_win_mean": "1.02",
+				"delta": "1.02"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/golf-marketing-services",
+				"feature_value": "0",
+				"cluster_win_mean": "1.02",
+				"delta": "1.02"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/golf-day-organisers",
+				"feature_value": "0",
+				"cluster_win_mean": "1.02",
+				"delta": "1.02"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/golf-video-production",
+				"feature_value": "0",
+				"cluster_win_mean": "1.02",
+				"delta": "1.02"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/corporate-promotional-golf",
+				"feature_value": "0",
+				"cluster_win_mean": "1.02",
+				"delta": "1.02"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/golf-coaches",
+				"feature_value": "0",
+				"cluster_win_mean": "1.02",
+				"delta": "1.02"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/golf-directory",
+				"feature_value": "0",
+				"cluster_win_mean": "1.02",
+				"delta": "1.02"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/about-us",
+				"feature_value": "0",
+				"cluster_win_mean": "1.02",
+				"delta": "1.02"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/golf-trade",
+				"feature_value": "0",
+				"cluster_win_mean": "1.02",
+				"delta": "1.02"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/contact-us",
+				"feature_value": "0",
+				"cluster_win_mean": "1.02",
+				"delta": "1.02"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/dizzy-heights-media-centre",
+				"feature_value": "0",
+				"cluster_win_mean": "1.02",
+				"delta": "1.02"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/competition",
+				"feature_value": "0",
+				"cluster_win_mean": "1.02",
+				"delta": "1.02"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/golf-tips-podcast",
+				"feature_value": "0",
+				"cluster_win_mean": "1.02",
+				"delta": "1.02"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/product-and-service-reviews",
+				"feature_value": "0",
+				"cluster_win_mean": "1.02",
+				"delta": "1.02"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/golf-gift",
+				"feature_value": "0",
+				"cluster_win_mean": "1.02",
+				"delta": "1.02"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/pocketshots-swing-fundamentals",
+				"feature_value": "0",
+				"cluster_win_mean": "1.02",
+				"delta": "1.02"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/pocketshots-putting-fundamentals",
+				"feature_value": "0",
+				"cluster_win_mean": "1.02",
+				"delta": "1.02"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/pocketshots-bunker-fundamentals",
+				"feature_value": "0",
+				"cluster_win_mean": "1.02",
+				"delta": "1.02"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/pocketshots-mental-game-effective-practice",
+				"feature_value": "0",
+				"cluster_win_mean": "1.02",
+				"delta": "1.02"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/pocketshots-fitness-fit-golf",
+				"feature_value": "0",
+				"cluster_win_mean": "1.02",
+				"delta": "1.02"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/pocketshots-short-game-fundamentals",
+				"feature_value": "0",
+				"cluster_win_mean": "1.02",
+				"delta": "1.02"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/pocketshots-short-game-speciality-shots",
+				"feature_value": "0",
+				"cluster_win_mean": "1.02",
+				"delta": "1.02"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/contact_us.html",
+				"feature_value": "0",
+				"cluster_win_mean": "1.02",
+				"delta": "1.02"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/register",
+				"feature_value": "0",
+				"cluster_win_mean": "1.02",
+				"delta": "1.02"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/golf_competition_terms_and_conditions.html",
+				"feature_value": "0",
+				"cluster_win_mean": "1.02",
+				"delta": "1.02"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/general_competition_terms.html",
+				"feature_value": "0",
+				"cluster_win_mean": "1.02",
+				"delta": "1.02"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/terms_and_conditions.html",
+				"feature_value": "0",
+				"cluster_win_mean": "1.02",
+				"delta": "1.02"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/general-competition-terms",
+				"feature_value": "0",
+				"cluster_win_mean": "1.02",
+				"delta": "1.02"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/terms-and-conditions",
+				"feature_value": "0",
+				"cluster_win_mean": "1.02",
+				"delta": "1.02"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/old_golf_competition_1.html",
+				"feature_value": "0",
+				"cluster_win_mean": "1.02",
+				"delta": "1.02"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/golf-competition-terms-and-conditions",
+				"feature_value": "0",
+				"cluster_win_mean": "1.02",
+				"delta": "1.02"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/old-golf-competition-1",
+				"feature_value": "0",
+				"cluster_win_mean": "1.02",
+				"delta": "1.02"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/pocketshots_golf_reviews.html",
+				"feature_value": "0",
+				"cluster_win_mean": "1.02",
+				"delta": "1.02"
+			}
+		],
+		"html5_detected": [
+			{
+				"html_id": "http://www.dizzyheights.com",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/golf-tips-products",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/golf-lessons",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/iphone-ipod-golf-video-tips",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/pete-cowen-golf-dvd",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/golf-online-store",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/node/101",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/golf-marketing-services",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/golf-day-organisers",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/golf-video-production",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/corporate-promotional-golf",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/golf-coaches",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/golf-directory",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/about-us",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/golf-trade",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/contact-us",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/dizzy-heights-media-centre",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/competition",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/golf-tips-podcast",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/product-and-service-reviews",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/golf-gift",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/pocketshots-swing-fundamentals",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/pocketshots-putting-fundamentals",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/pocketshots-bunker-fundamentals",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/pocketshots-mental-game-effective-practice",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/pocketshots-fitness-fit-golf",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/pocketshots-short-game-fundamentals",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/pocketshots-short-game-speciality-shots",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/contact_us.html",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/register",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/golf_competition_terms_and_conditions.html",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/general_competition_terms.html",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/terms_and_conditions.html",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/general-competition-terms",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/terms-and-conditions",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/old_golf_competition_1.html",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/golf-competition-terms-and-conditions",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/old-golf-competition-1",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.dizzyheights.com/pocketshots_golf_reviews.html",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			}
+		]
+	}
+}
