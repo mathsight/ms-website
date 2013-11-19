@@ -1,457 +1,1561 @@
 {
 	"offsite": {
-		"number_of_images_missing_alt": [
-			{
-				"html_id": "http://forum.virtualtourist.com/Kos-422450-5-3431272/Getting-married-in-kos.html",
-				"feature_value": "0",
-				"cluster_win_mean": " 11.2",
-				"delta": " 11.2"
-			},
-			{
-				"html_id": "http://s400131752.initial-website.co.uk/about-the-awards/how-to-win-an-award/website-promotion-by-holiday-company-sector/",
-				"feature_value": "0",
-				"cluster_win_mean": "16.36",
-				"delta": "16.36"
-			},
-			{
-				"html_id": "http://www.clsdirect.org.uk/en/legalaid/personalinjury/limitedcompany/deedpoll/index.jsp",
-				"feature_value": "7",
-				"cluster_win_mean": "16.36",
-				"delta": " 9.36"
-			},
-			{
-				"html_id": "http://www.precos.lv/raksti/kazu-foto-video/article.php?article_id=3767573",
-				"feature_value": "0",
-				"cluster_win_mean": "16.36",
-				"delta": "16.36"
-			},
-			{
-				"html_id": "http://www.gaytraveladvice.com/2012/12/",
-				"feature_value": "1",
-				"cluster_win_mean": "16.36",
-				"delta": "15.36"
-			},
-			{
-				"html_id": "http://www.travelpr.co.uk/2011/10/21/ionian-weddings-wins-local-business-award/",
-				"feature_value": "1",
-				"cluster_win_mean": " 11.2",
-				"delta": " 10.2"
-			},
-			{
-				"html_id": "http://www.socialregister.co.uk/paul-bay/",
-				"feature_value": "6",
-				"cluster_win_mean": "16.36",
-				"delta": "10.36"
-			},
-			{
-				"html_id": "http://www.travelpr.co.uk/2012/08/30/i-would-do-the-merits-of-getting-married-abroad/",
-				"feature_value": "0",
-				"cluster_win_mean": " 11.2",
-				"delta": " 11.2"
-			},
-			{
-				"html_id": "http://www.piccolo.gr/travel-destinations/?q=famous%20islands%20Greece%20Travel%20Guide%20to%20the%20Ionian%20Islands%09%09%09",
-				"feature_value": "0",
-				"cluster_win_mean": " 11.2",
-				"delta": " 11.2"
-			},
-			{
-				"html_id": "http://www.gaytraveladvice.com/blog/gay-marriage-gay-lesbian-wedding-europe/",
-				"feature_value": "0",
-				"cluster_win_mean": " 11.2",
-				"delta": " 11.2"
-			},
-			{
-				"html_id": "http://www.gaytraveladvice.com/author/vladi/page/7/",
-				"feature_value": "0",
-				"cluster_win_mean": " 11.2",
-				"delta": " 11.2"
-			},
-			{
-				"html_id": "http://www.gaytraveladvice.com/category/blog/page/5/",
-				"feature_value": "0",
-				"cluster_win_mean": " 11.2",
-				"delta": " 11.2"
-			},
-			{
-				"html_id": "http://www.gaytraveladvice.com/category/europe/page/4/",
-				"feature_value": "0",
-				"cluster_win_mean": "16.36",
-				"delta": "16.36"
-			},
-			{
-				"html_id": "http://www.piccolo.gr/travel-destinations/?q=ionian%20islands%20New%20Orleans%09%09%09%09",
-				"feature_value": "7",
-				"cluster_win_mean": "16.36",
-				"delta": " 9.36"
-			},
-			{
-				"html_id": "http://www.piccolo.gr/travel-destinations/?q=special%20Ionian%09",
-				"feature_value": "4",
-				"cluster_win_mean": "16.36",
-				"delta": "12.36"
-			},
-			{
-				"html_id": "http://www.piccolo.gr/travel-destinations/?q=special%20Ionian%09%09%09%09%09",
-				"feature_value": "2",
-				"cluster_win_mean": "16.36",
-				"delta": "14.36"
-			},
-			{
-				"html_id": "http://answerseveryday.com/what-is-astral-weeks/",
-				"feature_value": "3",
-				"cluster_win_mean": "16.36",
-				"delta": "13.36"
-			}
-		],
-		"number_of_embedded_javascripts": {
-			"html_id": "http://www.pink-world.co.uk/2008/06/30/meet-penelope-bat/",
-			"feature_value": "20",
-			"cluster_win_mean": "3.27",
-			"delta": "-16.73"
-		},
-		"number_of_images": [
-			{
-				"html_id": "http://s400131752.initial-website.co.uk/about-the-awards/how-to-win-an-award/website-promotion-by-holiday-company-sector/",
-				"feature_value": " 1",
-				"cluster_win_mean": "17.41",
-				"delta": " 16.41"
-			},
-			{
-				"html_id": "http://www.precos.lv/raksti/kazu-foto-video/article.php?article_id=3767573",
-				"feature_value": " 1",
-				"cluster_win_mean": "17.41",
-				"delta": " 16.41"
-			},
-			{
-				"html_id": "http://www.precos.lv/raksti/kazu-planosana/article.php?article_id=3767573",
-				"feature_value": "33",
-				"cluster_win_mean": " 5.33",
-				"delta": "-27.67"
-			},
-			{
-				"html_id": "http://silose.com/casarse-isla-griega/",
-				"feature_value": "33",
-				"cluster_win_mean": " 5.33",
-				"delta": "-27.67"
-			},
-			{
-				"html_id": "http://www.gaytraveladvice.com/2012/12/",
-				"feature_value": "14",
-				"cluster_win_mean": "17.41",
-				"delta": "  3.41"
-			},
-			{
-				"html_id": "http://www.socialregister.co.uk/paul-bay/",
-				"feature_value": " 7",
-				"cluster_win_mean": "17.41",
-				"delta": " 10.41"
-			},
-			{
-				"html_id": "http://www.travelpr.co.uk/2012/08/30/i-would-do-the-merits-of-getting-married-abroad/",
-				"feature_value": "14",
-				"cluster_win_mean": "11.38",
-				"delta": " -2.62"
-			},
-			{
-				"html_id": "http://www.gaytraveladvice.com/blog/gay-marriage-gay-lesbian-wedding-europe/",
-				"feature_value": "16",
-				"cluster_win_mean": "11.38",
-				"delta": " -4.62"
-			},
-			{
-				"html_id": "http://www.gaytraveladvice.com/author/vladi/page/7/",
-				"feature_value": "15",
-				"cluster_win_mean": "11.38",
-				"delta": " -3.62"
-			},
-			{
-				"html_id": "http://www.gaytraveladvice.com/category/blog/page/5/",
-				"feature_value": "15",
-				"cluster_win_mean": "11.38",
-				"delta": " -3.62"
-			},
-			{
-				"html_id": "http://www.piccolo.gr/travel-destinations/?q=special%20Ionian%09%09%09%09%09",
-				"feature_value": " 9",
-				"cluster_win_mean": "17.41",
-				"delta": "  8.41"
-			},
-			{
-				"html_id": "http://answerseveryday.com/what-is-astral-weeks/",
-				"feature_value": "11",
-				"cluster_win_mean": "17.41",
-				"delta": "  6.41"
-			},
-			{
-				"html_id": "http://www.masterseek.gr/mediterranean",
-				"feature_value": "21",
-				"cluster_win_mean": "11.38",
-				"delta": " -9.62"
-			},
-			{
-				"html_id": "http://www.masterseek.gr/ionian",
-				"feature_value": "21",
-				"cluster_win_mean": "11.38",
-				"delta": " -9.62"
-			}
-		],
-		"number_of_scripts": [
-			{
-				"html_id": "http://forum.virtualtourist.com/Kos-422450-5-3431272/Getting-married-in-kos.html",
-				"feature_value": "10",
-				"cluster_win_mean": "17.88",
-				"delta": " 7.88"
-			},
-			{
-				"html_id": "http://www.pink-world.co.uk/2008/06/30/meet-penelope-bat/",
-				"feature_value": "28",
-				"cluster_win_mean": " 12.8",
-				"delta": "-15.2"
-			},
-			{
-				"html_id": "http://www.gaytraveladvice.com/2012/12/",
-				"feature_value": "19",
-				"cluster_win_mean": " 12.8",
-				"delta": " -6.2"
-			},
-			{
-				"html_id": "http://www.socialregister.co.uk/paul-bay/",
-				"feature_value": "19",
-				"cluster_win_mean": " 12.8",
-				"delta": " -6.2"
-			},
-			{
-				"html_id": "http://www.travelpr.co.uk/2012/08/30/i-would-do-the-merits-of-getting-married-abroad/",
-				"feature_value": "16",
-				"cluster_win_mean": "17.88",
-				"delta": " 1.88"
-			},
-			{
-				"html_id": "http://www.piccolo.gr/travel-destinations/?q=famous%20islands%20Greece%20Travel%20Guide%20to%20the%20Ionian%20Islands%09%09%09",
-				"feature_value": "17",
-				"cluster_win_mean": "17.88",
-				"delta": " 0.88"
-			},
-			{
-				"html_id": "http://www.gaytraveladvice.com/blog/gay-marriage-gay-lesbian-wedding-europe/",
-				"feature_value": "16",
-				"cluster_win_mean": "17.88",
-				"delta": " 1.88"
-			},
-			{
-				"html_id": "http://www.gaytraveladvice.com/author/vladi/page/7/",
-				"feature_value": "16",
-				"cluster_win_mean": "17.88",
-				"delta": " 1.88"
-			},
-			{
-				"html_id": "http://www.gaytraveladvice.com/category/blog/page/5/",
-				"feature_value": "16",
-				"cluster_win_mean": "17.88",
-				"delta": " 1.88"
-			},
-			{
-				"html_id": "http://www.gaytraveladvice.com/category/europe/page/4/",
-				"feature_value": "19",
-				"cluster_win_mean": " 12.8",
-				"delta": " -6.2"
-			},
-			{
-				"html_id": "http://www.piccolo.gr/travel-destinations/?q=ionian%20islands%20New%20Orleans%09%09%09%09",
-				"feature_value": "17",
-				"cluster_win_mean": " 12.8",
-				"delta": " -4.2"
-			},
-			{
-				"html_id": "http://www.piccolo.gr/travel-destinations/?q=special%20Ionian%09",
-				"feature_value": "17",
-				"cluster_win_mean": " 12.8",
-				"delta": " -4.2"
-			},
-			{
-				"html_id": "http://www.piccolo.gr/travel-destinations/?q=special%20Ionian%09%09%09%09%09",
-				"feature_value": "17",
-				"cluster_win_mean": " 12.8",
-				"delta": " -4.2"
-			},
-			{
-				"html_id": "http://answerseveryday.com/what-is-astral-weeks/",
-				"feature_value": "17",
-				"cluster_win_mean": " 12.8",
-				"delta": " -4.2"
-			},
-			{
-				"html_id": "http://www.masterseek.gr/mediterranean",
-				"feature_value": "16",
-				"cluster_win_mean": "17.88",
-				"delta": " 1.88"
-			},
-			{
-				"html_id": "http://www.masterseek.gr/ionian",
-				"feature_value": "16",
-				"cluster_win_mean": "17.88",
-				"delta": " 1.88"
-			}
-		],
 		"number_of_inline_css_styles": [
 			{
 				"html_id": "http://s400131752.initial-website.co.uk/about-the-awards/how-to-win-an-award/website-promotion-by-holiday-company-sector/",
 				"feature_value": " 1",
-				"cluster_win_mean": "1.57",
-				"delta": " 0.57"
+				"cluster_win_mean": "1.81",
+				"delta": "  0.81"
 			},
 			{
 				"html_id": "http://www.clsdirect.org.uk/en/legalaid/personalinjury/limitedcompany/deedpoll/index.jsp",
 				"feature_value": " 0",
-				"cluster_win_mean": "1.57",
-				"delta": " 1.57"
+				"cluster_win_mean": "1.81",
+				"delta": "  1.81"
 			},
 			{
-				"html_id": "http://www.precos.lv/raksti/kazu-foto-video/article.php?article_id=3767573",
-				"feature_value": " 0",
-				"cluster_win_mean": "1.57",
-				"delta": " 1.57"
+				"html_id": "http://www.searchers.co.uk/web/?query=weddings+in+cyprus",
+				"feature_value": " 5",
+				"cluster_win_mean": "2.63",
+				"delta": " -2.37"
 			},
 			{
 				"html_id": "http://www.precos.lv/raksti/kazu-planosana/article.php?article_id=3767573",
 				"feature_value": " 0",
-				"cluster_win_mean": "1.69",
-				"delta": " 1.69"
+				"cluster_win_mean": "1.81",
+				"delta": "  1.81"
 			},
 			{
 				"html_id": "http://silose.com/casarse-isla-griega/",
 				"feature_value": " 0",
-				"cluster_win_mean": "1.69",
-				"delta": " 1.69"
-			},
-			{
-				"html_id": "http://www.pink-world.co.uk/2008/06/30/meet-penelope-bat/",
-				"feature_value": " 0",
-				"cluster_win_mean": "1.57",
-				"delta": " 1.57"
-			},
-			{
-				"html_id": "http://www.gaytraveladvice.com/2012/12/",
-				"feature_value": " 0",
-				"cluster_win_mean": "1.57",
-				"delta": " 1.57"
-			},
-			{
-				"html_id": "http://www.socialregister.co.uk/paul-bay/",
-				"feature_value": " 0",
-				"cluster_win_mean": "1.57",
-				"delta": " 1.57"
-			},
-			{
-				"html_id": "http://www.gaytraveladvice.com/category/europe/page/4/",
-				"feature_value": " 0",
-				"cluster_win_mean": "1.57",
-				"delta": " 1.57"
+				"cluster_win_mean": "1.81",
+				"delta": "  1.81"
 			},
 			{
 				"html_id": "http://www.piccolo.gr/travel-destinations/?q=ionian%20islands%20New%20Orleans%09%09%09%09",
 				"feature_value": " 0",
-				"cluster_win_mean": "1.57",
-				"delta": " 1.57"
+				"cluster_win_mean": "1.81",
+				"delta": "  1.81"
 			},
 			{
 				"html_id": "http://www.piccolo.gr/travel-destinations/?q=special%20Ionian%09",
 				"feature_value": " 0",
-				"cluster_win_mean": "1.57",
-				"delta": " 1.57"
+				"cluster_win_mean": "1.81",
+				"delta": "  1.81"
 			},
 			{
 				"html_id": "http://www.piccolo.gr/travel-destinations/?q=special%20Ionian%09%09%09%09%09",
 				"feature_value": " 0",
-				"cluster_win_mean": "1.57",
-				"delta": " 1.57"
+				"cluster_win_mean": "1.81",
+				"delta": "  1.81"
 			},
 			{
 				"html_id": "http://answerseveryday.com/what-is-astral-weeks/",
 				"feature_value": " 0",
-				"cluster_win_mean": "1.57",
-				"delta": " 1.57"
+				"cluster_win_mean": "1.81",
+				"delta": "  1.81"
 			},
 			{
 				"html_id": "http://www.masterseek.gr/mediterranean",
 				"feature_value": "60",
-				"cluster_win_mean": " 2.8",
-				"delta": "-57.2"
+				"cluster_win_mean": "2.63",
+				"delta": "-57.37"
 			},
 			{
 				"html_id": "http://www.masterseek.gr/ionian",
 				"feature_value": "60",
-				"cluster_win_mean": " 2.8",
-				"delta": "-57.2"
+				"cluster_win_mean": "2.63",
+				"delta": "-57.37"
 			}
 		],
-		"number_of_images_in_body": [
+		"number_of_images_missing_alt": [
+			{
+				"html_id": "http://forum.virtualtourist.com/Kos-422450-5-3431272/Getting-married-in-kos.html",
+				"feature_value": "0",
+				"cluster_win_mean": " 10.1",
+				"delta": " 10.1"
+			},
+			{
+				"html_id": "http://www.clsdirect.org.uk/en/legalaid/personalinjury/limitedcompany/deedpoll/index.jsp",
+				"feature_value": "7",
+				"cluster_win_mean": "16.38",
+				"delta": " 9.38"
+			},
+			{
+				"html_id": "http://www.precos.lv/raksti/kazu-foto-video/article.php?article_id=3767573",
+				"feature_value": "0",
+				"cluster_win_mean": " 10.1",
+				"delta": " 10.1"
+			},
+			{
+				"html_id": "http://www.precos.lv/raksti/kazu-planosana/article.php?article_id=3767573",
+				"feature_value": "2",
+				"cluster_win_mean": "16.38",
+				"delta": "14.38"
+			},
+			{
+				"html_id": "http://silose.com/casarse-isla-griega/",
+				"feature_value": "2",
+				"cluster_win_mean": "16.38",
+				"delta": "14.38"
+			},
+			{
+				"html_id": "http://www.gaytraveladvice.com/2012/12/",
+				"feature_value": "1",
+				"cluster_win_mean": " 10.1",
+				"delta": "  9.1"
+			},
+			{
+				"html_id": "http://www.travelpr.co.uk/2011/10/21/ionian-weddings-wins-local-business-award/",
+				"feature_value": "1",
+				"cluster_win_mean": " 15.5",
+				"delta": " 14.5"
+			},
+			{
+				"html_id": "http://www.socialregister.co.uk/paul-bay/",
+				"feature_value": "6",
+				"cluster_win_mean": " 10.1",
+				"delta": "  4.1"
+			},
+			{
+				"html_id": "http://www.travelpr.co.uk/2012/08/30/i-would-do-the-merits-of-getting-married-abroad/",
+				"feature_value": "0",
+				"cluster_win_mean": " 10.1",
+				"delta": " 10.1"
+			},
+			{
+				"html_id": "http://www.piccolo.gr/travel-destinations/?q=famous%20islands%20Greece%20Travel%20Guide%20to%20the%20Ionian%20Islands%09%09%09",
+				"feature_value": "0",
+				"cluster_win_mean": " 10.1",
+				"delta": " 10.1"
+			},
+			{
+				"html_id": "http://www.gaytraveladvice.com/blog/gay-marriage-gay-lesbian-wedding-europe/",
+				"feature_value": "0",
+				"cluster_win_mean": " 10.1",
+				"delta": " 10.1"
+			},
+			{
+				"html_id": "http://www.gaytraveladvice.com/author/vladi/page/7/",
+				"feature_value": "0",
+				"cluster_win_mean": " 10.1",
+				"delta": " 10.1"
+			},
+			{
+				"html_id": "http://www.gaytraveladvice.com/category/blog/page/5/",
+				"feature_value": "0",
+				"cluster_win_mean": " 10.1",
+				"delta": " 10.1"
+			},
+			{
+				"html_id": "http://www.gaytraveladvice.com/category/europe/page/4/",
+				"feature_value": "0",
+				"cluster_win_mean": " 10.1",
+				"delta": " 10.1"
+			},
+			{
+				"html_id": "http://www.piccolo.gr/travel-destinations/?q=ionian%20islands%20New%20Orleans%09%09%09%09",
+				"feature_value": "7",
+				"cluster_win_mean": "16.38",
+				"delta": " 9.38"
+			},
+			{
+				"html_id": "http://www.piccolo.gr/travel-destinations/?q=special%20Ionian%09",
+				"feature_value": "4",
+				"cluster_win_mean": "16.38",
+				"delta": "12.38"
+			},
+			{
+				"html_id": "http://www.piccolo.gr/travel-destinations/?q=special%20Ionian%09%09%09%09%09",
+				"feature_value": "2",
+				"cluster_win_mean": "16.38",
+				"delta": "14.38"
+			},
+			{
+				"html_id": "http://answerseveryday.com/what-is-astral-weeks/",
+				"feature_value": "3",
+				"cluster_win_mean": "16.38",
+				"delta": "13.38"
+			}
+		],
+		"number_of_h1_instances": [
+			{
+				"html_id": "http://s400131752.initial-website.co.uk/about-the-awards/how-to-win-an-award/website-promotion-by-holiday-company-sector/",
+				"feature_value": "1",
+				"cluster_win_mean": "2.97",
+				"delta": "1.97"
+			},
+			{
+				"html_id": "http://www.clsdirect.org.uk/en/legalaid/personalinjury/limitedcompany/deedpoll/index.jsp",
+				"feature_value": "0",
+				"cluster_win_mean": "2.97",
+				"delta": "2.97"
+			},
+			{
+				"html_id": "http://www.precos.lv/raksti/kazu-planosana/article.php?article_id=3767573",
+				"feature_value": "1",
+				"cluster_win_mean": "2.97",
+				"delta": "1.97"
+			},
+			{
+				"html_id": "http://silose.com/casarse-isla-griega/",
+				"feature_value": "1",
+				"cluster_win_mean": "2.97",
+				"delta": "1.97"
+			},
+			{
+				"html_id": "http://www.piccolo.gr/travel-destinations/?q=ionian%20islands%20New%20Orleans%09%09%09%09",
+				"feature_value": "0",
+				"cluster_win_mean": "2.97",
+				"delta": "2.97"
+			},
+			{
+				"html_id": "http://www.piccolo.gr/travel-destinations/?q=special%20Ionian%09",
+				"feature_value": "0",
+				"cluster_win_mean": "2.97",
+				"delta": "2.97"
+			},
+			{
+				"html_id": "http://www.piccolo.gr/travel-destinations/?q=special%20Ionian%09%09%09%09%09",
+				"feature_value": "0",
+				"cluster_win_mean": "2.97",
+				"delta": "2.97"
+			},
+			{
+				"html_id": "http://answerseveryday.com/what-is-astral-weeks/",
+				"feature_value": "0",
+				"cluster_win_mean": "2.97",
+				"delta": "2.97"
+			}
+		],
+		"number_of_images": [
 			{
 				"html_id": "http://forum.virtualtourist.com/Kos-422450-5-3431272/Getting-married-in-kos.html",
 				"feature_value": " 8",
-				"cluster_win_mean": "11.27",
-				"delta": "  3.27"
+				"cluster_win_mean": " 11.1",
+				"delta": "   3.1"
 			},
 			{
-				"html_id": "http://s400131752.initial-website.co.uk/about-the-awards/how-to-win-an-award/website-promotion-by-holiday-company-sector/",
-				"feature_value": " 1",
-				"cluster_win_mean": "17.41",
-				"delta": " 16.41"
+				"html_id": "http://www.clsdirect.org.uk/en/legalaid/personalinjury/limitedcompany/deedpoll/index.jsp",
+				"feature_value": "42",
+				"cluster_win_mean": "17.32",
+				"delta": "-24.68"
 			},
 			{
 				"html_id": "http://www.precos.lv/raksti/kazu-foto-video/article.php?article_id=3767573",
 				"feature_value": " 1",
-				"cluster_win_mean": "17.41",
-				"delta": " 16.41"
+				"cluster_win_mean": " 11.1",
+				"delta": "  10.1"
 			},
 			{
 				"html_id": "http://www.precos.lv/raksti/kazu-planosana/article.php?article_id=3767573",
 				"feature_value": "33",
-				"cluster_win_mean": " 5.33",
-				"delta": "-27.67"
+				"cluster_win_mean": "17.32",
+				"delta": "-15.68"
 			},
 			{
 				"html_id": "http://silose.com/casarse-isla-griega/",
 				"feature_value": "33",
-				"cluster_win_mean": " 5.33",
-				"delta": "-27.67"
-			},
-			{
-				"html_id": "http://www.gaytraveladvice.com/2012/12/",
-				"feature_value": "14",
-				"cluster_win_mean": "17.41",
-				"delta": "  3.41"
+				"cluster_win_mean": "17.32",
+				"delta": "-15.68"
 			},
 			{
 				"html_id": "http://www.travelpr.co.uk/2011/10/21/ionian-weddings-wins-local-business-award/",
 				"feature_value": " 1",
-				"cluster_win_mean": "11.27",
-				"delta": " 10.27"
+				"cluster_win_mean": "15.47",
+				"delta": " 14.47"
 			},
 			{
 				"html_id": "http://www.socialregister.co.uk/paul-bay/",
 				"feature_value": " 7",
-				"cluster_win_mean": "17.41",
-				"delta": " 10.41"
+				"cluster_win_mean": " 11.1",
+				"delta": "   4.1"
 			},
 			{
 				"html_id": "http://www.piccolo.gr/travel-destinations/?q=famous%20islands%20Greece%20Travel%20Guide%20to%20the%20Ionian%20Islands%09%09%09",
 				"feature_value": " 6",
-				"cluster_win_mean": "11.27",
-				"delta": "  5.27"
+				"cluster_win_mean": " 11.1",
+				"delta": "   5.1"
+			},
+			{
+				"html_id": "http://www.piccolo.gr/travel-destinations/?q=ionian%20islands%20New%20Orleans%09%09%09%09",
+				"feature_value": "35",
+				"cluster_win_mean": "17.32",
+				"delta": "-17.68"
+			},
+			{
+				"html_id": "http://www.piccolo.gr/travel-destinations/?q=special%20Ionian%09",
+				"feature_value": "18",
+				"cluster_win_mean": "17.32",
+				"delta": " -0.68"
 			},
 			{
 				"html_id": "http://www.piccolo.gr/travel-destinations/?q=special%20Ionian%09%09%09%09%09",
 				"feature_value": " 9",
-				"cluster_win_mean": "17.41",
-				"delta": "  8.41"
+				"cluster_win_mean": "17.32",
+				"delta": "  8.32"
 			},
 			{
 				"html_id": "http://answerseveryday.com/what-is-astral-weeks/",
 				"feature_value": "11",
-				"cluster_win_mean": "17.41",
-				"delta": "  6.41"
+				"cluster_win_mean": "17.32",
+				"delta": "  6.32"
+			}
+		],
+		"total_number_of_words": [
+			{
+				"html_id": "http://forum.virtualtourist.com/Kos-422450-5-3431272/Getting-married-in-kos.html",
+				"feature_value": "  6",
+				"cluster_win_mean": "433.15",
+				"delta": "427.15"
+			},
+			{
+				"html_id": "http://www.searchers.co.uk/web/?query=weddings+in+cyprus",
+				"feature_value": "234",
+				"cluster_win_mean": "433.15",
+				"delta": "199.15"
+			},
+			{
+				"html_id": "http://www.precos.lv/raksti/kazu-foto-video/article.php?article_id=3767573",
+				"feature_value": " 87",
+				"cluster_win_mean": "433.15",
+				"delta": "346.15"
+			},
+			{
+				"html_id": "http://www.pink-world.co.uk/2008/06/30/meet-penelope-bat/",
+				"feature_value": "112",
+				"cluster_win_mean": "433.15",
+				"delta": "321.15"
+			},
+			{
+				"html_id": "http://www.gaytraveladvice.com/2012/12/",
+				"feature_value": "147",
+				"cluster_win_mean": "433.15",
+				"delta": "286.15"
+			},
+			{
+				"html_id": "http://www.travelpr.co.uk/2011/10/21/ionian-weddings-wins-local-business-award/",
+				"feature_value": " 10",
+				"cluster_win_mean": " 54.12",
+				"delta": " 44.12"
+			},
+			{
+				"html_id": "http://www.socialregister.co.uk/paul-bay/",
+				"feature_value": "247",
+				"cluster_win_mean": "433.15",
+				"delta": "186.15"
+			},
+			{
+				"html_id": "http://www.travelpr.co.uk/2012/08/30/i-would-do-the-merits-of-getting-married-abroad/",
+				"feature_value": "  4",
+				"cluster_win_mean": "433.15",
+				"delta": "429.15"
+			},
+			{
+				"html_id": "http://www.piccolo.gr/travel-destinations/?q=famous%20islands%20Greece%20Travel%20Guide%20to%20the%20Ionian%20Islands%09%09%09",
+				"feature_value": " 42",
+				"cluster_win_mean": "433.15",
+				"delta": "391.15"
+			},
+			{
+				"html_id": "http://www.gaytraveladvice.com/blog/gay-marriage-gay-lesbian-wedding-europe/",
+				"feature_value": "  1",
+				"cluster_win_mean": "433.15",
+				"delta": "432.15"
+			},
+			{
+				"html_id": "http://www.gaytraveladvice.com/author/vladi/page/7/",
+				"feature_value": "  5",
+				"cluster_win_mean": "433.15",
+				"delta": "428.15"
+			},
+			{
+				"html_id": "http://www.gaytraveladvice.com/category/blog/page/5/",
+				"feature_value": "  5",
+				"cluster_win_mean": "433.15",
+				"delta": "428.15"
+			},
+			{
+				"html_id": "http://www.gaytraveladvice.com/category/europe/page/4/",
+				"feature_value": " 64",
+				"cluster_win_mean": "433.15",
+				"delta": "369.15"
+			},
+			{
+				"html_id": "http://www.masterseek.gr/mediterranean",
+				"feature_value": " 19",
+				"cluster_win_mean": "433.15",
+				"delta": "414.15"
+			},
+			{
+				"html_id": "http://www.masterseek.gr/ionian",
+				"feature_value": " 19",
+				"cluster_win_mean": "433.15",
+				"delta": "414.15"
+			}
+		],
+		"total_number_of_dictionary_words": [
+			{
+				"html_id": "http://www.clsdirect.org.uk/en/legalaid/personalinjury/limitedcompany/deedpoll/index.jsp",
+				"feature_value": "0",
+				"cluster_win_mean": "4.15",
+				"delta": "4.15"
+			},
+			{
+				"html_id": "http://www.precos.lv/raksti/kazu-planosana/article.php?article_id=3767573",
+				"feature_value": "0",
+				"cluster_win_mean": "4.15",
+				"delta": "4.15"
+			},
+			{
+				"html_id": "http://silose.com/casarse-isla-griega/",
+				"feature_value": "0",
+				"cluster_win_mean": "4.15",
+				"delta": "4.15"
+			},
+			{
+				"html_id": "http://www.travelpr.co.uk/2011/10/21/ionian-weddings-wins-local-business-award/",
+				"feature_value": "0",
+				"cluster_win_mean": " 2.5",
+				"delta": " 2.5"
+			},
+			{
+				"html_id": "http://www.piccolo.gr/travel-destinations/?q=famous%20islands%20Greece%20Travel%20Guide%20to%20the%20Ionian%20Islands%09%09%09",
+				"feature_value": "3",
+				"cluster_win_mean": "3.51",
+				"delta": "0.51"
+			},
+			{
+				"html_id": "http://www.gaytraveladvice.com/category/europe/page/4/",
+				"feature_value": "3",
+				"cluster_win_mean": "3.51",
+				"delta": "0.51"
+			},
+			{
+				"html_id": "http://www.piccolo.gr/travel-destinations/?q=ionian%20islands%20New%20Orleans%09%09%09%09",
+				"feature_value": "0",
+				"cluster_win_mean": "4.15",
+				"delta": "4.15"
+			},
+			{
+				"html_id": "http://www.piccolo.gr/travel-destinations/?q=special%20Ionian%09",
+				"feature_value": "0",
+				"cluster_win_mean": "4.15",
+				"delta": "4.15"
+			},
+			{
+				"html_id": "http://www.piccolo.gr/travel-destinations/?q=special%20Ionian%09%09%09%09%09",
+				"feature_value": "0",
+				"cluster_win_mean": "4.15",
+				"delta": "4.15"
+			},
+			{
+				"html_id": "http://answerseveryday.com/what-is-astral-weeks/",
+				"feature_value": "0",
+				"cluster_win_mean": "4.15",
+				"delta": "4.15"
+			}
+		],
+		"number_of_hyperlinks_with_html": [
+			{
+				"html_id": "http://forum.virtualtourist.com/Kos-422450-5-3431272/Getting-married-in-kos.html",
+				"feature_value": " 22",
+				"cluster_win_mean": "28.77",
+				"delta": "   6.77"
+			},
+			{
+				"html_id": "http://s400131752.initial-website.co.uk/about-the-awards/how-to-win-an-award/website-promotion-by-holiday-company-sector/",
+				"feature_value": " 21",
+				"cluster_win_mean": "46.02",
+				"delta": "  25.02"
+			},
+			{
+				"html_id": "http://www.clsdirect.org.uk/en/legalaid/personalinjury/limitedcompany/deedpoll/index.jsp",
+				"feature_value": " 95",
+				"cluster_win_mean": "46.02",
+				"delta": " -48.98"
+			},
+			{
+				"html_id": "http://www.searchers.co.uk/web/?query=weddings+in+cyprus",
+				"feature_value": " 43",
+				"cluster_win_mean": "28.77",
+				"delta": " -14.23"
+			},
+			{
+				"html_id": "http://www.precos.lv/raksti/kazu-foto-video/article.php?article_id=3767573",
+				"feature_value": "  8",
+				"cluster_win_mean": "28.77",
+				"delta": "  20.77"
+			},
+			{
+				"html_id": "http://www.precos.lv/raksti/kazu-planosana/article.php?article_id=3767573",
+				"feature_value": "168",
+				"cluster_win_mean": "46.02",
+				"delta": "-121.98"
+			},
+			{
+				"html_id": "http://silose.com/casarse-isla-griega/",
+				"feature_value": "168",
+				"cluster_win_mean": "46.02",
+				"delta": "-121.98"
+			},
+			{
+				"html_id": "http://www.pink-world.co.uk/2008/06/30/meet-penelope-bat/",
+				"feature_value": " 39",
+				"cluster_win_mean": "28.77",
+				"delta": " -10.23"
+			},
+			{
+				"html_id": "http://www.gaytraveladvice.com/2012/12/",
+				"feature_value": " 15",
+				"cluster_win_mean": "28.77",
+				"delta": "  13.77"
+			},
+			{
+				"html_id": "http://www.travelpr.co.uk/2011/10/21/ionian-weddings-wins-local-business-award/",
+				"feature_value": "  1",
+				"cluster_win_mean": "42.78",
+				"delta": "  41.78"
+			},
+			{
+				"html_id": "http://www.socialregister.co.uk/paul-bay/",
+				"feature_value": "168",
+				"cluster_win_mean": "28.77",
+				"delta": "-139.23"
+			},
+			{
+				"html_id": "http://www.travelpr.co.uk/2012/08/30/i-would-do-the-merits-of-getting-married-abroad/",
+				"feature_value": "112",
+				"cluster_win_mean": "28.77",
+				"delta": " -83.23"
+			},
+			{
+				"html_id": "http://www.piccolo.gr/travel-destinations/?q=famous%20islands%20Greece%20Travel%20Guide%20to%20the%20Ionian%20Islands%09%09%09",
+				"feature_value": " 81",
+				"cluster_win_mean": "28.77",
+				"delta": " -52.23"
+			},
+			{
+				"html_id": "http://www.gaytraveladvice.com/blog/gay-marriage-gay-lesbian-wedding-europe/",
+				"feature_value": "125",
+				"cluster_win_mean": "28.77",
+				"delta": " -96.23"
+			},
+			{
+				"html_id": "http://www.gaytraveladvice.com/author/vladi/page/7/",
+				"feature_value": "128",
+				"cluster_win_mean": "28.77",
+				"delta": " -99.23"
+			},
+			{
+				"html_id": "http://www.gaytraveladvice.com/category/blog/page/5/",
+				"feature_value": "126",
+				"cluster_win_mean": "28.77",
+				"delta": " -97.23"
+			},
+			{
+				"html_id": "http://www.gaytraveladvice.com/category/europe/page/4/",
+				"feature_value": " 40",
+				"cluster_win_mean": "28.77",
+				"delta": " -11.23"
+			}
+		],
+		"number_of_unique_words": [
+			{
+				"html_id": "http://forum.virtualtourist.com/Kos-422450-5-3431272/Getting-married-in-kos.html",
+				"feature_value": "  6",
+				"cluster_win_mean": "192.42",
+				"delta": "186.42"
+			},
+			{
+				"html_id": "http://www.searchers.co.uk/web/?query=weddings+in+cyprus",
+				"feature_value": " 24",
+				"cluster_win_mean": "192.42",
+				"delta": "168.42"
+			},
+			{
+				"html_id": "http://www.precos.lv/raksti/kazu-foto-video/article.php?article_id=3767573",
+				"feature_value": " 55",
+				"cluster_win_mean": "192.42",
+				"delta": "137.42"
+			},
+			{
+				"html_id": "http://www.pink-world.co.uk/2008/06/30/meet-penelope-bat/",
+				"feature_value": " 66",
+				"cluster_win_mean": "192.42",
+				"delta": "126.42"
+			},
+			{
+				"html_id": "http://www.gaytraveladvice.com/2012/12/",
+				"feature_value": " 89",
+				"cluster_win_mean": "192.42",
+				"delta": "103.42"
+			},
+			{
+				"html_id": "http://www.travelpr.co.uk/2011/10/21/ionian-weddings-wins-local-business-award/",
+				"feature_value": "  8",
+				"cluster_win_mean": " 37.03",
+				"delta": " 29.03"
+			},
+			{
+				"html_id": "http://www.socialregister.co.uk/paul-bay/",
+				"feature_value": "144",
+				"cluster_win_mean": "192.42",
+				"delta": " 48.42"
+			},
+			{
+				"html_id": "http://www.travelpr.co.uk/2012/08/30/i-would-do-the-merits-of-getting-married-abroad/",
+				"feature_value": "  4",
+				"cluster_win_mean": "192.42",
+				"delta": "188.42"
+			},
+			{
+				"html_id": "http://www.piccolo.gr/travel-destinations/?q=famous%20islands%20Greece%20Travel%20Guide%20to%20the%20Ionian%20Islands%09%09%09",
+				"feature_value": " 16",
+				"cluster_win_mean": "192.42",
+				"delta": "176.42"
+			},
+			{
+				"html_id": "http://www.gaytraveladvice.com/blog/gay-marriage-gay-lesbian-wedding-europe/",
+				"feature_value": "  1",
+				"cluster_win_mean": "192.42",
+				"delta": "191.42"
+			},
+			{
+				"html_id": "http://www.gaytraveladvice.com/author/vladi/page/7/",
+				"feature_value": "  5",
+				"cluster_win_mean": "192.42",
+				"delta": "187.42"
+			},
+			{
+				"html_id": "http://www.gaytraveladvice.com/category/blog/page/5/",
+				"feature_value": "  5",
+				"cluster_win_mean": "192.42",
+				"delta": "187.42"
+			},
+			{
+				"html_id": "http://www.gaytraveladvice.com/category/europe/page/4/",
+				"feature_value": " 38",
+				"cluster_win_mean": "192.42",
+				"delta": "154.42"
+			},
+			{
+				"html_id": "http://www.masterseek.gr/mediterranean",
+				"feature_value": " 12",
+				"cluster_win_mean": "192.42",
+				"delta": "180.42"
+			},
+			{
+				"html_id": "http://www.masterseek.gr/ionian",
+				"feature_value": " 12",
+				"cluster_win_mean": "192.42",
+				"delta": "180.42"
+			}
+		],
+		"ratio_of_dictionary_words_to_total": {
+			"html_id": "http://www.travelpr.co.uk/2011/10/21/ionian-weddings-wins-local-business-award/",
+			"feature_value": "0",
+			"cluster_win_mean": "0.01",
+			"delta": "0.01"
+		},
+		"number_of_destination_titles_same_as_anchor_text": [
+			{
+				"html_id": "http://forum.virtualtourist.com/Kos-422450-5-3431272/Getting-married-in-kos.html",
+				"feature_value": " 0",
+				"cluster_win_mean": "16.69",
+				"delta": "16.69"
+			},
+			{
+				"html_id": "http://s400131752.initial-website.co.uk/about-the-awards/how-to-win-an-award/website-promotion-by-holiday-company-sector/",
+				"feature_value": "14",
+				"cluster_win_mean": "14.94",
+				"delta": " 0.94"
+			},
+			{
+				"html_id": "http://www.clsdirect.org.uk/en/legalaid/personalinjury/limitedcompany/deedpoll/index.jsp",
+				"feature_value": " 0",
+				"cluster_win_mean": "14.94",
+				"delta": "14.94"
+			},
+			{
+				"html_id": "http://www.searchers.co.uk/web/?query=weddings+in+cyprus",
+				"feature_value": " 0",
+				"cluster_win_mean": "16.69",
+				"delta": "16.69"
+			},
+			{
+				"html_id": "http://www.precos.lv/raksti/kazu-foto-video/article.php?article_id=3767573",
+				"feature_value": " 0",
+				"cluster_win_mean": "16.69",
+				"delta": "16.69"
+			},
+			{
+				"html_id": "http://www.precos.lv/raksti/kazu-planosana/article.php?article_id=3767573",
+				"feature_value": " 0",
+				"cluster_win_mean": "14.94",
+				"delta": "14.94"
+			},
+			{
+				"html_id": "http://silose.com/casarse-isla-griega/",
+				"feature_value": " 0",
+				"cluster_win_mean": "14.94",
+				"delta": "14.94"
+			},
+			{
+				"html_id": "http://www.gaytraveladvice.com/2012/12/",
+				"feature_value": " 0",
+				"cluster_win_mean": "16.69",
+				"delta": "16.69"
+			},
+			{
+				"html_id": "http://www.travelpr.co.uk/2011/10/21/ionian-weddings-wins-local-business-award/",
+				"feature_value": " 0",
+				"cluster_win_mean": "   25",
+				"delta": "   25"
+			},
+			{
+				"html_id": "http://www.socialregister.co.uk/paul-bay/",
+				"feature_value": " 5",
+				"cluster_win_mean": "16.69",
+				"delta": "11.69"
+			},
+			{
+				"html_id": "http://www.gaytraveladvice.com/category/europe/page/4/",
+				"feature_value": " 3",
+				"cluster_win_mean": "16.69",
+				"delta": "13.69"
+			},
+			{
+				"html_id": "http://www.piccolo.gr/travel-destinations/?q=special%20Ionian%09%09%09%09%09",
+				"feature_value": "12",
+				"cluster_win_mean": "14.94",
+				"delta": " 2.94"
+			},
+			{
+				"html_id": "http://answerseveryday.com/what-is-astral-weeks/",
+				"feature_value": "11",
+				"cluster_win_mean": "14.94",
+				"delta": " 3.94"
+			},
+			{
+				"html_id": "http://www.masterseek.gr/mediterranean",
+				"feature_value": " 0",
+				"cluster_win_mean": "16.69",
+				"delta": "16.69"
+			},
+			{
+				"html_id": "http://www.masterseek.gr/ionian",
+				"feature_value": " 0",
+				"cluster_win_mean": "16.69",
+				"delta": "16.69"
+			}
+		],
+		"maximum_length_of_h1": [
+			{
+				"html_id": "http://forum.virtualtourist.com/Kos-422450-5-3431272/Getting-married-in-kos.html",
+				"feature_value": " 0",
+				"cluster_win_mean": "20.97",
+				"delta": "20.97"
+			},
+			{
+				"html_id": "http://s400131752.initial-website.co.uk/about-the-awards/how-to-win-an-award/website-promotion-by-holiday-company-sector/",
+				"feature_value": "21",
+				"cluster_win_mean": "82.06",
+				"delta": "61.06"
+			},
+			{
+				"html_id": "http://www.clsdirect.org.uk/en/legalaid/personalinjury/limitedcompany/deedpoll/index.jsp",
+				"feature_value": " 0",
+				"cluster_win_mean": "82.06",
+				"delta": "82.06"
+			},
+			{
+				"html_id": "http://www.precos.lv/raksti/kazu-foto-video/article.php?article_id=3767573",
+				"feature_value": " 0",
+				"cluster_win_mean": "20.97",
+				"delta": "20.97"
+			},
+			{
+				"html_id": "http://www.precos.lv/raksti/kazu-planosana/article.php?article_id=3767573",
+				"feature_value": "16",
+				"cluster_win_mean": "82.06",
+				"delta": "66.06"
+			},
+			{
+				"html_id": "http://silose.com/casarse-isla-griega/",
+				"feature_value": "14",
+				"cluster_win_mean": "82.06",
+				"delta": "68.06"
+			},
+			{
+				"html_id": "http://www.gaytraveladvice.com/2012/12/",
+				"feature_value": " 0",
+				"cluster_win_mean": "20.97",
+				"delta": "20.97"
+			},
+			{
+				"html_id": "http://www.socialregister.co.uk/paul-bay/",
+				"feature_value": " 0",
+				"cluster_win_mean": "20.97",
+				"delta": "20.97"
+			},
+			{
+				"html_id": "http://www.travelpr.co.uk/2012/08/30/i-would-do-the-merits-of-getting-married-abroad/",
+				"feature_value": " 0",
+				"cluster_win_mean": "20.97",
+				"delta": "20.97"
+			},
+			{
+				"html_id": "http://www.piccolo.gr/travel-destinations/?q=famous%20islands%20Greece%20Travel%20Guide%20to%20the%20Ionian%20Islands%09%09%09",
+				"feature_value": " 0",
+				"cluster_win_mean": "20.97",
+				"delta": "20.97"
+			},
+			{
+				"html_id": "http://www.gaytraveladvice.com/blog/gay-marriage-gay-lesbian-wedding-europe/",
+				"feature_value": " 0",
+				"cluster_win_mean": "20.97",
+				"delta": "20.97"
+			},
+			{
+				"html_id": "http://www.gaytraveladvice.com/author/vladi/page/7/",
+				"feature_value": " 0",
+				"cluster_win_mean": "20.97",
+				"delta": "20.97"
+			},
+			{
+				"html_id": "http://www.gaytraveladvice.com/category/blog/page/5/",
+				"feature_value": " 0",
+				"cluster_win_mean": "20.97",
+				"delta": "20.97"
+			},
+			{
+				"html_id": "http://www.gaytraveladvice.com/category/europe/page/4/",
+				"feature_value": " 0",
+				"cluster_win_mean": "20.97",
+				"delta": "20.97"
+			},
+			{
+				"html_id": "http://www.piccolo.gr/travel-destinations/?q=ionian%20islands%20New%20Orleans%09%09%09%09",
+				"feature_value": " 0",
+				"cluster_win_mean": "82.06",
+				"delta": "82.06"
+			},
+			{
+				"html_id": "http://www.piccolo.gr/travel-destinations/?q=special%20Ionian%09",
+				"feature_value": " 0",
+				"cluster_win_mean": "82.06",
+				"delta": "82.06"
+			},
+			{
+				"html_id": "http://www.piccolo.gr/travel-destinations/?q=special%20Ionian%09%09%09%09%09",
+				"feature_value": " 0",
+				"cluster_win_mean": "82.06",
+				"delta": "82.06"
+			},
+			{
+				"html_id": "http://answerseveryday.com/what-is-astral-weeks/",
+				"feature_value": " 0",
+				"cluster_win_mean": "82.06",
+				"delta": "82.06"
+			},
+			{
+				"html_id": "http://www.masterseek.gr/mediterranean",
+				"feature_value": " 0",
+				"cluster_win_mean": "20.97",
+				"delta": "20.97"
+			},
+			{
+				"html_id": "http://www.masterseek.gr/ionian",
+				"feature_value": " 0",
+				"cluster_win_mean": "20.97",
+				"delta": "20.97"
+			}
+		],
+		"average_length_of_h1": [
+			{
+				"html_id": "http://forum.virtualtourist.com/Kos-422450-5-3431272/Getting-married-in-kos.html",
+				"feature_value": " 0",
+				"cluster_win_mean": "19.34",
+				"delta": "19.34"
+			},
+			{
+				"html_id": "http://s400131752.initial-website.co.uk/about-the-awards/how-to-win-an-award/website-promotion-by-holiday-company-sector/",
+				"feature_value": "21",
+				"cluster_win_mean": "50.82",
+				"delta": "29.82"
+			},
+			{
+				"html_id": "http://www.precos.lv/raksti/kazu-foto-video/article.php?article_id=3767573",
+				"feature_value": " 0",
+				"cluster_win_mean": "19.34",
+				"delta": "19.34"
+			},
+			{
+				"html_id": "http://www.precos.lv/raksti/kazu-planosana/article.php?article_id=3767573",
+				"feature_value": "16",
+				"cluster_win_mean": "50.82",
+				"delta": "34.82"
+			},
+			{
+				"html_id": "http://silose.com/casarse-isla-griega/",
+				"feature_value": "14",
+				"cluster_win_mean": "50.82",
+				"delta": "36.82"
+			},
+			{
+				"html_id": "http://www.gaytraveladvice.com/2012/12/",
+				"feature_value": " 0",
+				"cluster_win_mean": "19.34",
+				"delta": "19.34"
+			},
+			{
+				"html_id": "http://www.socialregister.co.uk/paul-bay/",
+				"feature_value": " 0",
+				"cluster_win_mean": "19.34",
+				"delta": "19.34"
+			},
+			{
+				"html_id": "http://www.travelpr.co.uk/2012/08/30/i-would-do-the-merits-of-getting-married-abroad/",
+				"feature_value": " 0",
+				"cluster_win_mean": "19.34",
+				"delta": "19.34"
+			},
+			{
+				"html_id": "http://www.piccolo.gr/travel-destinations/?q=famous%20islands%20Greece%20Travel%20Guide%20to%20the%20Ionian%20Islands%09%09%09",
+				"feature_value": " 0",
+				"cluster_win_mean": "19.34",
+				"delta": "19.34"
+			},
+			{
+				"html_id": "http://www.gaytraveladvice.com/blog/gay-marriage-gay-lesbian-wedding-europe/",
+				"feature_value": " 0",
+				"cluster_win_mean": "19.34",
+				"delta": "19.34"
+			},
+			{
+				"html_id": "http://www.gaytraveladvice.com/author/vladi/page/7/",
+				"feature_value": " 0",
+				"cluster_win_mean": "19.34",
+				"delta": "19.34"
+			},
+			{
+				"html_id": "http://www.gaytraveladvice.com/category/blog/page/5/",
+				"feature_value": " 0",
+				"cluster_win_mean": "19.34",
+				"delta": "19.34"
+			},
+			{
+				"html_id": "http://www.gaytraveladvice.com/category/europe/page/4/",
+				"feature_value": " 0",
+				"cluster_win_mean": "19.34",
+				"delta": "19.34"
+			},
+			{
+				"html_id": "http://www.masterseek.gr/mediterranean",
+				"feature_value": " 0",
+				"cluster_win_mean": "19.34",
+				"delta": "19.34"
+			},
+			{
+				"html_id": "http://www.masterseek.gr/ionian",
+				"feature_value": " 0",
+				"cluster_win_mean": "19.34",
+				"delta": "19.34"
+			}
+		],
+		"number_of_duplicate_words": [
+			{
+				"html_id": "http://s400131752.initial-website.co.uk/about-the-awards/how-to-win-an-award/website-promotion-by-holiday-company-sector/",
+				"feature_value": " 70",
+				"cluster_win_mean": " 97.66",
+				"delta": " 27.66"
+			},
+			{
+				"html_id": "http://www.clsdirect.org.uk/en/legalaid/personalinjury/limitedcompany/deedpoll/index.jsp",
+				"feature_value": " 88",
+				"cluster_win_mean": " 97.66",
+				"delta": "  9.66"
+			},
+			{
+				"html_id": "http://www.searchers.co.uk/web/?query=weddings+in+cyprus",
+				"feature_value": "210",
+				"cluster_win_mean": "200.91",
+				"delta": " -9.09"
+			},
+			{
+				"html_id": "http://www.precos.lv/raksti/kazu-foto-video/article.php?article_id=3767573",
+				"feature_value": " 32",
+				"cluster_win_mean": "200.91",
+				"delta": "168.91"
+			},
+			{
+				"html_id": "http://www.pink-world.co.uk/2008/06/30/meet-penelope-bat/",
+				"feature_value": " 46",
+				"cluster_win_mean": "200.91",
+				"delta": "154.91"
+			},
+			{
+				"html_id": "http://www.gaytraveladvice.com/2012/12/",
+				"feature_value": " 58",
+				"cluster_win_mean": "200.91",
+				"delta": "142.91"
+			},
+			{
+				"html_id": "http://www.socialregister.co.uk/paul-bay/",
+				"feature_value": "103",
+				"cluster_win_mean": "200.91",
+				"delta": " 97.91"
+			},
+			{
+				"html_id": "http://www.piccolo.gr/travel-destinations/?q=famous%20islands%20Greece%20Travel%20Guide%20to%20the%20Ionian%20Islands%09%09%09",
+				"feature_value": " 26",
+				"cluster_win_mean": "200.91",
+				"delta": "174.91"
+			},
+			{
+				"html_id": "http://www.gaytraveladvice.com/category/europe/page/4/",
+				"feature_value": " 26",
+				"cluster_win_mean": "200.91",
+				"delta": "174.91"
+			},
+			{
+				"html_id": "http://www.masterseek.gr/mediterranean",
+				"feature_value": "  7",
+				"cluster_win_mean": "200.91",
+				"delta": "193.91"
+			},
+			{
+				"html_id": "http://www.masterseek.gr/ionian",
+				"feature_value": "  7",
+				"cluster_win_mean": "200.91",
+				"delta": "193.91"
+			}
+		],
+		"number_of_hyperlinks_with_file": [
+			{
+				"html_id": "http://forum.virtualtourist.com/Kos-422450-5-3431272/Getting-married-in-kos.html",
+				"feature_value": " 59",
+				"cluster_win_mean": "8.33",
+				"delta": " -50.67"
+			},
+			{
+				"html_id": "http://s400131752.initial-website.co.uk/about-the-awards/how-to-win-an-award/website-promotion-by-holiday-company-sector/",
+				"feature_value": " 20",
+				"cluster_win_mean": "6.24",
+				"delta": " -13.76"
+			},
+			{
+				"html_id": "http://www.clsdirect.org.uk/en/legalaid/personalinjury/limitedcompany/deedpoll/index.jsp",
+				"feature_value": " 67",
+				"cluster_win_mean": "6.24",
+				"delta": " -60.76"
+			},
+			{
+				"html_id": "http://www.searchers.co.uk/web/?query=weddings+in+cyprus",
+				"feature_value": " 25",
+				"cluster_win_mean": "8.33",
+				"delta": " -16.67"
+			},
+			{
+				"html_id": "http://www.precos.lv/raksti/kazu-foto-video/article.php?article_id=3767573",
+				"feature_value": " 30",
+				"cluster_win_mean": "8.33",
+				"delta": " -21.67"
+			},
+			{
+				"html_id": "http://www.precos.lv/raksti/kazu-planosana/article.php?article_id=3767573",
+				"feature_value": " 71",
+				"cluster_win_mean": "6.24",
+				"delta": " -64.76"
+			},
+			{
+				"html_id": "http://silose.com/casarse-isla-griega/",
+				"feature_value": " 70",
+				"cluster_win_mean": "6.24",
+				"delta": " -63.76"
+			},
+			{
+				"html_id": "http://www.pink-world.co.uk/2008/06/30/meet-penelope-bat/",
+				"feature_value": " 16",
+				"cluster_win_mean": "8.33",
+				"delta": "  -7.67"
+			},
+			{
+				"html_id": "http://www.gaytraveladvice.com/2012/12/",
+				"feature_value": " 23",
+				"cluster_win_mean": "8.33",
+				"delta": " -14.67"
+			},
+			{
+				"html_id": "http://www.travelpr.co.uk/2011/10/21/ionian-weddings-wins-local-business-award/",
+				"feature_value": "  1",
+				"cluster_win_mean": "8.83",
+				"delta": "   7.83"
+			},
+			{
+				"html_id": "http://www.travelpr.co.uk/2012/08/30/i-would-do-the-merits-of-getting-married-abroad/",
+				"feature_value": " 27",
+				"cluster_win_mean": "8.33",
+				"delta": " -18.67"
+			},
+			{
+				"html_id": "http://www.gaytraveladvice.com/blog/gay-marriage-gay-lesbian-wedding-europe/",
+				"feature_value": " 30",
+				"cluster_win_mean": "8.33",
+				"delta": " -21.67"
+			},
+			{
+				"html_id": "http://www.gaytraveladvice.com/author/vladi/page/7/",
+				"feature_value": " 28",
+				"cluster_win_mean": "8.33",
+				"delta": " -19.67"
+			},
+			{
+				"html_id": "http://www.gaytraveladvice.com/category/blog/page/5/",
+				"feature_value": " 31",
+				"cluster_win_mean": "8.33",
+				"delta": " -22.67"
+			},
+			{
+				"html_id": "http://www.gaytraveladvice.com/category/europe/page/4/",
+				"feature_value": "329",
+				"cluster_win_mean": "8.33",
+				"delta": "-320.67"
+			},
+			{
+				"html_id": "http://www.piccolo.gr/travel-destinations/?q=ionian%20islands%20New%20Orleans%09%09%09%09",
+				"feature_value": "126",
+				"cluster_win_mean": "6.24",
+				"delta": "-119.76"
+			},
+			{
+				"html_id": "http://www.piccolo.gr/travel-destinations/?q=special%20Ionian%09",
+				"feature_value": " 90",
+				"cluster_win_mean": "6.24",
+				"delta": " -83.76"
+			},
+			{
+				"html_id": "http://www.piccolo.gr/travel-destinations/?q=special%20Ionian%09%09%09%09%09",
+				"feature_value": " 72",
+				"cluster_win_mean": "6.24",
+				"delta": " -65.76"
+			},
+			{
+				"html_id": "http://answerseveryday.com/what-is-astral-weeks/",
+				"feature_value": " 73",
+				"cluster_win_mean": "6.24",
+				"delta": " -66.76"
+			},
+			{
+				"html_id": "http://www.masterseek.gr/mediterranean",
+				"feature_value": "102",
+				"cluster_win_mean": "8.33",
+				"delta": " -93.67"
+			},
+			{
+				"html_id": "http://www.masterseek.gr/ionian",
+				"feature_value": " 95",
+				"cluster_win_mean": "8.33",
+				"delta": " -86.67"
+			}
+		],
+		"number_of_rare_words": [
+			{
+				"html_id": "http://forum.virtualtourist.com/Kos-422450-5-3431272/Getting-married-in-kos.html",
+				"feature_value": " 2",
+				"cluster_win_mean": "93.24",
+				"delta": "91.24"
+			},
+			{
+				"html_id": "http://s400131752.initial-website.co.uk/about-the-awards/how-to-win-an-award/website-promotion-by-holiday-company-sector/",
+				"feature_value": "26",
+				"cluster_win_mean": "39.86",
+				"delta": "13.86"
+			},
+			{
+				"html_id": "http://www.clsdirect.org.uk/en/legalaid/personalinjury/limitedcompany/deedpoll/index.jsp",
+				"feature_value": "31",
+				"cluster_win_mean": "39.86",
+				"delta": " 8.86"
+			},
+			{
+				"html_id": "http://www.searchers.co.uk/web/?query=weddings+in+cyprus",
+				"feature_value": "38",
+				"cluster_win_mean": "93.24",
+				"delta": "55.24"
+			},
+			{
+				"html_id": "http://www.precos.lv/raksti/kazu-foto-video/article.php?article_id=3767573",
+				"feature_value": "16",
+				"cluster_win_mean": "93.24",
+				"delta": "77.24"
+			},
+			{
+				"html_id": "http://www.gaytraveladvice.com/2012/12/",
+				"feature_value": "17",
+				"cluster_win_mean": "93.24",
+				"delta": "76.24"
+			},
+			{
+				"html_id": "http://www.travelpr.co.uk/2011/10/21/ionian-weddings-wins-local-business-award/",
+				"feature_value": " 3",
+				"cluster_win_mean": "12.98",
+				"delta": " 9.98"
+			},
+			{
+				"html_id": "http://www.socialregister.co.uk/paul-bay/",
+				"feature_value": "43",
+				"cluster_win_mean": "93.24",
+				"delta": "50.24"
+			},
+			{
+				"html_id": "http://www.travelpr.co.uk/2012/08/30/i-would-do-the-merits-of-getting-married-abroad/",
+				"feature_value": " 1",
+				"cluster_win_mean": "93.24",
+				"delta": "92.24"
+			},
+			{
+				"html_id": "http://www.piccolo.gr/travel-destinations/?q=famous%20islands%20Greece%20Travel%20Guide%20to%20the%20Ionian%20Islands%09%09%09",
+				"feature_value": "15",
+				"cluster_win_mean": "93.24",
+				"delta": "78.24"
+			},
+			{
+				"html_id": "http://www.gaytraveladvice.com/blog/gay-marriage-gay-lesbian-wedding-europe/",
+				"feature_value": " 0",
+				"cluster_win_mean": "93.24",
+				"delta": "93.24"
+			},
+			{
+				"html_id": "http://www.gaytraveladvice.com/author/vladi/page/7/",
+				"feature_value": " 1",
+				"cluster_win_mean": "93.24",
+				"delta": "92.24"
+			},
+			{
+				"html_id": "http://www.gaytraveladvice.com/category/blog/page/5/",
+				"feature_value": " 1",
+				"cluster_win_mean": "93.24",
+				"delta": "92.24"
+			},
+			{
+				"html_id": "http://www.gaytraveladvice.com/category/europe/page/4/",
+				"feature_value": "22",
+				"cluster_win_mean": "93.24",
+				"delta": "71.24"
+			},
+			{
+				"html_id": "http://www.masterseek.gr/mediterranean",
+				"feature_value": " 8",
+				"cluster_win_mean": "93.24",
+				"delta": "85.24"
+			},
+			{
+				"html_id": "http://www.masterseek.gr/ionian",
+				"feature_value": " 8",
+				"cluster_win_mean": "93.24",
+				"delta": "85.24"
+			}
+		],
+		"total_number_of_5k_common_words": [
+			{
+				"html_id": "http://www.searchers.co.uk/web/?query=weddings+in+cyprus",
+				"feature_value": "196",
+				"cluster_win_mean": "281.97",
+				"delta": " 85.97"
+			},
+			{
+				"html_id": "http://www.precos.lv/raksti/kazu-foto-video/article.php?article_id=3767573",
+				"feature_value": " 71",
+				"cluster_win_mean": "281.97",
+				"delta": "210.97"
+			},
+			{
+				"html_id": "http://www.precos.lv/raksti/kazu-planosana/article.php?article_id=3767573",
+				"feature_value": " 34",
+				"cluster_win_mean": "132.73",
+				"delta": " 98.73"
+			},
+			{
+				"html_id": "http://silose.com/casarse-isla-griega/",
+				"feature_value": " 33",
+				"cluster_win_mean": "132.73",
+				"delta": " 99.73"
+			},
+			{
+				"html_id": "http://www.pink-world.co.uk/2008/06/30/meet-penelope-bat/",
+				"feature_value": "  9",
+				"cluster_win_mean": "281.97",
+				"delta": "272.97"
+			},
+			{
+				"html_id": "http://www.gaytraveladvice.com/2012/12/",
+				"feature_value": "130",
+				"cluster_win_mean": "281.97",
+				"delta": "151.97"
+			},
+			{
+				"html_id": "http://www.travelpr.co.uk/2011/10/21/ionian-weddings-wins-local-business-award/",
+				"feature_value": "  7",
+				"cluster_win_mean": " 37.66",
+				"delta": " 30.66"
+			},
+			{
+				"html_id": "http://www.socialregister.co.uk/paul-bay/",
+				"feature_value": "204",
+				"cluster_win_mean": "281.97",
+				"delta": " 77.97"
+			},
+			{
+				"html_id": "http://www.piccolo.gr/travel-destinations/?q=famous%20islands%20Greece%20Travel%20Guide%20to%20the%20Ionian%20Islands%09%09%09",
+				"feature_value": " 27",
+				"cluster_win_mean": "281.97",
+				"delta": "254.97"
+			},
+			{
+				"html_id": "http://www.gaytraveladvice.com/category/europe/page/4/",
+				"feature_value": " 42",
+				"cluster_win_mean": "281.97",
+				"delta": "239.97"
+			},
+			{
+				"html_id": "http://www.masterseek.gr/mediterranean",
+				"feature_value": " 11",
+				"cluster_win_mean": "281.97",
+				"delta": "270.97"
+			},
+			{
+				"html_id": "http://www.masterseek.gr/ionian",
+				"feature_value": " 11",
+				"cluster_win_mean": "281.97",
+				"delta": "270.97"
+			}
+		],
+		"number_of_titles_same_as_h1": [
+			{
+				"html_id": "http://forum.virtualtourist.com/Kos-422450-5-3431272/Getting-married-in-kos.html",
+				"feature_value": "0",
+				"cluster_win_mean": " 1.1",
+				"delta": " 1.1"
+			},
+			{
+				"html_id": "http://s400131752.initial-website.co.uk/about-the-awards/how-to-win-an-award/website-promotion-by-holiday-company-sector/",
+				"feature_value": "0",
+				"cluster_win_mean": "1.06",
+				"delta": "1.06"
+			},
+			{
+				"html_id": "http://www.clsdirect.org.uk/en/legalaid/personalinjury/limitedcompany/deedpoll/index.jsp",
+				"feature_value": "0",
+				"cluster_win_mean": "1.06",
+				"delta": "1.06"
+			},
+			{
+				"html_id": "http://www.searchers.co.uk/web/?query=weddings+in+cyprus",
+				"feature_value": "0",
+				"cluster_win_mean": " 1.1",
+				"delta": " 1.1"
+			},
+			{
+				"html_id": "http://www.precos.lv/raksti/kazu-foto-video/article.php?article_id=3767573",
+				"feature_value": "0",
+				"cluster_win_mean": " 1.1",
+				"delta": " 1.1"
+			},
+			{
+				"html_id": "http://www.precos.lv/raksti/kazu-planosana/article.php?article_id=3767573",
+				"feature_value": "0",
+				"cluster_win_mean": "1.06",
+				"delta": "1.06"
+			},
+			{
+				"html_id": "http://silose.com/casarse-isla-griega/",
+				"feature_value": "0",
+				"cluster_win_mean": "1.06",
+				"delta": "1.06"
+			},
+			{
+				"html_id": "http://www.pink-world.co.uk/2008/06/30/meet-penelope-bat/",
+				"feature_value": "0",
+				"cluster_win_mean": " 1.1",
+				"delta": " 1.1"
+			},
+			{
+				"html_id": "http://www.gaytraveladvice.com/2012/12/",
+				"feature_value": "0",
+				"cluster_win_mean": " 1.1",
+				"delta": " 1.1"
+			},
+			{
+				"html_id": "http://www.travelpr.co.uk/2011/10/21/ionian-weddings-wins-local-business-award/",
+				"feature_value": "0",
+				"cluster_win_mean": "   1",
+				"delta": "   1"
+			},
+			{
+				"html_id": "http://www.socialregister.co.uk/paul-bay/",
+				"feature_value": "0",
+				"cluster_win_mean": " 1.1",
+				"delta": " 1.1"
+			},
+			{
+				"html_id": "http://www.travelpr.co.uk/2012/08/30/i-would-do-the-merits-of-getting-married-abroad/",
+				"feature_value": "0",
+				"cluster_win_mean": " 1.1",
+				"delta": " 1.1"
+			},
+			{
+				"html_id": "http://www.piccolo.gr/travel-destinations/?q=famous%20islands%20Greece%20Travel%20Guide%20to%20the%20Ionian%20Islands%09%09%09",
+				"feature_value": "0",
+				"cluster_win_mean": " 1.1",
+				"delta": " 1.1"
+			},
+			{
+				"html_id": "http://www.gaytraveladvice.com/blog/gay-marriage-gay-lesbian-wedding-europe/",
+				"feature_value": "0",
+				"cluster_win_mean": " 1.1",
+				"delta": " 1.1"
+			},
+			{
+				"html_id": "http://www.gaytraveladvice.com/author/vladi/page/7/",
+				"feature_value": "0",
+				"cluster_win_mean": " 1.1",
+				"delta": " 1.1"
+			},
+			{
+				"html_id": "http://www.gaytraveladvice.com/category/blog/page/5/",
+				"feature_value": "0",
+				"cluster_win_mean": " 1.1",
+				"delta": " 1.1"
+			},
+			{
+				"html_id": "http://www.gaytraveladvice.com/category/europe/page/4/",
+				"feature_value": "0",
+				"cluster_win_mean": " 1.1",
+				"delta": " 1.1"
+			},
+			{
+				"html_id": "http://www.piccolo.gr/travel-destinations/?q=ionian%20islands%20New%20Orleans%09%09%09%09",
+				"feature_value": "0",
+				"cluster_win_mean": "1.06",
+				"delta": "1.06"
+			},
+			{
+				"html_id": "http://www.piccolo.gr/travel-destinations/?q=special%20Ionian%09",
+				"feature_value": "0",
+				"cluster_win_mean": "1.06",
+				"delta": "1.06"
+			},
+			{
+				"html_id": "http://www.piccolo.gr/travel-destinations/?q=special%20Ionian%09%09%09%09%09",
+				"feature_value": "0",
+				"cluster_win_mean": "1.06",
+				"delta": "1.06"
+			},
+			{
+				"html_id": "http://answerseveryday.com/what-is-astral-weeks/",
+				"feature_value": "0",
+				"cluster_win_mean": "1.06",
+				"delta": "1.06"
+			},
+			{
+				"html_id": "http://www.masterseek.gr/mediterranean",
+				"feature_value": "0",
+				"cluster_win_mean": " 1.1",
+				"delta": " 1.1"
+			},
+			{
+				"html_id": "http://www.masterseek.gr/ionian",
+				"feature_value": "0",
+				"cluster_win_mean": " 1.1",
+				"delta": " 1.1"
+			}
+		],
+		"number_of_iframes": [
+			{
+				"html_id": "http://forum.virtualtourist.com/Kos-422450-5-3431272/Getting-married-in-kos.html",
+				"feature_value": "0",
+				"cluster_win_mean": "1.02",
+				"delta": "1.02"
+			},
+			{
+				"html_id": "http://www.searchers.co.uk/web/?query=weddings+in+cyprus",
+				"feature_value": "0",
+				"cluster_win_mean": "1.02",
+				"delta": "1.02"
+			},
+			{
+				"html_id": "http://www.precos.lv/raksti/kazu-foto-video/article.php?article_id=3767573",
+				"feature_value": "0",
+				"cluster_win_mean": "1.02",
+				"delta": "1.02"
+			},
+			{
+				"html_id": "http://www.pink-world.co.uk/2008/06/30/meet-penelope-bat/",
+				"feature_value": "0",
+				"cluster_win_mean": "1.02",
+				"delta": "1.02"
+			},
+			{
+				"html_id": "http://www.gaytraveladvice.com/2012/12/",
+				"feature_value": "0",
+				"cluster_win_mean": "1.02",
+				"delta": "1.02"
+			},
+			{
+				"html_id": "http://www.socialregister.co.uk/paul-bay/",
+				"feature_value": "0",
+				"cluster_win_mean": "1.02",
+				"delta": "1.02"
+			},
+			{
+				"html_id": "http://www.travelpr.co.uk/2012/08/30/i-would-do-the-merits-of-getting-married-abroad/",
+				"feature_value": "0",
+				"cluster_win_mean": "1.02",
+				"delta": "1.02"
+			},
+			{
+				"html_id": "http://www.piccolo.gr/travel-destinations/?q=famous%20islands%20Greece%20Travel%20Guide%20to%20the%20Ionian%20Islands%09%09%09",
+				"feature_value": "0",
+				"cluster_win_mean": "1.02",
+				"delta": "1.02"
+			},
+			{
+				"html_id": "http://www.gaytraveladvice.com/blog/gay-marriage-gay-lesbian-wedding-europe/",
+				"feature_value": "0",
+				"cluster_win_mean": "1.02",
+				"delta": "1.02"
+			},
+			{
+				"html_id": "http://www.gaytraveladvice.com/author/vladi/page/7/",
+				"feature_value": "0",
+				"cluster_win_mean": "1.02",
+				"delta": "1.02"
+			},
+			{
+				"html_id": "http://www.gaytraveladvice.com/category/blog/page/5/",
+				"feature_value": "0",
+				"cluster_win_mean": "1.02",
+				"delta": "1.02"
+			},
+			{
+				"html_id": "http://www.gaytraveladvice.com/category/europe/page/4/",
+				"feature_value": "0",
+				"cluster_win_mean": "1.02",
+				"delta": "1.02"
+			},
+			{
+				"html_id": "http://www.masterseek.gr/mediterranean",
+				"feature_value": "0",
+				"cluster_win_mean": "1.02",
+				"delta": "1.02"
+			},
+			{
+				"html_id": "http://www.masterseek.gr/ionian",
+				"feature_value": "0",
+				"cluster_win_mean": "1.02",
+				"delta": "1.02"
 			}
 		],
 		"html5_detected": [
@@ -520,660 +1624,6 @@
 				"feature_value": "0",
 				"cluster_win_mean": "1",
 				"delta": "1"
-			}
-		],
-		"maximum_length_of_h1": [
-			{
-				"html_id": "http://s400131752.initial-website.co.uk/about-the-awards/how-to-win-an-award/website-promotion-by-holiday-company-sector/",
-				"feature_value": "21",
-				"cluster_win_mean": " 70.6",
-				"delta": " 49.6"
-			},
-			{
-				"html_id": "http://www.clsdirect.org.uk/en/legalaid/personalinjury/limitedcompany/deedpoll/index.jsp",
-				"feature_value": " 0",
-				"cluster_win_mean": " 70.6",
-				"delta": " 70.6"
-			},
-			{
-				"html_id": "http://www.searchers.co.uk/web/?query=weddings+in+cyprus",
-				"feature_value": "21",
-				"cluster_win_mean": " 70.6",
-				"delta": " 49.6"
-			},
-			{
-				"html_id": "http://www.precos.lv/raksti/kazu-foto-video/article.php?article_id=3767573",
-				"feature_value": " 0",
-				"cluster_win_mean": " 70.6",
-				"delta": " 70.6"
-			},
-			{
-				"html_id": "http://www.precos.lv/raksti/kazu-planosana/article.php?article_id=3767573",
-				"feature_value": "16",
-				"cluster_win_mean": "92.38",
-				"delta": "76.38"
-			},
-			{
-				"html_id": "http://silose.com/casarse-isla-griega/",
-				"feature_value": "14",
-				"cluster_win_mean": "92.38",
-				"delta": "78.38"
-			},
-			{
-				"html_id": "http://www.pink-world.co.uk/2008/06/30/meet-penelope-bat/",
-				"feature_value": "26",
-				"cluster_win_mean": " 70.6",
-				"delta": " 44.6"
-			},
-			{
-				"html_id": "http://www.gaytraveladvice.com/2012/12/",
-				"feature_value": " 0",
-				"cluster_win_mean": " 70.6",
-				"delta": " 70.6"
-			},
-			{
-				"html_id": "http://www.socialregister.co.uk/paul-bay/",
-				"feature_value": " 0",
-				"cluster_win_mean": " 70.6",
-				"delta": " 70.6"
-			},
-			{
-				"html_id": "http://www.gaytraveladvice.com/category/europe/page/4/",
-				"feature_value": " 0",
-				"cluster_win_mean": " 70.6",
-				"delta": " 70.6"
-			},
-			{
-				"html_id": "http://www.piccolo.gr/travel-destinations/?q=ionian%20islands%20New%20Orleans%09%09%09%09",
-				"feature_value": " 0",
-				"cluster_win_mean": " 70.6",
-				"delta": " 70.6"
-			},
-			{
-				"html_id": "http://www.piccolo.gr/travel-destinations/?q=special%20Ionian%09",
-				"feature_value": " 0",
-				"cluster_win_mean": " 70.6",
-				"delta": " 70.6"
-			},
-			{
-				"html_id": "http://www.piccolo.gr/travel-destinations/?q=special%20Ionian%09%09%09%09%09",
-				"feature_value": " 0",
-				"cluster_win_mean": " 70.6",
-				"delta": " 70.6"
-			},
-			{
-				"html_id": "http://answerseveryday.com/what-is-astral-weeks/",
-				"feature_value": " 0",
-				"cluster_win_mean": " 70.6",
-				"delta": " 70.6"
-			}
-		],
-		"ratio_of_rare_words_to_total": [
-			{
-				"html_id": "http://www.gaytraveladvice.com/blog/gay-marriage-gay-lesbian-wedding-europe/",
-				"feature_value": "  0",
-				"cluster_win_mean": "0.23",
-				"delta": "0.23"
-			},
-			{
-				"html_id": "http://www.gaytraveladvice.com/author/vladi/page/7/",
-				"feature_value": "0.2",
-				"cluster_win_mean": "0.23",
-				"delta": "0.03"
-			},
-			{
-				"html_id": "http://www.gaytraveladvice.com/category/blog/page/5/",
-				"feature_value": "0.2",
-				"cluster_win_mean": "0.23",
-				"delta": "0.03"
-			}
-		],
-		"average_length_of_h1": [
-			{
-				"html_id": "http://s400131752.initial-website.co.uk/about-the-awards/how-to-win-an-award/website-promotion-by-holiday-company-sector/",
-				"feature_value": "21",
-				"cluster_win_mean": "45.52",
-				"delta": "24.52"
-			},
-			{
-				"html_id": "http://www.searchers.co.uk/web/?query=weddings+in+cyprus",
-				"feature_value": "21",
-				"cluster_win_mean": "45.52",
-				"delta": "24.52"
-			},
-			{
-				"html_id": "http://www.precos.lv/raksti/kazu-planosana/article.php?article_id=3767573",
-				"feature_value": "16",
-				"cluster_win_mean": "46.69",
-				"delta": "30.69"
-			},
-			{
-				"html_id": "http://silose.com/casarse-isla-griega/",
-				"feature_value": "14",
-				"cluster_win_mean": "46.69",
-				"delta": "32.69"
-			},
-			{
-				"html_id": "http://www.pink-world.co.uk/2008/06/30/meet-penelope-bat/",
-				"feature_value": "26",
-				"cluster_win_mean": "45.52",
-				"delta": "19.52"
-			}
-		],
-		"number_of_embedded_styles": [
-			{
-				"html_id": "http://s400131752.initial-website.co.uk/about-the-awards/how-to-win-an-award/website-promotion-by-holiday-company-sector/",
-				"feature_value": "2",
-				"cluster_win_mean": "2.9",
-				"delta": "0.9"
-			},
-			{
-				"html_id": "http://www.clsdirect.org.uk/en/legalaid/personalinjury/limitedcompany/deedpoll/index.jsp",
-				"feature_value": "0",
-				"cluster_win_mean": "2.9",
-				"delta": "2.9"
-			},
-			{
-				"html_id": "http://www.searchers.co.uk/web/?query=weddings+in+cyprus",
-				"feature_value": "1",
-				"cluster_win_mean": "2.9",
-				"delta": "1.9"
-			},
-			{
-				"html_id": "http://www.precos.lv/raksti/kazu-foto-video/article.php?article_id=3767573",
-				"feature_value": "0",
-				"cluster_win_mean": "2.9",
-				"delta": "2.9"
-			},
-			{
-				"html_id": "http://www.pink-world.co.uk/2008/06/30/meet-penelope-bat/",
-				"feature_value": "1",
-				"cluster_win_mean": "2.9",
-				"delta": "1.9"
-			},
-			{
-				"html_id": "http://www.gaytraveladvice.com/2012/12/",
-				"feature_value": "0",
-				"cluster_win_mean": "2.9",
-				"delta": "2.9"
-			},
-			{
-				"html_id": "http://www.gaytraveladvice.com/category/europe/page/4/",
-				"feature_value": "0",
-				"cluster_win_mean": "2.9",
-				"delta": "2.9"
-			},
-			{
-				"html_id": "http://www.piccolo.gr/travel-destinations/?q=ionian%20islands%20New%20Orleans%09%09%09%09",
-				"feature_value": "2",
-				"cluster_win_mean": "2.9",
-				"delta": "0.9"
-			},
-			{
-				"html_id": "http://www.piccolo.gr/travel-destinations/?q=special%20Ionian%09",
-				"feature_value": "2",
-				"cluster_win_mean": "2.9",
-				"delta": "0.9"
-			},
-			{
-				"html_id": "http://www.piccolo.gr/travel-destinations/?q=special%20Ionian%09%09%09%09%09",
-				"feature_value": "2",
-				"cluster_win_mean": "2.9",
-				"delta": "0.9"
-			},
-			{
-				"html_id": "http://answerseveryday.com/what-is-astral-weeks/",
-				"feature_value": "2",
-				"cluster_win_mean": "2.9",
-				"delta": "0.9"
-			}
-		],
-		"number_of_iframes": [
-			{
-				"html_id": "http://www.precos.lv/raksti/kazu-planosana/article.php?article_id=3767573",
-				"feature_value": "2",
-				"cluster_win_mean": "1",
-				"delta": "-1"
-			},
-			{
-				"html_id": "http://silose.com/casarse-isla-griega/",
-				"feature_value": "2",
-				"cluster_win_mean": "1",
-				"delta": "-1"
-			}
-		],
-		"number_of_external_css_styles": [
-			{
-				"html_id": "http://www.precos.lv/raksti/kazu-planosana/article.php?article_id=3767573",
-				"feature_value": "3",
-				"cluster_win_mean": "7.49",
-				"delta": "4.49"
-			},
-			{
-				"html_id": "http://silose.com/casarse-isla-griega/",
-				"feature_value": "3",
-				"cluster_win_mean": "7.49",
-				"delta": "4.49"
-			}
-		],
-		"maximum_length_of_h2": [
-			{
-				"html_id": "http://forum.virtualtourist.com/Kos-422450-5-3431272/Getting-married-in-kos.html",
-				"feature_value": " 0",
-				"cluster_win_mean": "52.07",
-				"delta": "52.07"
-			},
-			{
-				"html_id": "http://s400131752.initial-website.co.uk/about-the-awards/how-to-win-an-award/website-promotion-by-holiday-company-sector/",
-				"feature_value": "20",
-				"cluster_win_mean": "71.79",
-				"delta": "51.79"
-			},
-			{
-				"html_id": "http://www.clsdirect.org.uk/en/legalaid/personalinjury/limitedcompany/deedpoll/index.jsp",
-				"feature_value": " 0",
-				"cluster_win_mean": "71.79",
-				"delta": "71.79"
-			},
-			{
-				"html_id": "http://www.searchers.co.uk/web/?query=weddings+in+cyprus",
-				"feature_value": "43",
-				"cluster_win_mean": "71.79",
-				"delta": "28.79"
-			},
-			{
-				"html_id": "http://www.precos.lv/raksti/kazu-foto-video/article.php?article_id=3767573",
-				"feature_value": "36",
-				"cluster_win_mean": "71.79",
-				"delta": "35.79"
-			},
-			{
-				"html_id": "http://www.precos.lv/raksti/kazu-planosana/article.php?article_id=3767573",
-				"feature_value": "35",
-				"cluster_win_mean": "43.68",
-				"delta": " 8.68"
-			},
-			{
-				"html_id": "http://silose.com/casarse-isla-griega/",
-				"feature_value": "35",
-				"cluster_win_mean": "43.68",
-				"delta": " 8.68"
-			},
-			{
-				"html_id": "http://www.pink-world.co.uk/2008/06/30/meet-penelope-bat/",
-				"feature_value": "30",
-				"cluster_win_mean": "71.79",
-				"delta": "41.79"
-			},
-			{
-				"html_id": "http://www.gaytraveladvice.com/2012/12/",
-				"feature_value": " 0",
-				"cluster_win_mean": "71.79",
-				"delta": "71.79"
-			},
-			{
-				"html_id": "http://www.travelpr.co.uk/2011/10/21/ionian-weddings-wins-local-business-award/",
-				"feature_value": " 0",
-				"cluster_win_mean": "52.07",
-				"delta": "52.07"
-			},
-			{
-				"html_id": "http://www.socialregister.co.uk/paul-bay/",
-				"feature_value": " 0",
-				"cluster_win_mean": "71.79",
-				"delta": "71.79"
-			},
-			{
-				"html_id": "http://www.travelpr.co.uk/2012/08/30/i-would-do-the-merits-of-getting-married-abroad/",
-				"feature_value": " 0",
-				"cluster_win_mean": "52.07",
-				"delta": "52.07"
-			},
-			{
-				"html_id": "http://www.piccolo.gr/travel-destinations/?q=famous%20islands%20Greece%20Travel%20Guide%20to%20the%20Ionian%20Islands%09%09%09",
-				"feature_value": " 0",
-				"cluster_win_mean": "52.07",
-				"delta": "52.07"
-			},
-			{
-				"html_id": "http://www.gaytraveladvice.com/blog/gay-marriage-gay-lesbian-wedding-europe/",
-				"feature_value": " 0",
-				"cluster_win_mean": "52.07",
-				"delta": "52.07"
-			},
-			{
-				"html_id": "http://www.gaytraveladvice.com/author/vladi/page/7/",
-				"feature_value": " 0",
-				"cluster_win_mean": "52.07",
-				"delta": "52.07"
-			},
-			{
-				"html_id": "http://www.gaytraveladvice.com/category/blog/page/5/",
-				"feature_value": " 0",
-				"cluster_win_mean": "52.07",
-				"delta": "52.07"
-			},
-			{
-				"html_id": "http://www.gaytraveladvice.com/category/europe/page/4/",
-				"feature_value": " 0",
-				"cluster_win_mean": "71.79",
-				"delta": "71.79"
-			},
-			{
-				"html_id": "http://www.piccolo.gr/travel-destinations/?q=ionian%20islands%20New%20Orleans%09%09%09%09",
-				"feature_value": " 0",
-				"cluster_win_mean": "71.79",
-				"delta": "71.79"
-			},
-			{
-				"html_id": "http://www.piccolo.gr/travel-destinations/?q=special%20Ionian%09",
-				"feature_value": " 0",
-				"cluster_win_mean": "71.79",
-				"delta": "71.79"
-			},
-			{
-				"html_id": "http://www.piccolo.gr/travel-destinations/?q=special%20Ionian%09%09%09%09%09",
-				"feature_value": " 0",
-				"cluster_win_mean": "71.79",
-				"delta": "71.79"
-			},
-			{
-				"html_id": "http://answerseveryday.com/what-is-astral-weeks/",
-				"feature_value": " 0",
-				"cluster_win_mean": "71.79",
-				"delta": "71.79"
-			},
-			{
-				"html_id": "http://www.masterseek.gr/mediterranean",
-				"feature_value": " 0",
-				"cluster_win_mean": "52.07",
-				"delta": "52.07"
-			},
-			{
-				"html_id": "http://www.masterseek.gr/ionian",
-				"feature_value": " 0",
-				"cluster_win_mean": "52.07",
-				"delta": "52.07"
-			}
-		],
-		"average_length_of_h2": [
-			{
-				"html_id": "http://forum.virtualtourist.com/Kos-422450-5-3431272/Getting-married-in-kos.html",
-				"feature_value": " 0",
-				"cluster_win_mean": "51.77",
-				"delta": "51.77"
-			},
-			{
-				"html_id": "http://s400131752.initial-website.co.uk/about-the-awards/how-to-win-an-award/website-promotion-by-holiday-company-sector/",
-				"feature_value": "14",
-				"cluster_win_mean": "71.22",
-				"delta": "57.22"
-			},
-			{
-				"html_id": "http://www.clsdirect.org.uk/en/legalaid/personalinjury/limitedcompany/deedpoll/index.jsp",
-				"feature_value": " 0",
-				"cluster_win_mean": "71.22",
-				"delta": "71.22"
-			},
-			{
-				"html_id": "http://www.searchers.co.uk/web/?query=weddings+in+cyprus",
-				"feature_value": "43",
-				"cluster_win_mean": "71.22",
-				"delta": "28.22"
-			},
-			{
-				"html_id": "http://www.precos.lv/raksti/kazu-foto-video/article.php?article_id=3767573",
-				"feature_value": "36",
-				"cluster_win_mean": "71.22",
-				"delta": "35.22"
-			},
-			{
-				"html_id": "http://www.precos.lv/raksti/kazu-planosana/article.php?article_id=3767573",
-				"feature_value": "27",
-				"cluster_win_mean": "32.92",
-				"delta": " 5.92"
-			},
-			{
-				"html_id": "http://silose.com/casarse-isla-griega/",
-				"feature_value": "27",
-				"cluster_win_mean": "32.92",
-				"delta": " 5.92"
-			},
-			{
-				"html_id": "http://www.pink-world.co.uk/2008/06/30/meet-penelope-bat/",
-				"feature_value": "17",
-				"cluster_win_mean": "71.22",
-				"delta": "54.22"
-			},
-			{
-				"html_id": "http://www.gaytraveladvice.com/2012/12/",
-				"feature_value": " 0",
-				"cluster_win_mean": "71.22",
-				"delta": "71.22"
-			},
-			{
-				"html_id": "http://www.travelpr.co.uk/2011/10/21/ionian-weddings-wins-local-business-award/",
-				"feature_value": " 0",
-				"cluster_win_mean": "51.77",
-				"delta": "51.77"
-			},
-			{
-				"html_id": "http://www.socialregister.co.uk/paul-bay/",
-				"feature_value": " 0",
-				"cluster_win_mean": "71.22",
-				"delta": "71.22"
-			},
-			{
-				"html_id": "http://www.travelpr.co.uk/2012/08/30/i-would-do-the-merits-of-getting-married-abroad/",
-				"feature_value": " 0",
-				"cluster_win_mean": "51.77",
-				"delta": "51.77"
-			},
-			{
-				"html_id": "http://www.piccolo.gr/travel-destinations/?q=famous%20islands%20Greece%20Travel%20Guide%20to%20the%20Ionian%20Islands%09%09%09",
-				"feature_value": " 0",
-				"cluster_win_mean": "51.77",
-				"delta": "51.77"
-			},
-			{
-				"html_id": "http://www.gaytraveladvice.com/blog/gay-marriage-gay-lesbian-wedding-europe/",
-				"feature_value": " 0",
-				"cluster_win_mean": "51.77",
-				"delta": "51.77"
-			},
-			{
-				"html_id": "http://www.gaytraveladvice.com/author/vladi/page/7/",
-				"feature_value": " 0",
-				"cluster_win_mean": "51.77",
-				"delta": "51.77"
-			},
-			{
-				"html_id": "http://www.gaytraveladvice.com/category/blog/page/5/",
-				"feature_value": " 0",
-				"cluster_win_mean": "51.77",
-				"delta": "51.77"
-			},
-			{
-				"html_id": "http://www.gaytraveladvice.com/category/europe/page/4/",
-				"feature_value": " 0",
-				"cluster_win_mean": "71.22",
-				"delta": "71.22"
-			},
-			{
-				"html_id": "http://www.piccolo.gr/travel-destinations/?q=ionian%20islands%20New%20Orleans%09%09%09%09",
-				"feature_value": " 0",
-				"cluster_win_mean": "71.22",
-				"delta": "71.22"
-			},
-			{
-				"html_id": "http://www.piccolo.gr/travel-destinations/?q=special%20Ionian%09",
-				"feature_value": " 0",
-				"cluster_win_mean": "71.22",
-				"delta": "71.22"
-			},
-			{
-				"html_id": "http://www.piccolo.gr/travel-destinations/?q=special%20Ionian%09%09%09%09%09",
-				"feature_value": " 0",
-				"cluster_win_mean": "71.22",
-				"delta": "71.22"
-			},
-			{
-				"html_id": "http://answerseveryday.com/what-is-astral-weeks/",
-				"feature_value": " 0",
-				"cluster_win_mean": "71.22",
-				"delta": "71.22"
-			},
-			{
-				"html_id": "http://www.masterseek.gr/mediterranean",
-				"feature_value": " 0",
-				"cluster_win_mean": "51.77",
-				"delta": "51.77"
-			},
-			{
-				"html_id": "http://www.masterseek.gr/ionian",
-				"feature_value": " 0",
-				"cluster_win_mean": "51.77",
-				"delta": "51.77"
-			}
-		],
-		"number_of_dhtml_scripts": [
-			{
-				"html_id": "http://forum.virtualtourist.com/Kos-422450-5-3431272/Getting-married-in-kos.html",
-				"feature_value": "0",
-				"cluster_win_mean": "1.16",
-				"delta": "1.16"
-			},
-			{
-				"html_id": "http://s400131752.initial-website.co.uk/about-the-awards/how-to-win-an-award/website-promotion-by-holiday-company-sector/",
-				"feature_value": "0",
-				"cluster_win_mean": "1.31",
-				"delta": "1.31"
-			},
-			{
-				"html_id": "http://www.clsdirect.org.uk/en/legalaid/personalinjury/limitedcompany/deedpoll/index.jsp",
-				"feature_value": "0",
-				"cluster_win_mean": "1.31",
-				"delta": "1.31"
-			},
-			{
-				"html_id": "http://www.searchers.co.uk/web/?query=weddings+in+cyprus",
-				"feature_value": "0",
-				"cluster_win_mean": "1.31",
-				"delta": "1.31"
-			},
-			{
-				"html_id": "http://www.precos.lv/raksti/kazu-foto-video/article.php?article_id=3767573",
-				"feature_value": "0",
-				"cluster_win_mean": "1.31",
-				"delta": "1.31"
-			},
-			{
-				"html_id": "http://www.precos.lv/raksti/kazu-planosana/article.php?article_id=3767573",
-				"feature_value": "1",
-				"cluster_win_mean": "   2",
-				"delta": "   1"
-			},
-			{
-				"html_id": "http://silose.com/casarse-isla-griega/",
-				"feature_value": "1",
-				"cluster_win_mean": "   2",
-				"delta": "   1"
-			},
-			{
-				"html_id": "http://www.pink-world.co.uk/2008/06/30/meet-penelope-bat/",
-				"feature_value": "0",
-				"cluster_win_mean": "1.31",
-				"delta": "1.31"
-			},
-			{
-				"html_id": "http://www.gaytraveladvice.com/2012/12/",
-				"feature_value": "0",
-				"cluster_win_mean": "1.31",
-				"delta": "1.31"
-			},
-			{
-				"html_id": "http://www.travelpr.co.uk/2011/10/21/ionian-weddings-wins-local-business-award/",
-				"feature_value": "0",
-				"cluster_win_mean": "1.16",
-				"delta": "1.16"
-			},
-			{
-				"html_id": "http://www.socialregister.co.uk/paul-bay/",
-				"feature_value": "0",
-				"cluster_win_mean": "1.31",
-				"delta": "1.31"
-			},
-			{
-				"html_id": "http://www.travelpr.co.uk/2012/08/30/i-would-do-the-merits-of-getting-married-abroad/",
-				"feature_value": "0",
-				"cluster_win_mean": "1.16",
-				"delta": "1.16"
-			},
-			{
-				"html_id": "http://www.piccolo.gr/travel-destinations/?q=famous%20islands%20Greece%20Travel%20Guide%20to%20the%20Ionian%20Islands%09%09%09",
-				"feature_value": "0",
-				"cluster_win_mean": "1.16",
-				"delta": "1.16"
-			},
-			{
-				"html_id": "http://www.gaytraveladvice.com/blog/gay-marriage-gay-lesbian-wedding-europe/",
-				"feature_value": "0",
-				"cluster_win_mean": "1.16",
-				"delta": "1.16"
-			},
-			{
-				"html_id": "http://www.gaytraveladvice.com/author/vladi/page/7/",
-				"feature_value": "0",
-				"cluster_win_mean": "1.16",
-				"delta": "1.16"
-			},
-			{
-				"html_id": "http://www.gaytraveladvice.com/category/blog/page/5/",
-				"feature_value": "0",
-				"cluster_win_mean": "1.16",
-				"delta": "1.16"
-			},
-			{
-				"html_id": "http://www.gaytraveladvice.com/category/europe/page/4/",
-				"feature_value": "0",
-				"cluster_win_mean": "1.31",
-				"delta": "1.31"
-			},
-			{
-				"html_id": "http://www.piccolo.gr/travel-destinations/?q=ionian%20islands%20New%20Orleans%09%09%09%09",
-				"feature_value": "0",
-				"cluster_win_mean": "1.31",
-				"delta": "1.31"
-			},
-			{
-				"html_id": "http://www.piccolo.gr/travel-destinations/?q=special%20Ionian%09",
-				"feature_value": "0",
-				"cluster_win_mean": "1.31",
-				"delta": "1.31"
-			},
-			{
-				"html_id": "http://www.piccolo.gr/travel-destinations/?q=special%20Ionian%09%09%09%09%09",
-				"feature_value": "0",
-				"cluster_win_mean": "1.31",
-				"delta": "1.31"
-			},
-			{
-				"html_id": "http://answerseveryday.com/what-is-astral-weeks/",
-				"feature_value": "0",
-				"cluster_win_mean": "1.31",
-				"delta": "1.31"
-			},
-			{
-				"html_id": "http://www.masterseek.gr/mediterranean",
-				"feature_value": "0",
-				"cluster_win_mean": "1.16",
-				"delta": "1.16"
-			},
-			{
-				"html_id": "http://www.masterseek.gr/ionian",
-				"feature_value": "0",
-				"cluster_win_mean": "1.16",
-				"delta": "1.16"
 			}
 		]
 	}
