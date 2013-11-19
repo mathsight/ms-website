@@ -530,6 +530,25 @@ var feature_list= {
 			"aaSorting": [[ 3, "desc" ]]
 		} );
 	} );
+	$(document).ready(function() {
+	$('#example22').dataTable( {
+		"bProcessing": true,
+		"sAjaxSource": "/json/drilldown/"+websiteName+"_XDrillOff.json",
+		"sAjaxDataProp": "offsite."+ feature_list[22],
+		"aoColumns": [
+		{ "mData": "html_id",
+		"mRender" : function ( data, type, full) {
+								return '<a href="'+ data +'">'+data+'</a>';
+													}
+		},
+		        { "mData": "feature_value" },
+		        { "mData": "cluster_win_mean" },
+		        { "mData": "delta" }
+				],
+		"aaSorting": [[ 3, "desc" ]]
+	} );
+} );
+	
 } );
 	
 
