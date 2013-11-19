@@ -1,0 +1,1996 @@
+{
+	"onsite": {
+		"average_backlink_flesch_reading_ease": [
+			{
+				"html_id": "http://www.ionianweddings.co.uk/our-story",
+				"feature_value": "       0",
+				"cluster_win_mean": "47.78",
+				"delta": " 47.78"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/awards",
+				"feature_value": "-99.7395",
+				"cluster_win_mean": "47.78",
+				"delta": "147.52"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/our-team",
+				"feature_value": "       0",
+				"cluster_win_mean": "47.78",
+				"delta": " 47.78"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/faqs",
+				"feature_value": "       0",
+				"cluster_win_mean": "47.78",
+				"delta": " 47.78"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/search",
+				"feature_value": "       0",
+				"cluster_win_mean": "47.78",
+				"delta": " 47.78"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/packages",
+				"feature_value": "       0",
+				"cluster_win_mean": "47.78",
+				"delta": " 47.78"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/testimonials",
+				"feature_value": "       0",
+				"cluster_win_mean": "47.78",
+				"delta": " 47.78"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/latest-news",
+				"feature_value": "       0",
+				"cluster_win_mean": "47.78",
+				"delta": " 47.78"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/types-of-ceremony",
+				"feature_value": "       0",
+				"cluster_win_mean": "47.78",
+				"delta": " 47.78"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/destinations",
+				"feature_value": "       0",
+				"cluster_win_mean": "47.78",
+				"delta": " 47.78"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/inspiration-ideas",
+				"feature_value": "       0",
+				"cluster_win_mean": "47.78",
+				"delta": " 47.78"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/personal-consultations",
+				"feature_value": "       0",
+				"cluster_win_mean": "47.78",
+				"delta": " 47.78"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/inspiration-ideas/inside-stories",
+				"feature_value": "       0",
+				"cluster_win_mean": "47.78",
+				"delta": " 47.78"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/inspiration-ideas/inside-stories/karen-greg-skiathos-september-2012-1",
+				"feature_value": "       0",
+				"cluster_win_mean": "47.78",
+				"delta": " 47.78"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/inspiration-ideas/inside-stories/hayley-nicolas-santorini-september-2012",
+				"feature_value": "       0",
+				"cluster_win_mean": "47.78",
+				"delta": " 47.78"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/inspiration-ideas/inside-stories/lisa-leon-corfu-september-2012-",
+				"feature_value": "       0",
+				"cluster_win_mean": "47.78",
+				"delta": " 47.78"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/inspiration-ideas/wedding-showcase",
+				"feature_value": "       0",
+				"cluster_win_mean": "47.78",
+				"delta": " 47.78"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/inspiration-ideas/wedding-showcase/victoria-matthew-santorini-caldera",
+				"feature_value": "       0",
+				"cluster_win_mean": "47.78",
+				"delta": " 47.78"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/inspiration-ideas/wedding-showcase/tara-paul-st-stefanos-island-kos",
+				"feature_value": "-25.0705",
+				"cluster_win_mean": "47.78",
+				"delta": " 72.85"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/inspiration-ideas/wedding-showcase/catherine-carl-private-island-zakynthos",
+				"feature_value": "       0",
+				"cluster_win_mean": "47.78",
+				"delta": " 47.78"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/inspiration-ideas/wedding-showcase/bernadette-nathan-kefalonia-chapel-wedding",
+				"feature_value": "       0",
+				"cluster_win_mean": "47.78",
+				"delta": " 47.78"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/inspiration-ideas/wedding-showcase/jo-ricky-bouka-beach-wedding-in-zakynthos",
+				"feature_value": "       0",
+				"cluster_win_mean": "47.78",
+				"delta": " 47.78"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/inspiration-ideas/wedding-showcase/sally-nick-traditional-wedding-in-samos",
+				"feature_value": "       0",
+				"cluster_win_mean": "47.78",
+				"delta": " 47.78"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/inspiration-ideas/wedding-showcase/shanta-matt-lefkada-wedding",
+				"feature_value": "       0",
+				"cluster_win_mean": "47.78",
+				"delta": " 47.78"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/inspiration-ideas/wedding-showcase/rhoda-alec-lakeside-crete-wedding",
+				"feature_value": "       0",
+				"cluster_win_mean": "47.78",
+				"delta": " 47.78"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/inspiration-ideas/wedding-showcase/angela-eds-pier-wedding-in-cyprus",
+				"feature_value": "       0",
+				"cluster_win_mean": "47.78",
+				"delta": " 47.78"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/inspiration-ideas/wedding-showcase/abi-chris-corfu-wedding",
+				"feature_value": "       0",
+				"cluster_win_mean": "47.78",
+				"delta": " 47.78"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/inspiration-ideas/wedding-showcase/jen-rich-asos-kefalonia-",
+				"feature_value": "  44.405",
+				"cluster_win_mean": "47.78",
+				"delta": "  3.38"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/inspiration-ideas/wedding-showcase/katie-wills-amorgos-wedding",
+				"feature_value": "       0",
+				"cluster_win_mean": "47.78",
+				"delta": " 47.78"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/inspiration-ideas/wedding-showcase/eva-maurice-st-stefanos-kos",
+				"feature_value": "       0",
+				"cluster_win_mean": "47.78",
+				"delta": " 47.78"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/destinations/greek-aegean-islands",
+				"feature_value": "       0",
+				"cluster_win_mean": "47.78",
+				"delta": " 47.78"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/destinations/greek-aegean-islands/amorgos",
+				"feature_value": "  37.893",
+				"cluster_win_mean": "47.78",
+				"delta": "  9.89"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/destinations/greek-aegean-islands/crete",
+				"feature_value": "       0",
+				"cluster_win_mean": "53.39",
+				"delta": " 53.39"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/destinations/greek-aegean-islands/kos",
+				"feature_value": "       0",
+				"cluster_win_mean": "53.39",
+				"delta": " 53.39"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/destinations/greek-aegean-islands/mykonos",
+				"feature_value": "       0",
+				"cluster_win_mean": "53.39",
+				"delta": " 53.39"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/destinations/greek-aegean-islands/rhodes",
+				"feature_value": "       0",
+				"cluster_win_mean": "53.39",
+				"delta": " 53.39"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/destinations/greek-aegean-islands/samos",
+				"feature_value": "       0",
+				"cluster_win_mean": "53.39",
+				"delta": " 53.39"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/destinations/greek-aegean-islands/santorini",
+				"feature_value": "       0",
+				"cluster_win_mean": "53.39",
+				"delta": " 53.39"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/destinations/greek-aegean-islands/skiathos",
+				"feature_value": "       0",
+				"cluster_win_mean": "53.39",
+				"delta": " 53.39"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/destinations/greek-ionian-islands",
+				"feature_value": "       0",
+				"cluster_win_mean": "53.39",
+				"delta": " 53.39"
+			}
+		],
+		"number_of_inline_css_styles": [
+			{
+				"html_id": "http://www.ionianweddings.co.uk/planning-advice",
+				"feature_value": "0",
+				"cluster_win_mean": "1.81",
+				"delta": "1.81"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/our-story",
+				"feature_value": "0",
+				"cluster_win_mean": "1.81",
+				"delta": "1.81"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/awards",
+				"feature_value": "0",
+				"cluster_win_mean": "1.81",
+				"delta": "1.81"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/our-team",
+				"feature_value": "0",
+				"cluster_win_mean": "1.81",
+				"delta": "1.81"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/faqs",
+				"feature_value": "0",
+				"cluster_win_mean": "1.81",
+				"delta": "1.81"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/contact-us",
+				"feature_value": "0",
+				"cluster_win_mean": "1.81",
+				"delta": "1.81"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/search",
+				"feature_value": "0",
+				"cluster_win_mean": "1.81",
+				"delta": "1.81"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/packages",
+				"feature_value": "0",
+				"cluster_win_mean": "1.81",
+				"delta": "1.81"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/testimonials",
+				"feature_value": "0",
+				"cluster_win_mean": "1.81",
+				"delta": "1.81"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/latest-news",
+				"feature_value": "0",
+				"cluster_win_mean": "1.81",
+				"delta": "1.81"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/types-of-ceremony",
+				"feature_value": "0",
+				"cluster_win_mean": "1.81",
+				"delta": "1.81"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/destinations",
+				"feature_value": "0",
+				"cluster_win_mean": "1.81",
+				"delta": "1.81"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/inspiration-ideas",
+				"feature_value": "0",
+				"cluster_win_mean": "1.81",
+				"delta": "1.81"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/personal-consultations",
+				"feature_value": "0",
+				"cluster_win_mean": "1.81",
+				"delta": "1.81"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/inspiration-ideas/inside-stories",
+				"feature_value": "0",
+				"cluster_win_mean": "1.81",
+				"delta": "1.81"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/inspiration-ideas/inside-stories/karen-greg-skiathos-september-2012-1",
+				"feature_value": "0",
+				"cluster_win_mean": "1.81",
+				"delta": "1.81"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/inspiration-ideas/inside-stories/hayley-nicolas-santorini-september-2012",
+				"feature_value": "0",
+				"cluster_win_mean": "1.81",
+				"delta": "1.81"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/inspiration-ideas/inside-stories/lisa-leon-corfu-september-2012-",
+				"feature_value": "0",
+				"cluster_win_mean": "1.81",
+				"delta": "1.81"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/inspiration-ideas/wedding-showcase",
+				"feature_value": "1",
+				"cluster_win_mean": "1.81",
+				"delta": "0.81"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/inspiration-ideas/wedding-showcase/victoria-matthew-santorini-caldera",
+				"feature_value": "0",
+				"cluster_win_mean": "1.81",
+				"delta": "1.81"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/inspiration-ideas/wedding-showcase/tara-paul-st-stefanos-island-kos",
+				"feature_value": "0",
+				"cluster_win_mean": "1.81",
+				"delta": "1.81"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/inspiration-ideas/wedding-showcase/catherine-carl-private-island-zakynthos",
+				"feature_value": "0",
+				"cluster_win_mean": "1.81",
+				"delta": "1.81"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/inspiration-ideas/wedding-showcase/bernadette-nathan-kefalonia-chapel-wedding",
+				"feature_value": "0",
+				"cluster_win_mean": "1.81",
+				"delta": "1.81"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/inspiration-ideas/wedding-showcase/jo-ricky-bouka-beach-wedding-in-zakynthos",
+				"feature_value": "0",
+				"cluster_win_mean": "1.81",
+				"delta": "1.81"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/inspiration-ideas/wedding-showcase/sally-nick-traditional-wedding-in-samos",
+				"feature_value": "0",
+				"cluster_win_mean": "1.81",
+				"delta": "1.81"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/inspiration-ideas/wedding-showcase/shanta-matt-lefkada-wedding",
+				"feature_value": "0",
+				"cluster_win_mean": "1.81",
+				"delta": "1.81"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/inspiration-ideas/wedding-showcase/rhoda-alec-lakeside-crete-wedding",
+				"feature_value": "0",
+				"cluster_win_mean": "1.81",
+				"delta": "1.81"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/inspiration-ideas/wedding-showcase/angela-eds-pier-wedding-in-cyprus",
+				"feature_value": "0",
+				"cluster_win_mean": "1.81",
+				"delta": "1.81"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/inspiration-ideas/wedding-showcase/abi-chris-corfu-wedding",
+				"feature_value": "0",
+				"cluster_win_mean": "1.81",
+				"delta": "1.81"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/inspiration-ideas/wedding-showcase/jen-rich-asos-kefalonia-",
+				"feature_value": "0",
+				"cluster_win_mean": "1.81",
+				"delta": "1.81"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/inspiration-ideas/wedding-showcase/katie-wills-amorgos-wedding",
+				"feature_value": "1",
+				"cluster_win_mean": "1.81",
+				"delta": "0.81"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/inspiration-ideas/wedding-showcase/eva-maurice-st-stefanos-kos",
+				"feature_value": "0",
+				"cluster_win_mean": "1.81",
+				"delta": "1.81"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/destinations/greek-aegean-islands",
+				"feature_value": "0",
+				"cluster_win_mean": "1.81",
+				"delta": "1.81"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/destinations/greek-aegean-islands/amorgos",
+				"feature_value": "0",
+				"cluster_win_mean": "1.81",
+				"delta": "1.81"
+			}
+		],
+		"average_backlink_flesch_kincaid_grade": {
+			"html_id": "http://www.ionianweddings.co.uk/awards",
+			"feature_value": "63.6651",
+			"cluster_win_mean": "11.54",
+			"delta": "-52.13"
+		},
+		"number_of_images_missing_alt": [
+			{
+				"html_id": "http://www.ionianweddings.co.uk/destinations/greek-aegean-islands/crete",
+				"feature_value": " 9",
+				"cluster_win_mean": "15.5",
+				"delta": "6.5"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/destinations/greek-aegean-islands/kos",
+				"feature_value": "10",
+				"cluster_win_mean": "15.5",
+				"delta": "5.5"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/destinations/greek-aegean-islands/mykonos",
+				"feature_value": "10",
+				"cluster_win_mean": "15.5",
+				"delta": "5.5"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/destinations/greek-aegean-islands/rhodes",
+				"feature_value": "10",
+				"cluster_win_mean": "15.5",
+				"delta": "5.5"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/destinations/greek-aegean-islands/samos",
+				"feature_value": " 9",
+				"cluster_win_mean": "15.5",
+				"delta": "6.5"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/destinations/greek-aegean-islands/santorini",
+				"feature_value": "10",
+				"cluster_win_mean": "15.5",
+				"delta": "5.5"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/destinations/greek-aegean-islands/skiathos",
+				"feature_value": "10",
+				"cluster_win_mean": "15.5",
+				"delta": "5.5"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/destinations/greek-ionian-islands",
+				"feature_value": "10",
+				"cluster_win_mean": "15.5",
+				"delta": "5.5"
+			}
+		],
+		"number_of_h1_instances": [
+			{
+				"html_id": "http://www.ionianweddings.co.uk/inspiration-ideas/wedding-showcase/victoria-matthew-santorini-caldera",
+				"feature_value": "2",
+				"cluster_win_mean": "2.97",
+				"delta": "0.97"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/inspiration-ideas/wedding-showcase/catherine-carl-private-island-zakynthos",
+				"feature_value": "2",
+				"cluster_win_mean": "2.97",
+				"delta": "0.97"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/inspiration-ideas/wedding-showcase/jo-ricky-bouka-beach-wedding-in-zakynthos",
+				"feature_value": "2",
+				"cluster_win_mean": "2.97",
+				"delta": "0.97"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/inspiration-ideas/wedding-showcase/sally-nick-traditional-wedding-in-samos",
+				"feature_value": "2",
+				"cluster_win_mean": "2.97",
+				"delta": "0.97"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/inspiration-ideas/wedding-showcase/abi-chris-corfu-wedding",
+				"feature_value": "2",
+				"cluster_win_mean": "2.97",
+				"delta": "0.97"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/inspiration-ideas/wedding-showcase/jen-rich-asos-kefalonia-",
+				"feature_value": "2",
+				"cluster_win_mean": "2.97",
+				"delta": "0.97"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/inspiration-ideas/wedding-showcase/eva-maurice-st-stefanos-kos",
+				"feature_value": "2",
+				"cluster_win_mean": "2.97",
+				"delta": "0.97"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/destinations/greek-aegean-islands",
+				"feature_value": "2",
+				"cluster_win_mean": "2.97",
+				"delta": "0.97"
+			}
+		],
+		"number_of_images": [
+			{
+				"html_id": "http://www.ionianweddings.co.uk/destinations/greek-aegean-islands/crete",
+				"feature_value": "10",
+				"cluster_win_mean": "15.47",
+				"delta": "5.47"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/destinations/greek-aegean-islands/kos",
+				"feature_value": "11",
+				"cluster_win_mean": "15.47",
+				"delta": "4.47"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/destinations/greek-aegean-islands/mykonos",
+				"feature_value": "11",
+				"cluster_win_mean": "15.47",
+				"delta": "4.47"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/destinations/greek-aegean-islands/rhodes",
+				"feature_value": "11",
+				"cluster_win_mean": "15.47",
+				"delta": "4.47"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/destinations/greek-aegean-islands/samos",
+				"feature_value": "10",
+				"cluster_win_mean": "15.47",
+				"delta": "5.47"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/destinations/greek-aegean-islands/santorini",
+				"feature_value": "11",
+				"cluster_win_mean": "15.47",
+				"delta": "4.47"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/destinations/greek-aegean-islands/skiathos",
+				"feature_value": "11",
+				"cluster_win_mean": "15.47",
+				"delta": "4.47"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/destinations/greek-ionian-islands",
+				"feature_value": "11",
+				"cluster_win_mean": "15.47",
+				"delta": "4.47"
+			}
+		],
+		"total_number_of_words": [
+			{
+				"html_id": "http://www.ionianweddings.co.uk/search",
+				"feature_value": " 99",
+				"cluster_win_mean": "177.25",
+				"delta": "78.25"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/inspiration-ideas/wedding-showcase/bernadette-nathan-kefalonia-chapel-wedding",
+				"feature_value": " 97",
+				"cluster_win_mean": "177.25",
+				"delta": "80.25"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/inspiration-ideas/wedding-showcase/rhoda-alec-lakeside-crete-wedding",
+				"feature_value": "160",
+				"cluster_win_mean": "177.25",
+				"delta": "17.25"
+			}
+		],
+		"total_number_of_dictionary_words": [
+			{
+				"html_id": "http://www.ionianweddings.co.uk/planning-advice",
+				"feature_value": "0",
+				"cluster_win_mean": "4.15",
+				"delta": "4.15"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/our-story",
+				"feature_value": "0",
+				"cluster_win_mean": "4.15",
+				"delta": "4.15"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/awards",
+				"feature_value": "0",
+				"cluster_win_mean": "4.15",
+				"delta": "4.15"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/faqs",
+				"feature_value": "0",
+				"cluster_win_mean": "4.15",
+				"delta": "4.15"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/contact-us",
+				"feature_value": "1",
+				"cluster_win_mean": "4.15",
+				"delta": "3.15"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/search",
+				"feature_value": "0",
+				"cluster_win_mean": "4.15",
+				"delta": "4.15"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/packages",
+				"feature_value": "0",
+				"cluster_win_mean": "4.15",
+				"delta": "4.15"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/types-of-ceremony",
+				"feature_value": "0",
+				"cluster_win_mean": "4.15",
+				"delta": "4.15"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/destinations",
+				"feature_value": "0",
+				"cluster_win_mean": "4.15",
+				"delta": "4.15"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/inspiration-ideas",
+				"feature_value": "0",
+				"cluster_win_mean": "4.15",
+				"delta": "4.15"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/personal-consultations",
+				"feature_value": "0",
+				"cluster_win_mean": "4.15",
+				"delta": "4.15"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/inspiration-ideas/inside-stories/hayley-nicolas-santorini-september-2012",
+				"feature_value": "0",
+				"cluster_win_mean": "4.15",
+				"delta": "4.15"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/inspiration-ideas/inside-stories/lisa-leon-corfu-september-2012-",
+				"feature_value": "0",
+				"cluster_win_mean": "4.15",
+				"delta": "4.15"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/inspiration-ideas/wedding-showcase",
+				"feature_value": "1",
+				"cluster_win_mean": "4.15",
+				"delta": "3.15"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/inspiration-ideas/wedding-showcase/victoria-matthew-santorini-caldera",
+				"feature_value": "0",
+				"cluster_win_mean": "4.15",
+				"delta": "4.15"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/inspiration-ideas/wedding-showcase/tara-paul-st-stefanos-island-kos",
+				"feature_value": "1",
+				"cluster_win_mean": "4.15",
+				"delta": "3.15"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/inspiration-ideas/wedding-showcase/catherine-carl-private-island-zakynthos",
+				"feature_value": "1",
+				"cluster_win_mean": "4.15",
+				"delta": "3.15"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/inspiration-ideas/wedding-showcase/bernadette-nathan-kefalonia-chapel-wedding",
+				"feature_value": "0",
+				"cluster_win_mean": "4.15",
+				"delta": "4.15"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/inspiration-ideas/wedding-showcase/jo-ricky-bouka-beach-wedding-in-zakynthos",
+				"feature_value": "0",
+				"cluster_win_mean": "4.15",
+				"delta": "4.15"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/inspiration-ideas/wedding-showcase/sally-nick-traditional-wedding-in-samos",
+				"feature_value": "0",
+				"cluster_win_mean": "4.15",
+				"delta": "4.15"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/inspiration-ideas/wedding-showcase/shanta-matt-lefkada-wedding",
+				"feature_value": "0",
+				"cluster_win_mean": "4.15",
+				"delta": "4.15"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/inspiration-ideas/wedding-showcase/rhoda-alec-lakeside-crete-wedding",
+				"feature_value": "0",
+				"cluster_win_mean": "4.15",
+				"delta": "4.15"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/inspiration-ideas/wedding-showcase/angela-eds-pier-wedding-in-cyprus",
+				"feature_value": "1",
+				"cluster_win_mean": "4.15",
+				"delta": "3.15"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/inspiration-ideas/wedding-showcase/abi-chris-corfu-wedding",
+				"feature_value": "0",
+				"cluster_win_mean": "4.15",
+				"delta": "4.15"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/inspiration-ideas/wedding-showcase/jen-rich-asos-kefalonia-",
+				"feature_value": "0",
+				"cluster_win_mean": "4.15",
+				"delta": "4.15"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/inspiration-ideas/wedding-showcase/katie-wills-amorgos-wedding",
+				"feature_value": "1",
+				"cluster_win_mean": "4.15",
+				"delta": "3.15"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/inspiration-ideas/wedding-showcase/eva-maurice-st-stefanos-kos",
+				"feature_value": "0",
+				"cluster_win_mean": "4.15",
+				"delta": "4.15"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/destinations/greek-aegean-islands",
+				"feature_value": "0",
+				"cluster_win_mean": "4.15",
+				"delta": "4.15"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/destinations/greek-aegean-islands/amorgos",
+				"feature_value": "0",
+				"cluster_win_mean": "4.15",
+				"delta": "4.15"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/destinations/greek-aegean-islands/crete",
+				"feature_value": "1",
+				"cluster_win_mean": " 2.5",
+				"delta": " 1.5"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/destinations/greek-aegean-islands/kos",
+				"feature_value": "0",
+				"cluster_win_mean": " 2.5",
+				"delta": " 2.5"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/destinations/greek-aegean-islands/mykonos",
+				"feature_value": "0",
+				"cluster_win_mean": " 2.5",
+				"delta": " 2.5"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/destinations/greek-aegean-islands/rhodes",
+				"feature_value": "0",
+				"cluster_win_mean": " 2.5",
+				"delta": " 2.5"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/destinations/greek-aegean-islands/samos",
+				"feature_value": "1",
+				"cluster_win_mean": " 2.5",
+				"delta": " 1.5"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/destinations/greek-aegean-islands/santorini",
+				"feature_value": "0",
+				"cluster_win_mean": " 2.5",
+				"delta": " 2.5"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/destinations/greek-aegean-islands/skiathos",
+				"feature_value": "0",
+				"cluster_win_mean": " 2.5",
+				"delta": " 2.5"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/destinations/greek-ionian-islands",
+				"feature_value": "0",
+				"cluster_win_mean": " 2.5",
+				"delta": " 2.5"
+			}
+		],
+		"number_of_hyperlinks_with_html": [
+			{
+				"html_id": "http://www.ionianweddings.co.uk/destinations/greek-aegean-islands/crete",
+				"feature_value": "0",
+				"cluster_win_mean": "42.78",
+				"delta": "42.78"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/destinations/greek-aegean-islands/kos",
+				"feature_value": "0",
+				"cluster_win_mean": "42.78",
+				"delta": "42.78"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/destinations/greek-aegean-islands/mykonos",
+				"feature_value": "0",
+				"cluster_win_mean": "42.78",
+				"delta": "42.78"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/destinations/greek-aegean-islands/rhodes",
+				"feature_value": "0",
+				"cluster_win_mean": "42.78",
+				"delta": "42.78"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/destinations/greek-aegean-islands/samos",
+				"feature_value": "0",
+				"cluster_win_mean": "42.78",
+				"delta": "42.78"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/destinations/greek-aegean-islands/santorini",
+				"feature_value": "0",
+				"cluster_win_mean": "42.78",
+				"delta": "42.78"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/destinations/greek-aegean-islands/skiathos",
+				"feature_value": "0",
+				"cluster_win_mean": "42.78",
+				"delta": "42.78"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/destinations/greek-ionian-islands",
+				"feature_value": "0",
+				"cluster_win_mean": "42.78",
+				"delta": "42.78"
+			}
+		],
+		"number_of_unique_words": [
+			{
+				"html_id": "http://www.ionianweddings.co.uk/search",
+				"feature_value": "59",
+				"cluster_win_mean": "77.18",
+				"delta": "18.18"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/inspiration-ideas/wedding-showcase/bernadette-nathan-kefalonia-chapel-wedding",
+				"feature_value": "58",
+				"cluster_win_mean": "77.18",
+				"delta": "19.18"
+			}
+		],
+		"ratio_of_dictionary_words_to_total": [
+			{
+				"html_id": "http://www.ionianweddings.co.uk/destinations/greek-aegean-islands/kos",
+				"feature_value": "0",
+				"cluster_win_mean": "0.01",
+				"delta": "0.01"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/destinations/greek-aegean-islands/mykonos",
+				"feature_value": "0",
+				"cluster_win_mean": "0.01",
+				"delta": "0.01"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/destinations/greek-aegean-islands/rhodes",
+				"feature_value": "0",
+				"cluster_win_mean": "0.01",
+				"delta": "0.01"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/destinations/greek-aegean-islands/santorini",
+				"feature_value": "0",
+				"cluster_win_mean": "0.01",
+				"delta": "0.01"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/destinations/greek-aegean-islands/skiathos",
+				"feature_value": "0",
+				"cluster_win_mean": "0.01",
+				"delta": "0.01"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/destinations/greek-ionian-islands",
+				"feature_value": "0",
+				"cluster_win_mean": "0.01",
+				"delta": "0.01"
+			}
+		],
+		"number_of_destination_titles_same_as_anchor_text": [
+			{
+				"html_id": "http://www.ionianweddings.co.uk/planning-advice",
+				"feature_value": "0",
+				"cluster_win_mean": "14.94",
+				"delta": "14.94"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/our-story",
+				"feature_value": "0",
+				"cluster_win_mean": "14.94",
+				"delta": "14.94"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/awards",
+				"feature_value": "0",
+				"cluster_win_mean": "14.94",
+				"delta": "14.94"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/our-team",
+				"feature_value": "0",
+				"cluster_win_mean": "14.94",
+				"delta": "14.94"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/faqs",
+				"feature_value": "0",
+				"cluster_win_mean": "14.94",
+				"delta": "14.94"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/contact-us",
+				"feature_value": "0",
+				"cluster_win_mean": "14.94",
+				"delta": "14.94"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/search",
+				"feature_value": "0",
+				"cluster_win_mean": "14.94",
+				"delta": "14.94"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/packages",
+				"feature_value": "0",
+				"cluster_win_mean": "14.94",
+				"delta": "14.94"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/testimonials",
+				"feature_value": "0",
+				"cluster_win_mean": "14.94",
+				"delta": "14.94"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/latest-news",
+				"feature_value": "0",
+				"cluster_win_mean": "14.94",
+				"delta": "14.94"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/types-of-ceremony",
+				"feature_value": "0",
+				"cluster_win_mean": "14.94",
+				"delta": "14.94"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/destinations",
+				"feature_value": "0",
+				"cluster_win_mean": "14.94",
+				"delta": "14.94"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/inspiration-ideas",
+				"feature_value": "0",
+				"cluster_win_mean": "14.94",
+				"delta": "14.94"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/personal-consultations",
+				"feature_value": "0",
+				"cluster_win_mean": "14.94",
+				"delta": "14.94"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/inspiration-ideas/inside-stories",
+				"feature_value": "0",
+				"cluster_win_mean": "14.94",
+				"delta": "14.94"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/inspiration-ideas/inside-stories/karen-greg-skiathos-september-2012-1",
+				"feature_value": "0",
+				"cluster_win_mean": "14.94",
+				"delta": "14.94"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/inspiration-ideas/inside-stories/hayley-nicolas-santorini-september-2012",
+				"feature_value": "0",
+				"cluster_win_mean": "14.94",
+				"delta": "14.94"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/inspiration-ideas/inside-stories/lisa-leon-corfu-september-2012-",
+				"feature_value": "0",
+				"cluster_win_mean": "14.94",
+				"delta": "14.94"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/inspiration-ideas/wedding-showcase",
+				"feature_value": "0",
+				"cluster_win_mean": "14.94",
+				"delta": "14.94"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/inspiration-ideas/wedding-showcase/victoria-matthew-santorini-caldera",
+				"feature_value": "0",
+				"cluster_win_mean": "14.94",
+				"delta": "14.94"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/inspiration-ideas/wedding-showcase/tara-paul-st-stefanos-island-kos",
+				"feature_value": "0",
+				"cluster_win_mean": "14.94",
+				"delta": "14.94"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/inspiration-ideas/wedding-showcase/catherine-carl-private-island-zakynthos",
+				"feature_value": "0",
+				"cluster_win_mean": "14.94",
+				"delta": "14.94"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/inspiration-ideas/wedding-showcase/bernadette-nathan-kefalonia-chapel-wedding",
+				"feature_value": "0",
+				"cluster_win_mean": "14.94",
+				"delta": "14.94"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/inspiration-ideas/wedding-showcase/jo-ricky-bouka-beach-wedding-in-zakynthos",
+				"feature_value": "0",
+				"cluster_win_mean": "14.94",
+				"delta": "14.94"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/inspiration-ideas/wedding-showcase/sally-nick-traditional-wedding-in-samos",
+				"feature_value": "0",
+				"cluster_win_mean": "14.94",
+				"delta": "14.94"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/inspiration-ideas/wedding-showcase/shanta-matt-lefkada-wedding",
+				"feature_value": "0",
+				"cluster_win_mean": "14.94",
+				"delta": "14.94"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/inspiration-ideas/wedding-showcase/rhoda-alec-lakeside-crete-wedding",
+				"feature_value": "0",
+				"cluster_win_mean": "14.94",
+				"delta": "14.94"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/inspiration-ideas/wedding-showcase/angela-eds-pier-wedding-in-cyprus",
+				"feature_value": "0",
+				"cluster_win_mean": "14.94",
+				"delta": "14.94"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/inspiration-ideas/wedding-showcase/abi-chris-corfu-wedding",
+				"feature_value": "0",
+				"cluster_win_mean": "14.94",
+				"delta": "14.94"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/inspiration-ideas/wedding-showcase/jen-rich-asos-kefalonia-",
+				"feature_value": "0",
+				"cluster_win_mean": "14.94",
+				"delta": "14.94"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/inspiration-ideas/wedding-showcase/katie-wills-amorgos-wedding",
+				"feature_value": "0",
+				"cluster_win_mean": "14.94",
+				"delta": "14.94"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/inspiration-ideas/wedding-showcase/eva-maurice-st-stefanos-kos",
+				"feature_value": "0",
+				"cluster_win_mean": "14.94",
+				"delta": "14.94"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/destinations/greek-aegean-islands",
+				"feature_value": "0",
+				"cluster_win_mean": "14.94",
+				"delta": "14.94"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/destinations/greek-aegean-islands/amorgos",
+				"feature_value": "0",
+				"cluster_win_mean": "14.94",
+				"delta": "14.94"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/destinations/greek-aegean-islands/crete",
+				"feature_value": "0",
+				"cluster_win_mean": "   25",
+				"delta": "   25"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/destinations/greek-aegean-islands/kos",
+				"feature_value": "0",
+				"cluster_win_mean": "   25",
+				"delta": "   25"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/destinations/greek-aegean-islands/mykonos",
+				"feature_value": "0",
+				"cluster_win_mean": "   25",
+				"delta": "   25"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/destinations/greek-aegean-islands/rhodes",
+				"feature_value": "0",
+				"cluster_win_mean": "   25",
+				"delta": "   25"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/destinations/greek-aegean-islands/samos",
+				"feature_value": "0",
+				"cluster_win_mean": "   25",
+				"delta": "   25"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/destinations/greek-aegean-islands/santorini",
+				"feature_value": "0",
+				"cluster_win_mean": "   25",
+				"delta": "   25"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/destinations/greek-aegean-islands/skiathos",
+				"feature_value": "0",
+				"cluster_win_mean": "   25",
+				"delta": "   25"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/destinations/greek-ionian-islands",
+				"feature_value": "0",
+				"cluster_win_mean": "   25",
+				"delta": "   25"
+			}
+		],
+		"average_length_of_h1": [
+			{
+				"html_id": "http://www.ionianweddings.co.uk/our-story",
+				"feature_value": " 61",
+				"cluster_win_mean": "50.82",
+				"delta": "-10.18"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/awards",
+				"feature_value": " 61",
+				"cluster_win_mean": "50.82",
+				"delta": "-10.18"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/our-team",
+				"feature_value": "108",
+				"cluster_win_mean": "50.82",
+				"delta": "-57.18"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/faqs",
+				"feature_value": " 56",
+				"cluster_win_mean": "50.82",
+				"delta": " -5.18"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/packages",
+				"feature_value": " 84",
+				"cluster_win_mean": "50.82",
+				"delta": "-33.18"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/testimonials",
+				"feature_value": " 60",
+				"cluster_win_mean": "50.82",
+				"delta": " -9.18"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/latest-news",
+				"feature_value": " 52",
+				"cluster_win_mean": "50.82",
+				"delta": " -1.18"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/types-of-ceremony",
+				"feature_value": " 80",
+				"cluster_win_mean": "50.82",
+				"delta": "-29.18"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/destinations",
+				"feature_value": " 58",
+				"cluster_win_mean": "50.82",
+				"delta": " -7.18"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/inspiration-ideas",
+				"feature_value": " 74",
+				"cluster_win_mean": "50.82",
+				"delta": "-23.18"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/inspiration-ideas/inside-stories/karen-greg-skiathos-september-2012-1",
+				"feature_value": " 58",
+				"cluster_win_mean": "50.82",
+				"delta": " -7.18"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/inspiration-ideas/wedding-showcase/victoria-matthew-santorini-caldera",
+				"feature_value": " 81",
+				"cluster_win_mean": "50.82",
+				"delta": "-30.18"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/inspiration-ideas/wedding-showcase/tara-paul-st-stefanos-island-kos",
+				"feature_value": " 51",
+				"cluster_win_mean": "50.82",
+				"delta": " -0.18"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/inspiration-ideas/wedding-showcase/catherine-carl-private-island-zakynthos",
+				"feature_value": " 81",
+				"cluster_win_mean": "50.82",
+				"delta": "-30.18"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/inspiration-ideas/wedding-showcase/bernadette-nathan-kefalonia-chapel-wedding",
+				"feature_value": " 57",
+				"cluster_win_mean": "50.82",
+				"delta": " -6.18"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/inspiration-ideas/wedding-showcase/jo-ricky-bouka-beach-wedding-in-zakynthos",
+				"feature_value": " 81",
+				"cluster_win_mean": "50.82",
+				"delta": "-30.18"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/inspiration-ideas/wedding-showcase/sally-nick-traditional-wedding-in-samos",
+				"feature_value": " 81",
+				"cluster_win_mean": "50.82",
+				"delta": "-30.18"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/inspiration-ideas/wedding-showcase/abi-chris-corfu-wedding",
+				"feature_value": " 81",
+				"cluster_win_mean": "50.82",
+				"delta": "-30.18"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/inspiration-ideas/wedding-showcase/jen-rich-asos-kefalonia-",
+				"feature_value": " 81",
+				"cluster_win_mean": "50.82",
+				"delta": "-30.18"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/inspiration-ideas/wedding-showcase/eva-maurice-st-stefanos-kos",
+				"feature_value": " 81",
+				"cluster_win_mean": "50.82",
+				"delta": "-30.18"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/destinations/greek-aegean-islands",
+				"feature_value": " 81",
+				"cluster_win_mean": "50.82",
+				"delta": "-30.18"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/destinations/greek-aegean-islands/amorgos",
+				"feature_value": " 60",
+				"cluster_win_mean": "50.82",
+				"delta": " -9.18"
+			}
+		],
+		"number_of_duplicate_words": [
+			{
+				"html_id": "http://www.ionianweddings.co.uk/search",
+				"feature_value": "40",
+				"cluster_win_mean": "97.66",
+				"delta": "57.66"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/inspiration-ideas/wedding-showcase/bernadette-nathan-kefalonia-chapel-wedding",
+				"feature_value": "39",
+				"cluster_win_mean": "97.66",
+				"delta": "58.66"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/inspiration-ideas/wedding-showcase/shanta-matt-lefkada-wedding",
+				"feature_value": "89",
+				"cluster_win_mean": "97.66",
+				"delta": " 8.66"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/inspiration-ideas/wedding-showcase/rhoda-alec-lakeside-crete-wedding",
+				"feature_value": "84",
+				"cluster_win_mean": "97.66",
+				"delta": "13.66"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/destinations/greek-aegean-islands/amorgos",
+				"feature_value": "88",
+				"cluster_win_mean": "97.66",
+				"delta": " 9.66"
+			}
+		],
+		"number_of_hyperlinks_with_file": [
+			{
+				"html_id": "http://www.ionianweddings.co.uk/destinations/greek-aegean-islands/crete",
+				"feature_value": "0",
+				"cluster_win_mean": "8.83",
+				"delta": "8.83"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/destinations/greek-aegean-islands/kos",
+				"feature_value": "0",
+				"cluster_win_mean": "8.83",
+				"delta": "8.83"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/destinations/greek-aegean-islands/mykonos",
+				"feature_value": "0",
+				"cluster_win_mean": "8.83",
+				"delta": "8.83"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/destinations/greek-aegean-islands/rhodes",
+				"feature_value": "0",
+				"cluster_win_mean": "8.83",
+				"delta": "8.83"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/destinations/greek-aegean-islands/samos",
+				"feature_value": "0",
+				"cluster_win_mean": "8.83",
+				"delta": "8.83"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/destinations/greek-aegean-islands/santorini",
+				"feature_value": "0",
+				"cluster_win_mean": "8.83",
+				"delta": "8.83"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/destinations/greek-aegean-islands/skiathos",
+				"feature_value": "0",
+				"cluster_win_mean": "8.83",
+				"delta": "8.83"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/destinations/greek-ionian-islands",
+				"feature_value": "0",
+				"cluster_win_mean": "8.83",
+				"delta": "8.83"
+			}
+		],
+		"number_of_rare_words": [
+			{
+				"html_id": "http://www.ionianweddings.co.uk/faqs",
+				"feature_value": "24",
+				"cluster_win_mean": "39.86",
+				"delta": "15.86"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/search",
+				"feature_value": " 9",
+				"cluster_win_mean": "39.86",
+				"delta": "30.86"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/inspiration-ideas",
+				"feature_value": "33",
+				"cluster_win_mean": "39.86",
+				"delta": " 6.86"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/inspiration-ideas/wedding-showcase/bernadette-nathan-kefalonia-chapel-wedding",
+				"feature_value": " 8",
+				"cluster_win_mean": "39.86",
+				"delta": "31.86"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/inspiration-ideas/wedding-showcase/shanta-matt-lefkada-wedding",
+				"feature_value": "14",
+				"cluster_win_mean": "39.86",
+				"delta": "25.86"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/inspiration-ideas/wedding-showcase/rhoda-alec-lakeside-crete-wedding",
+				"feature_value": "20",
+				"cluster_win_mean": "39.86",
+				"delta": "19.86"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/destinations/greek-aegean-islands/crete",
+				"feature_value": " 7",
+				"cluster_win_mean": "12.98",
+				"delta": " 5.98"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/destinations/greek-aegean-islands/samos",
+				"feature_value": " 7",
+				"cluster_win_mean": "12.98",
+				"delta": " 5.98"
+			}
+		],
+		"total_number_of_5k_common_words": [
+			{
+				"html_id": "http://www.ionianweddings.co.uk/search",
+				"feature_value": "90",
+				"cluster_win_mean": "132.73",
+				"delta": "42.73"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/inspiration-ideas/wedding-showcase/bernadette-nathan-kefalonia-chapel-wedding",
+				"feature_value": "89",
+				"cluster_win_mean": "132.73",
+				"delta": "43.73"
+			}
+		],
+		"number_of_titles_same_as_h1": [
+			{
+				"html_id": "http://www.ionianweddings.co.uk/planning-advice",
+				"feature_value": "0",
+				"cluster_win_mean": "1.06",
+				"delta": "1.06"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/our-story",
+				"feature_value": "0",
+				"cluster_win_mean": "1.06",
+				"delta": "1.06"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/awards",
+				"feature_value": "0",
+				"cluster_win_mean": "1.06",
+				"delta": "1.06"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/our-team",
+				"feature_value": "0",
+				"cluster_win_mean": "1.06",
+				"delta": "1.06"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/faqs",
+				"feature_value": "0",
+				"cluster_win_mean": "1.06",
+				"delta": "1.06"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/contact-us",
+				"feature_value": "0",
+				"cluster_win_mean": "1.06",
+				"delta": "1.06"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/search",
+				"feature_value": "1",
+				"cluster_win_mean": "1.06",
+				"delta": "0.06"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/packages",
+				"feature_value": "1",
+				"cluster_win_mean": "1.06",
+				"delta": "0.06"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/testimonials",
+				"feature_value": "1",
+				"cluster_win_mean": "1.06",
+				"delta": "0.06"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/latest-news",
+				"feature_value": "0",
+				"cluster_win_mean": "1.06",
+				"delta": "1.06"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/types-of-ceremony",
+				"feature_value": "0",
+				"cluster_win_mean": "1.06",
+				"delta": "1.06"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/destinations",
+				"feature_value": "0",
+				"cluster_win_mean": "1.06",
+				"delta": "1.06"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/inspiration-ideas",
+				"feature_value": "0",
+				"cluster_win_mean": "1.06",
+				"delta": "1.06"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/personal-consultations",
+				"feature_value": "0",
+				"cluster_win_mean": "1.06",
+				"delta": "1.06"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/inspiration-ideas/inside-stories",
+				"feature_value": "0",
+				"cluster_win_mean": "1.06",
+				"delta": "1.06"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/inspiration-ideas/inside-stories/karen-greg-skiathos-september-2012-1",
+				"feature_value": "0",
+				"cluster_win_mean": "1.06",
+				"delta": "1.06"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/inspiration-ideas/inside-stories/hayley-nicolas-santorini-september-2012",
+				"feature_value": "0",
+				"cluster_win_mean": "1.06",
+				"delta": "1.06"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/inspiration-ideas/inside-stories/lisa-leon-corfu-september-2012-",
+				"feature_value": "1",
+				"cluster_win_mean": "1.06",
+				"delta": "0.06"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/inspiration-ideas/wedding-showcase",
+				"feature_value": "1",
+				"cluster_win_mean": "1.06",
+				"delta": "0.06"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/inspiration-ideas/wedding-showcase/victoria-matthew-santorini-caldera",
+				"feature_value": "0",
+				"cluster_win_mean": "1.06",
+				"delta": "1.06"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/inspiration-ideas/wedding-showcase/tara-paul-st-stefanos-island-kos",
+				"feature_value": "1",
+				"cluster_win_mean": "1.06",
+				"delta": "0.06"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/inspiration-ideas/wedding-showcase/catherine-carl-private-island-zakynthos",
+				"feature_value": "0",
+				"cluster_win_mean": "1.06",
+				"delta": "1.06"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/inspiration-ideas/wedding-showcase/bernadette-nathan-kefalonia-chapel-wedding",
+				"feature_value": "1",
+				"cluster_win_mean": "1.06",
+				"delta": "0.06"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/inspiration-ideas/wedding-showcase/jo-ricky-bouka-beach-wedding-in-zakynthos",
+				"feature_value": "0",
+				"cluster_win_mean": "1.06",
+				"delta": "1.06"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/inspiration-ideas/wedding-showcase/sally-nick-traditional-wedding-in-samos",
+				"feature_value": "1",
+				"cluster_win_mean": "1.06",
+				"delta": "0.06"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/inspiration-ideas/wedding-showcase/shanta-matt-lefkada-wedding",
+				"feature_value": "0",
+				"cluster_win_mean": "1.06",
+				"delta": "1.06"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/inspiration-ideas/wedding-showcase/rhoda-alec-lakeside-crete-wedding",
+				"feature_value": "1",
+				"cluster_win_mean": "1.06",
+				"delta": "0.06"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/inspiration-ideas/wedding-showcase/angela-eds-pier-wedding-in-cyprus",
+				"feature_value": "0",
+				"cluster_win_mean": "1.06",
+				"delta": "1.06"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/inspiration-ideas/wedding-showcase/abi-chris-corfu-wedding",
+				"feature_value": "0",
+				"cluster_win_mean": "1.06",
+				"delta": "1.06"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/inspiration-ideas/wedding-showcase/jen-rich-asos-kefalonia-",
+				"feature_value": "0",
+				"cluster_win_mean": "1.06",
+				"delta": "1.06"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/inspiration-ideas/wedding-showcase/katie-wills-amorgos-wedding",
+				"feature_value": "1",
+				"cluster_win_mean": "1.06",
+				"delta": "0.06"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/inspiration-ideas/wedding-showcase/eva-maurice-st-stefanos-kos",
+				"feature_value": "0",
+				"cluster_win_mean": "1.06",
+				"delta": "1.06"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/destinations/greek-aegean-islands",
+				"feature_value": "0",
+				"cluster_win_mean": "1.06",
+				"delta": "1.06"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/destinations/greek-aegean-islands/amorgos",
+				"feature_value": "0",
+				"cluster_win_mean": "1.06",
+				"delta": "1.06"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/destinations/greek-aegean-islands/crete",
+				"feature_value": "0",
+				"cluster_win_mean": "   1",
+				"delta": "   1"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/destinations/greek-aegean-islands/kos",
+				"feature_value": "0",
+				"cluster_win_mean": "   1",
+				"delta": "   1"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/destinations/greek-aegean-islands/mykonos",
+				"feature_value": "0",
+				"cluster_win_mean": "   1",
+				"delta": "   1"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/destinations/greek-aegean-islands/rhodes",
+				"feature_value": "0",
+				"cluster_win_mean": "   1",
+				"delta": "   1"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/destinations/greek-aegean-islands/samos",
+				"feature_value": "0",
+				"cluster_win_mean": "   1",
+				"delta": "   1"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/destinations/greek-aegean-islands/santorini",
+				"feature_value": "0",
+				"cluster_win_mean": "   1",
+				"delta": "   1"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/destinations/greek-aegean-islands/skiathos",
+				"feature_value": "0",
+				"cluster_win_mean": "   1",
+				"delta": "   1"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/destinations/greek-ionian-islands",
+				"feature_value": "0",
+				"cluster_win_mean": "   1",
+				"delta": "   1"
+			}
+		],
+		"html5_detected": [
+			{
+				"html_id": "http://www.ionianweddings.co.uk/planning-advice",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/our-story",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/awards",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/our-team",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/faqs",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/contact-us",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/search",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/packages",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/testimonials",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/latest-news",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/types-of-ceremony",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/destinations",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/inspiration-ideas",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/personal-consultations",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/inspiration-ideas/inside-stories",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/inspiration-ideas/inside-stories/karen-greg-skiathos-september-2012-1",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/inspiration-ideas/inside-stories/hayley-nicolas-santorini-september-2012",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/inspiration-ideas/inside-stories/lisa-leon-corfu-september-2012-",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/inspiration-ideas/wedding-showcase",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/inspiration-ideas/wedding-showcase/victoria-matthew-santorini-caldera",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/inspiration-ideas/wedding-showcase/tara-paul-st-stefanos-island-kos",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/inspiration-ideas/wedding-showcase/catherine-carl-private-island-zakynthos",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/inspiration-ideas/wedding-showcase/bernadette-nathan-kefalonia-chapel-wedding",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/inspiration-ideas/wedding-showcase/jo-ricky-bouka-beach-wedding-in-zakynthos",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/inspiration-ideas/wedding-showcase/sally-nick-traditional-wedding-in-samos",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/inspiration-ideas/wedding-showcase/shanta-matt-lefkada-wedding",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/inspiration-ideas/wedding-showcase/rhoda-alec-lakeside-crete-wedding",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/inspiration-ideas/wedding-showcase/angela-eds-pier-wedding-in-cyprus",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/inspiration-ideas/wedding-showcase/abi-chris-corfu-wedding",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/inspiration-ideas/wedding-showcase/jen-rich-asos-kefalonia-",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/inspiration-ideas/wedding-showcase/katie-wills-amorgos-wedding",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/inspiration-ideas/wedding-showcase/eva-maurice-st-stefanos-kos",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/destinations/greek-aegean-islands",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/destinations/greek-aegean-islands/amorgos",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/destinations/greek-aegean-islands/crete",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/destinations/greek-aegean-islands/kos",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/destinations/greek-aegean-islands/mykonos",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/destinations/greek-aegean-islands/rhodes",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/destinations/greek-aegean-islands/samos",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/destinations/greek-aegean-islands/santorini",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/destinations/greek-aegean-islands/skiathos",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.ionianweddings.co.uk/destinations/greek-ionian-islands",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			}
+		]
+	}
+}

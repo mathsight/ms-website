@@ -1,0 +1,272 @@
+{
+	"offsite": {
+		"number_of_images_missing_alt": [
+			{
+				"html_id": "http://www.bestdiamondengagementring.com/raw-pearls-collaborate-with-holts-academy-of-jewellery-on-a-pearl-seminar/",
+				"feature_value": "1",
+				"cluster_win_mean": "10.1",
+				"delta": "9.1"
+			},
+			{
+				"html_id": "http://www.bestdiamondengagementring.com/category/uncategorized/page/25/",
+				"feature_value": "1",
+				"cluster_win_mean": "10.1",
+				"delta": "9.1"
+			},
+			{
+				"html_id": "http://www.jewelryne.ws/raw-pearls-collaborate-with-holts-academy-of-jewellery-on-a-pearl-seminar/",
+				"feature_value": "1",
+				"cluster_win_mean": "10.1",
+				"delta": "9.1"
+			}
+		],
+		"number_of_images": [
+			{
+				"html_id": "http://www.bestdiamondengagementring.com/category/uncategorized/page/25/",
+				"feature_value": " 8",
+				"cluster_win_mean": "11.1",
+				"delta": "3.1"
+			},
+			{
+				"html_id": "http://www.jewelryne.ws/raw-pearls-collaborate-with-holts-academy-of-jewellery-on-a-pearl-seminar/",
+				"feature_value": "11",
+				"cluster_win_mean": "11.1",
+				"delta": "0.1"
+			}
+		],
+		"total_number_of_words": [
+			{
+				"html_id": "http://www.bestdiamondengagementring.com/raw-pearls-collaborate-with-holts-academy-of-jewellery-on-a-pearl-seminar/",
+				"feature_value": "44",
+				"cluster_win_mean": "433.15",
+				"delta": "389.15"
+			},
+			{
+				"html_id": "http://www.bestdiamondengagementring.com/category/uncategorized/page/25/",
+				"feature_value": " 5",
+				"cluster_win_mean": "433.15",
+				"delta": "428.15"
+			},
+			{
+				"html_id": "http://www.jewelryne.ws/raw-pearls-collaborate-with-holts-academy-of-jewellery-on-a-pearl-seminar/",
+				"feature_value": "14",
+				"cluster_win_mean": "433.15",
+				"delta": "419.15"
+			}
+		],
+		"number_of_hyperlinks_with_html": [
+			{
+				"html_id": "http://www.bestdiamondengagementring.com/raw-pearls-collaborate-with-holts-academy-of-jewellery-on-a-pearl-seminar/",
+				"feature_value": "106",
+				"cluster_win_mean": "28.77",
+				"delta": " -77.23"
+			},
+			{
+				"html_id": "http://www.bestdiamondengagementring.com/category/uncategorized/page/25/",
+				"feature_value": "137",
+				"cluster_win_mean": "28.77",
+				"delta": "-108.23"
+			},
+			{
+				"html_id": "http://www.jewelryne.ws/raw-pearls-collaborate-with-holts-academy-of-jewellery-on-a-pearl-seminar/",
+				"feature_value": "161",
+				"cluster_win_mean": "28.77",
+				"delta": "-132.23"
+			}
+		],
+		"number_of_unique_words": [
+			{
+				"html_id": "http://www.bestdiamondengagementring.com/raw-pearls-collaborate-with-holts-academy-of-jewellery-on-a-pearl-seminar/",
+				"feature_value": "36",
+				"cluster_win_mean": "192.42",
+				"delta": "156.42"
+			},
+			{
+				"html_id": "http://www.bestdiamondengagementring.com/category/uncategorized/page/25/",
+				"feature_value": " 5",
+				"cluster_win_mean": "192.42",
+				"delta": "187.42"
+			},
+			{
+				"html_id": "http://www.jewelryne.ws/raw-pearls-collaborate-with-holts-academy-of-jewellery-on-a-pearl-seminar/",
+				"feature_value": "13",
+				"cluster_win_mean": "192.42",
+				"delta": "179.42"
+			}
+		],
+		"number_of_destination_titles_same_as_anchor_text": [
+			{
+				"html_id": "http://www.bestdiamondengagementring.com/raw-pearls-collaborate-with-holts-academy-of-jewellery-on-a-pearl-seminar/",
+				"feature_value": " 4",
+				"cluster_win_mean": "16.69",
+				"delta": "12.69"
+			},
+			{
+				"html_id": "http://www.bestdiamondengagementring.com/category/uncategorized/page/25/",
+				"feature_value": "12",
+				"cluster_win_mean": "16.69",
+				"delta": " 4.69"
+			}
+		],
+		"maximum_length_of_h1": [
+			{
+				"html_id": "http://www.bestdiamondengagementring.com/raw-pearls-collaborate-with-holts-academy-of-jewellery-on-a-pearl-seminar/",
+				"feature_value": "0",
+				"cluster_win_mean": "20.97",
+				"delta": "20.97"
+			},
+			{
+				"html_id": "http://www.bestdiamondengagementring.com/category/uncategorized/page/25/",
+				"feature_value": "0",
+				"cluster_win_mean": "20.97",
+				"delta": "20.97"
+			},
+			{
+				"html_id": "http://www.jewelryne.ws/raw-pearls-collaborate-with-holts-academy-of-jewellery-on-a-pearl-seminar/",
+				"feature_value": "0",
+				"cluster_win_mean": "20.97",
+				"delta": "20.97"
+			}
+		],
+		"average_length_of_h1": [
+			{
+				"html_id": "http://www.bestdiamondengagementring.com/raw-pearls-collaborate-with-holts-academy-of-jewellery-on-a-pearl-seminar/",
+				"feature_value": "0",
+				"cluster_win_mean": "19.34",
+				"delta": "19.34"
+			},
+			{
+				"html_id": "http://www.bestdiamondengagementring.com/category/uncategorized/page/25/",
+				"feature_value": "0",
+				"cluster_win_mean": "19.34",
+				"delta": "19.34"
+			},
+			{
+				"html_id": "http://www.jewelryne.ws/raw-pearls-collaborate-with-holts-academy-of-jewellery-on-a-pearl-seminar/",
+				"feature_value": "0",
+				"cluster_win_mean": "19.34",
+				"delta": "19.34"
+			}
+		],
+		"number_of_duplicate_words": {
+			"html_id": "http://www.bestdiamondengagementring.com/raw-pearls-collaborate-with-holts-academy-of-jewellery-on-a-pearl-seminar/",
+			"feature_value": "8",
+			"cluster_win_mean": "200.91",
+			"delta": "192.91"
+		},
+		"number_of_hyperlinks_with_file": [
+			{
+				"html_id": "http://www.bestdiamondengagementring.com/raw-pearls-collaborate-with-holts-academy-of-jewellery-on-a-pearl-seminar/",
+				"feature_value": "25",
+				"cluster_win_mean": "8.33",
+				"delta": "-16.67"
+			},
+			{
+				"html_id": "http://www.bestdiamondengagementring.com/category/uncategorized/page/25/",
+				"feature_value": "51",
+				"cluster_win_mean": "8.33",
+				"delta": "-42.67"
+			},
+			{
+				"html_id": "http://www.jewelryne.ws/raw-pearls-collaborate-with-holts-academy-of-jewellery-on-a-pearl-seminar/",
+				"feature_value": "15",
+				"cluster_win_mean": "8.33",
+				"delta": " -6.67"
+			}
+		],
+		"number_of_rare_words": [
+			{
+				"html_id": "http://www.bestdiamondengagementring.com/raw-pearls-collaborate-with-holts-academy-of-jewellery-on-a-pearl-seminar/",
+				"feature_value": "9",
+				"cluster_win_mean": "93.24",
+				"delta": "84.24"
+			},
+			{
+				"html_id": "http://www.bestdiamondengagementring.com/category/uncategorized/page/25/",
+				"feature_value": "1",
+				"cluster_win_mean": "93.24",
+				"delta": "92.24"
+			},
+			{
+				"html_id": "http://www.jewelryne.ws/raw-pearls-collaborate-with-holts-academy-of-jewellery-on-a-pearl-seminar/",
+				"feature_value": "6",
+				"cluster_win_mean": "93.24",
+				"delta": "87.24"
+			}
+		],
+		"total_number_of_5k_common_words": [
+			{
+				"html_id": "http://www.bestdiamondengagementring.com/raw-pearls-collaborate-with-holts-academy-of-jewellery-on-a-pearl-seminar/",
+				"feature_value": "35",
+				"cluster_win_mean": "281.97",
+				"delta": "246.97"
+			},
+			{
+				"html_id": "http://www.jewelryne.ws/raw-pearls-collaborate-with-holts-academy-of-jewellery-on-a-pearl-seminar/",
+				"feature_value": " 8",
+				"cluster_win_mean": "281.97",
+				"delta": "273.97"
+			}
+		],
+		"number_of_titles_same_as_h1": [
+			{
+				"html_id": "http://www.bestdiamondengagementring.com/raw-pearls-collaborate-with-holts-academy-of-jewellery-on-a-pearl-seminar/",
+				"feature_value": "0",
+				"cluster_win_mean": "1.1",
+				"delta": "1.1"
+			},
+			{
+				"html_id": "http://www.bestdiamondengagementring.com/category/uncategorized/page/25/",
+				"feature_value": "0",
+				"cluster_win_mean": "1.1",
+				"delta": "1.1"
+			},
+			{
+				"html_id": "http://www.jewelryne.ws/raw-pearls-collaborate-with-holts-academy-of-jewellery-on-a-pearl-seminar/",
+				"feature_value": "0",
+				"cluster_win_mean": "1.1",
+				"delta": "1.1"
+			}
+		],
+		"number_of_iframes": [
+			{
+				"html_id": "http://www.bestdiamondengagementring.com/raw-pearls-collaborate-with-holts-academy-of-jewellery-on-a-pearl-seminar/",
+				"feature_value": "0",
+				"cluster_win_mean": "1.02",
+				"delta": "1.02"
+			},
+			{
+				"html_id": "http://www.bestdiamondengagementring.com/category/uncategorized/page/25/",
+				"feature_value": "0",
+				"cluster_win_mean": "1.02",
+				"delta": "1.02"
+			},
+			{
+				"html_id": "http://www.jewelryne.ws/raw-pearls-collaborate-with-holts-academy-of-jewellery-on-a-pearl-seminar/",
+				"feature_value": "1",
+				"cluster_win_mean": "1.02",
+				"delta": "0.02"
+			}
+		],
+		"html5_detected": [
+			{
+				"html_id": "http://www.bestdiamondengagementring.com/raw-pearls-collaborate-with-holts-academy-of-jewellery-on-a-pearl-seminar/",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.bestdiamondengagementring.com/category/uncategorized/page/25/",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.jewelryne.ws/raw-pearls-collaborate-with-holts-academy-of-jewellery-on-a-pearl-seminar/",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			}
+		]
+	}
+}
