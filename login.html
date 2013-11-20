@@ -10,42 +10,70 @@
     <link href="assets/css/bootstrap.css" rel="stylesheet">
     <link href="assets/css/bootstrap-responsive.css" rel="stylesheet">
 	
-    <style type="text/css">
-      /* Override some defaults */
-	  html, body {
-		  background-color: #eee;
-	  }
-	  body { padding-top: 60px; /* 60px to make the container go all the way
-		  to the bottom of the topbar */ 
-	  }
-	  .container {
-		  width: 300px;
-	  }
 
-      /* The white background content wrapper */
-      .container > .content {
-        background-color: #fff;
-        padding: 20px;
-        margin: 0 -20px; 
-        -webkit-border-radius: 10px 10px 10px 10px;
-           -moz-border-radius: 10px 10px 10px 10px;
-                border-radius: 10px 10px 10px 10px;
-        -webkit-box-shadow: 0 1px 2px rgba(0,0,0,.15);
-           -moz-box-shadow: 0 1px 2px rgba(0,0,0,.15);
-                box-shadow: 0 1px 2px rgba(0,0,0,.15);
-      }
-
-	  .login-form {
-		margin-left: 65px;
-	  }
+	<style type="text/css">
 	
-	  legend {
+	/* Large desktop */
+	@media (min-width: 980px) { 
+		body {
+			padding-top: 60px;
+		}
+		.linediv-l {
+			border-right: 1px white solid;
+		}
+		.linediv-r {
+			border-left: 1px white solid;
+		}
+	}
+
+	/* Landscape phones and down */
+	@media (max-width: 480px) { 
+		.copy {
+			padding: 2.5% 10%;
+		}
+		.linediv-l {
+			border-bottom: 1px white solid;
+		}
+		.linediv-r {
+			border-top: 1px white solid;
+		}
+	}
+	
+	/* Override some defaults */
+	html, body {
+		background-color: #eee;
+	}
+	body { padding-top: 60px; /* 60px to make the container go all the way
+		to the bottom of the topbar */ 
+	}
+	.container {
+		width: 300px;
+	}
+
+	/* The white background content wrapper */
+	.container > .content {
+		background-color: #fff;
+		padding: 20px;
+		margin: 0 -20px; 
+		-webkit-border-radius: 10px 10px 10px 10px;
+		-moz-border-radius: 10px 10px 10px 10px;
+		border-radius: 10px 10px 10px 10px;
+		-webkit-box-shadow: 0 1px 2px rgba(0,0,0,.15);
+		-moz-box-shadow: 0 1px 2px rgba(0,0,0,.15);
+		box-shadow: 0 1px 2px rgba(0,0,0,.15);
+	}
+
+	.login-form {
+		margin-left: 65px;
+	}
+	
+	legend {
 		margin-right: -50px;
 		font-weight: bold;
-	  	color: #404040;
-	  }
+		color: #404040;
+	}
 
-    </style>
+	</style>
 
 </head>
 <body>
@@ -94,11 +122,6 @@
   </div>
 </div> <!-- /container -->
 
-<div class="row-fluid footer">
-  <div class="span12">
-	  <p><small>© MathSight Ltd 2013 &nbsp; &nbsp;Terms of Service &nbsp; &nbsp;Privacy &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Run by MathSight Ltd in Richmond, UK<small></p>
-	  </div>
-  </div>
 
   <style>
       
