@@ -392,19 +392,20 @@ jQuery(document).ready(function($) {
 		var nameElement = document.getElementById("inputURL");
 	        
 		var websiteURLNew = nameElement.value;
-		var websiteSplit= websiteURLNew.split(".");
-		var websiteName = websiteSplit[1];
+		var websiteSplitNew = websiteURLNew.split(".");
+		websiteName = websiteSplitNew[1];
 		alert('point1');
 		document.getElementById("dispUrl").innerHTML = "for " + websiteName;
 	    alert('point2');
-		dataTableOne.fnReloadAjax("/json/summary/"+websiteName+"_Xhat.json");
+		dataTableOne.fnReloadAjax();
+		// "/json/summary/"+websiteName+"_Xhat.json"
 		// onsiteHarmTable.fnReloadAjax();
 		alert('point3');
 		// onsiteHealthTable.fnReloadAjax();
 // 		alert('point4');
-// 		newFile = "/json/toplevel/" + websiteName + "_ybar.json";
-// 		redrawGraph(newFile);    
-// 		alert('point5');
+		newFile = "/json/toplevel/" + websiteName + "_ybar.json";
+		redrawGraph(newFile);    
+		alert('point4');
 
 		// return websiteSplit[1];
 	}
