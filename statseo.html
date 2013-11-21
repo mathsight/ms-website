@@ -354,7 +354,7 @@ var websiteName = websiteSplit[1];
 		alert('point1');
 		document.getElementById("dispUrl").innerHTML = "for " + websiteName;
 	    alert('point2');
-		$('#example3').dataTable().fnReloadAjax();
+		$('#example3').dataTable().fnReloadAjax("/json/summary/"+websiteName+"_Xhat.json");
 		// onsiteHarmTable.fnReloadAjax();
 		alert('point3');
 		// onsiteHealthTable.fnReloadAjax();
