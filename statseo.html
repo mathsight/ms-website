@@ -205,7 +205,7 @@ var websiteName = websiteSplit[1];
 	
 	
 	$(document).ready(function() {
-		var onsiteHarmTable = $('#example3').dataTable( {
+		onsiteHarmTable = $('#example3').dataTable( {
 			"bProcessing": true,
 			"sAjaxSource": "/json/summary/"+websiteName+"_Xhat.json",
 			"sAjaxDataProp": "onsite",
@@ -232,10 +232,8 @@ var websiteName = websiteSplit[1];
 	
 	function initDataTables(){
 	
-		
-	
 		// $(document).ready(function() {
-			var onsiteHealthTable = $('#example3b').dataTable( {
+			onsiteHealthTable = $('#example3b').dataTable( {
 				"bProcessing": true,
 				"sAjaxSource": "/json/summary/"+websiteName+"_Xhat.json",
 				"sAjaxDataProp": "onsite",
