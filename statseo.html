@@ -203,32 +203,36 @@ var websiteName = websiteSplit[1];
 	      });
 	});
 	
+	
+	$(document).ready(function() {
+		var onsiteHarmTable = $('#example3').dataTable( {
+			"bProcessing": true,
+			"sAjaxSource": "/json/summary/"+websiteName+"_Xhat.json",
+			"sAjaxDataProp": "onsite",
+			"aaSorting": [[ 4, "desc" ]],
+			"aoColumns": [
+			null,
+			{ "mData": null , //its null here because history column will contain the mRender
+			"mRender" : function ( data, type, full) {
+				return '<a href="onsite_SQ_drilldown.html#F'+ full[0] +'">'+full[1]+'</a>';
+			}
+		},
+		null,
+		{"bVisible": false},
+		null,
+		{"bVisible": false},		
+		{"bVisible": false},
+		{"bVisible": false},
+		{"bVisible": false},
+		{"bVisible": false}
+		]
+	} );
+} );
+	
+	
 	function initDataTables(){
 	
-		// $(document).ready(function() {
-			var onsiteHarmTable = $('#example3').dataTable( {
-				"bProcessing": true,
-				"sAjaxSource": "/json/summary/"+websiteName+"_Xhat.json",
-				"sAjaxDataProp": "onsite",
-				"aaSorting": [[ 4, "desc" ]],
-				"aoColumns": [
-				null,
-				{ "mData": null , //its null here because history column will contain the mRender
-				"mRender" : function ( data, type, full) {
-					return '<a href="onsite_SQ_drilldown.html#F'+ full[0] +'">'+full[1]+'</a>';
-				}
-			},
-			null,
-			{"bVisible": false},
-			null,
-			{"bVisible": false},		
-			{"bVisible": false},
-			{"bVisible": false},
-			{"bVisible": false},
-			{"bVisible": false}
-			]
-		} );
-		// } );
+		
 	
 		// $(document).ready(function() {
 			var onsiteHealthTable = $('#example3b').dataTable( {
@@ -352,6 +356,7 @@ var websiteName = websiteSplit[1];
 		    
 		// return websiteSplit[1];
 	}
+	
 	</script>
 
 	<script src="lib/d3.v3.js"></script>
