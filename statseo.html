@@ -27,6 +27,7 @@
 
 	<!-- for datatables -->
 	<script src="datatables/media/js/jquery.dataTables.js"></script>
+	<script type="text/javascript" src="dataTables.fnReloadAjax.js"></script>
 
 	<link href="http://fonts.googleapis.com/css?family=Ubuntu:300,400,500,700,300italic,400italic,500italic,700italic" rel="stylesheet" type="text/css">
 	<link href="http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,300,400,600,700,800" 
@@ -199,9 +200,49 @@ var websiteName = websiteSplit[1];
 //   return websiteSplitDyn[1];
 //  }
 
-	jQuery(document).ready(function($) {
-	      $(".clickableRow").click(function() {
-	            window.document.location = $(this).attr("href");
+$.fn.dataTableExt.oApi.fnReloadAjax = function ( oSettings, sNewSource, fnCallback, bStandingRedraw )
+{
+	if ( typeof sNewSource != 'undefined' && sNewSource != null )
+	{
+		oSettings.sAjaxSource = sNewSource;
+	}
+	this.oApi._fnProcessingDisplay( oSettings, true );
+	var that = this;
+	var iStart = oSettings._iDisplayStart;
+     
+	oSettings.fnServerData( oSettings.sAjaxSource, [], function(json) {
+		/* Clear the old information from the table */
+		that.oApi._fnClearTable( oSettings );
+         
+		/* Got the data - add it to the table */
+		for ( var i=0 ; i<json.aaData.length ; i++ )
+		{
+			that.oApi._fnAddData( oSettings, json.aaData[i] );
+		}
+         
+		oSettings.aiDisplay = oSettings.aiDisplayMaster.slice();
+		that.fnDraw();
+         
+		if ( typeof bStandingRedraw != 'undefined' && bStandingRedraw === true )
+		{
+			oSettings._iDisplayStart = iStart;
+			that.fnDraw( false );
+		}
+         
+		that.oApi._fnProcessingDisplay( oSettings, false );
+         
+		/* Callback user function - for event handlers etc */
+		if ( typeof fnCallback == 'function' && fnCallback != null )
+		{
+			fnCallback( oSettings );
+		}
+	}, oSettings );
+}
+
+
+jQuery(document).ready(function($) {
+	$(".clickableRow").click(function() {
+		window.document.location = $(this).attr("href");
 	      });
 	});
 	
