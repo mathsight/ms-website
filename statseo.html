@@ -395,10 +395,10 @@ jQuery(document).ready(function($) {
 		websiteName = websiteSplitNew[1];
 		document.getElementById("dispUrl").innerHTML = "for " + websiteName;
 		
-		dataTableOne.fnReloadAjax();
-		dataTableTwo.fnReloadAjax();
-		dataTableThree.fnReloadAjax();
-		dataTableFour.fnReloadAjax();
+		dataTableOne.fnReloadAjax("/json/summary/"+websiteName+"_Xhat.json");
+		dataTableTwo.fnReloadAjax("/json/summary/"+websiteName+"_Xhat.json");
+		dataTableThree.fnReloadAjax("/json/summary/"+websiteName+"_XhatOff.json");
+		dataTableFour.fnReloadAjax("/json/summary/"+websiteName+"_XhatOff.json");
 		// "/json/summary/"+websiteName+"_Xhat.json"
 		// onsiteHarmTable.fnReloadAjax();
 		
