@@ -206,7 +206,7 @@ var websiteName = websiteSplit[1];
 	function initDataTables(){
 	
 		// $(document).ready(function() {
-			$('#example3').dataTable( {
+			var oTable = $('#example3').dataTable( {
 				"bProcessing": true,
 				"sAjaxSource": "/json/summary/"+websiteName+"_Xhat.json",
 				"sAjaxDataProp": "onsite",
