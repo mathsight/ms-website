@@ -303,85 +303,101 @@ var websiteName = websiteSplit[1];
 	
 	
 	
-		<script>
+	<script>
 
-
-
+	function addEventHandler(node, type, f) {
+	   if (node.addEventListener) {
+	      node.addEventListener(type, f, false);
+	   } 
+	   else if (node.attachEvent) {
+	      node.attachEvent("on" + type, f);
+	   } 
+	   else {
+	      node["on" + type] = f;
+	   }
+	}
 	
-		function doStuff()
-		{
-			var nameElement = document.getElementById("inputURL");
+	var myButton = document.getElementById('submitUrl');
+	
+	addEventHandler(myButton, 'click', doSomething);
+	
+	function doSomething() {
+	   alert('Button clicked');
+	}
+
+
+	function doStuff()
+	{
+		var nameElement = document.getElementById("inputURL");
 	        
-			var websiteURLlocal = nameElement.value;
+		var websiteURLlocal = nameElement.value;
 
-			document.getElementById("someDiv").innerHTML = "for " + websiteURLlocal;
+		document.getElementById("dispUrl").innerHTML = "for " + websiteURLlocal;
 	        
-			// return websiteSplit[1];
-		}
-		</script>
-	
+		// return websiteSplit[1];
+	}
+	</script>
 
-	
 	<script src="lib/d3.v3.js"></script>
-<script src="assets/js/nv.d3.js"></script>
-<script src="src/utils.js"></script>
-<script src="src/tooltip.js"></script>
-<script src="src/models/legend.js"></script>
-<script src="src/models/axis.js"></script>
-<script src="src/models/multiBarHorizontal.js"></script>
-<script src="src/models/multiBarHorizontalChart.js"></script>
-<script src="assets/js/stream_layers.js"></script>
+	<script src="assets/js/nv.d3.js"></script>
+	<script src="src/utils.js"></script>
+	<script src="src/tooltip.js"></script>
+	<script src="src/models/legend.js"></script>
+	<script src="src/models/axis.js"></script>
+	<script src="src/models/multiBarHorizontal.js"></script>
+	<script src="src/models/multiBarHorizontalChart.js"></script>
+	<script src="assets/js/stream_layers.js"></script>
 
-<script>
+		<script>
 
 var topLevelFile = "/json/toplevel/" + websiteName + "_ybar.json";
 
 // data for chart
 
-long_short_data_old = [
-	{
-		"key": "Healthy",
-		"color": "#00cc00",
-		"values": [
-			{
-				"label": "Onsite",
-				"value": 55
-			},
-			{
-				"label": "Offsite",
-				"value": 3
-			}
-		]
-	},
-	{
-		"key": "Neutral",
-		"color": "#ff9900",
-		"values": [
-			{
-				"label": "Onsite",
-				"value": 8
-			},
-			{
-				"label": "Offsite",
-				"value": 0
-			}
-		]
-	},
-	{
-		"key": "Harmful",
-		"color": "#ff0000",
-		"values": [
-			{
-				"label": "Onsite",
-				"value": -15
-			},
-			{
-				"label": "Offsite",
-				"value": -30
-			}
-		]
-	}
-];
+// long_short_data_old = [
+// 	{
+// 		"key": "Healthy",
+// 		"color": "#00cc00",
+// 		"values": [
+// 			{
+// 				"label": "Onsite",
+// 				"value": 55
+// 			},
+// 			{
+// 				"label": "Offsite",
+// 				"value": 3
+// 			}
+// 		]
+// 	},
+// 	{
+// 		"key": "Neutral",
+// 		"color": "#ff9900",
+// 		"values": [
+// 			{
+// 				"label": "Onsite",
+// 				"value": 8
+// 			},
+// 			{
+// 				"label": "Offsite",
+// 				"value": 0
+// 			}
+// 		]
+// 	},
+// 	{
+// 		"key": "Harmful",
+// 		"color": "#ff0000",
+// 		"values": [
+// 			{
+// 				"label": "Onsite",
+// 				"value": -15
+// 			},
+// 			{
+// 				"label": "Offsite",
+// 				"value": -30
+// 			}
+// 		]
+// 	}
+// ];
 
 d3.json(topLevelFile, function(data) {
 
@@ -466,26 +482,30 @@ nv.addGraph(function() {
 	    
       <div class="row-fluid subheading">
 		  <div class="span12">
-		      <div class="form-group">
-		        <label>
-		          Enter your domain URL
-		        </label>
-		        <input type="url" class="form-control" id="inputURL">
-		      </div>
-
-		      <button onclick="doStuff()" type="submit" class="btn btn-primary" id="submitYes">
-		        submit!
-		      </button>
-			  <div id="someDiv" class="lead" >
-			      <hr>
-				  <!-- Special typography from Bootstrap for lead paragraph. -->
-				  <!-- http://twitter.github.io/bootstrap/base-css.html#typography -->
-				  <!-- <p >for </p> -->
-				  for 
-			  </div>
 			  
-			  <hr>
+			  <div class="form-group">
+				  <label>
+					  Enter your domain URL
+				  </label>
+				  <input type="url" class="form-control" id="inputURL">
+			  </div>
+
+			  <button onclick="doStuff()" type="submit" class="btn btn-primary" id="submitUrl">
+				  submit!
+			  </button>
+	
 			</div>  
+			
+			<div id="dispUrl" class="lead" >
+				<hr>
+				<!-- Special typography from Bootstrap for lead paragraph. -->
+				<!-- http://twitter.github.io/bootstrap/base-css.html#typography -->
+				<!-- <p >for </p> -->
+				for 
+			</div>
+		  
+			<hr>
+			
 			
 		</div>
 	  
