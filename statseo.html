@@ -248,40 +248,89 @@ jQuery(document).ready(function($) {
 	
 	
 	var dataTableOne;
-	
-	$(document).ready(function() {
-		dataTableOne = $('#example3').dataTable( {
-			"bProcessing": true,
-			"sAjaxSource": "/json/summary/"+websiteName+"_Xhat.json",
-			"sAjaxDataProp": "onsite",
-			"aaSorting": [[ 4, "desc" ]],
-			"aoColumns": [
-			null,
-			{ "mData": null , //its null here because history column will contain the mRender
-			"mRender" : function ( data, type, full) {
-				return '<a href="onsite_SQ_drilldown.html#F'+ full[0] +'">'+full[1]+'</a>';
-			}
-		},
-		null,
-		{"bVisible": false},
-		null,
-		{"bVisible": false},		
-		{"bVisible": false},
-		{"bVisible": false},
-		{"bVisible": false},
-		{"bVisible": false}
-		]
-	} );
-} );
-	
-	
+	var dataTableTwo;
+	var dataTableThree;
+	var dataTableFour;
+
 	function initDataTables(){
-	
-		// $(document).ready(function() {
-			onsiteHealthTable = $('#example3b').dataTable( {
+		$(document).ready(function() {
+			dataTableOne = $('#example3').dataTable( {
 				"bProcessing": true,
 				"sAjaxSource": "/json/summary/"+websiteName+"_Xhat.json",
 				"sAjaxDataProp": "onsite",
+				"aaSorting": [[ 4, "desc" ]],
+				"aoColumns": [
+				null,
+				{ "mData": null , //its null here because history column will contain the mRender
+				"mRender" : function ( data, type, full) {
+					return '<a href="onsite_SQ_drilldown.html#F'+ full[0] +'">'+full[1]+'</a>';
+				}
+			},
+			null,
+			{"bVisible": false},
+			null,
+			{"bVisible": false},		
+			{"bVisible": false},
+			{"bVisible": false},
+			{"bVisible": false},
+			{"bVisible": false}
+			]
+		} );
+	} );
+		
+	
+	// $(document).ready(function() {
+		dataTableTwo = $('#example3b').dataTable( {
+			"bProcessing": true,
+			"sAjaxSource": "/json/summary/"+websiteName+"_Xhat.json",
+			"sAjaxDataProp": "onsite",
+			"aaSorting": [[ 7, "desc" ]],
+			"aoColumns": [
+			null,
+			null,
+			{"bVisible": false},
+			null,
+			{"bVisible": false},
+			{"bVisible": false},
+			{"bVisible": false},
+			null,
+			{"bVisible": false},
+			{"bVisible": false}
+			]
+		} );
+		// } );
+	
+		// $(document).ready(function() {
+		
+			dataTableThree = $('#example4').dataTable( {
+				"bProcessing": true,
+				"sAjaxSource": "/json/summary/"+websiteName+"_XhatOff.json",
+				"sAjaxDataProp": "offsite",
+				"aaSorting": [[ 4, "desc" ]],
+				"aoColumns": [
+				null,
+				{ "mData": null , //its null here because history column will contain the mRender
+				"mRender" : function ( data, type, full) {
+					return '<a href="offsite_SQ_drilldown.html#F'+ full[0] +'">'+full[1]+'</a>';
+				}
+			},
+			null,
+			{"bVisible": false},
+			null,
+			{"bVisible": false},		
+			{"bVisible": false},
+			{"bVisible": false},
+			{"bVisible": false},
+			{"bVisible": false}
+			]
+		} );
+		// } );
+	
+		// $(document).ready(function() {
+			dataTableFour = $('#example4b').dataTable( {
+				"bProcessing": true,
+				"sAjaxSource": "/json/summary/"+websiteName+"_XhatOff.json",
+				"sAjaxDataProp": "offsite",
 				"aaSorting": [[ 7, "desc" ]],
 				"aoColumns": [
 				null,
@@ -298,65 +347,15 @@ jQuery(document).ready(function($) {
 			} );
 			// } );
 	
-			// $(document).ready(function() {
-		
-				// 	var nameElement = document.getElementById("inputURL");
-				// 		var url = nameElement.value;
-				// var jsonFileName = "/json/summary/"" + url + "".json";
-				var offsiteHarmTable = $('#example4').dataTable( {
-					"bProcessing": true,
-					"sAjaxSource": "/json/summary/"+websiteName+"_XhatOff.json",
-					"sAjaxDataProp": "offsite",
-					"aaSorting": [[ 4, "desc" ]],
-					"aoColumns": [
-					null,
-					{ "mData": null , //its null here because history column will contain the mRender
-					"mRender" : function ( data, type, full) {
-						return '<a href="offsite_SQ_drilldown.html#F'+ full[0] +'">'+full[1]+'</a>';
-					}
-				},
-				null,
-				{"bVisible": false},
-				null,
-				{"bVisible": false},		
-				{"bVisible": false},
-				{"bVisible": false},
-				{"bVisible": false},
-				{"bVisible": false}
-				]
-			} );
-			// } );
-	
-			// $(document).ready(function() {
-				var offsiteHealthTable = $('#example4b').dataTable( {
-					"bProcessing": true,
-					"sAjaxSource": "/json/summary/"+websiteName+"_XhatOff.json",
-					"sAjaxDataProp": "offsite",
-					"aaSorting": [[ 7, "desc" ]],
-					"aoColumns": [
-					null,
-					null,
-					{"bVisible": false},
-					null,
-					{"bVisible": false},
-					{"bVisible": false},
-					{"bVisible": false},
-					null,
-					{"bVisible": false},
-					{"bVisible": false}
-					]
-				} );
-				// } );
-	
-			}
+		}
 
-			/* within ready event of pageload */
+		/* within ready event of pageload */
 
-			$(document).ready(function(){
-				initDataTables();
-				/* all other page load code*/
+		$(document).ready(function(){
+			initDataTables();
+			/* all other page load code*/
 
-			});
+		});
 	
 	</script>
 	
@@ -394,19 +393,19 @@ jQuery(document).ready(function($) {
 		var websiteURLNew = nameElement.value;
 		var websiteSplitNew = websiteURLNew.split(".");
 		websiteName = websiteSplitNew[1];
-		alert('point1');
 		document.getElementById("dispUrl").innerHTML = "for " + websiteName;
-	    alert('point2');
+		
 		dataTableOne.fnReloadAjax();
+		dataTableTwo.fnReloadAjax();
+		dataTableThree.fnReloadAjax();
+		dataTableFour.fnReloadAjax();
 		// "/json/summary/"+websiteName+"_Xhat.json"
 		// onsiteHarmTable.fnReloadAjax();
-		alert('point3');
+		
 		// onsiteHealthTable.fnReloadAjax();
-// 		alert('point4');
 		newFile = "/json/toplevel/" + websiteName + "_ybar.json";
 		redrawGraph(newFile);    
-		alert('point4');
-
+		
 		// return websiteSplit[1];
 	}
 	
