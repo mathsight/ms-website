@@ -203,12 +203,12 @@ var websiteName = websiteSplit[1];
 	      });
 	});
 	
-	function initDataTables(siteName){
+	function initDataTables(){
 	
 		// $(document).ready(function() {
 			$('#example3').dataTable( {
 				"bProcessing": true,
-				"sAjaxSource": "/json/summary/"+siteName+"_Xhat.json",
+				"sAjaxSource": "/json/summary/"+websiteName+"_Xhat.json",
 				"sAjaxDataProp": "onsite",
 				"aaSorting": [[ 4, "desc" ]],
 				"aoColumns": [
@@ -233,7 +233,7 @@ var websiteName = websiteSplit[1];
 		// $(document).ready(function() {
 			$('#example3b').dataTable( {
 				"bProcessing": true,
-				"sAjaxSource": "/json/summary/"+siteName+"_Xhat.json",
+				"sAjaxSource": "/json/summary/"+websiteName+"_Xhat.json",
 				"sAjaxDataProp": "onsite",
 				"aaSorting": [[ 7, "desc" ]],
 				"aoColumns": [
@@ -258,7 +258,7 @@ var websiteName = websiteSplit[1];
 				// var jsonFileName = "/json/summary/"" + url + "".json";
 				$('#example4').dataTable( {
 					"bProcessing": true,
-					"sAjaxSource": "/json/summary/"+siteName+"_XhatOff.json",
+					"sAjaxSource": "/json/summary/"+websiteName+"_XhatOff.json",
 					"sAjaxDataProp": "offsite",
 					"aaSorting": [[ 4, "desc" ]],
 					"aoColumns": [
@@ -283,7 +283,7 @@ var websiteName = websiteSplit[1];
 			// $(document).ready(function() {
 				$('#example4b').dataTable( {
 					"bProcessing": true,
-					"sAjaxSource": "/json/summary/"+siteName+"_XhatOff.json",
+					"sAjaxSource": "/json/summary/"+websiteName+"_XhatOff.json",
 					"sAjaxDataProp": "offsite",
 					"aaSorting": [[ 7, "desc" ]],
 					"aoColumns": [
@@ -306,7 +306,7 @@ var websiteName = websiteSplit[1];
 			/* within ready event of pageload */
 
 			$(document).ready(function(){
-				initDataTables(websiteName);
+				initDataTables();
 				/* all other page load code*/
 
 			});
@@ -343,12 +343,12 @@ var websiteName = websiteSplit[1];
 		var nameElement = document.getElementById("inputURL");
 	        
 		var websiteURLlocal = nameElement.value;
-		var websiteSplitLocal = websiteURL.split(".");
-		var websiteNameLocal = websiteSplit[1];
+		websiteSplit= websiteURL.split(".");
+		websiteName = websiteSplit[1];
 
 		document.getElementById("dispUrl").innerHTML = "for " + websiteURLlocal;
 	    
-		initDataTables(websiteNameLocal);
+		initDataTables();
 		    
 		// return websiteSplit[1];
 	}
