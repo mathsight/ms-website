@@ -206,7 +206,7 @@ var websiteName = websiteSplit[1];
 	function initDataTables(){
 	
 		// $(document).ready(function() {
-			var oTable = $('#example3').dataTable( {
+			var onsiteHarmTable = $('#example3').dataTable( {
 				"bProcessing": true,
 				"sAjaxSource": "/json/summary/"+websiteName+"_Xhat.json",
 				"sAjaxDataProp": "onsite",
@@ -231,7 +231,7 @@ var websiteName = websiteSplit[1];
 		// } );
 	
 		// $(document).ready(function() {
-			$('#example3b').dataTable( {
+			var onsiteHealthTable = $('#example3b').dataTable( {
 				"bProcessing": true,
 				"sAjaxSource": "/json/summary/"+websiteName+"_Xhat.json",
 				"sAjaxDataProp": "onsite",
@@ -256,7 +256,7 @@ var websiteName = websiteSplit[1];
 				// 	var nameElement = document.getElementById("inputURL");
 				// 		var url = nameElement.value;
 				// var jsonFileName = "/json/summary/"" + url + "".json";
-				$('#example4').dataTable( {
+				var offsiteHarmTable = $('#example4').dataTable( {
 					"bProcessing": true,
 					"sAjaxSource": "/json/summary/"+websiteName+"_XhatOff.json",
 					"sAjaxDataProp": "offsite",
@@ -281,7 +281,7 @@ var websiteName = websiteSplit[1];
 			// } );
 	
 			// $(document).ready(function() {
-				$('#example4b').dataTable( {
+				var offsiteHealthTable = $('#example4b').dataTable( {
 					"bProcessing": true,
 					"sAjaxSource": "/json/summary/"+websiteName+"_XhatOff.json",
 					"sAjaxDataProp": "offsite",
@@ -348,7 +348,7 @@ var websiteName = websiteSplit[1];
 
 		document.getElementById("dispUrl").innerHTML = "for " + websiteURLlocal;
 	    
-		initDataTables();
+		onsiteHarmTable.FnDraw();
 		    
 		// return websiteSplit[1];
 	}
