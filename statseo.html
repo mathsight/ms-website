@@ -423,37 +423,37 @@ var websiteName = websiteSplit[1];
 // 	}
 // ];
 
-initGraph = function(file) {
-	d3.json(file, function(data) {
 
-		var chart;
-		nv.addGraph(function() {
-			chart = nv.models.multiBarHorizontalChart()
-			.x(function(d) { return d.label })
-			.y(function(d) { return d.value })
-			.margin({top: 30, right: 100, bottom: 50, left: 100})
-			//.showValues(true)
-			//.tooltips(false)
-			//.barColor(d3.scale.category20().range())
-			.transitionDuration(250)
-			.stacked(false)
-			//.showControls(false);
+d3.json(topLevelFile, function(data) {
 
-			chart.yAxis
-			.tickFormat(d3.format(',.2f'));
+	var chart;
+	nv.addGraph(function() {
+		chart = nv.models.multiBarHorizontalChart()
+		.x(function(d) { return d.label })
+		.y(function(d) { return d.value })
+		.margin({top: 30, right: 100, bottom: 50, left: 100})
+		//.showValues(true)
+		//.tooltips(false)
+		//.barColor(d3.scale.category20().range())
+		.transitionDuration(250)
+		.stacked(false)
+		//.showControls(false);
 
-			d3.select('#chart1 svg')
-			.datum(data)
-			.call(chart);
+		chart.yAxis
+		.tickFormat(d3.format(',.2f'));
 
-			nv.utils.windowResize(chart.update);
+		d3.select('#chart1 svg')
+		.datum(data)
+		.call(chart);
 
-			chart.dispatch.on('stateChange', function(e) { nv.log('New State:', JSON.stringify(e)); });
+		nv.utils.windowResize(chart.update);
 
-			return chart;
-		});
+		chart.dispatch.on('stateChange', function(e) { nv.log('New State:', JSON.stringify(e)); });
+
+		return chart;
 	});
-};
+});
+
 
 
 
