@@ -206,8 +206,10 @@ var websiteName = websiteSplit[1];
 	});
 	
 	
+	var dataTableOne;
+	
 	$(document).ready(function() {
-		$('#example3').dataTable( {
+		dataTableOne = $('#example3').dataTable( {
 			"bProcessing": true,
 			"sAjaxSource": "/json/summary/"+websiteName+"_Xhat.json",
 			"sAjaxDataProp": "onsite",
@@ -354,7 +356,7 @@ var websiteName = websiteSplit[1];
 		alert('point1');
 		document.getElementById("dispUrl").innerHTML = "for " + websiteName;
 	    alert('point2');
-		$('#example3').dataTable().fnReloadAjax("/json/summary/"+websiteName+"_Xhat.json");
+		dataTableOne.fnReloadAjax("/json/summary/"+websiteName+"_Xhat.json");
 		// onsiteHarmTable.fnReloadAjax();
 		alert('point3');
 		// onsiteHealthTable.fnReloadAjax();
