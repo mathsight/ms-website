@@ -338,7 +338,10 @@ var websiteName = websiteSplit[1];
 	// function doSomething() {
 	//    alert('Button clicked');
 	// }
-
+	
+	var topLevelFile = "/json/toplevel/" + websiteName + "_ybar.json";
+	initGraph(topLevelFile);
+	
 
 	function doStuff()
 	{
@@ -352,7 +355,7 @@ var websiteName = websiteSplit[1];
 	    
 		onsiteHarmTable.FnDraw();
 		topLevelFile = "/json/toplevel/" + websiteName + "_ybar.json";
-		    
+		redrawGraph(topLevelFile);    
 		// return websiteSplit[1];
 	}
 	
@@ -370,7 +373,7 @@ var websiteName = websiteSplit[1];
 
 		<script>
 
-var topLevelFile = "/json/toplevel/" + websiteName + "_ybar.json";
+
 
 // data for chart
 
@@ -419,36 +422,50 @@ var topLevelFile = "/json/toplevel/" + websiteName + "_ybar.json";
 // 	}
 // ];
 
-d3.json(topLevelFile, function(data) {
+initGraph = function(file) {
+	d3.json(file, function(data) {
 
-var chart;
-nv.addGraph(function() {
-  chart = nv.models.multiBarHorizontalChart()
-      .x(function(d) { return d.label })
-      .y(function(d) { return d.value })
-      .margin({top: 30, right: 100, bottom: 50, left: 100})
-      //.showValues(true)
-      //.tooltips(false)
-      //.barColor(d3.scale.category20().range())
-      .transitionDuration(250)
-      .stacked(false)
-      //.showControls(false);
+		var chart;
+		nv.addGraph(function() {
+			chart = nv.models.multiBarHorizontalChart()
+			.x(function(d) { return d.label })
+			.y(function(d) { return d.value })
+			.margin({top: 30, right: 100, bottom: 50, left: 100})
+			//.showValues(true)
+			//.tooltips(false)
+			//.barColor(d3.scale.category20().range())
+			.transitionDuration(250)
+			.stacked(false)
+			//.showControls(false);
 
-  chart.yAxis
-      .tickFormat(d3.format(',.2f'));
+			chart.yAxis
+			.tickFormat(d3.format(',.2f'));
 
-  d3.select('#chart1 svg')
-      .datum(data)
-      .call(chart);
+			d3.select('#chart1 svg')
+			.datum(data)
+			.call(chart);
 
-  nv.utils.windowResize(chart.update);
+			nv.utils.windowResize(chart.update);
 
-  chart.dispatch.on('stateChange', function(e) { nv.log('New State:', JSON.stringify(e)); });
+			chart.dispatch.on('stateChange', function(e) { nv.log('New State:', JSON.stringify(e)); });
 
-  return chart;
-});
-});
+			return chart;
+		});
+	});
+};
 
+
+
+redrawGraph = function(file) {
+  d3.json(file, function(data) {
+
+	d3.select('#chart1 svg')
+	.datum(data)
+	.call(chart);
+	
+    nv.utils.windowResize(chart.update);
+  });
+};
 
 </script>
 	
