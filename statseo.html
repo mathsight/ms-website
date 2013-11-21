@@ -511,7 +511,21 @@ d3.json(topLevelFile, function(data) {
 
 redrawGraph = function(file) {
   d3.json(file, function(data) {
+	  
+	chart = nv.models.multiBarHorizontalChart()
+	.x(function(d) { return d.label })
+	.y(function(d) { return d.value })
+	.margin({top: 30, right: 100, bottom: 50, left: 100})
+	//.showValues(true)
+	//.tooltips(false)
+	//.barColor(d3.scale.category20().range())
+	.transitionDuration(250)
+	.stacked(false)
+	//.showControls(false);
 
+	chart.yAxis
+	.tickFormat(d3.format(',.2f'));
+	  
 	d3.select('#chart1 svg')
 	.datum(data)
 	.call(chart);
