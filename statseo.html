@@ -203,101 +203,113 @@ var websiteName = websiteSplit[1];
 	      });
 	});
 	
-	$(document).ready(function() {
-		$('#example3').dataTable( {
-			"bProcessing": true,
-			"sAjaxSource": "/json/summary/"+websiteName+"_Xhat.json",
-			"sAjaxDataProp": "onsite",
-			"aaSorting": [[ 4, "desc" ]],
-			"aoColumns": [
-			null,
-			{ "mData": null , //its null here because history column will contain the mRender
-			"mRender" : function ( data, type, full) {
-				return '<a href="onsite_SQ_drilldown.html#F'+ full[0] +'">'+full[1]+'</a>';
-			}
-		},
-		null,
-		{"bVisible": false},
-		null,
-		{"bVisible": false},		
-		{"bVisible": false},
-		{"bVisible": false},
-		{"bVisible": false},
-		{"bVisible": false}
-		]
-	} );
-} );
+	function initDatatables(){
 	
-	$(document).ready(function() {
-	    $('#example3b').dataTable( {
-	        "bProcessing": true,
-	        "sAjaxSource": "/json/summary/"+websiteName+"_Xhat.json",
-	        "sAjaxDataProp": "onsite",
-			"aaSorting": [[ 7, "desc" ]],
-			"aoColumns": [
-			null,
+		// $(document).ready(function() {
+			$('#example3').dataTable( {
+				"bProcessing": true,
+				"sAjaxSource": "/json/summary/"+websiteName+"_Xhat.json",
+				"sAjaxDataProp": "onsite",
+				"aaSorting": [[ 4, "desc" ]],
+				"aoColumns": [
+				null,
+				{ "mData": null , //its null here because history column will contain the mRender
+				"mRender" : function ( data, type, full) {
+					return '<a href="onsite_SQ_drilldown.html#F'+ full[0] +'">'+full[1]+'</a>';
+				}
+			},
 			null,
 			{"bVisible": false},
 			null,
+			{"bVisible": false},		
 			{"bVisible": false},
 			{"bVisible": false},
-			{"bVisible": false},
-			null,
 			{"bVisible": false},
 			{"bVisible": false}
 			]
 		} );
-	} );
+		// } );
 	
-	$(document).ready(function() {
+		// $(document).ready(function() {
+			$('#example3b').dataTable( {
+				"bProcessing": true,
+				"sAjaxSource": "/json/summary/"+websiteName+"_Xhat.json",
+				"sAjaxDataProp": "onsite",
+				"aaSorting": [[ 7, "desc" ]],
+				"aoColumns": [
+				null,
+				null,
+				{"bVisible": false},
+				null,
+				{"bVisible": false},
+				{"bVisible": false},
+				{"bVisible": false},
+				null,
+				{"bVisible": false},
+				{"bVisible": false}
+				]
+			} );
+			// } );
+	
+			// $(document).ready(function() {
 		
-		// 	var nameElement = document.getElementById("inputURL");
-		// 		var url = nameElement.value;
-		// var jsonFileName = "/json/summary/"" + url + "".json";
-		$('#example4').dataTable( {
-			"bProcessing": true,
-			"sAjaxSource": "/json/summary/"+websiteName+"_XhatOff.json",
-			"sAjaxDataProp": "offsite",
-			"aaSorting": [[ 4, "desc" ]],
-			"aoColumns": [
-			null,
-			{ "mData": null , //its null here because history column will contain the mRender
-			"mRender" : function ( data, type, full) {
-				return '<a href="offsite_SQ_drilldown.html#F'+ full[0] +'">'+full[1]+'</a>';
-			}
-		},
-		null,
-		{"bVisible": false},
-		null,
-		{"bVisible": false},		
-		{"bVisible": false},
-		{"bVisible": false},
-		{"bVisible": false},
-		{"bVisible": false}
-		]
-	} );
-} );
+				// 	var nameElement = document.getElementById("inputURL");
+				// 		var url = nameElement.value;
+				// var jsonFileName = "/json/summary/"" + url + "".json";
+				$('#example4').dataTable( {
+					"bProcessing": true,
+					"sAjaxSource": "/json/summary/"+websiteName+"_XhatOff.json",
+					"sAjaxDataProp": "offsite",
+					"aaSorting": [[ 4, "desc" ]],
+					"aoColumns": [
+					null,
+					{ "mData": null , //its null here because history column will contain the mRender
+					"mRender" : function ( data, type, full) {
+						return '<a href="offsite_SQ_drilldown.html#F'+ full[0] +'">'+full[1]+'</a>';
+					}
+				},
+				null,
+				{"bVisible": false},
+				null,
+				{"bVisible": false},		
+				{"bVisible": false},
+				{"bVisible": false},
+				{"bVisible": false},
+				{"bVisible": false}
+				]
+			} );
+			// } );
 	
-	$(document).ready(function() {
-	    $('#example4b').dataTable( {
-	        "bProcessing": true,
-	        "sAjaxSource": "/json/summary/"+websiteName+"_XhatOff.json",
-			"sAjaxDataProp": "offsite",
-			"aaSorting": [[ 7, "desc" ]],
-			"aoColumns": [
-			null,
-			null,
-			{"bVisible": false},
-			null,
-			{"bVisible": false},
-			{"bVisible": false},
-			{"bVisible": false},
-			null,
-			{"bVisible": false},
-			{"bVisible": false}
-			]
-	    } );
-	} );
+			// $(document).ready(function() {
+				$('#example4b').dataTable( {
+					"bProcessing": true,
+					"sAjaxSource": "/json/summary/"+websiteName+"_XhatOff.json",
+					"sAjaxDataProp": "offsite",
+					"aaSorting": [[ 7, "desc" ]],
+					"aoColumns": [
+					null,
+					null,
+					{"bVisible": false},
+					null,
+					{"bVisible": false},
+					{"bVisible": false},
+					{"bVisible": false},
+					null,
+					{"bVisible": false},
+					{"bVisible": false}
+					]
+				} );
+				// } );
+	
+			}
+
+			/* within ready event of pageload */
+
+			$(document).ready(function(){
+				initDataTables();
+				/* all other page load code*/
+
+			});
 	
 	</script>
 	
@@ -305,25 +317,25 @@ var websiteName = websiteSplit[1];
 	
 	<script>
 
-	function addEventHandler(node, type, f) {
-	   if (node.addEventListener) {
-	      node.addEventListener(type, f, false);
-	   } 
-	   else if (node.attachEvent) {
-	      node.attachEvent("on" + type, f);
-	   } 
-	   else {
-	      node["on" + type] = f;
-	   }
-	}
-	
-	var myButton = document.getElementById('submitUrl');
-	
-	addEventHandler(myButton, 'click', doSomething);
-	
-	function doSomething() {
-	   alert('Button clicked');
-	}
+	// function addEventHandler(node, type, f) {
+	//    if (node.addEventListener) {
+	//       node.addEventListener(type, f, false);
+	//    } 
+	//    else if (node.attachEvent) {
+	//       node.attachEvent("on" + type, f);
+	//    } 
+	//    else {
+	//       node["on" + type] = f;
+	//    }
+	// }
+	// 
+	// var myButton = document.getElementById('submitUrl');
+	// 
+	// addEventHandler(myButton, 'click', doSomething);
+	// 
+	// function doSomething() {
+	//    alert('Button clicked');
+	// }
 
 
 	function doStuff()
