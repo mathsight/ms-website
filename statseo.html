@@ -352,7 +352,8 @@ var websiteName = websiteSplit[1];
 
 		document.getElementById("dispUrl").innerHTML = "for " + websiteName;
 	    
-		onsiteHarmTable.FnDraw();
+		onsiteHarmTable.fnReloadAjax();
+		onsiteHealthTable.fnReloadAjax();
 		newFile = "/json/toplevel/" + websiteName + "_ybar.json";
 		redrawGraph(newFile);    
 		// return websiteSplit[1];
