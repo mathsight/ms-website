@@ -349,13 +349,16 @@ var websiteName = websiteSplit[1];
 		var websiteURLNew = nameElement.value;
 		var websiteSplit= websiteURLNew.split(".");
 		var websiteName = websiteSplit[1];
-
+		alert('point1');
 		document.getElementById("dispUrl").innerHTML = "for " + websiteName;
-	    
+	    alert('point2');
 		onsiteHarmTable.fnReloadAjax();
+		alert('point3');
 		onsiteHealthTable.fnReloadAjax();
+		alert('point4');
 		newFile = "/json/toplevel/" + websiteName + "_ybar.json";
 		redrawGraph(newFile);    
+		alert('point5');
 		// return websiteSplit[1];
 	}
 	
