@@ -346,9 +346,9 @@ var websiteName = websiteSplit[1];
 	{
 		var nameElement = document.getElementById("inputURL");
 	        
-		var websiteURLlocal = nameElement.value;
-		websiteSplit= websiteURL.split(".");
-		websiteName = websiteSplit[1];
+		var websiteURLNew = nameElement.value;
+		var websiteSplit= websiteURLNew.split(".");
+		var websiteName = websiteSplit[1];
 
 		document.getElementById("dispUrl").innerHTML = "for " + websiteName;
 	    
