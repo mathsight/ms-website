@@ -28,15 +28,15 @@
 	<script type="text/javascript" charset="utf-8" src="datatables/media/js/TableTools.js"></script>
 	<script type="text/javascript" charset="utf-8" src="http://datatables.github.com/Plugins/integration/bootstrap/2/dataTables.bootstrap.js"></script>
 	
-	<!-- <script type="text/javascript" charset="utf-8">
+	<script type="text/javascript" charset="utf-8">
 	$(document).ready( function () {
 		$('#example').dataTable( {
-			"sDom": "<'row-fluid'<'span6'T><'span6'f>r>t<'row-fluid'<'span6'i><'span6'p>>",
+			
 			
 		} );
 	} );
 	</script>
-	 -->
+	
 	
 	<!-- for nv.d3 charts -->
 	<link href="src/nv.d3.css" rel="stylesheet" type="text/css">
@@ -260,6 +260,7 @@ function initDataTables(){
 			"sAjaxSource": "/json/summary/"+websiteName+"_Xhat.json",
 			"sAjaxDataProp": "onsite",
 			"aaSorting": [[ 4, "desc" ]],
+			"sDom": "<'row-fluid'<'span6'T><'span6'f>r>t<'row-fluid'<'span6'i><'span6'p>>",
 			"oTableTools": {
 				"aButtons": [
 				"copy",
