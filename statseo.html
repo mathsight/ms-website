@@ -11,32 +11,32 @@
 	<script src="//ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.js"></script>
 	<script src="https://d396qusza40orc.cloudfront.net/startup%2Fcode%2Fbootstrap.js"></script>
 	<script src="//netdna.bootstrapcdn.com/bootstrap/3.0.2/js/bootstrap.min.js"></script>
+	<!-- for datatables' styling -->
+	<link href="http://fonts.googleapis.com/css?family=Ubuntu:300,400,500,700,300italic,400italic,500italic,700italic" rel="stylesheet" type="text/css">
+	<link href="http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,300,400,600,700,800" rel="stylesheet" type="text/css">
+	
 	<!-- Optional theme -->
 	<link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.0.2/css/bootstrap-theme.min.css">
 
 	<script src="//ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
-	
-	<!-- for jqplot charts -->
-<!-- 
-	<script src="dist/jquery.jqplot.min.js"></script>
-	<script src="dist/plugins/jqplot.pieRenderer.min.js"></script>
-	<script src="dist/plugins/jqplot.barRenderer.min.js"></script>
-	<script src="dist/plugins/jqplot.categoryAxisRenderer.min.js"></script>
-	<script src="dist/plugins/jqplot.pointLabels.min.js"></script>
- -->
 
 	<!-- for datatables -->
 	<script src="datatables/media/js/jquery.dataTables.js"></script>
 
-
-	<link href="http://fonts.googleapis.com/css?family=Ubuntu:300,400,500,700,300italic,400italic,500italic,700italic" rel="stylesheet" type="text/css">
-	<link href="http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,300,400,600,700,800" 
-	rel="stylesheet" type="text/css">
+	<!-- for datatables' styling etc -->
+	<script type="text/javascript" charset="utf-8" src="datatables/media/js/ZeroClipboard.js"></script>
+	<script type="text/javascript" charset="utf-8" src="datatables/media/js/TableTools.js"></script>
+	<script type="text/javascript" charset="utf-8" src="http://datatables.github.com/Plugins/integration/bootstrap/2/dataTables.bootstrap.js"></script>
 	
-	<!-- for jqplot charts -->	  
-<!-- 
-	<link rel="stylesheet" type="text/css" href="dist/jquery.jqplot.min.css" />
- -->
+	<!-- <script type="text/javascript" charset="utf-8">
+	$(document).ready( function () {
+		$('#example').dataTable( {
+			"sDom": "<'row-fluid'<'span6'T><'span6'f>r>t<'row-fluid'<'span6'i><'span6'p>>",
+			
+		} );
+	} );
+	</script>
+	 -->
 	
 	<!-- for nv.d3 charts -->
 	<link href="src/nv.d3.css" rel="stylesheet" type="text/css">
@@ -46,7 +46,13 @@
 	@import "datatables/media/css/demo_page.css"; 
 	@import "datatables/media/css/header.ccss";
 	@import "datatables/media/css/demo_table.css";
+	
+	/* for re-styling and CSV export */
+	@import "//netdna.bootstrapcdn.com/twitter-bootstrap/2.3.2/css/bootstrap-combined.min.css";
+	@import "http://datatables.github.com/Plugins/integration/bootstrap/2/dataTables.bootstrap.css";
+	
 	</style>
+	
 	
 	<style>
 				canvas{
@@ -172,20 +178,6 @@ text {
 
 
 	
-<!-- 
-	<th width="5%">Influence rank</th>
-	<th width="55%">Feature</th>
-
-	<th width="5%">Average losing mean</th> 
-	<th width="5%">Average winning mean</th>
-
-	<th width="5%">#URLs at risk</th>
-	<th width="5%">Average feature value</th>
-	<th width="5%">Average at risk SQ</th>
-	<th width="5%">#URLs healthy</th>			
-	<th width="5%">Average feature value</th>
-	<th width="5%">Average healthy SQ</th> 
-	-->
 
 <script>
 
@@ -194,11 +186,6 @@ var websiteURL = "www.stealthgenie.com";
 var websiteSplit = websiteURL.split(".");
 var websiteName = websiteSplit[1];
 
-// function getWebsiteName() {
-//   var urlFull = document.getElementById("inputURL");
-//   var websiteSplitDyn = urlFull.split(".");
-//   return websiteSplitDyn[1];
-//  }
 
 $.fn.dataTableExt.oApi.fnReloadAjax = function ( oSettings, sNewSource, fnCallback, bStandingRedraw )
 {
@@ -273,6 +260,17 @@ function initDataTables(){
 			"sAjaxSource": "/json/summary/"+websiteName+"_Xhat.json",
 			"sAjaxDataProp": "onsite",
 			"aaSorting": [[ 4, "desc" ]],
+			"oTableTools": {
+				"aButtons": [
+				"copy",
+				"print",
+				{
+					"sExtends":    "collection",
+					"sButtonText": 'Save <span class="caret" />',
+					"aButtons":    [ "csv", "xls", "pdf" ]
+				}
+				]
+			},
 			"aoColumns": [
 			null,
 			{ "mData": null , //its null here because history column will contain the mRender
@@ -630,7 +628,7 @@ redrawGraph = function(file) {
 							</div>
 							<div class="panel-body">
 			  
-								<table cellpadding="0" cellspacing="0" border="0" class="display" id="example3">
+								<table cellpadding="0" cellspacing="0" border="0" class="display" class="table table-striped table-bordered" id="example3">
 									<thead>
 										<tr>
 											<th width="5%">Influence rank</th>
