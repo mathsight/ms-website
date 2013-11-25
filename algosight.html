@@ -466,7 +466,6 @@ initDataTables();
 	</script>
 
 	<script src="lib/d3.v3.js"></script>
-	<script src="lib/fisheye.js"></script>
 	<script src="assets/js/nv.d3.js"></script>
 	<script src="src/utils.js"></script>
 	<script src="src/tooltip.js"></script>
@@ -482,53 +481,6 @@ initDataTables();
 
 
 
-// data for chart
-
-// long_short_data_old = [
-// 	{
-// 		"key": "Healthy",
-// 		"color": "#00cc00",
-// 		"values": [
-// 			{
-// 				"label": "Onsite",
-// 				"value": 55
-// 			},
-// 			{
-// 				"label": "Offsite",
-// 				"value": 3
-// 			}
-// 		]
-// 	},
-// 	{
-// 		"key": "Neutral",
-// 		"color": "#ff9900",
-// 		"values": [
-// 			{
-// 				"label": "Onsite",
-// 				"value": 8
-// 			},
-// 			{
-// 				"label": "Offsite",
-// 				"value": 0
-// 			}
-// 		]
-// 	},
-// 	{
-// 		"key": "Harmful",
-// 		"color": "#ff0000",
-// 		"values": [
-// 			{
-// 				"label": "Onsite",
-// 				"value": -15
-// 			},
-// 			{
-// 				"label": "Offsite",
-// 				"value": -30
-// 			}
-// 		]
-// 	}
-// ];
-
 var changeName = "penguin21"
 var topLevelFile = "/json/toplevel/" + websiteName + "_ybar.json";
 // var trafficFile = "/json/algosight/traffic/traffic_" + websiteName + "_"+ changeName + ".json";
@@ -536,50 +488,43 @@ var trafficFile = "/json/algosight/traffic/test.json";
 
 d3.json(trafficFile, function(data) {
 
-	function exampleData() {
-		return data.map(function(series){
-			series.values = series.values.map(function(d) { return {x: d[0], y: d[1] } });
-			return series;
-		});
-	}
+	var testdata = data.map(function(series) {
+		series.values = series.values.map(function(d) { return {x: d[0], y: d[1] } });
+		return series;
+	});
+
 
 	var chart;
 	nv.addGraph(function() {
-		var testdata = exampleData(),
-		chart = nv.models.linePlusBarChart()
-		.margin({top: 30, right: 60, bottom: 50, left: 70})
-		.x(function(d,i) { return i })
-		.color(d3.scale.category10().range());
+	    chart = nv.models.linePlusBarChart()
+	        .margin({top: 30, right: 60, bottom: 50, left: 70})
+	        .x(function(d,i) { return i })
+	        .color(d3.scale.category10().range());
 
-		chart.xAxis.tickFormat(function(d) {
-			var dx = testdata[0].values[d] && testdata[0].values[d].x || 0;
-			return d3.time.format('%x')(new Date(dx))
-		});
-		
-		chart.y1Axis
-		.tickFormat(d3.format(',f'));
-		 
-		chart.y2Axis
-		.tickFormat(function(d) { return '$' + d3.format(',f')(d) });
-		// 
-		// chart.y3Axis
-		// .tickFormat(d3.format(',f'));
-		// 
-		// chart.y4Axis
-		// .tickFormat(d3.format(',f'));
-		 
-		chart.bars.forceY([0]);
-		//chart.lines.forceY([0]);
+	    chart.xAxis.tickFormat(function(d) {
+	      var dx = testdata[0].values[d] && testdata[0].values[d].x || 0;
+	      return dx ? d3.time.format('%x')(new Date(dx)) : '';
+	      })
+	      .showMaxMin(false);
 
-		d3.select('#chart1 svg')
-		.datum(exampleData())
-		.transition().duration(500).call(chart);
+	    chart.y1Axis
+	        .tickFormat(d3.format(',f'));
 
-		nv.utils.windowResize(chart.update);
-		// 
-		// chart.dispatch.on('stateChange', function(e) { nv.log('New State:', JSON.stringify(e)); });
+	    chart.y2Axis
+	        .tickFormat(function(d) { return '$' + d3.format(',.2f')(d) });
 
-		return chart;
+	    chart.bars.forceY([0]).padData(false);
+	    //chart.lines.forceY([0]);
+
+	    d3.select('#chart1 svg')
+	        .datum(testdata)
+	      .transition().duration(500).call(chart);
+
+	    nv.utils.windowResize(chart.update);
+
+	    chart.dispatch.on('stateChange', function(e) { nv.log('New State:', JSON.stringify(e)); });
+
+	    return chart;
 	});
 });
 
