@@ -3,7 +3,7 @@
 <html lang="en">
 <head>
 	<meta charset="utf-8">
-	<title>MathSight StatSEO Demo</title>
+	<title>MathSight AlgoSight Demo</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<link rel="stylesheet" href="https://d396qusza40orc.cloudfront.net/startup%2Fcode%2Fbootstrap-combined.no-icons.min.css">
 	<link rel="stylesheet" href="http://netdna.bootstrapcdn.com/font-awesome/3.0.2/css/font-awesome.css">
@@ -254,6 +254,41 @@ var dataTableThree;
 var dataTableFour;
 
 function initDataTables(){
+	
+	datatableWorstHit = $('#exampleWH').dataTable( {
+		"bProcessing": true,
+		"sAjaxSource": "/json/summary/"+websiteName+"_Xhat.json",
+		"sAjaxDataProp": "onsite",
+		"aaSorting": [[ 4, "desc" ]],
+		"sDom": "<'row-fluid'<'span6'T><'span6'f>r>t<'row-fluid'<'span6'i><'span6'p>>",
+		"oTableTools": {
+			"aButtons": [
+			"copy",
+			"print",
+			{
+				"sExtends":    "collection",
+				"sButtonText": 'Save <span class="caret" />',
+				"aButtons":    [ "csv", "xls", "pdf" ]
+			}
+			]
+		},
+		"aoColumns": [
+		null,
+		{ "mData": null , //its null here because history column will contain the mRender
+		"mRender" : function ( data, type, full) {
+			return '<a href="onsite_SQ_drilldown.html#F'+ full[0] +'">'+full[1]+'</a>';
+		}
+	},
+	null,
+	{"bVisible": false},
+	null,
+	{"bVisible": false},		
+	{"bVisible": false},
+	{"bVisible": false},
+	{"bVisible": false},
+	{"bVisible": false}
+	]
+} );
 
 	dataTableOne = $('#example3').dataTable( {
 		"bProcessing": true,
@@ -596,7 +631,7 @@ redrawGraph = function(file) {
       <!-- www.google.com/fonts/specimen/Ubuntu#pairings -->
       <div class="row-fluid heading">
         <div class="span12">
-          <h1>StatSEO: Demonstration</h1>
+          <h1>AlgoSight</h1>
         </div>
       </div> 
 	    
@@ -632,8 +667,8 @@ redrawGraph = function(file) {
 		</div>
 	  
 		<div class="well">
-			<h2>Domain health status summary</h2>
-			<p></p>
+			<h2>Executive Summary</h2>
+			<p>This page looks at the effect of Penguin 2.1 algorithm update of 4th October 2013, on stealthgenie.com and provides ideas for both onsite and offsite improvement in the wake of this update.</p>
 		</div>
 
 
