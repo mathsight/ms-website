@@ -530,8 +530,16 @@ var trafficFile = "/json/algosight/traffic/traffic_" + websiteName + "_"+ change
 
 d3.json(trafficFile, function(data) {
 
+	function exampleData(data) {
+		return [data].map(function(series){
+			series.values = series.values.map(function(d) { return {x: d[0], y: d[1] } });
+			return series;
+		});
+	}
+
 	var chart;
 	nv.addGraph(function() {
+		var testdata = exampleData(),
 		chart = nv.models.linePlusBarChart()
 		.margin({top: 30, right: 60, bottom: 50, left: 70})
 		.x(function(d,i) { return i })
@@ -558,7 +566,7 @@ d3.json(trafficFile, function(data) {
 		//chart.lines.forceY([0]);
 
 		d3.select('#chart1 svg')
-		.datum(data)
+		.datum(exampleData())
 		.transition().duration(500).call(chart);
 
 		nv.utils.windowResize(chart.update);
