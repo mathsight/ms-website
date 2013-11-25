@@ -507,11 +507,17 @@ d3.json(trafficFile, function(data) {
 	      })
 	      .showMaxMin(false);
 
-	    chart.y1Axis
-	        .tickFormat(d3.format(',f'));
+		  chart.y1Axis
+		  .tickFormat(d3.format(',f'));
 
-	    chart.y2Axis
-	        .tickFormat(d3.format(',f'));
+		  chart.y2Axis
+		  .tickFormat(d3.format(',f'));
+			
+		  chart.y3Axis
+		  .tickFormat(d3.format(',f'));
+				
+		  chart.y4Axis
+		  .tickFormat(d3.format(',f'));
 
 	    chart.bars.forceY([0]).padData(false);
 	    //chart.lines.forceY([0]);
