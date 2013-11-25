@@ -489,7 +489,12 @@ var trafficFile = "/json/algosight/traffic/traffic_" + websiteName + "_"+ change
 d3.json(trafficFile, function(data) {
 
 	var testdata = data.map(function(series) {
-		series.values = series.values.map(function(d) { return {x: d[0], y: d[1] } });
+		series.values = series.values.map(function(d) { 
+			return {
+			x: d[0]*1000, 
+			y: d[1] 
+		} 
+	});
 		return series;
 	});
 
