@@ -524,34 +524,46 @@ initDataTables();
 // 	}
 // ];
 
+var changeName = "penguin21"
 var topLevelFile = "/json/toplevel/" + websiteName + "_ybar.json";
+var trafficFile = "/json/algosight/traffic/traffic_" + websiteName + "_"+ changeName + ".json";
 
-
-d3.json(topLevelFile, function(data) {
+d3.json(trafficFile, function(data) {
 
 	var chart;
 	nv.addGraph(function() {
-		chart = nv.models.multiBarHorizontalChart()
-		.x(function(d) { return d.label })
-		.y(function(d) { return d.value })
-		.margin({top: 30, right: 100, bottom: 50, left: 100})
-		//.showValues(true)
-		//.tooltips(false)
-		//.barColor(d3.scale.category20().range())
-		.transitionDuration(250)
-		.stacked(false)
-		//.showControls(false);
+		chart = nv.models.linePlusBarChart()
+		.margin({top: 30, right: 60, bottom: 50, left: 70})
+		.x(function(d,i) { return i })
+		.color(d3.scale.category10().range());
 
-		chart.yAxis
-		.tickFormat(d3.format(',.2f'));
+		chart.xAxis.tickFormat(function(d) {
+			var dx = testdata[0].values[d] && testdata[0].values[d].x || 0;
+			return d3.time.format('%x')(new Date(dx))
+		});
+		
+		chart.y1Axis
+		.tickFormat(d3.format(',f'));
+		 
+		chart.y2Axis
+		.tickFormat(d3.format(',f'));
+		
+		chart.y3Axis
+		.tickFormat(d3.format(',f'));
+		
+		chart.y4Axis
+		.tickFormat(d3.format(',f'));
+		 
+		chart.bars.forceY([0]);
+		//chart.lines.forceY([0]);
 
 		d3.select('#chart1 svg')
 		.datum(data)
-		.call(chart);
+		.transition().duration(500).call(chart);
 
 		nv.utils.windowResize(chart.update);
-
-		chart.dispatch.on('stateChange', function(e) { nv.log('New State:', JSON.stringify(e)); });
+		// 
+		// chart.dispatch.on('stateChange', function(e) { nv.log('New State:', JSON.stringify(e)); });
 
 		return chart;
 	});
