@@ -4,7 +4,6 @@
   <head>
     <meta charset="utf-8">
     <title>MathSight: StatSEO Onsite Drilldown</title>
-    <title>MathSight: StatSEO Offsite Drilldown</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="https://d396qusza40orc.cloudfront.net/startup%2Fcode%2Fbootstrap-combined.no-icons.min.css">
     <link rel="stylesheet" href="http://netdna.bootstrapcdn.com/font-awesome/3.0.2/css/font-awesome.css">
@@ -134,8 +133,7 @@
 	];
 
 
-// data for chart
-
+/* Global vars */
 var websiteURL = "www.rawpearls.com";
 var websiteSplit = websiteURL.split(".");
 var websiteName = websiteSplit[1];
@@ -181,185 +179,57 @@ function initDataTables(){
 			"aaSorting": [[ 1, "asc" ]]
 		} );
 
-			$('#example1').dataTable( {
+
+		$('#example1').dataTable( {
+			"bProcessing": true,
+			"sAjaxSource": "/json/drilldown/"+websiteName+"_XDrill.json",
+			"sAjaxDataProp": "onsite."+ feature_list[1],
+			"sDom": "<'row-fluid'<'span6'T><'span6'f>r>t<'row-fluid'<'span6'i><'span6'p>>",
+			"oTableTools": {
+				"aButtons": [
+				"copy",
+				"print",
+				{
+					"sExtends":    "collection",
+					"sButtonText": 'Save <span class="caret" />',
+					"aButtons":    [ "csv", "xls", "pdf" ]
+				}
+				]
+			},
+			"aoColumns": [
+			{ "mData": "html_id",
+			"mRender" : function ( data, type, full) {
+				return '<a href="'+ data +'">'+data+'</a>';
+			}
+		},
+		{ "mData": "feature_value" },
+		{ "mData": "cluster_win_mean" },
+		{ "mData": "delta" }
+		],
+		"aaSorting": [[ 3, "desc" ]],
+	} );
+
+			$('#example2').dataTable( {
 				"bProcessing": true,
 				"sAjaxSource": "/json/drilldown/"+websiteName+"_XDrill.json",
-				"sAjaxDataProp": "onsite."+ feature_list[1],
+				"sAjaxDataProp": "onsite."+ feature_list[2],
+				"sDom": "<'row-fluid'<'span6'T><'span6'f>r>t<'row-fluid'<'span6'i><'span6'p>>",
+				"oTableTools": {
+					"aButtons": [
+					"copy",
+					"print",
+					{
+						"sExtends":    "collection",
+						"sButtonText": 'Save <span class="caret" />',
+						"aButtons":    [ "csv", "xls", "pdf" ]
+					}
+					]
+				},
 				"aoColumns": [
 				{ "mData": "html_id",
 				"mRender" : function ( data, type, full) {
-										return '<a href="'+ data +'">'+data+'</a>';
-															}
-				},
-				{ "mData": "feature_value" },
-				{ "mData": "cluster_win_mean" },
-				{ "mData": "delta" }
-				],
-				"aaSorting": [[ 3, "desc" ]],
-			} );
-
-		$('#example2').dataTable( {
-			"bProcessing": true,
-			"sAjaxSource": "/json/drilldown/"+websiteName+"_XDrill.json",
-			"sAjaxDataProp": "onsite."+ feature_list[2],
-			"aoColumns": [
-			{ "mData": "html_id",
-			"mRender" : function ( data, type, full) {
-									return '<a href="'+ data +'">'+data+'</a>';
-														}
-			},
-			        { "mData": "feature_value" },
-			        { "mData": "cluster_win_mean" },
-			        { "mData": "delta" }
-					],
-			"aaSorting": [[ 3, "desc" ]]
-		} );
-
-		$('#example3').dataTable( {
-			"bProcessing": true,
-			"sAjaxSource": "/json/drilldown/"+websiteName+"_XDrill.json",
-			"sAjaxDataProp": "onsite."+ feature_list[3],
-			"aoColumns": [
-			{ "mData": "html_id",
-			"mRender" : function ( data, type, full) {
-									return '<a href="'+ data +'">'+data+'</a>';
-														}
-			},
-			        { "mData": "feature_value" },
-			        { "mData": "cluster_win_mean" },
-			        { "mData": "delta" }
-					],
-			"aaSorting": [[ 3, "desc" ]]
-		} );
-
-		$('#example4').dataTable( {
-			"bProcessing": true,
-			"sAjaxSource": "/json/drilldown/"+websiteName+"_XDrill.json",
-			"sAjaxDataProp": "onsite."+ feature_list[4],
-			"aoColumns": [
-			{ "mData": "html_id",
-			"mRender" : function ( data, type, full) {
-									return '<a href="'+ data +'">'+data+'</a>';
-														}
-			},
-			        { "mData": "feature_value" },
-			        { "mData": "cluster_win_mean" },
-			        { "mData": "delta" }
-					],
-			"aaSorting": [[ 3, "desc" ]]
-		} );
-
-		$('#example5').dataTable( {
-			"bProcessing": true,
-			"sAjaxSource": "/json/drilldown/"+websiteName+"_XDrill.json",
-			"sAjaxDataProp": "onsite."+ feature_list[5],
-			"aoColumns": [
-			{ "mData": "html_id",
-			"mRender" : function ( data, type, full) {
-									return '<a href="'+ data +'">'+data+'</a>';
-														}
-			},
-			        { "mData": "feature_value" },
-			        { "mData": "cluster_win_mean" },
-			        { "mData": "delta" }
-					],
-			"aaSorting": [[ 3, "desc" ]]
-		} );
-
-		$('#example6').dataTable( {
-			"bProcessing": true,
-			"sAjaxSource": "/json/drilldown/"+websiteName+"_XDrill.json",
-			"sAjaxDataProp": "onsite."+ feature_list[6],
-			"aoColumns": [
-			{ "mData": "html_id",
-			"mRender" : function ( data, type, full) {
-									return '<a href="'+ data +'">'+data+'</a>';
-														}
-			},
-			        { "mData": "feature_value" },
-			        { "mData": "cluster_win_mean" },
-			        { "mData": "delta" }
-					],
-			"aaSorting": [[ 3, "desc" ]]
-		} );
-
-		$('#example7').dataTable( {
-			"bProcessing": true,
-			"sAjaxSource": "/json/drilldown/"+websiteName+"_XDrill.json",
-			"sAjaxDataProp": "onsite."+ feature_list[7],
-			"aoColumns": [
-			{ "mData": "html_id",
-			"mRender" : function ( data, type, full) {
-									return '<a href="'+ data +'">'+data+'</a>';
-														}
-			},
-			        { "mData": "feature_value" },
-			        { "mData": "cluster_win_mean" },
-			        { "mData": "delta" }
-					],
-			"aaSorting": [[ 3, "desc" ]]
-		} );
-
-		$('#example8').dataTable( {
-			"bProcessing": true,
-			"sAjaxSource": "/json/drilldown/"+websiteName+"_XDrill.json",
-			"sAjaxDataProp": "onsite."+ feature_list[8],
-			"aoColumns": [
-			{ "mData": "html_id",
-			"mRender" : function ( data, type, full) {
-									return '<a href="'+ data +'">'+data+'</a>';
-														}
-			},
-			        { "mData": "feature_value" },
-			        { "mData": "cluster_win_mean" },
-			        { "mData": "delta" }
-					],
-			"aaSorting": [[ 3, "desc" ]]
-		} );
-
-		$('#example9').dataTable( {
-			"bProcessing": true,
-			"sAjaxSource": "/json/drilldown/"+websiteName+"_XDrill.json",
-			"sAjaxDataProp": "onsite."+ feature_list[9],
-			"aoColumns": [
-			{ "mData": "html_id",
-			"mRender" : function ( data, type, full) {
-									return '<a href="'+ data +'">'+data+'</a>';
-														}
-			},
-			        { "mData": "feature_value" },
-			        { "mData": "cluster_win_mean" },
-			        { "mData": "delta" }
-					],
-			"aaSorting": [[ 3, "desc" ]]
-		} );
-
-		$('#example10').dataTable( {
-			"bProcessing": true,
-			"sAjaxSource": "/json/drilldown/"+websiteName+"_XDrill.json",
-			"sAjaxDataProp": "onsite."+ feature_list[10],
-			"aoColumns": [
-			{ "mData": "html_id",
-			"mRender" : function ( data, type, full) {
-									return '<a href="'+ data +'">'+data+'</a>';
-														}
-			},
-			        { "mData": "feature_value" },
-			        { "mData": "cluster_win_mean" },
-			        { "mData": "delta" }
-					],
-			"aaSorting": [[ 3, "desc" ]]
-		} );
-
-		$('#example11').dataTable( {
-			"bProcessing": true,
-			"sAjaxSource": "/json/drilldown/"+websiteName+"_XDrill.json",
-			"sAjaxDataProp": "onsite."+ feature_list[11],
-			"aoColumns": [
-			{ "mData": "html_id",
-			"mRender" : function ( data, type, full) {
-									return '<a href="'+ data +'">'+data+'</a>';
-														}
+					return '<a href="'+ data +'">'+data+'</a>';
+				}
 			},
 			{ "mData": "feature_value" },
 			{ "mData": "cluster_win_mean" },
@@ -368,27 +238,312 @@ function initDataTables(){
 			"aaSorting": [[ 3, "desc" ]]
 		} );
 
+		$('#example3').dataTable( {
+			"bProcessing": true,
+			"sAjaxSource": "/json/drilldown/"+websiteName+"_XDrill.json",
+			"sAjaxDataProp": "onsite."+ feature_list[3],
+			"sDom": "<'row-fluid'<'span6'T><'span6'f>r>t<'row-fluid'<'span6'i><'span6'p>>",
+			"oTableTools": {
+				"aButtons": [
+				"copy",
+				"print",
+				{
+					"sExtends":    "collection",
+					"sButtonText": 'Save <span class="caret" />',
+					"aButtons":    [ "csv", "xls", "pdf" ]
+				}
+				]
+			},
+			"aoColumns": [
+			{ "mData": "html_id",
+			"mRender" : function ( data, type, full) {
+				return '<a href="'+ data +'">'+data+'</a>';
+			}
+		},
+		{ "mData": "feature_value" },
+		{ "mData": "cluster_win_mean" },
+		{ "mData": "delta" }
+		],
+		"aaSorting": [[ 3, "desc" ]]
+	} );
+
+		$('#example4').dataTable( {
+			"bProcessing": true,
+			"sAjaxSource": "/json/drilldown/"+websiteName+"_XDrill.json",
+			"sAjaxDataProp": "onsite."+ feature_list[4],
+			"sDom": "<'row-fluid'<'span6'T><'span6'f>r>t<'row-fluid'<'span6'i><'span6'p>>",
+			"oTableTools": {
+				"aButtons": [
+				"copy",
+				"print",
+				{
+					"sExtends":    "collection",
+					"sButtonText": 'Save <span class="caret" />',
+					"aButtons":    [ "csv", "xls", "pdf" ]
+				}
+				]
+			},
+			"aoColumns": [
+			{ "mData": "html_id",
+			"mRender" : function ( data, type, full) {
+				return '<a href="'+ data +'">'+data+'</a>';
+			}
+		},
+		{ "mData": "feature_value" },
+		{ "mData": "cluster_win_mean" },
+		{ "mData": "delta" }
+		],
+		"aaSorting": [[ 3, "desc" ]]
+	} );
+
+		$('#example5').dataTable( {
+			"bProcessing": true,
+			"sAjaxSource": "/json/drilldown/"+websiteName+"_XDrill.json",
+			"sAjaxDataProp": "onsite."+ feature_list[5],
+			"sDom": "<'row-fluid'<'span6'T><'span6'f>r>t<'row-fluid'<'span6'i><'span6'p>>",
+			"oTableTools": {
+				"aButtons": [
+				"copy",
+				"print",
+				{
+					"sExtends":    "collection",
+					"sButtonText": 'Save <span class="caret" />',
+					"aButtons":    [ "csv", "xls", "pdf" ]
+				}
+				]
+			},
+			"aoColumns": [
+			{ "mData": "html_id",
+			"mRender" : function ( data, type, full) {
+				return '<a href="'+ data +'">'+data+'</a>';
+			}
+		},
+		{ "mData": "feature_value" },
+		{ "mData": "cluster_win_mean" },
+		{ "mData": "delta" }
+		],
+		"aaSorting": [[ 3, "desc" ]]
+	} );
+
+		$('#example6').dataTable( {
+			"bProcessing": true,
+			"sAjaxSource": "/json/drilldown/"+websiteName+"_XDrill.json",
+			"sAjaxDataProp": "onsite."+ feature_list[6],
+			"sDom": "<'row-fluid'<'span6'T><'span6'f>r>t<'row-fluid'<'span6'i><'span6'p>>",
+			"oTableTools": {
+				"aButtons": [
+				"copy",
+				"print",
+				{
+					"sExtends":    "collection",
+					"sButtonText": 'Save <span class="caret" />',
+					"aButtons":    [ "csv", "xls", "pdf" ]
+				}
+				]
+			},
+			"aoColumns": [
+			{ "mData": "html_id",
+			"mRender" : function ( data, type, full) {
+				return '<a href="'+ data +'">'+data+'</a>';
+			}
+		},
+		{ "mData": "feature_value" },
+		{ "mData": "cluster_win_mean" },
+		{ "mData": "delta" }
+		],
+		"aaSorting": [[ 3, "desc" ]]
+	} );
+
+		$('#example7').dataTable( {
+			"bProcessing": true,
+			"sAjaxSource": "/json/drilldown/"+websiteName+"_XDrill.json",
+			"sAjaxDataProp": "onsite."+ feature_list[7],
+			"sDom": "<'row-fluid'<'span6'T><'span6'f>r>t<'row-fluid'<'span6'i><'span6'p>>",
+			"oTableTools": {
+				"aButtons": [
+				"copy",
+				"print",
+				{
+					"sExtends":    "collection",
+					"sButtonText": 'Save <span class="caret" />',
+					"aButtons":    [ "csv", "xls", "pdf" ]
+				}
+				]
+			},
+			"aoColumns": [
+			{ "mData": "html_id",
+			"mRender" : function ( data, type, full) {
+				return '<a href="'+ data +'">'+data+'</a>';
+			}
+		},
+		{ "mData": "feature_value" },
+		{ "mData": "cluster_win_mean" },
+		{ "mData": "delta" }
+		],
+		"aaSorting": [[ 3, "desc" ]]
+	} );
+
+		$('#example8').dataTable( {
+			"bProcessing": true,
+			"sAjaxSource": "/json/drilldown/"+websiteName+"_XDrill.json",
+			"sAjaxDataProp": "onsite."+ feature_list[8],
+			"sDom": "<'row-fluid'<'span6'T><'span6'f>r>t<'row-fluid'<'span6'i><'span6'p>>",
+			"oTableTools": {
+				"aButtons": [
+				"copy",
+				"print",
+				{
+					"sExtends":    "collection",
+					"sButtonText": 'Save <span class="caret" />',
+					"aButtons":    [ "csv", "xls", "pdf" ]
+				}
+				]
+			},
+			"aoColumns": [
+			{ "mData": "html_id",
+			"mRender" : function ( data, type, full) {
+				return '<a href="'+ data +'">'+data+'</a>';
+			}
+		},
+		{ "mData": "feature_value" },
+		{ "mData": "cluster_win_mean" },
+		{ "mData": "delta" }
+		],
+		"aaSorting": [[ 3, "desc" ]]
+	} );
+
+		$('#example9').dataTable( {
+			"bProcessing": true,
+			"sAjaxSource": "/json/drilldown/"+websiteName+"_XDrill.json",
+			"sAjaxDataProp": "onsite."+ feature_list[9],
+			"sDom": "<'row-fluid'<'span6'T><'span6'f>r>t<'row-fluid'<'span6'i><'span6'p>>",
+			"oTableTools": {
+				"aButtons": [
+				"copy",
+				"print",
+				{
+					"sExtends":    "collection",
+					"sButtonText": 'Save <span class="caret" />',
+					"aButtons":    [ "csv", "xls", "pdf" ]
+				}
+				]
+			},
+			"aoColumns": [
+			{ "mData": "html_id",
+			"mRender" : function ( data, type, full) {
+				return '<a href="'+ data +'">'+data+'</a>';
+			}
+		},
+		{ "mData": "feature_value" },
+		{ "mData": "cluster_win_mean" },
+		{ "mData": "delta" }
+		],
+		"aaSorting": [[ 3, "desc" ]]
+	} );
+
+		$('#example10').dataTable( {
+			"bProcessing": true,
+			"sAjaxSource": "/json/drilldown/"+websiteName+"_XDrill.json",
+			"sAjaxDataProp": "onsite."+ feature_list[10],
+			"sDom": "<'row-fluid'<'span6'T><'span6'f>r>t<'row-fluid'<'span6'i><'span6'p>>",
+			"oTableTools": {
+				"aButtons": [
+				"copy",
+				"print",
+				{
+					"sExtends":    "collection",
+					"sButtonText": 'Save <span class="caret" />',
+					"aButtons":    [ "csv", "xls", "pdf" ]
+				}
+				]
+			},
+			"aoColumns": [
+			{ "mData": "html_id",
+			"mRender" : function ( data, type, full) {
+				return '<a href="'+ data +'">'+data+'</a>';
+			}
+		},
+		{ "mData": "feature_value" },
+		{ "mData": "cluster_win_mean" },
+		{ "mData": "delta" }
+		],
+		"aaSorting": [[ 3, "desc" ]]
+	} );
+
+		$('#example11').dataTable( {
+			"bProcessing": true,
+			"sAjaxSource": "/json/drilldown/"+websiteName+"_XDrill.json",
+			"sAjaxDataProp": "onsite."+ feature_list[11],
+			"sDom": "<'row-fluid'<'span6'T><'span6'f>r>t<'row-fluid'<'span6'i><'span6'p>>",
+			"oTableTools": {
+				"aButtons": [
+				"copy",
+				"print",
+				{
+					"sExtends":    "collection",
+					"sButtonText": 'Save <span class="caret" />',
+					"aButtons":    [ "csv", "xls", "pdf" ]
+				}
+				]
+			},
+			"aoColumns": [
+			{ "mData": "html_id",
+			"mRender" : function ( data, type, full) {
+				return '<a href="'+ data +'">'+data+'</a>';
+			}
+		},
+		{ "mData": "feature_value" },
+		{ "mData": "cluster_win_mean" },
+		{ "mData": "delta" }
+		],
+		"aaSorting": [[ 3, "desc" ]]
+	} );
+
 	$('#example12').dataTable( {
 		"bProcessing": true,
 		"sAjaxSource": "/json/drilldown/"+websiteName+"_XDrill.json",
 		"sAjaxDataProp": "onsite."+ feature_list[12],
+		"sDom": "<'row-fluid'<'span6'T><'span6'f>r>t<'row-fluid'<'span6'i><'span6'p>>",
+		"oTableTools": {
+			"aButtons": [
+			"copy",
+			"print",
+			{
+				"sExtends":    "collection",
+				"sButtonText": 'Save <span class="caret" />',
+				"aButtons":    [ "csv", "xls", "pdf" ]
+			}
+			]
+		},
 		"aoColumns": [
 		{ "mData": "html_id",
 		"mRender" : function ( data, type, full) {
-								return '<a href="'+ data +'">'+data+'</a>';
-													}
-		},
-		        { "mData": "feature_value" },
-		        { "mData": "cluster_win_mean" },
-		        { "mData": "delta" }
-				],
-		"aaSorting": [[ 3, "desc" ]]
-	} );
+			return '<a href="'+ data +'">'+data+'</a>';
+		}
+	},
+	{ "mData": "feature_value" },
+	{ "mData": "cluster_win_mean" },
+	{ "mData": "delta" }
+	],
+	"aaSorting": [[ 3, "desc" ]]
+} );
 
 	$('#example13').dataTable( {
 		"bProcessing": true,
 		"sAjaxSource": "/json/drilldown/"+websiteName+"_XDrill.json",
 		"sAjaxDataProp": "onsite."+ feature_list[13],
+		"sDom": "<'row-fluid'<'span6'T><'span6'f>r>t<'row-fluid'<'span6'i><'span6'p>>",
+			"oTableTools": {
+				"aButtons": [
+				"copy",
+				"print",
+				{
+					"sExtends":    "collection",
+					"sButtonText": 'Save <span class="caret" />',
+					"aButtons":    [ "csv", "xls", "pdf" ]
+				}
+				]
+			},
 		"aoColumns": [
 		{ "mData": "html_id",
 		"mRender" : function ( data, type, full) {
@@ -406,6 +561,18 @@ function initDataTables(){
 		"bProcessing": true,
 		"sAjaxSource": "/json/drilldown/"+websiteName+"_XDrill.json",
 		"sAjaxDataProp": "onsite."+ feature_list[14],
+		"sDom": "<'row-fluid'<'span6'T><'span6'f>r>t<'row-fluid'<'span6'i><'span6'p>>",
+			"oTableTools": {
+				"aButtons": [
+				"copy",
+				"print",
+				{
+					"sExtends":    "collection",
+					"sButtonText": 'Save <span class="caret" />',
+					"aButtons":    [ "csv", "xls", "pdf" ]
+				}
+				]
+			},
 		"aoColumns": [
 		{ "mData": "html_id",
 		"mRender" : function ( data, type, full) {
@@ -423,6 +590,18 @@ function initDataTables(){
 		"bProcessing": true,
 		"sAjaxSource": "/json/drilldown/"+websiteName+"_XDrill.json",
 		"sAjaxDataProp": "onsite."+ feature_list[15],
+		"sDom": "<'row-fluid'<'span6'T><'span6'f>r>t<'row-fluid'<'span6'i><'span6'p>>",
+			"oTableTools": {
+				"aButtons": [
+				"copy",
+				"print",
+				{
+					"sExtends":    "collection",
+					"sButtonText": 'Save <span class="caret" />',
+					"aButtons":    [ "csv", "xls", "pdf" ]
+				}
+				]
+			},
 		"aoColumns": [
 		{ "mData": "html_id",
 		"mRender" : function ( data, type, full) {
@@ -440,6 +619,18 @@ function initDataTables(){
 		"bProcessing": true,
 		"sAjaxSource": "/json/drilldown/"+websiteName+"_XDrill.json",
 		"sAjaxDataProp": "onsite."+ feature_list[16],
+		"sDom": "<'row-fluid'<'span6'T><'span6'f>r>t<'row-fluid'<'span6'i><'span6'p>>",
+			"oTableTools": {
+				"aButtons": [
+				"copy",
+				"print",
+				{
+					"sExtends":    "collection",
+					"sButtonText": 'Save <span class="caret" />',
+					"aButtons":    [ "csv", "xls", "pdf" ]
+				}
+				]
+			},
 		"aoColumns": [
 		{ "mData": "html_id",
 		"mRender" : function ( data, type, full) {
@@ -457,6 +648,18 @@ function initDataTables(){
 		"bProcessing": true,
 		"sAjaxSource": "/json/drilldown/"+websiteName+"_XDrill.json",
 		"sAjaxDataProp": "onsite."+ feature_list[17],
+		"sDom": "<'row-fluid'<'span6'T><'span6'f>r>t<'row-fluid'<'span6'i><'span6'p>>",
+			"oTableTools": {
+				"aButtons": [
+				"copy",
+				"print",
+				{
+					"sExtends":    "collection",
+					"sButtonText": 'Save <span class="caret" />',
+					"aButtons":    [ "csv", "xls", "pdf" ]
+				}
+				]
+			},
 		"aoColumns": [
 		{ "mData": "html_id",
 		"mRender" : function ( data, type, full) {
@@ -474,6 +677,18 @@ function initDataTables(){
 		"bProcessing": true,
 		"sAjaxSource": "/json/drilldown/"+websiteName+"_XDrill.json",
 		"sAjaxDataProp": "onsite."+ feature_list[18],
+		"sDom": "<'row-fluid'<'span6'T><'span6'f>r>t<'row-fluid'<'span6'i><'span6'p>>",
+			"oTableTools": {
+				"aButtons": [
+				"copy",
+				"print",
+				{
+					"sExtends":    "collection",
+					"sButtonText": 'Save <span class="caret" />',
+					"aButtons":    [ "csv", "xls", "pdf" ]
+				}
+				]
+			},
 		"aoColumns": [
 		{ "mData": "html_id",
 		"mRender" : function ( data, type, full) {
@@ -491,6 +706,18 @@ function initDataTables(){
 		"bProcessing": true,
 		"sAjaxSource": "/json/drilldown/"+websiteName+"_XDrill.json",
 		"sAjaxDataProp": "onsite."+ feature_list[19],
+		"sDom": "<'row-fluid'<'span6'T><'span6'f>r>t<'row-fluid'<'span6'i><'span6'p>>",
+			"oTableTools": {
+				"aButtons": [
+				"copy",
+				"print",
+				{
+					"sExtends":    "collection",
+					"sButtonText": 'Save <span class="caret" />',
+					"aButtons":    [ "csv", "xls", "pdf" ]
+				}
+				]
+			},
 		"aoColumns": [
 		{ "mData": "html_id",
 		"mRender" : function ( data, type, full) {
@@ -508,6 +735,18 @@ function initDataTables(){
 		"bProcessing": true,
 		"sAjaxSource": "/json/drilldown/"+websiteName+"_XDrill.json",
 		"sAjaxDataProp": "onsite."+ feature_list[20],
+		"sDom": "<'row-fluid'<'span6'T><'span6'f>r>t<'row-fluid'<'span6'i><'span6'p>>",
+			"oTableTools": {
+				"aButtons": [
+				"copy",
+				"print",
+				{
+					"sExtends":    "collection",
+					"sButtonText": 'Save <span class="caret" />',
+					"aButtons":    [ "csv", "xls", "pdf" ]
+				}
+				]
+			},
 		"aoColumns": [
 		{ "mData": "html_id",
 		"mRender" : function ( data, type, full) {
@@ -525,6 +764,18 @@ function initDataTables(){
 			"bProcessing": true,
 			"sAjaxSource": "/json/drilldown/"+websiteName+"_XDrill.json",
 			"sAjaxDataProp": "onsite."+ feature_list[21],
+"sDom": "<'row-fluid'<'span6'T><'span6'f>r>t<'row-fluid'<'span6'i><'span6'p>>",
+	"oTableTools": {
+		"aButtons": [
+		"copy",
+		"print",
+		{
+			"sExtends":    "collection",
+			"sButtonText": 'Save <span class="caret" />',
+			"aButtons":    [ "csv", "xls", "pdf" ]
+		}
+		]
+	},
 			"aoColumns": [
 			{ "mData": "html_id",
 			"mRender" : function ( data, type, full) {
@@ -542,6 +793,18 @@ function initDataTables(){
 		"bProcessing": true,
 		"sAjaxSource": "/json/drilldown/"+websiteName+"_XDrill.json",
 		"sAjaxDataProp": "onsite."+ feature_list[22],
+		"sDom": "<'row-fluid'<'span6'T><'span6'f>r>t<'row-fluid'<'span6'i><'span6'p>>",
+			"oTableTools": {
+				"aButtons": [
+				"copy",
+				"print",
+				{
+					"sExtends":    "collection",
+					"sButtonText": 'Save <span class="caret" />',
+					"aButtons":    [ "csv", "xls", "pdf" ]
+				}
+				]
+			},
 		"aoColumns": [
 		{ "mData": "html_id",
 		"mRender" : function ( data, type, full) {
@@ -577,6 +840,7 @@ rel="stylesheet" type="text/css">
 /* for re-styling and CSV export */
 @import "http://netdna.bootstrapcdn.com/twitter-bootstrap/2.3.2/css/bootstrap-combined.min.css";
 @import "http://datatables.github.com/Plugins/integration/bootstrap/2/dataTables.bootstrap.css";
+
 </style>
     <style type="text/css">
 
