@@ -491,7 +491,7 @@ d3.json(trafficFile, function(data) {
 	var testdata = data.map(function(series) {
 		series.values = series.values.map(function(d) { 
 			return {
-			x: (d[0]-719529)*86400*1000, 
+			x: (d[0]-719529)*86400*1000, // converting from Matlab format
 			y: d[1] 
 		} 
 	});
@@ -524,7 +524,7 @@ d3.json(trafficFile, function(data) {
 		  // chart.y4Axis
 		  // .tickFormat(d3.format(',f'));
 
-	    chart.bars.forceY([0]).padData(false);
+	    //chart.bars.forceY([0]).padData(false);
 	    //chart.lines.forceY([0]);
 
 	    d3.select('#chart1 svg')
