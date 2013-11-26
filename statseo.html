@@ -176,15 +176,16 @@ text {
 
 </style>
 
-
 	
 
 <script>
 
+
 /* Global vars */
-var websiteURL = "www.stealthgenie.com";
+var websiteURL = "www.leighmans.com";
 var websiteSplit = websiteURL.split(".");
-var websiteName = websiteSplit[1];
+
+var websiteName = delineate(text);
 
 
 $.fn.dataTableExt.oApi.fnReloadAjax = function ( oSettings, sNewSource, fnCallback, bStandingRedraw )

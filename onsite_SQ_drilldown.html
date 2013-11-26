@@ -133,10 +133,31 @@
 	];
 
 
+	<script>
+
+	var locate = window.location
+
+	function delineate(str){
+
+		theleft = str.indexOf("=") + 1;
+		// theright = str.lastIndexOf("&");
+		return(str.substring(theleft));
+	}
+	// document.write("First Name is " +delineate(text));
+
+
+	</script>
+
+	
+
+<script>
+
+
 /* Global vars */
-var websiteURL = "www.rawpearls.com";
-var websiteSplit = websiteURL.split(".");
-var websiteName = websiteSplit[1];
+// var websiteURL = "www.stealthgenie.com";
+// var websiteSplit = websiteURL.split(".");
+
+var websiteName = delineate(locate);
 
 var feature_list= {1:"average_backlink_flesch_reading_ease",
 2:"number_of_inline_css_styles",
