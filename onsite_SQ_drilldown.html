@@ -132,18 +132,19 @@
 	['number of difficult words', 103,200.8319474,311.0396877,359.4857778]
 	];
 
-	// document.joe.burns.value = locate;
-// 	var text = document.joe.burns.value;
-    // alert(locate);
+	/* Global vars */
+	 
+	var locate = String(window.location);
+
+	// var websiteURL = "www.stealthgenie.com";
+	var websiteSplit = locate.split("=");
+
+	// var websiteSplit = websiteURL.split(".");
+	var websiteName = websiteSplit[1];
 	
-	// function delineate(str){
-// 
-// 		theleft = str.indexOf("=") + 1;
-// 		theright = str.lastIndexOf("&");
-// 		return(str.substring(theleft, theright));
-// 	}
-// 
-// 	alert("Website name is " +delineate(locate));
+	// alert(websiteName);
+	//delineate2(locate);
+	
 
 	 </script>
 	 
@@ -835,21 +836,7 @@ function initDataTables(){
 	
 $(document).ready(function(){
 	
-	/* Global vars */
-	 
-	var locate = String(window.location);
-	alert(locate);
-	// var websiteURL = "www.stealthgenie.com";
-	var websiteSplit = locate.split("=");
-	
-	
-	
-	// var websiteSplit = websiteURL.split(".");
-	websiteName = websiteSplit[1];
-	
-	alert(websiteName);
-	//delineate2(locate);
-	
+
 initDataTables();
 /* all other page load code*/
 
