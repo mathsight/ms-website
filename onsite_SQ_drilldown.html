@@ -135,12 +135,12 @@
 
 	<script>
 
-	var locate = "http://ec2-54-216-68-172.eu-west-1.compute.amazonaws.com:8080/onsite_SQ_drilldown.html?websiteName=leighmans"
+	var locate = window.location;
 	
-	document.joe.burns.value = locate
+	document.joe.burns.value = locate;
 
-	var text = document.joe.burns.value
-
+	var text = document.joe.burns.value;
+    alert(text);
 	function delineate2(str){
 
 		point = str.lastIndexOf("=");
@@ -148,6 +148,7 @@
 		return(str.substring(point+1,str.length));
 	}
 	document.write("Last Name is " +delineate2(text));
+	alert(delineate2(text));
 
 	 </script>
 	 
