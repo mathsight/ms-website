@@ -149,14 +149,7 @@
 	 
 	 <script>
 
-/* Global vars */
-	 
-var locate = String(window.location.pathname);
-// var websiteURL = "www.stealthgenie.com";
-var websiteSplit = locate.split("=");
-// var websiteSplit = websiteURL.split(".");
-var websiteName = websiteSplit[1];
-//delineate2(locate);
+
 
 var feature_list= {1:"average_backlink_flesch_reading_ease",
 2:"number_of_inline_css_styles",
@@ -841,6 +834,16 @@ function initDataTables(){
 };
 	
 $(document).ready(function(){
+	
+	/* Global vars */
+	 
+	var locate = String(window.location.pathname);
+	// var websiteURL = "www.stealthgenie.com";
+	var websiteSplit = locate.split("=");
+	// var websiteSplit = websiteURL.split(".");
+	websiteName = websiteSplit[1];
+	//delineate2(locate);
+	
 initDataTables();
 /* all other page load code*/
 
