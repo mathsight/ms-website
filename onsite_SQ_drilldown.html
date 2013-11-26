@@ -136,6 +136,10 @@
 	<script>
 
 	var locate = window.location
+	
+	document.joe.burns.value = locate
+
+	var text = document.joe.burns.value
 
 	function delineate(str){
 
@@ -145,13 +149,15 @@
 	}
 	 document.write("Domain is :" +delineate(text));
 
-
+	 </script>
+	 
+	 <script>
 
 /* Global vars */
 // var websiteURL = "www.stealthgenie.com";
 // var websiteSplit = websiteURL.split(".");
 
-var websiteName = delineate(locate);
+var websiteName = delineate(text);
 
 var feature_list= {1:"average_backlink_flesch_reading_ease",
 2:"number_of_inline_css_styles",
@@ -985,9 +991,9 @@ rel="stylesheet" type="text/css">
           <h1>StatSEO: Onsite drilldown</h1>
         </div>
       </div> 
-	  <script>
-	  document.write("Website name is " +delineate(text));
-	  </script>
+	  <FORM NAME="joe">
+	  <INPUT TYPE="hidden" NAME="burns" SIZE="35">
+	  </form>
       <div class="row-fluid subheading">
 		  <div class="span12">
 			  <!-- Special typography from Bootstrap for lead paragraph. -->
