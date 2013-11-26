@@ -141,13 +141,13 @@
 
 	var text = document.joe.burns.value
 
-	function delineate(str){
+	function delineate2(str){
 
-		theleft = str.indexOf("=") + 1;
-		// theright = str.lastIndexOf("&");
-		return(str.substring(theleft));
+		point = str.lastIndexOf("=");
+
+		return(str.substring(point+1,str.length));
 	}
-	 document.write("Domain is :" +delineate(text));
+	document.write("Last Name is " +delineate2(text));
 
 	 </script>
 	 
@@ -157,7 +157,7 @@
 // var websiteURL = "www.stealthgenie.com";
 // var websiteSplit = websiteURL.split(".");
 
-var websiteName = delineate(text);
+var websiteName = delineate2(text);
 
 var feature_list= {1:"average_backlink_flesch_reading_ease",
 2:"number_of_inline_css_styles",
@@ -990,10 +990,13 @@ rel="stylesheet" type="text/css">
         <div class="span12">
           <h1>StatSEO: Onsite drilldown</h1>
         </div>
+		
       </div> 
+	  
 	  <FORM NAME="joe">
 	  <INPUT TYPE="hidden" NAME="burns" SIZE="35">
 	  </form>
+	  
       <div class="row-fluid subheading">
 		  <div class="span12">
 			  <!-- Special typography from Bootstrap for lead paragraph. -->
