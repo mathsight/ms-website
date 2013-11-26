@@ -213,7 +213,8 @@ function initDataTables(){
 		"aoColumns": [
 		{ "mData": "html_id",
 		"mRender" : function ( data, type, full) {
-			return '<a href="'+ data +'">'+data+'</a>';
+			//return '<a href="'+ data +'">'+data+'</a>';
+			return '<div onclick="OpenInNewTab("'+data+'");">'+data+'</div>';
 		}
 	},
 	{ "mData": "feature_value" },
