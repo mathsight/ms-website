@@ -3,7 +3,7 @@
 <html lang="en">
 <head>
 	<meta charset="utf-8">
-	<title>MathSight StatSEO Demo</title>
+	<title>MathSight AlgoSight Demo</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<link rel="stylesheet" href="https://d396qusza40orc.cloudfront.net/startup%2Fcode%2Fbootstrap-combined.no-icons.min.css">
 	<link rel="stylesheet" href="http://netdna.bootstrapcdn.com/font-awesome/3.0.2/css/font-awesome.css">
@@ -40,6 +40,8 @@
 	
 	<!-- for nv.d3 charts -->
 	<link href="src/nv.d3.css" rel="stylesheet" type="text/css">
+	
+	
 	
 	<!-- for datatables -->
 	<style type="text/css" title="currentStyle">
@@ -176,13 +178,13 @@ text {
 
 </style>
 
+
 	
 
 <script>
 
-
 /* Global vars */
-var websiteURL = "www.leighmans.com";
+var websiteURL = "www.stealthgenie.com";
 var websiteSplit = websiteURL.split(".");
 var websiteName = websiteSplit[1];
 
@@ -254,6 +256,41 @@ var dataTableThree;
 var dataTableFour;
 
 function initDataTables(){
+	
+	datatableWorstHit = $('#exampleWH').dataTable( {
+		"bProcessing": true,
+		"sAjaxSource": "/json/summary/"+websiteName+"_Xhat.json",
+		"sAjaxDataProp": "onsite",
+		"aaSorting": [[ 4, "desc" ]],
+		"sDom": "<'row-fluid'<'span6'T><'span6'f>r>t<'row-fluid'<'span6'i><'span6'p>>",
+		"oTableTools": {
+			"aButtons": [
+			"copy",
+			"print",
+			{
+				"sExtends":    "collection",
+				"sButtonText": 'Save <span class="caret" />',
+				"aButtons":    [ "csv", "xls", "pdf" ]
+			}
+			]
+		},
+		"aoColumns": [
+		null,
+		{ "mData": null , //its null here because history column will contain the mRender
+		"mRender" : function ( data, type, full) {
+			return '<a href="onsite_SQ_drilldown.html#F'+ full[0] +'">'+full[1]+'</a>';
+		}
+	},
+	null,
+	{"bVisible": false},
+	null,
+	{"bVisible": false},		
+	{"bVisible": false},
+	{"bVisible": false},
+	{"bVisible": false},
+	{"bVisible": false}
+	]
+} );
 
 	dataTableOne = $('#example3').dataTable( {
 		"bProcessing": true,
@@ -276,7 +313,7 @@ function initDataTables(){
 		null,
 		{ "mData": null , //its null here because history column will contain the mRender
 		"mRender" : function ( data, type, full) {
-			return '<a href="onsite_SQ_drilldown.html?=' + websiteName + '#F'+ full[0]  +'">'+full[1]+'</a>';
+			return '<a href="onsite_SQ_drilldown.html#F'+ full[0] +'">'+full[1]+'</a>';
 		}
 	},
 	null,
@@ -345,7 +382,7 @@ dataTableThree = $('#example4').dataTable( {
 	null,
 	{ "mData": null , //its null here because history column will contain the mRender
 	"mRender" : function ( data, type, full) {
-		return '<a href="offsite_SQ_drilldown.html?=' + websiteName + '#F'+ full[0] + '">'+full[1]+'</a>';
+		return '<a href="offsite_SQ_drilldown.html#F'+ full[0] +'">'+full[1]+'</a>';
 	}
 },
 null,
@@ -434,6 +471,8 @@ initDataTables();
 	<script src="src/tooltip.js"></script>
 	<script src="src/models/legend.js"></script>
 	<script src="src/models/axis.js"></script>
+	<script src="src/models/linePlusBarChart.js"></script>
+	<script src="src/models/lineChart.js"></script>
 	<script src="src/models/multiBarHorizontal.js"></script>
 	<script src="src/models/multiBarHorizontalChart.js"></script>
 	<script src="assets/js/stream_layers.js"></script>
@@ -442,37 +481,63 @@ initDataTables();
 
 
 
+var changeName = "penguin21"
+var topLevelFile = "/json/algosight/toplevel/toplevel_" + websiteName + ".json";
+var trafficFile = "/json/algosight/traffic/traffic_" + websiteName + "_"+ changeName + ".json";
+var CPFile = "/json/algosight/traffic/CP_" + websiteName + "_"+ changeName + ".json";
+// var trafficFile = "/json/algosight/traffic/test.json";
 
-var topLevelFile = "/json/toplevel/" + websiteName + "_ybar.json";
+d3.json(trafficFile, function(data) {
 
+	var trafficData = data.map(function(series) {
+		series.values = series.values.map(function(d) { 
+			return {
+			x: (d[0]-719529)*86400*1000, // converting from Matlab format
+			y: d[1] 
+		} 
+	});
+		return series;
+	});
 
-d3.json(topLevelFile, function(data) {
 
 	var chart;
 	nv.addGraph(function() {
-		chart = nv.models.multiBarHorizontalChart()
-		.x(function(d) { return d.label })
-		.y(function(d) { return d.value })
-		.margin({top: 30, right: 100, bottom: 50, left: 100})
-		//.showValues(true)
-		//.tooltips(false)
-		//.barColor(d3.scale.category20().range())
-		.transitionDuration(250)
-		.stacked(false)
-		//.showControls(false);
+	    chart = nv.models.lineChart()
+	        .margin({top: 30, right: 60, bottom: 50, left: 70})
+	        .x(function(d,i) { return i })
+	        .color(d3.scale.category10().range());
 
-		chart.yAxis
-		.tickFormat(d3.format(',.2f'));
+	    chart.xAxis.tickFormat(function(d) {
+	      var dx = trafficData[0].values[d] && trafficData[0].values[d].x || 0;
+	      return dx ? d3.time.format('%x')(new Date(dx)) : '';
+	      })
+	      .showMaxMin(false);
 
-		d3.select('#chart1 svg')
-		.datum(data)
-		.call(chart);
+		  chart.yAxis
+		  .axisLabel('Daily pagevisits')
+		  .tickFormat(d3.format(',f'));
 
-		nv.utils.windowResize(chart.update);
+		  // chart.y2Axis
+	  // 		  .tickFormat(d3.format(',f'));
+			
+		  // chart.y3Axis
+		  // .tickFormat(d3.format(',f'));
+		  // 				
+		  // chart.y4Axis
+		  // .tickFormat(d3.format(',f'));
 
-		chart.dispatch.on('stateChange', function(e) { nv.log('New State:', JSON.stringify(e)); });
+	    // chart.bars.forceY([0]).padData(false);
+	    // chart.lines.forceY([0]);
 
-		return chart;
+	    d3.select('#chart1 svg')
+	        .datum(trafficData)
+	      .transition().duration(250).call(chart);
+
+	    nv.utils.windowResize(chart.update);
+
+	    chart.dispatch.on('stateChange', function(e) { nv.log('New State:', JSON.stringify(e)); });
+
+	    return chart;
 	});
 });
 
@@ -550,7 +615,7 @@ redrawGraph = function(file) {
       <!-- www.google.com/fonts/specimen/Ubuntu#pairings -->
       <div class="row-fluid heading">
         <div class="span12">
-          <h1>StatSEO: Demonstration</h1>
+          <h1>AlgoSight</h1>
         </div>
       </div> 
 	    
@@ -577,11 +642,7 @@ redrawGraph = function(file) {
 				<!-- Special typography from Bootstrap for lead paragraph. -->
 				<!-- http://twitter.github.io/bootstrap/base-css.html#typography -->
 				<!-- <p >for </p> -->
-				
-				
-  			  <script>document.write("for " + websiteName);</script>
-  			  
-				
+				for stealthgenie
 			</div>
 		  
 			<hr>
@@ -590,17 +651,16 @@ redrawGraph = function(file) {
 		</div>
 	  
 		<div class="well">
-			<h2>Domain health status summary</h2>
-			<p></p>
+			<h2>Executive Summary</h2>
+			<p>This page looks at the effect of Penguin 2.1 algorithm update of 4th October 2013, on stealthgenie.com and provides ideas for both onsite and offsite improvement in the wake of this update.</p>
 		</div>
 
 
 		<div id="chart1" class='with-3d-shadow with-transitions'>
 			<svg></svg>
 		</div>
-
-
-		<hr>
+		
+		
 		<div class = "well">
 	  
 			<h2>Onsite pages summary</h2>
@@ -713,7 +773,7 @@ redrawGraph = function(file) {
 		  
 		  <hr>
 		  <p>
-		  <a href="/onsite_SQ_drilldown.html?=">Click for onsite drilldown</a>
+		  <a href="/onsite_SQ_drilldown.html">Click for onsite drilldown</a>
 		  </p>
 		  <div class="spacer"></div>
 		  <hr>
@@ -845,7 +905,7 @@ redrawGraph = function(file) {
 
 					  <hr>
 					  <p>
-						  <a href="/offsite_SQ_drilldown.html?=" >Click for offsite drilldown</a>
+						  <a href="/offsite_SQ_drilldown.html">Click for offsite drilldown</a>
 					  </p>
 					  <div class="spacer"></div>
 					  <hr>
