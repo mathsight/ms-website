@@ -133,6 +133,12 @@
 	];
 
 
+	function OpenInNewTab(url )
+	{
+	  var win=window.open(url, '_blank');
+	  win.focus();
+	}
+
 	/* Global vars */
 	 
 	var locate = String(window.location);
@@ -1671,6 +1677,8 @@ rel="stylesheet" type="text/css">
 		  <a href="/statseo.html">Return to top level summary</a>
 		  </p>
 		  <div class="spacer"></div>
+		  <hr>
+		  <div onclick="OpenInNewTab('www.bbc.co.uk');">Click to test open in new tab</div>
 		  <hr>
 
 		  <h2>Feature Influence Ranking Table</h2>
