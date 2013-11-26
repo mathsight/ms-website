@@ -155,10 +155,10 @@
 	 <script>
 
 /* Global vars */
-// var websiteURL = "www.stealthgenie.com";
-// var websiteSplit = websiteURL.split(".");
-
-var websiteName = delineate2(locate);
+var websiteURL = "www.stealthgenie.com";
+var websiteSplit = websiteURL.split(".");
+var websiteName = websiteSplit[1];
+//delineate2(locate);
 
 var feature_list= {1:"average_backlink_flesch_reading_ease",
 2:"number_of_inline_css_styles",
@@ -186,7 +186,7 @@ var feature_list= {1:"average_backlink_flesch_reading_ease",
 
 
 function initDataTables(){
-	
+	alert(window.location);
 		$('#dynamicA').html( '<table cellpadding="0" cellspacing="0" border="0" class="table table-striped table-bordered" id="example"></table>' );
 		
 		$('#example').dataTable( {
