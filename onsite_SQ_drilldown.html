@@ -137,10 +137,10 @@
 
 	var locate = window.location;
 	
-	document.joe.burns.value = locate;
-
-	var text = document.joe.burns.value;
-    alert(text);
+	// document.joe.burns.value = locate;
+	// 
+	// var text = document.joe.burns.value;
+    alert(locate);
 	function delineate2(str){
 
 		point = str.lastIndexOf("=");
@@ -148,7 +148,7 @@
 		return(str.substring(point+1,str.length));
 	}
 	document.write("Last Name is " +delineate2(text));
-	alert(delineate2(text));
+	alert(delineate2(locate));
 
 	 </script>
 	 
@@ -158,7 +158,7 @@
 // var websiteURL = "www.stealthgenie.com";
 // var websiteSplit = websiteURL.split(".");
 
-var websiteName = delineate2(text);
+var websiteName = delineate2(locate);
 
 var feature_list= {1:"average_backlink_flesch_reading_ease",
 2:"number_of_inline_css_styles",
