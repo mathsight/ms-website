@@ -134,9 +134,17 @@
 
 
 	/* Global vars */
-	var websiteURL = "www.rawpearls.com";
-	var websiteSplit = websiteURL.split(".");
-	var websiteName = websiteSplit[1];
+	 
+	var locate = String(window.location);
+
+	// var websiteURL = "www.stealthgenie.com";
+	var websiteSplit = locate.split("=");
+
+	// var websiteSplit = websiteURL.split(".");
+	var websiteNameFull = websiteSplit[1];
+	var websiteSplitTwo = websiteNameFull.split("#");
+	var websiteName = websiteSplitTwo[0];
+	
 	
 	var feature_list= {//1:"average_backlink_flesch_reading_ease",
 	2:"number_of_inline_css_styles",
@@ -951,7 +959,7 @@ rel="stylesheet" type="text/css">
 			  <!-- Special typography from Bootstrap for lead paragraph. -->
 			  <!-- http://twitter.github.io/bootstrap/base-css.html#typography -->
 			  <p class="lead">
-			  <script>document.write("for " + websiteURL);</script>
+			  <script>document.write("for " + websiteName);</script>
 			  </p>
 		  </div>
 	  </div>
