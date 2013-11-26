@@ -213,7 +213,6 @@ function initDataTables(){
 		"aoColumns": [
 		{ "mData": "html_id",
 		"mRender" : function ( data, type, full) {
-			//return '<a href="'+ data +'">'+data+'</a>';
 			return '<div onclick="OpenInNewTab(\''+ data +'\');">'+data+'</div>';
 		}
 	},
@@ -244,7 +243,7 @@ function initDataTables(){
 	// 			"aoColumns": [
 	// 			{ "mData": "html_id",
 	// 			"mRender" : function ( data, type, full) {
-		// 									return '<a href="'+ data +'">'+data+'</a>';
+		// 									return '<div onclick="OpenInNewTab(\''+ data +'\');">'+data+'</div>';
 		// 														}
 		// 			},
 		// 			        { "mData": "feature_value" },
@@ -274,7 +273,7 @@ function initDataTables(){
 			"aoColumns": [
 			{ "mData": "html_id",
 			"mRender" : function ( data, type, full) {
-				return '<a href="'+ data +'">'+data+'</a>';
+				return '<div onclick="OpenInNewTab(\''+ data +'\');">'+data+'</div>';
 			}
 		},
 		{ "mData": "feature_value" },
@@ -304,7 +303,7 @@ function initDataTables(){
 		"aoColumns": [
 		{ "mData": "html_id",
 		"mRender" : function ( data, type, full) {
-			return '<a href="'+ data +'">'+data+'</a>';
+			return '<div onclick="OpenInNewTab(\''+ data +'\');">'+data+'</div>';
 		}
 	},
 	{ "mData": "feature_value" },
@@ -334,7 +333,7 @@ $('#example6').dataTable( {
 	"aoColumns": [
 	{ "mData": "html_id",
 	"mRender" : function ( data, type, full) {
-		return '<a href="'+ data +'">'+data+'</a>';
+		return '<div onclick="OpenInNewTab(\''+ data +'\');">'+data+'</div>';
 	}
 },
 { "mData": "feature_value" },
@@ -363,7 +362,7 @@ $('#example7').dataTable( {
 "aoColumns": [
 { "mData": "html_id",
 "mRender" : function ( data, type, full) {
-	return '<a href="'+ data +'">'+data+'</a>';
+	return '<div onclick="OpenInNewTab(\''+ data +'\');">'+data+'</div>';
 }
 },
 { "mData": "feature_value" },
@@ -392,7 +391,7 @@ $('#example8').dataTable( {
 "aoColumns": [
 { "mData": "html_id",
 "mRender" : function ( data, type, full) {
-return '<a href="'+ data +'">'+data+'</a>';
+return '<div onclick="OpenInNewTab(\''+ data +'\');">'+data+'</div>';
 }
 },
 { "mData": "feature_value" },
@@ -421,7 +420,7 @@ $('#example9').dataTable( {
 "aoColumns": [
 { "mData": "html_id",
 "mRender" : function ( data, type, full) {
-return '<a href="'+ data +'">'+data+'</a>';
+return '<div onclick="OpenInNewTab(\''+ data +'\');">'+data+'</div>';
 }
 },
 { "mData": "feature_value" },
@@ -450,7 +449,7 @@ $('#example10').dataTable( {
 "aoColumns": [
 { "mData": "html_id",
 "mRender" : function ( data, type, full) {
-return '<a href="'+ data +'">'+data+'</a>';
+return '<div onclick="OpenInNewTab(\''+ data +'\');">'+data+'</div>';
 }
 },
 { "mData": "feature_value" },
@@ -479,7 +478,7 @@ $('#example11').dataTable( {
 "aoColumns": [
 { "mData": "html_id",
 "mRender" : function ( data, type, full) {
-return '<a href="'+ data +'">'+data+'</a>';
+return '<div onclick="OpenInNewTab(\''+ data +'\');">'+data+'</div>';
 }
 },
 { "mData": "feature_value" },
@@ -508,7 +507,7 @@ $('#example12').dataTable( {
 "aoColumns": [
 { "mData": "html_id",
 "mRender" : function ( data, type, full) {
-return '<a href="'+ data +'">'+data+'</a>';
+return '<div onclick="OpenInNewTab(\''+ data +'\');">'+data+'</div>';
 }
 },
 { "mData": "feature_value" },
@@ -537,7 +536,7 @@ $('#example13').dataTable( {
 "aoColumns": [
 { "mData": "html_id",
 "mRender" : function ( data, type, full) {
-return '<a href="'+ data +'">'+data+'</a>';
+return '<div onclick="OpenInNewTab(\''+ data +'\');">'+data+'</div>';
 }
 },
 { "mData": "feature_value" },
@@ -566,7 +565,7 @@ $('#example14').dataTable( {
 "aoColumns": [
 { "mData": "html_id",
 "mRender" : function ( data, type, full) {
-return '<a href="'+ data +'">'+data+'</a>';
+return '<div onclick="OpenInNewTab(\''+ data +'\');">'+data+'</div>';
 }
 },
 { "mData": "feature_value" },
@@ -595,7 +594,7 @@ return '<a href="'+ data +'">'+data+'</a>';
 // 			"aoColumns": [
 // 			{ "mData": "html_id",
 // 			"mRender" : function ( data, type, full) {
-// 									return '<a href="'+ data +'">'+data+'</a>';
+// 									return '<div onclick="OpenInNewTab(\''+ data +'\');">'+data+'</div>';
 // 														}
 // 			},
 // 			        { "mData": "feature_value" },
@@ -624,7 +623,7 @@ $('#example16').dataTable( {
 "aoColumns": [
 { "mData": "html_id",
 "mRender" : function ( data, type, full) {
-return '<a href="'+ data +'">'+data+'</a>';
+return '<div onclick="OpenInNewTab(\''+ data +'\');">'+data+'</div>';
 }
 },
 { "mData": "feature_value" },
@@ -653,7 +652,7 @@ $('#example17').dataTable( {
 "aoColumns": [
 { "mData": "html_id",
 "mRender" : function ( data, type, full) {
-return '<a href="'+ data +'">'+data+'</a>';
+return '<div onclick="OpenInNewTab(\''+ data +'\');">'+data+'</div>';
 }
 },
 { "mData": "feature_value" },
@@ -682,7 +681,7 @@ $('#example18').dataTable( {
 "aoColumns": [
 { "mData": "html_id",
 "mRender" : function ( data, type, full) {
-return '<a href="'+ data +'">'+data+'</a>';
+return '<div onclick="OpenInNewTab(\''+ data +'\');">'+data+'</div>';
 }
 },
 { "mData": "feature_value" },
@@ -711,7 +710,7 @@ $('#example19').dataTable( {
 "aoColumns": [
 { "mData": "html_id",
 "mRender" : function ( data, type, full) {
-return '<a href="'+ data +'">'+data+'</a>';
+return '<div onclick="OpenInNewTab(\''+ data +'\');">'+data+'</div>';
 }
 },
 { "mData": "feature_value" },
@@ -740,7 +739,7 @@ $('#example20').dataTable( {
 "aoColumns": [
 { "mData": "html_id",
 "mRender" : function ( data, type, full) {
-return '<a href="'+ data +'">'+data+'</a>';
+return '<div onclick="OpenInNewTab(\''+ data +'\');">'+data+'</div>';
 }
 },
 { "mData": "feature_value" },
@@ -769,7 +768,7 @@ $('#example21').dataTable( {
 "aoColumns": [
 { "mData": "html_id",
 "mRender" : function ( data, type, full) {
-return '<a href="'+ data +'">'+data+'</a>';
+return '<div onclick="OpenInNewTab(\''+ data +'\');">'+data+'</div>';
 }
 },
 { "mData": "feature_value" },
@@ -798,7 +797,7 @@ $('#example22').dataTable( {
 "aoColumns": [
 { "mData": "html_id",
 "mRender" : function ( data, type, full) {
-return '<a href="'+ data +'">'+data+'</a>';
+return '<div onclick="OpenInNewTab(\''+ data +'\');">'+data+'</div>';
 }
 },
 { "mData": "feature_value" },
