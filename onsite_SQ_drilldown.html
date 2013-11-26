@@ -838,10 +838,16 @@ $(document).ready(function(){
 	/* Global vars */
 	 
 	var locate = String(window.location.pathname);
+	alert(locate);
 	// var websiteURL = "www.stealthgenie.com";
 	var websiteSplit = locate.split("=");
+	
+	
+	
 	// var websiteSplit = websiteURL.split(".");
 	websiteName = websiteSplit[1];
+	
+	alert(websiteName);
 	//delineate2(locate);
 	
 initDataTables();
