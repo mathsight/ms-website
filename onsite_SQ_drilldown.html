@@ -133,22 +133,20 @@
 	];
 
 
-	var locate = (window.location).value;
+	var locate = window.location;
 	
-	// document.joe.burns.value = locate;
-	// 
-	// var text = document.joe.burns.value;
+	document.joe.burns.value = locate;
+	var text = document.joe.burns.value;
     // alert(locate);
 	
 	function delineate(str){
 
-	theleft = str.indexOf("=") + 1;
-	//theright = str.lastIndexOf("&");
-	return(str.substring(theleft));
+		theleft = str.indexOf("=") + 1;
+		//theright = str.lastIndexOf("&");
+		return(str.substring(theleft));
 	}
-	
-	document.write("Last Name is " +delineate(locate));
-	alert(delineate(locate));
+
+	alert("Website name is " +delineate(text));
 
 	 </script>
 	 
