@@ -133,21 +133,22 @@
 	];
 
 
-	var locate = window.location;
+	var locate = (window.location).value;
 	
 	// document.joe.burns.value = locate;
 	// 
 	// var text = document.joe.burns.value;
     // alert(locate);
 	
-	function delineate2(str){
+	function delineate(str){
 
-		point = str.lastIndexOf("=");
-
-		return(str.substring(point+1,str.length));
+	theleft = str.indexOf("=") + 1;
+	//theright = str.lastIndexOf("&");
+	return(str.substring(theleft));
 	}
-	document.write("Last Name is " +delineate2(locate));
-	alert(delineate2(locate));
+	
+	document.write("Last Name is " +delineate(locate));
+	alert(delineate(locate));
 
 	 </script>
 	 
