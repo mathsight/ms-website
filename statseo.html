@@ -276,7 +276,7 @@ function initDataTables(){
 		null,
 		{ "mData": null , //its null here because history column will contain the mRender
 		"mRender" : function ( data, type, full) {
-			return '<a href="onsite_SQ_drilldown.html?=' + websiteName + '&='+ document.write(full[1].replace(/ /g,"_"))  +'">'+full[1]+'</a>';
+			return '<a href="onsite_SQ_drilldown.html?=' + websiteName + '&='+ full[1] +'">'+full[1]+'</a>';
 		}
 	},
 	null,

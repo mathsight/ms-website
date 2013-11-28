@@ -141,7 +141,7 @@
 
 	/* Global vars */
 	 
-	var locate = String(window.location);
+	var locate = decodeURI(window.location);
 
 	// var websiteURL = "www.stealthgenie.com";
 	var urlSplit = locate.split("=");
