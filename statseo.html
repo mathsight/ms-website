@@ -345,7 +345,7 @@ dataTableThree = $('#example4').dataTable( {
 	null,
 	{ "mData": null , //its null here because history column will contain the mRender
 	"mRender" : function ( data, type, full) {
-		return '<a href="offsite_SQ_drilldown.html?=' + websiteName + '#F'+ full[0] + '">'+full[1]+'</a>';
+		return '<a href="offsite_SQ_drilldown.html?=' + websiteName + '&='+ full[1] +'">'+full[1]+'</a>';
 	}
 },
 null,
@@ -402,8 +402,7 @@ initDataTables();
 	
 </script>
 	
-	
-	
+
 	<script>
 
 
