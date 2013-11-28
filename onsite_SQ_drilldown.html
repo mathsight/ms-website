@@ -144,37 +144,36 @@
 	var locate = String(window.location);
 
 	// var websiteURL = "www.stealthgenie.com";
-	var websiteSplit = locate.split("=");
+	var urlSplit = locate.split("=");
+	var websiteNameFull = urlSplit[1];
+	var featureName = urlSplit[2];
+	var urlSplitTwo = websiteNameFull.split("&");
+	var websiteName = urlSplitTwo[0];
 
-	// var websiteSplit = websiteURL.split(".");
-	var websiteNameFull = websiteSplit[1];
-	var websiteSplitTwo = websiteNameFull.split("#");
-	var websiteName = websiteSplitTwo[0];
 
-
-var feature_list= {1:"average_backlink_flesch_reading_ease",
-2:"number_of_inline_css_styles",
-3:"average_backlink_flesch_kincaid_grade",
-4:"number_of_images_missing_alt",
-5:"number_of_h1_instances",
-6:"number_of_images",
-7:"total_number_of_words",
-8:"total_number_of_dictionary_words",
-9:"number_of_hyperlinks_with_html",
-10:"number_of_unique_words",
-11:"ratio_of_dictionary_words_to_total",
-12:"number_of_destination_titles_same_as_anchor_text",
-13:"maximum_length_of_h1",
-14:"average_length_of_h1",
-15:"average_backlink_dale_chall_readability",
-16:"number_of_duplicate_words",
-17:"number_of_hyperlinks_with_file",
-18:"number_of_rare_words",
-19:"total_number_of_5k_common_words",
-20:"number_of_titles_same_as_h1",
-21:"number_of_iframes",
-22:"html5_detected"
-};
+// var feature_list= {1:"average_backlink_flesch_reading_ease",
+// 2:"number_of_inline_css_styles",
+// 3:"average_backlink_flesch_kincaid_grade",
+// 4:"number_of_images_missing_alt",
+// 5:"number_of_h1_instances",
+// 6:"number_of_images",
+// 7:"total_number_of_words",
+// 8:"total_number_of_dictionary_words",
+// 9:"number_of_hyperlinks_with_html",
+// 10:"number_of_unique_words",
+// 11:"ratio_of_dictionary_words_to_total",
+// 12:"number_of_destination_titles_same_as_anchor_text",
+// 13:"maximum_length_of_h1",
+// 14:"average_length_of_h1",
+// 15:"average_backlink_dale_chall_readability",
+// 16:"number_of_duplicate_words",
+// 17:"number_of_hyperlinks_with_file",
+// 18:"number_of_rare_words",
+// 19:"total_number_of_5k_common_words",
+// 20:"number_of_titles_same_as_h1",
+// 21:"number_of_iframes",
+// 22:"html5_detected"
+// };
 
 
 function initDataTables(){
@@ -197,7 +196,7 @@ function initDataTables(){
 		$('#example1').dataTable( {
 			"bProcessing": true,
 			"sAjaxSource": "/json/drilldown/"+websiteName+"_XDrill.json",
-			"sAjaxDataProp": "onsite."+ feature_list[1],
+			"sAjaxDataProp": "onsite."+ featureName,
 			"sDom": "<'row-fluid'<'span6'T><'span6'f>r>t<'row-fluid'<'span6'i><'span6'p>>",
 			"oTableTools": {
 				"aButtons": [
@@ -223,614 +222,614 @@ function initDataTables(){
 		"aaSorting": [[ 3, "desc" ]],
 	} );
 
-			$('#example2').dataTable( {
-				"bProcessing": true,
-				"sAjaxSource": "/json/drilldown/"+websiteName+"_XDrill.json",
-				"sAjaxDataProp": "onsite."+ feature_list[2],
-				"sDom": "<'row-fluid'<'span6'T><'span6'f>r>t<'row-fluid'<'span6'i><'span6'p>>",
-				"oTableTools": {
-					"aButtons": [
-					"copy",
-					"print",
-					{
-						"sExtends":    "collection",
-						"sButtonText": 'Save <span class="caret" />',
-						"aButtons":    [ "csv", "xls", "pdf" ]
-					}
-					]
-				},
-				"aoColumns": [
-				{ "mData": "html_id",
-				"mRender" : function ( data, type, full) {
-					return '<div onclick="OpenInNewTab(\''+ data +'\');">'+data+'</div>';
-				}
-			},
-			{ "mData": "feature_value" },
-			{ "mData": "cluster_win_mean" },
-			{ "mData": "delta" }
-			],
-			"aaSorting": [[ 3, "desc" ]]
-		} );
-
-		$('#example3').dataTable( {
-			"bProcessing": true,
-			"sAjaxSource": "/json/drilldown/"+websiteName+"_XDrill.json",
-			"sAjaxDataProp": "onsite."+ feature_list[3],
-			"sDom": "<'row-fluid'<'span6'T><'span6'f>r>t<'row-fluid'<'span6'i><'span6'p>>",
-			"oTableTools": {
-				"aButtons": [
-				"copy",
-				"print",
-				{
-					"sExtends":    "collection",
-					"sButtonText": 'Save <span class="caret" />',
-					"aButtons":    [ "csv", "xls", "pdf" ]
-				}
-				]
-			},
-			"aoColumns": [
-			{ "mData": "html_id",
-			"mRender" : function ( data, type, full) {
-				return '<div onclick="OpenInNewTab(\''+ data +'\');">'+data+'</div>';
-			}
-		},
-		{ "mData": "feature_value" },
-		{ "mData": "cluster_win_mean" },
-		{ "mData": "delta" }
-		],
-		"aaSorting": [[ 3, "desc" ]]
-	} );
-
-		$('#example4').dataTable( {
-			"bProcessing": true,
-			"sAjaxSource": "/json/drilldown/"+websiteName+"_XDrill.json",
-			"sAjaxDataProp": "onsite."+ feature_list[4],
-			"sDom": "<'row-fluid'<'span6'T><'span6'f>r>t<'row-fluid'<'span6'i><'span6'p>>",
-			"oTableTools": {
-				"aButtons": [
-				"copy",
-				"print",
-				{
-					"sExtends":    "collection",
-					"sButtonText": 'Save <span class="caret" />',
-					"aButtons":    [ "csv", "xls", "pdf" ]
-				}
-				]
-			},
-			"aoColumns": [
-			{ "mData": "html_id",
-			"mRender" : function ( data, type, full) {
-				return '<div onclick="OpenInNewTab(\''+ data +'\');">'+data+'</div>';
-			}
-		},
-		{ "mData": "feature_value" },
-		{ "mData": "cluster_win_mean" },
-		{ "mData": "delta" }
-		],
-		"aaSorting": [[ 3, "desc" ]]
-	} );
-
-		$('#example5').dataTable( {
-			"bProcessing": true,
-			"sAjaxSource": "/json/drilldown/"+websiteName+"_XDrill.json",
-			"sAjaxDataProp": "onsite."+ feature_list[5],
-			"sDom": "<'row-fluid'<'span6'T><'span6'f>r>t<'row-fluid'<'span6'i><'span6'p>>",
-			"oTableTools": {
-				"aButtons": [
-				"copy",
-				"print",
-				{
-					"sExtends":    "collection",
-					"sButtonText": 'Save <span class="caret" />',
-					"aButtons":    [ "csv", "xls", "pdf" ]
-				}
-				]
-			},
-			"aoColumns": [
-			{ "mData": "html_id",
-			"mRender" : function ( data, type, full) {
-				return '<div onclick="OpenInNewTab(\''+ data +'\');">'+data+'</div>';
-			}
-		},
-		{ "mData": "feature_value" },
-		{ "mData": "cluster_win_mean" },
-		{ "mData": "delta" }
-		],
-		"aaSorting": [[ 3, "desc" ]]
-	} );
-
-		$('#example6').dataTable( {
-			"bProcessing": true,
-			"sAjaxSource": "/json/drilldown/"+websiteName+"_XDrill.json",
-			"sAjaxDataProp": "onsite."+ feature_list[6],
-			"sDom": "<'row-fluid'<'span6'T><'span6'f>r>t<'row-fluid'<'span6'i><'span6'p>>",
-			"oTableTools": {
-				"aButtons": [
-				"copy",
-				"print",
-				{
-					"sExtends":    "collection",
-					"sButtonText": 'Save <span class="caret" />',
-					"aButtons":    [ "csv", "xls", "pdf" ]
-				}
-				]
-			},
-			"aoColumns": [
-			{ "mData": "html_id",
-			"mRender" : function ( data, type, full) {
-				return '<div onclick="OpenInNewTab(\''+ data +'\');">'+data+'</div>';
-			}
-		},
-		{ "mData": "feature_value" },
-		{ "mData": "cluster_win_mean" },
-		{ "mData": "delta" }
-		],
-		"aaSorting": [[ 3, "desc" ]]
-	} );
-
-		$('#example7').dataTable( {
-			"bProcessing": true,
-			"sAjaxSource": "/json/drilldown/"+websiteName+"_XDrill.json",
-			"sAjaxDataProp": "onsite."+ feature_list[7],
-			"sDom": "<'row-fluid'<'span6'T><'span6'f>r>t<'row-fluid'<'span6'i><'span6'p>>",
-			"oTableTools": {
-				"aButtons": [
-				"copy",
-				"print",
-				{
-					"sExtends":    "collection",
-					"sButtonText": 'Save <span class="caret" />',
-					"aButtons":    [ "csv", "xls", "pdf" ]
-				}
-				]
-			},
-			"aoColumns": [
-			{ "mData": "html_id",
-			"mRender" : function ( data, type, full) {
-				return '<div onclick="OpenInNewTab(\''+ data +'\');">'+data+'</div>';
-			}
-		},
-		{ "mData": "feature_value" },
-		{ "mData": "cluster_win_mean" },
-		{ "mData": "delta" }
-		],
-		"aaSorting": [[ 3, "desc" ]]
-	} );
-
-		$('#example8').dataTable( {
-			"bProcessing": true,
-			"sAjaxSource": "/json/drilldown/"+websiteName+"_XDrill.json",
-			"sAjaxDataProp": "onsite."+ feature_list[8],
-			"sDom": "<'row-fluid'<'span6'T><'span6'f>r>t<'row-fluid'<'span6'i><'span6'p>>",
-			"oTableTools": {
-				"aButtons": [
-				"copy",
-				"print",
-				{
-					"sExtends":    "collection",
-					"sButtonText": 'Save <span class="caret" />',
-					"aButtons":    [ "csv", "xls", "pdf" ]
-				}
-				]
-			},
-			"aoColumns": [
-			{ "mData": "html_id",
-			"mRender" : function ( data, type, full) {
-				return '<div onclick="OpenInNewTab(\''+ data +'\');">'+data+'</div>';
-			}
-		},
-		{ "mData": "feature_value" },
-		{ "mData": "cluster_win_mean" },
-		{ "mData": "delta" }
-		],
-		"aaSorting": [[ 3, "desc" ]]
-	} );
-
-		$('#example9').dataTable( {
-			"bProcessing": true,
-			"sAjaxSource": "/json/drilldown/"+websiteName+"_XDrill.json",
-			"sAjaxDataProp": "onsite."+ feature_list[9],
-			"sDom": "<'row-fluid'<'span6'T><'span6'f>r>t<'row-fluid'<'span6'i><'span6'p>>",
-			"oTableTools": {
-				"aButtons": [
-				"copy",
-				"print",
-				{
-					"sExtends":    "collection",
-					"sButtonText": 'Save <span class="caret" />',
-					"aButtons":    [ "csv", "xls", "pdf" ]
-				}
-				]
-			},
-			"aoColumns": [
-			{ "mData": "html_id",
-			"mRender" : function ( data, type, full) {
-				return '<div onclick="OpenInNewTab(\''+ data +'\');">'+data+'</div>';
-			}
-		},
-		{ "mData": "feature_value" },
-		{ "mData": "cluster_win_mean" },
-		{ "mData": "delta" }
-		],
-		"aaSorting": [[ 3, "desc" ]]
-	} );
-
-		$('#example10').dataTable( {
-			"bProcessing": true,
-			"sAjaxSource": "/json/drilldown/"+websiteName+"_XDrill.json",
-			"sAjaxDataProp": "onsite."+ feature_list[10],
-			"sDom": "<'row-fluid'<'span6'T><'span6'f>r>t<'row-fluid'<'span6'i><'span6'p>>",
-			"oTableTools": {
-				"aButtons": [
-				"copy",
-				"print",
-				{
-					"sExtends":    "collection",
-					"sButtonText": 'Save <span class="caret" />',
-					"aButtons":    [ "csv", "xls", "pdf" ]
-				}
-				]
-			},
-			"aoColumns": [
-			{ "mData": "html_id",
-			"mRender" : function ( data, type, full) {
-				return '<div onclick="OpenInNewTab(\''+ data +'\');">'+data+'</div>';
-			}
-		},
-		{ "mData": "feature_value" },
-		{ "mData": "cluster_win_mean" },
-		{ "mData": "delta" }
-		],
-		"aaSorting": [[ 3, "desc" ]]
-	} );
-
-		$('#example11').dataTable( {
-			"bProcessing": true,
-			"sAjaxSource": "/json/drilldown/"+websiteName+"_XDrill.json",
-			"sAjaxDataProp": "onsite."+ feature_list[11],
-			"sDom": "<'row-fluid'<'span6'T><'span6'f>r>t<'row-fluid'<'span6'i><'span6'p>>",
-			"oTableTools": {
-				"aButtons": [
-				"copy",
-				"print",
-				{
-					"sExtends":    "collection",
-					"sButtonText": 'Save <span class="caret" />',
-					"aButtons":    [ "csv", "xls", "pdf" ]
-				}
-				]
-			},
-			"aoColumns": [
-			{ "mData": "html_id",
-			"mRender" : function ( data, type, full) {
-				return '<div onclick="OpenInNewTab(\''+ data +'\');">'+data+'</div>';
-			}
-		},
-		{ "mData": "feature_value" },
-		{ "mData": "cluster_win_mean" },
-		{ "mData": "delta" }
-		],
-		"aaSorting": [[ 3, "desc" ]]
-	} );
-
-	$('#example12').dataTable( {
-		"bProcessing": true,
-		"sAjaxSource": "/json/drilldown/"+websiteName+"_XDrill.json",
-		"sAjaxDataProp": "onsite."+ feature_list[12],
-		"sDom": "<'row-fluid'<'span6'T><'span6'f>r>t<'row-fluid'<'span6'i><'span6'p>>",
-		"oTableTools": {
-			"aButtons": [
-			"copy",
-			"print",
-			{
-				"sExtends":    "collection",
-				"sButtonText": 'Save <span class="caret" />',
-				"aButtons":    [ "csv", "xls", "pdf" ]
-			}
-			]
-		},
-		"aoColumns": [
-		{ "mData": "html_id",
-		"mRender" : function ( data, type, full) {
-			return '<div onclick="OpenInNewTab(\''+ data +'\');">'+data+'</div>';
-		}
-	},
-	{ "mData": "feature_value" },
-	{ "mData": "cluster_win_mean" },
-	{ "mData": "delta" }
-	],
-	"aaSorting": [[ 3, "desc" ]]
-} );
-
-	$('#example13').dataTable( {
-		"bProcessing": true,
-		"sAjaxSource": "/json/drilldown/"+websiteName+"_XDrill.json",
-		"sAjaxDataProp": "onsite."+ feature_list[13],
-		"sDom": "<'row-fluid'<'span6'T><'span6'f>r>t<'row-fluid'<'span6'i><'span6'p>>",
-			"oTableTools": {
-				"aButtons": [
-				"copy",
-				"print",
-				{
-					"sExtends":    "collection",
-					"sButtonText": 'Save <span class="caret" />',
-					"aButtons":    [ "csv", "xls", "pdf" ]
-				}
-				]
-			},
-		"aoColumns": [
-		{ "mData": "html_id",
-		"mRender" : function ( data, type, full) {
-								return '<div onclick="OpenInNewTab(\''+ data +'\');">'+data+'</div>';
-													}
-		},
-		        { "mData": "feature_value" },
-		        { "mData": "cluster_win_mean" },
-		        { "mData": "delta" }
-				],
-		"aaSorting": [[ 3, "desc" ]]
-	} );
-
-	$('#example14').dataTable( {
-		"bProcessing": true,
-		"sAjaxSource": "/json/drilldown/"+websiteName+"_XDrill.json",
-		"sAjaxDataProp": "onsite."+ feature_list[14],
-		"sDom": "<'row-fluid'<'span6'T><'span6'f>r>t<'row-fluid'<'span6'i><'span6'p>>",
-			"oTableTools": {
-				"aButtons": [
-				"copy",
-				"print",
-				{
-					"sExtends":    "collection",
-					"sButtonText": 'Save <span class="caret" />',
-					"aButtons":    [ "csv", "xls", "pdf" ]
-				}
-				]
-			},
-		"aoColumns": [
-		{ "mData": "html_id",
-		"mRender" : function ( data, type, full) {
-								return '<div onclick="OpenInNewTab(\''+ data +'\');">'+data+'</div>';
-													}
-		},
-		        { "mData": "feature_value" },
-		        { "mData": "cluster_win_mean" },
-		        { "mData": "delta" }
-				],
-		"aaSorting": [[ 3, "desc" ]]
-	} );
-
-	$('#example15').dataTable( {
-		"bProcessing": true,
-		"sAjaxSource": "/json/drilldown/"+websiteName+"_XDrill.json",
-		"sAjaxDataProp": "onsite."+ feature_list[15],
-		"sDom": "<'row-fluid'<'span6'T><'span6'f>r>t<'row-fluid'<'span6'i><'span6'p>>",
-			"oTableTools": {
-				"aButtons": [
-				"copy",
-				"print",
-				{
-					"sExtends":    "collection",
-					"sButtonText": 'Save <span class="caret" />',
-					"aButtons":    [ "csv", "xls", "pdf" ]
-				}
-				]
-			},
-		"aoColumns": [
-		{ "mData": "html_id",
-		"mRender" : function ( data, type, full) {
-								return '<div onclick="OpenInNewTab(\''+ data +'\');">'+data+'</div>';
-													}
-		},
-		        { "mData": "feature_value" },
-		        { "mData": "cluster_win_mean" },
-		        { "mData": "delta" }
-				],
-		"aaSorting": [[ 3, "desc" ]]
-	} );
-
-	$('#example16').dataTable( {
-		"bProcessing": true,
-		"sAjaxSource": "/json/drilldown/"+websiteName+"_XDrill.json",
-		"sAjaxDataProp": "onsite."+ feature_list[16],
-		"sDom": "<'row-fluid'<'span6'T><'span6'f>r>t<'row-fluid'<'span6'i><'span6'p>>",
-			"oTableTools": {
-				"aButtons": [
-				"copy",
-				"print",
-				{
-					"sExtends":    "collection",
-					"sButtonText": 'Save <span class="caret" />',
-					"aButtons":    [ "csv", "xls", "pdf" ]
-				}
-				]
-			},
-		"aoColumns": [
-		{ "mData": "html_id",
-		"mRender" : function ( data, type, full) {
-								return '<div onclick="OpenInNewTab(\''+ data +'\');">'+data+'</div>';
-													}
-		},
-		        { "mData": "feature_value" },
-		        { "mData": "cluster_win_mean" },
-		        { "mData": "delta" }
-				],
-		"aaSorting": [[ 3, "desc" ]]
-	} );
-
-	$('#example17').dataTable( {
-		"bProcessing": true,
-		"sAjaxSource": "/json/drilldown/"+websiteName+"_XDrill.json",
-		"sAjaxDataProp": "onsite."+ feature_list[17],
-		"sDom": "<'row-fluid'<'span6'T><'span6'f>r>t<'row-fluid'<'span6'i><'span6'p>>",
-			"oTableTools": {
-				"aButtons": [
-				"copy",
-				"print",
-				{
-					"sExtends":    "collection",
-					"sButtonText": 'Save <span class="caret" />',
-					"aButtons":    [ "csv", "xls", "pdf" ]
-				}
-				]
-			},
-		"aoColumns": [
-		{ "mData": "html_id",
-		"mRender" : function ( data, type, full) {
-								return '<div onclick="OpenInNewTab(\''+ data +'\');">'+data+'</div>';
-													}
-		},
-		        { "mData": "feature_value" },
-		        { "mData": "cluster_win_mean" },
-		        { "mData": "delta" }
-				],
-		"aaSorting": [[ 3, "desc" ]]
-	} );
-
-	$('#example18').dataTable( {
-		"bProcessing": true,
-		"sAjaxSource": "/json/drilldown/"+websiteName+"_XDrill.json",
-		"sAjaxDataProp": "onsite."+ feature_list[18],
-		"sDom": "<'row-fluid'<'span6'T><'span6'f>r>t<'row-fluid'<'span6'i><'span6'p>>",
-			"oTableTools": {
-				"aButtons": [
-				"copy",
-				"print",
-				{
-					"sExtends":    "collection",
-					"sButtonText": 'Save <span class="caret" />',
-					"aButtons":    [ "csv", "xls", "pdf" ]
-				}
-				]
-			},
-		"aoColumns": [
-		{ "mData": "html_id",
-		"mRender" : function ( data, type, full) {
-								return '<div onclick="OpenInNewTab(\''+ data +'\');">'+data+'</div>';
-													}
-		},
-		        { "mData": "feature_value" },
-		        { "mData": "cluster_win_mean" },
-		        { "mData": "delta" }
-				],
-		"aaSorting": [[ 3, "desc" ]]
-	} );
-
-	$('#example19').dataTable( {
-		"bProcessing": true,
-		"sAjaxSource": "/json/drilldown/"+websiteName+"_XDrill.json",
-		"sAjaxDataProp": "onsite."+ feature_list[19],
-		"sDom": "<'row-fluid'<'span6'T><'span6'f>r>t<'row-fluid'<'span6'i><'span6'p>>",
-			"oTableTools": {
-				"aButtons": [
-				"copy",
-				"print",
-				{
-					"sExtends":    "collection",
-					"sButtonText": 'Save <span class="caret" />',
-					"aButtons":    [ "csv", "xls", "pdf" ]
-				}
-				]
-			},
-		"aoColumns": [
-		{ "mData": "html_id",
-		"mRender" : function ( data, type, full) {
-								return '<div onclick="OpenInNewTab(\''+ data +'\');">'+data+'</div>';
-													}
-		},
-		        { "mData": "feature_value" },
-		        { "mData": "cluster_win_mean" },
-		        { "mData": "delta" }
-				],
-		"aaSorting": [[ 3, "desc" ]]
-	} );
-
-	$('#example20').dataTable( {
-		"bProcessing": true,
-		"sAjaxSource": "/json/drilldown/"+websiteName+"_XDrill.json",
-		"sAjaxDataProp": "onsite."+ feature_list[20],
-		"sDom": "<'row-fluid'<'span6'T><'span6'f>r>t<'row-fluid'<'span6'i><'span6'p>>",
-			"oTableTools": {
-				"aButtons": [
-				"copy",
-				"print",
-				{
-					"sExtends":    "collection",
-					"sButtonText": 'Save <span class="caret" />',
-					"aButtons":    [ "csv", "xls", "pdf" ]
-				}
-				]
-			},
-		"aoColumns": [
-		{ "mData": "html_id",
-		"mRender" : function ( data, type, full) {
-								return '<div onclick="OpenInNewTab(\''+ data +'\');">'+data+'</div>';
-													}
-		},
-		        { "mData": "feature_value" },
-		        { "mData": "cluster_win_mean" },
-		        { "mData": "delta" }
-				],
-		"aaSorting": [[ 3, "desc" ]]
-	} );
-
-		$('#example21').dataTable( {
-			"bProcessing": true,
-			"sAjaxSource": "/json/drilldown/"+websiteName+"_XDrill.json",
-			"sAjaxDataProp": "onsite."+ feature_list[21],
-"sDom": "<'row-fluid'<'span6'T><'span6'f>r>t<'row-fluid'<'span6'i><'span6'p>>",
-	"oTableTools": {
-		"aButtons": [
-		"copy",
-		"print",
-		{
-			"sExtends":    "collection",
-			"sButtonText": 'Save <span class="caret" />',
-			"aButtons":    [ "csv", "xls", "pdf" ]
-		}
-		]
-	},
-			"aoColumns": [
-			{ "mData": "html_id",
-			"mRender" : function ( data, type, full) {
-									return '<div onclick="OpenInNewTab(\''+ data +'\');">'+data+'</div>';
-														}
-			},
-			{ "mData": "feature_value" },
-			{ "mData": "cluster_win_mean" },
-			{ "mData": "delta" }
-			],
-			"aaSorting": [[ 3, "desc" ]]
-		} );
-
-	$('#example22').dataTable( {
-		"bProcessing": true,
-		"sAjaxSource": "/json/drilldown/"+websiteName+"_XDrill.json",
-		"sAjaxDataProp": "onsite."+ feature_list[22],
-		"sDom": "<'row-fluid'<'span6'T><'span6'f>r>t<'row-fluid'<'span6'i><'span6'p>>",
-			"oTableTools": {
-				"aButtons": [
-				"copy",
-				"print",
-				{
-					"sExtends":    "collection",
-					"sButtonText": 'Save <span class="caret" />',
-					"aButtons":    [ "csv", "xls", "pdf" ]
-				}
-				]
-			},
-		"aoColumns": [
-		{ "mData": "html_id",
-		"mRender" : function ( data, type, full) {
-								return '<div onclick="OpenInNewTab(\''+ data +'\');">'+data+'</div>';
-													}
-		},
-		        { "mData": "feature_value" },
-		        { "mData": "cluster_win_mean" },
-		        { "mData": "delta" }
-				],
-		"aaSorting": [[ 3, "desc" ]]
-	} );
+		// 	$('#example2').dataTable( {
+// 				"bProcessing": true,
+// 				"sAjaxSource": "/json/drilldown/"+websiteName+"_XDrill.json",
+// 				"sAjaxDataProp": "onsite."+ feature_list[2],
+// 				"sDom": "<'row-fluid'<'span6'T><'span6'f>r>t<'row-fluid'<'span6'i><'span6'p>>",
+// 				"oTableTools": {
+// 					"aButtons": [
+// 					"copy",
+// 					"print",
+// 					{
+// 						"sExtends":    "collection",
+// 						"sButtonText": 'Save <span class="caret" />',
+// 						"aButtons":    [ "csv", "xls", "pdf" ]
+// 					}
+// 					]
+// 				},
+// 				"aoColumns": [
+// 				{ "mData": "html_id",
+// 				"mRender" : function ( data, type, full) {
+// 					return '<div onclick="OpenInNewTab(\''+ data +'\');">'+data+'</div>';
+// 				}
+// 			},
+// 			{ "mData": "feature_value" },
+// 			{ "mData": "cluster_win_mean" },
+// 			{ "mData": "delta" }
+// 			],
+// 			"aaSorting": [[ 3, "desc" ]]
+// 		} );
+// 
+// 		$('#example3').dataTable( {
+// 			"bProcessing": true,
+// 			"sAjaxSource": "/json/drilldown/"+websiteName+"_XDrill.json",
+// 			"sAjaxDataProp": "onsite."+ feature_list[3],
+// 			"sDom": "<'row-fluid'<'span6'T><'span6'f>r>t<'row-fluid'<'span6'i><'span6'p>>",
+// 			"oTableTools": {
+// 				"aButtons": [
+// 				"copy",
+// 				"print",
+// 				{
+// 					"sExtends":    "collection",
+// 					"sButtonText": 'Save <span class="caret" />',
+// 					"aButtons":    [ "csv", "xls", "pdf" ]
+// 				}
+// 				]
+// 			},
+// 			"aoColumns": [
+// 			{ "mData": "html_id",
+// 			"mRender" : function ( data, type, full) {
+// 				return '<div onclick="OpenInNewTab(\''+ data +'\');">'+data+'</div>';
+// 			}
+// 		},
+// 		{ "mData": "feature_value" },
+// 		{ "mData": "cluster_win_mean" },
+// 		{ "mData": "delta" }
+// 		],
+// 		"aaSorting": [[ 3, "desc" ]]
+// 	} );
+// 
+// 		$('#example4').dataTable( {
+// 			"bProcessing": true,
+// 			"sAjaxSource": "/json/drilldown/"+websiteName+"_XDrill.json",
+// 			"sAjaxDataProp": "onsite."+ feature_list[4],
+// 			"sDom": "<'row-fluid'<'span6'T><'span6'f>r>t<'row-fluid'<'span6'i><'span6'p>>",
+// 			"oTableTools": {
+// 				"aButtons": [
+// 				"copy",
+// 				"print",
+// 				{
+// 					"sExtends":    "collection",
+// 					"sButtonText": 'Save <span class="caret" />',
+// 					"aButtons":    [ "csv", "xls", "pdf" ]
+// 				}
+// 				]
+// 			},
+// 			"aoColumns": [
+// 			{ "mData": "html_id",
+// 			"mRender" : function ( data, type, full) {
+// 				return '<div onclick="OpenInNewTab(\''+ data +'\');">'+data+'</div>';
+// 			}
+// 		},
+// 		{ "mData": "feature_value" },
+// 		{ "mData": "cluster_win_mean" },
+// 		{ "mData": "delta" }
+// 		],
+// 		"aaSorting": [[ 3, "desc" ]]
+// 	} );
+// 
+// 		$('#example5').dataTable( {
+// 			"bProcessing": true,
+// 			"sAjaxSource": "/json/drilldown/"+websiteName+"_XDrill.json",
+// 			"sAjaxDataProp": "onsite."+ feature_list[5],
+// 			"sDom": "<'row-fluid'<'span6'T><'span6'f>r>t<'row-fluid'<'span6'i><'span6'p>>",
+// 			"oTableTools": {
+// 				"aButtons": [
+// 				"copy",
+// 				"print",
+// 				{
+// 					"sExtends":    "collection",
+// 					"sButtonText": 'Save <span class="caret" />',
+// 					"aButtons":    [ "csv", "xls", "pdf" ]
+// 				}
+// 				]
+// 			},
+// 			"aoColumns": [
+// 			{ "mData": "html_id",
+// 			"mRender" : function ( data, type, full) {
+// 				return '<div onclick="OpenInNewTab(\''+ data +'\');">'+data+'</div>';
+// 			}
+// 		},
+// 		{ "mData": "feature_value" },
+// 		{ "mData": "cluster_win_mean" },
+// 		{ "mData": "delta" }
+// 		],
+// 		"aaSorting": [[ 3, "desc" ]]
+// 	} );
+// 
+// 		$('#example6').dataTable( {
+// 			"bProcessing": true,
+// 			"sAjaxSource": "/json/drilldown/"+websiteName+"_XDrill.json",
+// 			"sAjaxDataProp": "onsite."+ feature_list[6],
+// 			"sDom": "<'row-fluid'<'span6'T><'span6'f>r>t<'row-fluid'<'span6'i><'span6'p>>",
+// 			"oTableTools": {
+// 				"aButtons": [
+// 				"copy",
+// 				"print",
+// 				{
+// 					"sExtends":    "collection",
+// 					"sButtonText": 'Save <span class="caret" />',
+// 					"aButtons":    [ "csv", "xls", "pdf" ]
+// 				}
+// 				]
+// 			},
+// 			"aoColumns": [
+// 			{ "mData": "html_id",
+// 			"mRender" : function ( data, type, full) {
+// 				return '<div onclick="OpenInNewTab(\''+ data +'\');">'+data+'</div>';
+// 			}
+// 		},
+// 		{ "mData": "feature_value" },
+// 		{ "mData": "cluster_win_mean" },
+// 		{ "mData": "delta" }
+// 		],
+// 		"aaSorting": [[ 3, "desc" ]]
+// 	} );
+// 
+// 		$('#example7').dataTable( {
+// 			"bProcessing": true,
+// 			"sAjaxSource": "/json/drilldown/"+websiteName+"_XDrill.json",
+// 			"sAjaxDataProp": "onsite."+ feature_list[7],
+// 			"sDom": "<'row-fluid'<'span6'T><'span6'f>r>t<'row-fluid'<'span6'i><'span6'p>>",
+// 			"oTableTools": {
+// 				"aButtons": [
+// 				"copy",
+// 				"print",
+// 				{
+// 					"sExtends":    "collection",
+// 					"sButtonText": 'Save <span class="caret" />',
+// 					"aButtons":    [ "csv", "xls", "pdf" ]
+// 				}
+// 				]
+// 			},
+// 			"aoColumns": [
+// 			{ "mData": "html_id",
+// 			"mRender" : function ( data, type, full) {
+// 				return '<div onclick="OpenInNewTab(\''+ data +'\');">'+data+'</div>';
+// 			}
+// 		},
+// 		{ "mData": "feature_value" },
+// 		{ "mData": "cluster_win_mean" },
+// 		{ "mData": "delta" }
+// 		],
+// 		"aaSorting": [[ 3, "desc" ]]
+// 	} );
+// 
+// 		$('#example8').dataTable( {
+// 			"bProcessing": true,
+// 			"sAjaxSource": "/json/drilldown/"+websiteName+"_XDrill.json",
+// 			"sAjaxDataProp": "onsite."+ feature_list[8],
+// 			"sDom": "<'row-fluid'<'span6'T><'span6'f>r>t<'row-fluid'<'span6'i><'span6'p>>",
+// 			"oTableTools": {
+// 				"aButtons": [
+// 				"copy",
+// 				"print",
+// 				{
+// 					"sExtends":    "collection",
+// 					"sButtonText": 'Save <span class="caret" />',
+// 					"aButtons":    [ "csv", "xls", "pdf" ]
+// 				}
+// 				]
+// 			},
+// 			"aoColumns": [
+// 			{ "mData": "html_id",
+// 			"mRender" : function ( data, type, full) {
+// 				return '<div onclick="OpenInNewTab(\''+ data +'\');">'+data+'</div>';
+// 			}
+// 		},
+// 		{ "mData": "feature_value" },
+// 		{ "mData": "cluster_win_mean" },
+// 		{ "mData": "delta" }
+// 		],
+// 		"aaSorting": [[ 3, "desc" ]]
+// 	} );
+// 
+// 		$('#example9').dataTable( {
+// 			"bProcessing": true,
+// 			"sAjaxSource": "/json/drilldown/"+websiteName+"_XDrill.json",
+// 			"sAjaxDataProp": "onsite."+ feature_list[9],
+// 			"sDom": "<'row-fluid'<'span6'T><'span6'f>r>t<'row-fluid'<'span6'i><'span6'p>>",
+// 			"oTableTools": {
+// 				"aButtons": [
+// 				"copy",
+// 				"print",
+// 				{
+// 					"sExtends":    "collection",
+// 					"sButtonText": 'Save <span class="caret" />',
+// 					"aButtons":    [ "csv", "xls", "pdf" ]
+// 				}
+// 				]
+// 			},
+// 			"aoColumns": [
+// 			{ "mData": "html_id",
+// 			"mRender" : function ( data, type, full) {
+// 				return '<div onclick="OpenInNewTab(\''+ data +'\');">'+data+'</div>';
+// 			}
+// 		},
+// 		{ "mData": "feature_value" },
+// 		{ "mData": "cluster_win_mean" },
+// 		{ "mData": "delta" }
+// 		],
+// 		"aaSorting": [[ 3, "desc" ]]
+// 	} );
+// 
+// 		$('#example10').dataTable( {
+// 			"bProcessing": true,
+// 			"sAjaxSource": "/json/drilldown/"+websiteName+"_XDrill.json",
+// 			"sAjaxDataProp": "onsite."+ feature_list[10],
+// 			"sDom": "<'row-fluid'<'span6'T><'span6'f>r>t<'row-fluid'<'span6'i><'span6'p>>",
+// 			"oTableTools": {
+// 				"aButtons": [
+// 				"copy",
+// 				"print",
+// 				{
+// 					"sExtends":    "collection",
+// 					"sButtonText": 'Save <span class="caret" />',
+// 					"aButtons":    [ "csv", "xls", "pdf" ]
+// 				}
+// 				]
+// 			},
+// 			"aoColumns": [
+// 			{ "mData": "html_id",
+// 			"mRender" : function ( data, type, full) {
+// 				return '<div onclick="OpenInNewTab(\''+ data +'\');">'+data+'</div>';
+// 			}
+// 		},
+// 		{ "mData": "feature_value" },
+// 		{ "mData": "cluster_win_mean" },
+// 		{ "mData": "delta" }
+// 		],
+// 		"aaSorting": [[ 3, "desc" ]]
+// 	} );
+// 
+// 		$('#example11').dataTable( {
+// 			"bProcessing": true,
+// 			"sAjaxSource": "/json/drilldown/"+websiteName+"_XDrill.json",
+// 			"sAjaxDataProp": "onsite."+ feature_list[11],
+// 			"sDom": "<'row-fluid'<'span6'T><'span6'f>r>t<'row-fluid'<'span6'i><'span6'p>>",
+// 			"oTableTools": {
+// 				"aButtons": [
+// 				"copy",
+// 				"print",
+// 				{
+// 					"sExtends":    "collection",
+// 					"sButtonText": 'Save <span class="caret" />',
+// 					"aButtons":    [ "csv", "xls", "pdf" ]
+// 				}
+// 				]
+// 			},
+// 			"aoColumns": [
+// 			{ "mData": "html_id",
+// 			"mRender" : function ( data, type, full) {
+// 				return '<div onclick="OpenInNewTab(\''+ data +'\');">'+data+'</div>';
+// 			}
+// 		},
+// 		{ "mData": "feature_value" },
+// 		{ "mData": "cluster_win_mean" },
+// 		{ "mData": "delta" }
+// 		],
+// 		"aaSorting": [[ 3, "desc" ]]
+// 	} );
+// 
+// 	$('#example12').dataTable( {
+// 		"bProcessing": true,
+// 		"sAjaxSource": "/json/drilldown/"+websiteName+"_XDrill.json",
+// 		"sAjaxDataProp": "onsite."+ feature_list[12],
+// 		"sDom": "<'row-fluid'<'span6'T><'span6'f>r>t<'row-fluid'<'span6'i><'span6'p>>",
+// 		"oTableTools": {
+// 			"aButtons": [
+// 			"copy",
+// 			"print",
+// 			{
+// 				"sExtends":    "collection",
+// 				"sButtonText": 'Save <span class="caret" />',
+// 				"aButtons":    [ "csv", "xls", "pdf" ]
+// 			}
+// 			]
+// 		},
+// 		"aoColumns": [
+// 		{ "mData": "html_id",
+// 		"mRender" : function ( data, type, full) {
+// 			return '<div onclick="OpenInNewTab(\''+ data +'\');">'+data+'</div>';
+// 		}
+// 	},
+// 	{ "mData": "feature_value" },
+// 	{ "mData": "cluster_win_mean" },
+// 	{ "mData": "delta" }
+// 	],
+// 	"aaSorting": [[ 3, "desc" ]]
+// } );
+// 
+// 	$('#example13').dataTable( {
+// 		"bProcessing": true,
+// 		"sAjaxSource": "/json/drilldown/"+websiteName+"_XDrill.json",
+// 		"sAjaxDataProp": "onsite."+ feature_list[13],
+// 		"sDom": "<'row-fluid'<'span6'T><'span6'f>r>t<'row-fluid'<'span6'i><'span6'p>>",
+// 			"oTableTools": {
+// 				"aButtons": [
+// 				"copy",
+// 				"print",
+// 				{
+// 					"sExtends":    "collection",
+// 					"sButtonText": 'Save <span class="caret" />',
+// 					"aButtons":    [ "csv", "xls", "pdf" ]
+// 				}
+// 				]
+// 			},
+// 		"aoColumns": [
+// 		{ "mData": "html_id",
+// 		"mRender" : function ( data, type, full) {
+// 								return '<div onclick="OpenInNewTab(\''+ data +'\');">'+data+'</div>';
+// 													}
+// 		},
+// 		        { "mData": "feature_value" },
+// 		        { "mData": "cluster_win_mean" },
+// 		        { "mData": "delta" }
+// 				],
+// 		"aaSorting": [[ 3, "desc" ]]
+// 	} );
+// 
+// 	$('#example14').dataTable( {
+// 		"bProcessing": true,
+// 		"sAjaxSource": "/json/drilldown/"+websiteName+"_XDrill.json",
+// 		"sAjaxDataProp": "onsite."+ feature_list[14],
+// 		"sDom": "<'row-fluid'<'span6'T><'span6'f>r>t<'row-fluid'<'span6'i><'span6'p>>",
+// 			"oTableTools": {
+// 				"aButtons": [
+// 				"copy",
+// 				"print",
+// 				{
+// 					"sExtends":    "collection",
+// 					"sButtonText": 'Save <span class="caret" />',
+// 					"aButtons":    [ "csv", "xls", "pdf" ]
+// 				}
+// 				]
+// 			},
+// 		"aoColumns": [
+// 		{ "mData": "html_id",
+// 		"mRender" : function ( data, type, full) {
+// 								return '<div onclick="OpenInNewTab(\''+ data +'\');">'+data+'</div>';
+// 													}
+// 		},
+// 		        { "mData": "feature_value" },
+// 		        { "mData": "cluster_win_mean" },
+// 		        { "mData": "delta" }
+// 				],
+// 		"aaSorting": [[ 3, "desc" ]]
+// 	} );
+// 
+// 	$('#example15').dataTable( {
+// 		"bProcessing": true,
+// 		"sAjaxSource": "/json/drilldown/"+websiteName+"_XDrill.json",
+// 		"sAjaxDataProp": "onsite."+ feature_list[15],
+// 		"sDom": "<'row-fluid'<'span6'T><'span6'f>r>t<'row-fluid'<'span6'i><'span6'p>>",
+// 			"oTableTools": {
+// 				"aButtons": [
+// 				"copy",
+// 				"print",
+// 				{
+// 					"sExtends":    "collection",
+// 					"sButtonText": 'Save <span class="caret" />',
+// 					"aButtons":    [ "csv", "xls", "pdf" ]
+// 				}
+// 				]
+// 			},
+// 		"aoColumns": [
+// 		{ "mData": "html_id",
+// 		"mRender" : function ( data, type, full) {
+// 								return '<div onclick="OpenInNewTab(\''+ data +'\');">'+data+'</div>';
+// 													}
+// 		},
+// 		        { "mData": "feature_value" },
+// 		        { "mData": "cluster_win_mean" },
+// 		        { "mData": "delta" }
+// 				],
+// 		"aaSorting": [[ 3, "desc" ]]
+// 	} );
+// 
+// 	$('#example16').dataTable( {
+// 		"bProcessing": true,
+// 		"sAjaxSource": "/json/drilldown/"+websiteName+"_XDrill.json",
+// 		"sAjaxDataProp": "onsite."+ feature_list[16],
+// 		"sDom": "<'row-fluid'<'span6'T><'span6'f>r>t<'row-fluid'<'span6'i><'span6'p>>",
+// 			"oTableTools": {
+// 				"aButtons": [
+// 				"copy",
+// 				"print",
+// 				{
+// 					"sExtends":    "collection",
+// 					"sButtonText": 'Save <span class="caret" />',
+// 					"aButtons":    [ "csv", "xls", "pdf" ]
+// 				}
+// 				]
+// 			},
+// 		"aoColumns": [
+// 		{ "mData": "html_id",
+// 		"mRender" : function ( data, type, full) {
+// 								return '<div onclick="OpenInNewTab(\''+ data +'\');">'+data+'</div>';
+// 													}
+// 		},
+// 		        { "mData": "feature_value" },
+// 		        { "mData": "cluster_win_mean" },
+// 		        { "mData": "delta" }
+// 				],
+// 		"aaSorting": [[ 3, "desc" ]]
+// 	} );
+// 
+// 	$('#example17').dataTable( {
+// 		"bProcessing": true,
+// 		"sAjaxSource": "/json/drilldown/"+websiteName+"_XDrill.json",
+// 		"sAjaxDataProp": "onsite."+ feature_list[17],
+// 		"sDom": "<'row-fluid'<'span6'T><'span6'f>r>t<'row-fluid'<'span6'i><'span6'p>>",
+// 			"oTableTools": {
+// 				"aButtons": [
+// 				"copy",
+// 				"print",
+// 				{
+// 					"sExtends":    "collection",
+// 					"sButtonText": 'Save <span class="caret" />',
+// 					"aButtons":    [ "csv", "xls", "pdf" ]
+// 				}
+// 				]
+// 			},
+// 		"aoColumns": [
+// 		{ "mData": "html_id",
+// 		"mRender" : function ( data, type, full) {
+// 								return '<div onclick="OpenInNewTab(\''+ data +'\');">'+data+'</div>';
+// 													}
+// 		},
+// 		        { "mData": "feature_value" },
+// 		        { "mData": "cluster_win_mean" },
+// 		        { "mData": "delta" }
+// 				],
+// 		"aaSorting": [[ 3, "desc" ]]
+// 	} );
+// 
+// 	$('#example18').dataTable( {
+// 		"bProcessing": true,
+// 		"sAjaxSource": "/json/drilldown/"+websiteName+"_XDrill.json",
+// 		"sAjaxDataProp": "onsite."+ feature_list[18],
+// 		"sDom": "<'row-fluid'<'span6'T><'span6'f>r>t<'row-fluid'<'span6'i><'span6'p>>",
+// 			"oTableTools": {
+// 				"aButtons": [
+// 				"copy",
+// 				"print",
+// 				{
+// 					"sExtends":    "collection",
+// 					"sButtonText": 'Save <span class="caret" />',
+// 					"aButtons":    [ "csv", "xls", "pdf" ]
+// 				}
+// 				]
+// 			},
+// 		"aoColumns": [
+// 		{ "mData": "html_id",
+// 		"mRender" : function ( data, type, full) {
+// 								return '<div onclick="OpenInNewTab(\''+ data +'\');">'+data+'</div>';
+// 													}
+// 		},
+// 		        { "mData": "feature_value" },
+// 		        { "mData": "cluster_win_mean" },
+// 		        { "mData": "delta" }
+// 				],
+// 		"aaSorting": [[ 3, "desc" ]]
+// 	} );
+// 
+// 	$('#example19').dataTable( {
+// 		"bProcessing": true,
+// 		"sAjaxSource": "/json/drilldown/"+websiteName+"_XDrill.json",
+// 		"sAjaxDataProp": "onsite."+ feature_list[19],
+// 		"sDom": "<'row-fluid'<'span6'T><'span6'f>r>t<'row-fluid'<'span6'i><'span6'p>>",
+// 			"oTableTools": {
+// 				"aButtons": [
+// 				"copy",
+// 				"print",
+// 				{
+// 					"sExtends":    "collection",
+// 					"sButtonText": 'Save <span class="caret" />',
+// 					"aButtons":    [ "csv", "xls", "pdf" ]
+// 				}
+// 				]
+// 			},
+// 		"aoColumns": [
+// 		{ "mData": "html_id",
+// 		"mRender" : function ( data, type, full) {
+// 								return '<div onclick="OpenInNewTab(\''+ data +'\');">'+data+'</div>';
+// 													}
+// 		},
+// 		        { "mData": "feature_value" },
+// 		        { "mData": "cluster_win_mean" },
+// 		        { "mData": "delta" }
+// 				],
+// 		"aaSorting": [[ 3, "desc" ]]
+// 	} );
+// 
+// 	$('#example20').dataTable( {
+// 		"bProcessing": true,
+// 		"sAjaxSource": "/json/drilldown/"+websiteName+"_XDrill.json",
+// 		"sAjaxDataProp": "onsite."+ feature_list[20],
+// 		"sDom": "<'row-fluid'<'span6'T><'span6'f>r>t<'row-fluid'<'span6'i><'span6'p>>",
+// 			"oTableTools": {
+// 				"aButtons": [
+// 				"copy",
+// 				"print",
+// 				{
+// 					"sExtends":    "collection",
+// 					"sButtonText": 'Save <span class="caret" />',
+// 					"aButtons":    [ "csv", "xls", "pdf" ]
+// 				}
+// 				]
+// 			},
+// 		"aoColumns": [
+// 		{ "mData": "html_id",
+// 		"mRender" : function ( data, type, full) {
+// 								return '<div onclick="OpenInNewTab(\''+ data +'\');">'+data+'</div>';
+// 													}
+// 		},
+// 		        { "mData": "feature_value" },
+// 		        { "mData": "cluster_win_mean" },
+// 		        { "mData": "delta" }
+// 				],
+// 		"aaSorting": [[ 3, "desc" ]]
+// 	} );
+// 
+// 		$('#example21').dataTable( {
+// 			"bProcessing": true,
+// 			"sAjaxSource": "/json/drilldown/"+websiteName+"_XDrill.json",
+// 			"sAjaxDataProp": "onsite."+ feature_list[21],
+// "sDom": "<'row-fluid'<'span6'T><'span6'f>r>t<'row-fluid'<'span6'i><'span6'p>>",
+// 	"oTableTools": {
+// 		"aButtons": [
+// 		"copy",
+// 		"print",
+// 		{
+// 			"sExtends":    "collection",
+// 			"sButtonText": 'Save <span class="caret" />',
+// 			"aButtons":    [ "csv", "xls", "pdf" ]
+// 		}
+// 		]
+// 	},
+// 			"aoColumns": [
+// 			{ "mData": "html_id",
+// 			"mRender" : function ( data, type, full) {
+// 									return '<div onclick="OpenInNewTab(\''+ data +'\');">'+data+'</div>';
+// 														}
+// 			},
+// 			{ "mData": "feature_value" },
+// 			{ "mData": "cluster_win_mean" },
+// 			{ "mData": "delta" }
+// 			],
+// 			"aaSorting": [[ 3, "desc" ]]
+// 		} );
+// 
+// 	$('#example22').dataTable( {
+// 		"bProcessing": true,
+// 		"sAjaxSource": "/json/drilldown/"+websiteName+"_XDrill.json",
+// 		"sAjaxDataProp": "onsite."+ feature_list[22],
+// 		"sDom": "<'row-fluid'<'span6'T><'span6'f>r>t<'row-fluid'<'span6'i><'span6'p>>",
+// 			"oTableTools": {
+// 				"aButtons": [
+// 				"copy",
+// 				"print",
+// 				{
+// 					"sExtends":    "collection",
+// 					"sButtonText": 'Save <span class="caret" />',
+// 					"aButtons":    [ "csv", "xls", "pdf" ]
+// 				}
+// 				]
+// 			},
+// 		"aoColumns": [
+// 		{ "mData": "html_id",
+// 		"mRender" : function ( data, type, full) {
+// 								return '<div onclick="OpenInNewTab(\''+ data +'\');">'+data+'</div>';
+// 													}
+// 		},
+// 		        { "mData": "feature_value" },
+// 		        { "mData": "cluster_win_mean" },
+// 		        { "mData": "delta" }
+// 				],
+// 		"aaSorting": [[ 3, "desc" ]]
+// 	} );
 
 };
 	
@@ -1008,7 +1007,7 @@ rel="stylesheet" type="text/css">
 		  <h2>Influential Feature Value and Delta to Winning Mean</h2>
 		  <hr>
 
-			  <h3><a id="F1"><script>document.write(feature_list[1].replace(/_/g," "));</script></a></h3>
+			  <h3><a id="F1"><script>document.write(featureName.replace(/_/g," "));</script></a></h3>
 				  
 		  <div id="dynamic">
 			  <table cellpadding="0" cellspacing="0" border="0" class="table table-striped table-bordered" id="example1">
@@ -1042,7 +1041,7 @@ rel="stylesheet" type="text/css">
 		  
 		  <hr>
 		  
-		  <h3><a id="F2"><script>document.write(feature_list[2].replace(/_/g," "));</script></a></h3>
+		  <!-- <h3><a id="F2"><script>document.write(feature_list[2].replace(/_/g," "));</script></a></h3>
 		  <div id="dynamic">
 			  <table cellpadding="0" cellspacing="0" border="0" class="table table-striped table-bordered" id="example2">
 				  <thead>
@@ -1734,8 +1733,8 @@ rel="stylesheet" type="text/css">
 				  </tfoot>
 			  </table>
 		  </div>
-		  
-		  <hr>
+		   -->
+		  <!-- <hr> -->
 		  
 		  
 		  <p>
