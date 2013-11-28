@@ -25,112 +25,6 @@
 	<script type="text/javascript" charset="utf-8" src="http://datatables.github.com/Plugins/integration/bootstrap/2/dataTables.bootstrap.js"></script>
 
 	<script type="text/javascript" charset="utf-8">
-	
-	// var aDataSet = [
-	// ['number of images in body', 1,2.012592065,6.706571243,0],
-	// ['proximity of title tag words to external bound hyperlinks', 2,2458.276471,4308.302537,432.4648889],
-	// ['number of scripts', 3,12.68773264,10.4567339,9.995333333],
-	// ['number of hyperlinks', 4,77.37031757,90.67534157,92.394],
-	// ['length of page title', 5,54.07246377,57.05920625,59.06222222],
-	// ['number of external css styles', 6,4.994773105,2.756018217,1.060222222],
-	// ['number of titles same as h1', 7,0.003880573375,0.03903708523,0],
-	// ['title total number of syllables', 8,4.172012354,8.898503578,0],
-	// ['anchor number of unique words', 9,24.91486497,48.13142485,0],
-	// ['total number of dictionary words', 10,0.8888096935,1.597918022,0.1082222222],
-	// ['number of id attribute refs', 11,0.258493704,0.2420299284,0],
-	// ['anchor total number of syllables', 12,93.73588342,199.6408588,0],
-	// ['number of unique words', 13,189.2978538,268.1385817,285.4093333],
-	// ['number of duplicate words', 14,220.5588026,364.647365,293.9573333],
-	// ['number of external links', 15,26.37934585,38.35133377,75.15688889],
-	// ['total number of 5k common words', 16,282.6245347,436.1281718,350.1273333],
-	// ['number of external javascripts', 17,4.759325255,6.696811971,9.088444444],
-	// ['anchor number of duplicate words', 18,11.12972202,24.41249187,0],
-	// ['ratio of common words to total', 19,0.6620895784,0.6315843185,0.5409020188],
-	// ['number of inline css styles', 20,1.213273145,0.2134027326,0.003555555556],
-	// ['number of words per sentence', 21,23.36184703,32.10500425,32.44584629],
-	// ['number of rare words', 22,102.6532035,157.4274561,160.1406667],
-	// ['maximum length of h1', 23,2.774689158,10.78919974,0],
-	// ['title total number of rare words', 24,0.7258256118,1.959011061,0],
-	// ['ratio of dictionary words to total', 25,0.001444481739,0.002505717352,0.0001488978971],
-	// ['average length of h1', 26,2.163300863,6.878334418,0],
-	// ['number of text characters in html', 27,440.5469233,744.0865322,0],
-	// ['number of sentences', 28,17.10628019,25.27716331,20.78844444],
-	// ['metadesc total number of syllables', 29,1.130118001,5.872478855,0],
-	// ['number of relative internal links', 30,0.3667537816,0.2849707222,0],
-	// ['total number of words', 31,431.7918746,672.6655823,635.7171111],
-	// ['number of h2 instances', 32,0.1649639661,0.4716981132,0],
-	// ['number of images', 33,10.69771125,17.1008458,17.94977778],
-	// ['metadesc total number of words', 34,0.7727092738,4.037085231,0],
-	// ['flesch reading ease', 35,50.0034841,41.20950601,29.87896301],
-	// ['number of root relative internal links', 36,0.001821493625,0.01626545218,0],
-	// ['number of class attribute refs', 37,1.70650194,2.303838647,0.06111111111],
-	// ['flesch grade level', 38,11.94681907,15.27153796,16.8517199],
-	// ['average length of h3', 39,2.684168845,4.494469746,0],
-	// ['average length of anchor text', 40,4.743248594,8.625243982,0],
-	// ['number of embedded javascripts', 41,2.068503999,0.7195836044,0.01311111111],
-	// ['number of inline scripts', 42,2.398431932,3,0.9553333333],
-	// ['body total number of rare words', 43,12.4400887,16.91802212,0],
-	// ['maximum length of anchor text', 44,19.62097094,26.94469746,0],
-	// ['dale chall readability', 45,7.931989721,8.729022436,10.45028249],
-	// ['average number of words in anchor text', 46,0.7634434149,1.450227716,0],
-	// ['metadesc number of dictionary words', 47,0.003088619625,0.0201691607,0],
-	// ['metadesc number of duplicate words', 48,0.07301813574,0.6011711126,0],
-	// ['number chars per meta word', 49,1.421740416,0.7714864976,0],
-	// ['number of h3 instances', 50,0.5326680922,1.14964216,0],
-	// ['total number of 3k common words', 51,230.9599271,361.6258946,276.2313333],
-	// ['number of split sentences', 52,32.1643304,46.26480156,39.518],
-	// ['maximum length of h3', 53,3.447057892,5.199739753,0],
-	// ['number of embedded css styles', 54,1.52276867,1.217306441,2.866],
-	// ['average image width', 55,76.75196009,108.3988289,212.7451111],
-	// ['number of internal links', 56,9.291755761,8.22121015,0.1051111111],
-	// ['number of meta keywords', 57,0.3688920567,0.4886141835,0],
-	// ['number of images missing alt', 58,9.950740477,16.19648666,16.95044444],
-	// ['h3 total number of rare words', 59,0.3394313772,0.8874430709,0],
-	// ['metadesc total number of rare words', 60,0.2830442702,0.8939492518,0],
-	// ['number of h1 instances', 61,0.1060426071,0.4183474301,0],
-	// ['metadesc number of unique dictionary words', 62,0.00237586125,0.01886792453,0],
-	// ['number of iframes', 63,0.233784747,0.08392973325,0],
-	// ['number of dhtml scripts', 64,0.2264987725,0.1424853611,0.02],
-	// ['title total number of words', 65,2.138591906,4.328562134,0],
-	// ['number of destination titles same as anchor text', 66,0.3219291993,1.385816526,0],
-	// ['h2 total number of rare words', 67,0.198938782,0.6102797658,0],
-	// ['meta description character length', 68,52.80779282,86.23682498,136.3191111],
-	// ['average image caption length', 69,39.53274729,50.68575146,65.6],
-	// ['title number of unique dictionary words', 70,0.007285974499,0.01496421601,0],
-	// ['number of hyperlinks with html', 71,4.756711808,2.659076122,0.001333333333],
-	// ['number of embedded styles', 72,1.523164647,1.217306441,2.866],
-	// ['meta keywords character length', 73,5.43509939,6.344827586,0],
-	// ['anchor total number of rare words', 74,19.26403738,46.04814574,0],
-	// ['number of words in meta description', 75,6.413954225,11.17957059,16.43511111],
-	// ['h1 total number of rare words', 76,0.1670230459,0.80611581,0],
-	// ['number of hyperlinks with file', 77,5.289142314,3.277163305,0],
-	// ['ratio of rare words to total', 78,0.207128743,0.232380167,0.2536019355],
-	// ['maximum length of h2', 79,1.618991051,6.262849707,0],
-	// ['percent auto image width and height', 80,0.01377999525,0.02992843201,0.007333333333],
-	// ['anchor number of dictionary words', 81,0.06684089649,0.2452830189,0],
-	// ['total number of syllables', 82,700.8576067,1057.804164,1070.771111],
-	// ['average image height', 83,38.05852538,58.79830839,96.326],
-	// ['number of absolute internal links', 84,33.66714184,50.35133377,86.34733333],
-	// ['metakey total number of rare words', 85,0.2657796785,0.3916720885,0],
-	// ['html5 detected', 86,0.4022333096,0.3103448276,0],
-	// ['title number of dictionary words', 87,0.007761146749,0.01496421601,0],
-	// ['anchor number of unique dictionary words', 88,0.06351469074,0.2381262199,0],
-	// ['number of pdf links', 89,0.00300942425,0.003903708523,0],
-	// ['number of unique dictionary words', 90,0.786489269,1.342875732,1.042],
-	// ['average length of h2', 91,1.244634513,4.960312297,0],
-	// ['title number of unique words', 92,1.962778174,3.977228367,0],
-	// ['number of unique 5k common words', 93,120.8099311,163.5367599,155.9848889],
-	// ['max number of words in anchor text', 94,3.167894195,4.195836044,0],
-	// ['number of flash links', 95,0,0,0],
-	// ['number of figures', 96,0,0,0],
-	// ['number of captions', 97,0,0,0],
-	// ['maximum caption length', 98,0,0,0],
-	// ['average caption length', 99,0,0,0],
-	// ['title number of duplicate words', 100,0.1758137325,0.3513337671,0],
-	// ['metadesc number of unique words', 101,0.699691138,3.435914118,0],
-	// ['anchor total number of words', 102,36.044587,72.54391672,0],
-	// ['number of difficult words', 103,200.8319474,311.0396877,359.4857778]
-	// ];
 
 
 	function OpenInNewTab(url )
@@ -153,21 +47,6 @@
 
 
 function initDataTables(){
-	
-		// $('#dynamicA').html( '<table cellpadding="0" cellspacing="0" border="0" class="table table-striped table-bordered" id="example"></table>' );
-		// 
-		// $('#example').dataTable( {
-		// 	"aaData": aDataSet,
-		// 	"aoColumns": [
-		// 	{ "sTitle": "Highlighted Feature" },
-		// 	{ "sTitle": "Influence Rank" , "sClass": "center"},
-		// 	{ "sTitle": "Losing Mean" , "sClass": "center"},
-		// 	{ "sTitle": "Winning Mean" , "sClass": "center"},
-		// 	{ "sTitle": "Mean Value (this domain)", "sClass": "center" },
-		// 	],
-		// 	"aaSorting": [[ 1, "asc" ]]
-		// } );
-
 
 		$('#example1').dataTable( {
 			"bProcessing": true,
@@ -415,14 +294,6 @@ rel="stylesheet" type="text/css">
 		  <div class="spacer"></div>
 		  <hr>
 
-		  <!-- <h2>Feature Influence Ranking Table</h2>
-
-		  <div id="dynamicA">
-			  
-		  </div>
-
-		  <hr> -->
-
 		  <div class="spacer"></div>
 
 		  <!-- For the FAQ, we introduce a little bit of JS, using the accordion. -->
@@ -458,6 +329,20 @@ rel="stylesheet" type="text/css">
 					  </div>
 				  </div>
 			  </div>
+			  <div class="accordion-group">
+				  <div class="accordion-heading">
+					  <a class="accordion-toggle" data-toggle="collapse"
+					  data-parent="#accordion3" href="#collapseThree">
+					  What is <script>document.write(featureName);</script> exactly?
+				  </a>
+			  </div>
+			  <div id="collapseThree" class="accordion-body collapse">
+				  <div class="accordion-inner">
+					  Automatically pull in description for <script>document.write(featureName);</script> here.
+					  [TBC]
+				  </div>
+			  </div>
+		  </div>
 		  </div>
 	  </div>
 
