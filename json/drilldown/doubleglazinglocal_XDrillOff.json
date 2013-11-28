@@ -1,5 +1,91 @@
 {
 	"offsite": {
+		"number_of_images_missing_alt": [
+			{
+				"html_id": "http://www.upvcfrenchdoors.org.uk/hardwood-double-glazing/",
+				"feature_value": "1",
+				"cluster_win_mean": "14.17",
+				"delta": "13.17"
+			},
+			{
+				"html_id": "http://www.upvcpatiodoors.org.uk/hardwood-double-glazing/",
+				"feature_value": "1",
+				"cluster_win_mean": "10.12",
+				"delta": " 9.12"
+			},
+			{
+				"html_id": "http://newyork-press-release.com/94/Brits-Enjoy-Best-Choice-Home-Improvement-Companies-Thanks-Doubleglazinglocal-Local-Search-34587775-print.php",
+				"feature_value": "2",
+				"cluster_win_mean": "10.12",
+				"delta": " 8.12"
+			}
+		],
+		"number_of_hyperlinks_with_html": [
+			{
+				"html_id": "http://www.upvcfrenchdoors.org.uk/hardwood-double-glazing/",
+				"feature_value": "  1",
+				"cluster_win_mean": "18.9",
+				"delta": "  17.9"
+			},
+			{
+				"html_id": "http://www.upvcpatiodoors.org.uk/hardwood-double-glazing/",
+				"feature_value": "134",
+				"cluster_win_mean": "28.8",
+				"delta": "-105.2"
+			},
+			{
+				"html_id": "http://newyork-press-release.com/94/Brits-Enjoy-Best-Choice-Home-Improvement-Companies-Thanks-Doubleglazinglocal-Local-Search-34587775-print.php",
+				"feature_value": "136",
+				"cluster_win_mean": "28.8",
+				"delta": "-107.2"
+			}
+		],
+		"number_of_hyperlinks_with_file": [
+			{
+				"html_id": "http://www.upvcfrenchdoors.org.uk/hardwood-double-glazing/",
+				"feature_value": " 5",
+				"cluster_win_mean": "7.8",
+				"delta": "  2.8"
+			},
+			{
+				"html_id": "http://www.upvcpatiodoors.org.uk/hardwood-double-glazing/",
+				"feature_value": "74",
+				"cluster_win_mean": "8.5",
+				"delta": "-65.5"
+			},
+			{
+				"html_id": "http://newyork-press-release.com/94/Brits-Enjoy-Best-Choice-Home-Improvement-Companies-Thanks-Doubleglazinglocal-Local-Search-34587775-print.php",
+				"feature_value": "83",
+				"cluster_win_mean": "8.5",
+				"delta": "-74.5"
+			}
+		],
+		"number_of_images": {
+			"html_id": "http://www.upvcfrenchdoors.org.uk/hardwood-double-glazing/",
+			"feature_value": "1",
+			"cluster_win_mean": "14.4",
+			"delta": "13.4"
+		},
+		"average_backlink_flesch_reading_ease": [
+			{
+				"html_id": "http://www.upvcfrenchdoors.org.uk/hardwood-double-glazing/",
+				"feature_value": "7.0017",
+				"cluster_win_mean": "11.49",
+				"delta": "4.49"
+			},
+			{
+				"html_id": "http://www.upvcpatiodoors.org.uk/hardwood-double-glazing/",
+				"feature_value": "5.0873",
+				"cluster_win_mean": "14.88",
+				"delta": " 9.8"
+			},
+			{
+				"html_id": "http://newyork-press-release.com/94/Brits-Enjoy-Best-Choice-Home-Improvement-Companies-Thanks-Doubleglazinglocal-Local-Search-34587775-print.php",
+				"feature_value": "4.9585",
+				"cluster_win_mean": "14.88",
+				"delta": "9.93"
+			}
+		],
 		"number_of_inline_css_styles": [
 			{
 				"html_id": "http://www.upvcpatiodoors.org.uk/hardwood-double-glazing/",
@@ -14,237 +100,221 @@
 				"delta": "-17.37"
 			}
 		],
-		"number_of_images_missing_alt": [
-			{
-				"html_id": "http://www.upvcfrenchdoors.org.uk/hardwood-double-glazing/",
-				"feature_value": "1",
-				"cluster_win_mean": "15.5",
-				"delta": "14.5"
-			},
-			{
-				"html_id": "http://www.upvcpatiodoors.org.uk/hardwood-double-glazing/",
-				"feature_value": "1",
-				"cluster_win_mean": "10.1",
-				"delta": " 9.1"
-			},
-			{
-				"html_id": "http://newyork-press-release.com/94/Brits-Enjoy-Best-Choice-Home-Improvement-Companies-Thanks-Doubleglazinglocal-Local-Search-34587775-print.php",
-				"feature_value": "2",
-				"cluster_win_mean": "10.1",
-				"delta": " 8.1"
-			}
-		],
-		"number_of_images": {
-			"html_id": "http://www.upvcfrenchdoors.org.uk/hardwood-double-glazing/",
-			"feature_value": "1",
-			"cluster_win_mean": "15.47",
-			"delta": "14.47"
-		},
 		"total_number_of_words": [
 			{
 				"html_id": "http://www.upvcfrenchdoors.org.uk/hardwood-double-glazing/",
 				"feature_value": " 15",
-				"cluster_win_mean": " 54.12",
-				"delta": " 39.12"
+				"cluster_win_mean": " 54.41",
+				"delta": " 39.41"
 			},
 			{
 				"html_id": "http://www.upvcpatiodoors.org.uk/hardwood-double-glazing/",
 				"feature_value": "164",
-				"cluster_win_mean": "433.15",
-				"delta": "269.15"
+				"cluster_win_mean": "427.38",
+				"delta": "263.38"
 			},
 			{
 				"html_id": "http://newyork-press-release.com/94/Brits-Enjoy-Best-Choice-Home-Improvement-Companies-Thanks-Doubleglazinglocal-Local-Search-34587775-print.php",
 				"feature_value": "167",
-				"cluster_win_mean": "433.15",
-				"delta": "266.15"
+				"cluster_win_mean": "427.38",
+				"delta": "260.38"
 			}
 		],
-		"total_number_of_dictionary_words": {
-			"html_id": "http://www.upvcfrenchdoors.org.uk/hardwood-double-glazing/",
-			"feature_value": "0",
-			"cluster_win_mean": "2.5",
-			"delta": "2.5"
-		},
-		"number_of_hyperlinks_with_html": [
+		"average_backlink_flesch_kincaid_grade": [
 			{
 				"html_id": "http://www.upvcfrenchdoors.org.uk/hardwood-double-glazing/",
-				"feature_value": "  1",
-				"cluster_win_mean": "42.78",
-				"delta": "  41.78"
+				"feature_value": "5.6353",
+				"cluster_win_mean": "7.73",
+				"delta": " 2.1"
 			},
 			{
 				"html_id": "http://www.upvcpatiodoors.org.uk/hardwood-double-glazing/",
-				"feature_value": "134",
-				"cluster_win_mean": "28.77",
-				"delta": "-105.23"
+				"feature_value": "4.8621",
+				"cluster_win_mean": "8.68",
+				"delta": "3.81"
 			},
 			{
 				"html_id": "http://newyork-press-release.com/94/Brits-Enjoy-Best-Choice-Home-Improvement-Companies-Thanks-Doubleglazinglocal-Local-Search-34587775-print.php",
-				"feature_value": "136",
-				"cluster_win_mean": "28.77",
-				"delta": "-107.23"
+				"feature_value": "5.0396",
+				"cluster_win_mean": "8.68",
+				"delta": "3.64"
+			}
+		],
+		"maximum_length_of_h1": [
+			{
+				"html_id": "http://www.upvcfrenchdoors.org.uk/hardwood-double-glazing/",
+				"feature_value": "0",
+				"cluster_win_mean": " 43.7",
+				"delta": " 43.7"
+			},
+			{
+				"html_id": "http://www.upvcpatiodoors.org.uk/hardwood-double-glazing/",
+				"feature_value": "0",
+				"cluster_win_mean": "20.93",
+				"delta": "20.93"
 			}
 		],
 		"number_of_unique_words": [
 			{
 				"html_id": "http://www.upvcfrenchdoors.org.uk/hardwood-double-glazing/",
 				"feature_value": "15",
-				"cluster_win_mean": " 37.03",
-				"delta": " 22.03"
+				"cluster_win_mean": " 37.02",
+				"delta": " 22.02"
 			},
 			{
 				"html_id": "http://www.upvcpatiodoors.org.uk/hardwood-double-glazing/",
 				"feature_value": "98",
-				"cluster_win_mean": "192.42",
-				"delta": " 94.42"
+				"cluster_win_mean": "190.33",
+				"delta": " 92.33"
 			},
 			{
 				"html_id": "http://newyork-press-release.com/94/Brits-Enjoy-Best-Choice-Home-Improvement-Companies-Thanks-Doubleglazinglocal-Local-Search-34587775-print.php",
 				"feature_value": "88",
-				"cluster_win_mean": "192.42",
-				"delta": "104.42"
+				"cluster_win_mean": "190.33",
+				"delta": "102.33"
 			}
 		],
-		"ratio_of_dictionary_words_to_total": {
-			"html_id": "http://www.upvcfrenchdoors.org.uk/hardwood-double-glazing/",
-			"feature_value": "0",
-			"cluster_win_mean": "0.01",
-			"delta": "0.01"
-		},
-		"number_of_destination_titles_same_as_anchor_text": {
-			"html_id": "http://www.upvcfrenchdoors.org.uk/hardwood-double-glazing/",
-			"feature_value": "0",
-			"cluster_win_mean": "25",
-			"delta": "25"
-		},
-		"maximum_length_of_h1": {
-			"html_id": "http://www.upvcpatiodoors.org.uk/hardwood-double-glazing/",
-			"feature_value": "0",
-			"cluster_win_mean": "20.97",
-			"delta": "20.97"
-		},
-		"average_length_of_h1": {
-			"html_id": "http://www.upvcpatiodoors.org.uk/hardwood-double-glazing/",
-			"feature_value": "0",
-			"cluster_win_mean": "19.34",
-			"delta": "19.34"
-		},
+		"average_length_of_h1": [
+			{
+				"html_id": "http://www.upvcfrenchdoors.org.uk/hardwood-double-glazing/",
+				"feature_value": "0",
+				"cluster_win_mean": " 43.2",
+				"delta": " 43.2"
+			},
+			{
+				"html_id": "http://www.upvcpatiodoors.org.uk/hardwood-double-glazing/",
+				"feature_value": "0",
+				"cluster_win_mean": "19.33",
+				"delta": "19.33"
+			}
+		],
 		"number_of_duplicate_words": [
 			{
 				"html_id": "http://www.upvcpatiodoors.org.uk/hardwood-double-glazing/",
 				"feature_value": "66",
-				"cluster_win_mean": "200.91",
-				"delta": "134.91"
+				"cluster_win_mean": "197.51",
+				"delta": "131.51"
 			},
 			{
 				"html_id": "http://newyork-press-release.com/94/Brits-Enjoy-Best-Choice-Home-Improvement-Companies-Thanks-Doubleglazinglocal-Local-Search-34587775-print.php",
 				"feature_value": "79",
-				"cluster_win_mean": "200.91",
-				"delta": "121.91"
+				"cluster_win_mean": "197.51",
+				"delta": "118.51"
 			}
 		],
-		"number_of_hyperlinks_with_file": [
+		"number_of_iframes": [
 			{
 				"html_id": "http://www.upvcfrenchdoors.org.uk/hardwood-double-glazing/",
-				"feature_value": " 5",
-				"cluster_win_mean": "8.83",
-				"delta": "  3.83"
+				"feature_value": "0",
+				"cluster_win_mean": "   2",
+				"delta": "   2"
 			},
 			{
 				"html_id": "http://www.upvcpatiodoors.org.uk/hardwood-double-glazing/",
-				"feature_value": "74",
-				"cluster_win_mean": "8.33",
-				"delta": "-65.67"
+				"feature_value": "0",
+				"cluster_win_mean": "1.02",
+				"delta": "1.02"
 			},
 			{
 				"html_id": "http://newyork-press-release.com/94/Brits-Enjoy-Best-Choice-Home-Improvement-Companies-Thanks-Doubleglazinglocal-Local-Search-34587775-print.php",
-				"feature_value": "83",
-				"cluster_win_mean": "8.33",
-				"delta": "-74.67"
+				"feature_value": "0",
+				"cluster_win_mean": "1.02",
+				"delta": "1.02"
 			}
 		],
 		"number_of_rare_words": [
 			{
 				"html_id": "http://www.upvcfrenchdoors.org.uk/hardwood-double-glazing/",
 				"feature_value": " 4",
-				"cluster_win_mean": "12.98",
-				"delta": " 8.98"
+				"cluster_win_mean": "13.05",
+				"delta": " 9.05"
 			},
 			{
 				"html_id": "http://www.upvcpatiodoors.org.uk/hardwood-double-glazing/",
 				"feature_value": "26",
-				"cluster_win_mean": "93.24",
-				"delta": "67.24"
+				"cluster_win_mean": "92.75",
+				"delta": "66.75"
 			},
 			{
 				"html_id": "http://newyork-press-release.com/94/Brits-Enjoy-Best-Choice-Home-Improvement-Companies-Thanks-Doubleglazinglocal-Local-Search-34587775-print.php",
 				"feature_value": "26",
-				"cluster_win_mean": "93.24",
-				"delta": "67.24"
+				"cluster_win_mean": "92.75",
+				"delta": "66.75"
 			}
 		],
+		"number_of_images_in_body": {
+			"html_id": "http://www.upvcfrenchdoors.org.uk/hardwood-double-glazing/",
+			"feature_value": "1",
+			"cluster_win_mean": "14.84",
+			"delta": "13.84"
+		},
 		"total_number_of_5k_common_words": [
 			{
 				"html_id": "http://www.upvcfrenchdoors.org.uk/hardwood-double-glazing/",
 				"feature_value": " 11",
-				"cluster_win_mean": " 37.66",
-				"delta": " 26.66"
+				"cluster_win_mean": " 38.29",
+				"delta": " 27.29"
 			},
 			{
 				"html_id": "http://www.upvcpatiodoors.org.uk/hardwood-double-glazing/",
 				"feature_value": "138",
-				"cluster_win_mean": "281.97",
-				"delta": "143.97"
+				"cluster_win_mean": "277.31",
+				"delta": "139.31"
 			},
 			{
 				"html_id": "http://newyork-press-release.com/94/Brits-Enjoy-Best-Choice-Home-Improvement-Companies-Thanks-Doubleglazinglocal-Local-Search-34587775-print.php",
 				"feature_value": "141",
-				"cluster_win_mean": "281.97",
-				"delta": "140.97"
+				"cluster_win_mean": "277.31",
+				"delta": "136.31"
 			}
 		],
-		"number_of_titles_same_as_h1": [
+		"number_of_embedded_javascripts": {
+			"html_id": "http://www.upvcfrenchdoors.org.uk/hardwood-double-glazing/",
+			"feature_value": "0",
+			"cluster_win_mean": "3",
+			"delta": "3"
+		},
+		"maximum_length_of_h2": [
 			{
 				"html_id": "http://www.upvcfrenchdoors.org.uk/hardwood-double-glazing/",
-				"feature_value": "0",
-				"cluster_win_mean": "  1",
-				"delta": "  1"
+				"feature_value": " 0",
+				"cluster_win_mean": "59.18",
+				"delta": "59.18"
 			},
 			{
 				"html_id": "http://www.upvcpatiodoors.org.uk/hardwood-double-glazing/",
-				"feature_value": "0",
-				"cluster_win_mean": "1.1",
-				"delta": "1.1"
+				"feature_value": " 0",
+				"cluster_win_mean": "31.41",
+				"delta": "31.41"
 			},
 			{
 				"html_id": "http://newyork-press-release.com/94/Brits-Enjoy-Best-Choice-Home-Improvement-Companies-Thanks-Doubleglazinglocal-Local-Search-34587775-print.php",
-				"feature_value": "1",
-				"cluster_win_mean": "1.1",
-				"delta": "0.1"
+				"feature_value": "10",
+				"cluster_win_mean": "31.41",
+				"delta": "21.41"
 			}
 		],
-		"number_of_iframes": [
-			{
-				"html_id": "http://www.upvcpatiodoors.org.uk/hardwood-double-glazing/",
-				"feature_value": "0",
-				"cluster_win_mean": "1.02",
-				"delta": "1.02"
-			},
-			{
-				"html_id": "http://newyork-press-release.com/94/Brits-Enjoy-Best-Choice-Home-Improvement-Companies-Thanks-Doubleglazinglocal-Local-Search-34587775-print.php",
-				"feature_value": "0",
-				"cluster_win_mean": "1.02",
-				"delta": "1.02"
-			}
-		],
-		"html5_detected": [
+		"average_length_of_h2": [
 			{
 				"html_id": "http://www.upvcfrenchdoors.org.uk/hardwood-double-glazing/",
-				"feature_value": "0",
-				"cluster_win_mean": "1",
-				"delta": "1"
+				"feature_value": " 0",
+				"cluster_win_mean": "58.55",
+				"delta": "58.55"
 			},
+			{
+				"html_id": "http://www.upvcpatiodoors.org.uk/hardwood-double-glazing/",
+				"feature_value": " 0",
+				"cluster_win_mean": "26.63",
+				"delta": "26.63"
+			},
+			{
+				"html_id": "http://newyork-press-release.com/94/Brits-Enjoy-Best-Choice-Home-Improvement-Companies-Thanks-Doubleglazinglocal-Local-Search-34587775-print.php",
+				"feature_value": "10",
+				"cluster_win_mean": "26.63",
+				"delta": "16.63"
+			}
+		],
+		"number_of_id_attribute_refs": [
 			{
 				"html_id": "http://www.upvcpatiodoors.org.uk/hardwood-double-glazing/",
 				"feature_value": "0",
@@ -256,6 +326,66 @@
 				"feature_value": "0",
 				"cluster_win_mean": "1",
 				"delta": "1"
+			}
+		],
+		"average_backlink_dale_chall_readability": [
+			{
+				"html_id": "http://www.upvcfrenchdoors.org.uk/hardwood-double-glazing/",
+				"feature_value": "58.2225",
+				"cluster_win_mean": "43.72",
+				"delta": " -14.5"
+			},
+			{
+				"html_id": "http://www.upvcpatiodoors.org.uk/hardwood-double-glazing/",
+				"feature_value": "81.0584",
+				"cluster_win_mean": "47.38",
+				"delta": "-33.67"
+			},
+			{
+				"html_id": "http://newyork-press-release.com/94/Brits-Enjoy-Best-Choice-Home-Improvement-Companies-Thanks-Doubleglazinglocal-Local-Search-34587775-print.php",
+				"feature_value": "   84.3",
+				"cluster_win_mean": "47.38",
+				"delta": "-36.92"
+			}
+		],
+		"metadesc_number_of_unique_dictionary_words": [
+			{
+				"html_id": "http://www.upvcpatiodoors.org.uk/hardwood-double-glazing/",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://newyork-press-release.com/94/Brits-Enjoy-Best-Choice-Home-Improvement-Companies-Thanks-Doubleglazinglocal-Local-Search-34587775-print.php",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			}
+		],
+		"number_of_external_javascripts": {
+			"html_id": "http://www.upvcfrenchdoors.org.uk/hardwood-double-glazing/",
+			"feature_value": "0",
+			"cluster_win_mean": "8.67",
+			"delta": "8.67"
+		},
+		"number_of_scripts": [
+			{
+				"html_id": "http://www.upvcfrenchdoors.org.uk/hardwood-double-glazing/",
+				"feature_value": " 0",
+				"cluster_win_mean": " 9.76",
+				"delta": " 9.76"
+			},
+			{
+				"html_id": "http://www.upvcpatiodoors.org.uk/hardwood-double-glazing/",
+				"feature_value": "17",
+				"cluster_win_mean": "16.24",
+				"delta": "-0.76"
+			},
+			{
+				"html_id": "http://newyork-press-release.com/94/Brits-Enjoy-Best-Choice-Home-Improvement-Companies-Thanks-Doubleglazinglocal-Local-Search-34587775-print.php",
+				"feature_value": "17",
+				"cluster_win_mean": "16.24",
+				"delta": "-0.76"
 			}
 		]
 	}

@@ -52,6 +52,7 @@ function initDataTables(){
 			"bProcessing": true,
 			"sAjaxSource": "/json/drilldown/"+websiteName+"_XDrillOff.json",
 			"sAjaxDataProp": "offsite."+ featureNameJSON,
+			"bDeferRender": true,
 			"sDom": "<'row-fluid'<'span6'T><'span6'f>r>t<'row-fluid'<'span6'i><'span6'p>>",
 			"oTableTools": {
 				"aButtons": [
