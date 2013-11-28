@@ -147,6 +147,7 @@
 	var urlSplit = locate.split("=");
 	var websiteNameFull = urlSplit[1];
 	var featureName = urlSplit[2];
+	var featureNameJSON = featureName.replace(/ /g, "_");
 	var urlSplitTwo = websiteNameFull.split("&");
 	var websiteName = urlSplitTwo[0];
 
@@ -196,7 +197,7 @@ function initDataTables(){
 		$('#example1').dataTable( {
 			"bProcessing": true,
 			"sAjaxSource": "/json/drilldown/"+websiteName+"_XDrill.json",
-			"sAjaxDataProp": "onsite."+ featureName,
+			"sAjaxDataProp": "onsite."+ featureNameJSON,
 			"sDom": "<'row-fluid'<'span6'T><'span6'f>r>t<'row-fluid'<'span6'i><'span6'p>>",
 			"oTableTools": {
 				"aButtons": [
@@ -1007,7 +1008,7 @@ rel="stylesheet" type="text/css">
 		  <h2>Influential Feature Value and Delta to Winning Mean</h2>
 		  <hr>
 
-			  <h3><a id="F1"><script>document.write(featureName.replace(/_/g," "));</script></a></h3>
+			  <h3><a id="F1"><script>document.write(featureName);</script></a></h3>
 				  
 		  <div id="dynamic">
 			  <table cellpadding="0" cellspacing="0" border="0" class="table table-striped table-bordered" id="example1">
