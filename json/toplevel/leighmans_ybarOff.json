@@ -5,11 +5,11 @@
 		"values": [
 			{
 				"label": "Onsite",
-				"value": 0
+				"value": 3
 			},
 			{
 				"label": "Offsite",
-				"value": 63
+				"value": 19
 			}
 		]
 	},
@@ -19,7 +19,7 @@
 		"values": [
 			{
 				"label": "Onsite",
-				"value": 1198
+				"value": 1191
 			},
 			{
 				"label": "Offsite",
@@ -33,11 +33,11 @@
 		"values": [
 			{
 				"label": "Onsite",
-				"value": -5
+				"value": -9
 			},
 			{
 				"label": "Offsite",
-				"value": -64
+				"value": -69
 			}
 		]
 	}
