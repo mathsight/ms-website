@@ -1,1295 +1,349 @@
 {
 	"offsite": {
-		"number_of_images_missing_alt": [
-			{
-				"html_id": "http://ns2.mywikibiz.com/index.php?title=Valuation_of_options&printable=yes",
-				"feature_value": "0",
-				"cluster_win_mean": "11.53",
-				"delta": "11.53"
-			},
-			{
-				"html_id": "http://ns2.mywikibiz.com/index.php?title=Valuation_of_options&printable=yes&printable=yes",
-				"feature_value": "0",
-				"cluster_win_mean": "11.53",
-				"delta": "11.53"
-			},
-			{
-				"html_id": "http://ns1.mywikibiz.com/index.php?title=Valuation_of_options&printable=yes&printable=yes",
-				"feature_value": "0",
-				"cluster_win_mean": "11.53",
-				"delta": "11.53"
-			},
-			{
-				"html_id": "http://www.mywikibiz.com/index.php?title=Valuation_of_options&printable=yes&printable=yes",
-				"feature_value": "0",
-				"cluster_win_mean": "11.53",
-				"delta": "11.53"
-			},
-			{
-				"html_id": "http://utah-jazz-jerseys.info/category/business/page/12/",
-				"feature_value": "0",
-				"cluster_win_mean": "11.53",
-				"delta": "11.53"
-			},
-			{
-				"html_id": "http://utah-jazz-jerseys.info/category/business/page/13/",
-				"feature_value": "0",
-				"cluster_win_mean": "11.53",
-				"delta": "11.53"
-			},
-			{
-				"html_id": "http://www.aee.odu.edu/qasystemsample/qa_keyword_search.php",
-				"feature_value": "0",
-				"cluster_win_mean": "11.53",
-				"delta": "11.53"
-			},
-			{
-				"html_id": "http://utah-jazz-jerseys.info/category/business/page/14/",
-				"feature_value": "0",
-				"cluster_win_mean": "11.53",
-				"delta": "11.53"
-			},
-			{
-				"html_id": "http://orlando-magic-jerseys.info/category/business/page/18/",
-				"feature_value": "0",
-				"cluster_win_mean": " 5.88",
-				"delta": " 5.88"
-			},
-			{
-				"html_id": "http://blog.searchmetrics.com/us/2013/05/23/google-penguin-update-2-0-loser-analysis/",
-				"feature_value": "0",
-				"cluster_win_mean": " 5.88",
-				"delta": " 5.88"
-			},
-			{
-				"html_id": "http://www.allaboutsite.com/alchemyviral.com",
-				"feature_value": "0",
-				"cluster_win_mean": " 5.88",
-				"delta": " 5.88"
-			},
-			{
-				"html_id": "http://tjomlid.com/2013/08/19/aspartam-astroturfing/",
-				"feature_value": "0",
-				"cluster_win_mean": " 5.88",
-				"delta": " 5.88"
-			},
-			{
-				"html_id": "http://www.miziuk.daytona-beach.fl.us/marketing/artificial-intelligence-ai-and-search-engines-seo.php",
-				"feature_value": "0",
-				"cluster_win_mean": " 5.88",
-				"delta": " 5.88"
-			},
-			{
-				"html_id": "http://portland-trail-blazers.info/2013/07/06/how-to-choose-the-right-seo-company/",
-				"feature_value": "0",
-				"cluster_win_mean": "11.53",
-				"delta": "11.53"
-			}
-		],
-		"number_of_destination_titles_same_as_anchor_text": [
-			{
-				"html_id": "http://ns2.mywikibiz.com/index.php?title=Valuation_of_options&oldid=169276",
-				"feature_value": " 0",
-				"cluster_win_mean": "13.81",
-				"delta": "13.81"
-			},
-			{
-				"html_id": "http://ns2.mywikibiz.com/index.php?title=Valuation_of_options&printable=yes",
-				"feature_value": " 0",
-				"cluster_win_mean": "19.49",
-				"delta": "19.49"
-			},
-			{
-				"html_id": "http://ns1.mywikibiz.com/index.php?title=Valuation_of_options&printable=yes",
-				"feature_value": "10",
-				"cluster_win_mean": "19.49",
-				"delta": " 9.49"
-			},
-			{
-				"html_id": "http://ns2.mywikibiz.com/index.php?title=Valuation_of_options&printable=yes&printable=yes",
-				"feature_value": " 0",
-				"cluster_win_mean": "19.49",
-				"delta": "19.49"
-			},
-			{
-				"html_id": "http://ns1.mywikibiz.com/index.php?title=Valuation_of_options&printable=yes&printable=yes",
-				"feature_value": " 0",
-				"cluster_win_mean": "19.49",
-				"delta": "19.49"
-			},
-			{
-				"html_id": "http://www.mywikibiz.com/index.php?title=Valuation_of_options&printable=yes&printable=yes",
-				"feature_value": " 0",
-				"cluster_win_mean": "19.49",
-				"delta": "19.49"
-			},
-			{
-				"html_id": "http://utah-jazz-jerseys.info/category/business/page/12/",
-				"feature_value": " 0",
-				"cluster_win_mean": "19.49",
-				"delta": "19.49"
-			},
-			{
-				"html_id": "http://utah-jazz-jerseys.info/category/business/page/13/",
-				"feature_value": " 0",
-				"cluster_win_mean": "19.49",
-				"delta": "19.49"
-			},
-			{
-				"html_id": "http://www.aee.odu.edu/qasystemsample/qa_keyword_search.php",
-				"feature_value": " 0",
-				"cluster_win_mean": "19.49",
-				"delta": "19.49"
-			},
-			{
-				"html_id": "http://utah-jazz-jerseys.info/category/business/page/14/",
-				"feature_value": " 0",
-				"cluster_win_mean": "19.49",
-				"delta": "19.49"
-			},
-			{
-				"html_id": "http://portland-trail-blazers.info/2013/07/06/how-to-choose-the-right-seo-company/",
-				"feature_value": " 0",
-				"cluster_win_mean": "19.49",
-				"delta": "19.49"
-			}
-		],
-		"number_of_hyperlinks_with_html": [
-			{
-				"html_id": "http://ns2.mywikibiz.com/index.php?title=Valuation_of_options&oldid=169276",
-				"feature_value": "153",
-				"cluster_win_mean": "25.85",
-				"delta": "-127.15"
-			},
-			{
-				"html_id": "http://ns1.mywikibiz.com/index.php?title=Valuation_of_options&oldid=169276",
-				"feature_value": "  0",
-				"cluster_win_mean": "43.58",
-				"delta": "  43.58"
-			},
-			{
-				"html_id": "http://ns2.mywikibiz.com/index.php?title=Valuation_of_options&printable=yes&printable=yes",
-				"feature_value": " 16",
-				"cluster_win_mean": "29.49",
-				"delta": "  13.49"
-			},
-			{
-				"html_id": "http://ns1.mywikibiz.com/index.php?title=Valuation_of_options&printable=yes&printable=yes",
-				"feature_value": "  7",
-				"cluster_win_mean": "29.49",
-				"delta": "  22.49"
-			},
-			{
-				"html_id": "http://www.mywikibiz.com/index.php?title=Valuation_of_options&printable=yes&printable=yes",
-				"feature_value": "  7",
-				"cluster_win_mean": "29.49",
-				"delta": "  22.49"
-			},
-			{
-				"html_id": "http://utah-jazz-jerseys.info/category/business/page/12/",
-				"feature_value": "  7",
-				"cluster_win_mean": "29.49",
-				"delta": "  22.49"
-			},
-			{
-				"html_id": "http://utah-jazz-jerseys.info/category/business/page/13/",
-				"feature_value": "  7",
-				"cluster_win_mean": "29.49",
-				"delta": "  22.49"
-			},
-			{
-				"html_id": "http://www.aee.odu.edu/qasystemsample/qa_keyword_search.php",
-				"feature_value": "  7",
-				"cluster_win_mean": "29.49",
-				"delta": "  22.49"
-			},
-			{
-				"html_id": "http://utah-jazz-jerseys.info/category/business/page/14/",
-				"feature_value": "  7",
-				"cluster_win_mean": "29.49",
-				"delta": "  22.49"
-			},
-			{
-				"html_id": "http://orlando-magic-jerseys.info/category/business/page/18/",
-				"feature_value": "159",
-				"cluster_win_mean": "25.85",
-				"delta": "-133.15"
-			},
-			{
-				"html_id": "http://blog.searchmetrics.com/us/2013/05/23/google-penguin-update-2-0-loser-analysis/",
-				"feature_value": "155",
-				"cluster_win_mean": "25.85",
-				"delta": "-129.15"
-			},
-			{
-				"html_id": "http://www.allaboutsite.com/alchemyviral.com",
-				"feature_value": "149",
-				"cluster_win_mean": "25.85",
-				"delta": "-123.15"
-			},
-			{
-				"html_id": "http://tjomlid.com/2013/08/19/aspartam-astroturfing/",
-				"feature_value": "157",
-				"cluster_win_mean": "25.85",
-				"delta": "-131.15"
-			},
-			{
-				"html_id": "http://www.miziuk.daytona-beach.fl.us/marketing/artificial-intelligence-ai-and-search-engines-seo.php",
-				"feature_value": "132",
-				"cluster_win_mean": "25.85",
-				"delta": "-106.15"
-			},
-			{
-				"html_id": "http://portland-trail-blazers.info/2013/07/06/how-to-choose-the-right-seo-company/",
-				"feature_value": "  7",
-				"cluster_win_mean": "29.49",
-				"delta": "  22.49"
-			}
-		],
-		"number_of_hyperlinks_with_file": [
-			{
-				"html_id": "http://ns2.mywikibiz.com/index.php?title=Valuation_of_options&oldid=169276",
-				"feature_value": "109",
-				"cluster_win_mean": "7.22",
-				"delta": "-101.78"
-			},
-			{
-				"html_id": "http://ns2.mywikibiz.com/index.php?title=Valuation_of_options&printable=yes",
-				"feature_value": "104",
-				"cluster_win_mean": "8.85",
-				"delta": " -95.15"
-			},
-			{
-				"html_id": "http://ns1.mywikibiz.com/index.php?title=Valuation_of_options&printable=yes",
-				"feature_value": " 23",
-				"cluster_win_mean": "8.85",
-				"delta": " -14.15"
-			},
-			{
-				"html_id": "http://ns2.mywikibiz.com/index.php?title=Valuation_of_options&printable=yes&printable=yes",
-				"feature_value": " 34",
-				"cluster_win_mean": "8.85",
-				"delta": " -25.15"
-			},
-			{
-				"html_id": "http://ns1.mywikibiz.com/index.php?title=Valuation_of_options&printable=yes&printable=yes",
-				"feature_value": " 40",
-				"cluster_win_mean": "8.85",
-				"delta": " -31.15"
-			},
-			{
-				"html_id": "http://www.mywikibiz.com/index.php?title=Valuation_of_options&printable=yes&printable=yes",
-				"feature_value": " 37",
-				"cluster_win_mean": "8.85",
-				"delta": " -28.15"
-			},
-			{
-				"html_id": "http://utah-jazz-jerseys.info/category/business/page/12/",
-				"feature_value": " 37",
-				"cluster_win_mean": "8.85",
-				"delta": " -28.15"
-			},
-			{
-				"html_id": "http://utah-jazz-jerseys.info/category/business/page/13/",
-				"feature_value": " 40",
-				"cluster_win_mean": "8.85",
-				"delta": " -31.15"
-			},
-			{
-				"html_id": "http://www.aee.odu.edu/qasystemsample/qa_keyword_search.php",
-				"feature_value": " 37",
-				"cluster_win_mean": "8.85",
-				"delta": " -28.15"
-			},
-			{
-				"html_id": "http://utah-jazz-jerseys.info/category/business/page/14/",
-				"feature_value": " 37",
-				"cluster_win_mean": "8.85",
-				"delta": " -28.15"
-			},
-			{
-				"html_id": "http://orlando-magic-jerseys.info/category/business/page/18/",
-				"feature_value": " 37",
-				"cluster_win_mean": "7.22",
-				"delta": " -29.78"
-			},
-			{
-				"html_id": "http://blog.searchmetrics.com/us/2013/05/23/google-penguin-update-2-0-loser-analysis/",
-				"feature_value": " 37",
-				"cluster_win_mean": "7.22",
-				"delta": " -29.78"
-			},
-			{
-				"html_id": "http://www.allaboutsite.com/alchemyviral.com",
-				"feature_value": " 39",
-				"cluster_win_mean": "7.22",
-				"delta": " -31.78"
-			},
-			{
-				"html_id": "http://www.miziuk.daytona-beach.fl.us/marketing/artificial-intelligence-ai-and-search-engines-seo.php",
-				"feature_value": " 36",
-				"cluster_win_mean": "7.22",
-				"delta": " -28.78"
-			},
-			{
-				"html_id": "http://portland-trail-blazers.info/2013/07/06/how-to-choose-the-right-seo-company/",
-				"feature_value": " 37",
-				"cluster_win_mean": "8.85",
-				"delta": " -28.15"
-			}
-		],
-		"number_of_images": [
-			{
-				"html_id": "http://ns2.mywikibiz.com/index.php?title=Valuation_of_options&oldid=169276",
-				"feature_value": "65",
-				"cluster_win_mean": " 6.02",
-				"delta": "-58.98"
-			},
-			{
-				"html_id": "http://ns2.mywikibiz.com/index.php?title=Valuation_of_options&printable=yes",
-				"feature_value": " 0",
-				"cluster_win_mean": "12.97",
-				"delta": " 12.97"
-			},
-			{
-				"html_id": "http://ns2.mywikibiz.com/index.php?title=Valuation_of_options&printable=yes&printable=yes",
-				"feature_value": " 5",
-				"cluster_win_mean": "12.97",
-				"delta": "  7.97"
-			},
-			{
-				"html_id": "http://ns1.mywikibiz.com/index.php?title=Valuation_of_options&printable=yes&printable=yes",
-				"feature_value": " 4",
-				"cluster_win_mean": "12.97",
-				"delta": "  8.97"
-			},
-			{
-				"html_id": "http://www.mywikibiz.com/index.php?title=Valuation_of_options&printable=yes&printable=yes",
-				"feature_value": " 4",
-				"cluster_win_mean": "12.97",
-				"delta": "  8.97"
-			},
-			{
-				"html_id": "http://utah-jazz-jerseys.info/category/business/page/12/",
-				"feature_value": " 4",
-				"cluster_win_mean": "12.97",
-				"delta": "  8.97"
-			},
-			{
-				"html_id": "http://utah-jazz-jerseys.info/category/business/page/13/",
-				"feature_value": " 4",
-				"cluster_win_mean": "12.97",
-				"delta": "  8.97"
-			},
-			{
-				"html_id": "http://www.aee.odu.edu/qasystemsample/qa_keyword_search.php",
-				"feature_value": " 4",
-				"cluster_win_mean": "12.97",
-				"delta": "  8.97"
-			},
-			{
-				"html_id": "http://utah-jazz-jerseys.info/category/business/page/14/",
-				"feature_value": " 4",
-				"cluster_win_mean": "12.97",
-				"delta": "  8.97"
-			},
-			{
-				"html_id": "http://orlando-magic-jerseys.info/category/business/page/18/",
-				"feature_value": "11",
-				"cluster_win_mean": " 6.02",
-				"delta": " -4.98"
-			},
-			{
-				"html_id": "http://blog.searchmetrics.com/us/2013/05/23/google-penguin-update-2-0-loser-analysis/",
-				"feature_value": "11",
-				"cluster_win_mean": " 6.02",
-				"delta": " -4.98"
-			},
-			{
-				"html_id": "http://www.allaboutsite.com/alchemyviral.com",
-				"feature_value": " 8",
-				"cluster_win_mean": " 6.02",
-				"delta": " -1.98"
-			},
-			{
-				"html_id": "http://portland-trail-blazers.info/2013/07/06/how-to-choose-the-right-seo-company/",
-				"feature_value": " 4",
-				"cluster_win_mean": "12.97",
-				"delta": "  8.97"
-			}
-		],
-		"average_backlink_flesch_reading_ease": [
-			{
-				"html_id": "http://ns2.mywikibiz.com/index.php?title=Valuation_of_options&oldid=169276",
-				"feature_value": "  5.332",
-				"cluster_win_mean": "12.27",
-				"delta": "6.94"
-			},
-			{
-				"html_id": "http://ns1.mywikibiz.com/index.php?title=Valuation_of_options&oldid=169276",
-				"feature_value": "13.2681",
-				"cluster_win_mean": "17.41",
-				"delta": "4.14"
-			},
-			{
-				"html_id": "http://ns1.mywikibiz.com/index.php?title=Valuation_of_options&printable=yes",
-				"feature_value": " 8.0402",
-				"cluster_win_mean": "15.58",
-				"delta": "7.54"
-			},
-			{
-				"html_id": "http://ns2.mywikibiz.com/index.php?title=Valuation_of_options&printable=yes&printable=yes",
-				"feature_value": "12.0883",
-				"cluster_win_mean": "15.58",
-				"delta": "3.49"
-			},
-			{
-				"html_id": "http://orlando-magic-jerseys.info/category/business/page/18/",
-				"feature_value": " 8.7118",
-				"cluster_win_mean": "12.27",
-				"delta": "3.56"
-			},
-			{
-				"html_id": "http://blog.searchmetrics.com/us/2013/05/23/google-penguin-update-2-0-loser-analysis/",
-				"feature_value": " 6.6978",
-				"cluster_win_mean": "12.27",
-				"delta": "5.57"
-			},
-			{
-				"html_id": "http://www.allaboutsite.com/alchemyviral.com",
-				"feature_value": "  7.388",
-				"cluster_win_mean": "12.27",
-				"delta": "4.88"
-			},
-			{
-				"html_id": "http://tjomlid.com/2013/08/19/aspartam-astroturfing/",
-				"feature_value": " 6.9323",
-				"cluster_win_mean": "12.27",
-				"delta": "5.34"
-			},
-			{
-				"html_id": "http://www.miziuk.daytona-beach.fl.us/marketing/artificial-intelligence-ai-and-search-engines-seo.php",
-				"feature_value": " 5.8017",
-				"cluster_win_mean": "12.27",
-				"delta": "6.47"
-			}
-		],
-		"number_of_inline_css_styles": [
-			{
-				"html_id": "http://ns2.mywikibiz.com/index.php?title=Valuation_of_options&printable=yes",
-				"feature_value": "130",
-				"cluster_win_mean": "2.77",
-				"delta": "-127.23"
-			},
-			{
-				"html_id": "http://orlando-magic-jerseys.info/category/business/page/18/",
-				"feature_value": "  1",
-				"cluster_win_mean": "1.58",
-				"delta": "   0.58"
-			},
-			{
-				"html_id": "http://blog.searchmetrics.com/us/2013/05/23/google-penguin-update-2-0-loser-analysis/",
-				"feature_value": "  0",
-				"cluster_win_mean": "1.58",
-				"delta": "   1.58"
-			},
-			{
-				"html_id": "http://www.allaboutsite.com/alchemyviral.com",
-				"feature_value": "  0",
-				"cluster_win_mean": "1.58",
-				"delta": "   1.58"
-			},
-			{
-				"html_id": "http://tjomlid.com/2013/08/19/aspartam-astroturfing/",
-				"feature_value": "  0",
-				"cluster_win_mean": "1.58",
-				"delta": "   1.58"
-			},
-			{
-				"html_id": "http://www.miziuk.daytona-beach.fl.us/marketing/artificial-intelligence-ai-and-search-engines-seo.php",
-				"feature_value": "  0",
-				"cluster_win_mean": "1.58",
-				"delta": "   1.58"
-			}
-		],
 		"total_number_of_words": [
 			{
 				"html_id": "http://ns2.mywikibiz.com/index.php?title=Valuation_of_options&printable=yes",
 				"feature_value": "102",
-				"cluster_win_mean": "391.35",
-				"delta": "289.35"
+				"cluster_win_mean": "494.68",
+				"delta": "392.68"
 			},
 			{
 				"html_id": "http://ns1.mywikibiz.com/index.php?title=Valuation_of_options&oldid=169276",
 				"feature_value": " 65",
-				"cluster_win_mean": "124.65",
-				"delta": " 59.65"
+				"cluster_win_mean": "134.73",
+				"delta": " 69.73"
 			},
 			{
 				"html_id": "http://ns2.mywikibiz.com/index.php?title=Valuation_of_options&printable=yes&printable=yes",
 				"feature_value": "372",
-				"cluster_win_mean": "391.35",
-				"delta": " 19.35"
+				"cluster_win_mean": "524.03",
+				"delta": "152.03"
 			},
 			{
 				"html_id": "http://ns1.mywikibiz.com/index.php?title=Valuation_of_options&printable=yes&printable=yes",
 				"feature_value": " 16",
-				"cluster_win_mean": "391.35",
-				"delta": "375.35"
+				"cluster_win_mean": "524.03",
+				"delta": "508.03"
 			},
 			{
 				"html_id": "http://www.mywikibiz.com/index.php?title=Valuation_of_options&printable=yes&printable=yes",
 				"feature_value": " 16",
-				"cluster_win_mean": "391.35",
-				"delta": "375.35"
+				"cluster_win_mean": "524.03",
+				"delta": "508.03"
 			},
 			{
 				"html_id": "http://utah-jazz-jerseys.info/category/business/page/12/",
 				"feature_value": " 16",
-				"cluster_win_mean": "391.35",
-				"delta": "375.35"
+				"cluster_win_mean": "524.03",
+				"delta": "508.03"
 			},
 			{
 				"html_id": "http://utah-jazz-jerseys.info/category/business/page/13/",
 				"feature_value": " 16",
-				"cluster_win_mean": "391.35",
-				"delta": "375.35"
+				"cluster_win_mean": "524.03",
+				"delta": "508.03"
 			},
 			{
 				"html_id": "http://www.aee.odu.edu/qasystemsample/qa_keyword_search.php",
 				"feature_value": " 16",
-				"cluster_win_mean": "391.35",
-				"delta": "375.35"
+				"cluster_win_mean": "524.03",
+				"delta": "508.03"
 			},
 			{
 				"html_id": "http://utah-jazz-jerseys.info/category/business/page/14/",
 				"feature_value": " 16",
-				"cluster_win_mean": "391.35",
-				"delta": "375.35"
+				"cluster_win_mean": "524.03",
+				"delta": "508.03"
 			},
 			{
 				"html_id": "http://tjomlid.com/2013/08/19/aspartam-astroturfing/",
 				"feature_value": "285",
-				"cluster_win_mean": "779.14",
-				"delta": "494.14"
+				"cluster_win_mean": "524.03",
+				"delta": "239.03"
 			},
 			{
 				"html_id": "http://portland-trail-blazers.info/2013/07/06/how-to-choose-the-right-seo-company/",
 				"feature_value": " 16",
-				"cluster_win_mean": "391.35",
-				"delta": "375.35"
-			}
-		],
-		"average_backlink_flesch_kincaid_grade": [
-			{
-				"html_id": "http://ns2.mywikibiz.com/index.php?title=Valuation_of_options&oldid=169276",
-				"feature_value": " 6.135",
-				"cluster_win_mean": "7.08",
-				"delta": "0.95"
-			},
-			{
-				"html_id": "http://ns2.mywikibiz.com/index.php?title=Valuation_of_options&printable=yes&printable=yes",
-				"feature_value": "7.8998",
-				"cluster_win_mean": "9.17",
-				"delta": "1.27"
-			},
-			{
-				"html_id": "http://orlando-magic-jerseys.info/category/business/page/18/",
-				"feature_value": "5.1099",
-				"cluster_win_mean": "7.08",
-				"delta": "1.97"
-			},
-			{
-				"html_id": "http://blog.searchmetrics.com/us/2013/05/23/google-penguin-update-2-0-loser-analysis/",
-				"feature_value": "4.2022",
-				"cluster_win_mean": "7.08",
-				"delta": "2.88"
-			},
-			{
-				"html_id": "http://www.allaboutsite.com/alchemyviral.com",
-				"feature_value": "4.3018",
-				"cluster_win_mean": "7.08",
-				"delta": "2.78"
-			},
-			{
-				"html_id": "http://tjomlid.com/2013/08/19/aspartam-astroturfing/",
-				"feature_value": "4.2112",
-				"cluster_win_mean": "7.08",
-				"delta": "2.87"
-			},
-			{
-				"html_id": "http://www.miziuk.daytona-beach.fl.us/marketing/artificial-intelligence-ai-and-search-engines-seo.php",
-				"feature_value": "4.3487",
-				"cluster_win_mean": "7.08",
-				"delta": "2.74"
-			}
-		],
-		"maximum_length_of_h1": [
-			{
-				"html_id": "http://ns2.mywikibiz.com/index.php?title=Valuation_of_options&printable=yes",
-				"feature_value": "0",
-				"cluster_win_mean": "19.97",
-				"delta": "19.97"
-			},
-			{
-				"html_id": "http://ns1.mywikibiz.com/index.php?title=Valuation_of_options&oldid=169276",
-				"feature_value": "0",
-				"cluster_win_mean": "79.51",
-				"delta": "79.51"
-			},
-			{
-				"html_id": "http://ns1.mywikibiz.com/index.php?title=Valuation_of_options&printable=yes",
-				"feature_value": "0",
-				"cluster_win_mean": "19.97",
-				"delta": "19.97"
-			},
-			{
-				"html_id": "http://ns2.mywikibiz.com/index.php?title=Valuation_of_options&printable=yes&printable=yes",
-				"feature_value": "0",
-				"cluster_win_mean": "19.97",
-				"delta": "19.97"
-			},
-			{
-				"html_id": "http://ns1.mywikibiz.com/index.php?title=Valuation_of_options&printable=yes&printable=yes",
-				"feature_value": "0",
-				"cluster_win_mean": "19.97",
-				"delta": "19.97"
-			},
-			{
-				"html_id": "http://www.mywikibiz.com/index.php?title=Valuation_of_options&printable=yes&printable=yes",
-				"feature_value": "0",
-				"cluster_win_mean": "19.97",
-				"delta": "19.97"
-			},
-			{
-				"html_id": "http://utah-jazz-jerseys.info/category/business/page/12/",
-				"feature_value": "0",
-				"cluster_win_mean": "19.97",
-				"delta": "19.97"
-			},
-			{
-				"html_id": "http://utah-jazz-jerseys.info/category/business/page/13/",
-				"feature_value": "0",
-				"cluster_win_mean": "19.97",
-				"delta": "19.97"
-			},
-			{
-				"html_id": "http://www.aee.odu.edu/qasystemsample/qa_keyword_search.php",
-				"feature_value": "0",
-				"cluster_win_mean": "19.97",
-				"delta": "19.97"
-			},
-			{
-				"html_id": "http://utah-jazz-jerseys.info/category/business/page/14/",
-				"feature_value": "0",
-				"cluster_win_mean": "19.97",
-				"delta": "19.97"
-			},
-			{
-				"html_id": "http://orlando-magic-jerseys.info/category/business/page/18/",
-				"feature_value": "0",
-				"cluster_win_mean": "47.53",
-				"delta": "47.53"
-			},
-			{
-				"html_id": "http://blog.searchmetrics.com/us/2013/05/23/google-penguin-update-2-0-loser-analysis/",
-				"feature_value": "0",
-				"cluster_win_mean": "47.53",
-				"delta": "47.53"
-			},
-			{
-				"html_id": "http://www.allaboutsite.com/alchemyviral.com",
-				"feature_value": "0",
-				"cluster_win_mean": "47.53",
-				"delta": "47.53"
-			},
-			{
-				"html_id": "http://tjomlid.com/2013/08/19/aspartam-astroturfing/",
-				"feature_value": "0",
-				"cluster_win_mean": "47.53",
-				"delta": "47.53"
-			},
-			{
-				"html_id": "http://www.miziuk.daytona-beach.fl.us/marketing/artificial-intelligence-ai-and-search-engines-seo.php",
-				"feature_value": "0",
-				"cluster_win_mean": "47.53",
-				"delta": "47.53"
-			},
-			{
-				"html_id": "http://portland-trail-blazers.info/2013/07/06/how-to-choose-the-right-seo-company/",
-				"feature_value": "0",
-				"cluster_win_mean": "19.97",
-				"delta": "19.97"
+				"cluster_win_mean": "524.03",
+				"delta": "508.03"
 			}
 		],
 		"number_of_unique_words": [
 			{
 				"html_id": "http://ns2.mywikibiz.com/index.php?title=Valuation_of_options&printable=yes",
 				"feature_value": " 28",
-				"cluster_win_mean": "173.06",
-				"delta": "145.06"
+				"cluster_win_mean": "212.03",
+				"delta": "184.03"
 			},
 			{
 				"html_id": "http://ns1.mywikibiz.com/index.php?title=Valuation_of_options&oldid=169276",
 				"feature_value": " 39",
-				"cluster_win_mean": " 57.35",
-				"delta": " 18.35"
+				"cluster_win_mean": " 60.73",
+				"delta": " 21.73"
 			},
 			{
 				"html_id": "http://ns1.mywikibiz.com/index.php?title=Valuation_of_options&printable=yes&printable=yes",
 				"feature_value": " 13",
-				"cluster_win_mean": "173.06",
-				"delta": "160.06"
+				"cluster_win_mean": "226.52",
+				"delta": "213.52"
 			},
 			{
 				"html_id": "http://www.mywikibiz.com/index.php?title=Valuation_of_options&printable=yes&printable=yes",
 				"feature_value": " 13",
-				"cluster_win_mean": "173.06",
-				"delta": "160.06"
+				"cluster_win_mean": "226.52",
+				"delta": "213.52"
 			},
 			{
 				"html_id": "http://utah-jazz-jerseys.info/category/business/page/12/",
 				"feature_value": " 13",
-				"cluster_win_mean": "173.06",
-				"delta": "160.06"
+				"cluster_win_mean": "226.52",
+				"delta": "213.52"
 			},
 			{
 				"html_id": "http://utah-jazz-jerseys.info/category/business/page/13/",
 				"feature_value": " 13",
-				"cluster_win_mean": "173.06",
-				"delta": "160.06"
+				"cluster_win_mean": "226.52",
+				"delta": "213.52"
 			},
 			{
 				"html_id": "http://www.aee.odu.edu/qasystemsample/qa_keyword_search.php",
 				"feature_value": " 13",
-				"cluster_win_mean": "173.06",
-				"delta": "160.06"
+				"cluster_win_mean": "226.52",
+				"delta": "213.52"
 			},
 			{
 				"html_id": "http://utah-jazz-jerseys.info/category/business/page/14/",
 				"feature_value": " 13",
-				"cluster_win_mean": "173.06",
-				"delta": "160.06"
+				"cluster_win_mean": "226.52",
+				"delta": "213.52"
 			},
 			{
 				"html_id": "http://tjomlid.com/2013/08/19/aspartam-astroturfing/",
 				"feature_value": "147",
-				"cluster_win_mean": "321.36",
-				"delta": "174.36"
+				"cluster_win_mean": "226.52",
+				"delta": " 79.52"
 			},
 			{
 				"html_id": "http://portland-trail-blazers.info/2013/07/06/how-to-choose-the-right-seo-company/",
 				"feature_value": " 13",
-				"cluster_win_mean": "173.06",
-				"delta": "160.06"
+				"cluster_win_mean": "226.52",
+				"delta": "213.52"
 			}
 		],
-		"average_length_of_h1": [
+		"anchor_number_of_unique_dictionary_words": [
 			{
-				"html_id": "http://ns2.mywikibiz.com/index.php?title=Valuation_of_options&oldid=169276",
-				"feature_value": "45",
-				"cluster_win_mean": "30.66",
-				"delta": "-14.34"
-			},
-			{
-				"html_id": "http://ns2.mywikibiz.com/index.php?title=Valuation_of_options&printable=yes",
-				"feature_value": " 0",
-				"cluster_win_mean": "18.98",
-				"delta": " 18.98"
+				"html_id": "http://ns1.mywikibiz.com/index.php?title=Valuation_of_options&oldid=169276",
+				"feature_value": "0",
+				"cluster_win_mean": "   1",
+				"delta": "   1"
 			},
 			{
 				"html_id": "http://ns1.mywikibiz.com/index.php?title=Valuation_of_options&printable=yes",
-				"feature_value": " 0",
-				"cluster_win_mean": "18.98",
-				"delta": " 18.98"
+				"feature_value": "1",
+				"cluster_win_mean": "1.01",
+				"delta": "0.01"
 			},
 			{
 				"html_id": "http://ns2.mywikibiz.com/index.php?title=Valuation_of_options&printable=yes&printable=yes",
-				"feature_value": " 0",
-				"cluster_win_mean": "18.98",
-				"delta": " 18.98"
+				"feature_value": "0",
+				"cluster_win_mean": " 1.1",
+				"delta": " 1.1"
 			},
 			{
 				"html_id": "http://ns1.mywikibiz.com/index.php?title=Valuation_of_options&printable=yes&printable=yes",
-				"feature_value": " 0",
-				"cluster_win_mean": "18.98",
-				"delta": " 18.98"
+				"feature_value": "0",
+				"cluster_win_mean": " 1.1",
+				"delta": " 1.1"
 			},
 			{
 				"html_id": "http://www.mywikibiz.com/index.php?title=Valuation_of_options&printable=yes&printable=yes",
-				"feature_value": " 0",
-				"cluster_win_mean": "18.98",
-				"delta": " 18.98"
+				"feature_value": "0",
+				"cluster_win_mean": " 1.1",
+				"delta": " 1.1"
 			},
 			{
 				"html_id": "http://utah-jazz-jerseys.info/category/business/page/12/",
-				"feature_value": " 0",
-				"cluster_win_mean": "18.98",
-				"delta": " 18.98"
+				"feature_value": "0",
+				"cluster_win_mean": " 1.1",
+				"delta": " 1.1"
 			},
 			{
 				"html_id": "http://utah-jazz-jerseys.info/category/business/page/13/",
-				"feature_value": " 0",
-				"cluster_win_mean": "18.98",
-				"delta": " 18.98"
+				"feature_value": "0",
+				"cluster_win_mean": " 1.1",
+				"delta": " 1.1"
 			},
 			{
 				"html_id": "http://www.aee.odu.edu/qasystemsample/qa_keyword_search.php",
-				"feature_value": " 0",
-				"cluster_win_mean": "18.98",
-				"delta": " 18.98"
+				"feature_value": "0",
+				"cluster_win_mean": " 1.1",
+				"delta": " 1.1"
 			},
 			{
 				"html_id": "http://utah-jazz-jerseys.info/category/business/page/14/",
-				"feature_value": " 0",
-				"cluster_win_mean": "18.98",
-				"delta": " 18.98"
+				"feature_value": "0",
+				"cluster_win_mean": " 1.1",
+				"delta": " 1.1"
+			},
+			{
+				"html_id": "http://orlando-magic-jerseys.info/category/business/page/18/",
+				"feature_value": "0",
+				"cluster_win_mean": " 1.1",
+				"delta": " 1.1"
+			},
+			{
+				"html_id": "http://blog.searchmetrics.com/us/2013/05/23/google-penguin-update-2-0-loser-analysis/",
+				"feature_value": "0",
+				"cluster_win_mean": " 1.1",
+				"delta": " 1.1"
+			},
+			{
+				"html_id": "http://www.allaboutsite.com/alchemyviral.com",
+				"feature_value": "0",
+				"cluster_win_mean": " 1.1",
+				"delta": " 1.1"
+			},
+			{
+				"html_id": "http://tjomlid.com/2013/08/19/aspartam-astroturfing/",
+				"feature_value": "0",
+				"cluster_win_mean": " 1.1",
+				"delta": " 1.1"
+			},
+			{
+				"html_id": "http://www.miziuk.daytona-beach.fl.us/marketing/artificial-intelligence-ai-and-search-engines-seo.php",
+				"feature_value": "1",
+				"cluster_win_mean": " 1.1",
+				"delta": " 0.1"
 			},
 			{
 				"html_id": "http://portland-trail-blazers.info/2013/07/06/how-to-choose-the-right-seo-company/",
-				"feature_value": " 0",
-				"cluster_win_mean": "18.98",
-				"delta": " 18.98"
+				"feature_value": "0",
+				"cluster_win_mean": " 1.1",
+				"delta": " 1.1"
+			}
+		],
+		"flesch_grade_level": [
+			{
+				"html_id": "http://ns2.mywikibiz.com/index.php?title=Valuation_of_options&oldid=169276",
+				"feature_value": "  5.332",
+				"cluster_win_mean": "12.77",
+				"delta": "7.44"
+			},
+			{
+				"html_id": "http://ns2.mywikibiz.com/index.php?title=Valuation_of_options&printable=yes",
+				"feature_value": "14.2131",
+				"cluster_win_mean": "19.14",
+				"delta": "4.92"
+			},
+			{
+				"html_id": "http://ns1.mywikibiz.com/index.php?title=Valuation_of_options&oldid=169276",
+				"feature_value": "13.2681",
+				"cluster_win_mean": "17.28",
+				"delta": "4.01"
+			},
+			{
+				"html_id": "http://ns1.mywikibiz.com/index.php?title=Valuation_of_options&printable=yes",
+				"feature_value": " 8.0402",
+				"cluster_win_mean": "19.14",
+				"delta": "11.1"
+			},
+			{
+				"html_id": "http://orlando-magic-jerseys.info/category/business/page/18/",
+				"feature_value": " 8.7118",
+				"cluster_win_mean": "12.77",
+				"delta": "4.06"
+			},
+			{
+				"html_id": "http://blog.searchmetrics.com/us/2013/05/23/google-penguin-update-2-0-loser-analysis/",
+				"feature_value": " 6.6978",
+				"cluster_win_mean": "12.77",
+				"delta": "6.08"
+			},
+			{
+				"html_id": "http://www.allaboutsite.com/alchemyviral.com",
+				"feature_value": "  7.388",
+				"cluster_win_mean": "12.77",
+				"delta": "5.39"
+			},
+			{
+				"html_id": "http://tjomlid.com/2013/08/19/aspartam-astroturfing/",
+				"feature_value": " 6.9323",
+				"cluster_win_mean": "12.77",
+				"delta": "5.84"
+			},
+			{
+				"html_id": "http://www.miziuk.daytona-beach.fl.us/marketing/artificial-intelligence-ai-and-search-engines-seo.php",
+				"feature_value": " 5.8017",
+				"cluster_win_mean": "12.77",
+				"delta": "6.97"
 			}
 		],
 		"number_of_duplicate_words": [
 			{
 				"html_id": "http://ns2.mywikibiz.com/index.php?title=Valuation_of_options&printable=yes",
 				"feature_value": " 74",
-				"cluster_win_mean": "173.14",
-				"delta": " 99.14"
+				"cluster_win_mean": "197.59",
+				"delta": "123.59"
 			},
 			{
 				"html_id": "http://ns1.mywikibiz.com/index.php?title=Valuation_of_options&oldid=169276",
 				"feature_value": " 26",
-				"cluster_win_mean": " 68.29",
-				"delta": " 42.29"
-			},
-			{
-				"html_id": "http://ns1.mywikibiz.com/index.php?title=Valuation_of_options&printable=yes",
-				"feature_value": "264",
-				"cluster_win_mean": "173.14",
-				"delta": "-90.86"
+				"cluster_win_mean": " 75.15",
+				"delta": " 49.15"
 			},
 			{
 				"html_id": "http://ns2.mywikibiz.com/index.php?title=Valuation_of_options&printable=yes&printable=yes",
 				"feature_value": "148",
-				"cluster_win_mean": "173.14",
-				"delta": " 25.14"
+				"cluster_win_mean": "278.69",
+				"delta": "130.69"
+			},
+			{
+				"html_id": "http://ns1.mywikibiz.com/index.php?title=Valuation_of_options&printable=yes&printable=yes",
+				"feature_value": "  3",
+				"cluster_win_mean": "278.69",
+				"delta": "275.69"
+			},
+			{
+				"html_id": "http://www.mywikibiz.com/index.php?title=Valuation_of_options&printable=yes&printable=yes",
+				"feature_value": "  3",
+				"cluster_win_mean": "278.69",
+				"delta": "275.69"
+			},
+			{
+				"html_id": "http://utah-jazz-jerseys.info/category/business/page/12/",
+				"feature_value": "  3",
+				"cluster_win_mean": "278.69",
+				"delta": "275.69"
+			},
+			{
+				"html_id": "http://utah-jazz-jerseys.info/category/business/page/13/",
+				"feature_value": "  3",
+				"cluster_win_mean": "278.69",
+				"delta": "275.69"
+			},
+			{
+				"html_id": "http://www.aee.odu.edu/qasystemsample/qa_keyword_search.php",
+				"feature_value": "  3",
+				"cluster_win_mean": "278.69",
+				"delta": "275.69"
+			},
+			{
+				"html_id": "http://utah-jazz-jerseys.info/category/business/page/14/",
+				"feature_value": "  3",
+				"cluster_win_mean": "278.69",
+				"delta": "275.69"
 			},
 			{
 				"html_id": "http://tjomlid.com/2013/08/19/aspartam-astroturfing/",
 				"feature_value": "138",
-				"cluster_win_mean": "427.27",
-				"delta": "289.27"
-			}
-		],
-		"number_of_rare_words": [
-			{
-				"html_id": "http://ns2.mywikibiz.com/index.php?title=Valuation_of_options&printable=yes",
-				"feature_value": "18",
-				"cluster_win_mean": " 93.44",
-				"delta": "75.44"
-			},
-			{
-				"html_id": "http://ns1.mywikibiz.com/index.php?title=Valuation_of_options&oldid=169276",
-				"feature_value": "26",
-				"cluster_win_mean": " 31.62",
-				"delta": " 5.62"
-			},
-			{
-				"html_id": "http://ns2.mywikibiz.com/index.php?title=Valuation_of_options&printable=yes&printable=yes",
-				"feature_value": "80",
-				"cluster_win_mean": " 93.44",
-				"delta": "13.44"
-			},
-			{
-				"html_id": "http://ns1.mywikibiz.com/index.php?title=Valuation_of_options&printable=yes&printable=yes",
-				"feature_value": " 6",
-				"cluster_win_mean": " 93.44",
-				"delta": "87.44"
-			},
-			{
-				"html_id": "http://www.mywikibiz.com/index.php?title=Valuation_of_options&printable=yes&printable=yes",
-				"feature_value": " 6",
-				"cluster_win_mean": " 93.44",
-				"delta": "87.44"
-			},
-			{
-				"html_id": "http://utah-jazz-jerseys.info/category/business/page/12/",
-				"feature_value": " 6",
-				"cluster_win_mean": " 93.44",
-				"delta": "87.44"
-			},
-			{
-				"html_id": "http://utah-jazz-jerseys.info/category/business/page/13/",
-				"feature_value": " 6",
-				"cluster_win_mean": " 93.44",
-				"delta": "87.44"
-			},
-			{
-				"html_id": "http://www.aee.odu.edu/qasystemsample/qa_keyword_search.php",
-				"feature_value": " 6",
-				"cluster_win_mean": " 93.44",
-				"delta": "87.44"
-			},
-			{
-				"html_id": "http://utah-jazz-jerseys.info/category/business/page/14/",
-				"feature_value": " 6",
-				"cluster_win_mean": " 93.44",
-				"delta": "87.44"
-			},
-			{
-				"html_id": "http://tjomlid.com/2013/08/19/aspartam-astroturfing/",
-				"feature_value": "40",
-				"cluster_win_mean": "124.89",
-				"delta": "84.89"
+				"cluster_win_mean": "278.69",
+				"delta": "140.69"
 			},
 			{
 				"html_id": "http://portland-trail-blazers.info/2013/07/06/how-to-choose-the-right-seo-company/",
-				"feature_value": " 6",
-				"cluster_win_mean": " 93.44",
-				"delta": "87.44"
-			}
-		],
-		"number_of_images_in_body": [
-			{
-				"html_id": "http://ns2.mywikibiz.com/index.php?title=Valuation_of_options&oldid=169276",
-				"feature_value": "65",
-				"cluster_win_mean": " 6.02",
-				"delta": "-58.98"
-			},
-			{
-				"html_id": "http://ns2.mywikibiz.com/index.php?title=Valuation_of_options&printable=yes",
-				"feature_value": " 0",
-				"cluster_win_mean": "13.31",
-				"delta": " 13.31"
-			},
-			{
-				"html_id": "http://ns2.mywikibiz.com/index.php?title=Valuation_of_options&printable=yes&printable=yes",
-				"feature_value": " 5",
-				"cluster_win_mean": "13.31",
-				"delta": "  8.31"
-			},
-			{
-				"html_id": "http://ns1.mywikibiz.com/index.php?title=Valuation_of_options&printable=yes&printable=yes",
-				"feature_value": " 4",
-				"cluster_win_mean": "13.31",
-				"delta": "  9.31"
-			},
-			{
-				"html_id": "http://www.mywikibiz.com/index.php?title=Valuation_of_options&printable=yes&printable=yes",
-				"feature_value": " 4",
-				"cluster_win_mean": "13.31",
-				"delta": "  9.31"
-			},
-			{
-				"html_id": "http://utah-jazz-jerseys.info/category/business/page/12/",
-				"feature_value": " 4",
-				"cluster_win_mean": "13.31",
-				"delta": "  9.31"
-			},
-			{
-				"html_id": "http://utah-jazz-jerseys.info/category/business/page/13/",
-				"feature_value": " 4",
-				"cluster_win_mean": "13.31",
-				"delta": "  9.31"
-			},
-			{
-				"html_id": "http://www.aee.odu.edu/qasystemsample/qa_keyword_search.php",
-				"feature_value": " 4",
-				"cluster_win_mean": "13.31",
-				"delta": "  9.31"
-			},
-			{
-				"html_id": "http://utah-jazz-jerseys.info/category/business/page/14/",
-				"feature_value": " 4",
-				"cluster_win_mean": "13.31",
-				"delta": "  9.31"
-			},
-			{
-				"html_id": "http://orlando-magic-jerseys.info/category/business/page/18/",
-				"feature_value": "11",
-				"cluster_win_mean": " 6.02",
-				"delta": " -4.98"
-			},
-			{
-				"html_id": "http://blog.searchmetrics.com/us/2013/05/23/google-penguin-update-2-0-loser-analysis/",
-				"feature_value": "11",
-				"cluster_win_mean": " 6.02",
-				"delta": " -4.98"
-			},
-			{
-				"html_id": "http://www.allaboutsite.com/alchemyviral.com",
-				"feature_value": " 8",
-				"cluster_win_mean": " 6.02",
-				"delta": " -1.98"
-			},
-			{
-				"html_id": "http://portland-trail-blazers.info/2013/07/06/how-to-choose-the-right-seo-company/",
-				"feature_value": " 4",
-				"cluster_win_mean": "13.31",
-				"delta": "  9.31"
-			}
-		],
-		"total_number_of_5k_common_words": [
-			{
-				"html_id": "http://ns2.mywikibiz.com/index.php?title=Valuation_of_options&printable=yes",
-				"feature_value": " 84",
-				"cluster_win_mean": "236.01",
-				"delta": "152.01"
-			},
-			{
-				"html_id": "http://ns1.mywikibiz.com/index.php?title=Valuation_of_options&oldid=169276",
-				"feature_value": " 39",
-				"cluster_win_mean": " 92.75",
-				"delta": " 53.75"
-			},
-			{
-				"html_id": "http://ns1.mywikibiz.com/index.php?title=Valuation_of_options&printable=yes",
-				"feature_value": "115",
-				"cluster_win_mean": "236.01",
-				"delta": "121.01"
-			},
-			{
-				"html_id": "http://ns2.mywikibiz.com/index.php?title=Valuation_of_options&printable=yes&printable=yes",
-				"feature_value": "292",
-				"cluster_win_mean": "236.01",
-				"delta": "-55.99"
-			},
-			{
-				"html_id": "http://tjomlid.com/2013/08/19/aspartam-astroturfing/",
-				"feature_value": "245",
-				"cluster_win_mean": "595.53",
-				"delta": "350.53"
-			}
-		],
-		"number_of_embedded_javascripts": [
-			{
-				"html_id": "http://ns2.mywikibiz.com/index.php?title=Valuation_of_options&oldid=169276",
-				"feature_value": "10",
-				"cluster_win_mean": " 2.4",
-				"delta": "  -7.6"
-			},
-			{
-				"html_id": "http://ns1.mywikibiz.com/index.php?title=Valuation_of_options&oldid=169276",
-				"feature_value": " 0",
-				"cluster_win_mean": "2.42",
-				"delta": "  2.42"
-			},
-			{
-				"html_id": "http://ns1.mywikibiz.com/index.php?title=Valuation_of_options&printable=yes",
-				"feature_value": "25",
-				"cluster_win_mean": "3.68",
-				"delta": "-21.32"
-			}
-		],
-		"maximum_length_of_h2": [
-			{
-				"html_id": "http://ns2.mywikibiz.com/index.php?title=Valuation_of_options&oldid=169276",
-				"feature_value": " 0",
-				"cluster_win_mean": "45.57",
-				"delta": "45.57"
-			},
-			{
-				"html_id": "http://ns2.mywikibiz.com/index.php?title=Valuation_of_options&printable=yes",
-				"feature_value": "13",
-				"cluster_win_mean": " 16.3",
-				"delta": "  3.3"
-			},
-			{
-				"html_id": "http://ns1.mywikibiz.com/index.php?title=Valuation_of_options&oldid=169276",
-				"feature_value": "23",
-				"cluster_win_mean": "71.94",
-				"delta": "48.94"
-			},
-			{
-				"html_id": "http://ns1.mywikibiz.com/index.php?title=Valuation_of_options&printable=yes",
-				"feature_value": " 0",
-				"cluster_win_mean": " 16.3",
-				"delta": " 16.3"
-			},
-			{
-				"html_id": "http://ns2.mywikibiz.com/index.php?title=Valuation_of_options&printable=yes&printable=yes",
-				"feature_value": " 0",
-				"cluster_win_mean": " 16.3",
-				"delta": " 16.3"
-			},
-			{
-				"html_id": "http://ns1.mywikibiz.com/index.php?title=Valuation_of_options&printable=yes&printable=yes",
-				"feature_value": " 0",
-				"cluster_win_mean": " 16.3",
-				"delta": " 16.3"
-			},
-			{
-				"html_id": "http://www.mywikibiz.com/index.php?title=Valuation_of_options&printable=yes&printable=yes",
-				"feature_value": " 0",
-				"cluster_win_mean": " 16.3",
-				"delta": " 16.3"
-			},
-			{
-				"html_id": "http://utah-jazz-jerseys.info/category/business/page/12/",
-				"feature_value": " 0",
-				"cluster_win_mean": " 16.3",
-				"delta": " 16.3"
-			},
-			{
-				"html_id": "http://utah-jazz-jerseys.info/category/business/page/13/",
-				"feature_value": " 0",
-				"cluster_win_mean": " 16.3",
-				"delta": " 16.3"
-			},
-			{
-				"html_id": "http://www.aee.odu.edu/qasystemsample/qa_keyword_search.php",
-				"feature_value": " 0",
-				"cluster_win_mean": " 16.3",
-				"delta": " 16.3"
-			},
-			{
-				"html_id": "http://utah-jazz-jerseys.info/category/business/page/14/",
-				"feature_value": " 0",
-				"cluster_win_mean": " 16.3",
-				"delta": " 16.3"
-			},
-			{
-				"html_id": "http://orlando-magic-jerseys.info/category/business/page/18/",
-				"feature_value": " 0",
-				"cluster_win_mean": "45.57",
-				"delta": "45.57"
-			},
-			{
-				"html_id": "http://blog.searchmetrics.com/us/2013/05/23/google-penguin-update-2-0-loser-analysis/",
-				"feature_value": " 0",
-				"cluster_win_mean": "45.57",
-				"delta": "45.57"
-			},
-			{
-				"html_id": "http://www.allaboutsite.com/alchemyviral.com",
-				"feature_value": " 0",
-				"cluster_win_mean": "45.57",
-				"delta": "45.57"
-			},
-			{
-				"html_id": "http://tjomlid.com/2013/08/19/aspartam-astroturfing/",
-				"feature_value": " 8",
-				"cluster_win_mean": "45.57",
-				"delta": "37.57"
-			},
-			{
-				"html_id": "http://www.miziuk.daytona-beach.fl.us/marketing/artificial-intelligence-ai-and-search-engines-seo.php",
-				"feature_value": " 0",
-				"cluster_win_mean": "45.57",
-				"delta": "45.57"
-			},
-			{
-				"html_id": "http://portland-trail-blazers.info/2013/07/06/how-to-choose-the-right-seo-company/",
-				"feature_value": " 0",
-				"cluster_win_mean": " 16.3",
-				"delta": " 16.3"
-			}
-		],
-		"average_length_of_h2": [
-			{
-				"html_id": "http://ns2.mywikibiz.com/index.php?title=Valuation_of_options&oldid=169276",
-				"feature_value": " 0",
-				"cluster_win_mean": "33.61",
-				"delta": "33.61"
-			},
-			{
-				"html_id": "http://ns2.mywikibiz.com/index.php?title=Valuation_of_options&printable=yes",
-				"feature_value": "13",
-				"cluster_win_mean": "14.09",
-				"delta": " 1.09"
-			},
-			{
-				"html_id": "http://ns1.mywikibiz.com/index.php?title=Valuation_of_options&oldid=169276",
-				"feature_value": "18",
-				"cluster_win_mean": "71.57",
-				"delta": "53.57"
-			},
-			{
-				"html_id": "http://ns1.mywikibiz.com/index.php?title=Valuation_of_options&printable=yes",
-				"feature_value": " 0",
-				"cluster_win_mean": "14.09",
-				"delta": "14.09"
-			},
-			{
-				"html_id": "http://ns2.mywikibiz.com/index.php?title=Valuation_of_options&printable=yes&printable=yes",
-				"feature_value": " 0",
-				"cluster_win_mean": "14.09",
-				"delta": "14.09"
-			},
-			{
-				"html_id": "http://ns1.mywikibiz.com/index.php?title=Valuation_of_options&printable=yes&printable=yes",
-				"feature_value": " 0",
-				"cluster_win_mean": "14.09",
-				"delta": "14.09"
-			},
-			{
-				"html_id": "http://www.mywikibiz.com/index.php?title=Valuation_of_options&printable=yes&printable=yes",
-				"feature_value": " 0",
-				"cluster_win_mean": "14.09",
-				"delta": "14.09"
-			},
-			{
-				"html_id": "http://utah-jazz-jerseys.info/category/business/page/12/",
-				"feature_value": " 0",
-				"cluster_win_mean": "14.09",
-				"delta": "14.09"
-			},
-			{
-				"html_id": "http://utah-jazz-jerseys.info/category/business/page/13/",
-				"feature_value": " 0",
-				"cluster_win_mean": "14.09",
-				"delta": "14.09"
-			},
-			{
-				"html_id": "http://www.aee.odu.edu/qasystemsample/qa_keyword_search.php",
-				"feature_value": " 0",
-				"cluster_win_mean": "14.09",
-				"delta": "14.09"
-			},
-			{
-				"html_id": "http://utah-jazz-jerseys.info/category/business/page/14/",
-				"feature_value": " 0",
-				"cluster_win_mean": "14.09",
-				"delta": "14.09"
-			},
-			{
-				"html_id": "http://orlando-magic-jerseys.info/category/business/page/18/",
-				"feature_value": " 0",
-				"cluster_win_mean": "33.61",
-				"delta": "33.61"
-			},
-			{
-				"html_id": "http://blog.searchmetrics.com/us/2013/05/23/google-penguin-update-2-0-loser-analysis/",
-				"feature_value": " 0",
-				"cluster_win_mean": "33.61",
-				"delta": "33.61"
-			},
-			{
-				"html_id": "http://www.allaboutsite.com/alchemyviral.com",
-				"feature_value": " 0",
-				"cluster_win_mean": "33.61",
-				"delta": "33.61"
-			},
-			{
-				"html_id": "http://tjomlid.com/2013/08/19/aspartam-astroturfing/",
-				"feature_value": " 6",
-				"cluster_win_mean": "33.61",
-				"delta": "27.61"
-			},
-			{
-				"html_id": "http://www.miziuk.daytona-beach.fl.us/marketing/artificial-intelligence-ai-and-search-engines-seo.php",
-				"feature_value": " 0",
-				"cluster_win_mean": "33.61",
-				"delta": "33.61"
-			},
-			{
-				"html_id": "http://portland-trail-blazers.info/2013/07/06/how-to-choose-the-right-seo-company/",
-				"feature_value": " 0",
-				"cluster_win_mean": "14.09",
-				"delta": "14.09"
+				"feature_value": "  3",
+				"cluster_win_mean": "278.69",
+				"delta": "275.69"
 			}
 		],
 		"number_of_id_attribute_refs": [
@@ -1390,69 +444,155 @@
 				"delta": " 1"
 			}
 		],
-		"average_backlink_dale_chall_readability": [
-			{
-				"html_id": "http://ns2.mywikibiz.com/index.php?title=Valuation_of_options&oldid=169276",
-				"feature_value": "74.1951",
-				"cluster_win_mean": "58.66",
-				"delta": "-15.54"
-			},
+		"number_of_rare_words": [
 			{
 				"html_id": "http://ns2.mywikibiz.com/index.php?title=Valuation_of_options&printable=yes",
-				"feature_value": "53.7191",
-				"cluster_win_mean": "45.39",
-				"delta": " -8.33"
+				"feature_value": "18",
+				"cluster_win_mean": "121.41",
+				"delta": "103.41"
 			},
 			{
-				"html_id": "http://ns1.mywikibiz.com/index.php?title=Valuation_of_options&printable=yes",
-				"feature_value": "60.5334",
-				"cluster_win_mean": "45.39",
-				"delta": "-15.15"
+				"html_id": "http://ns1.mywikibiz.com/index.php?title=Valuation_of_options&oldid=169276",
+				"feature_value": "26",
+				"cluster_win_mean": " 33.42",
+				"delta": "  7.42"
 			},
 			{
 				"html_id": "http://ns2.mywikibiz.com/index.php?title=Valuation_of_options&printable=yes&printable=yes",
-				"feature_value": "36.0025",
-				"cluster_win_mean": "45.39",
-				"delta": "  9.38"
+				"feature_value": "80",
+				"cluster_win_mean": " 90.29",
+				"delta": " 10.29"
 			},
 			{
-				"html_id": "http://orlando-magic-jerseys.info/category/business/page/18/",
-				"feature_value": "69.4159",
-				"cluster_win_mean": "58.66",
-				"delta": "-10.76"
+				"html_id": "http://ns1.mywikibiz.com/index.php?title=Valuation_of_options&printable=yes&printable=yes",
+				"feature_value": " 6",
+				"cluster_win_mean": " 90.29",
+				"delta": " 84.29"
 			},
 			{
-				"html_id": "http://blog.searchmetrics.com/us/2013/05/23/google-penguin-update-2-0-loser-analysis/",
-				"feature_value": "77.4297",
-				"cluster_win_mean": "58.66",
-				"delta": "-18.77"
+				"html_id": "http://www.mywikibiz.com/index.php?title=Valuation_of_options&printable=yes&printable=yes",
+				"feature_value": " 6",
+				"cluster_win_mean": " 90.29",
+				"delta": " 84.29"
 			},
 			{
-				"html_id": "http://www.allaboutsite.com/alchemyviral.com",
-				"feature_value": "75.4444",
-				"cluster_win_mean": "58.66",
-				"delta": "-16.79"
+				"html_id": "http://utah-jazz-jerseys.info/category/business/page/12/",
+				"feature_value": " 6",
+				"cluster_win_mean": " 90.29",
+				"delta": " 84.29"
+			},
+			{
+				"html_id": "http://utah-jazz-jerseys.info/category/business/page/13/",
+				"feature_value": " 6",
+				"cluster_win_mean": " 90.29",
+				"delta": " 84.29"
+			},
+			{
+				"html_id": "http://www.aee.odu.edu/qasystemsample/qa_keyword_search.php",
+				"feature_value": " 6",
+				"cluster_win_mean": " 90.29",
+				"delta": " 84.29"
+			},
+			{
+				"html_id": "http://utah-jazz-jerseys.info/category/business/page/14/",
+				"feature_value": " 6",
+				"cluster_win_mean": " 90.29",
+				"delta": " 84.29"
 			},
 			{
 				"html_id": "http://tjomlid.com/2013/08/19/aspartam-astroturfing/",
-				"feature_value": "79.2026",
-				"cluster_win_mean": "58.66",
-				"delta": "-20.54"
+				"feature_value": "40",
+				"cluster_win_mean": " 90.29",
+				"delta": " 50.29"
 			},
 			{
-				"html_id": "http://www.miziuk.daytona-beach.fl.us/marketing/artificial-intelligence-ai-and-search-engines-seo.php",
-				"feature_value": "79.6474",
-				"cluster_win_mean": "58.66",
-				"delta": "-20.99"
+				"html_id": "http://portland-trail-blazers.info/2013/07/06/how-to-choose-the-right-seo-company/",
+				"feature_value": " 6",
+				"cluster_win_mean": " 90.29",
+				"delta": " 84.29"
 			}
 		],
-		"metadesc_number_of_unique_dictionary_words": [
+		"number_of_hyperlinks_with_html": {
+			"html_id": "http://ns1.mywikibiz.com/index.php?title=Valuation_of_options&oldid=169276",
+			"feature_value": "0",
+			"cluster_win_mean": "39.4",
+			"delta": "39.4"
+		},
+		"total_number_of_5k_common_words": [
 			{
-				"html_id": "http://ns2.mywikibiz.com/index.php?title=Valuation_of_options&oldid=169276",
-				"feature_value": "1",
-				"cluster_win_mean": "1.03",
-				"delta": "0.03"
+				"html_id": "http://ns1.mywikibiz.com/index.php?title=Valuation_of_options&oldid=169276",
+				"feature_value": " 39",
+				"cluster_win_mean": "101.15",
+				"delta": " 62.15"
 			},
+			{
+				"html_id": "http://ns2.mywikibiz.com/index.php?title=Valuation_of_options&printable=yes&printable=yes",
+				"feature_value": "292",
+				"cluster_win_mean": "396.99",
+				"delta": "104.99"
+			},
+			{
+				"html_id": "http://ns1.mywikibiz.com/index.php?title=Valuation_of_options&printable=yes&printable=yes",
+				"feature_value": " 10",
+				"cluster_win_mean": "396.99",
+				"delta": "386.99"
+			},
+			{
+				"html_id": "http://www.mywikibiz.com/index.php?title=Valuation_of_options&printable=yes&printable=yes",
+				"feature_value": " 10",
+				"cluster_win_mean": "396.99",
+				"delta": "386.99"
+			},
+			{
+				"html_id": "http://utah-jazz-jerseys.info/category/business/page/12/",
+				"feature_value": " 10",
+				"cluster_win_mean": "396.99",
+				"delta": "386.99"
+			},
+			{
+				"html_id": "http://utah-jazz-jerseys.info/category/business/page/13/",
+				"feature_value": " 10",
+				"cluster_win_mean": "396.99",
+				"delta": "386.99"
+			},
+			{
+				"html_id": "http://www.aee.odu.edu/qasystemsample/qa_keyword_search.php",
+				"feature_value": " 10",
+				"cluster_win_mean": "396.99",
+				"delta": "386.99"
+			},
+			{
+				"html_id": "http://utah-jazz-jerseys.info/category/business/page/14/",
+				"feature_value": " 10",
+				"cluster_win_mean": "396.99",
+				"delta": "386.99"
+			},
+			{
+				"html_id": "http://tjomlid.com/2013/08/19/aspartam-astroturfing/",
+				"feature_value": "245",
+				"cluster_win_mean": "396.99",
+				"delta": "151.99"
+			},
+			{
+				"html_id": "http://portland-trail-blazers.info/2013/07/06/how-to-choose-the-right-seo-company/",
+				"feature_value": " 10",
+				"cluster_win_mean": "396.99",
+				"delta": "386.99"
+			}
+		],
+		"number_of_embedded_javascripts": {
+			"html_id": "http://ns1.mywikibiz.com/index.php?title=Valuation_of_options&oldid=169276",
+			"feature_value": "0",
+			"cluster_win_mean": "2.64",
+			"delta": "2.64"
+		},
+		"number_of_images_missing_alt": {
+			"html_id": "http://ns2.mywikibiz.com/index.php?title=Valuation_of_options&printable=yes",
+			"feature_value": "0",
+			"cluster_win_mean": "14.01",
+			"delta": "14.01"
+		},
+		"anchor_number_of_dictionary_words": [
 			{
 				"html_id": "http://ns1.mywikibiz.com/index.php?title=Valuation_of_options&oldid=169276",
 				"feature_value": "0",
@@ -1460,92 +600,484 @@
 				"delta": "   1"
 			},
 			{
+				"html_id": "http://ns2.mywikibiz.com/index.php?title=Valuation_of_options&printable=yes&printable=yes",
+				"feature_value": "0",
+				"cluster_win_mean": "1.54",
+				"delta": "1.54"
+			},
+			{
+				"html_id": "http://ns1.mywikibiz.com/index.php?title=Valuation_of_options&printable=yes&printable=yes",
+				"feature_value": "0",
+				"cluster_win_mean": "1.54",
+				"delta": "1.54"
+			},
+			{
+				"html_id": "http://www.mywikibiz.com/index.php?title=Valuation_of_options&printable=yes&printable=yes",
+				"feature_value": "0",
+				"cluster_win_mean": "1.54",
+				"delta": "1.54"
+			},
+			{
+				"html_id": "http://utah-jazz-jerseys.info/category/business/page/12/",
+				"feature_value": "0",
+				"cluster_win_mean": "1.54",
+				"delta": "1.54"
+			},
+			{
+				"html_id": "http://utah-jazz-jerseys.info/category/business/page/13/",
+				"feature_value": "0",
+				"cluster_win_mean": "1.54",
+				"delta": "1.54"
+			},
+			{
+				"html_id": "http://www.aee.odu.edu/qasystemsample/qa_keyword_search.php",
+				"feature_value": "0",
+				"cluster_win_mean": "1.54",
+				"delta": "1.54"
+			},
+			{
+				"html_id": "http://utah-jazz-jerseys.info/category/business/page/14/",
+				"feature_value": "0",
+				"cluster_win_mean": "1.54",
+				"delta": "1.54"
+			},
+			{
 				"html_id": "http://orlando-magic-jerseys.info/category/business/page/18/",
 				"feature_value": "0",
-				"cluster_win_mean": "1.03",
-				"delta": "1.03"
+				"cluster_win_mean": "1.54",
+				"delta": "1.54"
 			},
 			{
 				"html_id": "http://blog.searchmetrics.com/us/2013/05/23/google-penguin-update-2-0-loser-analysis/",
 				"feature_value": "0",
-				"cluster_win_mean": "1.03",
-				"delta": "1.03"
+				"cluster_win_mean": "1.54",
+				"delta": "1.54"
 			},
 			{
 				"html_id": "http://www.allaboutsite.com/alchemyviral.com",
 				"feature_value": "0",
-				"cluster_win_mean": "1.03",
-				"delta": "1.03"
+				"cluster_win_mean": "1.54",
+				"delta": "1.54"
 			},
 			{
 				"html_id": "http://tjomlid.com/2013/08/19/aspartam-astroturfing/",
 				"feature_value": "0",
-				"cluster_win_mean": "1.03",
-				"delta": "1.03"
-			},
-			{
-				"html_id": "http://www.miziuk.daytona-beach.fl.us/marketing/artificial-intelligence-ai-and-search-engines-seo.php",
-				"feature_value": "0",
-				"cluster_win_mean": "1.03",
-				"delta": "1.03"
-			}
-		],
-		"number_of_external_javascripts": [
-			{
-				"html_id": "http://ns2.mywikibiz.com/index.php?title=Valuation_of_options&printable=yes",
-				"feature_value": "0",
-				"cluster_win_mean": "5.69",
-				"delta": "5.69"
-			},
-			{
-				"html_id": "http://orlando-magic-jerseys.info/category/business/page/18/",
-				"feature_value": "1",
-				"cluster_win_mean": "8.49",
-				"delta": "7.49"
-			},
-			{
-				"html_id": "http://blog.searchmetrics.com/us/2013/05/23/google-penguin-update-2-0-loser-analysis/",
-				"feature_value": "1",
-				"cluster_win_mean": "8.49",
-				"delta": "7.49"
-			},
-			{
-				"html_id": "http://www.allaboutsite.com/alchemyviral.com",
-				"feature_value": "1",
-				"cluster_win_mean": "8.49",
-				"delta": "7.49"
-			},
-			{
-				"html_id": "http://tjomlid.com/2013/08/19/aspartam-astroturfing/",
-				"feature_value": "2",
-				"cluster_win_mean": "8.49",
-				"delta": "6.49"
+				"cluster_win_mean": "1.54",
+				"delta": "1.54"
 			},
 			{
 				"html_id": "http://www.miziuk.daytona-beach.fl.us/marketing/artificial-intelligence-ai-and-search-engines-seo.php",
 				"feature_value": "1",
-				"cluster_win_mean": "8.49",
-				"delta": "7.49"
+				"cluster_win_mean": "1.54",
+				"delta": "0.54"
+			},
+			{
+				"html_id": "http://portland-trail-blazers.info/2013/07/06/how-to-choose-the-right-seo-company/",
+				"feature_value": "0",
+				"cluster_win_mean": "1.54",
+				"delta": "1.54"
 			}
 		],
-		"number_of_scripts": [
+		"number_of_iframes": [
 			{
 				"html_id": "http://ns2.mywikibiz.com/index.php?title=Valuation_of_options&oldid=169276",
-				"feature_value": "26",
-				"cluster_win_mean": "12.24",
-				"delta": "-13.76"
+				"feature_value": "1",
+				"cluster_win_mean": "1.12",
+				"delta": "0.12"
+			},
+			{
+				"html_id": "http://ns2.mywikibiz.com/index.php?title=Valuation_of_options&printable=yes",
+				"feature_value": "2",
+				"cluster_win_mean": "   0",
+				"delta": "  -2"
 			},
 			{
 				"html_id": "http://ns1.mywikibiz.com/index.php?title=Valuation_of_options&printable=yes",
-				"feature_value": "46",
-				"cluster_win_mean": " 16.9",
-				"delta": " -29.1"
+				"feature_value": "2",
+				"cluster_win_mean": "   0",
+				"delta": "  -2"
+			},
+			{
+				"html_id": "http://ns1.mywikibiz.com/index.php?title=Valuation_of_options&printable=yes&printable=yes",
+				"feature_value": "0",
+				"cluster_win_mean": "1.12",
+				"delta": "1.12"
+			},
+			{
+				"html_id": "http://www.mywikibiz.com/index.php?title=Valuation_of_options&printable=yes&printable=yes",
+				"feature_value": "0",
+				"cluster_win_mean": "1.12",
+				"delta": "1.12"
+			},
+			{
+				"html_id": "http://utah-jazz-jerseys.info/category/business/page/12/",
+				"feature_value": "0",
+				"cluster_win_mean": "1.12",
+				"delta": "1.12"
+			},
+			{
+				"html_id": "http://utah-jazz-jerseys.info/category/business/page/13/",
+				"feature_value": "0",
+				"cluster_win_mean": "1.12",
+				"delta": "1.12"
+			},
+			{
+				"html_id": "http://www.aee.odu.edu/qasystemsample/qa_keyword_search.php",
+				"feature_value": "0",
+				"cluster_win_mean": "1.12",
+				"delta": "1.12"
+			},
+			{
+				"html_id": "http://utah-jazz-jerseys.info/category/business/page/14/",
+				"feature_value": "0",
+				"cluster_win_mean": "1.12",
+				"delta": "1.12"
+			},
+			{
+				"html_id": "http://tjomlid.com/2013/08/19/aspartam-astroturfing/",
+				"feature_value": "0",
+				"cluster_win_mean": "1.12",
+				"delta": "1.12"
+			},
+			{
+				"html_id": "http://portland-trail-blazers.info/2013/07/06/how-to-choose-the-right-seo-company/",
+				"feature_value": "0",
+				"cluster_win_mean": "1.12",
+				"delta": "1.12"
+			}
+		],
+		"maximum_length_of_h1": [
+			{
+				"html_id": "http://ns2.mywikibiz.com/index.php?title=Valuation_of_options&printable=yes",
+				"feature_value": "0",
+				"cluster_win_mean": "19.82",
+				"delta": "19.82"
+			},
+			{
+				"html_id": "http://ns1.mywikibiz.com/index.php?title=Valuation_of_options&oldid=169276",
+				"feature_value": "0",
+				"cluster_win_mean": "83.66",
+				"delta": "83.66"
+			},
+			{
+				"html_id": "http://ns1.mywikibiz.com/index.php?title=Valuation_of_options&printable=yes",
+				"feature_value": "0",
+				"cluster_win_mean": "19.82",
+				"delta": "19.82"
+			}
+		],
+		"average_length_of_h1": [
+			{
+				"html_id": "http://ns2.mywikibiz.com/index.php?title=Valuation_of_options&printable=yes",
+				"feature_value": "0",
+				"cluster_win_mean": "18.93",
+				"delta": "18.93"
+			},
+			{
+				"html_id": "http://ns1.mywikibiz.com/index.php?title=Valuation_of_options&printable=yes",
+				"feature_value": "0",
+				"cluster_win_mean": "18.93",
+				"delta": "18.93"
+			}
+		],
+		"html5_detected": [
+			{
+				"html_id": "http://ns2.mywikibiz.com/index.php?title=Valuation_of_options&oldid=169276",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://ns2.mywikibiz.com/index.php?title=Valuation_of_options&printable=yes",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://ns1.mywikibiz.com/index.php?title=Valuation_of_options&oldid=169276",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://ns1.mywikibiz.com/index.php?title=Valuation_of_options&printable=yes",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
 			},
 			{
 				"html_id": "http://ns2.mywikibiz.com/index.php?title=Valuation_of_options&printable=yes&printable=yes",
-				"feature_value": "21",
-				"cluster_win_mean": " 16.9",
-				"delta": "  -4.1"
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://ns1.mywikibiz.com/index.php?title=Valuation_of_options&printable=yes&printable=yes",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.mywikibiz.com/index.php?title=Valuation_of_options&printable=yes&printable=yes",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://utah-jazz-jerseys.info/category/business/page/12/",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://utah-jazz-jerseys.info/category/business/page/13/",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.aee.odu.edu/qasystemsample/qa_keyword_search.php",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://utah-jazz-jerseys.info/category/business/page/14/",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://orlando-magic-jerseys.info/category/business/page/18/",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://blog.searchmetrics.com/us/2013/05/23/google-penguin-update-2-0-loser-analysis/",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.allaboutsite.com/alchemyviral.com",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://tjomlid.com/2013/08/19/aspartam-astroturfing/",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.miziuk.daytona-beach.fl.us/marketing/artificial-intelligence-ai-and-search-engines-seo.php",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://portland-trail-blazers.info/2013/07/06/how-to-choose-the-right-seo-company/",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			}
+		],
+		"maximum_length_of_h2": [
+			{
+				"html_id": "http://ns2.mywikibiz.com/index.php?title=Valuation_of_options&oldid=169276",
+				"feature_value": " 0",
+				"cluster_win_mean": "34.19",
+				"delta": "34.19"
+			},
+			{
+				"html_id": "http://ns2.mywikibiz.com/index.php?title=Valuation_of_options&printable=yes",
+				"feature_value": "13",
+				"cluster_win_mean": "   71",
+				"delta": "   58"
+			},
+			{
+				"html_id": "http://ns1.mywikibiz.com/index.php?title=Valuation_of_options&printable=yes",
+				"feature_value": " 0",
+				"cluster_win_mean": "   71",
+				"delta": "   71"
+			},
+			{
+				"html_id": "http://ns2.mywikibiz.com/index.php?title=Valuation_of_options&printable=yes&printable=yes",
+				"feature_value": " 0",
+				"cluster_win_mean": "34.19",
+				"delta": "34.19"
+			},
+			{
+				"html_id": "http://ns1.mywikibiz.com/index.php?title=Valuation_of_options&printable=yes&printable=yes",
+				"feature_value": " 0",
+				"cluster_win_mean": "34.19",
+				"delta": "34.19"
+			},
+			{
+				"html_id": "http://www.mywikibiz.com/index.php?title=Valuation_of_options&printable=yes&printable=yes",
+				"feature_value": " 0",
+				"cluster_win_mean": "34.19",
+				"delta": "34.19"
+			},
+			{
+				"html_id": "http://utah-jazz-jerseys.info/category/business/page/12/",
+				"feature_value": " 0",
+				"cluster_win_mean": "34.19",
+				"delta": "34.19"
+			},
+			{
+				"html_id": "http://utah-jazz-jerseys.info/category/business/page/13/",
+				"feature_value": " 0",
+				"cluster_win_mean": "34.19",
+				"delta": "34.19"
+			},
+			{
+				"html_id": "http://www.aee.odu.edu/qasystemsample/qa_keyword_search.php",
+				"feature_value": " 0",
+				"cluster_win_mean": "34.19",
+				"delta": "34.19"
+			},
+			{
+				"html_id": "http://utah-jazz-jerseys.info/category/business/page/14/",
+				"feature_value": " 0",
+				"cluster_win_mean": "34.19",
+				"delta": "34.19"
+			},
+			{
+				"html_id": "http://orlando-magic-jerseys.info/category/business/page/18/",
+				"feature_value": " 0",
+				"cluster_win_mean": "34.19",
+				"delta": "34.19"
+			},
+			{
+				"html_id": "http://blog.searchmetrics.com/us/2013/05/23/google-penguin-update-2-0-loser-analysis/",
+				"feature_value": " 0",
+				"cluster_win_mean": "34.19",
+				"delta": "34.19"
+			},
+			{
+				"html_id": "http://www.allaboutsite.com/alchemyviral.com",
+				"feature_value": " 0",
+				"cluster_win_mean": "34.19",
+				"delta": "34.19"
+			},
+			{
+				"html_id": "http://tjomlid.com/2013/08/19/aspartam-astroturfing/",
+				"feature_value": " 8",
+				"cluster_win_mean": "34.19",
+				"delta": "26.19"
+			},
+			{
+				"html_id": "http://www.miziuk.daytona-beach.fl.us/marketing/artificial-intelligence-ai-and-search-engines-seo.php",
+				"feature_value": " 0",
+				"cluster_win_mean": "34.19",
+				"delta": "34.19"
+			},
+			{
+				"html_id": "http://portland-trail-blazers.info/2013/07/06/how-to-choose-the-right-seo-company/",
+				"feature_value": " 0",
+				"cluster_win_mean": "34.19",
+				"delta": "34.19"
+			}
+		],
+		"average_length_of_h2": [
+			{
+				"html_id": "http://ns2.mywikibiz.com/index.php?title=Valuation_of_options&oldid=169276",
+				"feature_value": " 0",
+				"cluster_win_mean": "26.48",
+				"delta": "26.48"
+			},
+			{
+				"html_id": "http://ns2.mywikibiz.com/index.php?title=Valuation_of_options&printable=yes",
+				"feature_value": "13",
+				"cluster_win_mean": "63.67",
+				"delta": "50.67"
+			},
+			{
+				"html_id": "http://ns1.mywikibiz.com/index.php?title=Valuation_of_options&printable=yes",
+				"feature_value": " 0",
+				"cluster_win_mean": "63.67",
+				"delta": "63.67"
+			},
+			{
+				"html_id": "http://ns2.mywikibiz.com/index.php?title=Valuation_of_options&printable=yes&printable=yes",
+				"feature_value": " 0",
+				"cluster_win_mean": "26.48",
+				"delta": "26.48"
+			},
+			{
+				"html_id": "http://ns1.mywikibiz.com/index.php?title=Valuation_of_options&printable=yes&printable=yes",
+				"feature_value": " 0",
+				"cluster_win_mean": "26.48",
+				"delta": "26.48"
+			},
+			{
+				"html_id": "http://www.mywikibiz.com/index.php?title=Valuation_of_options&printable=yes&printable=yes",
+				"feature_value": " 0",
+				"cluster_win_mean": "26.48",
+				"delta": "26.48"
+			},
+			{
+				"html_id": "http://utah-jazz-jerseys.info/category/business/page/12/",
+				"feature_value": " 0",
+				"cluster_win_mean": "26.48",
+				"delta": "26.48"
+			},
+			{
+				"html_id": "http://utah-jazz-jerseys.info/category/business/page/13/",
+				"feature_value": " 0",
+				"cluster_win_mean": "26.48",
+				"delta": "26.48"
+			},
+			{
+				"html_id": "http://www.aee.odu.edu/qasystemsample/qa_keyword_search.php",
+				"feature_value": " 0",
+				"cluster_win_mean": "26.48",
+				"delta": "26.48"
+			},
+			{
+				"html_id": "http://utah-jazz-jerseys.info/category/business/page/14/",
+				"feature_value": " 0",
+				"cluster_win_mean": "26.48",
+				"delta": "26.48"
+			},
+			{
+				"html_id": "http://orlando-magic-jerseys.info/category/business/page/18/",
+				"feature_value": " 0",
+				"cluster_win_mean": "26.48",
+				"delta": "26.48"
+			},
+			{
+				"html_id": "http://blog.searchmetrics.com/us/2013/05/23/google-penguin-update-2-0-loser-analysis/",
+				"feature_value": " 0",
+				"cluster_win_mean": "26.48",
+				"delta": "26.48"
+			},
+			{
+				"html_id": "http://www.allaboutsite.com/alchemyviral.com",
+				"feature_value": " 0",
+				"cluster_win_mean": "26.48",
+				"delta": "26.48"
+			},
+			{
+				"html_id": "http://tjomlid.com/2013/08/19/aspartam-astroturfing/",
+				"feature_value": " 6",
+				"cluster_win_mean": "26.48",
+				"delta": "20.48"
+			},
+			{
+				"html_id": "http://www.miziuk.daytona-beach.fl.us/marketing/artificial-intelligence-ai-and-search-engines-seo.php",
+				"feature_value": " 0",
+				"cluster_win_mean": "26.48",
+				"delta": "26.48"
+			},
+			{
+				"html_id": "http://portland-trail-blazers.info/2013/07/06/how-to-choose-the-right-seo-company/",
+				"feature_value": " 0",
+				"cluster_win_mean": "26.48",
+				"delta": "26.48"
 			}
 		]
 	}
