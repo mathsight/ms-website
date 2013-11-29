@@ -182,9 +182,13 @@ text {
 
 
 /* Global vars */
-var websiteURL = "www.leighmans.com";
-var websiteSplit = websiteURL.split(".");
-var websiteName = websiteSplit[1];
+var locate = decodeURI(window.location);
+var urlSplit = locate.split("=");
+var websiteName = urlSplit[1] || "leighmans";
+
+// var websiteURL = "www.leighmans.com";
+// var websiteSplit = websiteURL.split(".");
+// var websiteName = websiteSplit[1];
 
 
 $.fn.dataTableExt.oApi.fnReloadAjax = function ( oSettings, sNewSource, fnCallback, bStandingRedraw )
