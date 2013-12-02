@@ -39,8 +39,10 @@
 
 	var urlSplit = locate.split("=");
 	var websiteNameFull = urlSplit[1];
+	
 	var featureName = urlSplit[2];
 	var featureNameJSON = featureName.replace(/ /g, "_");
+	
 	var urlSplitTwo = websiteNameFull.split("&");
 	var websiteName = urlSplitTwo[0];
 
@@ -287,8 +289,7 @@ rel="stylesheet" type="text/css">
 
 		  <p>
 			  <script>document.write('<a href="/statseo.html?=' + websiteName +'">Return to top level summary for '+ websiteName +'</a>');</script>
-			  <!-- '<a href="offsite_SQ_drilldown.html?=' + websiteName + '&='+ full[1] +'">'+full[1]+'</a>'
-		  <a href="/statseo.html">Return to top level summary</a> -->
+		
 		  </p>
 		  <div class="spacer"></div>
 		  <hr>

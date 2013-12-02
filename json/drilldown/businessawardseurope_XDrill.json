@@ -1,2311 +1,2489 @@
 {
 	"onsite": {
-		"average_backlink_flesch_reading_ease": [
-			{
-				"html_id": "http://www.businessawardseurope.com",
-				"feature_value": "0",
-				"cluster_win_mean": "47.78",
-				"delta": "47.78"
-			},
-			{
-				"html_id": "http://www.businessawardseurope.com/profile/login",
-				"feature_value": "0",
-				"cluster_win_mean": "47.78",
-				"delta": "47.78"
-			},
-			{
-				"html_id": "http://www.businessawardseurope.com/profile/register",
-				"feature_value": "0",
-				"cluster_win_mean": "53.39",
-				"delta": "53.39"
-			},
-			{
-				"html_id": "http://www.businessawardseurope.com/TV",
-				"feature_value": "0",
-				"cluster_win_mean": "53.39",
-				"delta": "53.39"
-			},
-			{
-				"html_id": "http://www.businessawardseurope.com/gallery",
-				"feature_value": "0",
-				"cluster_win_mean": "47.78",
-				"delta": "47.78"
-			},
-			{
-				"html_id": "http://www.businessawardseurope.com/archive/3/2011",
-				"feature_value": "0",
-				"cluster_win_mean": "47.78",
-				"delta": "47.78"
-			},
-			{
-				"html_id": "http://www.businessawardseurope.com/know",
-				"feature_value": "0",
-				"cluster_win_mean": "47.78",
-				"delta": "47.78"
-			},
-			{
-				"html_id": "http://www.businessawardseurope.com/news",
-				"feature_value": "0",
-				"cluster_win_mean": "47.78",
-				"delta": "47.78"
-			},
-			{
-				"html_id": "http://www.businessawardseurope.com/blog",
-				"feature_value": "0",
-				"cluster_win_mean": "47.78",
-				"delta": "47.78"
-			},
-			{
-				"html_id": "http://www.businessawardseurope.com/blog/2013/06",
-				"feature_value": "0",
-				"cluster_win_mean": "47.78",
-				"delta": "47.78"
-			},
-			{
-				"html_id": "http://www.businessawardseurope.com/blog/2013/03",
-				"feature_value": "0",
-				"cluster_win_mean": "53.39",
-				"delta": "53.39"
-			},
-			{
-				"html_id": "http://www.businessawardseurope.com/blog/2012/09",
-				"feature_value": "0",
-				"cluster_win_mean": "47.78",
-				"delta": "47.78"
-			},
-			{
-				"html_id": "http://www.businessawardseurope.com/blog/2012/02",
-				"feature_value": "0",
-				"cluster_win_mean": "53.39",
-				"delta": "53.39"
-			},
-			{
-				"html_id": "http://www.businessawardseurope.com/blog/2011/10",
-				"feature_value": "0",
-				"cluster_win_mean": "53.39",
-				"delta": "53.39"
-			},
-			{
-				"html_id": "http://www.businessawardseurope.com/blog/2011/08",
-				"feature_value": "0",
-				"cluster_win_mean": "53.39",
-				"delta": "53.39"
-			},
-			{
-				"html_id": "http://www.businessawardseurope.com/blog/2011/07",
-				"feature_value": "0",
-				"cluster_win_mean": "47.78",
-				"delta": "47.78"
-			},
-			{
-				"html_id": "http://www.businessawardseurope.com/blog/2011/05",
-				"feature_value": "0",
-				"cluster_win_mean": "53.39",
-				"delta": "53.39"
-			},
-			{
-				"html_id": "http://www.businessawardseurope.com/blog/item/judging-the-judges-how-we-pick-our-awards-team",
-				"feature_value": "0",
-				"cluster_win_mean": "47.78",
-				"delta": "47.78"
-			},
-			{
-				"html_id": "http://www.businessawardseurope.com/judges",
-				"feature_value": "0",
-				"cluster_win_mean": "47.78",
-				"delta": "47.78"
-			},
-			{
-				"html_id": "http://www.businessawardseurope.com/sponsor/rsm",
-				"feature_value": "0",
-				"cluster_win_mean": "47.78",
-				"delta": "47.78"
-			},
-			{
-				"html_id": "http://www.businessawardseurope.com/profile",
-				"feature_value": "0",
-				"cluster_win_mean": "47.78",
-				"delta": "47.78"
-			},
-			{
-				"html_id": "http://www.businessawardseurope.com/profile/forgot-password",
-				"feature_value": "0",
-				"cluster_win_mean": "53.39",
-				"delta": "53.39"
-			},
-			{
-				"html_id": "http://www.businessawardseurope.com/terms",
-				"feature_value": "0",
-				"cluster_win_mean": "47.78",
-				"delta": "47.78"
-			},
-			{
-				"html_id": "http://www.businessawardseurope.com/privacy",
-				"feature_value": "0",
-				"cluster_win_mean": "47.78",
-				"delta": "47.78"
-			},
-			{
-				"html_id": "http://www.businessawardseurope.com/contact",
-				"feature_value": "0",
-				"cluster_win_mean": "53.39",
-				"delta": "53.39"
-			},
-			{
-				"html_id": "http://www.businessawardseurope.com/sponsor/infosys",
-				"feature_value": "0",
-				"cluster_win_mean": "47.78",
-				"delta": "47.78"
-			},
-			{
-				"html_id": "http://www.businessawardseurope.com/sponsor/ukti",
-				"feature_value": "0",
-				"cluster_win_mean": "47.78",
-				"delta": "47.78"
-			},
-			{
-				"html_id": "http://www.businessawardseurope.com/sponsor/millicom-international-cellular-s.a",
-				"feature_value": "0",
-				"cluster_win_mean": "47.78",
-				"delta": "47.78"
-			},
-			{
-				"html_id": "http://www.businessawardseurope.com/sponsor/bp-target-neutral",
-				"feature_value": "0",
-				"cluster_win_mean": "47.78",
-				"delta": "47.78"
-			},
-			{
-				"html_id": "http://www.businessawardseurope.com/blog/item/overcoming-obstacles-for-an-outstanding-gala-event",
-				"feature_value": "0",
-				"cluster_win_mean": "47.78",
-				"delta": "47.78"
-			},
-			{
-				"html_id": "http://www.businessawardseurope.com/blog/item/european-business-awards-becoming-carbon-neutral",
-				"feature_value": "0",
-				"cluster_win_mean": "47.78",
-				"delta": "47.78"
-			},
-			{
-				"html_id": "http://www.businessawardseurope.com/blog/item/networking-success-at-european-business-awards-luncheon",
-				"feature_value": "0",
-				"cluster_win_mean": "47.78",
-				"delta": "47.78"
-			},
-			{
-				"html_id": "http://www.businessawardseurope.com/blog/item/everyones-a-winner-by-adrian-tripp-ceo-european-business-awards",
-				"feature_value": "0",
-				"cluster_win_mean": "47.78",
-				"delta": "47.78"
-			},
-			{
-				"html_id": "http://www.businessawardseurope.com/blog/item/rsm-world-day",
-				"feature_value": "0",
-				"cluster_win_mean": "47.78",
-				"delta": "47.78"
-			},
-			{
-				"html_id": "http://www.businessawardseurope.com/blog/item/opinion-why-theres-good-news-from-our-european-business-elite",
-				"feature_value": "0",
-				"cluster_win_mean": "47.78",
-				"delta": "47.78"
-			},
-			{
-				"html_id": "http://www.businessawardseurope.com/blog/item/my-two-biggest-business-challenges",
-				"feature_value": "0",
-				"cluster_win_mean": "47.78",
-				"delta": "47.78"
-			},
-			{
-				"html_id": "http://www.businessawardseurope.com/blog/item/a-new-model-for-funding-innovators",
-				"feature_value": "0",
-				"cluster_win_mean": "47.78",
-				"delta": "47.78"
-			},
-			{
-				"html_id": "http://www.businessawardseurope.com/blog/item/enter-the-dragon-how-managing-finances-in-chinas-currency-could-pay-dividen",
-				"feature_value": "0",
-				"cluster_win_mean": "47.78",
-				"delta": "47.78"
-			},
-			{
-				"html_id": "http://www.businessawardseurope.com/blog/item/blanket-coverage-how-a-sleep-product-entrepreneur-became-a-hit-with-the-med",
-				"feature_value": "0",
-				"cluster_win_mean": "53.39",
-				"delta": "53.39"
-			},
-			{
-				"html_id": "http://www.businessawardseurope.com/blog/item/welcome-to-the-jungle",
-				"feature_value": "0",
-				"cluster_win_mean": "47.78",
-				"delta": "47.78"
-			},
-			{
-				"html_id": "http://www.businessawardseurope.com/news/item/europes-leading-businesses-expanding-internationally",
-				"feature_value": "0",
-				"cluster_win_mean": "47.78",
-				"delta": "47.78"
-			},
-			{
-				"html_id": "http://www.businessawardseurope.com/blog/item/performing-regardless-business-and-the-paralympics",
-				"feature_value": "0",
-				"cluster_win_mean": "53.39",
-				"delta": "53.39"
-			}
-		],
-		"number_of_inline_css_styles": [
-			{
-				"html_id": "http://www.businessawardseurope.com",
-				"feature_value": "0",
-				"cluster_win_mean": "1.81",
-				"delta": "1.81"
-			},
-			{
-				"html_id": "http://www.businessawardseurope.com/profile/login",
-				"feature_value": "0",
-				"cluster_win_mean": "1.81",
-				"delta": "1.81"
-			},
-			{
-				"html_id": "http://www.businessawardseurope.com/gallery",
-				"feature_value": "0",
-				"cluster_win_mean": "1.81",
-				"delta": "1.81"
-			},
-			{
-				"html_id": "http://www.businessawardseurope.com/archive/3/2011",
-				"feature_value": "0",
-				"cluster_win_mean": "1.81",
-				"delta": "1.81"
-			},
-			{
-				"html_id": "http://www.businessawardseurope.com/know",
-				"feature_value": "0",
-				"cluster_win_mean": "1.81",
-				"delta": "1.81"
-			},
-			{
-				"html_id": "http://www.businessawardseurope.com/news",
-				"feature_value": "0",
-				"cluster_win_mean": "1.81",
-				"delta": "1.81"
-			},
-			{
-				"html_id": "http://www.businessawardseurope.com/blog",
-				"feature_value": "0",
-				"cluster_win_mean": "1.81",
-				"delta": "1.81"
-			},
-			{
-				"html_id": "http://www.businessawardseurope.com/blog/2013/06",
-				"feature_value": "0",
-				"cluster_win_mean": "1.81",
-				"delta": "1.81"
-			},
-			{
-				"html_id": "http://www.businessawardseurope.com/blog/2012/09",
-				"feature_value": "0",
-				"cluster_win_mean": "1.81",
-				"delta": "1.81"
-			},
-			{
-				"html_id": "http://www.businessawardseurope.com/blog/2011/07",
-				"feature_value": "0",
-				"cluster_win_mean": "1.81",
-				"delta": "1.81"
-			},
-			{
-				"html_id": "http://www.businessawardseurope.com/blog/item/judging-the-judges-how-we-pick-our-awards-team",
-				"feature_value": "0",
-				"cluster_win_mean": "1.81",
-				"delta": "1.81"
-			},
-			{
-				"html_id": "http://www.businessawardseurope.com/judges",
-				"feature_value": "0",
-				"cluster_win_mean": "1.81",
-				"delta": "1.81"
-			},
-			{
-				"html_id": "http://www.businessawardseurope.com/sponsor/rsm",
-				"feature_value": "0",
-				"cluster_win_mean": "1.81",
-				"delta": "1.81"
-			},
-			{
-				"html_id": "http://www.businessawardseurope.com/profile",
-				"feature_value": "0",
-				"cluster_win_mean": "1.81",
-				"delta": "1.81"
-			},
-			{
-				"html_id": "http://www.businessawardseurope.com/terms",
-				"feature_value": "0",
-				"cluster_win_mean": "1.81",
-				"delta": "1.81"
-			},
-			{
-				"html_id": "http://www.businessawardseurope.com/privacy",
-				"feature_value": "0",
-				"cluster_win_mean": "1.81",
-				"delta": "1.81"
-			},
-			{
-				"html_id": "http://www.businessawardseurope.com/sponsor/infosys",
-				"feature_value": "0",
-				"cluster_win_mean": "1.81",
-				"delta": "1.81"
-			},
-			{
-				"html_id": "http://www.businessawardseurope.com/sponsor/ukti",
-				"feature_value": "0",
-				"cluster_win_mean": "1.81",
-				"delta": "1.81"
-			},
-			{
-				"html_id": "http://www.businessawardseurope.com/sponsor/millicom-international-cellular-s.a",
-				"feature_value": "0",
-				"cluster_win_mean": "1.81",
-				"delta": "1.81"
-			},
-			{
-				"html_id": "http://www.businessawardseurope.com/sponsor/bp-target-neutral",
-				"feature_value": "0",
-				"cluster_win_mean": "1.81",
-				"delta": "1.81"
-			},
-			{
-				"html_id": "http://www.businessawardseurope.com/blog/item/overcoming-obstacles-for-an-outstanding-gala-event",
-				"feature_value": "0",
-				"cluster_win_mean": "1.81",
-				"delta": "1.81"
-			},
-			{
-				"html_id": "http://www.businessawardseurope.com/blog/item/european-business-awards-becoming-carbon-neutral",
-				"feature_value": "0",
-				"cluster_win_mean": "1.81",
-				"delta": "1.81"
-			},
-			{
-				"html_id": "http://www.businessawardseurope.com/blog/item/networking-success-at-european-business-awards-luncheon",
-				"feature_value": "0",
-				"cluster_win_mean": "1.81",
-				"delta": "1.81"
-			},
-			{
-				"html_id": "http://www.businessawardseurope.com/blog/item/everyones-a-winner-by-adrian-tripp-ceo-european-business-awards",
-				"feature_value": "0",
-				"cluster_win_mean": "1.81",
-				"delta": "1.81"
-			},
-			{
-				"html_id": "http://www.businessawardseurope.com/blog/item/rsm-world-day",
-				"feature_value": "0",
-				"cluster_win_mean": "1.81",
-				"delta": "1.81"
-			},
-			{
-				"html_id": "http://www.businessawardseurope.com/blog/item/opinion-why-theres-good-news-from-our-european-business-elite",
-				"feature_value": "0",
-				"cluster_win_mean": "1.81",
-				"delta": "1.81"
-			},
-			{
-				"html_id": "http://www.businessawardseurope.com/blog/item/my-two-biggest-business-challenges",
-				"feature_value": "0",
-				"cluster_win_mean": "1.81",
-				"delta": "1.81"
-			},
-			{
-				"html_id": "http://www.businessawardseurope.com/blog/item/a-new-model-for-funding-innovators",
-				"feature_value": "0",
-				"cluster_win_mean": "1.81",
-				"delta": "1.81"
-			},
-			{
-				"html_id": "http://www.businessawardseurope.com/blog/item/enter-the-dragon-how-managing-finances-in-chinas-currency-could-pay-dividen",
-				"feature_value": "0",
-				"cluster_win_mean": "1.81",
-				"delta": "1.81"
-			},
-			{
-				"html_id": "http://www.businessawardseurope.com/blog/item/welcome-to-the-jungle",
-				"feature_value": "0",
-				"cluster_win_mean": "1.81",
-				"delta": "1.81"
-			}
-		],
-		"number_of_images_missing_alt": [
-			{
-				"html_id": "http://www.businessawardseurope.com/profile/register",
-				"feature_value": " 11",
-				"cluster_win_mean": " 15.5",
-				"delta": "   4.5"
-			},
-			{
-				"html_id": "http://www.businessawardseurope.com/TV",
-				"feature_value": " 10",
-				"cluster_win_mean": " 15.5",
-				"delta": "   5.5"
-			},
-			{
-				"html_id": "http://www.businessawardseurope.com/blog/2013/03",
-				"feature_value": " 11",
-				"cluster_win_mean": " 15.5",
-				"delta": "   4.5"
-			},
-			{
-				"html_id": "http://www.businessawardseurope.com/blog/2012/02",
-				"feature_value": " 11",
-				"cluster_win_mean": " 15.5",
-				"delta": "   4.5"
-			},
-			{
-				"html_id": "http://www.businessawardseurope.com/blog/2011/10",
-				"feature_value": " 11",
-				"cluster_win_mean": " 15.5",
-				"delta": "   4.5"
-			},
-			{
-				"html_id": "http://www.businessawardseurope.com/blog/2011/08",
-				"feature_value": " 11",
-				"cluster_win_mean": " 15.5",
-				"delta": "   4.5"
-			},
-			{
-				"html_id": "http://www.businessawardseurope.com/blog/2011/05",
-				"feature_value": " 11",
-				"cluster_win_mean": " 15.5",
-				"delta": "   4.5"
-			},
-			{
-				"html_id": "http://www.businessawardseurope.com/judges",
-				"feature_value": "113",
-				"cluster_win_mean": "16.38",
-				"delta": "-96.62"
-			},
-			{
-				"html_id": "http://www.businessawardseurope.com/profile/forgot-password",
-				"feature_value": "  2",
-				"cluster_win_mean": " 15.5",
-				"delta": "  13.5"
-			},
-			{
-				"html_id": "http://www.businessawardseurope.com/blog/item/performing-regardless-business-and-the-paralympics",
-				"feature_value": " 13",
-				"cluster_win_mean": " 15.5",
-				"delta": "   2.5"
-			}
-		],
-		"number_of_h1_instances": [
-			{
-				"html_id": "http://www.businessawardseurope.com/profile/login",
-				"feature_value": "0",
-				"cluster_win_mean": "2.97",
-				"delta": "2.97"
-			},
-			{
-				"html_id": "http://www.businessawardseurope.com/gallery",
-				"feature_value": "0",
-				"cluster_win_mean": "2.97",
-				"delta": "2.97"
-			},
-			{
-				"html_id": "http://www.businessawardseurope.com/archive/3/2011",
-				"feature_value": "0",
-				"cluster_win_mean": "2.97",
-				"delta": "2.97"
-			},
-			{
-				"html_id": "http://www.businessawardseurope.com/know",
-				"feature_value": "0",
-				"cluster_win_mean": "2.97",
-				"delta": "2.97"
-			},
-			{
-				"html_id": "http://www.businessawardseurope.com/news",
-				"feature_value": "0",
-				"cluster_win_mean": "2.97",
-				"delta": "2.97"
-			},
-			{
-				"html_id": "http://www.businessawardseurope.com/blog",
-				"feature_value": "0",
-				"cluster_win_mean": "2.97",
-				"delta": "2.97"
-			},
-			{
-				"html_id": "http://www.businessawardseurope.com/blog/2013/06",
-				"feature_value": "0",
-				"cluster_win_mean": "2.97",
-				"delta": "2.97"
-			},
-			{
-				"html_id": "http://www.businessawardseurope.com/blog/2012/09",
-				"feature_value": "0",
-				"cluster_win_mean": "2.97",
-				"delta": "2.97"
-			},
-			{
-				"html_id": "http://www.businessawardseurope.com/blog/2011/07",
-				"feature_value": "0",
-				"cluster_win_mean": "2.97",
-				"delta": "2.97"
-			},
-			{
-				"html_id": "http://www.businessawardseurope.com/blog/item/judging-the-judges-how-we-pick-our-awards-team",
-				"feature_value": "0",
-				"cluster_win_mean": "2.97",
-				"delta": "2.97"
-			},
-			{
-				"html_id": "http://www.businessawardseurope.com/judges",
-				"feature_value": "0",
-				"cluster_win_mean": "2.97",
-				"delta": "2.97"
-			},
-			{
-				"html_id": "http://www.businessawardseurope.com/sponsor/rsm",
-				"feature_value": "0",
-				"cluster_win_mean": "2.97",
-				"delta": "2.97"
-			},
-			{
-				"html_id": "http://www.businessawardseurope.com/profile",
-				"feature_value": "0",
-				"cluster_win_mean": "2.97",
-				"delta": "2.97"
-			},
-			{
-				"html_id": "http://www.businessawardseurope.com/terms",
-				"feature_value": "0",
-				"cluster_win_mean": "2.97",
-				"delta": "2.97"
-			},
-			{
-				"html_id": "http://www.businessawardseurope.com/privacy",
-				"feature_value": "0",
-				"cluster_win_mean": "2.97",
-				"delta": "2.97"
-			},
-			{
-				"html_id": "http://www.businessawardseurope.com/sponsor/infosys",
-				"feature_value": "0",
-				"cluster_win_mean": "2.97",
-				"delta": "2.97"
-			},
-			{
-				"html_id": "http://www.businessawardseurope.com/sponsor/ukti",
-				"feature_value": "0",
-				"cluster_win_mean": "2.97",
-				"delta": "2.97"
-			},
-			{
-				"html_id": "http://www.businessawardseurope.com/sponsor/millicom-international-cellular-s.a",
-				"feature_value": "0",
-				"cluster_win_mean": "2.97",
-				"delta": "2.97"
-			},
-			{
-				"html_id": "http://www.businessawardseurope.com/sponsor/bp-target-neutral",
-				"feature_value": "0",
-				"cluster_win_mean": "2.97",
-				"delta": "2.97"
-			},
-			{
-				"html_id": "http://www.businessawardseurope.com/blog/item/overcoming-obstacles-for-an-outstanding-gala-event",
-				"feature_value": "0",
-				"cluster_win_mean": "2.97",
-				"delta": "2.97"
-			},
-			{
-				"html_id": "http://www.businessawardseurope.com/blog/item/european-business-awards-becoming-carbon-neutral",
-				"feature_value": "0",
-				"cluster_win_mean": "2.97",
-				"delta": "2.97"
-			},
-			{
-				"html_id": "http://www.businessawardseurope.com/blog/item/networking-success-at-european-business-awards-luncheon",
-				"feature_value": "0",
-				"cluster_win_mean": "2.97",
-				"delta": "2.97"
-			},
-			{
-				"html_id": "http://www.businessawardseurope.com/blog/item/everyones-a-winner-by-adrian-tripp-ceo-european-business-awards",
-				"feature_value": "0",
-				"cluster_win_mean": "2.97",
-				"delta": "2.97"
-			},
-			{
-				"html_id": "http://www.businessawardseurope.com/blog/item/rsm-world-day",
-				"feature_value": "0",
-				"cluster_win_mean": "2.97",
-				"delta": "2.97"
-			},
-			{
-				"html_id": "http://www.businessawardseurope.com/blog/item/opinion-why-theres-good-news-from-our-european-business-elite",
-				"feature_value": "0",
-				"cluster_win_mean": "2.97",
-				"delta": "2.97"
-			},
-			{
-				"html_id": "http://www.businessawardseurope.com/blog/item/my-two-biggest-business-challenges",
-				"feature_value": "0",
-				"cluster_win_mean": "2.97",
-				"delta": "2.97"
-			},
-			{
-				"html_id": "http://www.businessawardseurope.com/blog/item/a-new-model-for-funding-innovators",
-				"feature_value": "0",
-				"cluster_win_mean": "2.97",
-				"delta": "2.97"
-			},
-			{
-				"html_id": "http://www.businessawardseurope.com/blog/item/enter-the-dragon-how-managing-finances-in-chinas-currency-could-pay-dividen",
-				"feature_value": "0",
-				"cluster_win_mean": "2.97",
-				"delta": "2.97"
-			},
-			{
-				"html_id": "http://www.businessawardseurope.com/blog/item/welcome-to-the-jungle",
-				"feature_value": "0",
-				"cluster_win_mean": "2.97",
-				"delta": "2.97"
-			},
-			{
-				"html_id": "http://www.businessawardseurope.com/news/item/europes-leading-businesses-expanding-internationally",
-				"feature_value": "0",
-				"cluster_win_mean": "2.97",
-				"delta": "2.97"
-			}
-		],
-		"number_of_images": [
-			{
-				"html_id": "http://www.businessawardseurope.com/profile/register",
-				"feature_value": " 12",
-				"cluster_win_mean": "15.47",
-				"delta": "  3.47"
-			},
-			{
-				"html_id": "http://www.businessawardseurope.com/TV",
-				"feature_value": " 11",
-				"cluster_win_mean": "15.47",
-				"delta": "  4.47"
-			},
-			{
-				"html_id": "http://www.businessawardseurope.com/blog/2013/03",
-				"feature_value": " 12",
-				"cluster_win_mean": "15.47",
-				"delta": "  3.47"
-			},
-			{
-				"html_id": "http://www.businessawardseurope.com/blog/2012/02",
-				"feature_value": " 12",
-				"cluster_win_mean": "15.47",
-				"delta": "  3.47"
-			},
-			{
-				"html_id": "http://www.businessawardseurope.com/blog/2011/10",
-				"feature_value": " 12",
-				"cluster_win_mean": "15.47",
-				"delta": "  3.47"
-			},
-			{
-				"html_id": "http://www.businessawardseurope.com/blog/2011/08",
-				"feature_value": " 12",
-				"cluster_win_mean": "15.47",
-				"delta": "  3.47"
-			},
-			{
-				"html_id": "http://www.businessawardseurope.com/blog/2011/05",
-				"feature_value": " 12",
-				"cluster_win_mean": "15.47",
-				"delta": "  3.47"
-			},
-			{
-				"html_id": "http://www.businessawardseurope.com/judges",
-				"feature_value": "114",
-				"cluster_win_mean": "17.32",
-				"delta": "-96.68"
-			},
-			{
-				"html_id": "http://www.businessawardseurope.com/profile/forgot-password",
-				"feature_value": "  3",
-				"cluster_win_mean": "15.47",
-				"delta": " 12.47"
-			}
-		],
 		"total_number_of_words": [
-			{
-				"html_id": "http://www.businessawardseurope.com",
-				"feature_value": "112",
-				"cluster_win_mean": "177.25",
-				"delta": "65.25"
-			},
 			{
 				"html_id": "http://www.businessawardseurope.com/profile/login",
 				"feature_value": " 98",
-				"cluster_win_mean": "177.25",
-				"delta": "79.25"
+				"cluster_win_mean": "134.73",
+				"delta": " 36.73"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/profile/register",
+				"feature_value": " 57",
+				"cluster_win_mean": "134.73",
+				"delta": " 77.73"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/TV",
+				"feature_value": " 59",
+				"cluster_win_mean": "134.73",
+				"delta": " 75.73"
 			},
 			{
 				"html_id": "http://www.businessawardseurope.com/gallery",
 				"feature_value": " 88",
-				"cluster_win_mean": "177.25",
-				"delta": "89.25"
+				"cluster_win_mean": "134.73",
+				"delta": " 46.73"
 			},
 			{
 				"html_id": "http://www.businessawardseurope.com/archive/3/2011",
 				"feature_value": " 87",
-				"cluster_win_mean": "177.25",
-				"delta": "90.25"
+				"cluster_win_mean": "134.73",
+				"delta": " 47.73"
 			},
 			{
-				"html_id": "http://www.businessawardseurope.com/know",
-				"feature_value": "155",
-				"cluster_win_mean": "177.25",
-				"delta": "22.25"
+				"html_id": "http://www.businessawardseurope.com/blog/2013/03",
+				"feature_value": " 72",
+				"cluster_win_mean": "134.73",
+				"delta": " 62.73"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/blog/2012/02",
+				"feature_value": " 46",
+				"cluster_win_mean": "134.73",
+				"delta": " 88.73"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/blog/2011/10",
+				"feature_value": " 71",
+				"cluster_win_mean": "134.73",
+				"delta": " 63.73"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/blog/2011/08",
+				"feature_value": " 77",
+				"cluster_win_mean": "134.73",
+				"delta": " 57.73"
 			},
 			{
 				"html_id": "http://www.businessawardseurope.com/blog/2011/07",
 				"feature_value": " 98",
-				"cluster_win_mean": "177.25",
-				"delta": "79.25"
+				"cluster_win_mean": "134.73",
+				"delta": " 36.73"
 			},
 			{
 				"html_id": "http://www.businessawardseurope.com/blog/2011/05",
 				"feature_value": " 41",
-				"cluster_win_mean": " 54.12",
-				"delta": "13.12"
+				"cluster_win_mean": "134.73",
+				"delta": " 93.73"
 			},
 			{
 				"html_id": "http://www.businessawardseurope.com/sponsor/rsm",
 				"feature_value": "100",
-				"cluster_win_mean": "177.25",
-				"delta": "77.25"
+				"cluster_win_mean": "134.73",
+				"delta": " 34.73"
 			},
 			{
 				"html_id": "http://www.businessawardseurope.com/profile",
 				"feature_value": " 98",
-				"cluster_win_mean": "177.25",
-				"delta": "79.25"
+				"cluster_win_mean": "134.73",
+				"delta": " 36.73"
 			},
 			{
 				"html_id": "http://www.businessawardseurope.com/profile/forgot-password",
 				"feature_value": " 33",
-				"cluster_win_mean": " 54.12",
-				"delta": "21.12"
+				"cluster_win_mean": "134.73",
+				"delta": "101.73"
 			},
 			{
-				"html_id": "http://www.businessawardseurope.com/sponsor/infosys",
-				"feature_value": "153",
-				"cluster_win_mean": "177.25",
-				"delta": "24.25"
+				"html_id": "http://www.businessawardseurope.com/contact",
+				"feature_value": " 59",
+				"cluster_win_mean": "134.73",
+				"delta": " 75.73"
 			},
 			{
 				"html_id": "http://www.businessawardseurope.com/sponsor/ukti",
 				"feature_value": " 83",
-				"cluster_win_mean": "177.25",
-				"delta": "94.25"
-			}
-		],
-		"total_number_of_dictionary_words": [
-			{
-				"html_id": "http://www.businessawardseurope.com",
-				"feature_value": "0",
-				"cluster_win_mean": "4.15",
-				"delta": "4.15"
-			},
-			{
-				"html_id": "http://www.businessawardseurope.com/profile/login",
-				"feature_value": "0",
-				"cluster_win_mean": "4.15",
-				"delta": "4.15"
-			},
-			{
-				"html_id": "http://www.businessawardseurope.com/profile/register",
-				"feature_value": "0",
-				"cluster_win_mean": " 2.5",
-				"delta": " 2.5"
-			},
-			{
-				"html_id": "http://www.businessawardseurope.com/TV",
-				"feature_value": "0",
-				"cluster_win_mean": " 2.5",
-				"delta": " 2.5"
-			},
-			{
-				"html_id": "http://www.businessawardseurope.com/gallery",
-				"feature_value": "0",
-				"cluster_win_mean": "4.15",
-				"delta": "4.15"
-			},
-			{
-				"html_id": "http://www.businessawardseurope.com/archive/3/2011",
-				"feature_value": "0",
-				"cluster_win_mean": "4.15",
-				"delta": "4.15"
-			},
-			{
-				"html_id": "http://www.businessawardseurope.com/know",
-				"feature_value": "0",
-				"cluster_win_mean": "4.15",
-				"delta": "4.15"
-			},
-			{
-				"html_id": "http://www.businessawardseurope.com/news",
-				"feature_value": "1",
-				"cluster_win_mean": "4.15",
-				"delta": "3.15"
-			},
-			{
-				"html_id": "http://www.businessawardseurope.com/blog",
-				"feature_value": "0",
-				"cluster_win_mean": "4.15",
-				"delta": "4.15"
-			},
-			{
-				"html_id": "http://www.businessawardseurope.com/blog/2013/06",
-				"feature_value": "0",
-				"cluster_win_mean": "4.15",
-				"delta": "4.15"
-			},
-			{
-				"html_id": "http://www.businessawardseurope.com/blog/2013/03",
-				"feature_value": "0",
-				"cluster_win_mean": " 2.5",
-				"delta": " 2.5"
-			},
-			{
-				"html_id": "http://www.businessawardseurope.com/blog/2012/09",
-				"feature_value": "0",
-				"cluster_win_mean": "4.15",
-				"delta": "4.15"
-			},
-			{
-				"html_id": "http://www.businessawardseurope.com/blog/2012/02",
-				"feature_value": "0",
-				"cluster_win_mean": " 2.5",
-				"delta": " 2.5"
-			},
-			{
-				"html_id": "http://www.businessawardseurope.com/blog/2011/10",
-				"feature_value": "0",
-				"cluster_win_mean": " 2.5",
-				"delta": " 2.5"
-			},
-			{
-				"html_id": "http://www.businessawardseurope.com/blog/2011/08",
-				"feature_value": "2",
-				"cluster_win_mean": " 2.5",
-				"delta": " 0.5"
-			},
-			{
-				"html_id": "http://www.businessawardseurope.com/blog/2011/07",
-				"feature_value": "0",
-				"cluster_win_mean": "4.15",
-				"delta": "4.15"
-			},
-			{
-				"html_id": "http://www.businessawardseurope.com/blog/2011/05",
-				"feature_value": "0",
-				"cluster_win_mean": " 2.5",
-				"delta": " 2.5"
-			},
-			{
-				"html_id": "http://www.businessawardseurope.com/blog/item/judging-the-judges-how-we-pick-our-awards-team",
-				"feature_value": "0",
-				"cluster_win_mean": "4.15",
-				"delta": "4.15"
-			},
-			{
-				"html_id": "http://www.businessawardseurope.com/judges",
-				"feature_value": "0",
-				"cluster_win_mean": "4.15",
-				"delta": "4.15"
-			},
-			{
-				"html_id": "http://www.businessawardseurope.com/sponsor/rsm",
-				"feature_value": "0",
-				"cluster_win_mean": "4.15",
-				"delta": "4.15"
-			},
-			{
-				"html_id": "http://www.businessawardseurope.com/profile",
-				"feature_value": "0",
-				"cluster_win_mean": "4.15",
-				"delta": "4.15"
-			},
-			{
-				"html_id": "http://www.businessawardseurope.com/profile/forgot-password",
-				"feature_value": "0",
-				"cluster_win_mean": " 2.5",
-				"delta": " 2.5"
-			},
-			{
-				"html_id": "http://www.businessawardseurope.com/terms",
-				"feature_value": "0",
-				"cluster_win_mean": "4.15",
-				"delta": "4.15"
-			},
-			{
-				"html_id": "http://www.businessawardseurope.com/privacy",
-				"feature_value": "0",
-				"cluster_win_mean": "4.15",
-				"delta": "4.15"
-			},
-			{
-				"html_id": "http://www.businessawardseurope.com/contact",
-				"feature_value": "0",
-				"cluster_win_mean": " 2.5",
-				"delta": " 2.5"
-			},
-			{
-				"html_id": "http://www.businessawardseurope.com/sponsor/infosys",
-				"feature_value": "1",
-				"cluster_win_mean": "4.15",
-				"delta": "3.15"
-			},
-			{
-				"html_id": "http://www.businessawardseurope.com/sponsor/ukti",
-				"feature_value": "0",
-				"cluster_win_mean": "4.15",
-				"delta": "4.15"
-			},
-			{
-				"html_id": "http://www.businessawardseurope.com/sponsor/millicom-international-cellular-s.a",
-				"feature_value": "2",
-				"cluster_win_mean": "4.15",
-				"delta": "2.15"
-			},
-			{
-				"html_id": "http://www.businessawardseurope.com/sponsor/bp-target-neutral",
-				"feature_value": "1",
-				"cluster_win_mean": "4.15",
-				"delta": "3.15"
-			},
-			{
-				"html_id": "http://www.businessawardseurope.com/blog/item/overcoming-obstacles-for-an-outstanding-gala-event",
-				"feature_value": "1",
-				"cluster_win_mean": "4.15",
-				"delta": "3.15"
-			},
-			{
-				"html_id": "http://www.businessawardseurope.com/blog/item/european-business-awards-becoming-carbon-neutral",
-				"feature_value": "0",
-				"cluster_win_mean": "4.15",
-				"delta": "4.15"
-			},
-			{
-				"html_id": "http://www.businessawardseurope.com/blog/item/networking-success-at-european-business-awards-luncheon",
-				"feature_value": "1",
-				"cluster_win_mean": "4.15",
-				"delta": "3.15"
-			},
-			{
-				"html_id": "http://www.businessawardseurope.com/blog/item/everyones-a-winner-by-adrian-tripp-ceo-european-business-awards",
-				"feature_value": "0",
-				"cluster_win_mean": "4.15",
-				"delta": "4.15"
-			},
-			{
-				"html_id": "http://www.businessawardseurope.com/blog/item/rsm-world-day",
-				"feature_value": "0",
-				"cluster_win_mean": "4.15",
-				"delta": "4.15"
-			},
-			{
-				"html_id": "http://www.businessawardseurope.com/blog/item/opinion-why-theres-good-news-from-our-european-business-elite",
-				"feature_value": "2",
-				"cluster_win_mean": "4.15",
-				"delta": "2.15"
-			},
-			{
-				"html_id": "http://www.businessawardseurope.com/blog/item/my-two-biggest-business-challenges",
-				"feature_value": "1",
-				"cluster_win_mean": "4.15",
-				"delta": "3.15"
-			},
-			{
-				"html_id": "http://www.businessawardseurope.com/blog/item/a-new-model-for-funding-innovators",
-				"feature_value": "0",
-				"cluster_win_mean": "4.15",
-				"delta": "4.15"
+				"cluster_win_mean": "134.73",
+				"delta": " 51.73"
 			},
 			{
 				"html_id": "http://www.businessawardseurope.com/blog/item/blanket-coverage-how-a-sleep-product-entrepreneur-became-a-hit-with-the-med",
-				"feature_value": "0",
-				"cluster_win_mean": " 2.5",
-				"delta": " 2.5"
-			},
-			{
-				"html_id": "http://www.businessawardseurope.com/blog/item/welcome-to-the-jungle",
-				"feature_value": "2",
-				"cluster_win_mean": "4.15",
-				"delta": "2.15"
-			},
-			{
-				"html_id": "http://www.businessawardseurope.com/news/item/europes-leading-businesses-expanding-internationally",
-				"feature_value": "1",
-				"cluster_win_mean": "4.15",
-				"delta": "3.15"
+				"feature_value": " 56",
+				"cluster_win_mean": "134.73",
+				"delta": " 78.73"
 			},
 			{
 				"html_id": "http://www.businessawardseurope.com/blog/item/performing-regardless-business-and-the-paralympics",
-				"feature_value": "0",
-				"cluster_win_mean": " 2.5",
-				"delta": " 2.5"
-			}
-		],
-		"number_of_hyperlinks_with_html": [
-			{
-				"html_id": "http://www.businessawardseurope.com/profile/register",
-				"feature_value": "0",
-				"cluster_win_mean": "42.78",
-				"delta": "42.78"
-			},
-			{
-				"html_id": "http://www.businessawardseurope.com/TV",
-				"feature_value": "0",
-				"cluster_win_mean": "42.78",
-				"delta": "42.78"
-			},
-			{
-				"html_id": "http://www.businessawardseurope.com/blog/2013/03",
-				"feature_value": "0",
-				"cluster_win_mean": "42.78",
-				"delta": "42.78"
-			},
-			{
-				"html_id": "http://www.businessawardseurope.com/blog/2012/02",
-				"feature_value": "0",
-				"cluster_win_mean": "42.78",
-				"delta": "42.78"
-			},
-			{
-				"html_id": "http://www.businessawardseurope.com/blog/2011/10",
-				"feature_value": "0",
-				"cluster_win_mean": "42.78",
-				"delta": "42.78"
-			},
-			{
-				"html_id": "http://www.businessawardseurope.com/blog/2011/08",
-				"feature_value": "0",
-				"cluster_win_mean": "42.78",
-				"delta": "42.78"
-			},
-			{
-				"html_id": "http://www.businessawardseurope.com/blog/2011/05",
-				"feature_value": "0",
-				"cluster_win_mean": "42.78",
-				"delta": "42.78"
-			},
-			{
-				"html_id": "http://www.businessawardseurope.com/profile/forgot-password",
-				"feature_value": "0",
-				"cluster_win_mean": "42.78",
-				"delta": "42.78"
-			},
-			{
-				"html_id": "http://www.businessawardseurope.com/contact",
-				"feature_value": "0",
-				"cluster_win_mean": "42.78",
-				"delta": "42.78"
-			},
-			{
-				"html_id": "http://www.businessawardseurope.com/blog/item/blanket-coverage-how-a-sleep-product-entrepreneur-became-a-hit-with-the-med",
-				"feature_value": "0",
-				"cluster_win_mean": "42.78",
-				"delta": "42.78"
-			},
-			{
-				"html_id": "http://www.businessawardseurope.com/blog/item/performing-regardless-business-and-the-paralympics",
-				"feature_value": "0",
-				"cluster_win_mean": "42.78",
-				"delta": "42.78"
+				"feature_value": " 48",
+				"cluster_win_mean": "134.73",
+				"delta": " 86.73"
 			}
 		],
 		"number_of_unique_words": [
 			{
-				"html_id": "http://www.businessawardseurope.com",
-				"feature_value": "69",
-				"cluster_win_mean": "77.18",
-				"delta": " 8.18"
+				"html_id": "http://www.businessawardseurope.com/profile/register",
+				"feature_value": "31",
+				"cluster_win_mean": "60.73",
+				"delta": "29.73"
 			},
 			{
-				"html_id": "http://www.businessawardseurope.com/profile/login",
-				"feature_value": "57",
-				"cluster_win_mean": "77.18",
-				"delta": "20.18"
+				"html_id": "http://www.businessawardseurope.com/TV",
+				"feature_value": "35",
+				"cluster_win_mean": "60.73",
+				"delta": "25.73"
 			},
 			{
 				"html_id": "http://www.businessawardseurope.com/gallery",
 				"feature_value": "40",
-				"cluster_win_mean": "77.18",
-				"delta": "37.18"
+				"cluster_win_mean": "60.73",
+				"delta": "20.73"
 			},
 			{
-				"html_id": "http://www.businessawardseurope.com/archive/3/2011",
-				"feature_value": "54",
-				"cluster_win_mean": "77.18",
-				"delta": "23.18"
+				"html_id": "http://www.businessawardseurope.com/blog/2013/03",
+				"feature_value": "43",
+				"cluster_win_mean": "60.73",
+				"delta": "17.73"
 			},
 			{
-				"html_id": "http://www.businessawardseurope.com/blog/2011/07",
-				"feature_value": "69",
-				"cluster_win_mean": "77.18",
-				"delta": " 8.18"
+				"html_id": "http://www.businessawardseurope.com/blog/2012/02",
+				"feature_value": "34",
+				"cluster_win_mean": "60.73",
+				"delta": "26.73"
 			},
 			{
 				"html_id": "http://www.businessawardseurope.com/blog/2011/05",
 				"feature_value": "26",
-				"cluster_win_mean": "37.03",
-				"delta": "11.03"
-			},
-			{
-				"html_id": "http://www.businessawardseurope.com/sponsor/rsm",
-				"feature_value": "57",
-				"cluster_win_mean": "77.18",
-				"delta": "20.18"
-			},
-			{
-				"html_id": "http://www.businessawardseurope.com/profile",
-				"feature_value": "57",
-				"cluster_win_mean": "77.18",
-				"delta": "20.18"
+				"cluster_win_mean": "60.73",
+				"delta": "34.73"
 			},
 			{
 				"html_id": "http://www.businessawardseurope.com/profile/forgot-password",
 				"feature_value": "22",
-				"cluster_win_mean": "37.03",
-				"delta": "15.03"
+				"cluster_win_mean": "60.73",
+				"delta": "38.73"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/contact",
+				"feature_value": "35",
+				"cluster_win_mean": "60.73",
+				"delta": "25.73"
 			},
 			{
 				"html_id": "http://www.businessawardseurope.com/sponsor/ukti",
 				"feature_value": "47",
-				"cluster_win_mean": "77.18",
-				"delta": "30.18"
+				"cluster_win_mean": "60.73",
+				"delta": "13.73"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/blog/item/blanket-coverage-how-a-sleep-product-entrepreneur-became-a-hit-with-the-med",
+				"feature_value": "34",
+				"cluster_win_mean": "60.73",
+				"delta": "26.73"
 			},
 			{
 				"html_id": "http://www.businessawardseurope.com/blog/item/performing-regardless-business-and-the-paralympics",
 				"feature_value": "27",
-				"cluster_win_mean": "37.03",
-				"delta": "10.03"
+				"cluster_win_mean": "60.73",
+				"delta": "33.73"
 			}
 		],
-		"ratio_of_dictionary_words_to_total": [
-			{
-				"html_id": "http://www.businessawardseurope.com/profile/register",
-				"feature_value": "0",
-				"cluster_win_mean": "0.01",
-				"delta": "0.01"
-			},
-			{
-				"html_id": "http://www.businessawardseurope.com/TV",
-				"feature_value": "0",
-				"cluster_win_mean": "0.01",
-				"delta": "0.01"
-			},
-			{
-				"html_id": "http://www.businessawardseurope.com/blog/2013/03",
-				"feature_value": "0",
-				"cluster_win_mean": "0.01",
-				"delta": "0.01"
-			},
-			{
-				"html_id": "http://www.businessawardseurope.com/blog/2012/02",
-				"feature_value": "0",
-				"cluster_win_mean": "0.01",
-				"delta": "0.01"
-			},
-			{
-				"html_id": "http://www.businessawardseurope.com/blog/2011/10",
-				"feature_value": "0",
-				"cluster_win_mean": "0.01",
-				"delta": "0.01"
-			},
-			{
-				"html_id": "http://www.businessawardseurope.com/blog/2011/05",
-				"feature_value": "0",
-				"cluster_win_mean": "0.01",
-				"delta": "0.01"
-			},
-			{
-				"html_id": "http://www.businessawardseurope.com/profile/forgot-password",
-				"feature_value": "0",
-				"cluster_win_mean": "0.01",
-				"delta": "0.01"
-			},
-			{
-				"html_id": "http://www.businessawardseurope.com/contact",
-				"feature_value": "0",
-				"cluster_win_mean": "0.01",
-				"delta": "0.01"
-			},
-			{
-				"html_id": "http://www.businessawardseurope.com/blog/item/blanket-coverage-how-a-sleep-product-entrepreneur-became-a-hit-with-the-med",
-				"feature_value": "0",
-				"cluster_win_mean": "0.01",
-				"delta": "0.01"
-			},
-			{
-				"html_id": "http://www.businessawardseurope.com/blog/item/performing-regardless-business-and-the-paralympics",
-				"feature_value": "0",
-				"cluster_win_mean": "0.01",
-				"delta": "0.01"
-			}
-		],
-		"number_of_destination_titles_same_as_anchor_text": [
+		"anchor_number_of_unique_dictionary_words": [
 			{
 				"html_id": "http://www.businessawardseurope.com",
 				"feature_value": "0",
-				"cluster_win_mean": "14.94",
-				"delta": "14.94"
+				"cluster_win_mean": "1",
+				"delta": "1"
 			},
 			{
 				"html_id": "http://www.businessawardseurope.com/profile/login",
 				"feature_value": "0",
-				"cluster_win_mean": "14.94",
-				"delta": "14.94"
+				"cluster_win_mean": "1",
+				"delta": "1"
 			},
 			{
 				"html_id": "http://www.businessawardseurope.com/profile/register",
 				"feature_value": "0",
-				"cluster_win_mean": "   25",
-				"delta": "   25"
+				"cluster_win_mean": "1",
+				"delta": "1"
 			},
 			{
 				"html_id": "http://www.businessawardseurope.com/TV",
 				"feature_value": "0",
-				"cluster_win_mean": "   25",
-				"delta": "   25"
+				"cluster_win_mean": "1",
+				"delta": "1"
 			},
 			{
 				"html_id": "http://www.businessawardseurope.com/gallery",
 				"feature_value": "0",
-				"cluster_win_mean": "14.94",
-				"delta": "14.94"
+				"cluster_win_mean": "1",
+				"delta": "1"
 			},
 			{
 				"html_id": "http://www.businessawardseurope.com/archive/3/2011",
 				"feature_value": "0",
-				"cluster_win_mean": "14.94",
-				"delta": "14.94"
+				"cluster_win_mean": "1",
+				"delta": "1"
 			},
 			{
 				"html_id": "http://www.businessawardseurope.com/know",
 				"feature_value": "0",
-				"cluster_win_mean": "14.94",
-				"delta": "14.94"
+				"cluster_win_mean": "1",
+				"delta": "1"
 			},
 			{
 				"html_id": "http://www.businessawardseurope.com/news",
 				"feature_value": "0",
-				"cluster_win_mean": "14.94",
-				"delta": "14.94"
+				"cluster_win_mean": "1",
+				"delta": "1"
 			},
 			{
 				"html_id": "http://www.businessawardseurope.com/blog",
 				"feature_value": "0",
-				"cluster_win_mean": "14.94",
-				"delta": "14.94"
+				"cluster_win_mean": "1",
+				"delta": "1"
 			},
 			{
 				"html_id": "http://www.businessawardseurope.com/blog/2013/06",
 				"feature_value": "0",
-				"cluster_win_mean": "14.94",
-				"delta": "14.94"
+				"cluster_win_mean": "1",
+				"delta": "1"
 			},
 			{
 				"html_id": "http://www.businessawardseurope.com/blog/2013/03",
 				"feature_value": "0",
-				"cluster_win_mean": "   25",
-				"delta": "   25"
+				"cluster_win_mean": "1",
+				"delta": "1"
 			},
 			{
 				"html_id": "http://www.businessawardseurope.com/blog/2012/09",
 				"feature_value": "0",
-				"cluster_win_mean": "14.94",
-				"delta": "14.94"
+				"cluster_win_mean": "1",
+				"delta": "1"
 			},
 			{
 				"html_id": "http://www.businessawardseurope.com/blog/2012/02",
 				"feature_value": "0",
-				"cluster_win_mean": "   25",
-				"delta": "   25"
+				"cluster_win_mean": "1",
+				"delta": "1"
 			},
 			{
 				"html_id": "http://www.businessawardseurope.com/blog/2011/10",
 				"feature_value": "0",
-				"cluster_win_mean": "   25",
-				"delta": "   25"
+				"cluster_win_mean": "1",
+				"delta": "1"
 			},
 			{
 				"html_id": "http://www.businessawardseurope.com/blog/2011/08",
 				"feature_value": "0",
-				"cluster_win_mean": "   25",
-				"delta": "   25"
+				"cluster_win_mean": "1",
+				"delta": "1"
 			},
 			{
 				"html_id": "http://www.businessawardseurope.com/blog/2011/07",
 				"feature_value": "0",
-				"cluster_win_mean": "14.94",
-				"delta": "14.94"
+				"cluster_win_mean": "1",
+				"delta": "1"
 			},
 			{
 				"html_id": "http://www.businessawardseurope.com/blog/2011/05",
 				"feature_value": "0",
-				"cluster_win_mean": "   25",
-				"delta": "   25"
+				"cluster_win_mean": "1",
+				"delta": "1"
 			},
 			{
 				"html_id": "http://www.businessawardseurope.com/blog/item/judging-the-judges-how-we-pick-our-awards-team",
 				"feature_value": "0",
-				"cluster_win_mean": "14.94",
-				"delta": "14.94"
+				"cluster_win_mean": "1",
+				"delta": "1"
 			},
 			{
 				"html_id": "http://www.businessawardseurope.com/judges",
 				"feature_value": "0",
-				"cluster_win_mean": "14.94",
-				"delta": "14.94"
+				"cluster_win_mean": "1",
+				"delta": "1"
 			},
 			{
 				"html_id": "http://www.businessawardseurope.com/sponsor/rsm",
 				"feature_value": "0",
-				"cluster_win_mean": "14.94",
-				"delta": "14.94"
+				"cluster_win_mean": "1",
+				"delta": "1"
 			},
 			{
 				"html_id": "http://www.businessawardseurope.com/profile",
 				"feature_value": "0",
-				"cluster_win_mean": "14.94",
-				"delta": "14.94"
+				"cluster_win_mean": "1",
+				"delta": "1"
 			},
 			{
 				"html_id": "http://www.businessawardseurope.com/profile/forgot-password",
 				"feature_value": "0",
-				"cluster_win_mean": "   25",
-				"delta": "   25"
+				"cluster_win_mean": "1",
+				"delta": "1"
 			},
 			{
 				"html_id": "http://www.businessawardseurope.com/terms",
 				"feature_value": "0",
-				"cluster_win_mean": "14.94",
-				"delta": "14.94"
+				"cluster_win_mean": "1",
+				"delta": "1"
 			},
 			{
 				"html_id": "http://www.businessawardseurope.com/privacy",
 				"feature_value": "0",
-				"cluster_win_mean": "14.94",
-				"delta": "14.94"
+				"cluster_win_mean": "1",
+				"delta": "1"
 			},
 			{
 				"html_id": "http://www.businessawardseurope.com/contact",
 				"feature_value": "0",
-				"cluster_win_mean": "   25",
-				"delta": "   25"
+				"cluster_win_mean": "1",
+				"delta": "1"
 			},
 			{
 				"html_id": "http://www.businessawardseurope.com/sponsor/infosys",
 				"feature_value": "0",
-				"cluster_win_mean": "14.94",
-				"delta": "14.94"
+				"cluster_win_mean": "1",
+				"delta": "1"
 			},
 			{
 				"html_id": "http://www.businessawardseurope.com/sponsor/ukti",
 				"feature_value": "0",
-				"cluster_win_mean": "14.94",
-				"delta": "14.94"
+				"cluster_win_mean": "1",
+				"delta": "1"
 			},
 			{
 				"html_id": "http://www.businessawardseurope.com/sponsor/millicom-international-cellular-s.a",
 				"feature_value": "0",
-				"cluster_win_mean": "14.94",
-				"delta": "14.94"
+				"cluster_win_mean": "1",
+				"delta": "1"
 			},
 			{
 				"html_id": "http://www.businessawardseurope.com/sponsor/bp-target-neutral",
 				"feature_value": "0",
-				"cluster_win_mean": "14.94",
-				"delta": "14.94"
+				"cluster_win_mean": "1",
+				"delta": "1"
 			},
 			{
 				"html_id": "http://www.businessawardseurope.com/blog/item/overcoming-obstacles-for-an-outstanding-gala-event",
 				"feature_value": "0",
-				"cluster_win_mean": "14.94",
-				"delta": "14.94"
+				"cluster_win_mean": "1",
+				"delta": "1"
 			},
 			{
 				"html_id": "http://www.businessawardseurope.com/blog/item/european-business-awards-becoming-carbon-neutral",
 				"feature_value": "0",
-				"cluster_win_mean": "14.94",
-				"delta": "14.94"
+				"cluster_win_mean": "1",
+				"delta": "1"
 			},
 			{
 				"html_id": "http://www.businessawardseurope.com/blog/item/networking-success-at-european-business-awards-luncheon",
 				"feature_value": "0",
-				"cluster_win_mean": "14.94",
-				"delta": "14.94"
+				"cluster_win_mean": "1",
+				"delta": "1"
 			},
 			{
 				"html_id": "http://www.businessawardseurope.com/blog/item/everyones-a-winner-by-adrian-tripp-ceo-european-business-awards",
 				"feature_value": "0",
-				"cluster_win_mean": "14.94",
-				"delta": "14.94"
+				"cluster_win_mean": "1",
+				"delta": "1"
 			},
 			{
 				"html_id": "http://www.businessawardseurope.com/blog/item/rsm-world-day",
 				"feature_value": "0",
-				"cluster_win_mean": "14.94",
-				"delta": "14.94"
+				"cluster_win_mean": "1",
+				"delta": "1"
 			},
 			{
 				"html_id": "http://www.businessawardseurope.com/blog/item/opinion-why-theres-good-news-from-our-european-business-elite",
 				"feature_value": "0",
-				"cluster_win_mean": "14.94",
-				"delta": "14.94"
+				"cluster_win_mean": "1",
+				"delta": "1"
 			},
 			{
 				"html_id": "http://www.businessawardseurope.com/blog/item/my-two-biggest-business-challenges",
 				"feature_value": "0",
-				"cluster_win_mean": "14.94",
-				"delta": "14.94"
+				"cluster_win_mean": "1",
+				"delta": "1"
 			},
 			{
 				"html_id": "http://www.businessawardseurope.com/blog/item/a-new-model-for-funding-innovators",
 				"feature_value": "0",
-				"cluster_win_mean": "14.94",
-				"delta": "14.94"
+				"cluster_win_mean": "1",
+				"delta": "1"
 			},
 			{
 				"html_id": "http://www.businessawardseurope.com/blog/item/enter-the-dragon-how-managing-finances-in-chinas-currency-could-pay-dividen",
 				"feature_value": "0",
-				"cluster_win_mean": "14.94",
-				"delta": "14.94"
+				"cluster_win_mean": "1",
+				"delta": "1"
 			},
 			{
 				"html_id": "http://www.businessawardseurope.com/blog/item/blanket-coverage-how-a-sleep-product-entrepreneur-became-a-hit-with-the-med",
 				"feature_value": "0",
-				"cluster_win_mean": "   25",
-				"delta": "   25"
+				"cluster_win_mean": "1",
+				"delta": "1"
 			},
 			{
 				"html_id": "http://www.businessawardseurope.com/blog/item/welcome-to-the-jungle",
 				"feature_value": "0",
-				"cluster_win_mean": "14.94",
-				"delta": "14.94"
+				"cluster_win_mean": "1",
+				"delta": "1"
 			},
 			{
 				"html_id": "http://www.businessawardseurope.com/news/item/europes-leading-businesses-expanding-internationally",
 				"feature_value": "0",
-				"cluster_win_mean": "14.94",
-				"delta": "14.94"
+				"cluster_win_mean": "1",
+				"delta": "1"
 			},
 			{
 				"html_id": "http://www.businessawardseurope.com/blog/item/performing-regardless-business-and-the-paralympics",
 				"feature_value": "0",
-				"cluster_win_mean": "   25",
-				"delta": "   25"
+				"cluster_win_mean": "1",
+				"delta": "1"
 			}
 		],
-		"maximum_length_of_h1": [
+		"average_backlink_flesch_reading_ease": [
+			{
+				"html_id": "http://www.businessawardseurope.com",
+				"feature_value": "0",
+				"cluster_win_mean": "48.97",
+				"delta": "48.97"
+			},
 			{
 				"html_id": "http://www.businessawardseurope.com/profile/login",
 				"feature_value": "0",
-				"cluster_win_mean": "82.06",
-				"delta": "82.06"
+				"cluster_win_mean": "48.97",
+				"delta": "48.97"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/profile/register",
+				"feature_value": "0",
+				"cluster_win_mean": "48.97",
+				"delta": "48.97"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/TV",
+				"feature_value": "0",
+				"cluster_win_mean": "48.97",
+				"delta": "48.97"
 			},
 			{
 				"html_id": "http://www.businessawardseurope.com/gallery",
 				"feature_value": "0",
-				"cluster_win_mean": "82.06",
-				"delta": "82.06"
+				"cluster_win_mean": "48.97",
+				"delta": "48.97"
 			},
 			{
 				"html_id": "http://www.businessawardseurope.com/archive/3/2011",
 				"feature_value": "0",
-				"cluster_win_mean": "82.06",
-				"delta": "82.06"
+				"cluster_win_mean": "48.97",
+				"delta": "48.97"
 			},
 			{
 				"html_id": "http://www.businessawardseurope.com/know",
 				"feature_value": "0",
-				"cluster_win_mean": "82.06",
-				"delta": "82.06"
+				"cluster_win_mean": "48.97",
+				"delta": "48.97"
 			},
 			{
 				"html_id": "http://www.businessawardseurope.com/news",
 				"feature_value": "0",
-				"cluster_win_mean": "82.06",
-				"delta": "82.06"
+				"cluster_win_mean": "48.97",
+				"delta": "48.97"
 			},
 			{
 				"html_id": "http://www.businessawardseurope.com/blog",
 				"feature_value": "0",
-				"cluster_win_mean": "82.06",
-				"delta": "82.06"
+				"cluster_win_mean": "48.97",
+				"delta": "48.97"
 			},
 			{
 				"html_id": "http://www.businessawardseurope.com/blog/2013/06",
 				"feature_value": "0",
-				"cluster_win_mean": "82.06",
-				"delta": "82.06"
+				"cluster_win_mean": "48.97",
+				"delta": "48.97"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/blog/2013/03",
+				"feature_value": "0",
+				"cluster_win_mean": "48.97",
+				"delta": "48.97"
 			},
 			{
 				"html_id": "http://www.businessawardseurope.com/blog/2012/09",
 				"feature_value": "0",
-				"cluster_win_mean": "82.06",
-				"delta": "82.06"
+				"cluster_win_mean": "48.97",
+				"delta": "48.97"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/blog/2012/02",
+				"feature_value": "0",
+				"cluster_win_mean": "48.97",
+				"delta": "48.97"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/blog/2011/10",
+				"feature_value": "0",
+				"cluster_win_mean": "48.97",
+				"delta": "48.97"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/blog/2011/08",
+				"feature_value": "0",
+				"cluster_win_mean": "48.97",
+				"delta": "48.97"
 			},
 			{
 				"html_id": "http://www.businessawardseurope.com/blog/2011/07",
 				"feature_value": "0",
-				"cluster_win_mean": "82.06",
-				"delta": "82.06"
+				"cluster_win_mean": "48.97",
+				"delta": "48.97"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/blog/2011/05",
+				"feature_value": "0",
+				"cluster_win_mean": "48.97",
+				"delta": "48.97"
 			},
 			{
 				"html_id": "http://www.businessawardseurope.com/blog/item/judging-the-judges-how-we-pick-our-awards-team",
 				"feature_value": "0",
-				"cluster_win_mean": "82.06",
-				"delta": "82.06"
+				"cluster_win_mean": "48.97",
+				"delta": "48.97"
 			},
 			{
 				"html_id": "http://www.businessawardseurope.com/judges",
 				"feature_value": "0",
-				"cluster_win_mean": "82.06",
-				"delta": "82.06"
+				"cluster_win_mean": "48.97",
+				"delta": "48.97"
 			},
 			{
 				"html_id": "http://www.businessawardseurope.com/sponsor/rsm",
 				"feature_value": "0",
-				"cluster_win_mean": "82.06",
-				"delta": "82.06"
+				"cluster_win_mean": "48.97",
+				"delta": "48.97"
 			},
 			{
 				"html_id": "http://www.businessawardseurope.com/profile",
 				"feature_value": "0",
-				"cluster_win_mean": "82.06",
-				"delta": "82.06"
+				"cluster_win_mean": "48.97",
+				"delta": "48.97"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/profile/forgot-password",
+				"feature_value": "0",
+				"cluster_win_mean": "48.97",
+				"delta": "48.97"
 			},
 			{
 				"html_id": "http://www.businessawardseurope.com/terms",
 				"feature_value": "0",
-				"cluster_win_mean": "82.06",
-				"delta": "82.06"
+				"cluster_win_mean": "48.97",
+				"delta": "48.97"
 			},
 			{
 				"html_id": "http://www.businessawardseurope.com/privacy",
 				"feature_value": "0",
-				"cluster_win_mean": "82.06",
-				"delta": "82.06"
+				"cluster_win_mean": "48.97",
+				"delta": "48.97"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/contact",
+				"feature_value": "0",
+				"cluster_win_mean": "48.97",
+				"delta": "48.97"
 			},
 			{
 				"html_id": "http://www.businessawardseurope.com/sponsor/infosys",
 				"feature_value": "0",
-				"cluster_win_mean": "82.06",
-				"delta": "82.06"
+				"cluster_win_mean": "48.97",
+				"delta": "48.97"
 			},
 			{
 				"html_id": "http://www.businessawardseurope.com/sponsor/ukti",
 				"feature_value": "0",
-				"cluster_win_mean": "82.06",
-				"delta": "82.06"
+				"cluster_win_mean": "48.97",
+				"delta": "48.97"
 			},
 			{
 				"html_id": "http://www.businessawardseurope.com/sponsor/millicom-international-cellular-s.a",
 				"feature_value": "0",
-				"cluster_win_mean": "82.06",
-				"delta": "82.06"
+				"cluster_win_mean": "48.97",
+				"delta": "48.97"
 			},
 			{
 				"html_id": "http://www.businessawardseurope.com/sponsor/bp-target-neutral",
 				"feature_value": "0",
-				"cluster_win_mean": "82.06",
-				"delta": "82.06"
+				"cluster_win_mean": "48.97",
+				"delta": "48.97"
 			},
 			{
 				"html_id": "http://www.businessawardseurope.com/blog/item/overcoming-obstacles-for-an-outstanding-gala-event",
 				"feature_value": "0",
-				"cluster_win_mean": "82.06",
-				"delta": "82.06"
+				"cluster_win_mean": "48.97",
+				"delta": "48.97"
 			},
 			{
 				"html_id": "http://www.businessawardseurope.com/blog/item/european-business-awards-becoming-carbon-neutral",
 				"feature_value": "0",
-				"cluster_win_mean": "82.06",
-				"delta": "82.06"
+				"cluster_win_mean": "48.97",
+				"delta": "48.97"
 			},
 			{
 				"html_id": "http://www.businessawardseurope.com/blog/item/networking-success-at-european-business-awards-luncheon",
 				"feature_value": "0",
-				"cluster_win_mean": "82.06",
-				"delta": "82.06"
+				"cluster_win_mean": "48.97",
+				"delta": "48.97"
 			},
 			{
 				"html_id": "http://www.businessawardseurope.com/blog/item/everyones-a-winner-by-adrian-tripp-ceo-european-business-awards",
 				"feature_value": "0",
-				"cluster_win_mean": "82.06",
-				"delta": "82.06"
+				"cluster_win_mean": "48.97",
+				"delta": "48.97"
 			},
 			{
 				"html_id": "http://www.businessawardseurope.com/blog/item/rsm-world-day",
 				"feature_value": "0",
-				"cluster_win_mean": "82.06",
-				"delta": "82.06"
+				"cluster_win_mean": "48.97",
+				"delta": "48.97"
 			},
 			{
 				"html_id": "http://www.businessawardseurope.com/blog/item/opinion-why-theres-good-news-from-our-european-business-elite",
 				"feature_value": "0",
-				"cluster_win_mean": "82.06",
-				"delta": "82.06"
+				"cluster_win_mean": "48.97",
+				"delta": "48.97"
 			},
 			{
 				"html_id": "http://www.businessawardseurope.com/blog/item/my-two-biggest-business-challenges",
 				"feature_value": "0",
-				"cluster_win_mean": "82.06",
-				"delta": "82.06"
+				"cluster_win_mean": "48.97",
+				"delta": "48.97"
 			},
 			{
 				"html_id": "http://www.businessawardseurope.com/blog/item/a-new-model-for-funding-innovators",
 				"feature_value": "0",
-				"cluster_win_mean": "82.06",
-				"delta": "82.06"
+				"cluster_win_mean": "48.97",
+				"delta": "48.97"
 			},
 			{
 				"html_id": "http://www.businessawardseurope.com/blog/item/enter-the-dragon-how-managing-finances-in-chinas-currency-could-pay-dividen",
 				"feature_value": "0",
-				"cluster_win_mean": "82.06",
-				"delta": "82.06"
+				"cluster_win_mean": "48.97",
+				"delta": "48.97"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/blog/item/blanket-coverage-how-a-sleep-product-entrepreneur-became-a-hit-with-the-med",
+				"feature_value": "0",
+				"cluster_win_mean": "48.97",
+				"delta": "48.97"
 			},
 			{
 				"html_id": "http://www.businessawardseurope.com/blog/item/welcome-to-the-jungle",
 				"feature_value": "0",
-				"cluster_win_mean": "82.06",
-				"delta": "82.06"
+				"cluster_win_mean": "48.97",
+				"delta": "48.97"
 			},
 			{
 				"html_id": "http://www.businessawardseurope.com/news/item/europes-leading-businesses-expanding-internationally",
 				"feature_value": "0",
-				"cluster_win_mean": "82.06",
-				"delta": "82.06"
+				"cluster_win_mean": "48.97",
+				"delta": "48.97"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/blog/item/performing-regardless-business-and-the-paralympics",
+				"feature_value": "0",
+				"cluster_win_mean": "48.97",
+				"delta": "48.97"
 			}
 		],
-		"average_length_of_h1": {
-			"html_id": "http://www.businessawardseurope.com",
-			"feature_value": "76",
-			"cluster_win_mean": "50.82",
-			"delta": "-25.18"
-		},
 		"number_of_duplicate_words": [
 			{
 				"html_id": "http://www.businessawardseurope.com",
 				"feature_value": "43",
-				"cluster_win_mean": "97.66",
-				"delta": "54.66"
+				"cluster_win_mean": "75.15",
+				"delta": "32.15"
 			},
 			{
 				"html_id": "http://www.businessawardseurope.com/profile/login",
 				"feature_value": "41",
-				"cluster_win_mean": "97.66",
-				"delta": "56.66"
+				"cluster_win_mean": "75.15",
+				"delta": "34.15"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/profile/register",
+				"feature_value": "26",
+				"cluster_win_mean": "75.15",
+				"delta": "49.15"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/TV",
+				"feature_value": "24",
+				"cluster_win_mean": "75.15",
+				"delta": "51.15"
 			},
 			{
 				"html_id": "http://www.businessawardseurope.com/gallery",
 				"feature_value": "48",
-				"cluster_win_mean": "97.66",
-				"delta": "49.66"
+				"cluster_win_mean": "75.15",
+				"delta": "27.15"
 			},
 			{
 				"html_id": "http://www.businessawardseurope.com/archive/3/2011",
 				"feature_value": "33",
-				"cluster_win_mean": "97.66",
-				"delta": "64.66"
+				"cluster_win_mean": "75.15",
+				"delta": "42.15"
 			},
 			{
-				"html_id": "http://www.businessawardseurope.com/know",
-				"feature_value": "76",
-				"cluster_win_mean": "97.66",
-				"delta": "21.66"
-			},
-			{
-				"html_id": "http://www.businessawardseurope.com/blog/2013/06",
-				"feature_value": "75",
-				"cluster_win_mean": "97.66",
-				"delta": "22.66"
+				"html_id": "http://www.businessawardseurope.com/blog/2013/03",
+				"feature_value": "29",
+				"cluster_win_mean": "75.15",
+				"delta": "46.15"
 			},
 			{
 				"html_id": "http://www.businessawardseurope.com/blog/2012/09",
 				"feature_value": "65",
-				"cluster_win_mean": "97.66",
-				"delta": "32.66"
+				"cluster_win_mean": "75.15",
+				"delta": "10.15"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/blog/2012/02",
+				"feature_value": "12",
+				"cluster_win_mean": "75.15",
+				"delta": "63.15"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/blog/2011/10",
+				"feature_value": "17",
+				"cluster_win_mean": "75.15",
+				"delta": "58.15"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/blog/2011/08",
+				"feature_value": "24",
+				"cluster_win_mean": "75.15",
+				"delta": "51.15"
 			},
 			{
 				"html_id": "http://www.businessawardseurope.com/blog/2011/07",
 				"feature_value": "29",
-				"cluster_win_mean": "97.66",
-				"delta": "68.66"
+				"cluster_win_mean": "75.15",
+				"delta": "46.15"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/blog/2011/05",
+				"feature_value": "15",
+				"cluster_win_mean": "75.15",
+				"delta": "60.15"
 			},
 			{
 				"html_id": "http://www.businessawardseurope.com/judges",
 				"feature_value": "35",
-				"cluster_win_mean": "97.66",
-				"delta": "62.66"
+				"cluster_win_mean": "75.15",
+				"delta": "40.15"
 			},
 			{
 				"html_id": "http://www.businessawardseurope.com/sponsor/rsm",
 				"feature_value": "43",
-				"cluster_win_mean": "97.66",
-				"delta": "54.66"
+				"cluster_win_mean": "75.15",
+				"delta": "32.15"
 			},
 			{
 				"html_id": "http://www.businessawardseurope.com/profile",
 				"feature_value": "41",
-				"cluster_win_mean": "97.66",
-				"delta": "56.66"
+				"cluster_win_mean": "75.15",
+				"delta": "34.15"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/profile/forgot-password",
+				"feature_value": "11",
+				"cluster_win_mean": "75.15",
+				"delta": "64.15"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/contact",
+				"feature_value": "24",
+				"cluster_win_mean": "75.15",
+				"delta": "51.15"
 			},
 			{
 				"html_id": "http://www.businessawardseurope.com/sponsor/infosys",
 				"feature_value": "57",
-				"cluster_win_mean": "97.66",
-				"delta": "40.66"
+				"cluster_win_mean": "75.15",
+				"delta": "18.15"
 			},
 			{
 				"html_id": "http://www.businessawardseurope.com/sponsor/ukti",
 				"feature_value": "36",
-				"cluster_win_mean": "97.66",
-				"delta": "61.66"
-			},
-			{
-				"html_id": "http://www.businessawardseurope.com/sponsor/millicom-international-cellular-s.a",
-				"feature_value": "75",
-				"cluster_win_mean": "97.66",
-				"delta": "22.66"
-			},
-			{
-				"html_id": "http://www.businessawardseurope.com/blog/item/rsm-world-day",
-				"feature_value": "76",
-				"cluster_win_mean": "97.66",
-				"delta": "21.66"
-			}
-		],
-		"number_of_hyperlinks_with_file": [
-			{
-				"html_id": "http://www.businessawardseurope.com/profile/register",
-				"feature_value": "0",
-				"cluster_win_mean": "8.83",
-				"delta": "8.83"
-			},
-			{
-				"html_id": "http://www.businessawardseurope.com/TV",
-				"feature_value": "0",
-				"cluster_win_mean": "8.83",
-				"delta": "8.83"
-			},
-			{
-				"html_id": "http://www.businessawardseurope.com/blog/2013/03",
-				"feature_value": "0",
-				"cluster_win_mean": "8.83",
-				"delta": "8.83"
-			},
-			{
-				"html_id": "http://www.businessawardseurope.com/blog/2012/02",
-				"feature_value": "0",
-				"cluster_win_mean": "8.83",
-				"delta": "8.83"
-			},
-			{
-				"html_id": "http://www.businessawardseurope.com/blog/2011/10",
-				"feature_value": "0",
-				"cluster_win_mean": "8.83",
-				"delta": "8.83"
-			},
-			{
-				"html_id": "http://www.businessawardseurope.com/blog/2011/08",
-				"feature_value": "0",
-				"cluster_win_mean": "8.83",
-				"delta": "8.83"
-			},
-			{
-				"html_id": "http://www.businessawardseurope.com/blog/2011/05",
-				"feature_value": "0",
-				"cluster_win_mean": "8.83",
-				"delta": "8.83"
-			},
-			{
-				"html_id": "http://www.businessawardseurope.com/profile/forgot-password",
-				"feature_value": "0",
-				"cluster_win_mean": "8.83",
-				"delta": "8.83"
-			},
-			{
-				"html_id": "http://www.businessawardseurope.com/contact",
-				"feature_value": "5",
-				"cluster_win_mean": "8.83",
-				"delta": "3.83"
+				"cluster_win_mean": "75.15",
+				"delta": "39.15"
 			},
 			{
 				"html_id": "http://www.businessawardseurope.com/blog/item/blanket-coverage-how-a-sleep-product-entrepreneur-became-a-hit-with-the-med",
-				"feature_value": "0",
-				"cluster_win_mean": "8.83",
-				"delta": "8.83"
+				"feature_value": "22",
+				"cluster_win_mean": "75.15",
+				"delta": "53.15"
 			},
 			{
 				"html_id": "http://www.businessawardseurope.com/blog/item/performing-regardless-business-and-the-paralympics",
-				"feature_value": "0",
-				"cluster_win_mean": "8.83",
-				"delta": "8.83"
+				"feature_value": "21",
+				"cluster_win_mean": "75.15",
+				"delta": "54.15"
 			}
 		],
 		"number_of_rare_words": [
 			{
 				"html_id": "http://www.businessawardseurope.com",
 				"feature_value": "17",
-				"cluster_win_mean": "39.86",
-				"delta": "22.86"
+				"cluster_win_mean": "33.42",
+				"delta": "16.42"
 			},
 			{
 				"html_id": "http://www.businessawardseurope.com/profile/login",
 				"feature_value": "14",
-				"cluster_win_mean": "39.86",
-				"delta": "25.86"
+				"cluster_win_mean": "33.42",
+				"delta": "19.42"
 			},
 			{
 				"html_id": "http://www.businessawardseurope.com/profile/register",
 				"feature_value": " 4",
-				"cluster_win_mean": "12.98",
-				"delta": " 8.98"
+				"cluster_win_mean": "33.42",
+				"delta": "29.42"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/TV",
+				"feature_value": "11",
+				"cluster_win_mean": "33.42",
+				"delta": "22.42"
 			},
 			{
 				"html_id": "http://www.businessawardseurope.com/gallery",
 				"feature_value": "25",
-				"cluster_win_mean": "39.86",
-				"delta": "14.86"
+				"cluster_win_mean": "33.42",
+				"delta": " 8.42"
 			},
 			{
 				"html_id": "http://www.businessawardseurope.com/archive/3/2011",
 				"feature_value": "12",
-				"cluster_win_mean": "39.86",
-				"delta": "27.86"
+				"cluster_win_mean": "33.42",
+				"delta": "21.42"
 			},
 			{
-				"html_id": "http://www.businessawardseurope.com/blog/2013/06",
-				"feature_value": "32",
-				"cluster_win_mean": "39.86",
-				"delta": " 7.86"
+				"html_id": "http://www.businessawardseurope.com/blog/2013/03",
+				"feature_value": "11",
+				"cluster_win_mean": "33.42",
+				"delta": "22.42"
 			},
 			{
 				"html_id": "http://www.businessawardseurope.com/blog/2012/09",
 				"feature_value": "22",
-				"cluster_win_mean": "39.86",
-				"delta": "17.86"
+				"cluster_win_mean": "33.42",
+				"delta": "11.42"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/blog/2012/02",
+				"feature_value": "10",
+				"cluster_win_mean": "33.42",
+				"delta": "23.42"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/blog/2011/10",
+				"feature_value": "18",
+				"cluster_win_mean": "33.42",
+				"delta": "15.42"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/blog/2011/08",
+				"feature_value": "15",
+				"cluster_win_mean": "33.42",
+				"delta": "18.42"
 			},
 			{
 				"html_id": "http://www.businessawardseurope.com/blog/2011/07",
 				"feature_value": "20",
-				"cluster_win_mean": "39.86",
-				"delta": "19.86"
+				"cluster_win_mean": "33.42",
+				"delta": "13.42"
 			},
 			{
 				"html_id": "http://www.businessawardseurope.com/blog/2011/05",
 				"feature_value": " 5",
-				"cluster_win_mean": "12.98",
-				"delta": " 7.98"
-			},
-			{
-				"html_id": "http://www.businessawardseurope.com/blog/item/judging-the-judges-how-we-pick-our-awards-team",
-				"feature_value": "35",
-				"cluster_win_mean": "39.86",
-				"delta": " 4.86"
+				"cluster_win_mean": "33.42",
+				"delta": "28.42"
 			},
 			{
 				"html_id": "http://www.businessawardseurope.com/sponsor/rsm",
 				"feature_value": "10",
-				"cluster_win_mean": "39.86",
-				"delta": "29.86"
+				"cluster_win_mean": "33.42",
+				"delta": "23.42"
 			},
 			{
 				"html_id": "http://www.businessawardseurope.com/profile",
 				"feature_value": "14",
-				"cluster_win_mean": "39.86",
-				"delta": "25.86"
+				"cluster_win_mean": "33.42",
+				"delta": "19.42"
 			},
 			{
 				"html_id": "http://www.businessawardseurope.com/profile/forgot-password",
 				"feature_value": " 5",
-				"cluster_win_mean": "12.98",
-				"delta": " 7.98"
+				"cluster_win_mean": "33.42",
+				"delta": "28.42"
 			},
 			{
 				"html_id": "http://www.businessawardseurope.com/privacy",
 				"feature_value": "26",
-				"cluster_win_mean": "39.86",
-				"delta": "13.86"
+				"cluster_win_mean": "33.42",
+				"delta": " 7.42"
 			},
 			{
 				"html_id": "http://www.businessawardseurope.com/contact",
 				"feature_value": " 7",
-				"cluster_win_mean": "12.98",
-				"delta": " 5.98"
+				"cluster_win_mean": "33.42",
+				"delta": "26.42"
 			},
 			{
 				"html_id": "http://www.businessawardseurope.com/sponsor/infosys",
 				"feature_value": "25",
-				"cluster_win_mean": "39.86",
-				"delta": "14.86"
+				"cluster_win_mean": "33.42",
+				"delta": " 8.42"
 			},
 			{
 				"html_id": "http://www.businessawardseurope.com/sponsor/ukti",
 				"feature_value": "13",
-				"cluster_win_mean": "39.86",
-				"delta": "26.86"
+				"cluster_win_mean": "33.42",
+				"delta": "20.42"
 			},
 			{
 				"html_id": "http://www.businessawardseurope.com/sponsor/millicom-international-cellular-s.a",
 				"feature_value": "27",
-				"cluster_win_mean": "39.86",
-				"delta": "12.86"
-			},
-			{
-				"html_id": "http://www.businessawardseurope.com/sponsor/bp-target-neutral",
-				"feature_value": "29",
-				"cluster_win_mean": "39.86",
-				"delta": "10.86"
+				"cluster_win_mean": "33.42",
+				"delta": " 6.42"
 			},
 			{
 				"html_id": "http://www.businessawardseurope.com/blog/item/european-business-awards-becoming-carbon-neutral",
 				"feature_value": "27",
-				"cluster_win_mean": "39.86",
-				"delta": "12.86"
+				"cluster_win_mean": "33.42",
+				"delta": " 6.42"
 			},
 			{
 				"html_id": "http://www.businessawardseurope.com/blog/item/rsm-world-day",
 				"feature_value": "25",
-				"cluster_win_mean": "39.86",
-				"delta": "14.86"
+				"cluster_win_mean": "33.42",
+				"delta": " 8.42"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/blog/item/blanket-coverage-how-a-sleep-product-entrepreneur-became-a-hit-with-the-med",
+				"feature_value": " 9",
+				"cluster_win_mean": "33.42",
+				"delta": "24.42"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/blog/item/performing-regardless-business-and-the-paralympics",
+				"feature_value": " 9",
+				"cluster_win_mean": "33.42",
+				"delta": "24.42"
 			}
 		],
-		"total_number_of_5k_common_words": [
-			{
-				"html_id": "http://www.businessawardseurope.com",
-				"feature_value": " 95",
-				"cluster_win_mean": "132.73",
-				"delta": "37.73"
-			},
-			{
-				"html_id": "http://www.businessawardseurope.com/profile/login",
-				"feature_value": " 84",
-				"cluster_win_mean": "132.73",
-				"delta": "48.73"
-			},
-			{
-				"html_id": "http://www.businessawardseurope.com/gallery",
-				"feature_value": " 63",
-				"cluster_win_mean": "132.73",
-				"delta": "69.73"
-			},
-			{
-				"html_id": "http://www.businessawardseurope.com/archive/3/2011",
-				"feature_value": " 75",
-				"cluster_win_mean": "132.73",
-				"delta": "57.73"
-			},
-			{
-				"html_id": "http://www.businessawardseurope.com/know",
-				"feature_value": "111",
-				"cluster_win_mean": "132.73",
-				"delta": "21.73"
-			},
-			{
-				"html_id": "http://www.businessawardseurope.com/blog/2011/07",
-				"feature_value": " 78",
-				"cluster_win_mean": "132.73",
-				"delta": "54.73"
-			},
-			{
-				"html_id": "http://www.businessawardseurope.com/judges",
-				"feature_value": " 49",
-				"cluster_win_mean": "132.73",
-				"delta": "83.73"
-			},
-			{
-				"html_id": "http://www.businessawardseurope.com/sponsor/rsm",
-				"feature_value": " 90",
-				"cluster_win_mean": "132.73",
-				"delta": "42.73"
-			},
-			{
-				"html_id": "http://www.businessawardseurope.com/profile",
-				"feature_value": " 84",
-				"cluster_win_mean": "132.73",
-				"delta": "48.73"
-			},
-			{
-				"html_id": "http://www.businessawardseurope.com/profile/forgot-password",
-				"feature_value": " 28",
-				"cluster_win_mean": " 37.66",
-				"delta": " 9.66"
-			},
-			{
-				"html_id": "http://www.businessawardseurope.com/sponsor/ukti",
-				"feature_value": " 70",
-				"cluster_win_mean": "132.73",
-				"delta": "62.73"
-			}
-		],
-		"number_of_titles_same_as_h1": [
+		"number_of_hyperlinks_with_html": [
 			{
 				"html_id": "http://www.businessawardseurope.com",
 				"feature_value": "0",
-				"cluster_win_mean": "1.06",
-				"delta": "1.06"
+				"cluster_win_mean": "39.4",
+				"delta": "39.4"
 			},
 			{
 				"html_id": "http://www.businessawardseurope.com/profile/login",
 				"feature_value": "0",
-				"cluster_win_mean": "1.06",
-				"delta": "1.06"
+				"cluster_win_mean": "39.4",
+				"delta": "39.4"
 			},
 			{
 				"html_id": "http://www.businessawardseurope.com/profile/register",
 				"feature_value": "0",
-				"cluster_win_mean": "   1",
-				"delta": "   1"
+				"cluster_win_mean": "39.4",
+				"delta": "39.4"
 			},
 			{
 				"html_id": "http://www.businessawardseurope.com/TV",
 				"feature_value": "0",
-				"cluster_win_mean": "   1",
-				"delta": "   1"
+				"cluster_win_mean": "39.4",
+				"delta": "39.4"
 			},
 			{
 				"html_id": "http://www.businessawardseurope.com/gallery",
 				"feature_value": "0",
-				"cluster_win_mean": "1.06",
-				"delta": "1.06"
+				"cluster_win_mean": "39.4",
+				"delta": "39.4"
 			},
 			{
 				"html_id": "http://www.businessawardseurope.com/archive/3/2011",
 				"feature_value": "0",
-				"cluster_win_mean": "1.06",
-				"delta": "1.06"
+				"cluster_win_mean": "39.4",
+				"delta": "39.4"
 			},
 			{
 				"html_id": "http://www.businessawardseurope.com/know",
 				"feature_value": "0",
-				"cluster_win_mean": "1.06",
-				"delta": "1.06"
+				"cluster_win_mean": "39.4",
+				"delta": "39.4"
 			},
 			{
 				"html_id": "http://www.businessawardseurope.com/news",
 				"feature_value": "0",
-				"cluster_win_mean": "1.06",
-				"delta": "1.06"
+				"cluster_win_mean": "39.4",
+				"delta": "39.4"
 			},
 			{
 				"html_id": "http://www.businessawardseurope.com/blog",
 				"feature_value": "0",
-				"cluster_win_mean": "1.06",
-				"delta": "1.06"
+				"cluster_win_mean": "39.4",
+				"delta": "39.4"
 			},
 			{
 				"html_id": "http://www.businessawardseurope.com/blog/2013/06",
 				"feature_value": "0",
-				"cluster_win_mean": "1.06",
-				"delta": "1.06"
+				"cluster_win_mean": "39.4",
+				"delta": "39.4"
 			},
 			{
 				"html_id": "http://www.businessawardseurope.com/blog/2013/03",
 				"feature_value": "0",
-				"cluster_win_mean": "   1",
-				"delta": "   1"
+				"cluster_win_mean": "39.4",
+				"delta": "39.4"
 			},
 			{
 				"html_id": "http://www.businessawardseurope.com/blog/2012/09",
 				"feature_value": "0",
-				"cluster_win_mean": "1.06",
-				"delta": "1.06"
+				"cluster_win_mean": "39.4",
+				"delta": "39.4"
 			},
 			{
 				"html_id": "http://www.businessawardseurope.com/blog/2012/02",
 				"feature_value": "0",
-				"cluster_win_mean": "   1",
-				"delta": "   1"
+				"cluster_win_mean": "39.4",
+				"delta": "39.4"
 			},
 			{
 				"html_id": "http://www.businessawardseurope.com/blog/2011/10",
 				"feature_value": "0",
-				"cluster_win_mean": "   1",
-				"delta": "   1"
+				"cluster_win_mean": "39.4",
+				"delta": "39.4"
 			},
 			{
 				"html_id": "http://www.businessawardseurope.com/blog/2011/08",
 				"feature_value": "0",
-				"cluster_win_mean": "   1",
-				"delta": "   1"
+				"cluster_win_mean": "39.4",
+				"delta": "39.4"
 			},
 			{
 				"html_id": "http://www.businessawardseurope.com/blog/2011/07",
 				"feature_value": "0",
-				"cluster_win_mean": "1.06",
-				"delta": "1.06"
+				"cluster_win_mean": "39.4",
+				"delta": "39.4"
 			},
 			{
 				"html_id": "http://www.businessawardseurope.com/blog/2011/05",
 				"feature_value": "0",
-				"cluster_win_mean": "   1",
-				"delta": "   1"
+				"cluster_win_mean": "39.4",
+				"delta": "39.4"
 			},
 			{
 				"html_id": "http://www.businessawardseurope.com/blog/item/judging-the-judges-how-we-pick-our-awards-team",
 				"feature_value": "0",
-				"cluster_win_mean": "1.06",
-				"delta": "1.06"
+				"cluster_win_mean": "39.4",
+				"delta": "39.4"
 			},
 			{
 				"html_id": "http://www.businessawardseurope.com/judges",
 				"feature_value": "0",
-				"cluster_win_mean": "1.06",
-				"delta": "1.06"
+				"cluster_win_mean": "39.4",
+				"delta": "39.4"
 			},
 			{
 				"html_id": "http://www.businessawardseurope.com/sponsor/rsm",
 				"feature_value": "0",
-				"cluster_win_mean": "1.06",
-				"delta": "1.06"
+				"cluster_win_mean": "39.4",
+				"delta": "39.4"
 			},
 			{
 				"html_id": "http://www.businessawardseurope.com/profile",
 				"feature_value": "0",
-				"cluster_win_mean": "1.06",
-				"delta": "1.06"
+				"cluster_win_mean": "39.4",
+				"delta": "39.4"
 			},
 			{
 				"html_id": "http://www.businessawardseurope.com/profile/forgot-password",
 				"feature_value": "0",
-				"cluster_win_mean": "   1",
-				"delta": "   1"
+				"cluster_win_mean": "39.4",
+				"delta": "39.4"
 			},
 			{
 				"html_id": "http://www.businessawardseurope.com/terms",
 				"feature_value": "0",
-				"cluster_win_mean": "1.06",
-				"delta": "1.06"
+				"cluster_win_mean": "39.4",
+				"delta": "39.4"
 			},
 			{
 				"html_id": "http://www.businessawardseurope.com/privacy",
 				"feature_value": "0",
-				"cluster_win_mean": "1.06",
-				"delta": "1.06"
+				"cluster_win_mean": "39.4",
+				"delta": "39.4"
 			},
 			{
 				"html_id": "http://www.businessawardseurope.com/contact",
 				"feature_value": "0",
-				"cluster_win_mean": "   1",
-				"delta": "   1"
+				"cluster_win_mean": "39.4",
+				"delta": "39.4"
 			},
 			{
 				"html_id": "http://www.businessawardseurope.com/sponsor/infosys",
 				"feature_value": "0",
-				"cluster_win_mean": "1.06",
-				"delta": "1.06"
+				"cluster_win_mean": "39.4",
+				"delta": "39.4"
 			},
 			{
 				"html_id": "http://www.businessawardseurope.com/sponsor/ukti",
-				"feature_value": "0",
-				"cluster_win_mean": "1.06",
-				"delta": "1.06"
+				"feature_value": "1",
+				"cluster_win_mean": "39.4",
+				"delta": "38.4"
 			},
 			{
 				"html_id": "http://www.businessawardseurope.com/sponsor/millicom-international-cellular-s.a",
 				"feature_value": "0",
-				"cluster_win_mean": "1.06",
-				"delta": "1.06"
+				"cluster_win_mean": "39.4",
+				"delta": "39.4"
 			},
 			{
 				"html_id": "http://www.businessawardseurope.com/sponsor/bp-target-neutral",
 				"feature_value": "0",
-				"cluster_win_mean": "1.06",
-				"delta": "1.06"
+				"cluster_win_mean": "39.4",
+				"delta": "39.4"
 			},
 			{
 				"html_id": "http://www.businessawardseurope.com/blog/item/overcoming-obstacles-for-an-outstanding-gala-event",
 				"feature_value": "0",
-				"cluster_win_mean": "1.06",
-				"delta": "1.06"
+				"cluster_win_mean": "39.4",
+				"delta": "39.4"
 			},
 			{
 				"html_id": "http://www.businessawardseurope.com/blog/item/european-business-awards-becoming-carbon-neutral",
 				"feature_value": "0",
-				"cluster_win_mean": "1.06",
-				"delta": "1.06"
+				"cluster_win_mean": "39.4",
+				"delta": "39.4"
 			},
 			{
 				"html_id": "http://www.businessawardseurope.com/blog/item/networking-success-at-european-business-awards-luncheon",
 				"feature_value": "0",
-				"cluster_win_mean": "1.06",
-				"delta": "1.06"
+				"cluster_win_mean": "39.4",
+				"delta": "39.4"
 			},
 			{
 				"html_id": "http://www.businessawardseurope.com/blog/item/everyones-a-winner-by-adrian-tripp-ceo-european-business-awards",
 				"feature_value": "0",
-				"cluster_win_mean": "1.06",
-				"delta": "1.06"
+				"cluster_win_mean": "39.4",
+				"delta": "39.4"
 			},
 			{
 				"html_id": "http://www.businessawardseurope.com/blog/item/rsm-world-day",
 				"feature_value": "0",
-				"cluster_win_mean": "1.06",
-				"delta": "1.06"
+				"cluster_win_mean": "39.4",
+				"delta": "39.4"
 			},
 			{
 				"html_id": "http://www.businessawardseurope.com/blog/item/opinion-why-theres-good-news-from-our-european-business-elite",
 				"feature_value": "0",
-				"cluster_win_mean": "1.06",
-				"delta": "1.06"
+				"cluster_win_mean": "39.4",
+				"delta": "39.4"
 			},
 			{
 				"html_id": "http://www.businessawardseurope.com/blog/item/my-two-biggest-business-challenges",
 				"feature_value": "0",
-				"cluster_win_mean": "1.06",
-				"delta": "1.06"
+				"cluster_win_mean": "39.4",
+				"delta": "39.4"
 			},
 			{
 				"html_id": "http://www.businessawardseurope.com/blog/item/a-new-model-for-funding-innovators",
 				"feature_value": "0",
-				"cluster_win_mean": "1.06",
-				"delta": "1.06"
+				"cluster_win_mean": "39.4",
+				"delta": "39.4"
 			},
 			{
 				"html_id": "http://www.businessawardseurope.com/blog/item/enter-the-dragon-how-managing-finances-in-chinas-currency-could-pay-dividen",
 				"feature_value": "0",
-				"cluster_win_mean": "1.06",
-				"delta": "1.06"
+				"cluster_win_mean": "39.4",
+				"delta": "39.4"
 			},
 			{
 				"html_id": "http://www.businessawardseurope.com/blog/item/blanket-coverage-how-a-sleep-product-entrepreneur-became-a-hit-with-the-med",
 				"feature_value": "0",
-				"cluster_win_mean": "   1",
-				"delta": "   1"
+				"cluster_win_mean": "39.4",
+				"delta": "39.4"
 			},
 			{
 				"html_id": "http://www.businessawardseurope.com/blog/item/welcome-to-the-jungle",
 				"feature_value": "0",
-				"cluster_win_mean": "1.06",
-				"delta": "1.06"
+				"cluster_win_mean": "39.4",
+				"delta": "39.4"
 			},
 			{
 				"html_id": "http://www.businessawardseurope.com/news/item/europes-leading-businesses-expanding-internationally",
 				"feature_value": "0",
-				"cluster_win_mean": "1.06",
-				"delta": "1.06"
+				"cluster_win_mean": "39.4",
+				"delta": "39.4"
 			},
 			{
 				"html_id": "http://www.businessawardseurope.com/blog/item/performing-regardless-business-and-the-paralympics",
 				"feature_value": "0",
-				"cluster_win_mean": "   1",
-				"delta": "   1"
+				"cluster_win_mean": "39.4",
+				"delta": "39.4"
+			}
+		],
+		"total_number_of_5k_common_words": [
+			{
+				"html_id": "http://www.businessawardseurope.com/profile/register",
+				"feature_value": "53",
+				"cluster_win_mean": "101.15",
+				"delta": "48.15"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/TV",
+				"feature_value": "48",
+				"cluster_win_mean": "101.15",
+				"delta": "53.15"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/gallery",
+				"feature_value": "63",
+				"cluster_win_mean": "101.15",
+				"delta": "38.15"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/archive/3/2011",
+				"feature_value": "75",
+				"cluster_win_mean": "101.15",
+				"delta": "26.15"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/blog/2013/03",
+				"feature_value": "61",
+				"cluster_win_mean": "101.15",
+				"delta": "40.15"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/blog/2012/02",
+				"feature_value": "36",
+				"cluster_win_mean": "101.15",
+				"delta": "65.15"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/blog/2011/10",
+				"feature_value": "53",
+				"cluster_win_mean": "101.15",
+				"delta": "48.15"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/blog/2011/08",
+				"feature_value": "62",
+				"cluster_win_mean": "101.15",
+				"delta": "39.15"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/blog/2011/07",
+				"feature_value": "78",
+				"cluster_win_mean": "101.15",
+				"delta": "23.15"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/blog/2011/05",
+				"feature_value": "36",
+				"cluster_win_mean": "101.15",
+				"delta": "65.15"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/judges",
+				"feature_value": "49",
+				"cluster_win_mean": "101.15",
+				"delta": "52.15"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/profile/forgot-password",
+				"feature_value": "28",
+				"cluster_win_mean": "101.15",
+				"delta": "73.15"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/contact",
+				"feature_value": "52",
+				"cluster_win_mean": "101.15",
+				"delta": "49.15"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/sponsor/ukti",
+				"feature_value": "70",
+				"cluster_win_mean": "101.15",
+				"delta": "31.15"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/blog/item/blanket-coverage-how-a-sleep-product-entrepreneur-became-a-hit-with-the-med",
+				"feature_value": "47",
+				"cluster_win_mean": "101.15",
+				"delta": "54.15"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/blog/item/performing-regardless-business-and-the-paralympics",
+				"feature_value": "39",
+				"cluster_win_mean": "101.15",
+				"delta": "62.15"
+			}
+		],
+		"number_of_embedded_javascripts": [
+			{
+				"html_id": "http://www.businessawardseurope.com",
+				"feature_value": "2",
+				"cluster_win_mean": "2.64",
+				"delta": "0.64"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/profile/login",
+				"feature_value": "1",
+				"cluster_win_mean": "2.64",
+				"delta": "1.64"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/profile/register",
+				"feature_value": "1",
+				"cluster_win_mean": "2.64",
+				"delta": "1.64"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/TV",
+				"feature_value": "1",
+				"cluster_win_mean": "2.64",
+				"delta": "1.64"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/gallery",
+				"feature_value": "1",
+				"cluster_win_mean": "2.64",
+				"delta": "1.64"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/know",
+				"feature_value": "1",
+				"cluster_win_mean": "2.64",
+				"delta": "1.64"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/news",
+				"feature_value": "1",
+				"cluster_win_mean": "2.64",
+				"delta": "1.64"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/blog",
+				"feature_value": "1",
+				"cluster_win_mean": "2.64",
+				"delta": "1.64"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/blog/2013/06",
+				"feature_value": "1",
+				"cluster_win_mean": "2.64",
+				"delta": "1.64"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/blog/2013/03",
+				"feature_value": "1",
+				"cluster_win_mean": "2.64",
+				"delta": "1.64"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/blog/2012/09",
+				"feature_value": "1",
+				"cluster_win_mean": "2.64",
+				"delta": "1.64"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/blog/2012/02",
+				"feature_value": "1",
+				"cluster_win_mean": "2.64",
+				"delta": "1.64"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/blog/2011/10",
+				"feature_value": "1",
+				"cluster_win_mean": "2.64",
+				"delta": "1.64"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/blog/2011/08",
+				"feature_value": "1",
+				"cluster_win_mean": "2.64",
+				"delta": "1.64"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/blog/2011/07",
+				"feature_value": "1",
+				"cluster_win_mean": "2.64",
+				"delta": "1.64"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/blog/2011/05",
+				"feature_value": "1",
+				"cluster_win_mean": "2.64",
+				"delta": "1.64"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/judges",
+				"feature_value": "1",
+				"cluster_win_mean": "2.64",
+				"delta": "1.64"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/sponsor/rsm",
+				"feature_value": "1",
+				"cluster_win_mean": "2.64",
+				"delta": "1.64"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/profile",
+				"feature_value": "1",
+				"cluster_win_mean": "2.64",
+				"delta": "1.64"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/profile/forgot-password",
+				"feature_value": "1",
+				"cluster_win_mean": "2.64",
+				"delta": "1.64"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/terms",
+				"feature_value": "1",
+				"cluster_win_mean": "2.64",
+				"delta": "1.64"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/privacy",
+				"feature_value": "1",
+				"cluster_win_mean": "2.64",
+				"delta": "1.64"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/contact",
+				"feature_value": "2",
+				"cluster_win_mean": "2.64",
+				"delta": "0.64"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/sponsor/infosys",
+				"feature_value": "1",
+				"cluster_win_mean": "2.64",
+				"delta": "1.64"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/sponsor/ukti",
+				"feature_value": "1",
+				"cluster_win_mean": "2.64",
+				"delta": "1.64"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/sponsor/millicom-international-cellular-s.a",
+				"feature_value": "1",
+				"cluster_win_mean": "2.64",
+				"delta": "1.64"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/sponsor/bp-target-neutral",
+				"feature_value": "1",
+				"cluster_win_mean": "2.64",
+				"delta": "1.64"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/news/item/europes-leading-businesses-expanding-internationally",
+				"feature_value": "1",
+				"cluster_win_mean": "2.64",
+				"delta": "1.64"
+			}
+		],
+		"number_of_hyperlinks_with_file": [
+			{
+				"html_id": "http://www.businessawardseurope.com",
+				"feature_value": "0",
+				"cluster_win_mean": "6.24",
+				"delta": "6.24"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/profile/login",
+				"feature_value": "0",
+				"cluster_win_mean": "6.24",
+				"delta": "6.24"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/profile/register",
+				"feature_value": "0",
+				"cluster_win_mean": "6.24",
+				"delta": "6.24"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/TV",
+				"feature_value": "0",
+				"cluster_win_mean": "6.24",
+				"delta": "6.24"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/gallery",
+				"feature_value": "0",
+				"cluster_win_mean": "6.24",
+				"delta": "6.24"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/archive/3/2011",
+				"feature_value": "0",
+				"cluster_win_mean": "6.24",
+				"delta": "6.24"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/know",
+				"feature_value": "0",
+				"cluster_win_mean": "6.24",
+				"delta": "6.24"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/news",
+				"feature_value": "0",
+				"cluster_win_mean": "6.24",
+				"delta": "6.24"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/blog",
+				"feature_value": "0",
+				"cluster_win_mean": "6.24",
+				"delta": "6.24"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/blog/2013/06",
+				"feature_value": "0",
+				"cluster_win_mean": "6.24",
+				"delta": "6.24"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/blog/2013/03",
+				"feature_value": "0",
+				"cluster_win_mean": "6.24",
+				"delta": "6.24"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/blog/2012/09",
+				"feature_value": "0",
+				"cluster_win_mean": "6.24",
+				"delta": "6.24"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/blog/2012/02",
+				"feature_value": "0",
+				"cluster_win_mean": "6.24",
+				"delta": "6.24"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/blog/2011/10",
+				"feature_value": "0",
+				"cluster_win_mean": "6.24",
+				"delta": "6.24"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/blog/2011/08",
+				"feature_value": "0",
+				"cluster_win_mean": "6.24",
+				"delta": "6.24"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/blog/2011/07",
+				"feature_value": "0",
+				"cluster_win_mean": "6.24",
+				"delta": "6.24"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/blog/2011/05",
+				"feature_value": "0",
+				"cluster_win_mean": "6.24",
+				"delta": "6.24"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/blog/item/judging-the-judges-how-we-pick-our-awards-team",
+				"feature_value": "0",
+				"cluster_win_mean": "6.24",
+				"delta": "6.24"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/judges",
+				"feature_value": "0",
+				"cluster_win_mean": "6.24",
+				"delta": "6.24"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/sponsor/rsm",
+				"feature_value": "1",
+				"cluster_win_mean": "6.24",
+				"delta": "5.24"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/profile",
+				"feature_value": "0",
+				"cluster_win_mean": "6.24",
+				"delta": "6.24"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/profile/forgot-password",
+				"feature_value": "0",
+				"cluster_win_mean": "6.24",
+				"delta": "6.24"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/terms",
+				"feature_value": "3",
+				"cluster_win_mean": "6.24",
+				"delta": "3.24"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/privacy",
+				"feature_value": "1",
+				"cluster_win_mean": "6.24",
+				"delta": "5.24"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/contact",
+				"feature_value": "5",
+				"cluster_win_mean": "6.24",
+				"delta": "1.24"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/sponsor/infosys",
+				"feature_value": "1",
+				"cluster_win_mean": "6.24",
+				"delta": "5.24"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/sponsor/ukti",
+				"feature_value": "1",
+				"cluster_win_mean": "6.24",
+				"delta": "5.24"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/sponsor/millicom-international-cellular-s.a",
+				"feature_value": "0",
+				"cluster_win_mean": "6.24",
+				"delta": "6.24"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/sponsor/bp-target-neutral",
+				"feature_value": "0",
+				"cluster_win_mean": "6.24",
+				"delta": "6.24"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/blog/item/overcoming-obstacles-for-an-outstanding-gala-event",
+				"feature_value": "0",
+				"cluster_win_mean": "6.24",
+				"delta": "6.24"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/blog/item/european-business-awards-becoming-carbon-neutral",
+				"feature_value": "1",
+				"cluster_win_mean": "6.24",
+				"delta": "5.24"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/blog/item/networking-success-at-european-business-awards-luncheon",
+				"feature_value": "0",
+				"cluster_win_mean": "6.24",
+				"delta": "6.24"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/blog/item/everyones-a-winner-by-adrian-tripp-ceo-european-business-awards",
+				"feature_value": "0",
+				"cluster_win_mean": "6.24",
+				"delta": "6.24"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/blog/item/rsm-world-day",
+				"feature_value": "0",
+				"cluster_win_mean": "6.24",
+				"delta": "6.24"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/blog/item/opinion-why-theres-good-news-from-our-european-business-elite",
+				"feature_value": "0",
+				"cluster_win_mean": "6.24",
+				"delta": "6.24"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/blog/item/my-two-biggest-business-challenges",
+				"feature_value": "0",
+				"cluster_win_mean": "6.24",
+				"delta": "6.24"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/blog/item/a-new-model-for-funding-innovators",
+				"feature_value": "0",
+				"cluster_win_mean": "6.24",
+				"delta": "6.24"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/blog/item/enter-the-dragon-how-managing-finances-in-chinas-currency-could-pay-dividen",
+				"feature_value": "0",
+				"cluster_win_mean": "6.24",
+				"delta": "6.24"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/blog/item/blanket-coverage-how-a-sleep-product-entrepreneur-became-a-hit-with-the-med",
+				"feature_value": "0",
+				"cluster_win_mean": "6.24",
+				"delta": "6.24"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/blog/item/welcome-to-the-jungle",
+				"feature_value": "0",
+				"cluster_win_mean": "6.24",
+				"delta": "6.24"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/news/item/europes-leading-businesses-expanding-internationally",
+				"feature_value": "0",
+				"cluster_win_mean": "6.24",
+				"delta": "6.24"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/blog/item/performing-regardless-business-and-the-paralympics",
+				"feature_value": "0",
+				"cluster_win_mean": "6.24",
+				"delta": "6.24"
+			}
+		],
+		"number_of_images_missing_alt": [
+			{
+				"html_id": "http://www.businessawardseurope.com",
+				"feature_value": "15",
+				"cluster_win_mean": "16.99",
+				"delta": " 1.99"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/profile/login",
+				"feature_value": "11",
+				"cluster_win_mean": "16.99",
+				"delta": " 5.99"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/profile/register",
+				"feature_value": "11",
+				"cluster_win_mean": "16.99",
+				"delta": " 5.99"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/TV",
+				"feature_value": "10",
+				"cluster_win_mean": "16.99",
+				"delta": " 6.99"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/archive/3/2011",
+				"feature_value": "11",
+				"cluster_win_mean": "16.99",
+				"delta": " 5.99"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/know",
+				"feature_value": "11",
+				"cluster_win_mean": "16.99",
+				"delta": " 5.99"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/blog",
+				"feature_value": "11",
+				"cluster_win_mean": "16.99",
+				"delta": " 5.99"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/blog/2013/06",
+				"feature_value": "11",
+				"cluster_win_mean": "16.99",
+				"delta": " 5.99"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/blog/2013/03",
+				"feature_value": "11",
+				"cluster_win_mean": "16.99",
+				"delta": " 5.99"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/blog/2012/09",
+				"feature_value": "11",
+				"cluster_win_mean": "16.99",
+				"delta": " 5.99"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/blog/2012/02",
+				"feature_value": "11",
+				"cluster_win_mean": "16.99",
+				"delta": " 5.99"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/blog/2011/10",
+				"feature_value": "11",
+				"cluster_win_mean": "16.99",
+				"delta": " 5.99"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/blog/2011/08",
+				"feature_value": "11",
+				"cluster_win_mean": "16.99",
+				"delta": " 5.99"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/blog/2011/07",
+				"feature_value": "11",
+				"cluster_win_mean": "16.99",
+				"delta": " 5.99"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/blog/2011/05",
+				"feature_value": "11",
+				"cluster_win_mean": "16.99",
+				"delta": " 5.99"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/blog/item/judging-the-judges-how-we-pick-our-awards-team",
+				"feature_value": "13",
+				"cluster_win_mean": "16.99",
+				"delta": " 3.99"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/sponsor/rsm",
+				"feature_value": "16",
+				"cluster_win_mean": "16.99",
+				"delta": " 0.99"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/profile",
+				"feature_value": "11",
+				"cluster_win_mean": "16.99",
+				"delta": " 5.99"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/profile/forgot-password",
+				"feature_value": " 2",
+				"cluster_win_mean": "16.99",
+				"delta": "14.99"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/terms",
+				"feature_value": "11",
+				"cluster_win_mean": "16.99",
+				"delta": " 5.99"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/privacy",
+				"feature_value": "11",
+				"cluster_win_mean": "16.99",
+				"delta": " 5.99"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/contact",
+				"feature_value": "16",
+				"cluster_win_mean": "16.99",
+				"delta": " 0.99"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/sponsor/infosys",
+				"feature_value": "16",
+				"cluster_win_mean": "16.99",
+				"delta": " 0.99"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/sponsor/ukti",
+				"feature_value": "16",
+				"cluster_win_mean": "16.99",
+				"delta": " 0.99"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/sponsor/millicom-international-cellular-s.a",
+				"feature_value": "16",
+				"cluster_win_mean": "16.99",
+				"delta": " 0.99"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/sponsor/bp-target-neutral",
+				"feature_value": "16",
+				"cluster_win_mean": "16.99",
+				"delta": " 0.99"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/blog/item/overcoming-obstacles-for-an-outstanding-gala-event",
+				"feature_value": "14",
+				"cluster_win_mean": "16.99",
+				"delta": " 2.99"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/blog/item/european-business-awards-becoming-carbon-neutral",
+				"feature_value": "14",
+				"cluster_win_mean": "16.99",
+				"delta": " 2.99"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/blog/item/networking-success-at-european-business-awards-luncheon",
+				"feature_value": "14",
+				"cluster_win_mean": "16.99",
+				"delta": " 2.99"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/blog/item/everyones-a-winner-by-adrian-tripp-ceo-european-business-awards",
+				"feature_value": "14",
+				"cluster_win_mean": "16.99",
+				"delta": " 2.99"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/blog/item/rsm-world-day",
+				"feature_value": "13",
+				"cluster_win_mean": "16.99",
+				"delta": " 3.99"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/blog/item/opinion-why-theres-good-news-from-our-european-business-elite",
+				"feature_value": "14",
+				"cluster_win_mean": "16.99",
+				"delta": " 2.99"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/blog/item/my-two-biggest-business-challenges",
+				"feature_value": "14",
+				"cluster_win_mean": "16.99",
+				"delta": " 2.99"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/blog/item/a-new-model-for-funding-innovators",
+				"feature_value": "13",
+				"cluster_win_mean": "16.99",
+				"delta": " 3.99"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/blog/item/enter-the-dragon-how-managing-finances-in-chinas-currency-could-pay-dividen",
+				"feature_value": "14",
+				"cluster_win_mean": "16.99",
+				"delta": " 2.99"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/blog/item/blanket-coverage-how-a-sleep-product-entrepreneur-became-a-hit-with-the-med",
+				"feature_value": "14",
+				"cluster_win_mean": "16.99",
+				"delta": " 2.99"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/blog/item/welcome-to-the-jungle",
+				"feature_value": "13",
+				"cluster_win_mean": "16.99",
+				"delta": " 3.99"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/news/item/europes-leading-businesses-expanding-internationally",
+				"feature_value": "16",
+				"cluster_win_mean": "16.99",
+				"delta": " 0.99"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/blog/item/performing-regardless-business-and-the-paralympics",
+				"feature_value": "13",
+				"cluster_win_mean": "16.99",
+				"delta": " 3.99"
+			}
+		],
+		"anchor_number_of_dictionary_words": [
+			{
+				"html_id": "http://www.businessawardseurope.com",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/profile/login",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/profile/register",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/TV",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/gallery",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/archive/3/2011",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/know",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/news",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/blog",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/blog/2013/06",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/blog/2013/03",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/blog/2012/09",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/blog/2012/02",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/blog/2011/10",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/blog/2011/08",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/blog/2011/07",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/blog/2011/05",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/blog/item/judging-the-judges-how-we-pick-our-awards-team",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/judges",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/sponsor/rsm",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/profile",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/profile/forgot-password",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/terms",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/privacy",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/contact",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/sponsor/infosys",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/sponsor/ukti",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/sponsor/millicom-international-cellular-s.a",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/sponsor/bp-target-neutral",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/blog/item/overcoming-obstacles-for-an-outstanding-gala-event",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/blog/item/european-business-awards-becoming-carbon-neutral",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/blog/item/networking-success-at-european-business-awards-luncheon",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/blog/item/everyones-a-winner-by-adrian-tripp-ceo-european-business-awards",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/blog/item/rsm-world-day",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/blog/item/opinion-why-theres-good-news-from-our-european-business-elite",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/blog/item/my-two-biggest-business-challenges",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/blog/item/a-new-model-for-funding-innovators",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/blog/item/enter-the-dragon-how-managing-finances-in-chinas-currency-could-pay-dividen",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/blog/item/blanket-coverage-how-a-sleep-product-entrepreneur-became-a-hit-with-the-med",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/blog/item/welcome-to-the-jungle",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/news/item/europes-leading-businesses-expanding-internationally",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/blog/item/performing-regardless-business-and-the-paralympics",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			}
+		],
+		"maximum_length_of_h1": [
+			{
+				"html_id": "http://www.businessawardseurope.com/profile/login",
+				"feature_value": "0",
+				"cluster_win_mean": "83.66",
+				"delta": "83.66"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/profile/register",
+				"feature_value": "0",
+				"cluster_win_mean": "83.66",
+				"delta": "83.66"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/TV",
+				"feature_value": "0",
+				"cluster_win_mean": "83.66",
+				"delta": "83.66"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/gallery",
+				"feature_value": "0",
+				"cluster_win_mean": "83.66",
+				"delta": "83.66"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/archive/3/2011",
+				"feature_value": "0",
+				"cluster_win_mean": "83.66",
+				"delta": "83.66"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/know",
+				"feature_value": "0",
+				"cluster_win_mean": "83.66",
+				"delta": "83.66"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/news",
+				"feature_value": "0",
+				"cluster_win_mean": "83.66",
+				"delta": "83.66"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/blog",
+				"feature_value": "0",
+				"cluster_win_mean": "83.66",
+				"delta": "83.66"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/blog/2013/06",
+				"feature_value": "0",
+				"cluster_win_mean": "83.66",
+				"delta": "83.66"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/blog/2013/03",
+				"feature_value": "0",
+				"cluster_win_mean": "83.66",
+				"delta": "83.66"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/blog/2012/09",
+				"feature_value": "0",
+				"cluster_win_mean": "83.66",
+				"delta": "83.66"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/blog/2012/02",
+				"feature_value": "0",
+				"cluster_win_mean": "83.66",
+				"delta": "83.66"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/blog/2011/10",
+				"feature_value": "0",
+				"cluster_win_mean": "83.66",
+				"delta": "83.66"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/blog/2011/08",
+				"feature_value": "0",
+				"cluster_win_mean": "83.66",
+				"delta": "83.66"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/blog/2011/07",
+				"feature_value": "0",
+				"cluster_win_mean": "83.66",
+				"delta": "83.66"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/blog/2011/05",
+				"feature_value": "0",
+				"cluster_win_mean": "83.66",
+				"delta": "83.66"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/blog/item/judging-the-judges-how-we-pick-our-awards-team",
+				"feature_value": "0",
+				"cluster_win_mean": "83.66",
+				"delta": "83.66"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/judges",
+				"feature_value": "0",
+				"cluster_win_mean": "83.66",
+				"delta": "83.66"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/sponsor/rsm",
+				"feature_value": "0",
+				"cluster_win_mean": "83.66",
+				"delta": "83.66"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/profile",
+				"feature_value": "0",
+				"cluster_win_mean": "83.66",
+				"delta": "83.66"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/profile/forgot-password",
+				"feature_value": "0",
+				"cluster_win_mean": "83.66",
+				"delta": "83.66"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/terms",
+				"feature_value": "0",
+				"cluster_win_mean": "83.66",
+				"delta": "83.66"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/privacy",
+				"feature_value": "0",
+				"cluster_win_mean": "83.66",
+				"delta": "83.66"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/contact",
+				"feature_value": "0",
+				"cluster_win_mean": "83.66",
+				"delta": "83.66"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/sponsor/infosys",
+				"feature_value": "0",
+				"cluster_win_mean": "83.66",
+				"delta": "83.66"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/sponsor/ukti",
+				"feature_value": "0",
+				"cluster_win_mean": "83.66",
+				"delta": "83.66"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/sponsor/millicom-international-cellular-s.a",
+				"feature_value": "0",
+				"cluster_win_mean": "83.66",
+				"delta": "83.66"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/sponsor/bp-target-neutral",
+				"feature_value": "0",
+				"cluster_win_mean": "83.66",
+				"delta": "83.66"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/blog/item/overcoming-obstacles-for-an-outstanding-gala-event",
+				"feature_value": "0",
+				"cluster_win_mean": "83.66",
+				"delta": "83.66"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/blog/item/european-business-awards-becoming-carbon-neutral",
+				"feature_value": "0",
+				"cluster_win_mean": "83.66",
+				"delta": "83.66"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/blog/item/networking-success-at-european-business-awards-luncheon",
+				"feature_value": "0",
+				"cluster_win_mean": "83.66",
+				"delta": "83.66"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/blog/item/everyones-a-winner-by-adrian-tripp-ceo-european-business-awards",
+				"feature_value": "0",
+				"cluster_win_mean": "83.66",
+				"delta": "83.66"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/blog/item/rsm-world-day",
+				"feature_value": "0",
+				"cluster_win_mean": "83.66",
+				"delta": "83.66"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/blog/item/opinion-why-theres-good-news-from-our-european-business-elite",
+				"feature_value": "0",
+				"cluster_win_mean": "83.66",
+				"delta": "83.66"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/blog/item/my-two-biggest-business-challenges",
+				"feature_value": "0",
+				"cluster_win_mean": "83.66",
+				"delta": "83.66"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/blog/item/a-new-model-for-funding-innovators",
+				"feature_value": "0",
+				"cluster_win_mean": "83.66",
+				"delta": "83.66"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/blog/item/enter-the-dragon-how-managing-finances-in-chinas-currency-could-pay-dividen",
+				"feature_value": "0",
+				"cluster_win_mean": "83.66",
+				"delta": "83.66"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/blog/item/blanket-coverage-how-a-sleep-product-entrepreneur-became-a-hit-with-the-med",
+				"feature_value": "0",
+				"cluster_win_mean": "83.66",
+				"delta": "83.66"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/blog/item/welcome-to-the-jungle",
+				"feature_value": "0",
+				"cluster_win_mean": "83.66",
+				"delta": "83.66"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/news/item/europes-leading-businesses-expanding-internationally",
+				"feature_value": "0",
+				"cluster_win_mean": "83.66",
+				"delta": "83.66"
+			},
+			{
+				"html_id": "http://www.businessawardseurope.com/blog/item/performing-regardless-business-and-the-paralympics",
+				"feature_value": "0",
+				"cluster_win_mean": "83.66",
+				"delta": "83.66"
 			}
 		]
 	}
