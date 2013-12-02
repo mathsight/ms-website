@@ -52,6 +52,7 @@ function initDataTables(){
 			"bProcessing": true,
 			"sAjaxSource": "/json/drilldown/"+websiteName+"_XDrill.json",
 			"sAjaxDataProp": "onsite."+ featureNameJSON,
+			"bDeferRender": true,
 			"sDom": "<'row-fluid'<'span6'T><'span6'f>r>t<'row-fluid'<'span6'i><'span6'p>>",
 			"oTableTools": {
 				"aButtons": [
@@ -288,9 +289,12 @@ rel="stylesheet" type="text/css">
 		  
 		  <hr>
 
+
 		  <p>
-		  <a href="/statseo.html">Return to top level summary</a>
+			  <script>document.write('<a href="/statseo.html?=' + websiteName +'">Return to top level summary for '+ websiteName +'</a>');</script>
+		
 		  </p>
+		  
 		  <div class="spacer"></div>
 		  <hr>
 
