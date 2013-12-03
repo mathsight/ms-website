@@ -1,0 +1,942 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>MathSight StatSEO Demo</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="stylesheet" href="https://d396qusza40orc.cloudfront.net/startup%2Fcode%2Fbootstrap-combined.no-icons.min.css">
+	<link rel="stylesheet" href="http://netdna.bootstrapcdn.com/font-awesome/3.0.2/css/font-awesome.css">
+	<link rel="stylesheet" href="https://d396qusza40orc.cloudfront.net/startup%2Fcode%2Fsocial-buttons.css">  
+	
+	<!-- for toggle switch -->
+	<meta http-equiv="X-UA-Compatible" content="IE=9; IE=8;" />
+	<link rel="stylesheet" href="bootstrap-switch/static/stylesheets/bootstrap-switch.css" />
+	<link rel="stylesheet" href="http://netdna.bootstrapcdn.com/twitter-bootstrap/2.3.2/css/bootstrap-combined.min.css">
+	
+	<script src="//ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.js"></script>
+	<script src="https://d396qusza40orc.cloudfront.net/startup%2Fcode%2Fbootstrap.js"></script>
+	<script src="//netdna.bootstrapcdn.com/bootstrap/3.0.2/js/bootstrap.min.js"></script>
+	<!-- for datatables' styling -->
+	<link href="http://fonts.googleapis.com/css?family=Ubuntu:300,400,500,700,300italic,400italic,500italic,700italic" rel="stylesheet" type="text/css">
+	<link href="http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,300,400,600,700,800" rel="stylesheet" type="text/css">
+	
+	<!-- Optional theme -->
+	<link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.0.2/css/bootstrap-theme.min.css">
+
+	<script src="//ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
+
+	<!-- for datatables -->
+	<script src="datatables/media/js/jquery.dataTables.js"></script>
+	
+	<!-- for toggle switch -->
+	<!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script> -->
+	<script src="bootstrap-switch/static/js/bootstrap-switch.js"></script>  
+	<script src="http://cdnjs.cloudflare.com/ajax/libs/bootstrap-switch/1.8/bootstrap-switch.min.js"></script>    
+
+	<!-- for datatables' styling etc -->
+	<script type="text/javascript" charset="utf-8" src="datatables/media/js/ZeroClipboard.js"></script>
+	<script type="text/javascript" charset="utf-8" src="datatables/media/js/TableTools.js"></script>
+	<script type="text/javascript" charset="utf-8" src="http://datatables.github.com/Plugins/integration/bootstrap/2/dataTables.bootstrap.js"></script>
+	
+<!-- 	<script type="text/javascript" charset="utf-8">
+	$(document).ready( function () {
+		$('#example').dataTable( {
+			
+			
+		} );
+	} );
+	</script>
+	 -->
+	
+	<!-- for nv.d3 charts -->
+	<link href="src/nv.d3.css" rel="stylesheet" type="text/css">
+	
+	<!-- for datatables -->
+	<style type="text/css" title="currentStyle">
+	@import "datatables/media/css/demo_page.css"; 
+	@import "datatables/media/css/header.ccss";
+	@import "datatables/media/css/demo_table.css";
+	
+	/* for re-styling and CSV export */
+	@import "http://netdna.bootstrapcdn.com/twitter-bootstrap/2.3.2/css/bootstrap-combined.min.css";
+	@import "http://datatables.github.com/Plugins/integration/bootstrap/2/dataTables.bootstrap.css";
+	
+	</style>
+	
+	
+	<style>
+				canvas{
+				}
+			</style>
+	
+	<style type="text/css">
+
+      /* Large desktop */
+      @media (min-width: 980px) { 
+        body {
+         padding-top: 60px;
+        }
+       .linediv-l {
+         border-right: 1px white solid;
+        }
+       .linediv-r {
+         border-left: 1px white solid;
+       }
+      }
+
+      /* Landscape phones and down */
+      @media (max-width: 480px) { 
+       .copy {
+         padding: 2.5% 10%;
+       }
+       .linediv-l {
+         border-bottom: 1px white solid;
+       }
+       .linediv-r {
+         border-top: 1px white solid;
+       }
+      }
+
+      /* All form factors */
+
+      /* Main body and headings */
+      body{
+        font-family: 'Open Sans', Helvetica, Arial, sans-serif;
+      }
+      .heading, .subheading {
+        font-family: 'Ubuntu', Helvetica, Arial, sans-serif;
+        text-align: center;
+      }
+      p.lead {
+        padding-top: 1.5%;
+        font-size: 24px;
+        line-height: 30px;
+      }
+      p {
+        font-size: 18px;
+        line-height: 24px;
+      }
+
+      /* Video pitch and Action */
+      .pitch {
+        padding: 2.5% 0%;
+      }
+      .order {
+        padding: 2% 0%;
+      }
+      .actions {
+        background-color: #343434;
+        padding: 3% 0%;
+      }
+      .video, .thermometer, .order, .social, .statistics {
+        text-align: center;
+      }
+      .statistics h3, .statistics p {
+        color: white;
+      }
+
+      /* Marketing Copy and Footer */
+      .copy {
+        padding-top: 2.5%;
+        padding-bottom: 2.5%;
+        text-align: justify;
+      }
+      .asset {
+        padding: 2.5% 0%;
+      }
+      .footer {
+        color: #cccccc;
+        text-align: center;
+      }
+      .footer p {
+        font-size: 11px;
+      }
+      .footer a {
+        color: #ccccff;
+      }
+    </style>
+    
+    
+    
+    
+	<style>
+	/* for chart (nvd3) */
+	body {
+		overflow-y:scroll;
+	}
+
+	text {
+		font: 12px sans-serif;
+	}
+
+	#chart1 {
+		margin: 10px;
+		min-width: 100px;
+		min-height: 100px;
+		/*
+		Minimum height and width is a good idea to prevent negative SVG dimensions...
+		For example width should be =< margin.left + margin.right + 1,
+		of course 1 pixel for the entire chart would not be very useful, BUT should not have errors
+		*/
+	}
+
+	#chart1 svg {
+		height: 500px;
+	}
+
+	</style>
+
+	
+
+<script>
+
+
+/* Global vars */
+var locate = decodeURI(window.location);
+var urlSplit = locate.split("=");
+var websiteName = urlSplit[1] || "leighmans";
+
+// var websiteURL = "www.leighmans.com";
+// var websiteSplit = websiteURL.split(".");
+// var websiteName = websiteSplit[1];
+
+
+$.fn.dataTableExt.oApi.fnReloadAjax = function ( oSettings, sNewSource, fnCallback, bStandingRedraw )
+{
+    if ( sNewSource !== undefined && sNewSource !== null ) {
+        oSettings.sAjaxSource = sNewSource;
+    }
+ 
+    // Server-side processing should just call fnDraw
+    if ( oSettings.oFeatures.bServerSide ) {
+        this.fnDraw();
+        return;
+    }
+ 
+    this.oApi._fnProcessingDisplay( oSettings, true );
+    var that = this;
+    var iStart = oSettings._iDisplayStart;
+    var aData = [];
+ 
+    this.oApi._fnServerParams( oSettings, aData );
+ 
+    oSettings.fnServerData.call( oSettings.oInstance, oSettings.sAjaxSource, aData, function(json) {
+        /* Clear the old information from the table */
+        that.oApi._fnClearTable( oSettings );
+ 
+        /* Got the data - add it to the table */
+        var aData =  (oSettings.sAjaxDataProp !== "") ?
+            that.oApi._fnGetObjectDataFn( oSettings.sAjaxDataProp )( json ) : json;
+ 
+        for ( var i=0 ; i<aData.length ; i++ )
+        {
+            that.oApi._fnAddData( oSettings, aData[i] );
+        }
+         
+        oSettings.aiDisplay = oSettings.aiDisplayMaster.slice();
+ 
+        that.fnDraw();
+ 
+        if ( bStandingRedraw === true )
+        {
+            oSettings._iDisplayStart = iStart;
+            that.oApi._fnCalculateEnd( oSettings );
+            that.fnDraw( false );
+        }
+ 
+        that.oApi._fnProcessingDisplay( oSettings, false );
+ 
+        /* Callback user function - for event handlers etc */
+        if ( typeof fnCallback == 'function' && fnCallback !== null )
+        {
+            fnCallback( oSettings );
+        }
+    }, oSettings );
+};
+
+
+jQuery(document).ready(function($) {
+	$(".clickableRow").click(function() {
+		window.document.location = $(this).attr("href");
+	});
+});
+	
+	
+var dataTableOne;
+var dataTableTwo;
+var dataTableThree;
+var dataTableFour;
+
+function initDataTables(){
+
+	dataTableOne = $('#example3').dataTable( {
+		"bProcessing": true,
+		"sAjaxSource": "/json/summary/"+websiteName+"_Xhat.json",
+		"sAjaxDataProp": "onsite",
+		"aaSorting": [[ 4, "desc" ]],
+		"sDom": "<'row-fluid'<'span6'T><'span6'f>r>t<'row-fluid'<'span6'i><'span6'p>>",
+		"oTableTools": {
+			"aButtons": [
+			"copy",
+			"print",
+			{
+				"sExtends":    "collection",
+				"sButtonText": 'Save <span class="caret" />',
+				"aButtons":    [ "csv", "xls", "pdf" ]
+			}
+			]
+		},
+		"aoColumns": [
+		null,
+		{ "mData": null , //its null here because history column will contain the mRender
+		"mRender" : function ( data, type, full) {
+			return '<a href="onsite_SQ_drilldown.html?=' + websiteName + '&='+ full[1] +'">'+full[1]+'</a>';
+		}
+	},
+	null,
+	{"bVisible": false},
+	null,
+	{"bVisible": false},		
+	{"bVisible": false},
+	{"bVisible": false},
+	{"bVisible": false},
+	{"bVisible": false}
+	]
+} );
+
+		
+	
+dataTableTwo = $('#example3b').dataTable( {
+	"bProcessing": true,
+	"sAjaxSource": "/json/summary/"+websiteName+"_Xhat.json",
+	"sAjaxDataProp": "onsite",
+	"aaSorting": [[ 7, "desc" ]],
+	"sDom": "<'row-fluid'<'span6'T><'span6'f>r>t<'row-fluid'<'span6'i><'span6'p>>",
+	"oTableTools": {
+		"aButtons": [
+		"copy",
+		"print",
+		{
+			"sExtends":    "collection",
+			"sButtonText": 'Save <span class="caret" />',
+			"aButtons":    [ "csv", "xls", "pdf" ]
+		}
+		]
+	},
+	"aoColumns": [
+	null,
+	null,
+	{"bVisible": false},
+	null,
+	{"bVisible": false},
+	{"bVisible": false},
+	{"bVisible": false},
+	null,
+	{"bVisible": false},
+	{"bVisible": false}
+	]
+} );
+
+		
+dataTableThree = $('#example4').dataTable( {
+	"bProcessing": true,
+	"sAjaxSource": "/json/summary/"+websiteName+"_XhatOff.json",
+	"sAjaxDataProp": "offsite",
+	"aaSorting": [[ 4, "desc" ]],
+	"sDom": "<'row-fluid'<'span6'T><'span6'f>r>t<'row-fluid'<'span6'i><'span6'p>>",
+	"oTableTools": {
+		"aButtons": [
+		"copy",
+		"print",
+		{
+			"sExtends":    "collection",
+			"sButtonText": 'Save <span class="caret" />',
+			"aButtons":    [ "csv", "xls", "pdf" ]
+		}
+		]
+	},
+	"aoColumns": [
+	null,
+	{ "mData": null , //its null here because history column will contain the mRender
+	"mRender" : function ( data, type, full) {
+		return '<a href="offsite_SQ_drilldown.html?=' + websiteName + '&='+ full[1] +'">'+full[1]+'</a>';
+	}
+},
+null,
+{"bVisible": false},
+null,
+{"bVisible": false},		
+{"bVisible": false},
+{"bVisible": false},
+{"bVisible": false},
+{"bVisible": false}
+]
+} );
+
+dataTableFour = $('#example4b').dataTable( {
+"bProcessing": true,
+"sAjaxSource": "/json/summary/"+websiteName+"_XhatOff.json",
+"sAjaxDataProp": "offsite",
+"aaSorting": [[ 7, "desc" ]],
+"sDom": "<'row-fluid'<'span6'T><'span6'f>r>t<'row-fluid'<'span6'i><'span6'p>>",
+"oTableTools": {
+	"aButtons": [
+	"copy",
+	"print",
+	{
+		"sExtends":    "collection",
+		"sButtonText": 'Save <span class="caret" />',
+		"aButtons":    [ "csv", "xls", "pdf" ]
+	}
+	]
+},
+"aoColumns": [
+null,
+null,
+{"bVisible": false},
+null,
+{"bVisible": false},
+{"bVisible": false},
+{"bVisible": false},
+null,
+{"bVisible": false},
+{"bVisible": false}
+]
+} );
+
+}
+
+/* within ready event of pageload */
+
+$(document).ready(function(){
+initDataTables();
+/* all other page load code*/
+
+});
+	
+</script>
+	
+
+	<script>
+
+
+	function doStuff()
+	{
+		var nameElement = document.getElementById("inputURL");
+	        
+		var websiteURLNew = nameElement.value;
+		var websiteSplitNew = websiteURLNew.split(".");
+		websiteName = websiteSplitNew[1];
+		document.getElementById("dispUrl").innerHTML = "for " + websiteName;
+		
+		dataTableOne.fnReloadAjax("/json/summary/"+websiteName+"_Xhat.json");
+		dataTableTwo.fnReloadAjax("/json/summary/"+websiteName+"_Xhat.json");
+		dataTableThree.fnReloadAjax("/json/summary/"+websiteName+"_XhatOff.json");
+		dataTableFour.fnReloadAjax("/json/summary/"+websiteName+"_XhatOff.json");
+
+		newFile = "/json/toplevel/" + websiteName + "_ybar.json";
+		redrawGraph(newFile);    
+
+	}
+	
+	</script>
+
+	<script src="lib/d3.v3.js"></script>
+	<script src="assets/js/nv.d3.js"></script>
+	<script src="src/utils.js"></script>
+	<script src="src/tooltip.js"></script>
+	<script src="src/models/legend.js"></script>
+	<script src="src/models/axis.js"></script>
+	<script src="src/models/multiBarHorizontal.js"></script>
+	<script src="src/models/multiBarHorizontalChart.js"></script>
+	<script src="assets/js/stream_layers.js"></script>
+
+		<script>
+
+
+
+
+var topLevelFile = "/json/toplevel/" + websiteName + "_ybar.json";
+
+
+d3.json(topLevelFile, function(data) {
+
+	var chart;
+	nv.addGraph(function() {
+		chart = nv.models.multiBarHorizontalChart()
+		.x(function(d) { return d.label })
+		.y(function(d) { return d.value })
+		.margin({top: 30, right: 100, bottom: 50, left: 100})
+		//.showValues(true)
+		//.tooltips(false)
+		//.barColor(d3.scale.category20().range())
+		.transitionDuration(250)
+		.stacked(false)
+		//.showControls(false);
+
+		chart.yAxis
+		.tickFormat(d3.format(',.2f'));
+
+		d3.select('#chart1 svg')
+		.datum(data)
+		.call(chart);
+
+		nv.utils.windowResize(chart.update);
+
+		chart.dispatch.on('stateChange', function(e) { nv.log('New State:', JSON.stringify(e)); });
+
+		return chart;
+	});
+});
+
+
+
+
+redrawGraph = function(file) {
+  d3.json(file, function(data) {
+	  
+	chart = nv.models.multiBarHorizontalChart()
+	.x(function(d) { return d.label })
+	.y(function(d) { return d.value })
+	.margin({top: 30, right: 100, bottom: 50, left: 100})
+	//.showValues(true)
+	//.tooltips(false)
+	//.barColor(d3.scale.category20().range())
+	.transitionDuration(250)
+	.stacked(false)
+	//.showControls(false);
+
+	chart.yAxis
+	.tickFormat(d3.format(',.2f'));
+	  
+	d3.select('#chart1 svg')
+	.datum(data)
+	.call(chart);
+	
+    nv.utils.windowResize(chart.update);
+  });
+};
+
+</script>
+	
+	
+	<script class="code" type="text/javascript">
+	
+	$("#content span").html("World!");
+	</script>
+	
+
+  </head>
+  <body>
+
+    <!-- Mobile-friendly navbar adapted from example. -->
+    <!-- http://twitter.github.io/bootstrap/examples/starter-template.html -->
+    <div class="navbar navbar-inverse navbar-fixed-top">
+      <div class="navbar-inner">
+        <div class="container">
+          <button type="button" class="btn btn-navbar"
+                  data-toggle="collapse" data-target=".nav-collapse">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="brand" href="/">MathSight Demo</a>
+          <div class="nav-collapse collapse">
+            <ul class="nav">
+                <li class="active"><a href="/">Home</a></li>
+                <!-- <li><a href="/plans.html">Plans</a></li> -->
+                <!-- <li class="active"><a href="/tour.html">Tour</a></li> -->
+				<li><a href="/api.html">API</a></li>
+				<!-- <li><a href="/jobs.html">Jobs</a></li> -->
+            </ul>
+          </div><!--/.nav-collapse -->
+        </div>
+      </div>
+    </div>
+
+    <!-- We use row-fluid inside containers to achieve a resizable layout. -->
+    <!-- blogs.endjin.com/2013/04/tips-for-implementing-responsive-designs-using-bootstrap/ -->
+    <!-- http://stackoverflow.com/a/12270322 -->
+    <div class="container">
+      <!-- Font and paired font of .heading/.subheading and body from Google Fonts -->
+      <!-- www.google.com/fonts/specimen/Ubuntu -->
+      <!-- www.google.com/fonts/specimen/Ubuntu#pairings -->
+      <div class="row-fluid heading">
+        <div class="span12">
+          <h1>StatSEO: Demonstration</h1>
+        </div>
+      </div> 
+	    
+      <div class="row-fluid subheading">
+		  <div class="span12">
+			  
+			  <div class="form-group">
+				  <label>
+					  Enter your domain URL
+				  </label>
+				  <input type="url" class="form-control" id="inputURL">
+			  </div>
+
+			  <button onclick="doStuff()" type="submit" class="btn btn-primary" id="submitUrl">
+				  submit!
+			  </button>
+	
+			</div>  
+			
+		
+			<div class="make-switch" data-on-label="ONSITE" data-off-label="OFFSITE" data-on="primary" data-off="info">
+			  <label>
+				  Select onsite or offsite
+			  </label>
+			    <input type="checkbox" checked>
+			</div>
+			
+			<div class="dropdown">
+			  <button class="btn dropdown-toggle sr-only" type="button" id="dropdownMenu1" data-toggle="dropdown">
+			    Select feature or StatSEO
+			    <span class="caret"></span>
+			  </button>
+			  <ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu1">
+			    <li role="presentation"><a role="menuitem" tabindex="-1" href="#">Action</a></li>
+			    <li role="presentation"><a role="menuitem" tabindex="-1" href="#">Another action</a></li>
+			    <li role="presentation"><a role="menuitem" tabindex="-1" href="#">Something else here</a></li>
+			    <li role="presentation" class="divider"></li>
+			    <li role="presentation"><a role="menuitem" tabindex="-1" href="#">Separated link</a></li>
+			  </ul>
+			</div>
+			
+			<hr>
+			
+			<div id="dispUrl" class="lead" >
+				
+				<!-- Special typography from Bootstrap for lead paragraph. -->
+				<!-- http://twitter.github.io/bootstrap/base-css.html#typography -->
+				<!-- <p >for </p> -->
+				
+				
+  			  <script>document.write("for " + websiteName);</script>
+  			  
+				
+			</div>
+		  
+			<hr>
+			
+			
+		</div>
+	  
+		<div class="well">
+			<h2>Domain health status summary</h2>
+			<p></p>
+		</div>
+
+
+		<div id="chart1" class='with-3d-shadow with-transitions'>
+			<svg></svg>
+		</div>
+
+
+		<hr>
+		<div class = "well">
+	  
+			<h2>Onsite pages summary</h2>
+			<p></p>
+		</div>
+		
+		<div class="row-fluid pitch">
+			<!-- <hr> -->
+				  
+				  
+			<!-- <h2>Influential Feature Delta to Winning Mean</h2>
+				<p>For top 10 features on aggregate</p> -->
+				<!-- <div id="dynamic"> -->
+					<div class="span6">
+						<div class="panel panel-danger">
+							<div class="panel-heading">
+								<h3 class="panel-title">
+									URLs at risk
+								</h3>
+							</div>
+							<div class="panel-body">
+			  
+								<table cellpadding="0" cellspacing="0" border="0" class="table table-striped table-bordered" id="example3">
+									<thead>
+										<tr>
+											<th width="5%">Influence rank</th>
+											<th width="55%">Feature</th>
+											<th width="5%">Average losing mean</th> 
+											<th width="5%">Average winning mean</th>
+											<th width="5%">#URLs at risk</th>
+											<th width="5%">Average feature value</th>
+											<th width="5%">Average at risk SQ</th>
+											<th width="5%">#URLs healthy</th>			
+											<th width="5%">Average feature value</th>
+											<th width="5%">Average healthy SQ</th>
+										</tr>
+									</thead>
+									<tbody>
+		  
+									</tbody>
+									<tfoot>
+										<tr>
+											<th>Influence rank</th>
+											<th>Feature</th>
+											<th>Average losing mean</th> 
+											<th>Average winning mean</th>
+											<th>#URLs at risk</th>
+											<th>Average feature value</th>
+											<th>Average at risk SQ</th>
+											<th>#URLs healthy</th>			
+											<th>Average feature value</th>
+											<th>Average healthy SQ</th>
+										</tr>
+									</tfoot>
+								</table>
+							</div> <!-- panel-body -->
+						</div> <!-- panel- panel danger -->						
+					</div>  <!-- span6 -->
+					<div></div>
+		<div class="spacer"></div>
+		<div></div>
+		<div class="span6">
+			<div class="panel panel-success" id="healthyBackLinks">
+				<div class="panel-heading">
+					<h3 class="panel-title">
+						Healthy URLs
+					</h3>
+				</div>
+				<div class="panel-body">
+			  
+					<table cellpadding="0" cellspacing="0" border="0" class="table table-striped table-bordered"  id="example3b">
+						<thead>
+							<tr>
+								<th width="5%">Influence rank</th>
+								<th width="55%">Feature</th>
+								<th width="5%">Average losing mean</th> 
+								<th width="5%">Average winning mean</th>
+								<th width="5%">#URLs at risk</th>
+								<th width="5%">Average feature value</th>
+								<th width="5%">Average at risk SQ</th>
+								<th width="5%">#URLs healthy</th>			
+								<th width="5%">Average feature value</th>
+								<th width="5%">Average healthy SQ</th>
+							</tr>
+						</thead>
+						<tbody>
+
+						</tbody>
+						<tfoot>
+							<tr>
+								<th>Influence rank</th>
+								<th>Feature</th>
+								<th>Average losing mean</th> 
+								<th>Average winning mean</th>
+								<th>#URLs at risk</th>
+								<th>Average feature value</th>
+								<th>Average at risk SQ</th>
+								<th>#URLs healthy</th>			
+								<th>Average feature value</th>
+								<th>Average healthy SQ</th>
+							</tr>
+						</tfoot>
+					</table>
+				</div> <!-- panel-body -->
+			</div> <!-- panel- panel success -->						
+		</div>  <!-- span6 -->
+	</div> <!-- pitch row-fluid -->
+									
+								
+		  
+		  <hr>
+		  <p>
+		  Click on the table rows above for customised onsite drilldown
+		  </p>
+		  <div class="spacer"></div>
+		  <hr>
+	  
+	  
+	  
+		  <div class = "well">
+		  
+			  <h2>Offsite links summary</h2>
+			  <p></p>
+		  </div>
+		  
+
+		  
+		  <!-- <p>
+			  <a href="/offsite.html">Click for offsite readability feature summary</a>
+			  </p> -->
+		  
+
+			  <!-- Beyond this part the marketing copy begins. -->
+			  <!-- https://developer.mozilla.org/en-US/docs/Web/CSS/text-align -->
+			  <!-- http://twitter.github.io/bootstrap/base-css.html#images -->
+			  <!-- http://placehold.it -->
+			  
+			  <hr>
+			  <div class="row-fluid">
+				  
+				  <div class="span6">
+					  <!-- <div id="dynamic"> -->
+						  <div class="panel panel-danger">
+							  <div class="panel-heading">
+								  <h3 class="panel-title">
+									  Harmful backlinks
+								  </h3>
+							  </div>
+							  <div class="panel-body">
+				  
+								  <!-- <h2>Influential Feature Delta to Winning Mean</h2>
+									  <p>For top 10 features on aggregate</p> -->
+					  
+									  <table cellpadding="0" cellspacing="0" border="0" class="table table-striped table-bordered" id="example4">
+										<thead>
+											<tr>
+												<th width="5%">Influence rank</th>
+												<th width="55%">Feature</th>
+												<th width="5%">Average losing mean</th> 
+												<th width="5%">Average winning mean</th>
+												<th width="5%">#URLs at risk</th>
+												<th width="5%">Average feature value</th>
+												<th width="5%">Average at risk SQ</th>
+												<th width="5%">#URLs healthy</th>			
+												<th width="5%">Average feature value</th>
+												<th width="5%">Average healthy SQ</th>
+											</tr>
+										</thead>
+										<tbody>
+		  
+										</tbody>
+										<tfoot>
+											<tr>
+												<th>Influence rank</th>
+												<th>Feature</th>
+												<th>Average losing mean</th> 
+												<th>Average winning mean</th>
+												<th>#URLs at risk</th>
+												<th>Average feature value</th>
+												<th>Average at risk SQ</th>
+												<th>#URLs healthy</th>			
+												<th>Average feature value</th>
+												<th>Average healthy SQ</th>
+											</tr>
+										</tfoot>
+									  </table>
+								  </div>  <!-- panel body -->
+			
+							  </div>   <!-- panel panel-success -->
+						  </div>   <!-- span6 -->
+		
+						  <div class="spacer"></div>
+				
+						  <div class="span6">
+							  <div class="panel panel-success" id="healthyBackLinks">
+								  <div class="panel-heading">
+									  <h3 class="panel-title">
+										  Healthy backlinks
+									  </h3>
+								  </div> <!-- panel heading -->
+								  <div class="panel-body">
+									  <table cellpadding="0" cellspacing="0" border="0" class="table table-striped table-bordered"  id="example4b">
+										<thead>
+											<tr>
+												<th width="5%">Influence rank</th>
+												<th width="55%">Feature</th>
+												<th width="5%">Average losing mean</th> 
+												<th width="5%">Average winning mean</th>
+												<th width="5%">#URLs at risk</th>
+												<th width="5%">Average feature value</th>
+												<th width="5%">Average at risk SQ</th>
+												<th width="5%">#URLs healthy</th>			
+												<th width="5%">Average feature value</th>
+												<th width="5%">Average healthy SQ</th>
+											</tr>
+										</thead>
+										<tbody>
+		  
+										</tbody>
+										<tfoot>
+											<tr>
+												<th>Influence rank</th>
+												<th>Feature</th>
+												<th>Average losing mean</th> 
+												<th>Average winning mean</th>
+												<th>#URLs at risk</th>
+												<th>Average feature value</th>
+												<th>Average at risk SQ</th>
+												<th>#URLs healthy</th>			
+												<th>Average feature value</th>
+												<th>Average healthy SQ</th>
+											</tr>
+										</tfoot>
+									  </table>
+								  </div>  <!-- panel body -->
+						
+							  </div>   <!-- panel panel-success -->
+					  
+						  </div> <!-- span6 -->
+						  <div class="spacer"></div>
+					  </div>   <!-- row-fluid-->
+
+					  <hr>
+					  <p>
+					  Click on the table rows above for customised offsite drilldown
+					  </p>
+					  <div class="spacer"></div>
+					  <hr>
+				
+		
+			
+
+      <!-- For the FAQ, we introduce a little bit of JS, using the accordion. -->
+      <!-- This brings in jquery.js and bootstrap.js as dependencies. -->
+      <!-- http://twitter.github.io/bootstrap/javascript.html#collapse -->
+      <div class="row-fluid faq">
+          <div class="span10 offset1">
+            <h3>FAQs</h3>
+            <div class="accordion" id="accordion2">
+              <div class="accordion-group">
+                <div class="accordion-heading">
+                  <a class="accordion-toggle" data-toggle="collapse"
+                     data-parent="#accordion2" href="#collapseOne">
+                    What are the limitations of StatSEO?
+                  </a>
+                </div>
+                <div id="collapseOne" class="accordion-body collapse">
+                  <div class="accordion-inner">
+                    As with any statistical analysis there are limitations- our use of 95% confidence interval implies by definition at least a 5% rate of erroneous identification (i.e. 1 in 20).
+                  </div>
+                </div>
+              </div>
+              <div class="accordion-group">
+                <div class="accordion-heading">
+                  <a class="accordion-toggle" data-toggle="collapse"
+                     data-parent="#accordion2" href="#collapseTwo">
+                    What's the difference between healthy, neutral and harmful?
+                  </a>
+                </div>
+                <div id="collapseTwo" class="accordion-body collapse">
+                  <div class="accordion-inner">
+                    In all the charts shown here, ‘harmful’ refers to links or pages that are likely to suffer detrimental effect, ‘neutral’ refers to those that are likely to get away without any significant effect seen and ‘healthy’ refers to link or pages with feature values assessed to have positive influence on organic search visitor traffic.
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+      </div>
+
+	  <!-- Not crucial, but we put this under a CC By-SA 3.0 license. -->
+	  <!-- http://creativecommons.org/licenses/ -->
+	  <!-- Not crucial, but we put this under a CC By-SA 3.0 license. -->
+	  <!-- http://creativecommons.org/licenses/ -->
+	  <div class="row-fluid footer">
+		  <div class="span12">
+			  <p><small>© MathSight Ltd 2013 &nbsp; &nbsp;Terms of Service &nbsp; &nbsp;Privacy &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Run by MathSight Ltd in Richmond, UK<small></p>
+			  </div>
+		  </div>
+
+    </div>
+  </body>
+</html>
