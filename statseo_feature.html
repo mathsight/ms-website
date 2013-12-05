@@ -198,11 +198,23 @@
 
 	function doStuff()
 	{
-		var nameElement = document.getElementById("inputURL");
-	        
-		var websiteURLNew = nameElement.value;
+		var domainElement = document.getElementById("inputURL");
+		var websiteURLNew = domainElement.value;
 		var websiteSplitNew = websiteURLNew.split(".");
 		websiteName = websiteSplitNew[1];
+		
+		alert("website name is " + websiteName);
+		
+		var siteElement = document.getElementById("dropdownSite");
+		var siteNew = siteElement.value;
+		
+		alert("going for " + siteNew);
+		
+		var featureElement = document.getElementById("dropdownFeature");
+		var featureNew = featureElement.value;
+		
+		alert("feature chosen:" + featureNew);
+		
 		document.getElementById("dispUrl").innerHTML = "for " + websiteName;
 
 	}
@@ -273,7 +285,7 @@
 						  Select on or offsite:
 						  <span class="caret"></span>
 					  </button>
-					  <ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu2"> 
+					  <ul class="dropdown-menu" role="menu" aria-labelledby="dropdownSite"> 
 						  <li role="presentation"><a role="menuitem" tabindex="-1" href="#">onsite</a></li>
 						  <li role="presentation"><a role="menuitem" tabindex="-1" href="#">offsite</a></li>
 					  </ul>
@@ -286,7 +298,7 @@
 						  Select feature or StatSEO:
 						  <span class="caret"></span>
 					  </button>
-					  <ul class="dropdown-menu navbar-right" role="menu" aria-labelledby="dropdownMenu1">
+					  <ul class="dropdown-menu navbar-right" role="menu" aria-labelledby="dropdownFeature">
 						  <li role="presentation"> <script>document.write('<a role="menuitem" tabindex="-1" href="/' + pageType + '_SQ_drilldown.html?=' + websiteName + '&=' + featureSel + '">'+ featureSel +'</a>');</script></li>
 						  <li role="presentation"><a role="menuitem" tabindex="-1" href="#">maximum length of h1</a></li>
 						  <li role="presentation"><a role="menuitem" tabindex="-1" href="#">number of duplicate words</a></li>
