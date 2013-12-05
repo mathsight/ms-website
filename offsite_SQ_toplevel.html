@@ -28,15 +28,15 @@
 	<script type="text/javascript" charset="utf-8" src="datatables/media/js/TableTools.js"></script>
 	<script type="text/javascript" charset="utf-8" src="http://datatables.github.com/Plugins/integration/bootstrap/2/dataTables.bootstrap.js"></script>
 	
-<!-- 	<script type="text/javascript" charset="utf-8">
+	<!-- 	<script type="text/javascript" charset="utf-8">
 	$(document).ready( function () {
-		$('#example').dataTable( {
+	$('#example').dataTable( {
 			
 			
-		} );
+	} );
 	} );
 	</script>
-	 -->
+	-->
 	
 	<!-- for nv.d3 charts -->
 	<link href="src/nv.d3.css" rel="stylesheet" type="text/css">
@@ -251,56 +251,18 @@ jQuery(document).ready(function($) {
 	});
 });
 	
-	
-var dataTableOne;
-var dataTableTwo;
+
 var dataTableThree;
 var dataTableFour;
 
 function initDataTables(){
 
-	dataTableOne = $('#example3').dataTable( {
-		"bProcessing": true,
-		"sAjaxSource": "/json/summary/"+websiteName+"_Xhat.json",
-		"sAjaxDataProp": "onsite",
-		"aaSorting": [[ 4, "desc" ]],
-		"sDom": "<'row-fluid'<'span6'T><'span6'f>r>t<'row-fluid'<'span6'i><'span6'p>>",
-		"oTableTools": {
-			"aButtons": [
-			"copy",
-			"print",
-			{
-				"sExtends":    "collection",
-				"sButtonText": 'Save <span class="caret" />',
-				"aButtons":    [ "csv", "xls", "pdf" ]
-			}
-			]
-		},
-		"aoColumns": [
-		null,
-		{ "mData": null , //its null here because history column will contain the mRender
-		"mRender" : function ( data, type, full) {
-			return '<a href="onsite_SQ_drilldown.html?=' + websiteName + '&='+ full[1] +'">'+full[1]+'</a>';
-		}
-	},
-	null,
-	{"bVisible": false},
-	null,
-	{"bVisible": false},		
-	{"bVisible": false},
-	{"bVisible": false},
-	{"bVisible": false},
-	{"bVisible": false}
-	]
-} );
-
 		
-	
-dataTableTwo = $('#example3b').dataTable( {
+dataTableThree = $('#example4').dataTable( {
 	"bProcessing": true,
-	"sAjaxSource": "/json/summary/"+websiteName+"_Xhat.json",
-	"sAjaxDataProp": "onsite",
-	"aaSorting": [[ 7, "desc" ]],
+	"sAjaxSource": "/json/summary/"+websiteName+"_XhatOff.json",
+	"sAjaxDataProp": "offsite",
+	"aaSorting": [[ 4, "desc" ]],
 	"sDom": "<'row-fluid'<'span6'T><'span6'f>r>t<'row-fluid'<'span6'i><'span6'p>>",
 	"oTableTools": {
 		"aButtons": [
@@ -315,16 +277,51 @@ dataTableTwo = $('#example3b').dataTable( {
 	},
 	"aoColumns": [
 	null,
-	null,
-	{"bVisible": false},
-	null,
-	{"bVisible": false},
-	{"bVisible": false},
-	{"bVisible": false},
-	null,
-	{"bVisible": false},
-	{"bVisible": false}
+	{ "mData": null , //its null here because history column will contain the mRender
+	"mRender" : function ( data, type, full) {
+		return '<a href="offsite_SQ_drilldown.html?=' + websiteName + '&='+ full[1] +'">'+full[1]+'</a>';
+	}
+},
+null,
+{"bVisible": false},
+null,
+{"bVisible": false},		
+{"bVisible": false},
+{"bVisible": false},
+{"bVisible": false},
+{"bVisible": false}
+]
+} );
+
+dataTableFour = $('#example4b').dataTable( {
+"bProcessing": true,
+"sAjaxSource": "/json/summary/"+websiteName+"_XhatOff.json",
+"sAjaxDataProp": "offsite",
+"aaSorting": [[ 7, "desc" ]],
+"sDom": "<'row-fluid'<'span6'T><'span6'f>r>t<'row-fluid'<'span6'i><'span6'p>>",
+"oTableTools": {
+	"aButtons": [
+	"copy",
+	"print",
+	{
+		"sExtends":    "collection",
+		"sButtonText": 'Save <span class="caret" />',
+		"aButtons":    [ "csv", "xls", "pdf" ]
+	}
 	]
+},
+"aoColumns": [
+null,
+null,
+{"bVisible": false},
+null,
+{"bVisible": false},
+{"bVisible": false},
+{"bVisible": false},
+null,
+{"bVisible": false},
+{"bVisible": false}
+]
 } );
 
 }
@@ -352,12 +349,10 @@ initDataTables();
 		websiteName = websiteSplitNew[1];
 		document.getElementById("dispUrl").innerHTML = "for " + websiteName;
 		
-		dataTableOne.fnReloadAjax("/json/summary/"+websiteName+"_Xhat.json");
-		dataTableTwo.fnReloadAjax("/json/summary/"+websiteName+"_Xhat.json");
-		// dataTableThree.fnReloadAjax("/json/summary/"+websiteName+"_XhatOff.json");
-		// dataTableFour.fnReloadAjax("/json/summary/"+websiteName+"_XhatOff.json");
+		dataTableThree.fnReloadAjax("/json/summary/"+websiteName+"_XhatOff.json");
+		dataTableFour.fnReloadAjax("/json/summary/"+websiteName+"_XhatOff.json");
 
-		newFile = "/json/toplevel/" + websiteName + "_ybar.json";
+		newFile = "/json/toplevel/" + websiteName + "_ybarOff.json";
 		redrawGraph(newFile);    
 
 	}
@@ -537,124 +532,127 @@ redrawGraph = function(file) {
 
 
 		<hr>
-		<div class = "well">
-	  
-			<h2>Onsite pages summary</h2>
-			<p></p>
-		</div>
+
+		  <div class = "well">
+		  
+			  <h2>Offsite links summary</h2>
+			  <p></p>
+		  </div>
+
+			<hr>
+			  <div class="row-fluid">
+				  
+				  <div class="span6">
+					  <!-- <div id="dynamic"> -->
+						  <div class="panel panel-danger">
+							  <div class="panel-heading">
+								  <h3 class="panel-title">
+									  Harmful backlinks
+								  </h3>
+							  </div>
+							  <div class="panel-body">
+				  
+								  <!-- <h2>Influential Feature Delta to Winning Mean</h2>
+									  <p>For top 10 features on aggregate</p> -->
+					  
+									  <table cellpadding="0" cellspacing="0" border="0" class="table table-striped table-bordered" id="example4">
+										<thead>
+											<tr>
+												<th width="5%">Influence rank</th>
+												<th width="55%">Feature</th>
+												<th width="5%">Average losing mean</th> 
+												<th width="5%">Average winning mean</th>
+												<th width="5%">#URLs at risk</th>
+												<th width="5%">Average feature value</th>
+												<th width="5%">Average at risk SQ</th>
+												<th width="5%">#URLs healthy</th>			
+												<th width="5%">Average feature value</th>
+												<th width="5%">Average healthy SQ</th>
+											</tr>
+										</thead>
+										<tbody>
+		  
+										</tbody>
+										<tfoot>
+											<tr>
+												<th>Influence rank</th>
+												<th>Feature</th>
+												<th>Average losing mean</th> 
+												<th>Average winning mean</th>
+												<th>#URLs at risk</th>
+												<th>Average feature value</th>
+												<th>Average at risk SQ</th>
+												<th>#URLs healthy</th>			
+												<th>Average feature value</th>
+												<th>Average healthy SQ</th>
+											</tr>
+										</tfoot>
+									  </table>
+								  </div>  <!-- panel body -->
+			
+							  </div>   <!-- panel panel-success -->
+						  </div>   <!-- span6 -->
 		
-		<div class="row-fluid pitch">
-			<!-- <hr> -->
-				  
-				  
-			<!-- <h2>Influential Feature Delta to Winning Mean</h2>
-				<p>For top 10 features on aggregate</p> -->
-				<!-- <div id="dynamic"> -->
-					<div class="span6">
-						<div class="panel panel-danger">
-							<div class="panel-heading">
-								<h3 class="panel-title">
-									URLs at risk
-								</h3>
-							</div>
-							<div class="panel-body">
-			  
-								<table cellpadding="0" cellspacing="0" border="0" class="table table-striped table-bordered" id="example3">
-									<thead>
-										<tr>
-											<th width="5%">Influence rank</th>
-											<th width="55%">Feature</th>
-											<th width="5%">Average losing mean</th> 
-											<th width="5%">Average winning mean</th>
-											<th width="5%">#URLs at risk</th>
-											<th width="5%">Average feature value</th>
-											<th width="5%">Average at risk SQ</th>
-											<th width="5%">#URLs healthy</th>			
-											<th width="5%">Average feature value</th>
-											<th width="5%">Average healthy SQ</th>
-										</tr>
-									</thead>
-									<tbody>
+						  <div class="spacer"></div>
+				
+						  <div class="span6">
+							  <div class="panel panel-success" id="healthyBackLinks">
+								  <div class="panel-heading">
+									  <h3 class="panel-title">
+										  Healthy backlinks
+									  </h3>
+								  </div> <!-- panel heading -->
+								  <div class="panel-body">
+									  <table cellpadding="0" cellspacing="0" border="0" class="table table-striped table-bordered"  id="example4b">
+										<thead>
+											<tr>
+												<th width="5%">Influence rank</th>
+												<th width="55%">Feature</th>
+												<th width="5%">Average losing mean</th> 
+												<th width="5%">Average winning mean</th>
+												<th width="5%">#URLs at risk</th>
+												<th width="5%">Average feature value</th>
+												<th width="5%">Average at risk SQ</th>
+												<th width="5%">#URLs healthy</th>			
+												<th width="5%">Average feature value</th>
+												<th width="5%">Average healthy SQ</th>
+											</tr>
+										</thead>
+										<tbody>
 		  
-									</tbody>
-									<tfoot>
-										<tr>
-											<th>Influence rank</th>
-											<th>Feature</th>
-											<th>Average losing mean</th> 
-											<th>Average winning mean</th>
-											<th>#URLs at risk</th>
-											<th>Average feature value</th>
-											<th>Average at risk SQ</th>
-											<th>#URLs healthy</th>			
-											<th>Average feature value</th>
-											<th>Average healthy SQ</th>
-										</tr>
-									</tfoot>
-								</table>
-							</div> <!-- panel-body -->
-						</div> <!-- panel- panel danger -->						
-					</div>  <!-- span6 -->
-					<div></div>
-		<div class="spacer"></div>
-		<div></div>
-		<div class="span6">
-			<div class="panel panel-success" id="healthyBackLinks">
-				<div class="panel-heading">
-					<h3 class="panel-title">
-						Healthy URLs
-					</h3>
-				</div>
-				<div class="panel-body">
-			  
-					<table cellpadding="0" cellspacing="0" border="0" class="table table-striped table-bordered"  id="example3b">
-						<thead>
-							<tr>
-								<th width="5%">Influence rank</th>
-								<th width="55%">Feature</th>
-								<th width="5%">Average losing mean</th> 
-								<th width="5%">Average winning mean</th>
-								<th width="5%">#URLs at risk</th>
-								<th width="5%">Average feature value</th>
-								<th width="5%">Average at risk SQ</th>
-								<th width="5%">#URLs healthy</th>			
-								<th width="5%">Average feature value</th>
-								<th width="5%">Average healthy SQ</th>
-							</tr>
-						</thead>
-						<tbody>
+										</tbody>
+										<tfoot>
+											<tr>
+												<th>Influence rank</th>
+												<th>Feature</th>
+												<th>Average losing mean</th> 
+												<th>Average winning mean</th>
+												<th>#URLs at risk</th>
+												<th>Average feature value</th>
+												<th>Average at risk SQ</th>
+												<th>#URLs healthy</th>			
+												<th>Average feature value</th>
+												<th>Average healthy SQ</th>
+											</tr>
+										</tfoot>
+									  </table>
+								  </div>  <!-- panel body -->
+						
+							  </div>   <!-- panel panel-success -->
+					  
+						  </div> <!-- span6 -->
+						  <div class="spacer"></div>
+					  </div>   <!-- row-fluid-->
 
-						</tbody>
-						<tfoot>
-							<tr>
-								<th>Influence rank</th>
-								<th>Feature</th>
-								<th>Average losing mean</th> 
-								<th>Average winning mean</th>
-								<th>#URLs at risk</th>
-								<th>Average feature value</th>
-								<th>Average at risk SQ</th>
-								<th>#URLs healthy</th>			
-								<th>Average feature value</th>
-								<th>Average healthy SQ</th>
-							</tr>
-						</tfoot>
-					</table>
-				</div> <!-- panel-body -->
-			</div> <!-- panel- panel success -->						
-		</div>  <!-- span6 -->
-	</div> <!-- pitch row-fluid -->
-									
-								
-		  
-		  <hr>
-		  <p>
-		  Click on the table rows above for customised onsite drilldown
-		  </p>
-		  <div class="spacer"></div>
-		  <hr>
-	  
-
+					  <hr>
+					  <p>
+					  Click on the table rows above for customised offsite drilldown
+					  </p>
+					  <div class="spacer"></div>
+					  <hr>
+				 -->
+		
+			
 
       <!-- For the FAQ, we introduce a little bit of JS, using the accordion. -->
       <!-- This brings in jquery.js and bootstrap.js as dependencies. -->
