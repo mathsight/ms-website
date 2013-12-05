@@ -343,24 +343,24 @@ initDataTables();
 	<script>
 
 
-	function doStuff()
-	{
-		var nameElement = document.getElementById("inputURL");
-	        
-		var websiteURLNew = nameElement.value;
-		var websiteSplitNew = websiteURLNew.split(".");
-		websiteName = websiteSplitNew[1];
-		document.getElementById("dispUrl").innerHTML = "for " + websiteName;
-		
-		dataTableOne.fnReloadAjax("/json/summary/"+websiteName+"_Xhat.json");
-		dataTableTwo.fnReloadAjax("/json/summary/"+websiteName+"_Xhat.json");
-		// dataTableThree.fnReloadAjax("/json/summary/"+websiteName+"_XhatOff.json");
-		// dataTableFour.fnReloadAjax("/json/summary/"+websiteName+"_XhatOff.json");
-
-		newFile = "/json/toplevel/" + websiteName + "_ybar.json";
-		redrawGraph(newFile);    
-
-	}
+	// function doStuff()
+	// {
+	// 	var nameElement = document.getElementById("inputURL");
+	//         
+	// 	var websiteURLNew = nameElement.value;
+	// 	var websiteSplitNew = websiteURLNew.split(".");
+	// 	websiteName = websiteSplitNew[1];
+	// 	document.getElementById("dispUrl").innerHTML = "for " + websiteName;
+	// 	
+	// 	dataTableOne.fnReloadAjax("/json/summary/"+websiteName+"_Xhat.json");
+	// 	dataTableTwo.fnReloadAjax("/json/summary/"+websiteName+"_Xhat.json");
+	// 	// dataTableThree.fnReloadAjax("/json/summary/"+websiteName+"_XhatOff.json");
+	// 	// dataTableFour.fnReloadAjax("/json/summary/"+websiteName+"_XhatOff.json");
+	// 
+	// 	newFile = "/json/toplevel/" + websiteName + "_ybar.json";
+	// 	redrawGraph(newFile);    
+	// 
+	// }
 	
 	</script>
 
@@ -486,12 +486,12 @@ redrawGraph = function(file) {
       <!-- www.google.com/fonts/specimen/Ubuntu#pairings -->
       <div class="row-fluid heading">
         <div class="span12">
-          <h1>StatSEO: Demonstration</h1>
+          <h1>StatSEO</h1>
         </div>
       </div> 
 	    
       <div class="row-fluid subheading">
-		  <div class="span12">
+		  <!-- <div class="span12">
 			  
 			  <div class="form-group">
 				  <label>
@@ -506,7 +506,7 @@ redrawGraph = function(file) {
 	
 			</div>  
 			
-			<hr>
+			<hr> -->
 			
 			<div id="dispUrl" class="lead" >
 				
