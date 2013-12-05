@@ -242,7 +242,7 @@
     <!-- We use row-fluid inside containers to achieve a resizable layout. -->
     <!-- blogs.endjin.com/2013/04/tips-for-implementing-responsive-designs-using-bootstrap/ -->
     <!-- http://stackoverflow.com/a/12270322 -->
-    <div class="container">
+    <div class="container-fluid" id="header">
       <!-- Font and paired font of .heading/.subheading and body from Google Fonts -->
       <!-- www.google.com/fonts/specimen/Ubuntu -->
       <!-- www.google.com/fonts/specimen/Ubuntu#pairings -->
@@ -288,31 +288,28 @@
 				  <input type="checkbox" id="onoffcheck" checked>
 			  </div>
 
-			  <div class="dropdown">
-				  <button class="btn dropdown-toggle sr-only" type="button" id="dropdownMenu1" data-toggle="dropdown">
-					  Select feature or StatSEO
-					  <span class="caret"></span>
-				  </button>
-				  <ul class="dropdown-menu navbar-right" role="menu" aria-labelledby="dropdownMenu1">
-					  <li role="presentation"> <script>document.write('<a role="menuitem" tabindex="-1" href="/' + pageType + '_SQ_drilldown.html?=' + websiteName + '&=' + featureSel + '">'+ featureSel +'</a>');</script></li>
-					  <li role="presentation"><a role="menuitem" tabindex="-1" href="#">maximum length of h1</a></li>
-					  <li role="presentation"><a role="menuitem" tabindex="-1" href="#">number of duplicate words</a></li>
-					  <li role="presentation" class="divider"></li>
-					  <li role="presentation"> <script>document.write('<a role="menuitem" tabindex="-1" href="/' + pageType + '_SQ_toplevel.html?=' + websiteName +'">StatSEO for '+ websiteName +'</a>');</script></li>
-
-				  </ul>
-			  </div>
 
 			  <button onclick="doStuff()" type="submit" class="btn btn-primary" id="submitUrl">
 				  submit!
 			  </button>
 	
 		  </div>  
+
 			
-		
-		 
-			
-		 
+		  <div class="dropdown">
+			  <button class="btn dropdown-toggle sr-only" type="button" id="dropdownMenu1" data-toggle="dropdown">
+				  Select feature or StatSEO
+				  <span class="caret"></span>
+			  </button>
+			  <ul class="dropdown-menu navbar-right" role="menu" aria-labelledby="dropdownMenu1">
+				  <li role="presentation"> <script>document.write('<a role="menuitem" tabindex="-1" href="/' + pageType + '_SQ_drilldown.html?=' + websiteName + '&=' + featureSel + '">'+ featureSel +'</a>');</script></li>
+				  <li role="presentation"><a role="menuitem" tabindex="-1" href="#">maximum length of h1</a></li>
+				  <li role="presentation"><a role="menuitem" tabindex="-1" href="#">number of duplicate words</a></li>
+				  <li role="presentation" class="divider"></li>
+				  <li role="presentation"> <script>document.write('<a role="menuitem" tabindex="-1" href="/' + pageType + '_SQ_toplevel.html?=' + websiteName +'">StatSEO for '+ websiteName +'</a>');</script></li>
+
+			  </ul>
+		  </div>
 			
 			
 	  </div>
