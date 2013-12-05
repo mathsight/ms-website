@@ -3,7 +3,7 @@
 <html lang="en">
 <head>
 	<meta charset="utf-8">
-	<title>MathSight StatSEO Demo</title>
+	<title>MathSight StatSEO Feature Definitions</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<link rel="stylesheet" href="https://d396qusza40orc.cloudfront.net/startup%2Fcode%2Fbootstrap-combined.no-icons.min.css">
 	<link rel="stylesheet" href="http://netdna.bootstrapcdn.com/font-awesome/3.0.2/css/font-awesome.css">
@@ -173,9 +173,8 @@
 	/* Global vars */
 	var locate = decodeURI(window.location);
 	var urlSplit = locate.split("=");
-	var websiteName = urlSplit[1] || "leighmans";
-	var pageType = "onsite";
-	var featureSel = "html5_detected"
+	var featureName = urlSplit[1] || "html5 detected";
+	
 
 	// var websiteURL = "www.leighmans.com";
 	// var websiteSplit = websiteURL.split(".");
@@ -193,28 +192,28 @@
 	<script>
 
 
-	function doStuff()
-	{
-		var domainElement = document.getElementById("inputURL");
-		var websiteURLNew = domainElement.value;
-		var websiteSplitNew = websiteURLNew.split(".");
-		websiteName = websiteSplitNew[1];
-		
-		alert("website name is " + websiteName);
-		
-		var siteElement = document.getElementById("dropdownSite");
-		var siteNew = siteElement.value;
-		
-		alert("going for " + siteNew);
-		
-		var featureElement = document.getElementById("dropdownFeature");
-		var featureNew = featureElement.value;
-		
-		alert("feature chosen:" + featureNew);
-		
-		document.getElementById("dispUrl").innerHTML = "for " + websiteName;
-
-	}
+	// function doStuff()
+// 	{
+// 		var domainElement = document.getElementById("inputURL");
+// 		var websiteURLNew = domainElement.value;
+// 		var websiteSplitNew = websiteURLNew.split(".");
+// 		websiteName = websiteSplitNew[1];
+// 		
+// 		alert("website name is " + websiteName);
+// 		
+// 		var siteElement = document.getElementById("dropdownSite");
+// 		var siteNew = siteElement.value;
+// 		
+// 		alert("going for " + siteNew);
+// 		
+// 		var featureElement = document.getElementById("dropdownFeature");
+// 		var featureNew = featureElement.value;
+// 		
+// 		alert("feature chosen:" + featureNew);
+// 		
+// 		document.getElementById("dispUrl").innerHTML = "for " + websiteName;
+// 
+// 	}
 	
 	</script>
 
@@ -257,79 +256,15 @@
       <!-- www.google.com/fonts/specimen/Ubuntu#pairings -->
 	  <div class="row-fluid heading">
 		  <div class="span12">
-			  <h1>StatSEO: Demonstration</h1>
+			  <h1>StatSEO: Feature definitions</h1>
 		  </div>
 	  </div> 
 
 		  <hr>
 		  
 		  <div class="well">
-			  Enter Domain URL:
-			  <div class="form-group">
-				  <input type="url" class="form-control" id="inputURL">
-			  </div>
-			  <br>
-			  <!-- <div class="make-switch" data-on-label="ONSITE" data-off-label="OFFSITE" data-on="primary" data-off="info">
-				  <label>
-				  Select onsite or offsite
-				  </label>
-				  <input type="checkbox" id="onoffcheck" checked>
-				  </div> -->
+			  Under construction
 
-				  <div class="dropdown">
-					  <button class="btn dropdown-toggle sr-only" type="button" id="dropdownSite" data-toggle="dropdown">
-						  Select on or offsite:
-						  <span class="caret"></span>
-					  </button>
-					  <ul class="dropdown-menu" role="menu" aria-labelledby="dropdownSite"> 
-						  <li role="presentation"><a role="menuitem" tabindex="-1" href="#">onsite</a></li>
-						  <li role="presentation"><a role="menuitem" tabindex="-1" href="#">offsite</a></li>
-					  </ul>
-				  </div>
-			  
-				  <br>
-			  
-				  <div class="dropdown">
-					  <button class="btn dropdown-toggle sr-only" type="button" id="dropdownFeature" data-toggle="dropdown">
-						  Select feature or StatSEO:
-						  <span class="caret"></span>
-					  </button>
-					  <ul class="dropdown-menu navbar-right" role="menu" aria-labelledby="dropdownFeature">
-						  <li role="presentation"> <script>document.write('<a role="menuitem" tabindex="-1" href="/' + pageType + '_SQ_drilldown.html?=' + websiteName + '&=' + featureSel + '">'+ featureSel +'</a>');</script></li>
-						  <li role="presentation"><a role="menuitem" tabindex="-1" href="#">maximum length of h1</a></li>
-						  <li role="presentation"><a role="menuitem" tabindex="-1" href="#">number of duplicate words</a></li>
-						  <li role="presentation" class="divider"></li>
-						  <li role="presentation"> <script>document.write('<a role="menuitem" tabindex="-1" href="/' + pageType + '_SQ_toplevel.html?=' + websiteName +'">StatSEO</a>');</script></li>
-
-					  </ul>
-				  </div>
-				  <br><br>
-
-				  <button onclick="doStuff()" type="submit" class="btn btn-primary" id="submitUrl">
-					  submit!
-				  </button>
-	
-			  </div>  
-			  <a href="/onsite_SQ_drilldown.html?=leighmans&=maximum length of h1">
-				  Onsite feature drilldown example
-			  </a>
-			  <br>
-			  <a href="/onsite_SQ_drilldown.html?=alchemyviral&=number of duplicate words">
-				  Offsite feature drilldown example
-			  </a>
-			  <br>
-			  <a href="/onsite_SQ_toplevel.html?=rawpearls">
-				  Onsite StatSEO example
-			  </a>
-			  <br>
-			  <a href="/offsite_SQ_toplevel.html?=alchemyviral">
-				  Offsite StatSEO example
-			  </a>
-			  <br>
-			  <br>
-			  <a href="/feature_def.html">
-				  Feature definition list
-			  </a>
 		  </div>
 	  <hr>
 			
