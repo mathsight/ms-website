@@ -273,61 +273,54 @@
 		  <hr>
 		  
 		  <div class="well">
-				  Enter Domain URL:
+			  Enter Domain URL:
 			  <div class="form-group">
 				  <input type="url" class="form-control" id="inputURL">
 			  </div>
 
 			  <!-- <div class="make-switch" data-on-label="ONSITE" data-off-label="OFFSITE" data-on="primary" data-off="info">
 				  <label>
-					  Select onsite or offsite
+				  Select onsite or offsite
 				  </label>
 				  <input type="checkbox" id="onoffcheck" checked>
-			  </div> -->
+				  </div> -->
 
-			  <div class="dropdown">
-				  <button class="btn dropdown-toggle sr-only" type="button" id="dropdownMenu2" data-toggle="dropdown">
-					  Select on or offsite
-					  <span class="caret"></span>
+				  <div class="dropdown">
+					  <button class="btn dropdown-toggle sr-only" type="button" id="dropdownMenu2" data-toggle="dropdown">
+						  Select on or offsite:
+						  <span class="caret"></span>
+					  </button>
+					  <ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu2"> 
+						  <li role="presentation"><a role="menuitem" tabindex="-1" href="#">onsite</a></li>
+						  <li role="presentation"><a role="menuitem" tabindex="-1" href="#">offsite</a></li>
+					  </ul>
+				  </div>
+			  
+				  <div class="dropdown">
+					  <button class="btn dropdown-toggle sr-only" type="button" id="dropdownMenu1" data-toggle="dropdown">
+						  Select feature or StatSEO:
+						  <span class="caret"></span>
+					  </button>
+					  <ul class="dropdown-menu navbar-right" role="menu" aria-labelledby="dropdownMenu1">
+						  <li role="presentation"> <script>document.write('<a role="menuitem" tabindex="-1" href="/' + pageType + '_SQ_drilldown.html?=' + websiteName + '&=' + featureSel + '">'+ featureSel +'</a>');</script></li>
+						  <li role="presentation"><a role="menuitem" tabindex="-1" href="#">maximum length of h1</a></li>
+						  <li role="presentation"><a role="menuitem" tabindex="-1" href="#">number of duplicate words</a></li>
+						  <li role="presentation" class="divider"></li>
+						  <li role="presentation"> <script>document.write('<a role="menuitem" tabindex="-1" href="/' + pageType + '_SQ_toplevel.html?=' + websiteName +'">StatSEO for '+ websiteName +'</a>');</script></li>
+
+					  </ul>
+				  </div>
+			  
+
+				  <button onclick="doStuff()" type="submit" class="btn btn-primary" id="submitUrl">
+					  submit!
 				  </button>
-				  <ul class="dropdown-menu navbar-right" role="menu" aria-labelledby="dropdownMenu2"> 
-					  <li role="presentation"><a role="menuitem" tabindex="-1" href="#">onsite</a></li>
-					  <li role="presentation"><a role="menuitem" tabindex="-1" href="#">offsite</a></li>
-				  </ul>
-			  </div>
-
-			  <button onclick="doStuff()" type="submit" class="btn btn-primary" id="submitUrl">
-				  submit!
-			  </button>
 	
-		  </div>  
+			  </div>  
 
-			
-		  <div class="dropdown">
-			  <button class="btn dropdown-toggle sr-only" type="button" id="dropdownMenu1" data-toggle="dropdown">
-				  Select feature or StatSEO
-				  <span class="caret"></span>
-			  </button>
-			  <ul class="dropdown-menu navbar-right" role="menu" aria-labelledby="dropdownMenu1">
-				  <li role="presentation"> <script>document.write('<a role="menuitem" tabindex="-1" href="/' + pageType + '_SQ_drilldown.html?=' + websiteName + '&=' + featureSel + '">'+ featureSel +'</a>');</script></li>
-				  <li role="presentation"><a role="menuitem" tabindex="-1" href="#">maximum length of h1</a></li>
-				  <li role="presentation"><a role="menuitem" tabindex="-1" href="#">number of duplicate words</a></li>
-				  <li role="presentation" class="divider"></li>
-				  <li role="presentation"> <script>document.write('<a role="menuitem" tabindex="-1" href="/' + pageType + '_SQ_toplevel.html?=' + websiteName +'">StatSEO for '+ websiteName +'</a>');</script></li>
-
-			  </ul>
 		  </div>
-			
-			
-	  </div>
 	  <hr>
 			
-			
-
-
-      <!-- For the FAQ, we introduce a little bit of JS, using the accordion. -->
-      <!-- This brings in jquery.js and bootstrap.js as dependencies. -->
-      <!-- http://twitter.github.io/bootstrap/javascript.html#collapse -->
     
 
 	  <!-- Not crucial, but we put this under a CC By-SA 3.0 license. -->
