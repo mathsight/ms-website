@@ -4,10 +4,6 @@
 		"color": "#00cc00",
 		"values": [
 			{
-				"label": "Onsite",
-				"value": 30
-			},
-			{
 				"label": "Offsite",
 				"value": 10
 			}
@@ -18,10 +14,6 @@
 		"color": "#ff9900",
 		"values": [
 			{
-				"label": "Onsite",
-				"value": 27
-			},
-			{
 				"label": "Offsite",
 				"value": 0
 			}
@@ -31,10 +23,6 @@
 		"key": "Harmful",
 		"color": "#ff0000",
 		"values": [
-			{
-				"label": "Onsite",
-				"value": -21
-			},
 			{
 				"label": "Offsite",
 				"value": -7
