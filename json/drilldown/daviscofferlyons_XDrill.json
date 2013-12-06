@@ -1,0 +1,244 @@
+{
+	"onsite": {
+		"total_number_of_words": [
+			{
+				"html_id": "http://www.daviscofferlyons.co.uk",
+				"feature_value": " 53",
+				"cluster_win_mean": "524.03",
+				"delta": "471.03"
+			},
+			{
+				"html_id": "http://www.daviscofferlyons.co.uk/default.htm",
+				"feature_value": " 53",
+				"cluster_win_mean": "524.03",
+				"delta": "471.03"
+			},
+			{
+				"html_id": "http://www.daviscofferlyons.co.uk/about_dcl/default.htm",
+				"feature_value": "241",
+				"cluster_win_mean": "524.03",
+				"delta": "283.03"
+			}
+		],
+		"number_of_unique_words": [
+			{
+				"html_id": "http://www.daviscofferlyons.co.uk",
+				"feature_value": " 37",
+				"cluster_win_mean": "226.52",
+				"delta": "189.52"
+			},
+			{
+				"html_id": "http://www.daviscofferlyons.co.uk/default.htm",
+				"feature_value": " 37",
+				"cluster_win_mean": "226.52",
+				"delta": "189.52"
+			},
+			{
+				"html_id": "http://www.daviscofferlyons.co.uk/about_dcl/default.htm",
+				"feature_value": "136",
+				"cluster_win_mean": "226.52",
+				"delta": " 90.52"
+			}
+		],
+		"anchor_number_of_unique_dictionary_words": [
+			{
+				"html_id": "http://www.daviscofferlyons.co.uk",
+				"feature_value": "0",
+				"cluster_win_mean": "1.1",
+				"delta": "1.1"
+			},
+			{
+				"html_id": "http://www.daviscofferlyons.co.uk/default.htm",
+				"feature_value": "0",
+				"cluster_win_mean": "1.1",
+				"delta": "1.1"
+			},
+			{
+				"html_id": "http://www.daviscofferlyons.co.uk/about_dcl/default.htm",
+				"feature_value": "0",
+				"cluster_win_mean": "1.1",
+				"delta": "1.1"
+			}
+		],
+		"number_of_duplicate_words": [
+			{
+				"html_id": "http://www.daviscofferlyons.co.uk",
+				"feature_value": " 16",
+				"cluster_win_mean": "278.69",
+				"delta": "262.69"
+			},
+			{
+				"html_id": "http://www.daviscofferlyons.co.uk/default.htm",
+				"feature_value": " 16",
+				"cluster_win_mean": "278.69",
+				"delta": "262.69"
+			},
+			{
+				"html_id": "http://www.daviscofferlyons.co.uk/about_dcl/default.htm",
+				"feature_value": "105",
+				"cluster_win_mean": "278.69",
+				"delta": "173.69"
+			}
+		],
+		"number_of_id_attribute_refs": [
+			{
+				"html_id": "http://www.daviscofferlyons.co.uk",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.daviscofferlyons.co.uk/default.htm",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.daviscofferlyons.co.uk/about_dcl/default.htm",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			}
+		],
+		"number_of_rare_words": [
+			{
+				"html_id": "http://www.daviscofferlyons.co.uk",
+				"feature_value": "23",
+				"cluster_win_mean": "90.29",
+				"delta": "67.29"
+			},
+			{
+				"html_id": "http://www.daviscofferlyons.co.uk/default.htm",
+				"feature_value": "23",
+				"cluster_win_mean": "90.29",
+				"delta": "67.29"
+			},
+			{
+				"html_id": "http://www.daviscofferlyons.co.uk/about_dcl/default.htm",
+				"feature_value": "70",
+				"cluster_win_mean": "90.29",
+				"delta": "20.29"
+			}
+		],
+		"total_number_of_5k_common_words": [
+			{
+				"html_id": "http://www.daviscofferlyons.co.uk",
+				"feature_value": " 30",
+				"cluster_win_mean": "396.99",
+				"delta": "366.99"
+			},
+			{
+				"html_id": "http://www.daviscofferlyons.co.uk/default.htm",
+				"feature_value": " 30",
+				"cluster_win_mean": "396.99",
+				"delta": "366.99"
+			},
+			{
+				"html_id": "http://www.daviscofferlyons.co.uk/about_dcl/default.htm",
+				"feature_value": "171",
+				"cluster_win_mean": "396.99",
+				"delta": "225.99"
+			}
+		],
+		"anchor_number_of_dictionary_words": [
+			{
+				"html_id": "http://www.daviscofferlyons.co.uk",
+				"feature_value": "0",
+				"cluster_win_mean": "1.54",
+				"delta": "1.54"
+			},
+			{
+				"html_id": "http://www.daviscofferlyons.co.uk/default.htm",
+				"feature_value": "0",
+				"cluster_win_mean": "1.54",
+				"delta": "1.54"
+			},
+			{
+				"html_id": "http://www.daviscofferlyons.co.uk/about_dcl/default.htm",
+				"feature_value": "0",
+				"cluster_win_mean": "1.54",
+				"delta": "1.54"
+			}
+		],
+		"number_of_iframes": [
+			{
+				"html_id": "http://www.daviscofferlyons.co.uk",
+				"feature_value": "0",
+				"cluster_win_mean": "1.12",
+				"delta": "1.12"
+			},
+			{
+				"html_id": "http://www.daviscofferlyons.co.uk/default.htm",
+				"feature_value": "0",
+				"cluster_win_mean": "1.12",
+				"delta": "1.12"
+			},
+			{
+				"html_id": "http://www.daviscofferlyons.co.uk/about_dcl/default.htm",
+				"feature_value": "0",
+				"cluster_win_mean": "1.12",
+				"delta": "1.12"
+			}
+		],
+		"html5_detected": [
+			{
+				"html_id": "http://www.daviscofferlyons.co.uk",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.daviscofferlyons.co.uk/default.htm",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.daviscofferlyons.co.uk/about_dcl/default.htm",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			}
+		],
+		"maximum_length_of_h2": [
+			{
+				"html_id": "http://www.daviscofferlyons.co.uk",
+				"feature_value": "0",
+				"cluster_win_mean": "34.19",
+				"delta": "34.19"
+			},
+			{
+				"html_id": "http://www.daviscofferlyons.co.uk/default.htm",
+				"feature_value": "0",
+				"cluster_win_mean": "34.19",
+				"delta": "34.19"
+			},
+			{
+				"html_id": "http://www.daviscofferlyons.co.uk/about_dcl/default.htm",
+				"feature_value": "9",
+				"cluster_win_mean": "34.19",
+				"delta": "25.19"
+			}
+		],
+		"average_length_of_h2": [
+			{
+				"html_id": "http://www.daviscofferlyons.co.uk",
+				"feature_value": "0",
+				"cluster_win_mean": "26.48",
+				"delta": "26.48"
+			},
+			{
+				"html_id": "http://www.daviscofferlyons.co.uk/default.htm",
+				"feature_value": "0",
+				"cluster_win_mean": "26.48",
+				"delta": "26.48"
+			},
+			{
+				"html_id": "http://www.daviscofferlyons.co.uk/about_dcl/default.htm",
+				"feature_value": "9",
+				"cluster_win_mean": "26.48",
+				"delta": "17.48"
+			}
+		]
+	}
+}

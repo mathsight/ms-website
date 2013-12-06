@@ -1,0 +1,6472 @@
+{
+	"onsite": {
+		"total_number_of_words": [
+			{
+				"html_id": "http://www.traccfilms.co.uk/contact-us",
+				"feature_value": " 65",
+				"cluster_win_mean": "134.73",
+				"delta": " 69.73"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/04/diana-tamboly-brand-marketing-manager-emea-sabre-travel-network",
+				"feature_value": " 60",
+				"cluster_win_mean": "134.73",
+				"delta": " 74.73"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/09",
+				"feature_value": " 17",
+				"cluster_win_mean": "134.73",
+				"delta": "117.73"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/09/the-secret-ingredients",
+				"feature_value": " 22",
+				"cluster_win_mean": "134.73",
+				"delta": "112.73"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/09/the-secret-ingredients/#respond",
+				"feature_value": " 22",
+				"cluster_win_mean": "134.73",
+				"delta": "112.73"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/08",
+				"feature_value": " 17",
+				"cluster_win_mean": "134.73",
+				"delta": "117.73"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/08/why-video",
+				"feature_value": " 20",
+				"cluster_win_mean": "134.73",
+				"delta": "114.73"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/08/why-video/#respond",
+				"feature_value": " 20",
+				"cluster_win_mean": "134.73",
+				"delta": "114.73"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/06",
+				"feature_value": " 27",
+				"cluster_win_mean": "134.73",
+				"delta": "107.73"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/06/film-post-production-in-60-seconds",
+				"feature_value": " 38",
+				"cluster_win_mean": "134.73",
+				"delta": " 96.73"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/tag/film",
+				"feature_value": " 46",
+				"cluster_win_mean": "134.73",
+				"delta": " 88.73"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/06/film-post-production-in-60-seconds/#respond",
+				"feature_value": " 38",
+				"cluster_win_mean": "134.73",
+				"delta": " 96.73"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/tag/post-production",
+				"feature_value": " 27",
+				"cluster_win_mean": "134.73",
+				"delta": "107.73"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/tag/video-production",
+				"feature_value": " 49",
+				"cluster_win_mean": "134.73",
+				"delta": " 85.73"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/05/film-production-in-60-seconds",
+				"feature_value": " 37",
+				"cluster_win_mean": "134.73",
+				"delta": " 97.73"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/tag/production",
+				"feature_value": " 26",
+				"cluster_win_mean": "134.73",
+				"delta": "108.73"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/05/film-production-in-60-seconds/#comments",
+				"feature_value": " 37",
+				"cluster_win_mean": "134.73",
+				"delta": " 97.73"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/05/film-production-in-60-seconds/#respond",
+				"feature_value": " 37",
+				"cluster_win_mean": "134.73",
+				"delta": " 97.73"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/05",
+				"feature_value": " 52",
+				"cluster_win_mean": "134.73",
+				"delta": " 82.73"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/05/famous-footwear-behind-the-scenes",
+				"feature_value": " 41",
+				"cluster_win_mean": "134.73",
+				"delta": " 93.73"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/05/famous-footwear-behind-the-scenes/#respond",
+				"feature_value": " 41",
+				"cluster_win_mean": "134.73",
+				"delta": " 93.73"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/nicki-craddock-head-of-public-relations-ikea",
+				"feature_value": " 83",
+				"cluster_win_mean": "134.73",
+				"delta": " 51.73"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/09",
+				"feature_value": "104",
+				"cluster_win_mean": "134.73",
+				"delta": " 30.73"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/09/katie-weeks-communications-manager-ace-european-group",
+				"feature_value": " 76",
+				"cluster_win_mean": "134.73",
+				"delta": " 58.73"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/04/peter-van-der-merwe-operations-director-at-csfd",
+				"feature_value": " 65",
+				"cluster_win_mean": "134.73",
+				"delta": " 69.73"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/05/film-production-in-60-seconds/#comment-10",
+				"feature_value": " 37",
+				"cluster_win_mean": "134.73",
+				"delta": " 97.73"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/04/donal-keane-brand-marketing-manager-at-loomis",
+				"feature_value": "101",
+				"cluster_win_mean": "134.73",
+				"delta": " 33.73"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/04/bruce-furlonger-head-of-business-development-seven-scent",
+				"feature_value": " 79",
+				"cluster_win_mean": "134.73",
+				"delta": " 55.73"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/04/debbie-rosher-marketing-manager-at-the-london-linen-group",
+				"feature_value": " 44",
+				"cluster_win_mean": "134.73",
+				"delta": " 90.73"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/04/vince-summer-managing-director-datasound",
+				"feature_value": "102",
+				"cluster_win_mean": "134.73",
+				"delta": " 32.73"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/04/marcus-and-garrick-jones-founder-ea-carey",
+				"feature_value": " 69",
+				"cluster_win_mean": "134.73",
+				"delta": " 65.73"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/victoria-pilkington-managing-director-brora",
+				"feature_value": " 52",
+				"cluster_win_mean": "134.73",
+				"delta": " 82.73"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/gill-bowler-internal-communications-manager-waitrose-2",
+				"feature_value": " 83",
+				"cluster_win_mean": "134.73",
+				"delta": " 51.73"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/2351",
+				"feature_value": " 69",
+				"cluster_win_mean": "134.73",
+				"delta": " 65.73"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/professor-bill-mckelvey-principal-chief-executive-scottish-agricultural-college",
+				"feature_value": " 60",
+				"cluster_win_mean": "134.73",
+				"delta": " 74.73"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/martin-fleet-general-manager-sheila-fleet-jewellery",
+				"feature_value": " 60",
+				"cluster_win_mean": "134.73",
+				"delta": " 74.73"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/georgina-smith-sales-marketing-director-stonehaven",
+				"feature_value": " 52",
+				"cluster_win_mean": "134.73",
+				"delta": " 82.73"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/john-moret-director-of-sales-marketing-suffolk-life",
+				"feature_value": " 69",
+				"cluster_win_mean": "134.73",
+				"delta": " 65.73"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/andrew-leggett-marketing-technical-manager-suffolk-life",
+				"feature_value": " 97",
+				"cluster_win_mean": "134.73",
+				"delta": " 37.73"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/brigitte-schuessler-head-of-supply-real-estate-management-telekom-austria",
+				"feature_value": " 72",
+				"cluster_win_mean": "134.73",
+				"delta": " 62.73"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/peter-butcher-chairman-managing-director-tmd-technologies",
+				"feature_value": " 74",
+				"cluster_win_mean": "134.73",
+				"delta": " 60.73"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/gill-bowler-internal-communications-manager-waitrose",
+				"feature_value": " 46",
+				"cluster_win_mean": "134.73",
+				"delta": " 88.73"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/james-mcdougall-promotion-events-manager-forestry-commission-scotland",
+				"feature_value": " 42",
+				"cluster_win_mean": "134.73",
+				"delta": " 92.73"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/simon-j-pearce-chief-operating-officer-brightside-group-plc",
+				"feature_value": " 59",
+				"cluster_win_mean": "134.73",
+				"delta": " 75.73"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/heather-mcrae-marketing-manager-gms-music",
+				"feature_value": " 73",
+				"cluster_win_mean": "134.73",
+				"delta": " 61.73"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/john-carroll-head-of-marketing-catlin-group",
+				"feature_value": " 41",
+				"cluster_win_mean": "134.73",
+				"delta": " 93.73"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/sofie-boddy-pr-manager-footdown",
+				"feature_value": " 50",
+				"cluster_win_mean": "134.73",
+				"delta": " 84.73"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/peter-ellis-ceo-foreign-currency-direct",
+				"feature_value": " 47",
+				"cluster_win_mean": "134.73",
+				"delta": " 87.73"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/simon-davies-head-of-marketing-fine-rare-wines",
+				"feature_value": " 64",
+				"cluster_win_mean": "134.73",
+				"delta": " 70.73"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/stuart-green-managing-director-uk-steel-enterprise",
+				"feature_value": " 84",
+				"cluster_win_mean": "134.73",
+				"delta": " 50.73"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/09/caterina-rigoni",
+				"feature_value": " 61",
+				"cluster_win_mean": "134.73",
+				"delta": " 73.73"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/05/film-pre-production",
+				"feature_value": " 36",
+				"cluster_win_mean": "134.73",
+				"delta": " 98.73"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/tag/pre-production",
+				"feature_value": " 27",
+				"cluster_win_mean": "134.73",
+				"delta": "107.73"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/05/film-pre-production/#respond",
+				"feature_value": " 36",
+				"cluster_win_mean": "134.73",
+				"delta": " 98.73"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/08/what-returns-can-video-offer-a-business",
+				"feature_value": " 28",
+				"cluster_win_mean": "134.73",
+				"delta": "106.73"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/08/what-returns-can-video-offer-a-business/#respond",
+				"feature_value": " 28",
+				"cluster_win_mean": "134.73",
+				"delta": "106.73"
+			}
+		],
+		"number_of_unique_words": [
+			{
+				"html_id": "http://www.traccfilms.co.uk/contact-us",
+				"feature_value": "49",
+				"cluster_win_mean": "60.73",
+				"delta": "11.73"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/04/diana-tamboly-brand-marketing-manager-emea-sabre-travel-network",
+				"feature_value": "45",
+				"cluster_win_mean": "60.73",
+				"delta": "15.73"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/09",
+				"feature_value": "15",
+				"cluster_win_mean": "60.73",
+				"delta": "45.73"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/09/the-secret-ingredients",
+				"feature_value": "18",
+				"cluster_win_mean": "60.73",
+				"delta": "42.73"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/09/the-secret-ingredients/#respond",
+				"feature_value": "18",
+				"cluster_win_mean": "60.73",
+				"delta": "42.73"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/08",
+				"feature_value": "15",
+				"cluster_win_mean": "60.73",
+				"delta": "45.73"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/08/why-video",
+				"feature_value": "18",
+				"cluster_win_mean": "60.73",
+				"delta": "42.73"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/08/why-video/#respond",
+				"feature_value": "18",
+				"cluster_win_mean": "60.73",
+				"delta": "42.73"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/06",
+				"feature_value": "23",
+				"cluster_win_mean": "60.73",
+				"delta": "37.73"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/06/film-post-production-in-60-seconds",
+				"feature_value": "26",
+				"cluster_win_mean": "60.73",
+				"delta": "34.73"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/tag/film",
+				"feature_value": "23",
+				"cluster_win_mean": "60.73",
+				"delta": "37.73"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/06/film-post-production-in-60-seconds/#respond",
+				"feature_value": "26",
+				"cluster_win_mean": "60.73",
+				"delta": "34.73"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/tag/post-production",
+				"feature_value": "24",
+				"cluster_win_mean": "60.73",
+				"delta": "36.73"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/tag/video-production",
+				"feature_value": "24",
+				"cluster_win_mean": "60.73",
+				"delta": "36.73"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/05/film-production-in-60-seconds",
+				"feature_value": "25",
+				"cluster_win_mean": "60.73",
+				"delta": "35.73"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/tag/production",
+				"feature_value": "24",
+				"cluster_win_mean": "60.73",
+				"delta": "36.73"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/05/film-production-in-60-seconds/#comments",
+				"feature_value": "25",
+				"cluster_win_mean": "60.73",
+				"delta": "35.73"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/05/film-production-in-60-seconds/#respond",
+				"feature_value": "25",
+				"cluster_win_mean": "60.73",
+				"delta": "35.73"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/05",
+				"feature_value": "33",
+				"cluster_win_mean": "60.73",
+				"delta": "27.73"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/05/famous-footwear-behind-the-scenes",
+				"feature_value": "28",
+				"cluster_win_mean": "60.73",
+				"delta": "32.73"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/05/famous-footwear-behind-the-scenes/#respond",
+				"feature_value": "28",
+				"cluster_win_mean": "60.73",
+				"delta": "32.73"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/09/katie-weeks-communications-manager-ace-european-group",
+				"feature_value": "51",
+				"cluster_win_mean": "60.73",
+				"delta": " 9.73"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/04/peter-van-der-merwe-operations-director-at-csfd",
+				"feature_value": "47",
+				"cluster_win_mean": "60.73",
+				"delta": "13.73"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/05/film-production-in-60-seconds/#comment-10",
+				"feature_value": "25",
+				"cluster_win_mean": "60.73",
+				"delta": "35.73"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/04/debbie-rosher-marketing-manager-at-the-london-linen-group",
+				"feature_value": "30",
+				"cluster_win_mean": "60.73",
+				"delta": "30.73"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/victoria-pilkington-managing-director-brora",
+				"feature_value": "35",
+				"cluster_win_mean": "60.73",
+				"delta": "25.73"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/professor-bill-mckelvey-principal-chief-executive-scottish-agricultural-college",
+				"feature_value": "49",
+				"cluster_win_mean": "60.73",
+				"delta": "11.73"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/martin-fleet-general-manager-sheila-fleet-jewellery",
+				"feature_value": "43",
+				"cluster_win_mean": "60.73",
+				"delta": "17.73"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/georgina-smith-sales-marketing-director-stonehaven",
+				"feature_value": "39",
+				"cluster_win_mean": "60.73",
+				"delta": "21.73"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/gill-bowler-internal-communications-manager-waitrose",
+				"feature_value": "35",
+				"cluster_win_mean": "60.73",
+				"delta": "25.73"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/james-mcdougall-promotion-events-manager-forestry-commission-scotland",
+				"feature_value": "31",
+				"cluster_win_mean": "60.73",
+				"delta": "29.73"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/simon-j-pearce-chief-operating-officer-brightside-group-plc",
+				"feature_value": "43",
+				"cluster_win_mean": "60.73",
+				"delta": "17.73"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/john-carroll-head-of-marketing-catlin-group",
+				"feature_value": "28",
+				"cluster_win_mean": "60.73",
+				"delta": "32.73"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/sofie-boddy-pr-manager-footdown",
+				"feature_value": "37",
+				"cluster_win_mean": "60.73",
+				"delta": "23.73"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/peter-ellis-ceo-foreign-currency-direct",
+				"feature_value": "38",
+				"cluster_win_mean": "60.73",
+				"delta": "22.73"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/simon-davies-head-of-marketing-fine-rare-wines",
+				"feature_value": "43",
+				"cluster_win_mean": "60.73",
+				"delta": "17.73"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/09/caterina-rigoni",
+				"feature_value": "45",
+				"cluster_win_mean": "60.73",
+				"delta": "15.73"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/05/film-pre-production",
+				"feature_value": "26",
+				"cluster_win_mean": "60.73",
+				"delta": "34.73"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/tag/pre-production",
+				"feature_value": "25",
+				"cluster_win_mean": "60.73",
+				"delta": "35.73"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/05/film-pre-production/#respond",
+				"feature_value": "26",
+				"cluster_win_mean": "60.73",
+				"delta": "34.73"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/08/what-returns-can-video-offer-a-business",
+				"feature_value": "22",
+				"cluster_win_mean": "60.73",
+				"delta": "38.73"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/08/what-returns-can-video-offer-a-business/#respond",
+				"feature_value": "22",
+				"cluster_win_mean": "60.73",
+				"delta": "38.73"
+			}
+		],
+		"anchor_number_of_unique_dictionary_words": [
+			{
+				"html_id": "http://www.traccfilms.co.uk",
+				"feature_value": "0",
+				"cluster_win_mean": "  1",
+				"delta": "  1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/about-us",
+				"feature_value": "0",
+				"cluster_win_mean": "  1",
+				"delta": "  1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/video-production-services",
+				"feature_value": "0",
+				"cluster_win_mean": "  1",
+				"delta": "  1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/video-distribution-promotion",
+				"feature_value": "0",
+				"cluster_win_mean": "  1",
+				"delta": "  1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/media-partners",
+				"feature_value": "0",
+				"cluster_win_mean": "  1",
+				"delta": "  1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/clients",
+				"feature_value": "0",
+				"cluster_win_mean": "  1",
+				"delta": "  1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/contact-us",
+				"feature_value": "0",
+				"cluster_win_mean": "  1",
+				"delta": "  1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/04/diana-tamboly-brand-marketing-manager-emea-sabre-travel-network",
+				"feature_value": "0",
+				"cluster_win_mean": "  1",
+				"delta": "  1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/09",
+				"feature_value": "0",
+				"cluster_win_mean": "  1",
+				"delta": "  1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/09/the-secret-ingredients",
+				"feature_value": "0",
+				"cluster_win_mean": "  1",
+				"delta": "  1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/09/the-secret-ingredients/#respond",
+				"feature_value": "0",
+				"cluster_win_mean": "  1",
+				"delta": "  1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/08",
+				"feature_value": "0",
+				"cluster_win_mean": "  1",
+				"delta": "  1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/08/why-video",
+				"feature_value": "0",
+				"cluster_win_mean": "  1",
+				"delta": "  1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/08/why-video/#respond",
+				"feature_value": "0",
+				"cluster_win_mean": "  1",
+				"delta": "  1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/06",
+				"feature_value": "0",
+				"cluster_win_mean": "  1",
+				"delta": "  1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/06/film-post-production-in-60-seconds",
+				"feature_value": "0",
+				"cluster_win_mean": "  1",
+				"delta": "  1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/tag/film",
+				"feature_value": "0",
+				"cluster_win_mean": "  1",
+				"delta": "  1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/06/film-post-production-in-60-seconds/#respond",
+				"feature_value": "0",
+				"cluster_win_mean": "  1",
+				"delta": "  1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/tag/post-production",
+				"feature_value": "0",
+				"cluster_win_mean": "  1",
+				"delta": "  1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/tag/video-production",
+				"feature_value": "0",
+				"cluster_win_mean": "  1",
+				"delta": "  1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/05/film-production-in-60-seconds",
+				"feature_value": "0",
+				"cluster_win_mean": "  1",
+				"delta": "  1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/tag/production",
+				"feature_value": "0",
+				"cluster_win_mean": "  1",
+				"delta": "  1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/05/film-production-in-60-seconds/#comments",
+				"feature_value": "0",
+				"cluster_win_mean": "  1",
+				"delta": "  1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/05/film-production-in-60-seconds/#respond",
+				"feature_value": "0",
+				"cluster_win_mean": "  1",
+				"delta": "  1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/05",
+				"feature_value": "0",
+				"cluster_win_mean": "  1",
+				"delta": "  1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/05/famous-footwear-behind-the-scenes",
+				"feature_value": "0",
+				"cluster_win_mean": "  1",
+				"delta": "  1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/05/famous-footwear-behind-the-scenes/#respond",
+				"feature_value": "0",
+				"cluster_win_mean": "  1",
+				"delta": "  1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/04/indexing-your-digital-content-satisfy-both-google-and-users",
+				"feature_value": "0",
+				"cluster_win_mean": "  1",
+				"delta": "  1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/04/indexing-your-digital-content-satisfy-both-google-and-users/#respond",
+				"feature_value": "0",
+				"cluster_win_mean": "  1",
+				"delta": "  1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12",
+				"feature_value": "0",
+				"cluster_win_mean": "  1",
+				"delta": "  1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/nicki-craddock-head-of-public-relations-ikea",
+				"feature_value": "0",
+				"cluster_win_mean": "  1",
+				"delta": "  1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/09",
+				"feature_value": "0",
+				"cluster_win_mean": "  1",
+				"delta": "  1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/09/katie-weeks-communications-manager-ace-european-group",
+				"feature_value": "0",
+				"cluster_win_mean": "  1",
+				"delta": "  1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/category/testimonials",
+				"feature_value": "0",
+				"cluster_win_mean": "  1",
+				"delta": "  1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/04/peter-van-der-merwe-operations-director-at-csfd",
+				"feature_value": "0",
+				"cluster_win_mean": "  1",
+				"delta": "  1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/05/film-production-in-60-seconds/#comment-10",
+				"feature_value": "0",
+				"cluster_win_mean": "  1",
+				"delta": "  1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/04/donal-keane-brand-marketing-manager-at-loomis",
+				"feature_value": "0",
+				"cluster_win_mean": "  1",
+				"delta": "  1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/04/bruce-furlonger-head-of-business-development-seven-scent",
+				"feature_value": "0",
+				"cluster_win_mean": "  1",
+				"delta": "  1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/04/debbie-rosher-marketing-manager-at-the-london-linen-group",
+				"feature_value": "0",
+				"cluster_win_mean": "  1",
+				"delta": "  1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/04/vince-summer-managing-director-datasound",
+				"feature_value": "0",
+				"cluster_win_mean": "  1",
+				"delta": "  1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/04/marcus-and-garrick-jones-founder-ea-carey",
+				"feature_value": "0",
+				"cluster_win_mean": "  1",
+				"delta": "  1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/victoria-pilkington-managing-director-brora",
+				"feature_value": "0",
+				"cluster_win_mean": "  1",
+				"delta": "  1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/gill-bowler-internal-communications-manager-waitrose-2",
+				"feature_value": "0",
+				"cluster_win_mean": "  1",
+				"delta": "  1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/2351",
+				"feature_value": "0",
+				"cluster_win_mean": "  1",
+				"delta": "  1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/professor-bill-mckelvey-principal-chief-executive-scottish-agricultural-college",
+				"feature_value": "0",
+				"cluster_win_mean": "  1",
+				"delta": "  1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/martin-fleet-general-manager-sheila-fleet-jewellery",
+				"feature_value": "0",
+				"cluster_win_mean": "  1",
+				"delta": "  1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/georgina-smith-sales-marketing-director-stonehaven",
+				"feature_value": "0",
+				"cluster_win_mean": "  1",
+				"delta": "  1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/john-moret-director-of-sales-marketing-suffolk-life",
+				"feature_value": "0",
+				"cluster_win_mean": "  1",
+				"delta": "  1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/andrew-leggett-marketing-technical-manager-suffolk-life",
+				"feature_value": "0",
+				"cluster_win_mean": "  1",
+				"delta": "  1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/brigitte-schuessler-head-of-supply-real-estate-management-telekom-austria",
+				"feature_value": "0",
+				"cluster_win_mean": "  1",
+				"delta": "  1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/peter-butcher-chairman-managing-director-tmd-technologies",
+				"feature_value": "0",
+				"cluster_win_mean": "  1",
+				"delta": "  1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/gill-bowler-internal-communications-manager-waitrose",
+				"feature_value": "0",
+				"cluster_win_mean": "  1",
+				"delta": "  1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/james-mcdougall-promotion-events-manager-forestry-commission-scotland",
+				"feature_value": "0",
+				"cluster_win_mean": "  1",
+				"delta": "  1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/simon-j-pearce-chief-operating-officer-brightside-group-plc",
+				"feature_value": "0",
+				"cluster_win_mean": "  1",
+				"delta": "  1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/heather-mcrae-marketing-manager-gms-music",
+				"feature_value": "0",
+				"cluster_win_mean": "  1",
+				"delta": "  1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/john-carroll-head-of-marketing-catlin-group",
+				"feature_value": "0",
+				"cluster_win_mean": "  1",
+				"delta": "  1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/sofie-boddy-pr-manager-footdown",
+				"feature_value": "0",
+				"cluster_win_mean": "  1",
+				"delta": "  1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/peter-ellis-ceo-foreign-currency-direct",
+				"feature_value": "0",
+				"cluster_win_mean": "  1",
+				"delta": "  1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/simon-davies-head-of-marketing-fine-rare-wines",
+				"feature_value": "0",
+				"cluster_win_mean": "  1",
+				"delta": "  1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/stuart-green-managing-director-uk-steel-enterprise",
+				"feature_value": "0",
+				"cluster_win_mean": "  1",
+				"delta": "  1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/09/caterina-rigoni",
+				"feature_value": "0",
+				"cluster_win_mean": "  1",
+				"delta": "  1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/the-c-word-it%e2%80%99s-compelling",
+				"feature_value": "0",
+				"cluster_win_mean": "  1",
+				"delta": "  1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/the-c-word-it%e2%80%99s-compelling/#respond",
+				"feature_value": "0",
+				"cluster_win_mean": "  1",
+				"delta": "  1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/space-junk-a-brand-dilemma",
+				"feature_value": "0",
+				"cluster_win_mean": "  1",
+				"delta": "  1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/space-junk-a-brand-dilemma/#respond",
+				"feature_value": "0",
+				"cluster_win_mean": "  1",
+				"delta": "  1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/05/film-pre-production",
+				"feature_value": "0",
+				"cluster_win_mean": "  1",
+				"delta": "  1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/tag/pre-production",
+				"feature_value": "0",
+				"cluster_win_mean": "  1",
+				"delta": "  1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/05/film-pre-production/#respond",
+				"feature_value": "0",
+				"cluster_win_mean": "  1",
+				"delta": "  1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/08/what-returns-can-video-offer-a-business",
+				"feature_value": "0",
+				"cluster_win_mean": "  1",
+				"delta": "  1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/08/what-returns-can-video-offer-a-business/#respond",
+				"feature_value": "0",
+				"cluster_win_mean": "  1",
+				"delta": "  1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/case-study1-clients",
+				"feature_value": "0",
+				"cluster_win_mean": "  1",
+				"delta": "  1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/case-study2-clients",
+				"feature_value": "0",
+				"cluster_win_mean": "  1",
+				"delta": "  1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/case-study3-clients",
+				"feature_value": "0",
+				"cluster_win_mean": "  1",
+				"delta": "  1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/case-study4-clients",
+				"feature_value": "0",
+				"cluster_win_mean": "  1",
+				"delta": "  1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/case-study5-clients",
+				"feature_value": "0",
+				"cluster_win_mean": "  1",
+				"delta": "  1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/case-study6-clients",
+				"feature_value": "0",
+				"cluster_win_mean": "  1",
+				"delta": "  1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/case-study7-clients",
+				"feature_value": "0",
+				"cluster_win_mean": "  1",
+				"delta": "  1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-3725",
+				"feature_value": "0",
+				"cluster_win_mean": "  1",
+				"delta": "  1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-961",
+				"feature_value": "0",
+				"cluster_win_mean": "  1",
+				"delta": "  1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-4261",
+				"feature_value": "0",
+				"cluster_win_mean": "  1",
+				"delta": "  1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-3735",
+				"feature_value": "0",
+				"cluster_win_mean": "  1",
+				"delta": "  1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-3444",
+				"feature_value": "0",
+				"cluster_win_mean": "  1",
+				"delta": "  1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-1679",
+				"feature_value": "0",
+				"cluster_win_mean": "  1",
+				"delta": "  1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-1458",
+				"feature_value": "0",
+				"cluster_win_mean": "  1",
+				"delta": "  1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-1464",
+				"feature_value": "0",
+				"cluster_win_mean": "  1",
+				"delta": "  1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/media-partners?phpMyAdmin=3723c4ec13623tf1db022r401c8",
+				"feature_value": "0",
+				"cluster_win_mean": "  1",
+				"delta": "  1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/media-partners/wsj-wall-street-journal",
+				"feature_value": "0",
+				"cluster_win_mean": "1.1",
+				"delta": "1.1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/media-partners/telegraph",
+				"feature_value": "0",
+				"cluster_win_mean": "1.1",
+				"delta": "1.1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/media-partners/the-scotsman",
+				"feature_value": "0",
+				"cluster_win_mean": "1.1",
+				"delta": "1.1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/media-partners/eba-european-business-awards",
+				"feature_value": "0",
+				"cluster_win_mean": "  1",
+				"delta": "  1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-3326",
+				"feature_value": "0",
+				"cluster_win_mean": "  1",
+				"delta": "  1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-1659",
+				"feature_value": "0",
+				"cluster_win_mean": "  1",
+				"delta": "  1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-1657",
+				"feature_value": "0",
+				"cluster_win_mean": "  1",
+				"delta": "  1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-1594",
+				"feature_value": "0",
+				"cluster_win_mean": "  1",
+				"delta": "  1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-1556",
+				"feature_value": "0",
+				"cluster_win_mean": "  1",
+				"delta": "  1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-167",
+				"feature_value": "0",
+				"cluster_win_mean": "  1",
+				"delta": "  1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-3322",
+				"feature_value": "0",
+				"cluster_win_mean": "  1",
+				"delta": "  1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-3257",
+				"feature_value": "0",
+				"cluster_win_mean": "  1",
+				"delta": "  1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-1651",
+				"feature_value": "0",
+				"cluster_win_mean": "  1",
+				"delta": "  1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-1649",
+				"feature_value": "0",
+				"cluster_win_mean": "  1",
+				"delta": "  1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-1645",
+				"feature_value": "0",
+				"cluster_win_mean": "  1",
+				"delta": "  1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-1563",
+				"feature_value": "0",
+				"cluster_win_mean": "  1",
+				"delta": "  1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-4039",
+				"feature_value": "0",
+				"cluster_win_mean": "  1",
+				"delta": "  1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-3335",
+				"feature_value": "0",
+				"cluster_win_mean": "  1",
+				"delta": "  1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-2365",
+				"feature_value": "0",
+				"cluster_win_mean": "  1",
+				"delta": "  1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-1512",
+				"feature_value": "0",
+				"cluster_win_mean": "  1",
+				"delta": "  1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-1639",
+				"feature_value": "0",
+				"cluster_win_mean": "  1",
+				"delta": "  1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-1618",
+				"feature_value": "0",
+				"cluster_win_mean": "  1",
+				"delta": "  1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-1506",
+				"feature_value": "0",
+				"cluster_win_mean": "  1",
+				"delta": "  1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-3253",
+				"feature_value": "0",
+				"cluster_win_mean": "  1",
+				"delta": "  1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-3245",
+				"feature_value": "0",
+				"cluster_win_mean": "  1",
+				"delta": "  1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-3239",
+				"feature_value": "0",
+				"cluster_win_mean": "  1",
+				"delta": "  1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-142",
+				"feature_value": "0",
+				"cluster_win_mean": "  1",
+				"delta": "  1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-85",
+				"feature_value": "0",
+				"cluster_win_mean": "  1",
+				"delta": "  1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-1491",
+				"feature_value": "0",
+				"cluster_win_mean": "  1",
+				"delta": "  1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-1004",
+				"feature_value": "0",
+				"cluster_win_mean": "  1",
+				"delta": "  1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-2431",
+				"feature_value": "0",
+				"cluster_win_mean": "  1",
+				"delta": "  1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-1420",
+				"feature_value": "0",
+				"cluster_win_mean": "  1",
+				"delta": "  1"
+			}
+		],
+		"average_backlink_flesch_reading_ease": [
+			{
+				"html_id": "http://www.traccfilms.co.uk",
+				"feature_value": "0",
+				"cluster_win_mean": "48.97",
+				"delta": "48.97"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/category/blog",
+				"feature_value": "0",
+				"cluster_win_mean": "48.97",
+				"delta": "48.97"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/about-us",
+				"feature_value": "0",
+				"cluster_win_mean": "48.97",
+				"delta": "48.97"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/video-production-services",
+				"feature_value": "0",
+				"cluster_win_mean": "48.97",
+				"delta": "48.97"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/video-distribution-promotion",
+				"feature_value": "0",
+				"cluster_win_mean": "48.97",
+				"delta": "48.97"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/media-partners",
+				"feature_value": "0",
+				"cluster_win_mean": "48.97",
+				"delta": "48.97"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/clients",
+				"feature_value": "0",
+				"cluster_win_mean": "48.97",
+				"delta": "48.97"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/contact-us",
+				"feature_value": "0",
+				"cluster_win_mean": "48.97",
+				"delta": "48.97"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/04/diana-tamboly-brand-marketing-manager-emea-sabre-travel-network",
+				"feature_value": "0",
+				"cluster_win_mean": "48.97",
+				"delta": "48.97"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/09",
+				"feature_value": "0",
+				"cluster_win_mean": "48.97",
+				"delta": "48.97"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/09/the-secret-ingredients",
+				"feature_value": "0",
+				"cluster_win_mean": "48.97",
+				"delta": "48.97"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/09/the-secret-ingredients/#respond",
+				"feature_value": "0",
+				"cluster_win_mean": "48.97",
+				"delta": "48.97"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/08",
+				"feature_value": "0",
+				"cluster_win_mean": "48.97",
+				"delta": "48.97"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/08/why-video",
+				"feature_value": "0",
+				"cluster_win_mean": "48.97",
+				"delta": "48.97"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/08/why-video/#respond",
+				"feature_value": "0",
+				"cluster_win_mean": "48.97",
+				"delta": "48.97"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/06",
+				"feature_value": "0",
+				"cluster_win_mean": "48.97",
+				"delta": "48.97"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/06/film-post-production-in-60-seconds",
+				"feature_value": "0",
+				"cluster_win_mean": "48.97",
+				"delta": "48.97"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/tag/film",
+				"feature_value": "0",
+				"cluster_win_mean": "48.97",
+				"delta": "48.97"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/06/film-post-production-in-60-seconds/#respond",
+				"feature_value": "0",
+				"cluster_win_mean": "48.97",
+				"delta": "48.97"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/tag/post-production",
+				"feature_value": "0",
+				"cluster_win_mean": "48.97",
+				"delta": "48.97"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/tag/video-production",
+				"feature_value": "0",
+				"cluster_win_mean": "48.97",
+				"delta": "48.97"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/05/film-production-in-60-seconds",
+				"feature_value": "0",
+				"cluster_win_mean": "48.97",
+				"delta": "48.97"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/tag/production",
+				"feature_value": "0",
+				"cluster_win_mean": "48.97",
+				"delta": "48.97"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/05/film-production-in-60-seconds/#comments",
+				"feature_value": "0",
+				"cluster_win_mean": "48.97",
+				"delta": "48.97"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/05/film-production-in-60-seconds/#respond",
+				"feature_value": "0",
+				"cluster_win_mean": "48.97",
+				"delta": "48.97"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/05",
+				"feature_value": "0",
+				"cluster_win_mean": "48.97",
+				"delta": "48.97"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/05/famous-footwear-behind-the-scenes",
+				"feature_value": "0",
+				"cluster_win_mean": "48.97",
+				"delta": "48.97"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/05/famous-footwear-behind-the-scenes/#respond",
+				"feature_value": "0",
+				"cluster_win_mean": "48.97",
+				"delta": "48.97"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/04",
+				"feature_value": "0",
+				"cluster_win_mean": "48.97",
+				"delta": "48.97"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/04/indexing-your-digital-content-satisfy-both-google-and-users",
+				"feature_value": "0",
+				"cluster_win_mean": "48.97",
+				"delta": "48.97"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/04/indexing-your-digital-content-satisfy-both-google-and-users/#respond",
+				"feature_value": "0",
+				"cluster_win_mean": "48.97",
+				"delta": "48.97"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12",
+				"feature_value": "0",
+				"cluster_win_mean": "48.97",
+				"delta": "48.97"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/nicki-craddock-head-of-public-relations-ikea",
+				"feature_value": "0",
+				"cluster_win_mean": "48.97",
+				"delta": "48.97"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/09",
+				"feature_value": "0",
+				"cluster_win_mean": "48.97",
+				"delta": "48.97"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/09/katie-weeks-communications-manager-ace-european-group",
+				"feature_value": "0",
+				"cluster_win_mean": "48.97",
+				"delta": "48.97"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/category/testimonials",
+				"feature_value": "0",
+				"cluster_win_mean": "48.97",
+				"delta": "48.97"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/04/peter-van-der-merwe-operations-director-at-csfd",
+				"feature_value": "0",
+				"cluster_win_mean": "48.97",
+				"delta": "48.97"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/05/film-production-in-60-seconds/#comment-10",
+				"feature_value": "0",
+				"cluster_win_mean": "48.97",
+				"delta": "48.97"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/04/donal-keane-brand-marketing-manager-at-loomis",
+				"feature_value": "0",
+				"cluster_win_mean": "48.97",
+				"delta": "48.97"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/04/bruce-furlonger-head-of-business-development-seven-scent",
+				"feature_value": "0",
+				"cluster_win_mean": "48.97",
+				"delta": "48.97"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/04/debbie-rosher-marketing-manager-at-the-london-linen-group",
+				"feature_value": "0",
+				"cluster_win_mean": "48.97",
+				"delta": "48.97"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/04/vince-summer-managing-director-datasound",
+				"feature_value": "0",
+				"cluster_win_mean": "48.97",
+				"delta": "48.97"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/04/marcus-and-garrick-jones-founder-ea-carey",
+				"feature_value": "0",
+				"cluster_win_mean": "48.97",
+				"delta": "48.97"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/victoria-pilkington-managing-director-brora",
+				"feature_value": "0",
+				"cluster_win_mean": "48.97",
+				"delta": "48.97"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/gill-bowler-internal-communications-manager-waitrose-2",
+				"feature_value": "0",
+				"cluster_win_mean": "48.97",
+				"delta": "48.97"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/2351",
+				"feature_value": "0",
+				"cluster_win_mean": "48.97",
+				"delta": "48.97"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/professor-bill-mckelvey-principal-chief-executive-scottish-agricultural-college",
+				"feature_value": "0",
+				"cluster_win_mean": "48.97",
+				"delta": "48.97"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/martin-fleet-general-manager-sheila-fleet-jewellery",
+				"feature_value": "0",
+				"cluster_win_mean": "48.97",
+				"delta": "48.97"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/georgina-smith-sales-marketing-director-stonehaven",
+				"feature_value": "0",
+				"cluster_win_mean": "48.97",
+				"delta": "48.97"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/john-moret-director-of-sales-marketing-suffolk-life",
+				"feature_value": "0",
+				"cluster_win_mean": "48.97",
+				"delta": "48.97"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/andrew-leggett-marketing-technical-manager-suffolk-life",
+				"feature_value": "0",
+				"cluster_win_mean": "48.97",
+				"delta": "48.97"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/brigitte-schuessler-head-of-supply-real-estate-management-telekom-austria",
+				"feature_value": "0",
+				"cluster_win_mean": "48.97",
+				"delta": "48.97"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/peter-butcher-chairman-managing-director-tmd-technologies",
+				"feature_value": "0",
+				"cluster_win_mean": "48.97",
+				"delta": "48.97"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/gill-bowler-internal-communications-manager-waitrose",
+				"feature_value": "0",
+				"cluster_win_mean": "48.97",
+				"delta": "48.97"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/james-mcdougall-promotion-events-manager-forestry-commission-scotland",
+				"feature_value": "0",
+				"cluster_win_mean": "48.97",
+				"delta": "48.97"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/simon-j-pearce-chief-operating-officer-brightside-group-plc",
+				"feature_value": "0",
+				"cluster_win_mean": "48.97",
+				"delta": "48.97"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/heather-mcrae-marketing-manager-gms-music",
+				"feature_value": "0",
+				"cluster_win_mean": "48.97",
+				"delta": "48.97"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/john-carroll-head-of-marketing-catlin-group",
+				"feature_value": "0",
+				"cluster_win_mean": "48.97",
+				"delta": "48.97"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/sofie-boddy-pr-manager-footdown",
+				"feature_value": "0",
+				"cluster_win_mean": "48.97",
+				"delta": "48.97"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/peter-ellis-ceo-foreign-currency-direct",
+				"feature_value": "0",
+				"cluster_win_mean": "48.97",
+				"delta": "48.97"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/simon-davies-head-of-marketing-fine-rare-wines",
+				"feature_value": "0",
+				"cluster_win_mean": "48.97",
+				"delta": "48.97"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/stuart-green-managing-director-uk-steel-enterprise",
+				"feature_value": "0",
+				"cluster_win_mean": "48.97",
+				"delta": "48.97"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/09/caterina-rigoni",
+				"feature_value": "0",
+				"cluster_win_mean": "48.97",
+				"delta": "48.97"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/the-c-word-it%e2%80%99s-compelling",
+				"feature_value": "0",
+				"cluster_win_mean": "48.97",
+				"delta": "48.97"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/the-c-word-it%e2%80%99s-compelling/#respond",
+				"feature_value": "0",
+				"cluster_win_mean": "48.97",
+				"delta": "48.97"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/space-junk-a-brand-dilemma",
+				"feature_value": "0",
+				"cluster_win_mean": "48.97",
+				"delta": "48.97"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/space-junk-a-brand-dilemma/#respond",
+				"feature_value": "0",
+				"cluster_win_mean": "48.97",
+				"delta": "48.97"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/05/film-pre-production",
+				"feature_value": "0",
+				"cluster_win_mean": "48.97",
+				"delta": "48.97"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/tag/pre-production",
+				"feature_value": "0",
+				"cluster_win_mean": "48.97",
+				"delta": "48.97"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/05/film-pre-production/#respond",
+				"feature_value": "0",
+				"cluster_win_mean": "48.97",
+				"delta": "48.97"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/08/what-returns-can-video-offer-a-business",
+				"feature_value": "0",
+				"cluster_win_mean": "48.97",
+				"delta": "48.97"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/08/what-returns-can-video-offer-a-business/#respond",
+				"feature_value": "0",
+				"cluster_win_mean": "48.97",
+				"delta": "48.97"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/case-study1-clients",
+				"feature_value": "0",
+				"cluster_win_mean": "48.97",
+				"delta": "48.97"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/case-study2-clients",
+				"feature_value": "0",
+				"cluster_win_mean": "48.97",
+				"delta": "48.97"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/case-study3-clients",
+				"feature_value": "0",
+				"cluster_win_mean": "48.97",
+				"delta": "48.97"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/case-study4-clients",
+				"feature_value": "0",
+				"cluster_win_mean": "48.97",
+				"delta": "48.97"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/case-study5-clients",
+				"feature_value": "0",
+				"cluster_win_mean": "48.97",
+				"delta": "48.97"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/case-study6-clients",
+				"feature_value": "0",
+				"cluster_win_mean": "48.97",
+				"delta": "48.97"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/case-study7-clients",
+				"feature_value": "0",
+				"cluster_win_mean": "48.97",
+				"delta": "48.97"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-3725",
+				"feature_value": "0",
+				"cluster_win_mean": "48.97",
+				"delta": "48.97"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-961",
+				"feature_value": "0",
+				"cluster_win_mean": "48.97",
+				"delta": "48.97"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-4261",
+				"feature_value": "0",
+				"cluster_win_mean": "48.97",
+				"delta": "48.97"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-3735",
+				"feature_value": "0",
+				"cluster_win_mean": "48.97",
+				"delta": "48.97"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-3444",
+				"feature_value": "0",
+				"cluster_win_mean": "48.97",
+				"delta": "48.97"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-1679",
+				"feature_value": "0",
+				"cluster_win_mean": "48.97",
+				"delta": "48.97"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-1458",
+				"feature_value": "0",
+				"cluster_win_mean": "48.97",
+				"delta": "48.97"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-1464",
+				"feature_value": "0",
+				"cluster_win_mean": "48.97",
+				"delta": "48.97"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/media-partners?phpMyAdmin=3723c4ec13623tf1db022r401c8",
+				"feature_value": "0",
+				"cluster_win_mean": "48.97",
+				"delta": "48.97"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/media-partners/eba-european-business-awards",
+				"feature_value": "0",
+				"cluster_win_mean": "48.97",
+				"delta": "48.97"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-3326",
+				"feature_value": "0",
+				"cluster_win_mean": "48.97",
+				"delta": "48.97"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-1659",
+				"feature_value": "0",
+				"cluster_win_mean": "48.97",
+				"delta": "48.97"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-1657",
+				"feature_value": "0",
+				"cluster_win_mean": "48.97",
+				"delta": "48.97"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-1594",
+				"feature_value": "0",
+				"cluster_win_mean": "48.97",
+				"delta": "48.97"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-1556",
+				"feature_value": "0",
+				"cluster_win_mean": "48.97",
+				"delta": "48.97"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-167",
+				"feature_value": "0",
+				"cluster_win_mean": "48.97",
+				"delta": "48.97"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-3322",
+				"feature_value": "0",
+				"cluster_win_mean": "48.97",
+				"delta": "48.97"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-3257",
+				"feature_value": "0",
+				"cluster_win_mean": "48.97",
+				"delta": "48.97"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-1651",
+				"feature_value": "0",
+				"cluster_win_mean": "48.97",
+				"delta": "48.97"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-1649",
+				"feature_value": "0",
+				"cluster_win_mean": "48.97",
+				"delta": "48.97"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-1645",
+				"feature_value": "0",
+				"cluster_win_mean": "48.97",
+				"delta": "48.97"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-1563",
+				"feature_value": "0",
+				"cluster_win_mean": "48.97",
+				"delta": "48.97"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-4039",
+				"feature_value": "0",
+				"cluster_win_mean": "48.97",
+				"delta": "48.97"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-3335",
+				"feature_value": "0",
+				"cluster_win_mean": "48.97",
+				"delta": "48.97"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-2365",
+				"feature_value": "0",
+				"cluster_win_mean": "48.97",
+				"delta": "48.97"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-1512",
+				"feature_value": "0",
+				"cluster_win_mean": "48.97",
+				"delta": "48.97"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-1639",
+				"feature_value": "0",
+				"cluster_win_mean": "48.97",
+				"delta": "48.97"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-1618",
+				"feature_value": "0",
+				"cluster_win_mean": "48.97",
+				"delta": "48.97"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-1506",
+				"feature_value": "0",
+				"cluster_win_mean": "48.97",
+				"delta": "48.97"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-3253",
+				"feature_value": "0",
+				"cluster_win_mean": "48.97",
+				"delta": "48.97"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-3245",
+				"feature_value": "0",
+				"cluster_win_mean": "48.97",
+				"delta": "48.97"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-3239",
+				"feature_value": "0",
+				"cluster_win_mean": "48.97",
+				"delta": "48.97"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-142",
+				"feature_value": "0",
+				"cluster_win_mean": "48.97",
+				"delta": "48.97"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-85",
+				"feature_value": "0",
+				"cluster_win_mean": "48.97",
+				"delta": "48.97"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-1491",
+				"feature_value": "0",
+				"cluster_win_mean": "48.97",
+				"delta": "48.97"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-1004",
+				"feature_value": "0",
+				"cluster_win_mean": "48.97",
+				"delta": "48.97"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-2431",
+				"feature_value": "0",
+				"cluster_win_mean": "48.97",
+				"delta": "48.97"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-1420",
+				"feature_value": "0",
+				"cluster_win_mean": "48.97",
+				"delta": "48.97"
+			}
+		],
+		"number_of_duplicate_words": [
+			{
+				"html_id": "http://www.traccfilms.co.uk/contact-us",
+				"feature_value": "16",
+				"cluster_win_mean": "75.15",
+				"delta": "59.15"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/04/diana-tamboly-brand-marketing-manager-emea-sabre-travel-network",
+				"feature_value": "15",
+				"cluster_win_mean": "75.15",
+				"delta": "60.15"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/09",
+				"feature_value": " 2",
+				"cluster_win_mean": "75.15",
+				"delta": "73.15"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/09/the-secret-ingredients",
+				"feature_value": " 4",
+				"cluster_win_mean": "75.15",
+				"delta": "71.15"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/09/the-secret-ingredients/#respond",
+				"feature_value": " 4",
+				"cluster_win_mean": "75.15",
+				"delta": "71.15"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/08",
+				"feature_value": " 2",
+				"cluster_win_mean": "75.15",
+				"delta": "73.15"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/08/why-video",
+				"feature_value": " 2",
+				"cluster_win_mean": "75.15",
+				"delta": "73.15"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/08/why-video/#respond",
+				"feature_value": " 2",
+				"cluster_win_mean": "75.15",
+				"delta": "73.15"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/06",
+				"feature_value": " 4",
+				"cluster_win_mean": "75.15",
+				"delta": "71.15"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/06/film-post-production-in-60-seconds",
+				"feature_value": "12",
+				"cluster_win_mean": "75.15",
+				"delta": "63.15"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/tag/film",
+				"feature_value": "23",
+				"cluster_win_mean": "75.15",
+				"delta": "52.15"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/06/film-post-production-in-60-seconds/#respond",
+				"feature_value": "12",
+				"cluster_win_mean": "75.15",
+				"delta": "63.15"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/tag/post-production",
+				"feature_value": " 3",
+				"cluster_win_mean": "75.15",
+				"delta": "72.15"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/tag/video-production",
+				"feature_value": "25",
+				"cluster_win_mean": "75.15",
+				"delta": "50.15"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/05/film-production-in-60-seconds",
+				"feature_value": "12",
+				"cluster_win_mean": "75.15",
+				"delta": "63.15"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/tag/production",
+				"feature_value": " 2",
+				"cluster_win_mean": "75.15",
+				"delta": "73.15"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/05/film-production-in-60-seconds/#comments",
+				"feature_value": "12",
+				"cluster_win_mean": "75.15",
+				"delta": "63.15"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/05/film-production-in-60-seconds/#respond",
+				"feature_value": "12",
+				"cluster_win_mean": "75.15",
+				"delta": "63.15"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/05",
+				"feature_value": "19",
+				"cluster_win_mean": "75.15",
+				"delta": "56.15"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/05/famous-footwear-behind-the-scenes",
+				"feature_value": "13",
+				"cluster_win_mean": "75.15",
+				"delta": "62.15"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/05/famous-footwear-behind-the-scenes/#respond",
+				"feature_value": "13",
+				"cluster_win_mean": "75.15",
+				"delta": "62.15"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/nicki-craddock-head-of-public-relations-ikea",
+				"feature_value": "24",
+				"cluster_win_mean": "75.15",
+				"delta": "51.15"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/09",
+				"feature_value": "39",
+				"cluster_win_mean": "75.15",
+				"delta": "36.15"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/09/katie-weeks-communications-manager-ace-european-group",
+				"feature_value": "25",
+				"cluster_win_mean": "75.15",
+				"delta": "50.15"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/04/peter-van-der-merwe-operations-director-at-csfd",
+				"feature_value": "18",
+				"cluster_win_mean": "75.15",
+				"delta": "57.15"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/05/film-production-in-60-seconds/#comment-10",
+				"feature_value": "12",
+				"cluster_win_mean": "75.15",
+				"delta": "63.15"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/04/donal-keane-brand-marketing-manager-at-loomis",
+				"feature_value": "29",
+				"cluster_win_mean": "75.15",
+				"delta": "46.15"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/04/bruce-furlonger-head-of-business-development-seven-scent",
+				"feature_value": "22",
+				"cluster_win_mean": "75.15",
+				"delta": "53.15"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/04/debbie-rosher-marketing-manager-at-the-london-linen-group",
+				"feature_value": "14",
+				"cluster_win_mean": "75.15",
+				"delta": "61.15"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/04/vince-summer-managing-director-datasound",
+				"feature_value": "37",
+				"cluster_win_mean": "75.15",
+				"delta": "38.15"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/04/marcus-and-garrick-jones-founder-ea-carey",
+				"feature_value": "17",
+				"cluster_win_mean": "75.15",
+				"delta": "58.15"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/victoria-pilkington-managing-director-brora",
+				"feature_value": "17",
+				"cluster_win_mean": "75.15",
+				"delta": "58.15"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/gill-bowler-internal-communications-manager-waitrose-2",
+				"feature_value": "28",
+				"cluster_win_mean": "75.15",
+				"delta": "47.15"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/2351",
+				"feature_value": "13",
+				"cluster_win_mean": "75.15",
+				"delta": "62.15"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/professor-bill-mckelvey-principal-chief-executive-scottish-agricultural-college",
+				"feature_value": "11",
+				"cluster_win_mean": "75.15",
+				"delta": "64.15"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/martin-fleet-general-manager-sheila-fleet-jewellery",
+				"feature_value": "17",
+				"cluster_win_mean": "75.15",
+				"delta": "58.15"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/georgina-smith-sales-marketing-director-stonehaven",
+				"feature_value": "13",
+				"cluster_win_mean": "75.15",
+				"delta": "62.15"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/john-moret-director-of-sales-marketing-suffolk-life",
+				"feature_value": "17",
+				"cluster_win_mean": "75.15",
+				"delta": "58.15"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/andrew-leggett-marketing-technical-manager-suffolk-life",
+				"feature_value": "26",
+				"cluster_win_mean": "75.15",
+				"delta": "49.15"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/brigitte-schuessler-head-of-supply-real-estate-management-telekom-austria",
+				"feature_value": "19",
+				"cluster_win_mean": "75.15",
+				"delta": "56.15"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/peter-butcher-chairman-managing-director-tmd-technologies",
+				"feature_value": "17",
+				"cluster_win_mean": "75.15",
+				"delta": "58.15"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/gill-bowler-internal-communications-manager-waitrose",
+				"feature_value": "11",
+				"cluster_win_mean": "75.15",
+				"delta": "64.15"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/james-mcdougall-promotion-events-manager-forestry-commission-scotland",
+				"feature_value": "11",
+				"cluster_win_mean": "75.15",
+				"delta": "64.15"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/simon-j-pearce-chief-operating-officer-brightside-group-plc",
+				"feature_value": "16",
+				"cluster_win_mean": "75.15",
+				"delta": "59.15"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/heather-mcrae-marketing-manager-gms-music",
+				"feature_value": "20",
+				"cluster_win_mean": "75.15",
+				"delta": "55.15"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/john-carroll-head-of-marketing-catlin-group",
+				"feature_value": "13",
+				"cluster_win_mean": "75.15",
+				"delta": "62.15"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/sofie-boddy-pr-manager-footdown",
+				"feature_value": "13",
+				"cluster_win_mean": "75.15",
+				"delta": "62.15"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/peter-ellis-ceo-foreign-currency-direct",
+				"feature_value": " 9",
+				"cluster_win_mean": "75.15",
+				"delta": "66.15"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/simon-davies-head-of-marketing-fine-rare-wines",
+				"feature_value": "21",
+				"cluster_win_mean": "75.15",
+				"delta": "54.15"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/stuart-green-managing-director-uk-steel-enterprise",
+				"feature_value": "25",
+				"cluster_win_mean": "75.15",
+				"delta": "50.15"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/09/caterina-rigoni",
+				"feature_value": "16",
+				"cluster_win_mean": "75.15",
+				"delta": "59.15"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/05/film-pre-production",
+				"feature_value": "10",
+				"cluster_win_mean": "75.15",
+				"delta": "65.15"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/tag/pre-production",
+				"feature_value": " 2",
+				"cluster_win_mean": "75.15",
+				"delta": "73.15"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/05/film-pre-production/#respond",
+				"feature_value": "10",
+				"cluster_win_mean": "75.15",
+				"delta": "65.15"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/08/what-returns-can-video-offer-a-business",
+				"feature_value": " 6",
+				"cluster_win_mean": "75.15",
+				"delta": "69.15"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/08/what-returns-can-video-offer-a-business/#respond",
+				"feature_value": " 6",
+				"cluster_win_mean": "75.15",
+				"delta": "69.15"
+			}
+		],
+		"number_of_id_attribute_refs": [
+			{
+				"html_id": "http://www.traccfilms.co.uk/media-partners/wsj-wall-street-journal",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/media-partners/telegraph",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/media-partners/the-scotsman",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			}
+		],
+		"number_of_rare_words": [
+			{
+				"html_id": "http://www.traccfilms.co.uk/contact-us",
+				"feature_value": "11",
+				"cluster_win_mean": "33.42",
+				"delta": "22.42"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/04/diana-tamboly-brand-marketing-manager-emea-sabre-travel-network",
+				"feature_value": "16",
+				"cluster_win_mean": "33.42",
+				"delta": "17.42"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/09",
+				"feature_value": " 7",
+				"cluster_win_mean": "33.42",
+				"delta": "26.42"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/09/the-secret-ingredients",
+				"feature_value": " 4",
+				"cluster_win_mean": "33.42",
+				"delta": "29.42"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/09/the-secret-ingredients/#respond",
+				"feature_value": " 4",
+				"cluster_win_mean": "33.42",
+				"delta": "29.42"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/08",
+				"feature_value": " 7",
+				"cluster_win_mean": "33.42",
+				"delta": "26.42"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/08/why-video",
+				"feature_value": " 6",
+				"cluster_win_mean": "33.42",
+				"delta": "27.42"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/08/why-video/#respond",
+				"feature_value": " 6",
+				"cluster_win_mean": "33.42",
+				"delta": "27.42"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/06",
+				"feature_value": " 8",
+				"cluster_win_mean": "33.42",
+				"delta": "25.42"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/06/film-post-production-in-60-seconds",
+				"feature_value": " 7",
+				"cluster_win_mean": "33.42",
+				"delta": "26.42"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/tag/film",
+				"feature_value": " 7",
+				"cluster_win_mean": "33.42",
+				"delta": "26.42"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/06/film-post-production-in-60-seconds/#respond",
+				"feature_value": " 7",
+				"cluster_win_mean": "33.42",
+				"delta": "26.42"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/tag/post-production",
+				"feature_value": " 5",
+				"cluster_win_mean": "33.42",
+				"delta": "28.42"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/tag/video-production",
+				"feature_value": " 7",
+				"cluster_win_mean": "33.42",
+				"delta": "26.42"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/05/film-production-in-60-seconds",
+				"feature_value": " 7",
+				"cluster_win_mean": "33.42",
+				"delta": "26.42"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/tag/production",
+				"feature_value": " 5",
+				"cluster_win_mean": "33.42",
+				"delta": "28.42"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/05/film-production-in-60-seconds/#comments",
+				"feature_value": " 7",
+				"cluster_win_mean": "33.42",
+				"delta": "26.42"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/05/film-production-in-60-seconds/#respond",
+				"feature_value": " 7",
+				"cluster_win_mean": "33.42",
+				"delta": "26.42"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/05",
+				"feature_value": " 9",
+				"cluster_win_mean": "33.42",
+				"delta": "24.42"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/05/famous-footwear-behind-the-scenes",
+				"feature_value": " 8",
+				"cluster_win_mean": "33.42",
+				"delta": "25.42"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/05/famous-footwear-behind-the-scenes/#respond",
+				"feature_value": " 8",
+				"cluster_win_mean": "33.42",
+				"delta": "25.42"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/nicki-craddock-head-of-public-relations-ikea",
+				"feature_value": "15",
+				"cluster_win_mean": "33.42",
+				"delta": "18.42"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/09",
+				"feature_value": "16",
+				"cluster_win_mean": "33.42",
+				"delta": "17.42"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/09/katie-weeks-communications-manager-ace-european-group",
+				"feature_value": "13",
+				"cluster_win_mean": "33.42",
+				"delta": "20.42"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/04/peter-van-der-merwe-operations-director-at-csfd",
+				"feature_value": "16",
+				"cluster_win_mean": "33.42",
+				"delta": "17.42"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/05/film-production-in-60-seconds/#comment-10",
+				"feature_value": " 7",
+				"cluster_win_mean": "33.42",
+				"delta": "26.42"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/04/donal-keane-brand-marketing-manager-at-loomis",
+				"feature_value": "17",
+				"cluster_win_mean": "33.42",
+				"delta": "16.42"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/04/bruce-furlonger-head-of-business-development-seven-scent",
+				"feature_value": "11",
+				"cluster_win_mean": "33.42",
+				"delta": "22.42"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/04/debbie-rosher-marketing-manager-at-the-london-linen-group",
+				"feature_value": "12",
+				"cluster_win_mean": "33.42",
+				"delta": "21.42"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/04/vince-summer-managing-director-datasound",
+				"feature_value": "19",
+				"cluster_win_mean": "33.42",
+				"delta": "14.42"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/04/marcus-and-garrick-jones-founder-ea-carey",
+				"feature_value": "19",
+				"cluster_win_mean": "33.42",
+				"delta": "14.42"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/victoria-pilkington-managing-director-brora",
+				"feature_value": "17",
+				"cluster_win_mean": "33.42",
+				"delta": "16.42"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/gill-bowler-internal-communications-manager-waitrose-2",
+				"feature_value": "15",
+				"cluster_win_mean": "33.42",
+				"delta": "18.42"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/2351",
+				"feature_value": "14",
+				"cluster_win_mean": "33.42",
+				"delta": "19.42"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/professor-bill-mckelvey-principal-chief-executive-scottish-agricultural-college",
+				"feature_value": "14",
+				"cluster_win_mean": "33.42",
+				"delta": "19.42"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/martin-fleet-general-manager-sheila-fleet-jewellery",
+				"feature_value": "15",
+				"cluster_win_mean": "33.42",
+				"delta": "18.42"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/georgina-smith-sales-marketing-director-stonehaven",
+				"feature_value": "15",
+				"cluster_win_mean": "33.42",
+				"delta": "18.42"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/john-moret-director-of-sales-marketing-suffolk-life",
+				"feature_value": "15",
+				"cluster_win_mean": "33.42",
+				"delta": "18.42"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/andrew-leggett-marketing-technical-manager-suffolk-life",
+				"feature_value": "14",
+				"cluster_win_mean": "33.42",
+				"delta": "19.42"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/brigitte-schuessler-head-of-supply-real-estate-management-telekom-austria",
+				"feature_value": "18",
+				"cluster_win_mean": "33.42",
+				"delta": "15.42"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/peter-butcher-chairman-managing-director-tmd-technologies",
+				"feature_value": "17",
+				"cluster_win_mean": "33.42",
+				"delta": "16.42"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/gill-bowler-internal-communications-manager-waitrose",
+				"feature_value": "12",
+				"cluster_win_mean": "33.42",
+				"delta": "21.42"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/james-mcdougall-promotion-events-manager-forestry-commission-scotland",
+				"feature_value": "15",
+				"cluster_win_mean": "33.42",
+				"delta": "18.42"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/simon-j-pearce-chief-operating-officer-brightside-group-plc",
+				"feature_value": "15",
+				"cluster_win_mean": "33.42",
+				"delta": "18.42"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/heather-mcrae-marketing-manager-gms-music",
+				"feature_value": "17",
+				"cluster_win_mean": "33.42",
+				"delta": "16.42"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/john-carroll-head-of-marketing-catlin-group",
+				"feature_value": "12",
+				"cluster_win_mean": "33.42",
+				"delta": "21.42"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/sofie-boddy-pr-manager-footdown",
+				"feature_value": "18",
+				"cluster_win_mean": "33.42",
+				"delta": "15.42"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/peter-ellis-ceo-foreign-currency-direct",
+				"feature_value": "11",
+				"cluster_win_mean": "33.42",
+				"delta": "22.42"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/simon-davies-head-of-marketing-fine-rare-wines",
+				"feature_value": "14",
+				"cluster_win_mean": "33.42",
+				"delta": "19.42"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/stuart-green-managing-director-uk-steel-enterprise",
+				"feature_value": "17",
+				"cluster_win_mean": "33.42",
+				"delta": "16.42"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/09/caterina-rigoni",
+				"feature_value": "14",
+				"cluster_win_mean": "33.42",
+				"delta": "19.42"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/05/film-pre-production",
+				"feature_value": " 7",
+				"cluster_win_mean": "33.42",
+				"delta": "26.42"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/tag/pre-production",
+				"feature_value": " 6",
+				"cluster_win_mean": "33.42",
+				"delta": "27.42"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/05/film-pre-production/#respond",
+				"feature_value": " 7",
+				"cluster_win_mean": "33.42",
+				"delta": "26.42"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/08/what-returns-can-video-offer-a-business",
+				"feature_value": " 6",
+				"cluster_win_mean": "33.42",
+				"delta": "27.42"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/08/what-returns-can-video-offer-a-business/#respond",
+				"feature_value": " 6",
+				"cluster_win_mean": "33.42",
+				"delta": "27.42"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-3735",
+				"feature_value": "23",
+				"cluster_win_mean": "33.42",
+				"delta": "10.42"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-3444",
+				"feature_value": "26",
+				"cluster_win_mean": "33.42",
+				"delta": " 7.42"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-1679",
+				"feature_value": "23",
+				"cluster_win_mean": "33.42",
+				"delta": "10.42"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/media-partners/wsj-wall-street-journal",
+				"feature_value": "74",
+				"cluster_win_mean": "90.29",
+				"delta": "16.29"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-1659",
+				"feature_value": "27",
+				"cluster_win_mean": "33.42",
+				"delta": " 6.42"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-1594",
+				"feature_value": "23",
+				"cluster_win_mean": "33.42",
+				"delta": "10.42"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-1556",
+				"feature_value": "27",
+				"cluster_win_mean": "33.42",
+				"delta": " 6.42"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-167",
+				"feature_value": "23",
+				"cluster_win_mean": "33.42",
+				"delta": "10.42"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-3257",
+				"feature_value": "26",
+				"cluster_win_mean": "33.42",
+				"delta": " 7.42"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-1651",
+				"feature_value": "26",
+				"cluster_win_mean": "33.42",
+				"delta": " 7.42"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-1649",
+				"feature_value": "26",
+				"cluster_win_mean": "33.42",
+				"delta": " 7.42"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-1645",
+				"feature_value": "23",
+				"cluster_win_mean": "33.42",
+				"delta": "10.42"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-1563",
+				"feature_value": "23",
+				"cluster_win_mean": "33.42",
+				"delta": "10.42"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-4039",
+				"feature_value": "27",
+				"cluster_win_mean": "33.42",
+				"delta": " 6.42"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-1512",
+				"feature_value": "27",
+				"cluster_win_mean": "33.42",
+				"delta": " 6.42"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-1639",
+				"feature_value": "23",
+				"cluster_win_mean": "33.42",
+				"delta": "10.42"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-1618",
+				"feature_value": "27",
+				"cluster_win_mean": "33.42",
+				"delta": " 6.42"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-3253",
+				"feature_value": "27",
+				"cluster_win_mean": "33.42",
+				"delta": " 6.42"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-3245",
+				"feature_value": "25",
+				"cluster_win_mean": "33.42",
+				"delta": " 8.42"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-142",
+				"feature_value": "23",
+				"cluster_win_mean": "33.42",
+				"delta": "10.42"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-85",
+				"feature_value": "25",
+				"cluster_win_mean": "33.42",
+				"delta": " 8.42"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-1004",
+				"feature_value": "23",
+				"cluster_win_mean": "33.42",
+				"delta": "10.42"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-1420",
+				"feature_value": "27",
+				"cluster_win_mean": "33.42",
+				"delta": " 6.42"
+			}
+		],
+		"number_of_hyperlinks_with_html": [
+			{
+				"html_id": "http://www.traccfilms.co.uk",
+				"feature_value": "0",
+				"cluster_win_mean": "39.4",
+				"delta": "39.4"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/category/blog",
+				"feature_value": "1",
+				"cluster_win_mean": "39.4",
+				"delta": "38.4"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/about-us",
+				"feature_value": "0",
+				"cluster_win_mean": "39.4",
+				"delta": "39.4"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/video-production-services",
+				"feature_value": "0",
+				"cluster_win_mean": "39.4",
+				"delta": "39.4"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/video-distribution-promotion",
+				"feature_value": "0",
+				"cluster_win_mean": "39.4",
+				"delta": "39.4"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/media-partners",
+				"feature_value": "0",
+				"cluster_win_mean": "39.4",
+				"delta": "39.4"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/clients",
+				"feature_value": "0",
+				"cluster_win_mean": "39.4",
+				"delta": "39.4"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/contact-us",
+				"feature_value": "0",
+				"cluster_win_mean": "39.4",
+				"delta": "39.4"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/04/diana-tamboly-brand-marketing-manager-emea-sabre-travel-network",
+				"feature_value": "1",
+				"cluster_win_mean": "39.4",
+				"delta": "38.4"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/09",
+				"feature_value": "1",
+				"cluster_win_mean": "39.4",
+				"delta": "38.4"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/09/the-secret-ingredients",
+				"feature_value": "1",
+				"cluster_win_mean": "39.4",
+				"delta": "38.4"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/09/the-secret-ingredients/#respond",
+				"feature_value": "1",
+				"cluster_win_mean": "39.4",
+				"delta": "38.4"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/08",
+				"feature_value": "1",
+				"cluster_win_mean": "39.4",
+				"delta": "38.4"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/08/why-video",
+				"feature_value": "1",
+				"cluster_win_mean": "39.4",
+				"delta": "38.4"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/08/why-video/#respond",
+				"feature_value": "1",
+				"cluster_win_mean": "39.4",
+				"delta": "38.4"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/06",
+				"feature_value": "1",
+				"cluster_win_mean": "39.4",
+				"delta": "38.4"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/06/film-post-production-in-60-seconds",
+				"feature_value": "1",
+				"cluster_win_mean": "39.4",
+				"delta": "38.4"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/tag/film",
+				"feature_value": "1",
+				"cluster_win_mean": "39.4",
+				"delta": "38.4"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/06/film-post-production-in-60-seconds/#respond",
+				"feature_value": "1",
+				"cluster_win_mean": "39.4",
+				"delta": "38.4"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/tag/post-production",
+				"feature_value": "1",
+				"cluster_win_mean": "39.4",
+				"delta": "38.4"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/tag/video-production",
+				"feature_value": "1",
+				"cluster_win_mean": "39.4",
+				"delta": "38.4"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/05/film-production-in-60-seconds",
+				"feature_value": "1",
+				"cluster_win_mean": "39.4",
+				"delta": "38.4"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/tag/production",
+				"feature_value": "1",
+				"cluster_win_mean": "39.4",
+				"delta": "38.4"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/05/film-production-in-60-seconds/#comments",
+				"feature_value": "1",
+				"cluster_win_mean": "39.4",
+				"delta": "38.4"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/05/film-production-in-60-seconds/#respond",
+				"feature_value": "1",
+				"cluster_win_mean": "39.4",
+				"delta": "38.4"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/05",
+				"feature_value": "1",
+				"cluster_win_mean": "39.4",
+				"delta": "38.4"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/05/famous-footwear-behind-the-scenes",
+				"feature_value": "1",
+				"cluster_win_mean": "39.4",
+				"delta": "38.4"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/05/famous-footwear-behind-the-scenes/#respond",
+				"feature_value": "1",
+				"cluster_win_mean": "39.4",
+				"delta": "38.4"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/04",
+				"feature_value": "1",
+				"cluster_win_mean": "39.4",
+				"delta": "38.4"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/04/indexing-your-digital-content-satisfy-both-google-and-users",
+				"feature_value": "1",
+				"cluster_win_mean": "39.4",
+				"delta": "38.4"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/04/indexing-your-digital-content-satisfy-both-google-and-users/#respond",
+				"feature_value": "1",
+				"cluster_win_mean": "39.4",
+				"delta": "38.4"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12",
+				"feature_value": "1",
+				"cluster_win_mean": "39.4",
+				"delta": "38.4"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/nicki-craddock-head-of-public-relations-ikea",
+				"feature_value": "1",
+				"cluster_win_mean": "39.4",
+				"delta": "38.4"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/09",
+				"feature_value": "1",
+				"cluster_win_mean": "39.4",
+				"delta": "38.4"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/09/katie-weeks-communications-manager-ace-european-group",
+				"feature_value": "1",
+				"cluster_win_mean": "39.4",
+				"delta": "38.4"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/category/testimonials",
+				"feature_value": "1",
+				"cluster_win_mean": "39.4",
+				"delta": "38.4"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/04/peter-van-der-merwe-operations-director-at-csfd",
+				"feature_value": "1",
+				"cluster_win_mean": "39.4",
+				"delta": "38.4"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/05/film-production-in-60-seconds/#comment-10",
+				"feature_value": "1",
+				"cluster_win_mean": "39.4",
+				"delta": "38.4"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/04/donal-keane-brand-marketing-manager-at-loomis",
+				"feature_value": "1",
+				"cluster_win_mean": "39.4",
+				"delta": "38.4"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/04/bruce-furlonger-head-of-business-development-seven-scent",
+				"feature_value": "1",
+				"cluster_win_mean": "39.4",
+				"delta": "38.4"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/04/debbie-rosher-marketing-manager-at-the-london-linen-group",
+				"feature_value": "1",
+				"cluster_win_mean": "39.4",
+				"delta": "38.4"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/04/vince-summer-managing-director-datasound",
+				"feature_value": "1",
+				"cluster_win_mean": "39.4",
+				"delta": "38.4"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/04/marcus-and-garrick-jones-founder-ea-carey",
+				"feature_value": "1",
+				"cluster_win_mean": "39.4",
+				"delta": "38.4"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/victoria-pilkington-managing-director-brora",
+				"feature_value": "1",
+				"cluster_win_mean": "39.4",
+				"delta": "38.4"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/gill-bowler-internal-communications-manager-waitrose-2",
+				"feature_value": "1",
+				"cluster_win_mean": "39.4",
+				"delta": "38.4"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/2351",
+				"feature_value": "1",
+				"cluster_win_mean": "39.4",
+				"delta": "38.4"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/professor-bill-mckelvey-principal-chief-executive-scottish-agricultural-college",
+				"feature_value": "1",
+				"cluster_win_mean": "39.4",
+				"delta": "38.4"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/martin-fleet-general-manager-sheila-fleet-jewellery",
+				"feature_value": "1",
+				"cluster_win_mean": "39.4",
+				"delta": "38.4"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/georgina-smith-sales-marketing-director-stonehaven",
+				"feature_value": "1",
+				"cluster_win_mean": "39.4",
+				"delta": "38.4"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/john-moret-director-of-sales-marketing-suffolk-life",
+				"feature_value": "1",
+				"cluster_win_mean": "39.4",
+				"delta": "38.4"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/andrew-leggett-marketing-technical-manager-suffolk-life",
+				"feature_value": "1",
+				"cluster_win_mean": "39.4",
+				"delta": "38.4"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/brigitte-schuessler-head-of-supply-real-estate-management-telekom-austria",
+				"feature_value": "1",
+				"cluster_win_mean": "39.4",
+				"delta": "38.4"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/peter-butcher-chairman-managing-director-tmd-technologies",
+				"feature_value": "1",
+				"cluster_win_mean": "39.4",
+				"delta": "38.4"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/gill-bowler-internal-communications-manager-waitrose",
+				"feature_value": "1",
+				"cluster_win_mean": "39.4",
+				"delta": "38.4"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/james-mcdougall-promotion-events-manager-forestry-commission-scotland",
+				"feature_value": "1",
+				"cluster_win_mean": "39.4",
+				"delta": "38.4"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/simon-j-pearce-chief-operating-officer-brightside-group-plc",
+				"feature_value": "1",
+				"cluster_win_mean": "39.4",
+				"delta": "38.4"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/heather-mcrae-marketing-manager-gms-music",
+				"feature_value": "1",
+				"cluster_win_mean": "39.4",
+				"delta": "38.4"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/john-carroll-head-of-marketing-catlin-group",
+				"feature_value": "1",
+				"cluster_win_mean": "39.4",
+				"delta": "38.4"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/sofie-boddy-pr-manager-footdown",
+				"feature_value": "1",
+				"cluster_win_mean": "39.4",
+				"delta": "38.4"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/peter-ellis-ceo-foreign-currency-direct",
+				"feature_value": "1",
+				"cluster_win_mean": "39.4",
+				"delta": "38.4"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/simon-davies-head-of-marketing-fine-rare-wines",
+				"feature_value": "1",
+				"cluster_win_mean": "39.4",
+				"delta": "38.4"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/stuart-green-managing-director-uk-steel-enterprise",
+				"feature_value": "1",
+				"cluster_win_mean": "39.4",
+				"delta": "38.4"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/09/caterina-rigoni",
+				"feature_value": "1",
+				"cluster_win_mean": "39.4",
+				"delta": "38.4"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/the-c-word-it%e2%80%99s-compelling",
+				"feature_value": "1",
+				"cluster_win_mean": "39.4",
+				"delta": "38.4"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/the-c-word-it%e2%80%99s-compelling/#respond",
+				"feature_value": "1",
+				"cluster_win_mean": "39.4",
+				"delta": "38.4"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/space-junk-a-brand-dilemma",
+				"feature_value": "1",
+				"cluster_win_mean": "39.4",
+				"delta": "38.4"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/space-junk-a-brand-dilemma/#respond",
+				"feature_value": "1",
+				"cluster_win_mean": "39.4",
+				"delta": "38.4"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/05/film-pre-production",
+				"feature_value": "1",
+				"cluster_win_mean": "39.4",
+				"delta": "38.4"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/tag/pre-production",
+				"feature_value": "1",
+				"cluster_win_mean": "39.4",
+				"delta": "38.4"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/05/film-pre-production/#respond",
+				"feature_value": "1",
+				"cluster_win_mean": "39.4",
+				"delta": "38.4"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/08/what-returns-can-video-offer-a-business",
+				"feature_value": "1",
+				"cluster_win_mean": "39.4",
+				"delta": "38.4"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/08/what-returns-can-video-offer-a-business/#respond",
+				"feature_value": "1",
+				"cluster_win_mean": "39.4",
+				"delta": "38.4"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/case-study1-clients",
+				"feature_value": "0",
+				"cluster_win_mean": "39.4",
+				"delta": "39.4"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/case-study2-clients",
+				"feature_value": "0",
+				"cluster_win_mean": "39.4",
+				"delta": "39.4"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/case-study3-clients",
+				"feature_value": "0",
+				"cluster_win_mean": "39.4",
+				"delta": "39.4"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/case-study4-clients",
+				"feature_value": "0",
+				"cluster_win_mean": "39.4",
+				"delta": "39.4"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/case-study5-clients",
+				"feature_value": "0",
+				"cluster_win_mean": "39.4",
+				"delta": "39.4"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/case-study6-clients",
+				"feature_value": "0",
+				"cluster_win_mean": "39.4",
+				"delta": "39.4"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/case-study7-clients",
+				"feature_value": "0",
+				"cluster_win_mean": "39.4",
+				"delta": "39.4"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-3725",
+				"feature_value": "0",
+				"cluster_win_mean": "39.4",
+				"delta": "39.4"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-961",
+				"feature_value": "0",
+				"cluster_win_mean": "39.4",
+				"delta": "39.4"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-4261",
+				"feature_value": "0",
+				"cluster_win_mean": "39.4",
+				"delta": "39.4"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-3735",
+				"feature_value": "0",
+				"cluster_win_mean": "39.4",
+				"delta": "39.4"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-3444",
+				"feature_value": "0",
+				"cluster_win_mean": "39.4",
+				"delta": "39.4"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-1679",
+				"feature_value": "0",
+				"cluster_win_mean": "39.4",
+				"delta": "39.4"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-1458",
+				"feature_value": "0",
+				"cluster_win_mean": "39.4",
+				"delta": "39.4"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-1464",
+				"feature_value": "0",
+				"cluster_win_mean": "39.4",
+				"delta": "39.4"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/media-partners?phpMyAdmin=3723c4ec13623tf1db022r401c8",
+				"feature_value": "0",
+				"cluster_win_mean": "39.4",
+				"delta": "39.4"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/media-partners/eba-european-business-awards",
+				"feature_value": "0",
+				"cluster_win_mean": "39.4",
+				"delta": "39.4"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-3326",
+				"feature_value": "0",
+				"cluster_win_mean": "39.4",
+				"delta": "39.4"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-1659",
+				"feature_value": "0",
+				"cluster_win_mean": "39.4",
+				"delta": "39.4"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-1657",
+				"feature_value": "0",
+				"cluster_win_mean": "39.4",
+				"delta": "39.4"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-1594",
+				"feature_value": "0",
+				"cluster_win_mean": "39.4",
+				"delta": "39.4"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-1556",
+				"feature_value": "0",
+				"cluster_win_mean": "39.4",
+				"delta": "39.4"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-167",
+				"feature_value": "0",
+				"cluster_win_mean": "39.4",
+				"delta": "39.4"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-3322",
+				"feature_value": "0",
+				"cluster_win_mean": "39.4",
+				"delta": "39.4"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-3257",
+				"feature_value": "0",
+				"cluster_win_mean": "39.4",
+				"delta": "39.4"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-1651",
+				"feature_value": "0",
+				"cluster_win_mean": "39.4",
+				"delta": "39.4"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-1649",
+				"feature_value": "0",
+				"cluster_win_mean": "39.4",
+				"delta": "39.4"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-1645",
+				"feature_value": "0",
+				"cluster_win_mean": "39.4",
+				"delta": "39.4"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-1563",
+				"feature_value": "0",
+				"cluster_win_mean": "39.4",
+				"delta": "39.4"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-4039",
+				"feature_value": "0",
+				"cluster_win_mean": "39.4",
+				"delta": "39.4"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-3335",
+				"feature_value": "0",
+				"cluster_win_mean": "39.4",
+				"delta": "39.4"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-2365",
+				"feature_value": "0",
+				"cluster_win_mean": "39.4",
+				"delta": "39.4"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-1512",
+				"feature_value": "0",
+				"cluster_win_mean": "39.4",
+				"delta": "39.4"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-1639",
+				"feature_value": "0",
+				"cluster_win_mean": "39.4",
+				"delta": "39.4"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-1618",
+				"feature_value": "0",
+				"cluster_win_mean": "39.4",
+				"delta": "39.4"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-1506",
+				"feature_value": "0",
+				"cluster_win_mean": "39.4",
+				"delta": "39.4"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-3253",
+				"feature_value": "0",
+				"cluster_win_mean": "39.4",
+				"delta": "39.4"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-3245",
+				"feature_value": "0",
+				"cluster_win_mean": "39.4",
+				"delta": "39.4"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-3239",
+				"feature_value": "0",
+				"cluster_win_mean": "39.4",
+				"delta": "39.4"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-142",
+				"feature_value": "0",
+				"cluster_win_mean": "39.4",
+				"delta": "39.4"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-85",
+				"feature_value": "0",
+				"cluster_win_mean": "39.4",
+				"delta": "39.4"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-1491",
+				"feature_value": "0",
+				"cluster_win_mean": "39.4",
+				"delta": "39.4"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-1004",
+				"feature_value": "0",
+				"cluster_win_mean": "39.4",
+				"delta": "39.4"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-2431",
+				"feature_value": "0",
+				"cluster_win_mean": "39.4",
+				"delta": "39.4"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-1420",
+				"feature_value": "0",
+				"cluster_win_mean": "39.4",
+				"delta": "39.4"
+			}
+		],
+		"total_number_of_5k_common_words": [
+			{
+				"html_id": "http://www.traccfilms.co.uk/contact-us",
+				"feature_value": "54",
+				"cluster_win_mean": "101.15",
+				"delta": "47.15"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/04/diana-tamboly-brand-marketing-manager-emea-sabre-travel-network",
+				"feature_value": "44",
+				"cluster_win_mean": "101.15",
+				"delta": "57.15"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/09",
+				"feature_value": "10",
+				"cluster_win_mean": "101.15",
+				"delta": "91.15"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/09/the-secret-ingredients",
+				"feature_value": "18",
+				"cluster_win_mean": "101.15",
+				"delta": "83.15"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/09/the-secret-ingredients/#respond",
+				"feature_value": "18",
+				"cluster_win_mean": "101.15",
+				"delta": "83.15"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/08",
+				"feature_value": "10",
+				"cluster_win_mean": "101.15",
+				"delta": "91.15"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/08/why-video",
+				"feature_value": "14",
+				"cluster_win_mean": "101.15",
+				"delta": "87.15"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/08/why-video/#respond",
+				"feature_value": "14",
+				"cluster_win_mean": "101.15",
+				"delta": "87.15"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/06",
+				"feature_value": "19",
+				"cluster_win_mean": "101.15",
+				"delta": "82.15"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/06/film-post-production-in-60-seconds",
+				"feature_value": "31",
+				"cluster_win_mean": "101.15",
+				"delta": "70.15"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/tag/film",
+				"feature_value": "39",
+				"cluster_win_mean": "101.15",
+				"delta": "62.15"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/06/film-post-production-in-60-seconds/#respond",
+				"feature_value": "31",
+				"cluster_win_mean": "101.15",
+				"delta": "70.15"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/tag/post-production",
+				"feature_value": "22",
+				"cluster_win_mean": "101.15",
+				"delta": "79.15"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/tag/video-production",
+				"feature_value": "42",
+				"cluster_win_mean": "101.15",
+				"delta": "59.15"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/05/film-production-in-60-seconds",
+				"feature_value": "30",
+				"cluster_win_mean": "101.15",
+				"delta": "71.15"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/tag/production",
+				"feature_value": "21",
+				"cluster_win_mean": "101.15",
+				"delta": "80.15"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/05/film-production-in-60-seconds/#comments",
+				"feature_value": "30",
+				"cluster_win_mean": "101.15",
+				"delta": "71.15"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/05/film-production-in-60-seconds/#respond",
+				"feature_value": "30",
+				"cluster_win_mean": "101.15",
+				"delta": "71.15"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/05",
+				"feature_value": "43",
+				"cluster_win_mean": "101.15",
+				"delta": "58.15"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/05/famous-footwear-behind-the-scenes",
+				"feature_value": "33",
+				"cluster_win_mean": "101.15",
+				"delta": "68.15"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/05/famous-footwear-behind-the-scenes/#respond",
+				"feature_value": "33",
+				"cluster_win_mean": "101.15",
+				"delta": "68.15"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/nicki-craddock-head-of-public-relations-ikea",
+				"feature_value": "68",
+				"cluster_win_mean": "101.15",
+				"delta": "33.15"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/09/katie-weeks-communications-manager-ace-european-group",
+				"feature_value": "63",
+				"cluster_win_mean": "101.15",
+				"delta": "38.15"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/04/peter-van-der-merwe-operations-director-at-csfd",
+				"feature_value": "49",
+				"cluster_win_mean": "101.15",
+				"delta": "52.15"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/05/film-production-in-60-seconds/#comment-10",
+				"feature_value": "30",
+				"cluster_win_mean": "101.15",
+				"delta": "71.15"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/04/bruce-furlonger-head-of-business-development-seven-scent",
+				"feature_value": "68",
+				"cluster_win_mean": "101.15",
+				"delta": "33.15"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/04/debbie-rosher-marketing-manager-at-the-london-linen-group",
+				"feature_value": "32",
+				"cluster_win_mean": "101.15",
+				"delta": "69.15"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/04/vince-summer-managing-director-datasound",
+				"feature_value": "83",
+				"cluster_win_mean": "101.15",
+				"delta": "18.15"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/04/marcus-and-garrick-jones-founder-ea-carey",
+				"feature_value": "50",
+				"cluster_win_mean": "101.15",
+				"delta": "51.15"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/victoria-pilkington-managing-director-brora",
+				"feature_value": "35",
+				"cluster_win_mean": "101.15",
+				"delta": "66.15"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/gill-bowler-internal-communications-manager-waitrose-2",
+				"feature_value": "68",
+				"cluster_win_mean": "101.15",
+				"delta": "33.15"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/2351",
+				"feature_value": "55",
+				"cluster_win_mean": "101.15",
+				"delta": "46.15"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/professor-bill-mckelvey-principal-chief-executive-scottish-agricultural-college",
+				"feature_value": "46",
+				"cluster_win_mean": "101.15",
+				"delta": "55.15"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/martin-fleet-general-manager-sheila-fleet-jewellery",
+				"feature_value": "45",
+				"cluster_win_mean": "101.15",
+				"delta": "56.15"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/georgina-smith-sales-marketing-director-stonehaven",
+				"feature_value": "37",
+				"cluster_win_mean": "101.15",
+				"delta": "64.15"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/john-moret-director-of-sales-marketing-suffolk-life",
+				"feature_value": "54",
+				"cluster_win_mean": "101.15",
+				"delta": "47.15"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/andrew-leggett-marketing-technical-manager-suffolk-life",
+				"feature_value": "83",
+				"cluster_win_mean": "101.15",
+				"delta": "18.15"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/brigitte-schuessler-head-of-supply-real-estate-management-telekom-austria",
+				"feature_value": "54",
+				"cluster_win_mean": "101.15",
+				"delta": "47.15"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/peter-butcher-chairman-managing-director-tmd-technologies",
+				"feature_value": "57",
+				"cluster_win_mean": "101.15",
+				"delta": "44.15"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/gill-bowler-internal-communications-manager-waitrose",
+				"feature_value": "34",
+				"cluster_win_mean": "101.15",
+				"delta": "67.15"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/james-mcdougall-promotion-events-manager-forestry-commission-scotland",
+				"feature_value": "27",
+				"cluster_win_mean": "101.15",
+				"delta": "74.15"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/simon-j-pearce-chief-operating-officer-brightside-group-plc",
+				"feature_value": "44",
+				"cluster_win_mean": "101.15",
+				"delta": "57.15"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/heather-mcrae-marketing-manager-gms-music",
+				"feature_value": "56",
+				"cluster_win_mean": "101.15",
+				"delta": "45.15"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/john-carroll-head-of-marketing-catlin-group",
+				"feature_value": "29",
+				"cluster_win_mean": "101.15",
+				"delta": "72.15"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/sofie-boddy-pr-manager-footdown",
+				"feature_value": "32",
+				"cluster_win_mean": "101.15",
+				"delta": "69.15"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/peter-ellis-ceo-foreign-currency-direct",
+				"feature_value": "36",
+				"cluster_win_mean": "101.15",
+				"delta": "65.15"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/simon-davies-head-of-marketing-fine-rare-wines",
+				"feature_value": "50",
+				"cluster_win_mean": "101.15",
+				"delta": "51.15"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/stuart-green-managing-director-uk-steel-enterprise",
+				"feature_value": "67",
+				"cluster_win_mean": "101.15",
+				"delta": "34.15"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/09/caterina-rigoni",
+				"feature_value": "47",
+				"cluster_win_mean": "101.15",
+				"delta": "54.15"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/05/film-pre-production",
+				"feature_value": "29",
+				"cluster_win_mean": "101.15",
+				"delta": "72.15"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/tag/pre-production",
+				"feature_value": "21",
+				"cluster_win_mean": "101.15",
+				"delta": "80.15"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/05/film-pre-production/#respond",
+				"feature_value": "29",
+				"cluster_win_mean": "101.15",
+				"delta": "72.15"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/08/what-returns-can-video-offer-a-business",
+				"feature_value": "22",
+				"cluster_win_mean": "101.15",
+				"delta": "79.15"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/08/what-returns-can-video-offer-a-business/#respond",
+				"feature_value": "22",
+				"cluster_win_mean": "101.15",
+				"delta": "79.15"
+			}
+		],
+		"number_of_hyperlinks_with_file": [
+			{
+				"html_id": "http://www.traccfilms.co.uk",
+				"feature_value": "2",
+				"cluster_win_mean": "6.24",
+				"delta": "4.24"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/category/blog",
+				"feature_value": "3",
+				"cluster_win_mean": "6.24",
+				"delta": "3.24"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/about-us",
+				"feature_value": "2",
+				"cluster_win_mean": "6.24",
+				"delta": "4.24"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/video-production-services",
+				"feature_value": "2",
+				"cluster_win_mean": "6.24",
+				"delta": "4.24"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/video-distribution-promotion",
+				"feature_value": "2",
+				"cluster_win_mean": "6.24",
+				"delta": "4.24"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/media-partners",
+				"feature_value": "2",
+				"cluster_win_mean": "6.24",
+				"delta": "4.24"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/clients",
+				"feature_value": "2",
+				"cluster_win_mean": "6.24",
+				"delta": "4.24"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/contact-us",
+				"feature_value": "4",
+				"cluster_win_mean": "6.24",
+				"delta": "2.24"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/04/diana-tamboly-brand-marketing-manager-emea-sabre-travel-network",
+				"feature_value": "3",
+				"cluster_win_mean": "6.24",
+				"delta": "3.24"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/09",
+				"feature_value": "3",
+				"cluster_win_mean": "6.24",
+				"delta": "3.24"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/09/the-secret-ingredients",
+				"feature_value": "3",
+				"cluster_win_mean": "6.24",
+				"delta": "3.24"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/09/the-secret-ingredients/#respond",
+				"feature_value": "3",
+				"cluster_win_mean": "6.24",
+				"delta": "3.24"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/08",
+				"feature_value": "3",
+				"cluster_win_mean": "6.24",
+				"delta": "3.24"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/08/why-video",
+				"feature_value": "3",
+				"cluster_win_mean": "6.24",
+				"delta": "3.24"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/08/why-video/#respond",
+				"feature_value": "3",
+				"cluster_win_mean": "6.24",
+				"delta": "3.24"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/06",
+				"feature_value": "3",
+				"cluster_win_mean": "6.24",
+				"delta": "3.24"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/06/film-post-production-in-60-seconds",
+				"feature_value": "3",
+				"cluster_win_mean": "6.24",
+				"delta": "3.24"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/tag/film",
+				"feature_value": "3",
+				"cluster_win_mean": "6.24",
+				"delta": "3.24"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/06/film-post-production-in-60-seconds/#respond",
+				"feature_value": "3",
+				"cluster_win_mean": "6.24",
+				"delta": "3.24"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/tag/post-production",
+				"feature_value": "3",
+				"cluster_win_mean": "6.24",
+				"delta": "3.24"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/tag/video-production",
+				"feature_value": "3",
+				"cluster_win_mean": "6.24",
+				"delta": "3.24"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/05/film-production-in-60-seconds",
+				"feature_value": "4",
+				"cluster_win_mean": "6.24",
+				"delta": "2.24"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/tag/production",
+				"feature_value": "3",
+				"cluster_win_mean": "6.24",
+				"delta": "3.24"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/05/film-production-in-60-seconds/#comments",
+				"feature_value": "4",
+				"cluster_win_mean": "6.24",
+				"delta": "2.24"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/05/film-production-in-60-seconds/#respond",
+				"feature_value": "4",
+				"cluster_win_mean": "6.24",
+				"delta": "2.24"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/05",
+				"feature_value": "3",
+				"cluster_win_mean": "6.24",
+				"delta": "3.24"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/05/famous-footwear-behind-the-scenes",
+				"feature_value": "3",
+				"cluster_win_mean": "6.24",
+				"delta": "3.24"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/05/famous-footwear-behind-the-scenes/#respond",
+				"feature_value": "3",
+				"cluster_win_mean": "6.24",
+				"delta": "3.24"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/04",
+				"feature_value": "3",
+				"cluster_win_mean": "6.24",
+				"delta": "3.24"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/04/indexing-your-digital-content-satisfy-both-google-and-users",
+				"feature_value": "3",
+				"cluster_win_mean": "6.24",
+				"delta": "3.24"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/04/indexing-your-digital-content-satisfy-both-google-and-users/#respond",
+				"feature_value": "3",
+				"cluster_win_mean": "6.24",
+				"delta": "3.24"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12",
+				"feature_value": "3",
+				"cluster_win_mean": "6.24",
+				"delta": "3.24"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/nicki-craddock-head-of-public-relations-ikea",
+				"feature_value": "3",
+				"cluster_win_mean": "6.24",
+				"delta": "3.24"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/09",
+				"feature_value": "3",
+				"cluster_win_mean": "6.24",
+				"delta": "3.24"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/09/katie-weeks-communications-manager-ace-european-group",
+				"feature_value": "3",
+				"cluster_win_mean": "6.24",
+				"delta": "3.24"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/category/testimonials",
+				"feature_value": "3",
+				"cluster_win_mean": "6.24",
+				"delta": "3.24"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/04/peter-van-der-merwe-operations-director-at-csfd",
+				"feature_value": "3",
+				"cluster_win_mean": "6.24",
+				"delta": "3.24"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/05/film-production-in-60-seconds/#comment-10",
+				"feature_value": "4",
+				"cluster_win_mean": "6.24",
+				"delta": "2.24"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/04/donal-keane-brand-marketing-manager-at-loomis",
+				"feature_value": "3",
+				"cluster_win_mean": "6.24",
+				"delta": "3.24"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/04/bruce-furlonger-head-of-business-development-seven-scent",
+				"feature_value": "3",
+				"cluster_win_mean": "6.24",
+				"delta": "3.24"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/04/debbie-rosher-marketing-manager-at-the-london-linen-group",
+				"feature_value": "3",
+				"cluster_win_mean": "6.24",
+				"delta": "3.24"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/04/vince-summer-managing-director-datasound",
+				"feature_value": "3",
+				"cluster_win_mean": "6.24",
+				"delta": "3.24"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/04/marcus-and-garrick-jones-founder-ea-carey",
+				"feature_value": "3",
+				"cluster_win_mean": "6.24",
+				"delta": "3.24"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/victoria-pilkington-managing-director-brora",
+				"feature_value": "3",
+				"cluster_win_mean": "6.24",
+				"delta": "3.24"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/gill-bowler-internal-communications-manager-waitrose-2",
+				"feature_value": "3",
+				"cluster_win_mean": "6.24",
+				"delta": "3.24"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/2351",
+				"feature_value": "3",
+				"cluster_win_mean": "6.24",
+				"delta": "3.24"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/professor-bill-mckelvey-principal-chief-executive-scottish-agricultural-college",
+				"feature_value": "3",
+				"cluster_win_mean": "6.24",
+				"delta": "3.24"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/martin-fleet-general-manager-sheila-fleet-jewellery",
+				"feature_value": "3",
+				"cluster_win_mean": "6.24",
+				"delta": "3.24"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/georgina-smith-sales-marketing-director-stonehaven",
+				"feature_value": "3",
+				"cluster_win_mean": "6.24",
+				"delta": "3.24"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/john-moret-director-of-sales-marketing-suffolk-life",
+				"feature_value": "3",
+				"cluster_win_mean": "6.24",
+				"delta": "3.24"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/andrew-leggett-marketing-technical-manager-suffolk-life",
+				"feature_value": "3",
+				"cluster_win_mean": "6.24",
+				"delta": "3.24"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/brigitte-schuessler-head-of-supply-real-estate-management-telekom-austria",
+				"feature_value": "3",
+				"cluster_win_mean": "6.24",
+				"delta": "3.24"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/peter-butcher-chairman-managing-director-tmd-technologies",
+				"feature_value": "3",
+				"cluster_win_mean": "6.24",
+				"delta": "3.24"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/gill-bowler-internal-communications-manager-waitrose",
+				"feature_value": "3",
+				"cluster_win_mean": "6.24",
+				"delta": "3.24"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/james-mcdougall-promotion-events-manager-forestry-commission-scotland",
+				"feature_value": "3",
+				"cluster_win_mean": "6.24",
+				"delta": "3.24"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/simon-j-pearce-chief-operating-officer-brightside-group-plc",
+				"feature_value": "3",
+				"cluster_win_mean": "6.24",
+				"delta": "3.24"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/heather-mcrae-marketing-manager-gms-music",
+				"feature_value": "3",
+				"cluster_win_mean": "6.24",
+				"delta": "3.24"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/john-carroll-head-of-marketing-catlin-group",
+				"feature_value": "3",
+				"cluster_win_mean": "6.24",
+				"delta": "3.24"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/sofie-boddy-pr-manager-footdown",
+				"feature_value": "3",
+				"cluster_win_mean": "6.24",
+				"delta": "3.24"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/peter-ellis-ceo-foreign-currency-direct",
+				"feature_value": "3",
+				"cluster_win_mean": "6.24",
+				"delta": "3.24"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/simon-davies-head-of-marketing-fine-rare-wines",
+				"feature_value": "3",
+				"cluster_win_mean": "6.24",
+				"delta": "3.24"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/stuart-green-managing-director-uk-steel-enterprise",
+				"feature_value": "3",
+				"cluster_win_mean": "6.24",
+				"delta": "3.24"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/09/caterina-rigoni",
+				"feature_value": "3",
+				"cluster_win_mean": "6.24",
+				"delta": "3.24"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/the-c-word-it%e2%80%99s-compelling",
+				"feature_value": "3",
+				"cluster_win_mean": "6.24",
+				"delta": "3.24"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/the-c-word-it%e2%80%99s-compelling/#respond",
+				"feature_value": "3",
+				"cluster_win_mean": "6.24",
+				"delta": "3.24"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/space-junk-a-brand-dilemma",
+				"feature_value": "3",
+				"cluster_win_mean": "6.24",
+				"delta": "3.24"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/space-junk-a-brand-dilemma/#respond",
+				"feature_value": "3",
+				"cluster_win_mean": "6.24",
+				"delta": "3.24"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/05/film-pre-production",
+				"feature_value": "3",
+				"cluster_win_mean": "6.24",
+				"delta": "3.24"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/tag/pre-production",
+				"feature_value": "3",
+				"cluster_win_mean": "6.24",
+				"delta": "3.24"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/05/film-pre-production/#respond",
+				"feature_value": "3",
+				"cluster_win_mean": "6.24",
+				"delta": "3.24"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/08/what-returns-can-video-offer-a-business",
+				"feature_value": "3",
+				"cluster_win_mean": "6.24",
+				"delta": "3.24"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/08/what-returns-can-video-offer-a-business/#respond",
+				"feature_value": "3",
+				"cluster_win_mean": "6.24",
+				"delta": "3.24"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/case-study1-clients",
+				"feature_value": "2",
+				"cluster_win_mean": "6.24",
+				"delta": "4.24"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/case-study2-clients",
+				"feature_value": "2",
+				"cluster_win_mean": "6.24",
+				"delta": "4.24"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/case-study3-clients",
+				"feature_value": "2",
+				"cluster_win_mean": "6.24",
+				"delta": "4.24"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/case-study4-clients",
+				"feature_value": "2",
+				"cluster_win_mean": "6.24",
+				"delta": "4.24"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/case-study5-clients",
+				"feature_value": "2",
+				"cluster_win_mean": "6.24",
+				"delta": "4.24"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/case-study6-clients",
+				"feature_value": "2",
+				"cluster_win_mean": "6.24",
+				"delta": "4.24"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/case-study7-clients",
+				"feature_value": "3",
+				"cluster_win_mean": "6.24",
+				"delta": "3.24"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-3725",
+				"feature_value": "2",
+				"cluster_win_mean": "6.24",
+				"delta": "4.24"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-961",
+				"feature_value": "2",
+				"cluster_win_mean": "6.24",
+				"delta": "4.24"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-4261",
+				"feature_value": "2",
+				"cluster_win_mean": "6.24",
+				"delta": "4.24"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-3735",
+				"feature_value": "2",
+				"cluster_win_mean": "6.24",
+				"delta": "4.24"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-3444",
+				"feature_value": "2",
+				"cluster_win_mean": "6.24",
+				"delta": "4.24"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-1679",
+				"feature_value": "2",
+				"cluster_win_mean": "6.24",
+				"delta": "4.24"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-1458",
+				"feature_value": "2",
+				"cluster_win_mean": "6.24",
+				"delta": "4.24"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-1464",
+				"feature_value": "2",
+				"cluster_win_mean": "6.24",
+				"delta": "4.24"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/media-partners?phpMyAdmin=3723c4ec13623tf1db022r401c8",
+				"feature_value": "2",
+				"cluster_win_mean": "6.24",
+				"delta": "4.24"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/media-partners/eba-european-business-awards",
+				"feature_value": "2",
+				"cluster_win_mean": "6.24",
+				"delta": "4.24"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-3326",
+				"feature_value": "2",
+				"cluster_win_mean": "6.24",
+				"delta": "4.24"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-1659",
+				"feature_value": "2",
+				"cluster_win_mean": "6.24",
+				"delta": "4.24"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-1657",
+				"feature_value": "2",
+				"cluster_win_mean": "6.24",
+				"delta": "4.24"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-1594",
+				"feature_value": "2",
+				"cluster_win_mean": "6.24",
+				"delta": "4.24"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-1556",
+				"feature_value": "2",
+				"cluster_win_mean": "6.24",
+				"delta": "4.24"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-167",
+				"feature_value": "2",
+				"cluster_win_mean": "6.24",
+				"delta": "4.24"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-3322",
+				"feature_value": "2",
+				"cluster_win_mean": "6.24",
+				"delta": "4.24"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-3257",
+				"feature_value": "2",
+				"cluster_win_mean": "6.24",
+				"delta": "4.24"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-1651",
+				"feature_value": "2",
+				"cluster_win_mean": "6.24",
+				"delta": "4.24"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-1649",
+				"feature_value": "2",
+				"cluster_win_mean": "6.24",
+				"delta": "4.24"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-1645",
+				"feature_value": "2",
+				"cluster_win_mean": "6.24",
+				"delta": "4.24"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-1563",
+				"feature_value": "2",
+				"cluster_win_mean": "6.24",
+				"delta": "4.24"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-4039",
+				"feature_value": "2",
+				"cluster_win_mean": "6.24",
+				"delta": "4.24"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-3335",
+				"feature_value": "2",
+				"cluster_win_mean": "6.24",
+				"delta": "4.24"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-2365",
+				"feature_value": "2",
+				"cluster_win_mean": "6.24",
+				"delta": "4.24"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-1512",
+				"feature_value": "2",
+				"cluster_win_mean": "6.24",
+				"delta": "4.24"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-1639",
+				"feature_value": "2",
+				"cluster_win_mean": "6.24",
+				"delta": "4.24"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-1618",
+				"feature_value": "2",
+				"cluster_win_mean": "6.24",
+				"delta": "4.24"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-1506",
+				"feature_value": "2",
+				"cluster_win_mean": "6.24",
+				"delta": "4.24"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-3253",
+				"feature_value": "2",
+				"cluster_win_mean": "6.24",
+				"delta": "4.24"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-3245",
+				"feature_value": "2",
+				"cluster_win_mean": "6.24",
+				"delta": "4.24"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-3239",
+				"feature_value": "2",
+				"cluster_win_mean": "6.24",
+				"delta": "4.24"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-142",
+				"feature_value": "2",
+				"cluster_win_mean": "6.24",
+				"delta": "4.24"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-85",
+				"feature_value": "2",
+				"cluster_win_mean": "6.24",
+				"delta": "4.24"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-1491",
+				"feature_value": "2",
+				"cluster_win_mean": "6.24",
+				"delta": "4.24"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-1004",
+				"feature_value": "2",
+				"cluster_win_mean": "6.24",
+				"delta": "4.24"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-2431",
+				"feature_value": "2",
+				"cluster_win_mean": "6.24",
+				"delta": "4.24"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-1420",
+				"feature_value": "2",
+				"cluster_win_mean": "6.24",
+				"delta": "4.24"
+			}
+		],
+		"number_of_images_missing_alt": [
+			{
+				"html_id": "http://www.traccfilms.co.uk/category/blog",
+				"feature_value": " 5",
+				"cluster_win_mean": "16.99",
+				"delta": "11.99"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/about-us",
+				"feature_value": "11",
+				"cluster_win_mean": "16.99",
+				"delta": " 5.99"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/video-distribution-promotion",
+				"feature_value": "15",
+				"cluster_win_mean": "16.99",
+				"delta": " 1.99"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/contact-us",
+				"feature_value": "11",
+				"cluster_win_mean": "16.99",
+				"delta": " 5.99"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/04/diana-tamboly-brand-marketing-manager-emea-sabre-travel-network",
+				"feature_value": " 5",
+				"cluster_win_mean": "16.99",
+				"delta": "11.99"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/09",
+				"feature_value": " 5",
+				"cluster_win_mean": "16.99",
+				"delta": "11.99"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/09/the-secret-ingredients",
+				"feature_value": " 5",
+				"cluster_win_mean": "16.99",
+				"delta": "11.99"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/09/the-secret-ingredients/#respond",
+				"feature_value": " 5",
+				"cluster_win_mean": "16.99",
+				"delta": "11.99"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/08",
+				"feature_value": " 5",
+				"cluster_win_mean": "16.99",
+				"delta": "11.99"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/08/why-video",
+				"feature_value": " 5",
+				"cluster_win_mean": "16.99",
+				"delta": "11.99"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/08/why-video/#respond",
+				"feature_value": " 5",
+				"cluster_win_mean": "16.99",
+				"delta": "11.99"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/06",
+				"feature_value": " 5",
+				"cluster_win_mean": "16.99",
+				"delta": "11.99"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/06/film-post-production-in-60-seconds",
+				"feature_value": " 5",
+				"cluster_win_mean": "16.99",
+				"delta": "11.99"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/tag/film",
+				"feature_value": " 5",
+				"cluster_win_mean": "16.99",
+				"delta": "11.99"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/06/film-post-production-in-60-seconds/#respond",
+				"feature_value": " 5",
+				"cluster_win_mean": "16.99",
+				"delta": "11.99"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/tag/post-production",
+				"feature_value": " 5",
+				"cluster_win_mean": "16.99",
+				"delta": "11.99"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/tag/video-production",
+				"feature_value": " 5",
+				"cluster_win_mean": "16.99",
+				"delta": "11.99"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/05/film-production-in-60-seconds",
+				"feature_value": " 5",
+				"cluster_win_mean": "16.99",
+				"delta": "11.99"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/tag/production",
+				"feature_value": " 5",
+				"cluster_win_mean": "16.99",
+				"delta": "11.99"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/05/film-production-in-60-seconds/#comments",
+				"feature_value": " 5",
+				"cluster_win_mean": "16.99",
+				"delta": "11.99"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/05/film-production-in-60-seconds/#respond",
+				"feature_value": " 5",
+				"cluster_win_mean": "16.99",
+				"delta": "11.99"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/05",
+				"feature_value": " 5",
+				"cluster_win_mean": "16.99",
+				"delta": "11.99"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/05/famous-footwear-behind-the-scenes",
+				"feature_value": " 5",
+				"cluster_win_mean": "16.99",
+				"delta": "11.99"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/05/famous-footwear-behind-the-scenes/#respond",
+				"feature_value": " 5",
+				"cluster_win_mean": "16.99",
+				"delta": "11.99"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/04",
+				"feature_value": " 5",
+				"cluster_win_mean": "16.99",
+				"delta": "11.99"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/04/indexing-your-digital-content-satisfy-both-google-and-users",
+				"feature_value": " 5",
+				"cluster_win_mean": "16.99",
+				"delta": "11.99"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/04/indexing-your-digital-content-satisfy-both-google-and-users/#respond",
+				"feature_value": " 5",
+				"cluster_win_mean": "16.99",
+				"delta": "11.99"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12",
+				"feature_value": " 5",
+				"cluster_win_mean": "16.99",
+				"delta": "11.99"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/nicki-craddock-head-of-public-relations-ikea",
+				"feature_value": " 5",
+				"cluster_win_mean": "16.99",
+				"delta": "11.99"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/09",
+				"feature_value": " 5",
+				"cluster_win_mean": "16.99",
+				"delta": "11.99"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/09/katie-weeks-communications-manager-ace-european-group",
+				"feature_value": " 5",
+				"cluster_win_mean": "16.99",
+				"delta": "11.99"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/category/testimonials",
+				"feature_value": " 5",
+				"cluster_win_mean": "16.99",
+				"delta": "11.99"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/04/peter-van-der-merwe-operations-director-at-csfd",
+				"feature_value": " 5",
+				"cluster_win_mean": "16.99",
+				"delta": "11.99"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/05/film-production-in-60-seconds/#comment-10",
+				"feature_value": " 5",
+				"cluster_win_mean": "16.99",
+				"delta": "11.99"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/04/donal-keane-brand-marketing-manager-at-loomis",
+				"feature_value": " 5",
+				"cluster_win_mean": "16.99",
+				"delta": "11.99"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/04/bruce-furlonger-head-of-business-development-seven-scent",
+				"feature_value": " 5",
+				"cluster_win_mean": "16.99",
+				"delta": "11.99"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/04/debbie-rosher-marketing-manager-at-the-london-linen-group",
+				"feature_value": " 5",
+				"cluster_win_mean": "16.99",
+				"delta": "11.99"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/04/vince-summer-managing-director-datasound",
+				"feature_value": " 5",
+				"cluster_win_mean": "16.99",
+				"delta": "11.99"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/04/marcus-and-garrick-jones-founder-ea-carey",
+				"feature_value": " 5",
+				"cluster_win_mean": "16.99",
+				"delta": "11.99"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/victoria-pilkington-managing-director-brora",
+				"feature_value": " 5",
+				"cluster_win_mean": "16.99",
+				"delta": "11.99"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/gill-bowler-internal-communications-manager-waitrose-2",
+				"feature_value": " 5",
+				"cluster_win_mean": "16.99",
+				"delta": "11.99"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/2351",
+				"feature_value": " 5",
+				"cluster_win_mean": "16.99",
+				"delta": "11.99"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/professor-bill-mckelvey-principal-chief-executive-scottish-agricultural-college",
+				"feature_value": " 5",
+				"cluster_win_mean": "16.99",
+				"delta": "11.99"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/martin-fleet-general-manager-sheila-fleet-jewellery",
+				"feature_value": " 5",
+				"cluster_win_mean": "16.99",
+				"delta": "11.99"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/georgina-smith-sales-marketing-director-stonehaven",
+				"feature_value": " 5",
+				"cluster_win_mean": "16.99",
+				"delta": "11.99"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/john-moret-director-of-sales-marketing-suffolk-life",
+				"feature_value": " 5",
+				"cluster_win_mean": "16.99",
+				"delta": "11.99"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/andrew-leggett-marketing-technical-manager-suffolk-life",
+				"feature_value": " 5",
+				"cluster_win_mean": "16.99",
+				"delta": "11.99"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/brigitte-schuessler-head-of-supply-real-estate-management-telekom-austria",
+				"feature_value": " 5",
+				"cluster_win_mean": "16.99",
+				"delta": "11.99"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/peter-butcher-chairman-managing-director-tmd-technologies",
+				"feature_value": " 5",
+				"cluster_win_mean": "16.99",
+				"delta": "11.99"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/gill-bowler-internal-communications-manager-waitrose",
+				"feature_value": " 5",
+				"cluster_win_mean": "16.99",
+				"delta": "11.99"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/james-mcdougall-promotion-events-manager-forestry-commission-scotland",
+				"feature_value": " 5",
+				"cluster_win_mean": "16.99",
+				"delta": "11.99"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/simon-j-pearce-chief-operating-officer-brightside-group-plc",
+				"feature_value": " 5",
+				"cluster_win_mean": "16.99",
+				"delta": "11.99"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/heather-mcrae-marketing-manager-gms-music",
+				"feature_value": " 5",
+				"cluster_win_mean": "16.99",
+				"delta": "11.99"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/john-carroll-head-of-marketing-catlin-group",
+				"feature_value": " 5",
+				"cluster_win_mean": "16.99",
+				"delta": "11.99"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/sofie-boddy-pr-manager-footdown",
+				"feature_value": " 5",
+				"cluster_win_mean": "16.99",
+				"delta": "11.99"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/peter-ellis-ceo-foreign-currency-direct",
+				"feature_value": " 5",
+				"cluster_win_mean": "16.99",
+				"delta": "11.99"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/simon-davies-head-of-marketing-fine-rare-wines",
+				"feature_value": " 5",
+				"cluster_win_mean": "16.99",
+				"delta": "11.99"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/stuart-green-managing-director-uk-steel-enterprise",
+				"feature_value": " 5",
+				"cluster_win_mean": "16.99",
+				"delta": "11.99"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/09/caterina-rigoni",
+				"feature_value": " 5",
+				"cluster_win_mean": "16.99",
+				"delta": "11.99"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/the-c-word-it%e2%80%99s-compelling",
+				"feature_value": " 5",
+				"cluster_win_mean": "16.99",
+				"delta": "11.99"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/the-c-word-it%e2%80%99s-compelling/#respond",
+				"feature_value": " 5",
+				"cluster_win_mean": "16.99",
+				"delta": "11.99"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/space-junk-a-brand-dilemma",
+				"feature_value": " 5",
+				"cluster_win_mean": "16.99",
+				"delta": "11.99"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/space-junk-a-brand-dilemma/#respond",
+				"feature_value": " 5",
+				"cluster_win_mean": "16.99",
+				"delta": "11.99"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/05/film-pre-production",
+				"feature_value": " 5",
+				"cluster_win_mean": "16.99",
+				"delta": "11.99"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/tag/pre-production",
+				"feature_value": " 5",
+				"cluster_win_mean": "16.99",
+				"delta": "11.99"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/05/film-pre-production/#respond",
+				"feature_value": " 5",
+				"cluster_win_mean": "16.99",
+				"delta": "11.99"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/08/what-returns-can-video-offer-a-business",
+				"feature_value": " 5",
+				"cluster_win_mean": "16.99",
+				"delta": "11.99"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/08/what-returns-can-video-offer-a-business/#respond",
+				"feature_value": " 5",
+				"cluster_win_mean": "16.99",
+				"delta": "11.99"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/case-study1-clients",
+				"feature_value": "12",
+				"cluster_win_mean": "16.99",
+				"delta": " 4.99"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/case-study2-clients",
+				"feature_value": "12",
+				"cluster_win_mean": "16.99",
+				"delta": " 4.99"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/case-study3-clients",
+				"feature_value": "12",
+				"cluster_win_mean": "16.99",
+				"delta": " 4.99"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/case-study4-clients",
+				"feature_value": "12",
+				"cluster_win_mean": "16.99",
+				"delta": " 4.99"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/case-study5-clients",
+				"feature_value": "12",
+				"cluster_win_mean": "16.99",
+				"delta": " 4.99"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/case-study6-clients",
+				"feature_value": "12",
+				"cluster_win_mean": "16.99",
+				"delta": " 4.99"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/case-study7-clients",
+				"feature_value": "12",
+				"cluster_win_mean": "16.99",
+				"delta": " 4.99"
+			}
+		],
+		"anchor_number_of_dictionary_words": [
+			{
+				"html_id": "http://www.traccfilms.co.uk",
+				"feature_value": "0",
+				"cluster_win_mean": "   1",
+				"delta": "   1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/about-us",
+				"feature_value": "0",
+				"cluster_win_mean": "   1",
+				"delta": "   1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/video-production-services",
+				"feature_value": "0",
+				"cluster_win_mean": "   1",
+				"delta": "   1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/video-distribution-promotion",
+				"feature_value": "0",
+				"cluster_win_mean": "   1",
+				"delta": "   1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/media-partners",
+				"feature_value": "0",
+				"cluster_win_mean": "   1",
+				"delta": "   1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/clients",
+				"feature_value": "0",
+				"cluster_win_mean": "   1",
+				"delta": "   1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/contact-us",
+				"feature_value": "0",
+				"cluster_win_mean": "   1",
+				"delta": "   1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/04/diana-tamboly-brand-marketing-manager-emea-sabre-travel-network",
+				"feature_value": "0",
+				"cluster_win_mean": "   1",
+				"delta": "   1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/09",
+				"feature_value": "0",
+				"cluster_win_mean": "   1",
+				"delta": "   1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/09/the-secret-ingredients",
+				"feature_value": "0",
+				"cluster_win_mean": "   1",
+				"delta": "   1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/09/the-secret-ingredients/#respond",
+				"feature_value": "0",
+				"cluster_win_mean": "   1",
+				"delta": "   1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/08",
+				"feature_value": "0",
+				"cluster_win_mean": "   1",
+				"delta": "   1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/08/why-video",
+				"feature_value": "0",
+				"cluster_win_mean": "   1",
+				"delta": "   1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/08/why-video/#respond",
+				"feature_value": "0",
+				"cluster_win_mean": "   1",
+				"delta": "   1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/06",
+				"feature_value": "0",
+				"cluster_win_mean": "   1",
+				"delta": "   1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/06/film-post-production-in-60-seconds",
+				"feature_value": "0",
+				"cluster_win_mean": "   1",
+				"delta": "   1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/tag/film",
+				"feature_value": "0",
+				"cluster_win_mean": "   1",
+				"delta": "   1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/06/film-post-production-in-60-seconds/#respond",
+				"feature_value": "0",
+				"cluster_win_mean": "   1",
+				"delta": "   1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/tag/post-production",
+				"feature_value": "0",
+				"cluster_win_mean": "   1",
+				"delta": "   1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/tag/video-production",
+				"feature_value": "0",
+				"cluster_win_mean": "   1",
+				"delta": "   1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/05/film-production-in-60-seconds",
+				"feature_value": "0",
+				"cluster_win_mean": "   1",
+				"delta": "   1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/tag/production",
+				"feature_value": "0",
+				"cluster_win_mean": "   1",
+				"delta": "   1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/05/film-production-in-60-seconds/#comments",
+				"feature_value": "0",
+				"cluster_win_mean": "   1",
+				"delta": "   1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/05/film-production-in-60-seconds/#respond",
+				"feature_value": "0",
+				"cluster_win_mean": "   1",
+				"delta": "   1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/05",
+				"feature_value": "0",
+				"cluster_win_mean": "   1",
+				"delta": "   1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/05/famous-footwear-behind-the-scenes",
+				"feature_value": "0",
+				"cluster_win_mean": "   1",
+				"delta": "   1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/05/famous-footwear-behind-the-scenes/#respond",
+				"feature_value": "0",
+				"cluster_win_mean": "   1",
+				"delta": "   1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/04/indexing-your-digital-content-satisfy-both-google-and-users",
+				"feature_value": "0",
+				"cluster_win_mean": "   1",
+				"delta": "   1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/04/indexing-your-digital-content-satisfy-both-google-and-users/#respond",
+				"feature_value": "0",
+				"cluster_win_mean": "   1",
+				"delta": "   1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12",
+				"feature_value": "0",
+				"cluster_win_mean": "   1",
+				"delta": "   1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/nicki-craddock-head-of-public-relations-ikea",
+				"feature_value": "0",
+				"cluster_win_mean": "   1",
+				"delta": "   1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/09",
+				"feature_value": "0",
+				"cluster_win_mean": "   1",
+				"delta": "   1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/09/katie-weeks-communications-manager-ace-european-group",
+				"feature_value": "0",
+				"cluster_win_mean": "   1",
+				"delta": "   1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/category/testimonials",
+				"feature_value": "0",
+				"cluster_win_mean": "   1",
+				"delta": "   1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/04/peter-van-der-merwe-operations-director-at-csfd",
+				"feature_value": "0",
+				"cluster_win_mean": "   1",
+				"delta": "   1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/05/film-production-in-60-seconds/#comment-10",
+				"feature_value": "0",
+				"cluster_win_mean": "   1",
+				"delta": "   1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/04/donal-keane-brand-marketing-manager-at-loomis",
+				"feature_value": "0",
+				"cluster_win_mean": "   1",
+				"delta": "   1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/04/bruce-furlonger-head-of-business-development-seven-scent",
+				"feature_value": "0",
+				"cluster_win_mean": "   1",
+				"delta": "   1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/04/debbie-rosher-marketing-manager-at-the-london-linen-group",
+				"feature_value": "0",
+				"cluster_win_mean": "   1",
+				"delta": "   1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/04/vince-summer-managing-director-datasound",
+				"feature_value": "0",
+				"cluster_win_mean": "   1",
+				"delta": "   1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/04/marcus-and-garrick-jones-founder-ea-carey",
+				"feature_value": "0",
+				"cluster_win_mean": "   1",
+				"delta": "   1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/victoria-pilkington-managing-director-brora",
+				"feature_value": "0",
+				"cluster_win_mean": "   1",
+				"delta": "   1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/gill-bowler-internal-communications-manager-waitrose-2",
+				"feature_value": "0",
+				"cluster_win_mean": "   1",
+				"delta": "   1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/2351",
+				"feature_value": "0",
+				"cluster_win_mean": "   1",
+				"delta": "   1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/professor-bill-mckelvey-principal-chief-executive-scottish-agricultural-college",
+				"feature_value": "0",
+				"cluster_win_mean": "   1",
+				"delta": "   1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/martin-fleet-general-manager-sheila-fleet-jewellery",
+				"feature_value": "0",
+				"cluster_win_mean": "   1",
+				"delta": "   1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/georgina-smith-sales-marketing-director-stonehaven",
+				"feature_value": "0",
+				"cluster_win_mean": "   1",
+				"delta": "   1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/john-moret-director-of-sales-marketing-suffolk-life",
+				"feature_value": "0",
+				"cluster_win_mean": "   1",
+				"delta": "   1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/andrew-leggett-marketing-technical-manager-suffolk-life",
+				"feature_value": "0",
+				"cluster_win_mean": "   1",
+				"delta": "   1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/brigitte-schuessler-head-of-supply-real-estate-management-telekom-austria",
+				"feature_value": "0",
+				"cluster_win_mean": "   1",
+				"delta": "   1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/peter-butcher-chairman-managing-director-tmd-technologies",
+				"feature_value": "0",
+				"cluster_win_mean": "   1",
+				"delta": "   1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/gill-bowler-internal-communications-manager-waitrose",
+				"feature_value": "0",
+				"cluster_win_mean": "   1",
+				"delta": "   1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/james-mcdougall-promotion-events-manager-forestry-commission-scotland",
+				"feature_value": "0",
+				"cluster_win_mean": "   1",
+				"delta": "   1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/simon-j-pearce-chief-operating-officer-brightside-group-plc",
+				"feature_value": "0",
+				"cluster_win_mean": "   1",
+				"delta": "   1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/heather-mcrae-marketing-manager-gms-music",
+				"feature_value": "0",
+				"cluster_win_mean": "   1",
+				"delta": "   1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/john-carroll-head-of-marketing-catlin-group",
+				"feature_value": "0",
+				"cluster_win_mean": "   1",
+				"delta": "   1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/sofie-boddy-pr-manager-footdown",
+				"feature_value": "0",
+				"cluster_win_mean": "   1",
+				"delta": "   1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/peter-ellis-ceo-foreign-currency-direct",
+				"feature_value": "0",
+				"cluster_win_mean": "   1",
+				"delta": "   1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/simon-davies-head-of-marketing-fine-rare-wines",
+				"feature_value": "0",
+				"cluster_win_mean": "   1",
+				"delta": "   1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/stuart-green-managing-director-uk-steel-enterprise",
+				"feature_value": "0",
+				"cluster_win_mean": "   1",
+				"delta": "   1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/09/caterina-rigoni",
+				"feature_value": "0",
+				"cluster_win_mean": "   1",
+				"delta": "   1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/the-c-word-it%e2%80%99s-compelling",
+				"feature_value": "0",
+				"cluster_win_mean": "   1",
+				"delta": "   1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/the-c-word-it%e2%80%99s-compelling/#respond",
+				"feature_value": "0",
+				"cluster_win_mean": "   1",
+				"delta": "   1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/space-junk-a-brand-dilemma",
+				"feature_value": "0",
+				"cluster_win_mean": "   1",
+				"delta": "   1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/space-junk-a-brand-dilemma/#respond",
+				"feature_value": "0",
+				"cluster_win_mean": "   1",
+				"delta": "   1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/05/film-pre-production",
+				"feature_value": "0",
+				"cluster_win_mean": "   1",
+				"delta": "   1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/tag/pre-production",
+				"feature_value": "0",
+				"cluster_win_mean": "   1",
+				"delta": "   1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/05/film-pre-production/#respond",
+				"feature_value": "0",
+				"cluster_win_mean": "   1",
+				"delta": "   1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/08/what-returns-can-video-offer-a-business",
+				"feature_value": "0",
+				"cluster_win_mean": "   1",
+				"delta": "   1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/08/what-returns-can-video-offer-a-business/#respond",
+				"feature_value": "0",
+				"cluster_win_mean": "   1",
+				"delta": "   1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/case-study1-clients",
+				"feature_value": "0",
+				"cluster_win_mean": "   1",
+				"delta": "   1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/case-study2-clients",
+				"feature_value": "0",
+				"cluster_win_mean": "   1",
+				"delta": "   1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/case-study3-clients",
+				"feature_value": "0",
+				"cluster_win_mean": "   1",
+				"delta": "   1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/case-study4-clients",
+				"feature_value": "0",
+				"cluster_win_mean": "   1",
+				"delta": "   1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/case-study5-clients",
+				"feature_value": "0",
+				"cluster_win_mean": "   1",
+				"delta": "   1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/case-study6-clients",
+				"feature_value": "0",
+				"cluster_win_mean": "   1",
+				"delta": "   1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/case-study7-clients",
+				"feature_value": "0",
+				"cluster_win_mean": "   1",
+				"delta": "   1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-3725",
+				"feature_value": "0",
+				"cluster_win_mean": "   1",
+				"delta": "   1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-961",
+				"feature_value": "0",
+				"cluster_win_mean": "   1",
+				"delta": "   1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-4261",
+				"feature_value": "0",
+				"cluster_win_mean": "   1",
+				"delta": "   1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-3735",
+				"feature_value": "0",
+				"cluster_win_mean": "   1",
+				"delta": "   1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-3444",
+				"feature_value": "0",
+				"cluster_win_mean": "   1",
+				"delta": "   1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-1679",
+				"feature_value": "0",
+				"cluster_win_mean": "   1",
+				"delta": "   1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-1458",
+				"feature_value": "0",
+				"cluster_win_mean": "   1",
+				"delta": "   1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-1464",
+				"feature_value": "0",
+				"cluster_win_mean": "   1",
+				"delta": "   1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/media-partners?phpMyAdmin=3723c4ec13623tf1db022r401c8",
+				"feature_value": "0",
+				"cluster_win_mean": "   1",
+				"delta": "   1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/media-partners/wsj-wall-street-journal",
+				"feature_value": "0",
+				"cluster_win_mean": "1.54",
+				"delta": "1.54"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/media-partners/telegraph",
+				"feature_value": "0",
+				"cluster_win_mean": "1.54",
+				"delta": "1.54"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/media-partners/the-scotsman",
+				"feature_value": "0",
+				"cluster_win_mean": "1.54",
+				"delta": "1.54"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/media-partners/eba-european-business-awards",
+				"feature_value": "0",
+				"cluster_win_mean": "   1",
+				"delta": "   1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-3326",
+				"feature_value": "0",
+				"cluster_win_mean": "   1",
+				"delta": "   1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-1659",
+				"feature_value": "0",
+				"cluster_win_mean": "   1",
+				"delta": "   1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-1657",
+				"feature_value": "0",
+				"cluster_win_mean": "   1",
+				"delta": "   1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-1594",
+				"feature_value": "0",
+				"cluster_win_mean": "   1",
+				"delta": "   1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-1556",
+				"feature_value": "0",
+				"cluster_win_mean": "   1",
+				"delta": "   1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-167",
+				"feature_value": "0",
+				"cluster_win_mean": "   1",
+				"delta": "   1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-3322",
+				"feature_value": "0",
+				"cluster_win_mean": "   1",
+				"delta": "   1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-3257",
+				"feature_value": "0",
+				"cluster_win_mean": "   1",
+				"delta": "   1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-1651",
+				"feature_value": "0",
+				"cluster_win_mean": "   1",
+				"delta": "   1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-1649",
+				"feature_value": "0",
+				"cluster_win_mean": "   1",
+				"delta": "   1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-1645",
+				"feature_value": "0",
+				"cluster_win_mean": "   1",
+				"delta": "   1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-1563",
+				"feature_value": "0",
+				"cluster_win_mean": "   1",
+				"delta": "   1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-4039",
+				"feature_value": "0",
+				"cluster_win_mean": "   1",
+				"delta": "   1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-3335",
+				"feature_value": "0",
+				"cluster_win_mean": "   1",
+				"delta": "   1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-2365",
+				"feature_value": "0",
+				"cluster_win_mean": "   1",
+				"delta": "   1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-1512",
+				"feature_value": "0",
+				"cluster_win_mean": "   1",
+				"delta": "   1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-1639",
+				"feature_value": "0",
+				"cluster_win_mean": "   1",
+				"delta": "   1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-1618",
+				"feature_value": "0",
+				"cluster_win_mean": "   1",
+				"delta": "   1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-1506",
+				"feature_value": "0",
+				"cluster_win_mean": "   1",
+				"delta": "   1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-3253",
+				"feature_value": "0",
+				"cluster_win_mean": "   1",
+				"delta": "   1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-3245",
+				"feature_value": "0",
+				"cluster_win_mean": "   1",
+				"delta": "   1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-3239",
+				"feature_value": "0",
+				"cluster_win_mean": "   1",
+				"delta": "   1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-142",
+				"feature_value": "0",
+				"cluster_win_mean": "   1",
+				"delta": "   1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-85",
+				"feature_value": "0",
+				"cluster_win_mean": "   1",
+				"delta": "   1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-1491",
+				"feature_value": "0",
+				"cluster_win_mean": "   1",
+				"delta": "   1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-1004",
+				"feature_value": "0",
+				"cluster_win_mean": "   1",
+				"delta": "   1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-2431",
+				"feature_value": "0",
+				"cluster_win_mean": "   1",
+				"delta": "   1"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-1420",
+				"feature_value": "0",
+				"cluster_win_mean": "   1",
+				"delta": "   1"
+			}
+		],
+		"maximum_length_of_h1": [
+			{
+				"html_id": "http://www.traccfilms.co.uk",
+				"feature_value": "52",
+				"cluster_win_mean": "83.66",
+				"delta": "31.66"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/category/blog",
+				"feature_value": " 4",
+				"cluster_win_mean": "83.66",
+				"delta": "79.66"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/video-production-services",
+				"feature_value": "52",
+				"cluster_win_mean": "83.66",
+				"delta": "31.66"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/video-distribution-promotion",
+				"feature_value": "54",
+				"cluster_win_mean": "83.66",
+				"delta": "29.66"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/media-partners",
+				"feature_value": "26",
+				"cluster_win_mean": "83.66",
+				"delta": "57.66"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/clients",
+				"feature_value": " 7",
+				"cluster_win_mean": "83.66",
+				"delta": "76.66"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/contact-us",
+				"feature_value": "15",
+				"cluster_win_mean": "83.66",
+				"delta": "68.66"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/04/diana-tamboly-brand-marketing-manager-emea-sabre-travel-network",
+				"feature_value": "66",
+				"cluster_win_mean": "83.66",
+				"delta": "17.66"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/09",
+				"feature_value": "27",
+				"cluster_win_mean": "83.66",
+				"delta": "56.66"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/09/the-secret-ingredients",
+				"feature_value": "22",
+				"cluster_win_mean": "83.66",
+				"delta": "61.66"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/09/the-secret-ingredients/#respond",
+				"feature_value": "22",
+				"cluster_win_mean": "83.66",
+				"delta": "61.66"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/08",
+				"feature_value": "24",
+				"cluster_win_mean": "83.66",
+				"delta": "59.66"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/08/why-video",
+				"feature_value": "19",
+				"cluster_win_mean": "83.66",
+				"delta": "64.66"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/08/why-video/#respond",
+				"feature_value": "19",
+				"cluster_win_mean": "83.66",
+				"delta": "64.66"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/06",
+				"feature_value": "22",
+				"cluster_win_mean": "83.66",
+				"delta": "61.66"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/06/film-post-production-in-60-seconds",
+				"feature_value": "34",
+				"cluster_win_mean": "83.66",
+				"delta": "49.66"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/tag/film",
+				"feature_value": "14",
+				"cluster_win_mean": "83.66",
+				"delta": "69.66"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/06/film-post-production-in-60-seconds/#respond",
+				"feature_value": "34",
+				"cluster_win_mean": "83.66",
+				"delta": "49.66"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/tag/post-production",
+				"feature_value": "14",
+				"cluster_win_mean": "83.66",
+				"delta": "69.66"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/tag/video-production",
+				"feature_value": "31",
+				"cluster_win_mean": "83.66",
+				"delta": "52.66"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/05/film-production-in-60-seconds",
+				"feature_value": "29",
+				"cluster_win_mean": "83.66",
+				"delta": "54.66"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/tag/production",
+				"feature_value": "14",
+				"cluster_win_mean": "83.66",
+				"delta": "69.66"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/05/film-production-in-60-seconds/#comments",
+				"feature_value": "29",
+				"cluster_win_mean": "83.66",
+				"delta": "54.66"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/05/film-production-in-60-seconds/#respond",
+				"feature_value": "29",
+				"cluster_win_mean": "83.66",
+				"delta": "54.66"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/05",
+				"feature_value": "21",
+				"cluster_win_mean": "83.66",
+				"delta": "62.66"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/05/famous-footwear-behind-the-scenes",
+				"feature_value": "34",
+				"cluster_win_mean": "83.66",
+				"delta": "49.66"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/05/famous-footwear-behind-the-scenes/#respond",
+				"feature_value": "34",
+				"cluster_win_mean": "83.66",
+				"delta": "49.66"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/04",
+				"feature_value": "23",
+				"cluster_win_mean": "83.66",
+				"delta": "60.66"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/04/indexing-your-digital-content-satisfy-both-google-and-users",
+				"feature_value": "60",
+				"cluster_win_mean": "83.66",
+				"delta": "23.66"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/04/indexing-your-digital-content-satisfy-both-google-and-users/#respond",
+				"feature_value": "60",
+				"cluster_win_mean": "83.66",
+				"delta": "23.66"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12",
+				"feature_value": "26",
+				"cluster_win_mean": "83.66",
+				"delta": "57.66"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/nicki-craddock-head-of-public-relations-ikea",
+				"feature_value": "46",
+				"cluster_win_mean": "83.66",
+				"delta": "37.66"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/09",
+				"feature_value": "27",
+				"cluster_win_mean": "83.66",
+				"delta": "56.66"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/09/katie-weeks-communications-manager-ace-european-group",
+				"feature_value": "55",
+				"cluster_win_mean": "83.66",
+				"delta": "28.66"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/category/testimonials",
+				"feature_value": "12",
+				"cluster_win_mean": "83.66",
+				"delta": "71.66"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/04/peter-van-der-merwe-operations-director-at-csfd",
+				"feature_value": "48",
+				"cluster_win_mean": "83.66",
+				"delta": "35.66"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/05/film-production-in-60-seconds/#comment-10",
+				"feature_value": "29",
+				"cluster_win_mean": "83.66",
+				"delta": "54.66"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/04/donal-keane-brand-marketing-manager-at-loomis",
+				"feature_value": "46",
+				"cluster_win_mean": "83.66",
+				"delta": "37.66"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/04/bruce-furlonger-head-of-business-development-seven-scent",
+				"feature_value": "58",
+				"cluster_win_mean": "83.66",
+				"delta": "25.66"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/04/debbie-rosher-marketing-manager-at-the-london-linen-group",
+				"feature_value": "58",
+				"cluster_win_mean": "83.66",
+				"delta": "25.66"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/04/vince-summer-managing-director-datasound",
+				"feature_value": "41",
+				"cluster_win_mean": "83.66",
+				"delta": "42.66"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/04/marcus-and-garrick-jones-founder-ea-carey",
+				"feature_value": "42",
+				"cluster_win_mean": "83.66",
+				"delta": "41.66"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/victoria-pilkington-managing-director-brora",
+				"feature_value": "45",
+				"cluster_win_mean": "83.66",
+				"delta": "38.66"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/gill-bowler-internal-communications-manager-waitrose-2",
+				"feature_value": "54",
+				"cluster_win_mean": "83.66",
+				"delta": "29.66"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/2351",
+				"feature_value": "67",
+				"cluster_win_mean": "83.66",
+				"delta": "16.66"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/martin-fleet-general-manager-sheila-fleet-jewellery",
+				"feature_value": "53",
+				"cluster_win_mean": "83.66",
+				"delta": "30.66"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/georgina-smith-sales-marketing-director-stonehaven",
+				"feature_value": "54",
+				"cluster_win_mean": "83.66",
+				"delta": "29.66"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/john-moret-director-of-sales-marketing-suffolk-life",
+				"feature_value": "55",
+				"cluster_win_mean": "83.66",
+				"delta": "28.66"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/andrew-leggett-marketing-technical-manager-suffolk-life",
+				"feature_value": "59",
+				"cluster_win_mean": "83.66",
+				"delta": "24.66"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/peter-butcher-chairman-managing-director-tmd-technologies",
+				"feature_value": "61",
+				"cluster_win_mean": "83.66",
+				"delta": "22.66"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/gill-bowler-internal-communications-manager-waitrose",
+				"feature_value": "54",
+				"cluster_win_mean": "83.66",
+				"delta": "29.66"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/james-mcdougall-promotion-events-manager-forestry-commission-scotland",
+				"feature_value": "73",
+				"cluster_win_mean": "83.66",
+				"delta": "10.66"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/simon-j-pearce-chief-operating-officer-brightside-group-plc",
+				"feature_value": "61",
+				"cluster_win_mean": "83.66",
+				"delta": "22.66"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/heather-mcrae-marketing-manager-gms-music",
+				"feature_value": "43",
+				"cluster_win_mean": "83.66",
+				"delta": "40.66"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/john-carroll-head-of-marketing-catlin-group",
+				"feature_value": "45",
+				"cluster_win_mean": "83.66",
+				"delta": "38.66"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/sofie-boddy-pr-manager-footdown",
+				"feature_value": "33",
+				"cluster_win_mean": "83.66",
+				"delta": "50.66"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/peter-ellis-ceo-foreign-currency-direct",
+				"feature_value": "41",
+				"cluster_win_mean": "83.66",
+				"delta": "42.66"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/simon-davies-head-of-marketing-fine-rare-wines",
+				"feature_value": "50",
+				"cluster_win_mean": "83.66",
+				"delta": "33.66"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/stuart-green-managing-director-uk-steel-enterprise",
+				"feature_value": "52",
+				"cluster_win_mean": "83.66",
+				"delta": "31.66"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/09/caterina-rigoni",
+				"feature_value": "43",
+				"cluster_win_mean": "83.66",
+				"delta": "40.66"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/the-c-word-it%e2%80%99s-compelling",
+				"feature_value": "30",
+				"cluster_win_mean": "83.66",
+				"delta": "53.66"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/the-c-word-it%e2%80%99s-compelling/#respond",
+				"feature_value": "30",
+				"cluster_win_mean": "83.66",
+				"delta": "53.66"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/space-junk-a-brand-dilemma",
+				"feature_value": "27",
+				"cluster_win_mean": "83.66",
+				"delta": "56.66"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2011/12/space-junk-a-brand-dilemma/#respond",
+				"feature_value": "27",
+				"cluster_win_mean": "83.66",
+				"delta": "56.66"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/05/film-pre-production",
+				"feature_value": "33",
+				"cluster_win_mean": "83.66",
+				"delta": "50.66"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/tag/pre-production",
+				"feature_value": "14",
+				"cluster_win_mean": "83.66",
+				"delta": "69.66"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/05/film-pre-production/#respond",
+				"feature_value": "33",
+				"cluster_win_mean": "83.66",
+				"delta": "50.66"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/08/what-returns-can-video-offer-a-business",
+				"feature_value": "40",
+				"cluster_win_mean": "83.66",
+				"delta": "43.66"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/2012/08/what-returns-can-video-offer-a-business/#respond",
+				"feature_value": "40",
+				"cluster_win_mean": "83.66",
+				"delta": "43.66"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/case-study1-clients",
+				"feature_value": "12",
+				"cluster_win_mean": "83.66",
+				"delta": "71.66"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/case-study2-clients",
+				"feature_value": "12",
+				"cluster_win_mean": "83.66",
+				"delta": "71.66"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/case-study3-clients",
+				"feature_value": "12",
+				"cluster_win_mean": "83.66",
+				"delta": "71.66"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/case-study4-clients",
+				"feature_value": "12",
+				"cluster_win_mean": "83.66",
+				"delta": "71.66"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/case-study5-clients",
+				"feature_value": "12",
+				"cluster_win_mean": "83.66",
+				"delta": "71.66"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/case-study6-clients",
+				"feature_value": "12",
+				"cluster_win_mean": "83.66",
+				"delta": "71.66"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/case-study7-clients",
+				"feature_value": " 0",
+				"cluster_win_mean": "83.66",
+				"delta": "83.66"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-3725",
+				"feature_value": "52",
+				"cluster_win_mean": "83.66",
+				"delta": "31.66"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-961",
+				"feature_value": "52",
+				"cluster_win_mean": "83.66",
+				"delta": "31.66"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-4261",
+				"feature_value": "52",
+				"cluster_win_mean": "83.66",
+				"delta": "31.66"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-3735",
+				"feature_value": "52",
+				"cluster_win_mean": "83.66",
+				"delta": "31.66"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-3444",
+				"feature_value": "52",
+				"cluster_win_mean": "83.66",
+				"delta": "31.66"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-1679",
+				"feature_value": "52",
+				"cluster_win_mean": "83.66",
+				"delta": "31.66"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-1458",
+				"feature_value": "52",
+				"cluster_win_mean": "83.66",
+				"delta": "31.66"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-1464",
+				"feature_value": "52",
+				"cluster_win_mean": "83.66",
+				"delta": "31.66"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/media-partners?phpMyAdmin=3723c4ec13623tf1db022r401c8",
+				"feature_value": "26",
+				"cluster_win_mean": "83.66",
+				"delta": "57.66"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/media-partners/eba-european-business-awards",
+				"feature_value": "24",
+				"cluster_win_mean": "83.66",
+				"delta": "59.66"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-3326",
+				"feature_value": "52",
+				"cluster_win_mean": "83.66",
+				"delta": "31.66"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-1659",
+				"feature_value": "52",
+				"cluster_win_mean": "83.66",
+				"delta": "31.66"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-1657",
+				"feature_value": "52",
+				"cluster_win_mean": "83.66",
+				"delta": "31.66"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-1594",
+				"feature_value": "52",
+				"cluster_win_mean": "83.66",
+				"delta": "31.66"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-1556",
+				"feature_value": "52",
+				"cluster_win_mean": "83.66",
+				"delta": "31.66"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-167",
+				"feature_value": "52",
+				"cluster_win_mean": "83.66",
+				"delta": "31.66"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-3322",
+				"feature_value": "52",
+				"cluster_win_mean": "83.66",
+				"delta": "31.66"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-3257",
+				"feature_value": "52",
+				"cluster_win_mean": "83.66",
+				"delta": "31.66"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-1651",
+				"feature_value": "52",
+				"cluster_win_mean": "83.66",
+				"delta": "31.66"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-1649",
+				"feature_value": "52",
+				"cluster_win_mean": "83.66",
+				"delta": "31.66"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-1645",
+				"feature_value": "52",
+				"cluster_win_mean": "83.66",
+				"delta": "31.66"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-1563",
+				"feature_value": "52",
+				"cluster_win_mean": "83.66",
+				"delta": "31.66"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-4039",
+				"feature_value": "52",
+				"cluster_win_mean": "83.66",
+				"delta": "31.66"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-3335",
+				"feature_value": "52",
+				"cluster_win_mean": "83.66",
+				"delta": "31.66"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-2365",
+				"feature_value": "52",
+				"cluster_win_mean": "83.66",
+				"delta": "31.66"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-1512",
+				"feature_value": "52",
+				"cluster_win_mean": "83.66",
+				"delta": "31.66"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-1639",
+				"feature_value": "52",
+				"cluster_win_mean": "83.66",
+				"delta": "31.66"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-1618",
+				"feature_value": "52",
+				"cluster_win_mean": "83.66",
+				"delta": "31.66"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-1506",
+				"feature_value": "52",
+				"cluster_win_mean": "83.66",
+				"delta": "31.66"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-3253",
+				"feature_value": "52",
+				"cluster_win_mean": "83.66",
+				"delta": "31.66"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-3245",
+				"feature_value": "52",
+				"cluster_win_mean": "83.66",
+				"delta": "31.66"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-3239",
+				"feature_value": "52",
+				"cluster_win_mean": "83.66",
+				"delta": "31.66"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-142",
+				"feature_value": "52",
+				"cluster_win_mean": "83.66",
+				"delta": "31.66"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-85",
+				"feature_value": "52",
+				"cluster_win_mean": "83.66",
+				"delta": "31.66"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-1491",
+				"feature_value": "52",
+				"cluster_win_mean": "83.66",
+				"delta": "31.66"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-1004",
+				"feature_value": "52",
+				"cluster_win_mean": "83.66",
+				"delta": "31.66"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-2431",
+				"feature_value": "52",
+				"cluster_win_mean": "83.66",
+				"delta": "31.66"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk#post-1420",
+				"feature_value": "52",
+				"cluster_win_mean": "83.66",
+				"delta": "31.66"
+			}
+		],
+		"number_of_images": {
+			"html_id": "http://www.traccfilms.co.uk/clients",
+			"feature_value": "256",
+			"cluster_win_mean": "17.95",
+			"delta": "-238.05"
+		},
+		"maximum_length_of_h2": [
+			{
+				"html_id": "http://www.traccfilms.co.uk/media-partners/wsj-wall-street-journal",
+				"feature_value": "0",
+				"cluster_win_mean": "34.19",
+				"delta": "34.19"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/media-partners/telegraph",
+				"feature_value": "0",
+				"cluster_win_mean": "34.19",
+				"delta": "34.19"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/media-partners/the-scotsman",
+				"feature_value": "0",
+				"cluster_win_mean": "34.19",
+				"delta": "34.19"
+			}
+		],
+		"average_length_of_h2": [
+			{
+				"html_id": "http://www.traccfilms.co.uk/media-partners/wsj-wall-street-journal",
+				"feature_value": "0",
+				"cluster_win_mean": "26.48",
+				"delta": "26.48"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/media-partners/telegraph",
+				"feature_value": "0",
+				"cluster_win_mean": "26.48",
+				"delta": "26.48"
+			},
+			{
+				"html_id": "http://www.traccfilms.co.uk/media-partners/the-scotsman",
+				"feature_value": "0",
+				"cluster_win_mean": "26.48",
+				"delta": "26.48"
+			}
+		]
+	}
+}
