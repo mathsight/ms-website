@@ -34,7 +34,7 @@
 		font: 12px sans-serif;
 	}
 
-	#chart1 {
+	#chart {
 		margin: 10px;
 		min-width: 100px;
 		min-height: 100px;
@@ -45,7 +45,7 @@
 		*/
 	}
 
-	#chart1 svg {
+	#chart svg {
 		height: 500px;
 	}
 
@@ -171,7 +171,7 @@ function sinAndCos() {
 }
 
 
-var topLevelFile = "/json/toplevel/" + websiteName + "_ybar.json";
+// var topLevelFile = "/json/toplevel/" + websiteName + "_ybar.json";
 
 nv.addGraph(function() {  
 	var chart = nv.models.lineChart();
@@ -195,35 +195,35 @@ nv.addGraph(function() {
 
 
 
-d3.json(topLevelFile, function(data) {
-
-	var chart;
-	nv.addGraph(function() {
-		chart = nv.models.multiBarHorizontalChart()
-		.x(function(d) { return d.label })
-		.y(function(d) { return d.value })
-		.margin({top: 30, right: 100, bottom: 50, left: 100})
-		//.showValues(true)
-		//.tooltips(false)
-		//.barColor(d3.scale.category20().range())
-		.transitionDuration(250)
-		.stacked(false)
-		//.showControls(false);
-
-		chart.yAxis
-		.tickFormat(d3.format(',.2f'));
-
-		d3.select('#chart1 svg')
-		.datum(data)
-		.call(chart);
-
-		nv.utils.windowResize(chart.update);
-
-		chart.dispatch.on('stateChange', function(e) { nv.log('New State:', JSON.stringify(e)); });
-
-		return chart;
-	});
-});
+// d3.json(topLevelFile, function(data) {
+// 
+// 	var chart;
+// 	nv.addGraph(function() {
+// 		chart = nv.models.multiBarHorizontalChart()
+// 		.x(function(d) { return d.label })
+// 		.y(function(d) { return d.value })
+// 		.margin({top: 30, right: 100, bottom: 50, left: 100})
+// 		//.showValues(true)
+// 		//.tooltips(false)
+// 		//.barColor(d3.scale.category20().range())
+// 		.transitionDuration(250)
+// 		.stacked(false)
+// 		//.showControls(false);
+// 
+// 		chart.yAxis
+// 		.tickFormat(d3.format(',.2f'));
+// 
+// 		d3.select('#chart1 svg')
+// 		.datum(data)
+// 		.call(chart);
+// 
+// 		nv.utils.windowResize(chart.update);
+// 
+// 		chart.dispatch.on('stateChange', function(e) { nv.log('New State:', JSON.stringify(e)); });
+// 
+// 		return chart;
+// 	});
+// });
 
 </script>
 
@@ -398,8 +398,6 @@ rel="stylesheet" type="text/css">
 	  <br>
 
 	  <div class="row-fluid pitch">
-		  
-	
 
 		  <h3><a id="F1"><script>document.write(featureName);</script></a></h3>
 				  
