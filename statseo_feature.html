@@ -191,6 +191,12 @@
 	
 
 	<script>
+	
+	var arr = [ 2, 3, 7, 14];
+	$.each(arr, function(index, value) {
+
+	     ('#dropdownSiteFeature').append($('<option>').text(value).attr('value', index));
+	});
 
 
 	function doStuff()
@@ -202,15 +208,15 @@
 		
 		alert("website name is " + websiteName);
 		
-		var siteElement = document.getElementById("dropdownSite");
-		var siteNew = siteElement.value;
-		
-		alert("going for " + siteNew);
-		
-		var featureElement = document.getElementById("dropdownFeature");
-		var featureNew = featureElement.value;
-		
-		alert("feature chosen:" + featureNew);
+		// var siteElement = document.getElementById("dropdownSite");
+		// var siteNew = siteElement.value;
+		// 
+		// alert("going for " + siteNew);
+		// 
+		// var featureElement = document.getElementById("dropdownFeature");
+		// var featureNew = featureElement.value;
+		// 
+		// alert("feature chosen:" + featureNew);
 		
 		document.getElementById("dispUrl").innerHTML = "for " + websiteName;
 
@@ -300,7 +306,6 @@
 						  <li role="presentation"><a role="menuitem" tabindex="-1" href="#">number of duplicate words</a></li>
 						  <li role="presentation" class="divider"></li>
 						  <li role="presentation"> <script>document.write('<a role="menuitem" tabindex="-1" href="/' + pageType + '_SQ_toplevel.html?=' + websiteName +'">StatSEO</a>');</script></li>
-
 					  </ul>
 				  </div>
 				  <br><br>
