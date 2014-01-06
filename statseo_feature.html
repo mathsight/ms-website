@@ -166,8 +166,6 @@
 
 	</style>
 
-	
-
 	<script>
 
 	/* Global vars */
@@ -175,8 +173,13 @@
 	var urlSplit = locate.split("=");
 	var websiteName = urlSplit[1] || "leighmans";
 	var pageType = "onsite";
-	var featureSel = "html5_detected"
+	var featureSel = "html5_detected";
 	
+	var features = [
+	"html5 detected",
+	"maximum length of h1",
+	"number of duplicate words"
+	];
 
 	// var websiteURL = "www.leighmans.com";
 	// var websiteSplit = websiteURL.split(".");
@@ -351,29 +354,15 @@
 					  <ul class="dropdown-menu navbar-right" role="menu" aria-labelledby="dropdownFeature">
 						  <script>
 						  featureSel = 'html5 detected';
-						  document.write('<li role="presentation"><a role="menuitem" tabindex="-1" href="/SQ_drilldown.html?=' + websiteName + '&=' + featureSel + '&=' + pageType +'&=' + healthHarm +'">'+ featureSel +'</a></li>');
-						  </script></li>
-						  <li role="presentation"><a role="menuitem" tabindex="-1" href="#">maximum length of h1</a></li>
-						  <li role="presentation"><a role="menuitem" tabindex="-1" href="#">number of duplicate words</a></li>
-						  <li role="presentation" class="divider"></li>
-						  <li role="presentation"> <script>document.write('<a role="menuitem" tabindex="-1" href="/SQ_toplevel.html?=' + websiteName +'&='+ pageType+'">StatSEO</a>');</script></li>
-					  </ul>
+						  for (i=0;i<features.length;i++)
+						  document.write('<li role="presentation"><a role="menuitem" tabindex="-1" href="/SQ_drilldown.html?=' + websiteName + '&=' + features[i] + '&=' + pageType +'&=' + healthHarm +'">'+ features[i] +'</a></li>');
+						  </script>
+						  <!-- <li role="presentation"><a role="menuitem" tabindex="-1" href="#">maximum length of h1</a></li>
+							  <li role="presentation"><a role="menuitem" tabindex="-1" href="#">number of duplicate words</a></li> -->
+							  <li role="presentation" class="divider"></li>
+							  <li role="presentation"> <script>document.write('<a role="menuitem" tabindex="-1" href="/SQ_toplevel.html?=' + websiteName +'&='+ pageType+'">StatSEO</a>');</script></li>
+						  </ul>
 				  </div>
-				  
-	 			 <button type="submit" class="btn btn-primary" id="submitUrl">
-	 				  <script>
-	 				  websiteName = 'leighmans'; 
-					  if () {
-					  	document.write('<a href = "SQ_drilldown.html?='+websiteName+'&='+websiteName+'">submit!</a>');
-					  }
-					  else {
-					  	document.write('<a href = "SQ_toplevel.html?='+websiteName+'">submit!</a>')
-					  }
-	 				  
-	 				  </script></li>
-	 			  </button>
-				  
-				  
 
 			  </div>  
 			  <a href="/SQ_drilldown.html?=rawpearls&=average backlink dale chall readability&=onsite&=healthy">
