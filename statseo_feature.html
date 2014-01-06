@@ -315,6 +315,25 @@
 						  </li>
 					  </ul>
 				  </div>
+				  
+				  <br>
+				  
+				  <div class="dropdown">
+					  <button class="btn dropdown-toggle sr-only" type="button" id="dropdownHealth" data-toggle="dropdown">
+						  Select healthy or harmful links:
+						  <span class="caret"></span>
+					  </button>
+					  <ul class="dropdown-menu" role="menu" aria-labelledby="dropdownHealth"> 
+						  <li role="presentation"><a role="menuitem" tabindex="-1" href="#">healthy</a></li>
+						  <li role="presentation"><a role="menuitem" tabindex="-1" href="#">harmful</a></li>
+						  <li role="presentation"> 
+							  <script>
+							  healthHarm = 'healthy'; 
+							  document.write('<a role="menuitem" tabindex="-1" href="?=' + websiteName +'&='+pageType+'&='+healthHarm+'">offsite</a>');
+							  </script>
+						  </li>
+					  </ul>
+				  </div>
 			  
 				  <br>
 			  
@@ -332,18 +351,7 @@
 					  </ul>
 				  </div>
 				  
-				  <br>
 				  
-				  <div class="dropdown">
-					  <button class="btn dropdown-toggle sr-only" type="button" id="dropdownHealth" data-toggle="dropdown">
-						  Select healthy or harmful links:
-						  <span class="caret"></span>
-					  </button>
-					  <ul class="dropdown-menu" role="menu" aria-labelledby="dropdownHealth"> 
-						  <li role="presentation"><a role="menuitem" tabindex="-1" href="#">healthy</a></li>
-						  <li role="presentation"><a role="menuitem" tabindex="-1" href="#">harmful</a></li>
-					  </ul>
-				  </div>
 
 			  </div>  
 			  <a href="/SQ_drilldown.html?=rawpearls&=average backlink dale chall readability&=onsite&=healthy">
