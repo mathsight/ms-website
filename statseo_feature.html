@@ -184,9 +184,11 @@
 	var featureJSON = $.getJSON("json/features/feature_list.json");
 
 	var features = [];
-	$.each(featureJSON, function(i, obj) {
-	    features.push([obj.name.value]);
+	$.each(featureJSON.name, function(i, obj) {
+	    features.push([obj.value]);
 	});
+	
+	alert(features[1:5]);
 
 
 	// var websiteURL = "www.leighmans.com";
