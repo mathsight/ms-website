@@ -185,14 +185,14 @@
 	
 	var featureJSON = $.getJSON("/json/features/feature_list.json");
 
-	alert(featureJSON[1].name);
+	// alert(featureJSON.name);
 
 	var features = [];
 	$.each(featureJSON.name, function(i, obj) {
 	    features.push([obj.value]);
 	});
 	
-	// alert(features[1]);
+	alert(features[1]);
 
 
 	// var websiteURL = "www.leighmans.com";
