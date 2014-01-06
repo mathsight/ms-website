@@ -181,39 +181,15 @@
 	// "number of duplicate words"
 	// ];
 	
-	var featureJSON = [
-	{
-		"location": "Average of offsite pages",
-		"class": [
-		[3],
-		[3],
-		[3]
-		],
-		"tag": [
-		"html",
-		"html",
-		"html"
-		],
-		"name": [
-		"Average backlink dale chall readability",
-		"Average backlink flesch reading ease",
-		"Average backlink flesch kincaid grade"
-		],
-		"description": [
-		"The average rating according to the Dale_Chall readability formula for the text content of all backlinks pointing to the onsite page in question:  http://en.wikipedia.org/wiki/Dale-Chall_Readability_Formula",
-		"The average measurement of Flesch reading ease for the text content of all backlinks pointing to the onsite page in question: http://simple.wikipedia.org/wiki/Flesch_Reading_Ease",
-		"A measurement of Flesch-Kincaid grade level for the text content of all backlinks pointing to the onsite page in question:  http://en.wikipedia.org/wiki/Flesch-Kincaid_readability_tests"
-		]
-	}
-	];
-	
-	// var featureJSON = $.getJSON("/json/features/feature_list.json");
 
-	alert(featureJSON.name);
+	
+	var featureJSON = $.getJSON("/json/features/feature_list.json");
+
+	alert(featureJSON[1].name);
 
 	var features = [];
-	$.each(featureJSON, function(i, obj) {
-	    features.push([obj.name.value]);
+	$.each(featureJSON.name, function(i, obj) {
+	    features.push([obj.value]);
 	});
 	
 	// alert(features[1]);
