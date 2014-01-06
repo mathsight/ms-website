@@ -175,11 +175,19 @@
 	var pageType = "onsite";
 	var featureSel = "html5_detected";
 	
-	var features = [
-	"html5 detected",
-	"maximum length of h1",
-	"number of duplicate words"
-	];
+	// var features = [
+	// "html5 detected",
+	// "maximum length of h1",
+	// "number of duplicate words"
+	// ];
+	
+	var featureJSON = $.getJSON("json/features/feature_list.json");
+
+	var features = [];
+	$.each(featureJSON, function(i, obj) {
+	    features.push([obj.name]);
+	});
+
 
 	// var websiteURL = "www.leighmans.com";
 	// var websiteSplit = websiteURL.split(".");
@@ -196,11 +204,11 @@
 
 	<script>
 	
-	var arr = [ 2, 3, 7, 14];
-	$.each(arr, function(index, value) {
-
-	     ('#dropdownSiteFeature').append($('<option>').text(value).attr('value', index));
-	});
+	// var arr = [ 2, 3, 7, 14];
+// 	$.each(arr, function(index, value) {
+// 
+// 	     ('#dropdownSiteFeature').append($('<option>').text(value).attr('value', index));
+// 	});
 
 
 	function doStuff()
