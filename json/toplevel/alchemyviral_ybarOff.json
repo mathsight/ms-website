@@ -4,8 +4,12 @@
 		"color": "#00cc00",
 		"values": [
 			{
+				"label": "Onsite",
+				"value": 6
+			},
+			{
 				"label": "Offsite",
-				"value": 10
+				"value": 9
 			}
 		]
 	},
@@ -13,6 +17,10 @@
 		"key": "Neutral",
 		"color": "#ff9900",
 		"values": [
+			{
+				"label": "Onsite",
+				"value": 37
+			},
 			{
 				"label": "Offsite",
 				"value": 0
@@ -24,8 +32,12 @@
 		"color": "#ff0000",
 		"values": [
 			{
+				"label": "Onsite",
+				"value": -22
+			},
+			{
 				"label": "Offsite",
-				"value": -7
+				"value": -8
 			}
 		]
 	}
