@@ -184,9 +184,11 @@ text {
 /* Global vars */
 var locate = decodeURI(window.location);
 var urlSplit = locate.split("=");
-var websiteName = urlSplit[1] || "leighmans";
-var onOrOffsiteSplit = urlSplit[2].split("&");
-var onOrOffsite = onOrOffsiteSplit[0] || "onsite";
+
+var websiteNameSplit = urlSplit[1].split("&");
+var websiteName = websiteNameSplit[0] || "leighmans";
+
+var onOrOffsite = urlSplit[2] || "onsite";
 
 if (onOrOffsite.length < 7) {
 	JSONfilename = "Xhat";
