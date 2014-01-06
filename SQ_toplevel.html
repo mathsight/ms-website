@@ -291,7 +291,7 @@ function initDataTables(){
 		null,
 		{ "mData": null , //its null here because history column will contain the mRender
 		"mRender" : function ( data, type, full) {
-			return '<a href="'+onOrOffsite+'_SQ_drilldown.html?=' + websiteName + '&='+ full[1] + '&=harmful' +'">'+full[1]+'</a>';
+			return '<a href="SQ_drilldown.html?=' + websiteName + '&='+ full[1] + '&='+ onOrOffsite+'&=harmful' +'">'+full[1]+'</a>';
 		}
 	},
 	null,
@@ -328,7 +328,7 @@ dataTableTwo = $('#example3b').dataTable( {
 	null,
 	{ "mData": null , //its null here because history column will contain the mRender
 	"mRender" : function ( data, type, full) {
-		return '<a href="'+onOrOffsite+'_SQ_drilldown.html?=' + websiteName + '&='+ full[1] + '&=healthy' +'">'+full[1]+'</a>';
+			return '<a href="SQ_drilldown.html?=' + websiteName + '&='+ full[1] + '&='+ onOrOffsite+'&=healthy' +'">'+full[1]+'</a>';
 		}
 	},
 	{"bVisible": false},
