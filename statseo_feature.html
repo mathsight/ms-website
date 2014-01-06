@@ -183,7 +183,7 @@
 	
 	var featureJSON = $.getJSON("json/features/feature_list.json");
 
-	alert(featureJSON);
+	alert(featureJSON[1].name.value);
 
 	var features = [];
 	$.each(featureJSON.name, function(i, obj) {
