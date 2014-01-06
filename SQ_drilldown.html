@@ -77,7 +77,8 @@
 	// alert(urlSplit);
 	var websiteNameFull = urlSplit[1];
 	var featureNameFull = urlSplit[2];
-	var healthOrHarm = urlSplit[3] || "harmful";
+	var onOrOffsiteSplit= urlSplit[3].split("&");
+	var healthOrHarm = urlSplit[4] || "harmful";
 	
 	var featNameSplit = featureNameFull.split("&");
 	// alert(featureName);
@@ -88,12 +89,21 @@
 	var websiteName = WebNameSplit[0];
 	// alert(websiteName);
 	
+	var onOrOffsite = onOrOffsiteSplit[0] || "onsite";
+	
+	if (onOrOffsite.length < 7) {
+		JSONfilename = "XDrill";
+	}
+	else {
+		JSONfilename = "XDrillOff";
+	}
+	
 
 function initDataTables(){
 
 		$('#example1').dataTable( {
 			"bProcessing": true,
-			"sAjaxSource": "/json/drilldown/"+websiteName+"_XDrill.json",
+			"sAjaxSource": "/json/drilldown/"+websiteName+"_"+JSONfilename+".json",
 			"sAjaxDataProp": healthOrHarm + "." + featureNameJSON,
 			"bDeferRender": true,
 			"sDom": "<'row-fluid'<'span6'T><'span6'f>r>t<'row-fluid'<'span6'i><'span6'p>>",
@@ -374,7 +384,7 @@ rel="stylesheet" type="text/css">
       <!-- www.google.com/fonts/specimen/Ubuntu#pairings -->
       <div class="row-fluid heading">
         <div class="span12">
-          <h1>StatSEO: Onsite drilldown</h1>
+          <h1><script>document.write("StatSEO: " + onOrOffsite + " drilldown");</script></h1>
         </div>
       </div> 
 	  
@@ -471,7 +481,7 @@ rel="stylesheet" type="text/css">
 
 
 		  <p>
-			  <script>document.write('<a href="/SQ_toplevel.html?=' + websiteName +'&=onsite">Return to top level summary for '+ websiteName +'</a>');</script>
+			  <script>document.write('<a href="/SQ_toplevel.html?=' + websiteName +'&='+onOrOffsite+'">Return to top level summary for '+ websiteName +'</a>');</script>
 		
 		  </p>
 		  
