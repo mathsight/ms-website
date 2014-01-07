@@ -187,7 +187,12 @@
 	  console.log( "JSON loading success" );
 	  $.each(results, function(index) {
 		  // alert(results[index].name);
-		  features.push(results[index].name);
+		  blob = results[index].name;
+		  $.each(blob, function(nameIndex) {
+		  	features.push(blob[nameIndex].value);
+		  });
+		  
+		  //features.push(results[index].name);
 	  });
 	})
 	  .done(function() {
