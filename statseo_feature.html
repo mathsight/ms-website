@@ -188,11 +188,14 @@
 	// alert(featureJSON.name);
 
 	var features = [];
-	$.each(featureJSON.features, function(i, obj) {
+	$.each(featureJSON.featureGroups, function(i, obj) {
 	    features.push([obj.names.value]);
 	});
 	
-	alert(features[1]);
+	var c = features.length;
+	while (c--) {
+	    alert(features[c][0]);
+	};
 
 
 	// var websiteURL = "www.leighmans.com";
