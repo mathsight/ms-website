@@ -31,7 +31,7 @@
 	
 	<!-- for toggle switch -->
 	<!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script> -->
-	<script src="./bootstrap-switch/static/js/bootstrap-switch.js"></script>  
+	<!-- <script src="./bootstrap-switch/static/js/bootstrap-switch.js"></script>  -->
 
 
 	<!-- for datatables' styling etc -->
@@ -183,27 +183,26 @@
 	
 	var features = [];
 	
-	var featureJSON = $.getJSON( "json/features/feature_list.json", function(results) {
-	  console.log( "JSON loading success" );
-	  $.each(results, function(index) {
-		  // alert(results[index].name);
-		  blob = results[index].name;
-		  $.each(blob, function(nameIndex) {
-		  	features.push(blob[nameIndex]);
-		  });
-		  
-		  //features.push(results[index].name);
-	  });
+	var featureJSON = jQuery(document).ready($.getJSON( "json/features/feature_list.json", function(results) {
+		console.log( "JSON loading success" );
+		$.each(results, function(index) {
+			// alert(results[index].name);
+			blob = results[index].name;
+			$.each(blob, function(nameIndex) {
+				features.push(blob[nameIndex]);
+			});
+
+		});
 	})
-	  .done(function() {
-	    console.log( "second success" );
-	  })
-	  .fail(function() {
-	    console.log( "error" );
-	  })
-	  .always(function() {
-	    console.log( "complete" );
-	  });
+	.done(function() {
+		console.log( "second success" );
+	})
+	.fail(function() {
+		console.log( "error" );
+	})
+	.always(function() {
+		console.log( "complete" );
+	}));
 
 	// Perform other work here ...
  
