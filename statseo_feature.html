@@ -180,24 +180,45 @@
 	// "maximum length of h1",
 	// "number of duplicate words"
 	// ];
-
-	var featureJSON = $.getJSON("json/features/feature_list.json",function(results) {
-		$.each(results, function(index) {
-			alert(results[index].results);
-		});
+	
+	
+	var featureJSON = $.getJSON( "json/features/feature_list.json", function() {
+	  console.log( "JSON loading success" );
+	})
+	  .done(function() {
+	    console.log( "second success" );
+	  })
+	  .fail(function() {
+	    console.log( "error" );
+	  })
+	  .always(function() {
+	    console.log( "complete" );
+	  });
+ 
+	// Perform other work here ...
+ 
+	// Set another completion function for the request above
+	featureJSON.complete(function() {
+	  console.log( "second complete" );
 	});
+
+	// var featureJSON = $.getJSON("json/features/feature_list.json",function(results) {
+	// 	$.each(results, function(index) {
+	// 		alert(results[index].results);
+	// 	});
+	// });
 
 	// alert(featureJSON.name);
 
 	var features = [];
-	$.each(featureJSON.results.bindings, function(i, obj) {
-	    features.push([obj.place.value, obj.lat.value, obj.long.value, obj.page.value]);
-	});
-	
-	var c = features.length;
-	while (c--) {
-	    alert(features[c][0]);
-	};
+	// $.each(featureJSON.results.bindings, function(i, obj) {
+// 	    features.push([obj.place.value, obj.lat.value, obj.long.value, obj.page.value]);
+// 	});
+// 	
+// 	var c = features.length;
+// 	while (c--) {
+// 	    alert(features[c][0]);
+// 	};
 
 
 	// var websiteURL = "www.leighmans.com";
