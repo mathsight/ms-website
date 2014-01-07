@@ -181,28 +181,7 @@
 	// "number of duplicate words"
 	// ];
 	
-	var features = [];
 	
-	var featureJSON = $.getJSON( "json/features/feature_list.json", function(results) {
-		console.log( "JSON loading success" );
-		$.each(results, function(index) {
-			// alert(results[index].name);
-			blob = results[index].name;
-			$.each(blob, function(nameIndex) {
-				features.push(blob[nameIndex]);
-			});
-
-		});
-	})
-	.done(function() {
-		console.log( "second success" );
-	})
-	.fail(function() {
-		console.log( "error" );
-	})
-	.always(function() {
-		console.log( "complete" );
-	});
 
 	// Perform other work here ...
  
@@ -397,7 +376,29 @@
 					  </button>
 					  <ul class="dropdown-menu navbar-right" role="menu" aria-labelledby="dropdownFeature">
 						  <script>
-						  featureSel = 'html5 detected';
+						  var features = [];
+	
+						  var featureJSON = $.getJSON( "json/features/feature_list.json", function(results) {
+							  console.log( "JSON loading success" );
+							  $.each(results, function(index) {
+								  // alert(results[index].name);
+								  blob = results[index].name;
+								  $.each(blob, function(nameIndex) {
+									  features.push(blob[nameIndex]);
+								  });
+
+							  });
+						  })
+						  .done(function() {
+							  console.log( "second success" );
+						  })
+						  .fail(function() {
+							  console.log( "error" );
+						  })
+						  .always(function() {
+							  console.log( "complete" );
+						  });
+						  
 						  console.log("drop down features length: " + features.length);
 						  for (i=0;i<featureSel.length;i++) {
 							  console.log(features[i]);
