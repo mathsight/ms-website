@@ -183,14 +183,7 @@
 	
 	
 
-	// Perform other work here ...
- 
-	// Set another completion function for the request above
-	featureJSON.complete(function() {
-		console.log( "second complete" );
-		console.log("length of features array: " + features.length);
-	});
-	
+
 	
 
 	
@@ -398,12 +391,20 @@
 						  .always(function() {
 							  console.log( "complete" );
 						  });
-						  
+
 						  console.log("drop down features length: " + features.length);
-						  for (i=0;i<featureSel.length;i++) {
+						  for (i=0;i<features.length;i++) {
 							  console.log(features[i]);
 							  document.write('<li role="presentation"><a role="menuitem" tabindex="-1" href="/SQ_drilldown.html?=' + websiteName + '&=' + features[i] + '&=' + pageType +'&=' + healthHarm +'">'+ features[i] +'</a></li>');
 						  }
+						  
+						  // Perform other work here ...
+						  // Set another completion function for the request above
+						  featureJSON.complete(function() {
+							  console.log( "second complete" );
+							  console.log("length of features array: " + features.length);
+						  });
+
 						  </script>
 						  <!-- <li role="presentation"><a role="menuitem" tabindex="-1" href="#">maximum length of h1</a></li>
 							  <li role="presentation"><a role="menuitem" tabindex="-1" href="#">number of duplicate words</a></li> -->
