@@ -399,8 +399,8 @@
 						  <script>
 						  featureSel = 'html5 detected';
 						  console.log("drop down features length: " + features.length);
-						  for (i=0;i<features.length;i++) {
-							  console.log(features[i]);
+						  for (i=0;i<featureSel.length;i++) {
+							  console.log(featureSel[i]);
 							  document.write('<li role="presentation"><a role="menuitem" tabindex="-1" href="/SQ_drilldown.html?=' + websiteName + '&=' + features[i] + '&=' + pageType +'&=' + healthHarm +'">'+ features[i] +'</a></li>');
 						  }
 						  </script>
