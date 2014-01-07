@@ -181,9 +181,11 @@
 	// "number of duplicate words"
 	// ];
 
-	var featureJSON = $.getJSON("json/features/feature_list.json",function(response) {
-                alert('hi - we got the JSON y`all'+ response);
-        });
+	var featureJSON = $.getJSON("json/features/feature_list.json",function(results) {
+		$.each(results, function(index) {
+			alert(results[index].results);
+		});
+	});
 
 	// alert(featureJSON.name);
 
