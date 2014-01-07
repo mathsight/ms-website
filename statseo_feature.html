@@ -188,8 +188,8 @@
 	// alert(featureJSON.name);
 
 	var features = [];
-	$.each(featureJSON.name, function(i, obj) {
-	    features.push([obj.value]);
+	$.each(featureJSON.features, function(i, obj) {
+	    features.push([obj.names.value]);
 	});
 	
 	alert(features[1]);
