@@ -1,0 +1,5796 @@
+{
+	"healthy": {
+		"average_backlink_dale_chall_readability": {
+			"html_id": "http://www.doubleglazinglocal.co.uk/wp-content/themes/doubleglazing_2.0/getaquote.php",
+			"feature_value": "0",
+			"cluster_win_mean": "8.6",
+			"delta": "0"
+		},
+		"average_backlink_flesch_reading_ease": [
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/improvements",
+				"feature_value": "0",
+				"cluster_win_mean": "42.42",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/things-to-know",
+				"feature_value": "0",
+				"cluster_win_mean": "42.42",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/blog",
+				"feature_value": "0",
+				"cluster_win_mean": "42.42",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/about",
+				"feature_value": "0",
+				"cluster_win_mean": "42.42",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/subscribe-to-our-newsletter",
+				"feature_value": "0",
+				"cluster_win_mean": "42.42",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/windows",
+				"feature_value": "0",
+				"cluster_win_mean": "42.42",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/doors",
+				"feature_value": "0",
+				"cluster_win_mean": "42.42",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/other/conservatories",
+				"feature_value": "0",
+				"cluster_win_mean": "42.42",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/other/solar-panels",
+				"feature_value": "0",
+				"cluster_win_mean": "42.42",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/other",
+				"feature_value": "0",
+				"cluster_win_mean": "42.42",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/other/rooflights",
+				"feature_value": "0",
+				"cluster_win_mean": "42.42",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/other/fascias-soffits",
+				"feature_value": "0",
+				"cluster_win_mean": "42.42",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/other/block-paving",
+				"feature_value": "0",
+				"cluster_win_mean": "42.42",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/advertise-join-our-network",
+				"feature_value": "0",
+				"cluster_win_mean": "42.42",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/privacy-policy",
+				"feature_value": "0",
+				"cluster_win_mean": "42.42",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/double-glazing-prices",
+				"feature_value": "0",
+				"cluster_win_mean": "42.42",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/156-20120126-housing-crash-biggest-losers-in-real-estate-the-past-decade",
+				"feature_value": "0",
+				"cluster_win_mean": "42.42",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/154-20120126-prices",
+				"feature_value": "0",
+				"cluster_win_mean": "42.42",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/double-glazing-quotes",
+				"feature_value": "0",
+				"cluster_win_mean": "42.42",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/links",
+				"feature_value": "0",
+				"cluster_win_mean": "42.42",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/293-20120214-the-benefits-of-double-glazaing",
+				"feature_value": "0",
+				"cluster_win_mean": "42.42",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/414-20120720-ten-amazing-glass-etching-designs",
+				"feature_value": "0",
+				"cluster_win_mean": "42.42",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/doors/front-doors",
+				"feature_value": "0",
+				"cluster_win_mean": "42.42",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/doors/patio",
+				"feature_value": "0",
+				"cluster_win_mean": "42.42",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/doors/internal-doors",
+				"feature_value": "0",
+				"cluster_win_mean": "42.42",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/doors/french",
+				"feature_value": "0",
+				"cluster_win_mean": "42.42",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/doors/garage",
+				"feature_value": "0",
+				"cluster_win_mean": "42.42",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/windows/aluminium",
+				"feature_value": "0",
+				"cluster_win_mean": "42.42",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/windows/tilt-turn",
+				"feature_value": "0",
+				"cluster_win_mean": "42.42",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/windows/triple-glazing",
+				"feature_value": "0",
+				"cluster_win_mean": "42.42",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/windows/hardwood",
+				"feature_value": "0",
+				"cluster_win_mean": "42.42",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/windows/upvc",
+				"feature_value": "0",
+				"cluster_win_mean": "42.42",
+				"delta": "0"
+			}
+		],
+		"average_backlink_flesch_kincaid_grade": {
+			"html_id": "http://www.doubleglazinglocal.co.uk/wp-content/themes/doubleglazing_2.0/getaquote.php",
+			"feature_value": "0",
+			"cluster_win_mean": "11.26",
+			"delta": "0"
+		},
+		"maximum_length_of_h1": [
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk",
+				"feature_value": "0",
+				"cluster_win_mean": "24.98",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/improvements",
+				"feature_value": "0",
+				"cluster_win_mean": "24.98",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/things-to-know",
+				"feature_value": "0",
+				"cluster_win_mean": "24.98",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/blog",
+				"feature_value": "0",
+				"cluster_win_mean": "24.98",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/about",
+				"feature_value": "0",
+				"cluster_win_mean": "24.98",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/subscribe-to-our-newsletter",
+				"feature_value": "0",
+				"cluster_win_mean": "24.98",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/doors",
+				"feature_value": "8",
+				"cluster_win_mean": "24.98",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/other/conservatories",
+				"feature_value": "0",
+				"cluster_win_mean": "24.98",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/other/solar-panels",
+				"feature_value": "0",
+				"cluster_win_mean": "24.98",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/other",
+				"feature_value": "0",
+				"cluster_win_mean": "24.98",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/other/rooflights",
+				"feature_value": "0",
+				"cluster_win_mean": "24.98",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/other/fascias-soffits",
+				"feature_value": "0",
+				"cluster_win_mean": "24.98",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/other/block-paving",
+				"feature_value": "0",
+				"cluster_win_mean": "24.98",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/advertise-join-our-network",
+				"feature_value": "0",
+				"cluster_win_mean": "24.98",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/privacy-policy",
+				"feature_value": "0",
+				"cluster_win_mean": "24.98",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/double-glazing-prices",
+				"feature_value": "0",
+				"cluster_win_mean": "24.98",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/156-20120126-housing-crash-biggest-losers-in-real-estate-the-past-decade",
+				"feature_value": "0",
+				"cluster_win_mean": "24.98",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/154-20120126-prices",
+				"feature_value": "0",
+				"cluster_win_mean": "24.98",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/double-glazing-quotes",
+				"feature_value": "0",
+				"cluster_win_mean": "24.98",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/links",
+				"feature_value": "0",
+				"cluster_win_mean": "24.98",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/293-20120214-the-benefits-of-double-glazaing",
+				"feature_value": "0",
+				"cluster_win_mean": "24.98",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/414-20120720-ten-amazing-glass-etching-designs",
+				"feature_value": "0",
+				"cluster_win_mean": "24.98",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/doors/front-doors",
+				"feature_value": "0",
+				"cluster_win_mean": "24.98",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/doors/patio",
+				"feature_value": "0",
+				"cluster_win_mean": "24.98",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/doors/internal-doors",
+				"feature_value": "0",
+				"cluster_win_mean": "24.98",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/doors/french",
+				"feature_value": "0",
+				"cluster_win_mean": "24.98",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/doors/garage",
+				"feature_value": "0",
+				"cluster_win_mean": "24.98",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/windows/aluminium",
+				"feature_value": "0",
+				"cluster_win_mean": "24.98",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/windows/tilt-turn",
+				"feature_value": "0",
+				"cluster_win_mean": "24.98",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/windows/triple-glazing",
+				"feature_value": "0",
+				"cluster_win_mean": "24.98",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/windows/hardwood",
+				"feature_value": "0",
+				"cluster_win_mean": "24.98",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/windows/upvc",
+				"feature_value": "0",
+				"cluster_win_mean": "24.98",
+				"delta": "0"
+			}
+		],
+		"average_length_of_h1": [
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk",
+				"feature_value": "0",
+				"cluster_win_mean": "21.19",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/improvements",
+				"feature_value": "0",
+				"cluster_win_mean": "21.19",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/things-to-know",
+				"feature_value": "0",
+				"cluster_win_mean": "21.19",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/blog",
+				"feature_value": "0",
+				"cluster_win_mean": "21.19",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/about",
+				"feature_value": "0",
+				"cluster_win_mean": "21.19",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/subscribe-to-our-newsletter",
+				"feature_value": "0",
+				"cluster_win_mean": "21.19",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/windows",
+				"feature_value": "9",
+				"cluster_win_mean": "21.19",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/doors",
+				"feature_value": "6",
+				"cluster_win_mean": "21.19",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/other/conservatories",
+				"feature_value": "0",
+				"cluster_win_mean": "21.19",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/other/solar-panels",
+				"feature_value": "0",
+				"cluster_win_mean": "21.19",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/other",
+				"feature_value": "0",
+				"cluster_win_mean": "21.19",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/other/rooflights",
+				"feature_value": "0",
+				"cluster_win_mean": "21.19",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/other/fascias-soffits",
+				"feature_value": "0",
+				"cluster_win_mean": "21.19",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/other/block-paving",
+				"feature_value": "0",
+				"cluster_win_mean": "21.19",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/advertise-join-our-network",
+				"feature_value": "0",
+				"cluster_win_mean": "21.19",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/privacy-policy",
+				"feature_value": "0",
+				"cluster_win_mean": "21.19",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/double-glazing-prices",
+				"feature_value": "0",
+				"cluster_win_mean": "21.19",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/156-20120126-housing-crash-biggest-losers-in-real-estate-the-past-decade",
+				"feature_value": "0",
+				"cluster_win_mean": "21.19",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/154-20120126-prices",
+				"feature_value": "0",
+				"cluster_win_mean": "21.19",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/double-glazing-quotes",
+				"feature_value": "0",
+				"cluster_win_mean": "21.19",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/links",
+				"feature_value": "0",
+				"cluster_win_mean": "21.19",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/293-20120214-the-benefits-of-double-glazaing",
+				"feature_value": "0",
+				"cluster_win_mean": "21.19",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/414-20120720-ten-amazing-glass-etching-designs",
+				"feature_value": "0",
+				"cluster_win_mean": "21.19",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/doors/front-doors",
+				"feature_value": "0",
+				"cluster_win_mean": "21.19",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/doors/patio",
+				"feature_value": "0",
+				"cluster_win_mean": "21.19",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/doors/internal-doors",
+				"feature_value": "0",
+				"cluster_win_mean": "21.19",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/doors/french",
+				"feature_value": "0",
+				"cluster_win_mean": "21.19",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/doors/garage",
+				"feature_value": "0",
+				"cluster_win_mean": "21.19",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/windows/aluminium",
+				"feature_value": "0",
+				"cluster_win_mean": "21.19",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/windows/tilt-turn",
+				"feature_value": "0",
+				"cluster_win_mean": "21.19",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/windows/triple-glazing",
+				"feature_value": "0",
+				"cluster_win_mean": "21.19",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/windows/hardwood",
+				"feature_value": "0",
+				"cluster_win_mean": "21.19",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/windows/upvc",
+				"feature_value": "0",
+				"cluster_win_mean": "21.19",
+				"delta": "0"
+			}
+		],
+		"number_of_root_relative_internal_links": [
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk",
+				"feature_value": "0",
+				"cluster_win_mean": "0",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/improvements",
+				"feature_value": "0",
+				"cluster_win_mean": "0",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/things-to-know",
+				"feature_value": "0",
+				"cluster_win_mean": "0",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/blog",
+				"feature_value": "0",
+				"cluster_win_mean": "0",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/about",
+				"feature_value": "0",
+				"cluster_win_mean": "0",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/subscribe-to-our-newsletter",
+				"feature_value": "0",
+				"cluster_win_mean": "0",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/windows",
+				"feature_value": "0",
+				"cluster_win_mean": "0",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/doors",
+				"feature_value": "0",
+				"cluster_win_mean": "0",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/other/conservatories",
+				"feature_value": "0",
+				"cluster_win_mean": "0",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/other/solar-panels",
+				"feature_value": "0",
+				"cluster_win_mean": "0",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/other",
+				"feature_value": "0",
+				"cluster_win_mean": "0",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/other/rooflights",
+				"feature_value": "0",
+				"cluster_win_mean": "0",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/other/fascias-soffits",
+				"feature_value": "0",
+				"cluster_win_mean": "0",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/other/block-paving",
+				"feature_value": "0",
+				"cluster_win_mean": "0",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/advertise-join-our-network",
+				"feature_value": "0",
+				"cluster_win_mean": "0",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/privacy-policy",
+				"feature_value": "0",
+				"cluster_win_mean": "0",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/double-glazing-prices",
+				"feature_value": "0",
+				"cluster_win_mean": "0",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/156-20120126-housing-crash-biggest-losers-in-real-estate-the-past-decade",
+				"feature_value": "0",
+				"cluster_win_mean": "0",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/154-20120126-prices",
+				"feature_value": "0",
+				"cluster_win_mean": "0",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/double-glazing-quotes",
+				"feature_value": "0",
+				"cluster_win_mean": "0",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/links",
+				"feature_value": "0",
+				"cluster_win_mean": "0",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/293-20120214-the-benefits-of-double-glazaing",
+				"feature_value": "0",
+				"cluster_win_mean": "0",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/414-20120720-ten-amazing-glass-etching-designs",
+				"feature_value": "0",
+				"cluster_win_mean": "0",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/doors/front-doors",
+				"feature_value": "0",
+				"cluster_win_mean": "0",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/doors/patio",
+				"feature_value": "0",
+				"cluster_win_mean": "0",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/doors/internal-doors",
+				"feature_value": "0",
+				"cluster_win_mean": "0",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/doors/french",
+				"feature_value": "0",
+				"cluster_win_mean": "0",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/doors/garage",
+				"feature_value": "0",
+				"cluster_win_mean": "0",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/windows/aluminium",
+				"feature_value": "0",
+				"cluster_win_mean": "0",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/windows/tilt-turn",
+				"feature_value": "0",
+				"cluster_win_mean": "0",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/windows/triple-glazing",
+				"feature_value": "0",
+				"cluster_win_mean": "0",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/windows/hardwood",
+				"feature_value": "0",
+				"cluster_win_mean": "0",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/windows/upvc",
+				"feature_value": "0",
+				"cluster_win_mean": "0",
+				"delta": "0"
+			}
+		],
+		"number_of_hyperlinks_with_file": [
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk",
+				"feature_value": "14",
+				"cluster_win_mean": "8.64",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/improvements",
+				"feature_value": "11",
+				"cluster_win_mean": "8.64",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/things-to-know",
+				"feature_value": "11",
+				"cluster_win_mean": "8.64",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/blog",
+				"feature_value": "11",
+				"cluster_win_mean": "8.64",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/about",
+				"feature_value": "11",
+				"cluster_win_mean": "8.64",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/subscribe-to-our-newsletter",
+				"feature_value": "11",
+				"cluster_win_mean": "8.64",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/other/conservatories",
+				"feature_value": "10",
+				"cluster_win_mean": "8.64",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/other/solar-panels",
+				"feature_value": "10",
+				"cluster_win_mean": "8.64",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/other",
+				"feature_value": "10",
+				"cluster_win_mean": "8.64",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/other/rooflights",
+				"feature_value": "10",
+				"cluster_win_mean": "8.64",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/other/fascias-soffits",
+				"feature_value": "10",
+				"cluster_win_mean": "8.64",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/other/block-paving",
+				"feature_value": "10",
+				"cluster_win_mean": "8.64",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/advertise-join-our-network",
+				"feature_value": "11",
+				"cluster_win_mean": "8.64",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/privacy-policy",
+				"feature_value": "11",
+				"cluster_win_mean": "8.64",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/double-glazing-prices",
+				"feature_value": "10",
+				"cluster_win_mean": "8.64",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/154-20120126-prices",
+				"feature_value": "10",
+				"cluster_win_mean": "8.64",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/double-glazing-quotes",
+				"feature_value": "11",
+				"cluster_win_mean": "8.64",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/links",
+				"feature_value": "12",
+				"cluster_win_mean": "8.64",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/293-20120214-the-benefits-of-double-glazaing",
+				"feature_value": "11",
+				"cluster_win_mean": "8.64",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/doors/front-doors",
+				"feature_value": "10",
+				"cluster_win_mean": "8.64",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/doors/patio",
+				"feature_value": "10",
+				"cluster_win_mean": "8.64",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/doors/internal-doors",
+				"feature_value": "10",
+				"cluster_win_mean": "8.64",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/doors/french",
+				"feature_value": "10",
+				"cluster_win_mean": "8.64",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/doors/garage",
+				"feature_value": "10",
+				"cluster_win_mean": "8.64",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/windows/aluminium",
+				"feature_value": "10",
+				"cluster_win_mean": "8.64",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/windows/tilt-turn",
+				"feature_value": "10",
+				"cluster_win_mean": "8.64",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/windows/triple-glazing",
+				"feature_value": "10",
+				"cluster_win_mean": "8.64",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/windows/hardwood",
+				"feature_value": "10",
+				"cluster_win_mean": "8.64",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/windows/upvc",
+				"feature_value": "10",
+				"cluster_win_mean": "8.64",
+				"delta": "0"
+			}
+		],
+		"number_of_images": [
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/improvements",
+				"feature_value": "8",
+				"cluster_win_mean": "6.76",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/things-to-know",
+				"feature_value": "8",
+				"cluster_win_mean": "6.76",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/blog",
+				"feature_value": "8",
+				"cluster_win_mean": "6.76",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/about",
+				"feature_value": "8",
+				"cluster_win_mean": "6.76",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/subscribe-to-our-newsletter",
+				"feature_value": "8",
+				"cluster_win_mean": "6.76",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/other/conservatories",
+				"feature_value": "7",
+				"cluster_win_mean": "6.76",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/other/solar-panels",
+				"feature_value": "7",
+				"cluster_win_mean": "6.76",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/other",
+				"feature_value": "7",
+				"cluster_win_mean": "6.76",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/other/rooflights",
+				"feature_value": "7",
+				"cluster_win_mean": "6.76",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/other/fascias-soffits",
+				"feature_value": "7",
+				"cluster_win_mean": "6.76",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/other/block-paving",
+				"feature_value": "7",
+				"cluster_win_mean": "6.76",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/advertise-join-our-network",
+				"feature_value": "8",
+				"cluster_win_mean": "6.76",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/privacy-policy",
+				"feature_value": "8",
+				"cluster_win_mean": "6.76",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/double-glazing-prices",
+				"feature_value": "7",
+				"cluster_win_mean": "6.76",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/154-20120126-prices",
+				"feature_value": "7",
+				"cluster_win_mean": "6.76",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/double-glazing-quotes",
+				"feature_value": "8",
+				"cluster_win_mean": "6.76",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/links",
+				"feature_value": "8",
+				"cluster_win_mean": "6.76",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/293-20120214-the-benefits-of-double-glazaing",
+				"feature_value": "8",
+				"cluster_win_mean": "6.76",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/doors/front-doors",
+				"feature_value": "7",
+				"cluster_win_mean": "6.76",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/doors/patio",
+				"feature_value": "7",
+				"cluster_win_mean": "6.76",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/doors/internal-doors",
+				"feature_value": "7",
+				"cluster_win_mean": "6.76",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/doors/french",
+				"feature_value": "7",
+				"cluster_win_mean": "6.76",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/doors/garage",
+				"feature_value": "7",
+				"cluster_win_mean": "6.76",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/windows/aluminium",
+				"feature_value": "7",
+				"cluster_win_mean": "6.76",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/windows/tilt-turn",
+				"feature_value": "7",
+				"cluster_win_mean": "6.76",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/windows/triple-glazing",
+				"feature_value": "7",
+				"cluster_win_mean": "6.76",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/windows/hardwood",
+				"feature_value": "7",
+				"cluster_win_mean": "6.76",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/windows/upvc",
+				"feature_value": "7",
+				"cluster_win_mean": "6.76",
+				"delta": "0"
+			}
+		],
+		"number_of_external_links": [
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/blog",
+				"feature_value": "32",
+				"cluster_win_mean": "25.41",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/windows",
+				"feature_value": "22",
+				"cluster_win_mean": "25.41",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/doors",
+				"feature_value": "23",
+				"cluster_win_mean": "25.41",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/other/rooflights",
+				"feature_value": "22",
+				"cluster_win_mean": "25.41",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/other/fascias-soffits",
+				"feature_value": "22",
+				"cluster_win_mean": "25.41",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/other/block-paving",
+				"feature_value": "22",
+				"cluster_win_mean": "25.41",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/156-20120126-housing-crash-biggest-losers-in-real-estate-the-past-decade",
+				"feature_value": "29",
+				"cluster_win_mean": "25.41",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/154-20120126-prices",
+				"feature_value": "21",
+				"cluster_win_mean": "25.41",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/links",
+				"feature_value": "23",
+				"cluster_win_mean": "25.41",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/293-20120214-the-benefits-of-double-glazaing",
+				"feature_value": "23",
+				"cluster_win_mean": "25.41",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/414-20120720-ten-amazing-glass-etching-designs",
+				"feature_value": "31",
+				"cluster_win_mean": "25.41",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/doors/front-doors",
+				"feature_value": "21",
+				"cluster_win_mean": "25.41",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/doors/patio",
+				"feature_value": "22",
+				"cluster_win_mean": "25.41",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/doors/internal-doors",
+				"feature_value": "22",
+				"cluster_win_mean": "25.41",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/doors/french",
+				"feature_value": "22",
+				"cluster_win_mean": "25.41",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/doors/garage",
+				"feature_value": "21",
+				"cluster_win_mean": "25.41",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/windows/aluminium",
+				"feature_value": "21",
+				"cluster_win_mean": "25.41",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/windows/tilt-turn",
+				"feature_value": "22",
+				"cluster_win_mean": "25.41",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/windows/triple-glazing",
+				"feature_value": "22",
+				"cluster_win_mean": "25.41",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/windows/hardwood",
+				"feature_value": "22",
+				"cluster_win_mean": "25.41",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/windows/upvc",
+				"feature_value": "21",
+				"cluster_win_mean": "25.41",
+				"delta": "0"
+			}
+		],
+		"number_of_absolute_internal_links": [
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk",
+				"feature_value": "28",
+				"cluster_win_mean": "12.62",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/windows",
+				"feature_value": "12",
+				"cluster_win_mean": "12.62",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/doors",
+				"feature_value": "12",
+				"cluster_win_mean": "12.62",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/other",
+				"feature_value": " 8",
+				"cluster_win_mean": "12.62",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/wp-content/themes/doubleglazing_2.0/getaquote.php",
+				"feature_value": " 0",
+				"cluster_win_mean": " 1.46",
+				"delta": "0"
+			}
+		],
+		"average_image_width": [
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/doors",
+				"feature_value": "543",
+				"cluster_win_mean": "134.35",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/wp-content/themes/doubleglazing_2.0/getaquote.php",
+				"feature_value": "262",
+				"cluster_win_mean": "217.02",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/156-20120126-housing-crash-biggest-losers-in-real-estate-the-past-decade",
+				"feature_value": "150",
+				"cluster_win_mean": "134.35",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/293-20120214-the-benefits-of-double-glazaing",
+				"feature_value": "654",
+				"cluster_win_mean": "134.35",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/414-20120720-ten-amazing-glass-etching-designs",
+				"feature_value": "620",
+				"cluster_win_mean": "134.35",
+				"delta": "0"
+			}
+		],
+		"number_of_images_missing_alt": [
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk",
+				"feature_value": "0",
+				"cluster_win_mean": "6.2",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/improvements",
+				"feature_value": "0",
+				"cluster_win_mean": "6.2",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/things-to-know",
+				"feature_value": "0",
+				"cluster_win_mean": "6.2",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/blog",
+				"feature_value": "0",
+				"cluster_win_mean": "6.2",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/about",
+				"feature_value": "0",
+				"cluster_win_mean": "6.2",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/subscribe-to-our-newsletter",
+				"feature_value": "0",
+				"cluster_win_mean": "6.2",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/windows",
+				"feature_value": "0",
+				"cluster_win_mean": "6.2",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/doors",
+				"feature_value": "0",
+				"cluster_win_mean": "6.2",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/other/conservatories",
+				"feature_value": "0",
+				"cluster_win_mean": "6.2",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/other/solar-panels",
+				"feature_value": "0",
+				"cluster_win_mean": "6.2",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/other",
+				"feature_value": "0",
+				"cluster_win_mean": "6.2",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/other/rooflights",
+				"feature_value": "0",
+				"cluster_win_mean": "6.2",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/other/fascias-soffits",
+				"feature_value": "0",
+				"cluster_win_mean": "6.2",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/other/block-paving",
+				"feature_value": "0",
+				"cluster_win_mean": "6.2",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/advertise-join-our-network",
+				"feature_value": "0",
+				"cluster_win_mean": "6.2",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/privacy-policy",
+				"feature_value": "0",
+				"cluster_win_mean": "6.2",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/double-glazing-prices",
+				"feature_value": "0",
+				"cluster_win_mean": "6.2",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/156-20120126-housing-crash-biggest-losers-in-real-estate-the-past-decade",
+				"feature_value": "0",
+				"cluster_win_mean": "6.2",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/154-20120126-prices",
+				"feature_value": "0",
+				"cluster_win_mean": "6.2",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/double-glazing-quotes",
+				"feature_value": "0",
+				"cluster_win_mean": "6.2",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/links",
+				"feature_value": "0",
+				"cluster_win_mean": "6.2",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/293-20120214-the-benefits-of-double-glazaing",
+				"feature_value": "0",
+				"cluster_win_mean": "6.2",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/414-20120720-ten-amazing-glass-etching-designs",
+				"feature_value": "0",
+				"cluster_win_mean": "6.2",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/doors/front-doors",
+				"feature_value": "0",
+				"cluster_win_mean": "6.2",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/doors/patio",
+				"feature_value": "0",
+				"cluster_win_mean": "6.2",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/doors/internal-doors",
+				"feature_value": "0",
+				"cluster_win_mean": "6.2",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/doors/french",
+				"feature_value": "0",
+				"cluster_win_mean": "6.2",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/doors/garage",
+				"feature_value": "0",
+				"cluster_win_mean": "6.2",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/windows/aluminium",
+				"feature_value": "0",
+				"cluster_win_mean": "6.2",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/windows/tilt-turn",
+				"feature_value": "0",
+				"cluster_win_mean": "6.2",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/windows/triple-glazing",
+				"feature_value": "0",
+				"cluster_win_mean": "6.2",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/windows/hardwood",
+				"feature_value": "0",
+				"cluster_win_mean": "6.2",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/windows/upvc",
+				"feature_value": "0",
+				"cluster_win_mean": "6.2",
+				"delta": "0"
+			}
+		],
+		"number_of_h1_instances": [
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/windows",
+				"feature_value": "5",
+				"cluster_win_mean": "1.58",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/doors",
+				"feature_value": "5",
+				"cluster_win_mean": "1.58",
+				"delta": "0"
+			}
+		],
+		"total_number_of_words": [
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk",
+				"feature_value": "647",
+				"cluster_win_mean": "615.76",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/blog",
+				"feature_value": "617",
+				"cluster_win_mean": "615.76",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/doors",
+				"feature_value": "732",
+				"cluster_win_mean": "615.76",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/privacy-policy",
+				"feature_value": "745",
+				"cluster_win_mean": "615.76",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/156-20120126-housing-crash-biggest-losers-in-real-estate-the-past-decade",
+				"feature_value": "621",
+				"cluster_win_mean": "615.76",
+				"delta": "0"
+			}
+		],
+		"number_of_embedded_css_styles": [
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk",
+				"feature_value": "0",
+				"cluster_win_mean": "2.41",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/improvements",
+				"feature_value": "0",
+				"cluster_win_mean": "2.41",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/things-to-know",
+				"feature_value": "0",
+				"cluster_win_mean": "2.41",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/blog",
+				"feature_value": "0",
+				"cluster_win_mean": "2.41",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/about",
+				"feature_value": "0",
+				"cluster_win_mean": "2.41",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/subscribe-to-our-newsletter",
+				"feature_value": "0",
+				"cluster_win_mean": "2.41",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/windows",
+				"feature_value": "0",
+				"cluster_win_mean": "2.41",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/doors",
+				"feature_value": "0",
+				"cluster_win_mean": "2.41",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/other/conservatories",
+				"feature_value": "0",
+				"cluster_win_mean": "2.41",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/other/solar-panels",
+				"feature_value": "0",
+				"cluster_win_mean": "2.41",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/other",
+				"feature_value": "0",
+				"cluster_win_mean": "2.41",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/other/rooflights",
+				"feature_value": "0",
+				"cluster_win_mean": "2.41",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/other/fascias-soffits",
+				"feature_value": "0",
+				"cluster_win_mean": "2.41",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/other/block-paving",
+				"feature_value": "0",
+				"cluster_win_mean": "2.41",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/advertise-join-our-network",
+				"feature_value": "0",
+				"cluster_win_mean": "2.41",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/privacy-policy",
+				"feature_value": "0",
+				"cluster_win_mean": "2.41",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/double-glazing-prices",
+				"feature_value": "0",
+				"cluster_win_mean": "2.41",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/156-20120126-housing-crash-biggest-losers-in-real-estate-the-past-decade",
+				"feature_value": "0",
+				"cluster_win_mean": "2.41",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/154-20120126-prices",
+				"feature_value": "0",
+				"cluster_win_mean": "2.41",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/double-glazing-quotes",
+				"feature_value": "0",
+				"cluster_win_mean": "2.41",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/links",
+				"feature_value": "0",
+				"cluster_win_mean": "2.41",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/293-20120214-the-benefits-of-double-glazaing",
+				"feature_value": "0",
+				"cluster_win_mean": "2.41",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/414-20120720-ten-amazing-glass-etching-designs",
+				"feature_value": "0",
+				"cluster_win_mean": "2.41",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/doors/front-doors",
+				"feature_value": "0",
+				"cluster_win_mean": "2.41",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/doors/patio",
+				"feature_value": "0",
+				"cluster_win_mean": "2.41",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/doors/internal-doors",
+				"feature_value": "0",
+				"cluster_win_mean": "2.41",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/doors/french",
+				"feature_value": "0",
+				"cluster_win_mean": "2.41",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/doors/garage",
+				"feature_value": "0",
+				"cluster_win_mean": "2.41",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/windows/aluminium",
+				"feature_value": "0",
+				"cluster_win_mean": "2.41",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/windows/tilt-turn",
+				"feature_value": "0",
+				"cluster_win_mean": "2.41",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/windows/triple-glazing",
+				"feature_value": "0",
+				"cluster_win_mean": "2.41",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/windows/hardwood",
+				"feature_value": "0",
+				"cluster_win_mean": "2.41",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/windows/upvc",
+				"feature_value": "0",
+				"cluster_win_mean": "2.41",
+				"delta": "0"
+			}
+		],
+		"number_of_embedded_styles": [
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk",
+				"feature_value": "0",
+				"cluster_win_mean": "2.4",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/improvements",
+				"feature_value": "0",
+				"cluster_win_mean": "2.4",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/things-to-know",
+				"feature_value": "0",
+				"cluster_win_mean": "2.4",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/blog",
+				"feature_value": "0",
+				"cluster_win_mean": "2.4",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/about",
+				"feature_value": "0",
+				"cluster_win_mean": "2.4",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/subscribe-to-our-newsletter",
+				"feature_value": "0",
+				"cluster_win_mean": "2.4",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/windows",
+				"feature_value": "0",
+				"cluster_win_mean": "2.4",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/doors",
+				"feature_value": "0",
+				"cluster_win_mean": "2.4",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/other/conservatories",
+				"feature_value": "0",
+				"cluster_win_mean": "2.4",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/other/solar-panels",
+				"feature_value": "0",
+				"cluster_win_mean": "2.4",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/other",
+				"feature_value": "0",
+				"cluster_win_mean": "2.4",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/other/rooflights",
+				"feature_value": "0",
+				"cluster_win_mean": "2.4",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/other/fascias-soffits",
+				"feature_value": "0",
+				"cluster_win_mean": "2.4",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/other/block-paving",
+				"feature_value": "0",
+				"cluster_win_mean": "2.4",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/advertise-join-our-network",
+				"feature_value": "0",
+				"cluster_win_mean": "2.4",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/privacy-policy",
+				"feature_value": "0",
+				"cluster_win_mean": "2.4",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/double-glazing-prices",
+				"feature_value": "0",
+				"cluster_win_mean": "2.4",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/156-20120126-housing-crash-biggest-losers-in-real-estate-the-past-decade",
+				"feature_value": "0",
+				"cluster_win_mean": "2.4",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/154-20120126-prices",
+				"feature_value": "0",
+				"cluster_win_mean": "2.4",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/double-glazing-quotes",
+				"feature_value": "0",
+				"cluster_win_mean": "2.4",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/links",
+				"feature_value": "0",
+				"cluster_win_mean": "2.4",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/293-20120214-the-benefits-of-double-glazaing",
+				"feature_value": "0",
+				"cluster_win_mean": "2.4",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/414-20120720-ten-amazing-glass-etching-designs",
+				"feature_value": "0",
+				"cluster_win_mean": "2.4",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/doors/front-doors",
+				"feature_value": "0",
+				"cluster_win_mean": "2.4",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/doors/patio",
+				"feature_value": "0",
+				"cluster_win_mean": "2.4",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/doors/internal-doors",
+				"feature_value": "0",
+				"cluster_win_mean": "2.4",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/doors/french",
+				"feature_value": "0",
+				"cluster_win_mean": "2.4",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/doors/garage",
+				"feature_value": "0",
+				"cluster_win_mean": "2.4",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/windows/aluminium",
+				"feature_value": "0",
+				"cluster_win_mean": "2.4",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/windows/tilt-turn",
+				"feature_value": "0",
+				"cluster_win_mean": "2.4",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/windows/triple-glazing",
+				"feature_value": "0",
+				"cluster_win_mean": "2.4",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/windows/hardwood",
+				"feature_value": "0",
+				"cluster_win_mean": "2.4",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/windows/upvc",
+				"feature_value": "0",
+				"cluster_win_mean": "2.4",
+				"delta": "0"
+			}
+		],
+		"average_image_height": [
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/doors",
+				"feature_value": "356",
+				"cluster_win_mean": "70.91",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/156-20120126-housing-crash-biggest-losers-in-real-estate-the-past-decade",
+				"feature_value": "150",
+				"cluster_win_mean": "70.91",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/293-20120214-the-benefits-of-double-glazaing",
+				"feature_value": "527",
+				"cluster_win_mean": "70.91",
+				"delta": "0"
+			}
+		],
+		"html5_detected": [
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk",
+				"feature_value": "1",
+				"cluster_win_mean": "1",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/improvements",
+				"feature_value": "1",
+				"cluster_win_mean": "1",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/things-to-know",
+				"feature_value": "1",
+				"cluster_win_mean": "1",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/blog",
+				"feature_value": "1",
+				"cluster_win_mean": "1",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/about",
+				"feature_value": "1",
+				"cluster_win_mean": "1",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/subscribe-to-our-newsletter",
+				"feature_value": "1",
+				"cluster_win_mean": "1",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/windows",
+				"feature_value": "1",
+				"cluster_win_mean": "1",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/doors",
+				"feature_value": "1",
+				"cluster_win_mean": "1",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/other/conservatories",
+				"feature_value": "1",
+				"cluster_win_mean": "1",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/other/solar-panels",
+				"feature_value": "1",
+				"cluster_win_mean": "1",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/other",
+				"feature_value": "1",
+				"cluster_win_mean": "1",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/other/rooflights",
+				"feature_value": "1",
+				"cluster_win_mean": "1",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/other/fascias-soffits",
+				"feature_value": "1",
+				"cluster_win_mean": "1",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/other/block-paving",
+				"feature_value": "1",
+				"cluster_win_mean": "1",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/advertise-join-our-network",
+				"feature_value": "1",
+				"cluster_win_mean": "1",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/privacy-policy",
+				"feature_value": "1",
+				"cluster_win_mean": "1",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/double-glazing-prices",
+				"feature_value": "1",
+				"cluster_win_mean": "1",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/156-20120126-housing-crash-biggest-losers-in-real-estate-the-past-decade",
+				"feature_value": "1",
+				"cluster_win_mean": "1",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/154-20120126-prices",
+				"feature_value": "1",
+				"cluster_win_mean": "1",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/double-glazing-quotes",
+				"feature_value": "1",
+				"cluster_win_mean": "1",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/links",
+				"feature_value": "1",
+				"cluster_win_mean": "1",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/293-20120214-the-benefits-of-double-glazaing",
+				"feature_value": "1",
+				"cluster_win_mean": "1",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/414-20120720-ten-amazing-glass-etching-designs",
+				"feature_value": "1",
+				"cluster_win_mean": "1",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/doors/front-doors",
+				"feature_value": "1",
+				"cluster_win_mean": "1",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/doors/patio",
+				"feature_value": "1",
+				"cluster_win_mean": "1",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/doors/internal-doors",
+				"feature_value": "1",
+				"cluster_win_mean": "1",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/doors/french",
+				"feature_value": "1",
+				"cluster_win_mean": "1",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/doors/garage",
+				"feature_value": "1",
+				"cluster_win_mean": "1",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/windows/aluminium",
+				"feature_value": "1",
+				"cluster_win_mean": "1",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/windows/tilt-turn",
+				"feature_value": "1",
+				"cluster_win_mean": "1",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/windows/triple-glazing",
+				"feature_value": "1",
+				"cluster_win_mean": "1",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/windows/hardwood",
+				"feature_value": "1",
+				"cluster_win_mean": "1",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/windows/upvc",
+				"feature_value": "1",
+				"cluster_win_mean": "1",
+				"delta": "0"
+			}
+		],
+		"ratio_of_common_words_to_total": [
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk",
+				"feature_value": "0.82844",
+				"cluster_win_mean": "0.76",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/improvements",
+				"feature_value": "    0.8",
+				"cluster_win_mean": "0.76",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/things-to-know",
+				"feature_value": "0.85714",
+				"cluster_win_mean": "0.76",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/blog",
+				"feature_value": "0.82982",
+				"cluster_win_mean": "0.76",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/about",
+				"feature_value": "0.93299",
+				"cluster_win_mean": "0.76",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/subscribe-to-our-newsletter",
+				"feature_value": "0.66667",
+				"cluster_win_mean": "0.76",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/windows",
+				"feature_value": "0.82353",
+				"cluster_win_mean": "0.76",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/doors",
+				"feature_value": "0.85656",
+				"cluster_win_mean": "0.76",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/other/conservatories",
+				"feature_value": "0.72662",
+				"cluster_win_mean": "0.76",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/other/solar-panels",
+				"feature_value": "0.94309",
+				"cluster_win_mean": "0.76",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/other",
+				"feature_value": "0.79125",
+				"cluster_win_mean": "0.76",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/other/rooflights",
+				"feature_value": "0.75163",
+				"cluster_win_mean": "0.76",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/other/fascias-soffits",
+				"feature_value": "0.72727",
+				"cluster_win_mean": "0.76",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/other/block-paving",
+				"feature_value": "0.68966",
+				"cluster_win_mean": "0.76",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/advertise-join-our-network",
+				"feature_value": "0.83969",
+				"cluster_win_mean": "0.76",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/wp-content/themes/doubleglazing_2.0/getaquote.php",
+				"feature_value": "      1",
+				"cluster_win_mean": "0.74",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/privacy-policy",
+				"feature_value": "0.91275",
+				"cluster_win_mean": "0.76",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/double-glazing-prices",
+				"feature_value": "0.89409",
+				"cluster_win_mean": "0.76",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/156-20120126-housing-crash-biggest-losers-in-real-estate-the-past-decade",
+				"feature_value": "0.83575",
+				"cluster_win_mean": "0.76",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/154-20120126-prices",
+				"feature_value": "0.89409",
+				"cluster_win_mean": "0.76",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/double-glazing-quotes",
+				"feature_value": "0.79798",
+				"cluster_win_mean": "0.76",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/links",
+				"feature_value": "0.85185",
+				"cluster_win_mean": "0.76",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/293-20120214-the-benefits-of-double-glazaing",
+				"feature_value": "0.78571",
+				"cluster_win_mean": "0.76",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/414-20120720-ten-amazing-glass-etching-designs",
+				"feature_value": "  0.786",
+				"cluster_win_mean": "0.76",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/doors/front-doors",
+				"feature_value": "0.90625",
+				"cluster_win_mean": "0.76",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/doors/patio",
+				"feature_value": "0.81567",
+				"cluster_win_mean": "0.76",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/doors/internal-doors",
+				"feature_value": "0.83178",
+				"cluster_win_mean": "0.76",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/doors/french",
+				"feature_value": "0.86331",
+				"cluster_win_mean": "0.76",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/doors/garage",
+				"feature_value": "0.88559",
+				"cluster_win_mean": "0.76",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/windows/aluminium",
+				"feature_value": "0.86667",
+				"cluster_win_mean": "0.76",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/windows/tilt-turn",
+				"feature_value": "0.74545",
+				"cluster_win_mean": "0.76",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/windows/triple-glazing",
+				"feature_value": "    0.7",
+				"cluster_win_mean": "0.76",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/windows/hardwood",
+				"feature_value": "0.83099",
+				"cluster_win_mean": "0.76",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/windows/upvc",
+				"feature_value": "0.83544",
+				"cluster_win_mean": "0.76",
+				"delta": "0"
+			}
+		],
+		"average_number_of_words_in_anchor_text": [
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk",
+				"feature_value": "1",
+				"cluster_win_mean": "2.32",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/improvements",
+				"feature_value": "1",
+				"cluster_win_mean": "2.32",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/things-to-know",
+				"feature_value": "1",
+				"cluster_win_mean": "2.32",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/blog",
+				"feature_value": "2",
+				"cluster_win_mean": "2.32",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/about",
+				"feature_value": "1",
+				"cluster_win_mean": "2.32",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/subscribe-to-our-newsletter",
+				"feature_value": "1",
+				"cluster_win_mean": "2.32",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/windows",
+				"feature_value": "1",
+				"cluster_win_mean": "2.32",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/doors",
+				"feature_value": "1",
+				"cluster_win_mean": "2.32",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/other/conservatories",
+				"feature_value": "1",
+				"cluster_win_mean": "2.32",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/other/solar-panels",
+				"feature_value": "1",
+				"cluster_win_mean": "2.32",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/other",
+				"feature_value": "1",
+				"cluster_win_mean": "2.32",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/other/rooflights",
+				"feature_value": "1",
+				"cluster_win_mean": "2.32",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/other/fascias-soffits",
+				"feature_value": "1",
+				"cluster_win_mean": "2.32",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/other/block-paving",
+				"feature_value": "1",
+				"cluster_win_mean": "2.32",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/advertise-join-our-network",
+				"feature_value": "1",
+				"cluster_win_mean": "2.32",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/privacy-policy",
+				"feature_value": "1",
+				"cluster_win_mean": "2.32",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/double-glazing-prices",
+				"feature_value": "1",
+				"cluster_win_mean": "2.32",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/156-20120126-housing-crash-biggest-losers-in-real-estate-the-past-decade",
+				"feature_value": "1",
+				"cluster_win_mean": "2.32",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/154-20120126-prices",
+				"feature_value": "1",
+				"cluster_win_mean": "2.32",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/double-glazing-quotes",
+				"feature_value": "1",
+				"cluster_win_mean": "2.32",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/links",
+				"feature_value": "1",
+				"cluster_win_mean": "2.32",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/293-20120214-the-benefits-of-double-glazaing",
+				"feature_value": "1",
+				"cluster_win_mean": "2.32",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/414-20120720-ten-amazing-glass-etching-designs",
+				"feature_value": "1",
+				"cluster_win_mean": "2.32",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/doors/front-doors",
+				"feature_value": "1",
+				"cluster_win_mean": "2.32",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/doors/patio",
+				"feature_value": "1",
+				"cluster_win_mean": "2.32",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/doors/internal-doors",
+				"feature_value": "1",
+				"cluster_win_mean": "2.32",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/doors/french",
+				"feature_value": "1",
+				"cluster_win_mean": "2.32",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/doors/garage",
+				"feature_value": "1",
+				"cluster_win_mean": "2.32",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/windows/aluminium",
+				"feature_value": "1",
+				"cluster_win_mean": "2.32",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/windows/tilt-turn",
+				"feature_value": "1",
+				"cluster_win_mean": "2.32",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/windows/triple-glazing",
+				"feature_value": "1",
+				"cluster_win_mean": "2.32",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/windows/hardwood",
+				"feature_value": "1",
+				"cluster_win_mean": "2.32",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/windows/upvc",
+				"feature_value": "1",
+				"cluster_win_mean": "2.32",
+				"delta": "0"
+			}
+		],
+		"number_of_embedded_javascripts": [
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk",
+				"feature_value": "2",
+				"cluster_win_mean": "5.02",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/improvements",
+				"feature_value": "2",
+				"cluster_win_mean": "5.02",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/things-to-know",
+				"feature_value": "2",
+				"cluster_win_mean": "5.02",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/blog",
+				"feature_value": "2",
+				"cluster_win_mean": "5.02",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/about",
+				"feature_value": "2",
+				"cluster_win_mean": "5.02",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/subscribe-to-our-newsletter",
+				"feature_value": "2",
+				"cluster_win_mean": "5.02",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/windows",
+				"feature_value": "2",
+				"cluster_win_mean": "5.02",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/doors",
+				"feature_value": "2",
+				"cluster_win_mean": "5.02",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/other/conservatories",
+				"feature_value": "2",
+				"cluster_win_mean": "5.02",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/other/solar-panels",
+				"feature_value": "2",
+				"cluster_win_mean": "5.02",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/other",
+				"feature_value": "2",
+				"cluster_win_mean": "5.02",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/other/rooflights",
+				"feature_value": "2",
+				"cluster_win_mean": "5.02",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/other/fascias-soffits",
+				"feature_value": "2",
+				"cluster_win_mean": "5.02",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/other/block-paving",
+				"feature_value": "2",
+				"cluster_win_mean": "5.02",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/advertise-join-our-network",
+				"feature_value": "2",
+				"cluster_win_mean": "5.02",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/privacy-policy",
+				"feature_value": "2",
+				"cluster_win_mean": "5.02",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/double-glazing-prices",
+				"feature_value": "2",
+				"cluster_win_mean": "5.02",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/156-20120126-housing-crash-biggest-losers-in-real-estate-the-past-decade",
+				"feature_value": "2",
+				"cluster_win_mean": "5.02",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/154-20120126-prices",
+				"feature_value": "2",
+				"cluster_win_mean": "5.02",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/double-glazing-quotes",
+				"feature_value": "2",
+				"cluster_win_mean": "5.02",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/links",
+				"feature_value": "2",
+				"cluster_win_mean": "5.02",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/293-20120214-the-benefits-of-double-glazaing",
+				"feature_value": "2",
+				"cluster_win_mean": "5.02",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/414-20120720-ten-amazing-glass-etching-designs",
+				"feature_value": "2",
+				"cluster_win_mean": "5.02",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/doors/front-doors",
+				"feature_value": "2",
+				"cluster_win_mean": "5.02",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/doors/patio",
+				"feature_value": "2",
+				"cluster_win_mean": "5.02",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/doors/internal-doors",
+				"feature_value": "2",
+				"cluster_win_mean": "5.02",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/doors/french",
+				"feature_value": "2",
+				"cluster_win_mean": "5.02",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/doors/garage",
+				"feature_value": "2",
+				"cluster_win_mean": "5.02",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/windows/aluminium",
+				"feature_value": "2",
+				"cluster_win_mean": "5.02",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/windows/tilt-turn",
+				"feature_value": "2",
+				"cluster_win_mean": "5.02",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/windows/triple-glazing",
+				"feature_value": "2",
+				"cluster_win_mean": "5.02",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/windows/hardwood",
+				"feature_value": "2",
+				"cluster_win_mean": "5.02",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/windows/upvc",
+				"feature_value": "2",
+				"cluster_win_mean": "5.02",
+				"delta": "0"
+			}
+		],
+		"number_of_external_css_styles": [
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk",
+				"feature_value": "9",
+				"cluster_win_mean": "9.59",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/improvements",
+				"feature_value": "9",
+				"cluster_win_mean": "9.59",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/things-to-know",
+				"feature_value": "9",
+				"cluster_win_mean": "9.59",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/blog",
+				"feature_value": "9",
+				"cluster_win_mean": "9.59",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/about",
+				"feature_value": "9",
+				"cluster_win_mean": "9.59",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/subscribe-to-our-newsletter",
+				"feature_value": "9",
+				"cluster_win_mean": "9.59",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/windows",
+				"feature_value": "9",
+				"cluster_win_mean": "9.59",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/doors",
+				"feature_value": "9",
+				"cluster_win_mean": "9.59",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/other/conservatories",
+				"feature_value": "9",
+				"cluster_win_mean": "9.59",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/other/solar-panels",
+				"feature_value": "9",
+				"cluster_win_mean": "9.59",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/other",
+				"feature_value": "9",
+				"cluster_win_mean": "9.59",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/other/rooflights",
+				"feature_value": "9",
+				"cluster_win_mean": "9.59",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/other/fascias-soffits",
+				"feature_value": "9",
+				"cluster_win_mean": "9.59",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/other/block-paving",
+				"feature_value": "9",
+				"cluster_win_mean": "9.59",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/advertise-join-our-network",
+				"feature_value": "9",
+				"cluster_win_mean": "9.59",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/wp-content/themes/doubleglazing_2.0/getaquote.php",
+				"feature_value": "0",
+				"cluster_win_mean": "1.24",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/privacy-policy",
+				"feature_value": "9",
+				"cluster_win_mean": "9.59",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/double-glazing-prices",
+				"feature_value": "9",
+				"cluster_win_mean": "9.59",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/156-20120126-housing-crash-biggest-losers-in-real-estate-the-past-decade",
+				"feature_value": "9",
+				"cluster_win_mean": "9.59",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/154-20120126-prices",
+				"feature_value": "9",
+				"cluster_win_mean": "9.59",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/double-glazing-quotes",
+				"feature_value": "9",
+				"cluster_win_mean": "9.59",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/links",
+				"feature_value": "9",
+				"cluster_win_mean": "9.59",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/293-20120214-the-benefits-of-double-glazaing",
+				"feature_value": "9",
+				"cluster_win_mean": "9.59",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/414-20120720-ten-amazing-glass-etching-designs",
+				"feature_value": "9",
+				"cluster_win_mean": "9.59",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/doors/front-doors",
+				"feature_value": "9",
+				"cluster_win_mean": "9.59",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/doors/patio",
+				"feature_value": "9",
+				"cluster_win_mean": "9.59",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/doors/internal-doors",
+				"feature_value": "9",
+				"cluster_win_mean": "9.59",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/doors/french",
+				"feature_value": "9",
+				"cluster_win_mean": "9.59",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/doors/garage",
+				"feature_value": "9",
+				"cluster_win_mean": "9.59",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/windows/aluminium",
+				"feature_value": "9",
+				"cluster_win_mean": "9.59",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/windows/tilt-turn",
+				"feature_value": "9",
+				"cluster_win_mean": "9.59",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/windows/triple-glazing",
+				"feature_value": "9",
+				"cluster_win_mean": "9.59",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/windows/hardwood",
+				"feature_value": "9",
+				"cluster_win_mean": "9.59",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/windows/upvc",
+				"feature_value": "9",
+				"cluster_win_mean": "9.59",
+				"delta": "0"
+			}
+		],
+		"number_of_images_in_body": [
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/improvements",
+				"feature_value": "8",
+				"cluster_win_mean": " 4.88",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/things-to-know",
+				"feature_value": "8",
+				"cluster_win_mean": " 4.88",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/blog",
+				"feature_value": "8",
+				"cluster_win_mean": " 4.88",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/about",
+				"feature_value": "8",
+				"cluster_win_mean": " 4.88",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/subscribe-to-our-newsletter",
+				"feature_value": "8",
+				"cluster_win_mean": " 4.88",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/other/conservatories",
+				"feature_value": "7",
+				"cluster_win_mean": " 4.88",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/other/solar-panels",
+				"feature_value": "7",
+				"cluster_win_mean": " 4.88",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/other",
+				"feature_value": "7",
+				"cluster_win_mean": " 4.88",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/other/rooflights",
+				"feature_value": "7",
+				"cluster_win_mean": " 4.88",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/other/fascias-soffits",
+				"feature_value": "7",
+				"cluster_win_mean": " 4.88",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/other/block-paving",
+				"feature_value": "7",
+				"cluster_win_mean": " 4.88",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/advertise-join-our-network",
+				"feature_value": "8",
+				"cluster_win_mean": " 4.88",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/wp-content/themes/doubleglazing_2.0/getaquote.php",
+				"feature_value": "2",
+				"cluster_win_mean": "17.95",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/privacy-policy",
+				"feature_value": "8",
+				"cluster_win_mean": " 4.88",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/double-glazing-prices",
+				"feature_value": "7",
+				"cluster_win_mean": " 4.88",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/154-20120126-prices",
+				"feature_value": "7",
+				"cluster_win_mean": " 4.88",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/double-glazing-quotes",
+				"feature_value": "8",
+				"cluster_win_mean": " 4.88",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/links",
+				"feature_value": "8",
+				"cluster_win_mean": " 4.88",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/293-20120214-the-benefits-of-double-glazaing",
+				"feature_value": "8",
+				"cluster_win_mean": " 4.88",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/doors/front-doors",
+				"feature_value": "7",
+				"cluster_win_mean": " 4.88",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/doors/patio",
+				"feature_value": "7",
+				"cluster_win_mean": " 4.88",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/doors/internal-doors",
+				"feature_value": "7",
+				"cluster_win_mean": " 4.88",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/doors/french",
+				"feature_value": "7",
+				"cluster_win_mean": " 4.88",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/doors/garage",
+				"feature_value": "7",
+				"cluster_win_mean": " 4.88",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/windows/aluminium",
+				"feature_value": "7",
+				"cluster_win_mean": " 4.88",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/windows/tilt-turn",
+				"feature_value": "7",
+				"cluster_win_mean": " 4.88",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/windows/triple-glazing",
+				"feature_value": "7",
+				"cluster_win_mean": " 4.88",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/windows/hardwood",
+				"feature_value": "7",
+				"cluster_win_mean": " 4.88",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/windows/upvc",
+				"feature_value": "7",
+				"cluster_win_mean": " 4.88",
+				"delta": "0"
+			}
+		]
+	},
+	"harmful": {
+		"average_backlink_dale_chall_readability": [
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk",
+				"feature_value": "5.6353",
+				"cluster_win_mean": "8.9",
+				"delta": "3.27"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/improvements",
+				"feature_value": "     0",
+				"cluster_win_mean": "8.9",
+				"delta": " 8.9"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/things-to-know",
+				"feature_value": "     0",
+				"cluster_win_mean": "8.9",
+				"delta": " 8.9"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/blog",
+				"feature_value": "     0",
+				"cluster_win_mean": "8.9",
+				"delta": " 8.9"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/about",
+				"feature_value": "     0",
+				"cluster_win_mean": "8.9",
+				"delta": " 8.9"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/subscribe-to-our-newsletter",
+				"feature_value": "     0",
+				"cluster_win_mean": "8.9",
+				"delta": " 8.9"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/windows",
+				"feature_value": "     0",
+				"cluster_win_mean": "8.9",
+				"delta": " 8.9"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/doors",
+				"feature_value": "     0",
+				"cluster_win_mean": "8.9",
+				"delta": " 8.9"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/other/conservatories",
+				"feature_value": "     0",
+				"cluster_win_mean": "8.9",
+				"delta": " 8.9"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/other/solar-panels",
+				"feature_value": "     0",
+				"cluster_win_mean": "8.9",
+				"delta": " 8.9"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/other",
+				"feature_value": "     0",
+				"cluster_win_mean": "8.9",
+				"delta": " 8.9"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/other/rooflights",
+				"feature_value": "     0",
+				"cluster_win_mean": "8.9",
+				"delta": " 8.9"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/other/fascias-soffits",
+				"feature_value": "     0",
+				"cluster_win_mean": "8.9",
+				"delta": " 8.9"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/other/block-paving",
+				"feature_value": "     0",
+				"cluster_win_mean": "8.9",
+				"delta": " 8.9"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/advertise-join-our-network",
+				"feature_value": "     0",
+				"cluster_win_mean": "8.9",
+				"delta": " 8.9"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/privacy-policy",
+				"feature_value": "     0",
+				"cluster_win_mean": "8.9",
+				"delta": " 8.9"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/double-glazing-prices",
+				"feature_value": "     0",
+				"cluster_win_mean": "8.9",
+				"delta": " 8.9"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/156-20120126-housing-crash-biggest-losers-in-real-estate-the-past-decade",
+				"feature_value": "     0",
+				"cluster_win_mean": "8.9",
+				"delta": " 8.9"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/154-20120126-prices",
+				"feature_value": "     0",
+				"cluster_win_mean": "8.9",
+				"delta": " 8.9"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/double-glazing-quotes",
+				"feature_value": "     0",
+				"cluster_win_mean": "8.9",
+				"delta": " 8.9"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/links",
+				"feature_value": "     0",
+				"cluster_win_mean": "8.9",
+				"delta": " 8.9"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/293-20120214-the-benefits-of-double-glazaing",
+				"feature_value": "     0",
+				"cluster_win_mean": "8.9",
+				"delta": " 8.9"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/414-20120720-ten-amazing-glass-etching-designs",
+				"feature_value": "     0",
+				"cluster_win_mean": "8.9",
+				"delta": " 8.9"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/doors/front-doors",
+				"feature_value": "     0",
+				"cluster_win_mean": "8.9",
+				"delta": " 8.9"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/doors/patio",
+				"feature_value": "     0",
+				"cluster_win_mean": "8.9",
+				"delta": " 8.9"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/doors/internal-doors",
+				"feature_value": "     0",
+				"cluster_win_mean": "8.9",
+				"delta": " 8.9"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/doors/french",
+				"feature_value": "     0",
+				"cluster_win_mean": "8.9",
+				"delta": " 8.9"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/doors/garage",
+				"feature_value": "     0",
+				"cluster_win_mean": "8.9",
+				"delta": " 8.9"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/windows/aluminium",
+				"feature_value": "     0",
+				"cluster_win_mean": "8.9",
+				"delta": " 8.9"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/windows/tilt-turn",
+				"feature_value": "     0",
+				"cluster_win_mean": "8.9",
+				"delta": " 8.9"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/windows/triple-glazing",
+				"feature_value": "     0",
+				"cluster_win_mean": "8.9",
+				"delta": " 8.9"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/windows/hardwood",
+				"feature_value": "     0",
+				"cluster_win_mean": "8.9",
+				"delta": " 8.9"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/windows/upvc",
+				"feature_value": "     0",
+				"cluster_win_mean": "8.9",
+				"delta": " 8.9"
+			}
+		],
+		"average_backlink_flesch_reading_ease": [
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk",
+				"feature_value": "58.2225",
+				"cluster_win_mean": "42.42",
+				"delta": "-15.8"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/wp-content/themes/doubleglazing_2.0/getaquote.php",
+				"feature_value": "      0",
+				"cluster_win_mean": "48.97",
+				"delta": "48.97"
+			}
+		],
+		"average_backlink_flesch_kincaid_grade": [
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk",
+				"feature_value": "7.0017",
+				"cluster_win_mean": "12.2",
+				"delta": "5.19"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/improvements",
+				"feature_value": "     0",
+				"cluster_win_mean": "12.2",
+				"delta": "12.2"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/things-to-know",
+				"feature_value": "     0",
+				"cluster_win_mean": "12.2",
+				"delta": "12.2"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/blog",
+				"feature_value": "     0",
+				"cluster_win_mean": "12.2",
+				"delta": "12.2"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/about",
+				"feature_value": "     0",
+				"cluster_win_mean": "12.2",
+				"delta": "12.2"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/subscribe-to-our-newsletter",
+				"feature_value": "     0",
+				"cluster_win_mean": "12.2",
+				"delta": "12.2"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/windows",
+				"feature_value": "     0",
+				"cluster_win_mean": "12.2",
+				"delta": "12.2"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/doors",
+				"feature_value": "     0",
+				"cluster_win_mean": "12.2",
+				"delta": "12.2"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/other/conservatories",
+				"feature_value": "     0",
+				"cluster_win_mean": "12.2",
+				"delta": "12.2"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/other/solar-panels",
+				"feature_value": "     0",
+				"cluster_win_mean": "12.2",
+				"delta": "12.2"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/other",
+				"feature_value": "     0",
+				"cluster_win_mean": "12.2",
+				"delta": "12.2"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/other/rooflights",
+				"feature_value": "     0",
+				"cluster_win_mean": "12.2",
+				"delta": "12.2"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/other/fascias-soffits",
+				"feature_value": "     0",
+				"cluster_win_mean": "12.2",
+				"delta": "12.2"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/other/block-paving",
+				"feature_value": "     0",
+				"cluster_win_mean": "12.2",
+				"delta": "12.2"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/advertise-join-our-network",
+				"feature_value": "     0",
+				"cluster_win_mean": "12.2",
+				"delta": "12.2"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/privacy-policy",
+				"feature_value": "     0",
+				"cluster_win_mean": "12.2",
+				"delta": "12.2"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/double-glazing-prices",
+				"feature_value": "     0",
+				"cluster_win_mean": "12.2",
+				"delta": "12.2"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/156-20120126-housing-crash-biggest-losers-in-real-estate-the-past-decade",
+				"feature_value": "     0",
+				"cluster_win_mean": "12.2",
+				"delta": "12.2"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/154-20120126-prices",
+				"feature_value": "     0",
+				"cluster_win_mean": "12.2",
+				"delta": "12.2"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/double-glazing-quotes",
+				"feature_value": "     0",
+				"cluster_win_mean": "12.2",
+				"delta": "12.2"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/links",
+				"feature_value": "     0",
+				"cluster_win_mean": "12.2",
+				"delta": "12.2"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/293-20120214-the-benefits-of-double-glazaing",
+				"feature_value": "     0",
+				"cluster_win_mean": "12.2",
+				"delta": "12.2"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/414-20120720-ten-amazing-glass-etching-designs",
+				"feature_value": "     0",
+				"cluster_win_mean": "12.2",
+				"delta": "12.2"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/doors/front-doors",
+				"feature_value": "     0",
+				"cluster_win_mean": "12.2",
+				"delta": "12.2"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/doors/patio",
+				"feature_value": "     0",
+				"cluster_win_mean": "12.2",
+				"delta": "12.2"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/doors/internal-doors",
+				"feature_value": "     0",
+				"cluster_win_mean": "12.2",
+				"delta": "12.2"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/doors/french",
+				"feature_value": "     0",
+				"cluster_win_mean": "12.2",
+				"delta": "12.2"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/doors/garage",
+				"feature_value": "     0",
+				"cluster_win_mean": "12.2",
+				"delta": "12.2"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/windows/aluminium",
+				"feature_value": "     0",
+				"cluster_win_mean": "12.2",
+				"delta": "12.2"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/windows/tilt-turn",
+				"feature_value": "     0",
+				"cluster_win_mean": "12.2",
+				"delta": "12.2"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/windows/triple-glazing",
+				"feature_value": "     0",
+				"cluster_win_mean": "12.2",
+				"delta": "12.2"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/windows/hardwood",
+				"feature_value": "     0",
+				"cluster_win_mean": "12.2",
+				"delta": "12.2"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/windows/upvc",
+				"feature_value": "     0",
+				"cluster_win_mean": "12.2",
+				"delta": "12.2"
+			}
+		],
+		"maximum_length_of_h1": [
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/windows",
+				"feature_value": "14",
+				"cluster_win_mean": "24.98",
+				"delta": "10.98"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/wp-content/themes/doubleglazing_2.0/getaquote.php",
+				"feature_value": "26",
+				"cluster_win_mean": "77.29",
+				"delta": "51.29"
+			}
+		],
+		"average_length_of_h1": {
+			"html_id": "http://www.doubleglazinglocal.co.uk/wp-content/themes/doubleglazing_2.0/getaquote.php",
+			"feature_value": "26",
+			"cluster_win_mean": "50.38",
+			"delta": "24.38"
+		},
+		"number_of_root_relative_internal_links": {
+			"html_id": "http://www.doubleglazinglocal.co.uk/wp-content/themes/doubleglazing_2.0/getaquote.php",
+			"feature_value": "0",
+			"cluster_win_mean": "1",
+			"delta": "1"
+		},
+		"number_of_hyperlinks": [
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk",
+				"feature_value": "44",
+				"cluster_win_mean": "71.62",
+				"delta": "27.62"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/improvements",
+				"feature_value": "32",
+				"cluster_win_mean": "71.62",
+				"delta": "39.62"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/things-to-know",
+				"feature_value": "32",
+				"cluster_win_mean": "71.62",
+				"delta": "39.62"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/blog",
+				"feature_value": "43",
+				"cluster_win_mean": "71.62",
+				"delta": "28.62"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/about",
+				"feature_value": "32",
+				"cluster_win_mean": "71.62",
+				"delta": "39.62"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/subscribe-to-our-newsletter",
+				"feature_value": "32",
+				"cluster_win_mean": "71.62",
+				"delta": "39.62"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/windows",
+				"feature_value": "46",
+				"cluster_win_mean": "71.62",
+				"delta": "25.62"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/doors",
+				"feature_value": "47",
+				"cluster_win_mean": "71.62",
+				"delta": "24.62"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/other/conservatories",
+				"feature_value": "32",
+				"cluster_win_mean": "71.62",
+				"delta": "39.62"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/other/solar-panels",
+				"feature_value": "32",
+				"cluster_win_mean": "71.62",
+				"delta": "39.62"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/other",
+				"feature_value": "35",
+				"cluster_win_mean": "71.62",
+				"delta": "36.62"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/other/rooflights",
+				"feature_value": "33",
+				"cluster_win_mean": "71.62",
+				"delta": "38.62"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/other/fascias-soffits",
+				"feature_value": "33",
+				"cluster_win_mean": "71.62",
+				"delta": "38.62"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/other/block-paving",
+				"feature_value": "33",
+				"cluster_win_mean": "71.62",
+				"delta": "38.62"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/advertise-join-our-network",
+				"feature_value": "32",
+				"cluster_win_mean": "71.62",
+				"delta": "39.62"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/wp-content/themes/doubleglazing_2.0/getaquote.php",
+				"feature_value": " 0",
+				"cluster_win_mean": "91.03",
+				"delta": "91.03"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/privacy-policy",
+				"feature_value": "32",
+				"cluster_win_mean": "71.62",
+				"delta": "39.62"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/double-glazing-prices",
+				"feature_value": "31",
+				"cluster_win_mean": "71.62",
+				"delta": "40.62"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/156-20120126-housing-crash-biggest-losers-in-real-estate-the-past-decade",
+				"feature_value": "39",
+				"cluster_win_mean": "71.62",
+				"delta": "32.62"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/154-20120126-prices",
+				"feature_value": "31",
+				"cluster_win_mean": "71.62",
+				"delta": "40.62"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/double-glazing-quotes",
+				"feature_value": "32",
+				"cluster_win_mean": "71.62",
+				"delta": "39.62"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/links",
+				"feature_value": "36",
+				"cluster_win_mean": "71.62",
+				"delta": "35.62"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/293-20120214-the-benefits-of-double-glazaing",
+				"feature_value": "33",
+				"cluster_win_mean": "71.62",
+				"delta": "38.62"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/414-20120720-ten-amazing-glass-etching-designs",
+				"feature_value": "41",
+				"cluster_win_mean": "71.62",
+				"delta": "30.62"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/doors/front-doors",
+				"feature_value": "32",
+				"cluster_win_mean": "71.62",
+				"delta": "39.62"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/doors/patio",
+				"feature_value": "33",
+				"cluster_win_mean": "71.62",
+				"delta": "38.62"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/doors/internal-doors",
+				"feature_value": "33",
+				"cluster_win_mean": "71.62",
+				"delta": "38.62"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/doors/french",
+				"feature_value": "33",
+				"cluster_win_mean": "71.62",
+				"delta": "38.62"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/doors/garage",
+				"feature_value": "32",
+				"cluster_win_mean": "71.62",
+				"delta": "39.62"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/windows/aluminium",
+				"feature_value": "32",
+				"cluster_win_mean": "71.62",
+				"delta": "39.62"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/windows/tilt-turn",
+				"feature_value": "33",
+				"cluster_win_mean": "71.62",
+				"delta": "38.62"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/windows/triple-glazing",
+				"feature_value": "33",
+				"cluster_win_mean": "71.62",
+				"delta": "38.62"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/windows/hardwood",
+				"feature_value": "33",
+				"cluster_win_mean": "71.62",
+				"delta": "38.62"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/windows/upvc",
+				"feature_value": "32",
+				"cluster_win_mean": "71.62",
+				"delta": "39.62"
+			}
+		],
+		"number_of_hyperlinks_with_file": [
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/windows",
+				"feature_value": "16",
+				"cluster_win_mean": "8.64",
+				"delta": " -7.36"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/doors",
+				"feature_value": "17",
+				"cluster_win_mean": "8.64",
+				"delta": " -8.36"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/wp-content/themes/doubleglazing_2.0/getaquote.php",
+				"feature_value": " 0",
+				"cluster_win_mean": "6.25",
+				"delta": "  6.25"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/156-20120126-housing-crash-biggest-losers-in-real-estate-the-past-decade",
+				"feature_value": "17",
+				"cluster_win_mean": "8.64",
+				"delta": " -8.36"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/414-20120720-ten-amazing-glass-etching-designs",
+				"feature_value": "20",
+				"cluster_win_mean": "8.64",
+				"delta": "-11.36"
+			}
+		],
+		"number_of_images": [
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk",
+				"feature_value": "14",
+				"cluster_win_mean": " 6.76",
+				"delta": " -7.24"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/windows",
+				"feature_value": "18",
+				"cluster_win_mean": " 6.76",
+				"delta": "-11.24"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/doors",
+				"feature_value": "19",
+				"cluster_win_mean": " 6.76",
+				"delta": "-12.24"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/wp-content/themes/doubleglazing_2.0/getaquote.php",
+				"feature_value": " 2",
+				"cluster_win_mean": "17.95",
+				"delta": " 15.95"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/156-20120126-housing-crash-biggest-losers-in-real-estate-the-past-decade",
+				"feature_value": "14",
+				"cluster_win_mean": " 6.76",
+				"delta": " -7.24"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/414-20120720-ten-amazing-glass-etching-designs",
+				"feature_value": "17",
+				"cluster_win_mean": " 6.76",
+				"delta": "-10.24"
+			}
+		],
+		"number_of_external_links": [
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk",
+				"feature_value": " 2",
+				"cluster_win_mean": "25.41",
+				"delta": "23.41"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/improvements",
+				"feature_value": "19",
+				"cluster_win_mean": "25.41",
+				"delta": " 6.41"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/things-to-know",
+				"feature_value": "19",
+				"cluster_win_mean": "25.41",
+				"delta": " 6.41"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/about",
+				"feature_value": "18",
+				"cluster_win_mean": "25.41",
+				"delta": " 7.41"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/subscribe-to-our-newsletter",
+				"feature_value": "20",
+				"cluster_win_mean": "25.41",
+				"delta": " 5.41"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/other/conservatories",
+				"feature_value": "20",
+				"cluster_win_mean": "25.41",
+				"delta": " 5.41"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/other/solar-panels",
+				"feature_value": "20",
+				"cluster_win_mean": "25.41",
+				"delta": " 5.41"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/other",
+				"feature_value": "17",
+				"cluster_win_mean": "25.41",
+				"delta": " 8.41"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/advertise-join-our-network",
+				"feature_value": "19",
+				"cluster_win_mean": "25.41",
+				"delta": " 6.41"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/wp-content/themes/doubleglazing_2.0/getaquote.php",
+				"feature_value": " 0",
+				"cluster_win_mean": "84.95",
+				"delta": "84.95"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/privacy-policy",
+				"feature_value": "19",
+				"cluster_win_mean": "25.41",
+				"delta": " 6.41"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/double-glazing-prices",
+				"feature_value": "20",
+				"cluster_win_mean": "25.41",
+				"delta": " 5.41"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/double-glazing-quotes",
+				"feature_value": "19",
+				"cluster_win_mean": "25.41",
+				"delta": " 6.41"
+			}
+		],
+		"number_of_hyperlinks_with_html": [
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk",
+				"feature_value": "30",
+				"cluster_win_mean": " 31.5",
+				"delta": "  1.5"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/improvements",
+				"feature_value": "21",
+				"cluster_win_mean": " 31.5",
+				"delta": " 10.5"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/things-to-know",
+				"feature_value": "21",
+				"cluster_win_mean": " 31.5",
+				"delta": " 10.5"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/blog",
+				"feature_value": "32",
+				"cluster_win_mean": " 31.5",
+				"delta": " -0.5"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/about",
+				"feature_value": "21",
+				"cluster_win_mean": " 31.5",
+				"delta": " 10.5"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/subscribe-to-our-newsletter",
+				"feature_value": "21",
+				"cluster_win_mean": " 31.5",
+				"delta": " 10.5"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/windows",
+				"feature_value": "30",
+				"cluster_win_mean": " 31.5",
+				"delta": "  1.5"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/doors",
+				"feature_value": "30",
+				"cluster_win_mean": " 31.5",
+				"delta": "  1.5"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/other/conservatories",
+				"feature_value": "22",
+				"cluster_win_mean": " 31.5",
+				"delta": "  9.5"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/other/solar-panels",
+				"feature_value": "22",
+				"cluster_win_mean": " 31.5",
+				"delta": "  9.5"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/other",
+				"feature_value": "25",
+				"cluster_win_mean": " 31.5",
+				"delta": "  6.5"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/other/rooflights",
+				"feature_value": "23",
+				"cluster_win_mean": " 31.5",
+				"delta": "  8.5"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/other/fascias-soffits",
+				"feature_value": "23",
+				"cluster_win_mean": " 31.5",
+				"delta": "  8.5"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/other/block-paving",
+				"feature_value": "23",
+				"cluster_win_mean": " 31.5",
+				"delta": "  8.5"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/advertise-join-our-network",
+				"feature_value": "21",
+				"cluster_win_mean": " 31.5",
+				"delta": " 10.5"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/wp-content/themes/doubleglazing_2.0/getaquote.php",
+				"feature_value": " 0",
+				"cluster_win_mean": "39.42",
+				"delta": "39.42"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/privacy-policy",
+				"feature_value": "21",
+				"cluster_win_mean": " 31.5",
+				"delta": " 10.5"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/double-glazing-prices",
+				"feature_value": "21",
+				"cluster_win_mean": " 31.5",
+				"delta": " 10.5"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/156-20120126-housing-crash-biggest-losers-in-real-estate-the-past-decade",
+				"feature_value": "22",
+				"cluster_win_mean": " 31.5",
+				"delta": "  9.5"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/154-20120126-prices",
+				"feature_value": "21",
+				"cluster_win_mean": " 31.5",
+				"delta": " 10.5"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/double-glazing-quotes",
+				"feature_value": "21",
+				"cluster_win_mean": " 31.5",
+				"delta": " 10.5"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/links",
+				"feature_value": "24",
+				"cluster_win_mean": " 31.5",
+				"delta": "  7.5"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/293-20120214-the-benefits-of-double-glazaing",
+				"feature_value": "22",
+				"cluster_win_mean": " 31.5",
+				"delta": "  9.5"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/414-20120720-ten-amazing-glass-etching-designs",
+				"feature_value": "21",
+				"cluster_win_mean": " 31.5",
+				"delta": " 10.5"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/doors/front-doors",
+				"feature_value": "22",
+				"cluster_win_mean": " 31.5",
+				"delta": "  9.5"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/doors/patio",
+				"feature_value": "23",
+				"cluster_win_mean": " 31.5",
+				"delta": "  8.5"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/doors/internal-doors",
+				"feature_value": "23",
+				"cluster_win_mean": " 31.5",
+				"delta": "  8.5"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/doors/french",
+				"feature_value": "23",
+				"cluster_win_mean": " 31.5",
+				"delta": "  8.5"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/doors/garage",
+				"feature_value": "22",
+				"cluster_win_mean": " 31.5",
+				"delta": "  9.5"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/windows/aluminium",
+				"feature_value": "22",
+				"cluster_win_mean": " 31.5",
+				"delta": "  9.5"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/windows/tilt-turn",
+				"feature_value": "23",
+				"cluster_win_mean": " 31.5",
+				"delta": "  8.5"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/windows/triple-glazing",
+				"feature_value": "23",
+				"cluster_win_mean": " 31.5",
+				"delta": "  8.5"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/windows/hardwood",
+				"feature_value": "23",
+				"cluster_win_mean": " 31.5",
+				"delta": "  8.5"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/windows/upvc",
+				"feature_value": "22",
+				"cluster_win_mean": " 31.5",
+				"delta": "  9.5"
+			}
+		],
+		"number_of_absolute_internal_links": [
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/improvements",
+				"feature_value": "2",
+				"cluster_win_mean": "12.62",
+				"delta": "10.62"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/things-to-know",
+				"feature_value": "2",
+				"cluster_win_mean": "12.62",
+				"delta": "10.62"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/blog",
+				"feature_value": "1",
+				"cluster_win_mean": "12.62",
+				"delta": "11.62"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/about",
+				"feature_value": "3",
+				"cluster_win_mean": "12.62",
+				"delta": " 9.62"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/subscribe-to-our-newsletter",
+				"feature_value": "1",
+				"cluster_win_mean": "12.62",
+				"delta": "11.62"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/other/conservatories",
+				"feature_value": "1",
+				"cluster_win_mean": "12.62",
+				"delta": "11.62"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/other/solar-panels",
+				"feature_value": "1",
+				"cluster_win_mean": "12.62",
+				"delta": "11.62"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/other/rooflights",
+				"feature_value": "0",
+				"cluster_win_mean": "12.62",
+				"delta": "12.62"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/other/fascias-soffits",
+				"feature_value": "0",
+				"cluster_win_mean": "12.62",
+				"delta": "12.62"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/other/block-paving",
+				"feature_value": "0",
+				"cluster_win_mean": "12.62",
+				"delta": "12.62"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/advertise-join-our-network",
+				"feature_value": "2",
+				"cluster_win_mean": "12.62",
+				"delta": "10.62"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/privacy-policy",
+				"feature_value": "2",
+				"cluster_win_mean": "12.62",
+				"delta": "10.62"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/double-glazing-prices",
+				"feature_value": "1",
+				"cluster_win_mean": "12.62",
+				"delta": "11.62"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/156-20120126-housing-crash-biggest-losers-in-real-estate-the-past-decade",
+				"feature_value": "0",
+				"cluster_win_mean": "12.62",
+				"delta": "12.62"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/154-20120126-prices",
+				"feature_value": "0",
+				"cluster_win_mean": "12.62",
+				"delta": "12.62"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/double-glazing-quotes",
+				"feature_value": "2",
+				"cluster_win_mean": "12.62",
+				"delta": "10.62"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/links",
+				"feature_value": "2",
+				"cluster_win_mean": "12.62",
+				"delta": "10.62"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/293-20120214-the-benefits-of-double-glazaing",
+				"feature_value": "0",
+				"cluster_win_mean": "12.62",
+				"delta": "12.62"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/414-20120720-ten-amazing-glass-etching-designs",
+				"feature_value": "0",
+				"cluster_win_mean": "12.62",
+				"delta": "12.62"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/doors/front-doors",
+				"feature_value": "0",
+				"cluster_win_mean": "12.62",
+				"delta": "12.62"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/doors/patio",
+				"feature_value": "0",
+				"cluster_win_mean": "12.62",
+				"delta": "12.62"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/doors/internal-doors",
+				"feature_value": "0",
+				"cluster_win_mean": "12.62",
+				"delta": "12.62"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/doors/french",
+				"feature_value": "0",
+				"cluster_win_mean": "12.62",
+				"delta": "12.62"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/doors/garage",
+				"feature_value": "0",
+				"cluster_win_mean": "12.62",
+				"delta": "12.62"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/windows/aluminium",
+				"feature_value": "0",
+				"cluster_win_mean": "12.62",
+				"delta": "12.62"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/windows/tilt-turn",
+				"feature_value": "0",
+				"cluster_win_mean": "12.62",
+				"delta": "12.62"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/windows/triple-glazing",
+				"feature_value": "0",
+				"cluster_win_mean": "12.62",
+				"delta": "12.62"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/windows/hardwood",
+				"feature_value": "0",
+				"cluster_win_mean": "12.62",
+				"delta": "12.62"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/windows/upvc",
+				"feature_value": "0",
+				"cluster_win_mean": "12.62",
+				"delta": "12.62"
+			}
+		],
+		"average_image_width": [
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk",
+				"feature_value": "0",
+				"cluster_win_mean": "134.35",
+				"delta": "134.35"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/improvements",
+				"feature_value": "0",
+				"cluster_win_mean": "134.35",
+				"delta": "134.35"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/things-to-know",
+				"feature_value": "0",
+				"cluster_win_mean": "134.35",
+				"delta": "134.35"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/blog",
+				"feature_value": "0",
+				"cluster_win_mean": "134.35",
+				"delta": "134.35"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/about",
+				"feature_value": "0",
+				"cluster_win_mean": "134.35",
+				"delta": "134.35"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/subscribe-to-our-newsletter",
+				"feature_value": "0",
+				"cluster_win_mean": "134.35",
+				"delta": "134.35"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/windows",
+				"feature_value": "0",
+				"cluster_win_mean": "134.35",
+				"delta": "134.35"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/other/conservatories",
+				"feature_value": "0",
+				"cluster_win_mean": "134.35",
+				"delta": "134.35"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/other/solar-panels",
+				"feature_value": "0",
+				"cluster_win_mean": "134.35",
+				"delta": "134.35"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/other",
+				"feature_value": "0",
+				"cluster_win_mean": "134.35",
+				"delta": "134.35"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/other/rooflights",
+				"feature_value": "0",
+				"cluster_win_mean": "134.35",
+				"delta": "134.35"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/other/fascias-soffits",
+				"feature_value": "0",
+				"cluster_win_mean": "134.35",
+				"delta": "134.35"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/other/block-paving",
+				"feature_value": "0",
+				"cluster_win_mean": "134.35",
+				"delta": "134.35"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/advertise-join-our-network",
+				"feature_value": "0",
+				"cluster_win_mean": "134.35",
+				"delta": "134.35"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/privacy-policy",
+				"feature_value": "0",
+				"cluster_win_mean": "134.35",
+				"delta": "134.35"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/double-glazing-prices",
+				"feature_value": "0",
+				"cluster_win_mean": "134.35",
+				"delta": "134.35"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/154-20120126-prices",
+				"feature_value": "0",
+				"cluster_win_mean": "134.35",
+				"delta": "134.35"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/double-glazing-quotes",
+				"feature_value": "0",
+				"cluster_win_mean": "134.35",
+				"delta": "134.35"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/links",
+				"feature_value": "0",
+				"cluster_win_mean": "134.35",
+				"delta": "134.35"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/doors/front-doors",
+				"feature_value": "0",
+				"cluster_win_mean": "134.35",
+				"delta": "134.35"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/doors/patio",
+				"feature_value": "0",
+				"cluster_win_mean": "134.35",
+				"delta": "134.35"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/doors/internal-doors",
+				"feature_value": "0",
+				"cluster_win_mean": "134.35",
+				"delta": "134.35"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/doors/french",
+				"feature_value": "0",
+				"cluster_win_mean": "134.35",
+				"delta": "134.35"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/doors/garage",
+				"feature_value": "0",
+				"cluster_win_mean": "134.35",
+				"delta": "134.35"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/windows/aluminium",
+				"feature_value": "0",
+				"cluster_win_mean": "134.35",
+				"delta": "134.35"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/windows/tilt-turn",
+				"feature_value": "0",
+				"cluster_win_mean": "134.35",
+				"delta": "134.35"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/windows/triple-glazing",
+				"feature_value": "0",
+				"cluster_win_mean": "134.35",
+				"delta": "134.35"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/windows/hardwood",
+				"feature_value": "0",
+				"cluster_win_mean": "134.35",
+				"delta": "134.35"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/windows/upvc",
+				"feature_value": "0",
+				"cluster_win_mean": "134.35",
+				"delta": "134.35"
+			}
+		],
+		"number_of_id_attribute_refs": [
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/improvements",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/things-to-know",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/blog",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/about",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/subscribe-to-our-newsletter",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/windows",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/doors",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/other/conservatories",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/other/solar-panels",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/other",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/other/rooflights",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/other/fascias-soffits",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/other/block-paving",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/advertise-join-our-network",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/wp-content/themes/doubleglazing_2.0/getaquote.php",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/privacy-policy",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/double-glazing-prices",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/156-20120126-housing-crash-biggest-losers-in-real-estate-the-past-decade",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/154-20120126-prices",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/double-glazing-quotes",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/links",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/293-20120214-the-benefits-of-double-glazaing",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/414-20120720-ten-amazing-glass-etching-designs",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/doors/front-doors",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/doors/patio",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/doors/internal-doors",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/doors/french",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/doors/garage",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/windows/aluminium",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/windows/tilt-turn",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/windows/triple-glazing",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/windows/hardwood",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/windows/upvc",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			}
+		],
+		"number_of_images_missing_alt": {
+			"html_id": "http://www.doubleglazinglocal.co.uk/wp-content/themes/doubleglazing_2.0/getaquote.php",
+			"feature_value": "0",
+			"cluster_win_mean": "17",
+			"delta": "17"
+		},
+		"number_of_h1_instances": [
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk",
+				"feature_value": "0",
+				"cluster_win_mean": "1.58",
+				"delta": "1.58"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/improvements",
+				"feature_value": "0",
+				"cluster_win_mean": "1.58",
+				"delta": "1.58"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/things-to-know",
+				"feature_value": "0",
+				"cluster_win_mean": "1.58",
+				"delta": "1.58"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/blog",
+				"feature_value": "0",
+				"cluster_win_mean": "1.58",
+				"delta": "1.58"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/about",
+				"feature_value": "0",
+				"cluster_win_mean": "1.58",
+				"delta": "1.58"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/subscribe-to-our-newsletter",
+				"feature_value": "0",
+				"cluster_win_mean": "1.58",
+				"delta": "1.58"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/other/conservatories",
+				"feature_value": "0",
+				"cluster_win_mean": "1.58",
+				"delta": "1.58"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/other/solar-panels",
+				"feature_value": "0",
+				"cluster_win_mean": "1.58",
+				"delta": "1.58"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/other",
+				"feature_value": "0",
+				"cluster_win_mean": "1.58",
+				"delta": "1.58"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/other/rooflights",
+				"feature_value": "0",
+				"cluster_win_mean": "1.58",
+				"delta": "1.58"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/other/fascias-soffits",
+				"feature_value": "0",
+				"cluster_win_mean": "1.58",
+				"delta": "1.58"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/other/block-paving",
+				"feature_value": "0",
+				"cluster_win_mean": "1.58",
+				"delta": "1.58"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/advertise-join-our-network",
+				"feature_value": "0",
+				"cluster_win_mean": "1.58",
+				"delta": "1.58"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/wp-content/themes/doubleglazing_2.0/getaquote.php",
+				"feature_value": "1",
+				"cluster_win_mean": "2.61",
+				"delta": "1.61"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/privacy-policy",
+				"feature_value": "0",
+				"cluster_win_mean": "1.58",
+				"delta": "1.58"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/double-glazing-prices",
+				"feature_value": "0",
+				"cluster_win_mean": "1.58",
+				"delta": "1.58"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/156-20120126-housing-crash-biggest-losers-in-real-estate-the-past-decade",
+				"feature_value": "0",
+				"cluster_win_mean": "1.58",
+				"delta": "1.58"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/154-20120126-prices",
+				"feature_value": "0",
+				"cluster_win_mean": "1.58",
+				"delta": "1.58"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/double-glazing-quotes",
+				"feature_value": "0",
+				"cluster_win_mean": "1.58",
+				"delta": "1.58"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/links",
+				"feature_value": "0",
+				"cluster_win_mean": "1.58",
+				"delta": "1.58"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/293-20120214-the-benefits-of-double-glazaing",
+				"feature_value": "0",
+				"cluster_win_mean": "1.58",
+				"delta": "1.58"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/414-20120720-ten-amazing-glass-etching-designs",
+				"feature_value": "0",
+				"cluster_win_mean": "1.58",
+				"delta": "1.58"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/doors/front-doors",
+				"feature_value": "0",
+				"cluster_win_mean": "1.58",
+				"delta": "1.58"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/doors/patio",
+				"feature_value": "0",
+				"cluster_win_mean": "1.58",
+				"delta": "1.58"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/doors/internal-doors",
+				"feature_value": "0",
+				"cluster_win_mean": "1.58",
+				"delta": "1.58"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/doors/french",
+				"feature_value": "0",
+				"cluster_win_mean": "1.58",
+				"delta": "1.58"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/doors/garage",
+				"feature_value": "0",
+				"cluster_win_mean": "1.58",
+				"delta": "1.58"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/windows/aluminium",
+				"feature_value": "0",
+				"cluster_win_mean": "1.58",
+				"delta": "1.58"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/windows/tilt-turn",
+				"feature_value": "0",
+				"cluster_win_mean": "1.58",
+				"delta": "1.58"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/windows/triple-glazing",
+				"feature_value": "0",
+				"cluster_win_mean": "1.58",
+				"delta": "1.58"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/windows/hardwood",
+				"feature_value": "0",
+				"cluster_win_mean": "1.58",
+				"delta": "1.58"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/windows/upvc",
+				"feature_value": "0",
+				"cluster_win_mean": "1.58",
+				"delta": "1.58"
+			}
+		],
+		"total_number_of_words": [
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/improvements",
+				"feature_value": "  5",
+				"cluster_win_mean": "615.76",
+				"delta": "610.76"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/things-to-know",
+				"feature_value": "  7",
+				"cluster_win_mean": "615.76",
+				"delta": "608.76"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/about",
+				"feature_value": "194",
+				"cluster_win_mean": "615.76",
+				"delta": "421.76"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/subscribe-to-our-newsletter",
+				"feature_value": "  9",
+				"cluster_win_mean": "615.76",
+				"delta": "606.76"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/windows",
+				"feature_value": "255",
+				"cluster_win_mean": "615.76",
+				"delta": "360.76"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/other/conservatories",
+				"feature_value": "139",
+				"cluster_win_mean": "615.76",
+				"delta": "476.76"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/other/solar-panels",
+				"feature_value": "123",
+				"cluster_win_mean": "615.76",
+				"delta": "492.76"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/other",
+				"feature_value": "503",
+				"cluster_win_mean": "615.76",
+				"delta": "112.76"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/other/rooflights",
+				"feature_value": "153",
+				"cluster_win_mean": "615.76",
+				"delta": "462.76"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/other/fascias-soffits",
+				"feature_value": " 66",
+				"cluster_win_mean": "615.76",
+				"delta": "549.76"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/other/block-paving",
+				"feature_value": " 58",
+				"cluster_win_mean": "615.76",
+				"delta": "557.76"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/advertise-join-our-network",
+				"feature_value": "131",
+				"cluster_win_mean": "615.76",
+				"delta": "484.76"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/wp-content/themes/doubleglazing_2.0/getaquote.php",
+				"feature_value": "  4",
+				"cluster_win_mean": "132.45",
+				"delta": "128.45"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/double-glazing-prices",
+				"feature_value": "406",
+				"cluster_win_mean": "615.76",
+				"delta": "209.76"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/154-20120126-prices",
+				"feature_value": "406",
+				"cluster_win_mean": "615.76",
+				"delta": "209.76"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/double-glazing-quotes",
+				"feature_value": " 99",
+				"cluster_win_mean": "615.76",
+				"delta": "516.76"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/links",
+				"feature_value": " 27",
+				"cluster_win_mean": "615.76",
+				"delta": "588.76"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/293-20120214-the-benefits-of-double-glazaing",
+				"feature_value": " 14",
+				"cluster_win_mean": "615.76",
+				"delta": "601.76"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/414-20120720-ten-amazing-glass-etching-designs",
+				"feature_value": "500",
+				"cluster_win_mean": "615.76",
+				"delta": "115.76"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/doors/front-doors",
+				"feature_value": " 96",
+				"cluster_win_mean": "615.76",
+				"delta": "519.76"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/doors/patio",
+				"feature_value": "217",
+				"cluster_win_mean": "615.76",
+				"delta": "398.76"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/doors/internal-doors",
+				"feature_value": "107",
+				"cluster_win_mean": "615.76",
+				"delta": "508.76"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/doors/french",
+				"feature_value": "139",
+				"cluster_win_mean": "615.76",
+				"delta": "476.76"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/doors/garage",
+				"feature_value": "236",
+				"cluster_win_mean": "615.76",
+				"delta": "379.76"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/windows/aluminium",
+				"feature_value": " 45",
+				"cluster_win_mean": "615.76",
+				"delta": "570.76"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/windows/tilt-turn",
+				"feature_value": " 55",
+				"cluster_win_mean": "615.76",
+				"delta": "560.76"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/windows/triple-glazing",
+				"feature_value": " 30",
+				"cluster_win_mean": "615.76",
+				"delta": "585.76"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/windows/hardwood",
+				"feature_value": " 71",
+				"cluster_win_mean": "615.76",
+				"delta": "544.76"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/windows/upvc",
+				"feature_value": " 79",
+				"cluster_win_mean": "615.76",
+				"delta": "536.76"
+			}
+		],
+		"number_of_embedded_css_styles": {
+			"html_id": "http://www.doubleglazinglocal.co.uk/wp-content/themes/doubleglazing_2.0/getaquote.php",
+			"feature_value": "0",
+			"cluster_win_mean": "2.98",
+			"delta": "2.98"
+		},
+		"number_of_embedded_styles": {
+			"html_id": "http://www.doubleglazinglocal.co.uk/wp-content/themes/doubleglazing_2.0/getaquote.php",
+			"feature_value": "0",
+			"cluster_win_mean": "2.97",
+			"delta": "2.97"
+		},
+		"average_image_height": [
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk",
+				"feature_value": " 0",
+				"cluster_win_mean": "70.91",
+				"delta": "70.91"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/improvements",
+				"feature_value": " 0",
+				"cluster_win_mean": "70.91",
+				"delta": "70.91"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/things-to-know",
+				"feature_value": " 0",
+				"cluster_win_mean": "70.91",
+				"delta": "70.91"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/blog",
+				"feature_value": " 0",
+				"cluster_win_mean": "70.91",
+				"delta": "70.91"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/about",
+				"feature_value": " 0",
+				"cluster_win_mean": "70.91",
+				"delta": "70.91"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/subscribe-to-our-newsletter",
+				"feature_value": " 0",
+				"cluster_win_mean": "70.91",
+				"delta": "70.91"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/windows",
+				"feature_value": " 0",
+				"cluster_win_mean": "70.91",
+				"delta": "70.91"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/other/conservatories",
+				"feature_value": " 0",
+				"cluster_win_mean": "70.91",
+				"delta": "70.91"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/other/solar-panels",
+				"feature_value": " 0",
+				"cluster_win_mean": "70.91",
+				"delta": "70.91"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/other",
+				"feature_value": " 0",
+				"cluster_win_mean": "70.91",
+				"delta": "70.91"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/other/rooflights",
+				"feature_value": " 0",
+				"cluster_win_mean": "70.91",
+				"delta": "70.91"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/other/fascias-soffits",
+				"feature_value": " 0",
+				"cluster_win_mean": "70.91",
+				"delta": "70.91"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/other/block-paving",
+				"feature_value": " 0",
+				"cluster_win_mean": "70.91",
+				"delta": "70.91"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/advertise-join-our-network",
+				"feature_value": " 0",
+				"cluster_win_mean": "70.91",
+				"delta": "70.91"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/wp-content/themes/doubleglazing_2.0/getaquote.php",
+				"feature_value": "50",
+				"cluster_win_mean": "98.03",
+				"delta": "48.03"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/privacy-policy",
+				"feature_value": " 0",
+				"cluster_win_mean": "70.91",
+				"delta": "70.91"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/double-glazing-prices",
+				"feature_value": " 0",
+				"cluster_win_mean": "70.91",
+				"delta": "70.91"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/154-20120126-prices",
+				"feature_value": " 0",
+				"cluster_win_mean": "70.91",
+				"delta": "70.91"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/double-glazing-quotes",
+				"feature_value": " 0",
+				"cluster_win_mean": "70.91",
+				"delta": "70.91"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/links",
+				"feature_value": " 0",
+				"cluster_win_mean": "70.91",
+				"delta": "70.91"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/414-20120720-ten-amazing-glass-etching-designs",
+				"feature_value": " 0",
+				"cluster_win_mean": "70.91",
+				"delta": "70.91"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/doors/front-doors",
+				"feature_value": " 0",
+				"cluster_win_mean": "70.91",
+				"delta": "70.91"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/doors/patio",
+				"feature_value": " 0",
+				"cluster_win_mean": "70.91",
+				"delta": "70.91"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/doors/internal-doors",
+				"feature_value": " 0",
+				"cluster_win_mean": "70.91",
+				"delta": "70.91"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/doors/french",
+				"feature_value": " 0",
+				"cluster_win_mean": "70.91",
+				"delta": "70.91"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/doors/garage",
+				"feature_value": " 0",
+				"cluster_win_mean": "70.91",
+				"delta": "70.91"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/windows/aluminium",
+				"feature_value": " 0",
+				"cluster_win_mean": "70.91",
+				"delta": "70.91"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/windows/tilt-turn",
+				"feature_value": " 0",
+				"cluster_win_mean": "70.91",
+				"delta": "70.91"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/windows/triple-glazing",
+				"feature_value": " 0",
+				"cluster_win_mean": "70.91",
+				"delta": "70.91"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/windows/hardwood",
+				"feature_value": " 0",
+				"cluster_win_mean": "70.91",
+				"delta": "70.91"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/windows/upvc",
+				"feature_value": " 0",
+				"cluster_win_mean": "70.91",
+				"delta": "70.91"
+			}
+		],
+		"html5_detected": {
+			"html_id": "http://www.doubleglazinglocal.co.uk/wp-content/themes/doubleglazing_2.0/getaquote.php",
+			"feature_value": "0",
+			"cluster_win_mean": "1",
+			"delta": "1"
+		},
+		"proximity_of_title_tag_words_to_external_bound_hyperlinks": [
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk",
+				"feature_value": "3006",
+				"cluster_win_mean": "3374.25",
+				"delta": "368.25"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/improvements",
+				"feature_value": "3015",
+				"cluster_win_mean": "3374.25",
+				"delta": "359.25"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/things-to-know",
+				"feature_value": "2961",
+				"cluster_win_mean": "3374.25",
+				"delta": "413.25"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/blog",
+				"feature_value": "2727",
+				"cluster_win_mean": "3374.25",
+				"delta": "647.25"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/about",
+				"feature_value": "2953",
+				"cluster_win_mean": "3374.25",
+				"delta": "421.25"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/subscribe-to-our-newsletter",
+				"feature_value": "3000",
+				"cluster_win_mean": "3374.25",
+				"delta": "374.25"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/windows",
+				"feature_value": "2966",
+				"cluster_win_mean": "3374.25",
+				"delta": "408.25"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/doors",
+				"feature_value": "2958",
+				"cluster_win_mean": "3374.25",
+				"delta": "416.25"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/other/conservatories",
+				"feature_value": "2768",
+				"cluster_win_mean": "3374.25",
+				"delta": "606.25"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/other/solar-panels",
+				"feature_value": "2766",
+				"cluster_win_mean": "3374.25",
+				"delta": "608.25"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/other",
+				"feature_value": "2958",
+				"cluster_win_mean": "3374.25",
+				"delta": "416.25"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/other/rooflights",
+				"feature_value": "2764",
+				"cluster_win_mean": "3374.25",
+				"delta": "610.25"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/other/fascias-soffits",
+				"feature_value": "2769",
+				"cluster_win_mean": "3374.25",
+				"delta": "605.25"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/other/block-paving",
+				"feature_value": "2766",
+				"cluster_win_mean": "3374.25",
+				"delta": "608.25"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/advertise-join-our-network",
+				"feature_value": "2999",
+				"cluster_win_mean": "3374.25",
+				"delta": "375.25"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/wp-content/themes/doubleglazing_2.0/getaquote.php",
+				"feature_value": "   0",
+				"cluster_win_mean": " 452.65",
+				"delta": "452.65"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/privacy-policy",
+				"feature_value": "2961",
+				"cluster_win_mean": "3374.25",
+				"delta": "413.25"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/double-glazing-prices",
+				"feature_value": "2864",
+				"cluster_win_mean": "3374.25",
+				"delta": "510.25"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/156-20120126-housing-crash-biggest-losers-in-real-estate-the-past-decade",
+				"feature_value": "2917",
+				"cluster_win_mean": "3374.25",
+				"delta": "457.25"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/154-20120126-prices",
+				"feature_value": "2864",
+				"cluster_win_mean": "3374.25",
+				"delta": "510.25"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/double-glazing-quotes",
+				"feature_value": "2982",
+				"cluster_win_mean": "3374.25",
+				"delta": "392.25"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/links",
+				"feature_value": "2934",
+				"cluster_win_mean": "3374.25",
+				"delta": "440.25"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/293-20120214-the-benefits-of-double-glazaing",
+				"feature_value": "2889",
+				"cluster_win_mean": "3374.25",
+				"delta": "485.25"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/414-20120720-ten-amazing-glass-etching-designs",
+				"feature_value": "2891",
+				"cluster_win_mean": "3374.25",
+				"delta": "483.25"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/doors/front-doors",
+				"feature_value": "2765",
+				"cluster_win_mean": "3374.25",
+				"delta": "609.25"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/doors/patio",
+				"feature_value": "2759",
+				"cluster_win_mean": "3374.25",
+				"delta": "615.25"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/doors/internal-doors",
+				"feature_value": "2768",
+				"cluster_win_mean": "3374.25",
+				"delta": "606.25"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/doors/french",
+				"feature_value": "2760",
+				"cluster_win_mean": "3374.25",
+				"delta": "614.25"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/doors/garage",
+				"feature_value": "2760",
+				"cluster_win_mean": "3374.25",
+				"delta": "614.25"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/windows/aluminium",
+				"feature_value": "2767",
+				"cluster_win_mean": "3374.25",
+				"delta": "607.25"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/windows/tilt-turn",
+				"feature_value": "2767",
+				"cluster_win_mean": "3374.25",
+				"delta": "607.25"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/windows/triple-glazing",
+				"feature_value": "2772",
+				"cluster_win_mean": "3374.25",
+				"delta": "602.25"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/windows/hardwood",
+				"feature_value": "2766",
+				"cluster_win_mean": "3374.25",
+				"delta": "608.25"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/windows/upvc",
+				"feature_value": "2762",
+				"cluster_win_mean": "3374.25",
+				"delta": "612.25"
+			}
+		],
+		"average_number_of_words_in_anchor_text": {
+			"html_id": "http://www.doubleglazinglocal.co.uk/wp-content/themes/doubleglazing_2.0/getaquote.php",
+			"feature_value": "0",
+			"cluster_win_mean": "2.12",
+			"delta": "2.12"
+		},
+		"number_of_embedded_javascripts": {
+			"html_id": "http://www.doubleglazinglocal.co.uk/wp-content/themes/doubleglazing_2.0/getaquote.php",
+			"feature_value": "1",
+			"cluster_win_mean": "3.27",
+			"delta": "2.27"
+		},
+		"number_of_images_in_body": [
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk",
+				"feature_value": "14",
+				"cluster_win_mean": "4.88",
+				"delta": " -9.12"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/windows",
+				"feature_value": "18",
+				"cluster_win_mean": "4.88",
+				"delta": "-13.12"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/doors",
+				"feature_value": "19",
+				"cluster_win_mean": "4.88",
+				"delta": "-14.12"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/156-20120126-housing-crash-biggest-losers-in-real-estate-the-past-decade",
+				"feature_value": "14",
+				"cluster_win_mean": "4.88",
+				"delta": " -9.12"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/414-20120720-ten-amazing-glass-etching-designs",
+				"feature_value": "17",
+				"cluster_win_mean": "4.88",
+				"delta": "-12.12"
+			}
+		],
+		"number_of_destination_titles_same_as_anchor_text": [
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk",
+				"feature_value": "0",
+				"cluster_win_mean": "14.09",
+				"delta": "14.09"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/improvements",
+				"feature_value": "0",
+				"cluster_win_mean": "14.09",
+				"delta": "14.09"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/things-to-know",
+				"feature_value": "0",
+				"cluster_win_mean": "14.09",
+				"delta": "14.09"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/blog",
+				"feature_value": "4",
+				"cluster_win_mean": "14.09",
+				"delta": "10.09"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/about",
+				"feature_value": "0",
+				"cluster_win_mean": "14.09",
+				"delta": "14.09"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/subscribe-to-our-newsletter",
+				"feature_value": "0",
+				"cluster_win_mean": "14.09",
+				"delta": "14.09"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/windows",
+				"feature_value": "0",
+				"cluster_win_mean": "14.09",
+				"delta": "14.09"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/doors",
+				"feature_value": "0",
+				"cluster_win_mean": "14.09",
+				"delta": "14.09"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/other/conservatories",
+				"feature_value": "0",
+				"cluster_win_mean": "14.09",
+				"delta": "14.09"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/other/solar-panels",
+				"feature_value": "0",
+				"cluster_win_mean": "14.09",
+				"delta": "14.09"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/other",
+				"feature_value": "0",
+				"cluster_win_mean": "14.09",
+				"delta": "14.09"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/other/rooflights",
+				"feature_value": "0",
+				"cluster_win_mean": "14.09",
+				"delta": "14.09"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/other/fascias-soffits",
+				"feature_value": "0",
+				"cluster_win_mean": "14.09",
+				"delta": "14.09"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/other/block-paving",
+				"feature_value": "0",
+				"cluster_win_mean": "14.09",
+				"delta": "14.09"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/advertise-join-our-network",
+				"feature_value": "0",
+				"cluster_win_mean": "14.09",
+				"delta": "14.09"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/wp-content/themes/doubleglazing_2.0/getaquote.php",
+				"feature_value": "0",
+				"cluster_win_mean": " 9.46",
+				"delta": " 9.46"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/privacy-policy",
+				"feature_value": "0",
+				"cluster_win_mean": "14.09",
+				"delta": "14.09"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/double-glazing-prices",
+				"feature_value": "0",
+				"cluster_win_mean": "14.09",
+				"delta": "14.09"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/156-20120126-housing-crash-biggest-losers-in-real-estate-the-past-decade",
+				"feature_value": "0",
+				"cluster_win_mean": "14.09",
+				"delta": "14.09"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/154-20120126-prices",
+				"feature_value": "0",
+				"cluster_win_mean": "14.09",
+				"delta": "14.09"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/double-glazing-quotes",
+				"feature_value": "0",
+				"cluster_win_mean": "14.09",
+				"delta": "14.09"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/links",
+				"feature_value": "0",
+				"cluster_win_mean": "14.09",
+				"delta": "14.09"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/293-20120214-the-benefits-of-double-glazaing",
+				"feature_value": "0",
+				"cluster_win_mean": "14.09",
+				"delta": "14.09"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/414-20120720-ten-amazing-glass-etching-designs",
+				"feature_value": "0",
+				"cluster_win_mean": "14.09",
+				"delta": "14.09"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/doors/front-doors",
+				"feature_value": "0",
+				"cluster_win_mean": "14.09",
+				"delta": "14.09"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/doors/patio",
+				"feature_value": "0",
+				"cluster_win_mean": "14.09",
+				"delta": "14.09"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/doors/internal-doors",
+				"feature_value": "0",
+				"cluster_win_mean": "14.09",
+				"delta": "14.09"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/doors/french",
+				"feature_value": "0",
+				"cluster_win_mean": "14.09",
+				"delta": "14.09"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/doors/garage",
+				"feature_value": "0",
+				"cluster_win_mean": "14.09",
+				"delta": "14.09"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/windows/aluminium",
+				"feature_value": "0",
+				"cluster_win_mean": "14.09",
+				"delta": "14.09"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/windows/tilt-turn",
+				"feature_value": "0",
+				"cluster_win_mean": "14.09",
+				"delta": "14.09"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/windows/triple-glazing",
+				"feature_value": "0",
+				"cluster_win_mean": "14.09",
+				"delta": "14.09"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/windows/hardwood",
+				"feature_value": "0",
+				"cluster_win_mean": "14.09",
+				"delta": "14.09"
+			},
+			{
+				"html_id": "http://www.doubleglazinglocal.co.uk/windows/upvc",
+				"feature_value": "0",
+				"cluster_win_mean": "14.09",
+				"delta": "14.09"
+			}
+		]
+	}
+}

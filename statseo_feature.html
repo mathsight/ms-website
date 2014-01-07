@@ -11,7 +11,7 @@
 	
 	<!-- for toggle switch -->
 	<meta http-equiv="X-UA-Compatible" content="IE=9; IE=8;" />
-	<link rel="stylesheet" href="bootstrap-switch/static/stylesheets/bootstrap-switch.css" />
+	<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/bootstrap-switch/1.8/css/bootstrap-switch.css">
 	<link rel="stylesheet" href="http://netdna.bootstrapcdn.com/twitter-bootstrap/2.3.2/css/bootstrap-combined.min.css">
 	
 	<script src="//ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.js"></script>
@@ -31,8 +31,8 @@
 	
 	<!-- for toggle switch -->
 	<!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script> -->
-	<script src="bootstrap-switch/static/js/bootstrap-switch.js"></script>  
-	<script src="http://cdnjs.cloudflare.com/ajax/libs/bootstrap-switch/1.8/bootstrap-switch.min.js"></script>    
+	<script src="./bootstrap-switch/static/js/bootstrap-switch.js"></script>  
+
 
 	<!-- for datatables' styling etc -->
 	<script type="text/javascript" charset="utf-8" src="datatables/media/js/ZeroClipboard.js"></script>
@@ -166,8 +166,6 @@
 
 	</style>
 
-	
-
 	<script>
 
 	/* Global vars */
@@ -175,7 +173,27 @@
 	var urlSplit = locate.split("=");
 	var websiteName = urlSplit[1] || "leighmans";
 	var pageType = "onsite";
-	var featureSel = "html5_detected"
+	var featureSel = "html5_detected";
+	
+	// var features = [
+	// "html5 detected",
+	// "maximum length of h1",
+	// "number of duplicate words"
+	// ];
+	
+
+	
+	var featureJSON = $.getJSON("/json/features/feature_list.json");
+
+	// alert(featureJSON.name);
+
+	var features = [];
+	$.each(featureJSON.name, function(i, obj) {
+	    features.push([obj.value]);
+	});
+	
+	alert(features[1]);
+
 
 	// var websiteURL = "www.leighmans.com";
 	// var websiteSplit = websiteURL.split(".");
@@ -191,6 +209,12 @@
 	
 
 	<script>
+	
+	// var arr = [ 2, 3, 7, 14];
+// 	$.each(arr, function(index, value) {
+// 
+// 	     ('#dropdownSiteFeature').append($('<option>').text(value).attr('value', index));
+// 	});
 
 
 	function doStuff()
@@ -202,15 +226,15 @@
 		
 		alert("website name is " + websiteName);
 		
-		var siteElement = document.getElementById("dropdownSite");
-		var siteNew = siteElement.value;
-		
-		alert("going for " + siteNew);
-		
-		var featureElement = document.getElementById("dropdownFeature");
-		var featureNew = featureElement.value;
-		
-		alert("feature chosen:" + featureNew);
+		// var siteElement = document.getElementById("dropdownSite");
+		// var siteNew = siteElement.value;
+		// 
+		// alert("going for " + siteNew);
+		// 
+		// var featureElement = document.getElementById("dropdownFeature");
+		// var featureNew = featureElement.value;
+		// 
+		// alert("feature chosen:" + featureNew);
 		
 		document.getElementById("dispUrl").innerHTML = "for " + websiteName;
 
@@ -237,9 +261,9 @@
           <a class="brand" href="/">MathSight Demo</a>
           <div class="nav-collapse collapse">
             <ul class="nav">
-                <li class="active"><a href="/">Home</a></li>
+                <li><a href="/">Home</a></li>
                 <!-- <li><a href="/plans.html">Plans</a></li> -->
-                <!-- <li class="active"><a href="/tour.html">Tour</a></li> -->
+				<li class="active"><a href="/statseo_feature.html">StatSEO</a></li>
 				<li><a href="/api.html">API</a></li>
 				<!-- <li><a href="/jobs.html">Jobs</a></li> -->
             </ul>
@@ -268,7 +292,17 @@
 			  <div class="form-group">
 				  <input type="url" class="form-control" id="inputURL">
 			  </div>
-			  <br>
+			  
+			  <!-- <button onclick="doStuff()" type="submit" class="btn btn-primary" id="submitUrl"> -->
+			 <button type="submit" class="btn btn-primary" id="submitUrl">
+				  <script>
+				  websiteName = 'leighmans'; 
+				  document.write('<a href = "statseo_feature.html?='+websiteName+'">submit!</a>');
+				  </script></li>
+			  </button>
+			  
+			  
+			  <br><br>
 			  <!-- <div class="make-switch" data-on-label="ONSITE" data-off-label="OFFSITE" data-on="primary" data-off="info">
 				  <label>
 				  Select onsite or offsite
@@ -282,11 +316,48 @@
 						  <span class="caret"></span>
 					  </button>
 					  <ul class="dropdown-menu" role="menu" aria-labelledby="dropdownSite"> 
-						  <li role="presentation"><a role="menuitem" tabindex="-1" href="#">onsite</a></li>
-						  <li role="presentation"><a role="menuitem" tabindex="-1" href="#">offsite</a></li>
+						  <!-- <li role="presentation"><a role="menuitem" tabindex="-1" href="./&=onsite">onsite</a></li>
+						  <li role="presentation"><a role="menuitem" tabindex="-1" href="./&=offsite">offsite</a></li> -->
+						  <li role="presentation"> 
+							  <script>
+							  pageType = 'onsite'; 
+							  document.write('<a role="menuitem" tabindex="-1" href="/statseo_feature.html?=' + websiteName +'&='+pageType+'">onsite</a>');
+							  </script>
+						  </li>
+						  <li role="presentation"> 
+							  <script>
+							  pageType = 'offsite'; 
+							  document.write('<a role="menuitem" tabindex="-1" href="/statseo_feature.html?=' + websiteName +'&='+pageType+'">offsite</a>');
+							  </script>
+						  </li>
 					  </ul>
 				  </div>
-			  
+				  
+				  <br>
+				  
+				  <div class="dropdown">
+					  <button class="btn dropdown-toggle sr-only" type="button" id="dropdownHealth" data-toggle="dropdown">
+						  Select healthy or harmful links:
+						  <span class="caret"></span>
+					  </button>
+					  <ul class="dropdown-menu" role="menu" aria-labelledby="dropdownHealth"> 
+						  <!-- <li role="presentation"><a role="menuitem" tabindex="-1" href="#">healthy</a></li> -->
+						  <li role="presentation"> 
+							  <script>
+							  healthHarm = 'harmful'; 
+							  document.write('<a role="menuitem" tabindex="-1" href="?=' + websiteName +'&='+pageType+'&='+healthHarm+'">harmful</a>');
+							  </script>
+						  </li>
+						  <!-- <li role="presentation"><a role="menuitem" tabindex="-1" href="#">harmful</a></li> -->
+						  <li role="presentation"> 
+							  <script>
+							  healthHarm = 'healthy'; 
+							  document.write('<a role="menuitem" tabindex="-1" href="?=' + websiteName +'&='+pageType+'&='+healthHarm+'">healthy</a>');
+							  </script>
+						  </li>
+					  </ul>
+				  </div>
+
 				  <br>
 			  
 				  <div class="dropdown">
@@ -295,34 +366,36 @@
 						  <span class="caret"></span>
 					  </button>
 					  <ul class="dropdown-menu navbar-right" role="menu" aria-labelledby="dropdownFeature">
-						  <li role="presentation"> <script>document.write('<a role="menuitem" tabindex="-1" href="/' + pageType + '_SQ_drilldown.html?=' + websiteName + '&=' + featureSel + '">'+ featureSel +'</a>');</script></li>
-						  <li role="presentation"><a role="menuitem" tabindex="-1" href="#">maximum length of h1</a></li>
-						  <li role="presentation"><a role="menuitem" tabindex="-1" href="#">number of duplicate words</a></li>
-						  <li role="presentation" class="divider"></li>
-						  <li role="presentation"> <script>document.write('<a role="menuitem" tabindex="-1" href="/' + pageType + '_SQ_toplevel.html?=' + websiteName +'">StatSEO</a>');</script></li>
-
-					  </ul>
+						  <script>
+						  featureSel = 'html5 detected';
+						  for (i=0;i<features.length;i++)
+						  document.write('<li role="presentation"><a role="menuitem" tabindex="-1" href="/SQ_drilldown.html?=' + websiteName + '&=' + features[i] + '&=' + pageType +'&=' + healthHarm +'">'+ features[i] +'</a></li>');
+						  </script>
+						  <!-- <li role="presentation"><a role="menuitem" tabindex="-1" href="#">maximum length of h1</a></li>
+							  <li role="presentation"><a role="menuitem" tabindex="-1" href="#">number of duplicate words</a></li> -->
+							  <li role="presentation" class="divider"></li>
+							  <li role="presentation"> <script>document.write('<a role="menuitem" tabindex="-1" href="/SQ_toplevel.html?=' + websiteName +'&='+ pageType+'">StatSEO</a>');</script></li>
+						  </ul>
 				  </div>
-				  <br><br>
 
-				  <button onclick="doStuff()" type="submit" class="btn btn-primary" id="submitUrl">
-					  submit!
-				  </button>
-	
 			  </div>  
-			  <a href="/onsite_SQ_drilldown.html?=leighmans&=maximum length of h1">
-				  Onsite feature drilldown example
+			  <a href="/SQ_drilldown.html?=rawpearls&=average backlink dale chall readability&=onsite&=healthy">
+				  Onsite healthy feature drilldown example
 			  </a>
 			  <br>
-			  <a href="/onsite_SQ_drilldown.html?=alchemyviral&=number of duplicate words">
-				  Offsite feature drilldown example
+			  <a href="/SQ_drilldown.html?=rawpearls&=average backlink dale chall readability&=onsite&=harmful">
+				  Onsite harmful feature drilldown example
 			  </a>
 			  <br>
-			  <a href="/onsite_SQ_toplevel.html?=rawpearls">
+			  <a href="/SQ_drilldown.html?=alchemyviral&=number of duplicate words&=offsite&=harmful">
+				  Offsite harmful feature drilldown example #2
+			  </a>
+			  <br>
+			  <a href="/SQ_toplevel.html?=rawpearls&=onsite">
 				  Onsite StatSEO example
 			  </a>
 			  <br>
-			  <a href="/offsite_SQ_toplevel.html?=alchemyviral">
+			  <a href="/SQ_toplevel.html?=alchemyviral&=offsite">
 				  Offsite StatSEO example
 			  </a>
 			  <br>

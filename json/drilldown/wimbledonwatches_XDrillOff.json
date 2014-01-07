@@ -1,0 +1,392 @@
+{
+	"healthy": {
+		"dale_chall_readability": {
+			"html_id": "http://www.bja.org.uk/en/member-services/member-search.cfm/page/110/trade_consumer_all/all/",
+			"feature_value": "8.0863",
+			"cluster_win_mean": "8.29",
+			"delta": "0"
+		},
+		"number_of_hyperlinks": [
+			{
+				"html_id": "http://www.bja.org.uk/en/member-services/member-search.cfm/wimbledon_watches",
+				"feature_value": "230",
+				"cluster_win_mean": "91.03",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.bja.org.uk/en/member-services/member-search.cfm/page/110/trade_consumer_all/all/",
+				"feature_value": "198",
+				"cluster_win_mean": "91.03",
+				"delta": "0"
+			}
+		],
+		"number_of_hyperlinks_with_file": [
+			{
+				"html_id": "http://www.bja.org.uk/en/member-services/member-search.cfm/wimbledon_watches",
+				"feature_value": "188",
+				"cluster_win_mean": "6.25",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.bja.org.uk/en/member-services/member-search.cfm/page/110/trade_consumer_all/all/",
+				"feature_value": "172",
+				"cluster_win_mean": "6.25",
+				"delta": "0"
+			}
+		],
+		"number_of_external_links": [
+			{
+				"html_id": "http://www.bja.org.uk/en/member-services/member-search.cfm/wimbledon_watches",
+				"feature_value": "169",
+				"cluster_win_mean": "84.95",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.bja.org.uk/en/member-services/member-search.cfm/page/110/trade_consumer_all/all/",
+				"feature_value": "144",
+				"cluster_win_mean": "84.95",
+				"delta": "0"
+			}
+		],
+		"number_of_hyperlinks_with_html": {
+			"html_id": "http://www.bja.org.uk/en/member-services/member-search.cfm/wimbledon_watches",
+			"feature_value": "42",
+			"cluster_win_mean": "39.42",
+			"delta": "0"
+		},
+		"number_of_absolute_internal_links": [
+			{
+				"html_id": "http://www.bja.org.uk/en/member-services/member-search.cfm/wimbledon_watches",
+				"feature_value": "0",
+				"cluster_win_mean": "1.46",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.bja.org.uk/en/member-services/member-search.cfm/page/110/trade_consumer_all/all/",
+				"feature_value": "0",
+				"cluster_win_mean": "1.46",
+				"delta": "0"
+			}
+		],
+		"total_number_of_words": {
+			"html_id": "http://www.bja.org.uk/en/member-services/member-search.cfm/wimbledon_watches",
+			"feature_value": "347",
+			"cluster_win_mean": "132.45",
+			"delta": "0"
+		},
+		"average_image_height": [
+			{
+				"html_id": "http://www.bja.org.uk/en/member-services/member-search.cfm/wimbledon_watches",
+				"feature_value": "0",
+				"cluster_win_mean": "98.03",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.bja.org.uk/en/member-services/member-search.cfm/page/110/trade_consumer_all/all/",
+				"feature_value": "0",
+				"cluster_win_mean": "98.03",
+				"delta": "0"
+			}
+		],
+		"ratio_of_common_words_to_total": [
+			{
+				"html_id": "http://www.bja.org.uk/en/member-services/member-search.cfm/wimbledon_watches",
+				"feature_value": " 0.7464",
+				"cluster_win_mean": "0.74",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.bja.org.uk/en/member-services/member-search.cfm/page/110/trade_consumer_all/all/",
+				"feature_value": "0.74286",
+				"cluster_win_mean": "0.74",
+				"delta": "0"
+			}
+		],
+		"proximity_of_title_tag_words_to_external_bound_hyperlinks": [
+			{
+				"html_id": "http://www.bja.org.uk/en/member-services/member-search.cfm/wimbledon_watches",
+				"feature_value": "1376",
+				"cluster_win_mean": "452.65",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.bja.org.uk/en/member-services/member-search.cfm/page/110/trade_consumer_all/all/",
+				"feature_value": "1376",
+				"cluster_win_mean": "452.65",
+				"delta": "0"
+			}
+		],
+		"average_number_of_words_in_anchor_text": [
+			{
+				"html_id": "http://www.bja.org.uk/en/member-services/member-search.cfm/wimbledon_watches",
+				"feature_value": "4",
+				"cluster_win_mean": "2.12",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.bja.org.uk/en/member-services/member-search.cfm/page/110/trade_consumer_all/all/",
+				"feature_value": "5",
+				"cluster_win_mean": "2.12",
+				"delta": "0"
+			}
+		],
+		"number_of_embedded_javascripts": [
+			{
+				"html_id": "http://www.bja.org.uk/en/member-services/member-search.cfm/wimbledon_watches",
+				"feature_value": "5",
+				"cluster_win_mean": "3.27",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.bja.org.uk/en/member-services/member-search.cfm/page/110/trade_consumer_all/all/",
+				"feature_value": "4",
+				"cluster_win_mean": "3.27",
+				"delta": "0"
+			}
+		],
+		"number_of_external_css_styles": [
+			{
+				"html_id": "http://www.bja.org.uk/en/member-services/member-search.cfm/wimbledon_watches",
+				"feature_value": "7",
+				"cluster_win_mean": "1.24",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.bja.org.uk/en/member-services/member-search.cfm/page/110/trade_consumer_all/all/",
+				"feature_value": "7",
+				"cluster_win_mean": "1.24",
+				"delta": "0"
+			}
+		],
+		"number_of_images_in_body": [
+			{
+				"html_id": "http://www.bja.org.uk/en/member-services/member-search.cfm/wimbledon_watches",
+				"feature_value": "16",
+				"cluster_win_mean": "17.95",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.bja.org.uk/en/member-services/member-search.cfm/page/110/trade_consumer_all/all/",
+				"feature_value": "12",
+				"cluster_win_mean": "17.95",
+				"delta": "0"
+			}
+		]
+	},
+	"harmful": {
+		"flesch_reading_ease": [
+			{
+				"html_id": "http://www.bja.org.uk/en/member-services/member-search.cfm/wimbledon_watches",
+				"feature_value": "61.7152",
+				"cluster_win_mean": "17.22",
+				"delta": " -44.5"
+			},
+			{
+				"html_id": "http://www.bja.org.uk/en/member-services/member-search.cfm/page/110/trade_consumer_all/all/",
+				"feature_value": "70.6325",
+				"cluster_win_mean": "17.22",
+				"delta": "-53.42"
+			}
+		],
+		"flesch_grade_level": [
+			{
+				"html_id": "http://www.bja.org.uk/en/member-services/member-search.cfm/wimbledon_watches",
+				"feature_value": "8.9615",
+				"cluster_win_mean": "17.14",
+				"delta": "8.18"
+			},
+			{
+				"html_id": "http://www.bja.org.uk/en/member-services/member-search.cfm/page/110/trade_consumer_all/all/",
+				"feature_value": " 7.755",
+				"cluster_win_mean": "17.14",
+				"delta": "9.39"
+			}
+		],
+		"dale_chall_readability": {
+			"html_id": "http://www.bja.org.uk/en/member-services/member-search.cfm/wimbledon_watches",
+			"feature_value": "6.1846",
+			"cluster_win_mean": "8.29",
+			"delta": "2.11"
+		},
+		"maximum_length_of_h1": [
+			{
+				"html_id": "http://www.bja.org.uk/en/member-services/member-search.cfm/wimbledon_watches",
+				"feature_value": "30",
+				"cluster_win_mean": "77.29",
+				"delta": "47.29"
+			},
+			{
+				"html_id": "http://www.bja.org.uk/en/member-services/member-search.cfm/page/110/trade_consumer_all/all/",
+				"feature_value": "30",
+				"cluster_win_mean": "77.29",
+				"delta": "47.29"
+			}
+		],
+		"average_length_of_h1": [
+			{
+				"html_id": "http://www.bja.org.uk/en/member-services/member-search.cfm/wimbledon_watches",
+				"feature_value": "30",
+				"cluster_win_mean": "50.38",
+				"delta": "20.38"
+			},
+			{
+				"html_id": "http://www.bja.org.uk/en/member-services/member-search.cfm/page/110/trade_consumer_all/all/",
+				"feature_value": "30",
+				"cluster_win_mean": "50.38",
+				"delta": "20.38"
+			}
+		],
+		"number_of_root_relative_internal_links": [
+			{
+				"html_id": "http://www.bja.org.uk/en/member-services/member-search.cfm/wimbledon_watches",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.bja.org.uk/en/member-services/member-search.cfm/page/110/trade_consumer_all/all/",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			}
+		],
+		"number_of_images": [
+			{
+				"html_id": "http://www.bja.org.uk/en/member-services/member-search.cfm/wimbledon_watches",
+				"feature_value": "16",
+				"cluster_win_mean": "17.95",
+				"delta": "1.95"
+			},
+			{
+				"html_id": "http://www.bja.org.uk/en/member-services/member-search.cfm/page/110/trade_consumer_all/all/",
+				"feature_value": "12",
+				"cluster_win_mean": "17.95",
+				"delta": "5.95"
+			}
+		],
+		"number_of_hyperlinks_with_html": {
+			"html_id": "http://www.bja.org.uk/en/member-services/member-search.cfm/page/110/trade_consumer_all/all/",
+			"feature_value": "26",
+			"cluster_win_mean": "39.42",
+			"delta": "13.42"
+		},
+		"average_image_width": [
+			{
+				"html_id": "http://www.bja.org.uk/en/member-services/member-search.cfm/wimbledon_watches",
+				"feature_value": "0",
+				"cluster_win_mean": "217.02",
+				"delta": "217.02"
+			},
+			{
+				"html_id": "http://www.bja.org.uk/en/member-services/member-search.cfm/page/110/trade_consumer_all/all/",
+				"feature_value": "0",
+				"cluster_win_mean": "217.02",
+				"delta": "217.02"
+			}
+		],
+		"number_of_id_attribute_refs": [
+			{
+				"html_id": "http://www.bja.org.uk/en/member-services/member-search.cfm/wimbledon_watches",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.bja.org.uk/en/member-services/member-search.cfm/page/110/trade_consumer_all/all/",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			}
+		],
+		"number_of_images_missing_alt": [
+			{
+				"html_id": "http://www.bja.org.uk/en/member-services/member-search.cfm/wimbledon_watches",
+				"feature_value": "4",
+				"cluster_win_mean": "17",
+				"delta": "13"
+			},
+			{
+				"html_id": "http://www.bja.org.uk/en/member-services/member-search.cfm/page/110/trade_consumer_all/all/",
+				"feature_value": "4",
+				"cluster_win_mean": "17",
+				"delta": "13"
+			}
+		],
+		"number_of_h1_instances": [
+			{
+				"html_id": "http://www.bja.org.uk/en/member-services/member-search.cfm/wimbledon_watches",
+				"feature_value": "1",
+				"cluster_win_mean": "2.61",
+				"delta": "1.61"
+			},
+			{
+				"html_id": "http://www.bja.org.uk/en/member-services/member-search.cfm/page/110/trade_consumer_all/all/",
+				"feature_value": "1",
+				"cluster_win_mean": "2.61",
+				"delta": "1.61"
+			}
+		],
+		"total_number_of_words": {
+			"html_id": "http://www.bja.org.uk/en/member-services/member-search.cfm/page/110/trade_consumer_all/all/",
+			"feature_value": "35",
+			"cluster_win_mean": "132.45",
+			"delta": "97.45"
+		},
+		"number_of_embedded_css_styles": [
+			{
+				"html_id": "http://www.bja.org.uk/en/member-services/member-search.cfm/wimbledon_watches",
+				"feature_value": "0",
+				"cluster_win_mean": "2.98",
+				"delta": "2.98"
+			},
+			{
+				"html_id": "http://www.bja.org.uk/en/member-services/member-search.cfm/page/110/trade_consumer_all/all/",
+				"feature_value": "0",
+				"cluster_win_mean": "2.98",
+				"delta": "2.98"
+			}
+		],
+		"number_of_embedded_styles": [
+			{
+				"html_id": "http://www.bja.org.uk/en/member-services/member-search.cfm/wimbledon_watches",
+				"feature_value": "0",
+				"cluster_win_mean": "2.97",
+				"delta": "2.97"
+			},
+			{
+				"html_id": "http://www.bja.org.uk/en/member-services/member-search.cfm/page/110/trade_consumer_all/all/",
+				"feature_value": "0",
+				"cluster_win_mean": "2.97",
+				"delta": "2.97"
+			}
+		],
+		"html5_detected": [
+			{
+				"html_id": "http://www.bja.org.uk/en/member-services/member-search.cfm/wimbledon_watches",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.bja.org.uk/en/member-services/member-search.cfm/page/110/trade_consumer_all/all/",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			}
+		],
+		"number_of_destination_titles_same_as_anchor_text": [
+			{
+				"html_id": "http://www.bja.org.uk/en/member-services/member-search.cfm/wimbledon_watches",
+				"feature_value": "0",
+				"cluster_win_mean": "9.46",
+				"delta": "9.46"
+			},
+			{
+				"html_id": "http://www.bja.org.uk/en/member-services/member-search.cfm/page/110/trade_consumer_all/all/",
+				"feature_value": "0",
+				"cluster_win_mean": "9.46",
+				"delta": "9.46"
+			}
+		]
+	}
+}
