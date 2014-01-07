@@ -181,11 +181,13 @@
 	// "number of duplicate words"
 	// ];
 	
+	var features = [];
 	
 	var featureJSON = $.getJSON( "json/features/feature_list.json", function(results) {
 	  console.log( "JSON loading success" );
 	  $.each(results, function(index) {
 		  alert(results[index].name);
+		  features.push(results[index].name.value);
 	  });
 	})
 	  .done(function() {
@@ -205,15 +207,8 @@
 	  console.log( "second complete" );
 	});
 
-	// var featureJSON = $.getJSON("json/features/feature_list.json",function(results) {
-	// 	$.each(results, function(index) {
-	// 		alert(results[index].results);
-	// 	});
-	// });
 
-	// alert(featureJSON.name);
-
-	var features = [];
+	
 	// $.each(featureJSON.results.bindings, function(i, obj) {
 // 	    features.push([obj.place.value, obj.lat.value, obj.long.value, obj.page.value]);
 // 	});
