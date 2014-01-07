@@ -1,5 +1,5 @@
 {
-	"featureGroups": {
+	"featureGroups": [
 		{
 			"location": "Average of offsite pages",
 			"class": [
@@ -476,5 +476,5 @@
 				"Rating according to the Dale_Chall readability formula for the text content of the HTML: http://en.wikipedia.org/wiki/Dale-Chall_Readability_Formula"
 			]
 		}
-	}
+	]
 }
