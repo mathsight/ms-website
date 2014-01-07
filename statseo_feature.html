@@ -183,7 +183,9 @@
 	
 
 	
-	var featureJSON = $.getJSON("/json/features/feature_list.json");
+	var featureJSON = $.getJSON("json/features/feature_list.json",function(response) {
+                alert('hi - we got the JSON y`all');
+        });
 
 	// alert(featureJSON.name);
 
