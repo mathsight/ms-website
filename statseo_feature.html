@@ -187,7 +187,7 @@
 	  console.log( "JSON loading success" );
 	  $.each(results, function(index) {
 		  alert(results[index].name);
-		  features.push(results[index].name.value);
+		  features.push(results[index].name);
 	  });
 	})
 	  .done(function() {
@@ -206,7 +206,8 @@
 	featureJSON.complete(function() {
 	  console.log( "second complete" );
 	});
-
+	
+	console.log(features);
 
 	
 	// $.each(featureJSON.results.bindings, function(i, obj) {
