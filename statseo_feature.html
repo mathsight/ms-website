@@ -183,7 +183,7 @@
 	
 	var features = [];
 	
-	var featureJSON = jQuery(document).ready($.getJSON( "json/features/feature_list.json", function(results) {
+	var featureJSON = $.getJSON( "json/features/feature_list.json", function(results) {
 		console.log( "JSON loading success" );
 		$.each(results, function(index) {
 			// alert(results[index].name);
@@ -202,14 +202,14 @@
 	})
 	.always(function() {
 		console.log( "complete" );
-	}));
+	});
 
 	// Perform other work here ...
  
 	// Set another completion function for the request above
 	featureJSON.complete(function() {
-	  console.log( "second complete" );
-	  console.log("length of features array: " + features.length);
+		console.log( "second complete" );
+		console.log("length of features array: " + features.length);
 	});
 	
 	
@@ -399,6 +399,7 @@
 						  <script>
 						  featureSel = 'html5 detected';
 						  for (i=0;i<features.length;i++)
+						  alert(features[i]);
 						  document.write('<li role="presentation"><a role="menuitem" tabindex="-1" href="/SQ_drilldown.html?=' + websiteName + '&=' + features[i] + '&=' + pageType +'&=' + healthHarm +'">'+ features[i] +'</a></li>');
 						  </script>
 						  <!-- <li role="presentation"><a role="menuitem" tabindex="-1" href="#">maximum length of h1</a></li>
