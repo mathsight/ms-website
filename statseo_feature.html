@@ -398,9 +398,10 @@
 					  <ul class="dropdown-menu navbar-right" role="menu" aria-labelledby="dropdownFeature">
 						  <script>
 						  featureSel = 'html5 detected';
-						  for (i=0;i<features.length;i++)
-						  alert(features[i]);
-						  document.write('<li role="presentation"><a role="menuitem" tabindex="-1" href="/SQ_drilldown.html?=' + websiteName + '&=' + features[i] + '&=' + pageType +'&=' + healthHarm +'">'+ features[i] +'</a></li>');
+						  for (i=0;i<features.length;i++) {
+							  console.log(features[i]);
+							  document.write('<li role="presentation"><a role="menuitem" tabindex="-1" href="/SQ_drilldown.html?=' + websiteName + '&=' + features[i] + '&=' + pageType +'&=' + healthHarm +'">'+ features[i] +'</a></li>');
+						  }
 						  </script>
 						  <!-- <li role="presentation"><a role="menuitem" tabindex="-1" href="#">maximum length of h1</a></li>
 							  <li role="presentation"><a role="menuitem" tabindex="-1" href="#">number of duplicate words</a></li> -->
