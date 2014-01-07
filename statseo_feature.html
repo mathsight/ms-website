@@ -182,7 +182,7 @@
 	// ];
 	
 	
-	var featureJSON = $.getJSON( "json/features/feature_list.json", function() {
+	var featureJSON = $.getJSON( "json/features/feature_list.json", function(results) {
 	  console.log( "JSON loading success" );
 	})
 	  .done(function() {
@@ -193,6 +193,10 @@
 	  })
 	  .always(function() {
 	    console.log( "complete" );
+	  });
+ 
+	  $.each(results, function(index) {
+		  alert(results[index].name);
 	  });
  
 	// Perform other work here ...
