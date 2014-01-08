@@ -202,12 +202,11 @@
 	featureJSON.complete(function() {
 		console.log( "second complete - populating dropdown" );
 		
-		var select = document.getElementById("dropdownFeature"); 
+		var select = document.getElementById("selectFeat"); 
 		
 		for(var i = 0; i < features.length; i++) {
 		    var opt = features[i];
-		    var el = document.createElement("li");
-			el.role = "presentation";
+		    var el = document.createElement("option");
 		    el.textContent = opt;
 		    el.value = opt;
 		    select.appendChild(el);
@@ -379,7 +378,15 @@
 
 				  <br>
 			  
-				  <div class="dropdown">
+				  <form id="dropdownFeature">
+				    <select id="selectFeat">
+				      <option>Choose a number</option>
+				    </select>
+				  </form>
+			  
+			  
+			  
+				  <!-- <div class="dropdown">
 					  <button class="btn dropdown-toggle sr-only" type="button" id="dropdownFeature" data-toggle="dropdown">
 						  Select feature or StatSEO:
 						  <span class="caret"></span>
@@ -394,12 +401,12 @@
 
 							  </script>
 						  
-<!--
+
 						  
 							  <li role="presentation"><a role="menuitem" tabindex="-1" href="#"><span id="jfeatures"></span></a></li>
 						  
 							  
-							  <li role="presentation"><a role="menuitem" tabindex="-1" href="#"><div id="features"></div></a></li>-->
+							  <li role="presentation"><a role="menuitem" tabindex="-1" href="#"><div id="features"></div></a></li>
 
 							  
 							  <li role="presentation" class="divider"></li>
@@ -407,7 +414,9 @@
 						  </ul>
 					  </div>
 
-				  </div>  
+				  </div>   -->
+				  
+				  
 				  <a href="/SQ_drilldown.html?=alchemyviral&=average backlink dale chall readability&=onsite&=healthy">
 				  Onsite healthy feature drilldown example
 			  </a>
