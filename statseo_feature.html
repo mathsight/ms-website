@@ -310,11 +310,8 @@
 			  <div class="form-group">
 				  <input type="url" class="form-control" id="inputURL">
 			  </div>
-			  
-			
-			  
-			  
-			  <br><br>
+
+			  <br>
 			  <!-- <div class="make-switch" data-on-label="ONSITE" data-off-label="OFFSITE" data-on="primary" data-off="info">
 				  <label>
 				  Select onsite or offsite
@@ -322,14 +319,13 @@
 				  <input type="checkbox" id="onoffcheck" checked>
 				  </div> -->
 
-				  <div class="dropdown">
+<!-- 				  <div class="dropdown">
 					  <button class="btn dropdown-toggle sr-only" type="button" id="dropdownSite" data-toggle="dropdown">
 						  Select on or offsite:
 						  <span class="caret"></span>
 					  </button>
 					  <ul class="dropdown-menu" role="menu" aria-labelledby="dropdownSite"> 
-						  <!-- <li role="presentation"><a role="menuitem" tabindex="-1" href="./&=onsite">onsite</a></li>
-						  <li role="presentation"><a role="menuitem" tabindex="-1" href="./&=offsite">offsite</a></li> -->
+					
 						  <li role="presentation"> 
 							  <script>
 							  pageType = 'onsite'; 
@@ -345,7 +341,7 @@
 					  </ul>
 				  </div>
 				  
-				  <br>
+				  <br> -->
 				  
 				  <!-- <div class="dropdown">
 					  <button class="btn dropdown-toggle sr-only" type="button" id="dropdownHealth" data-toggle="dropdown">
@@ -371,13 +367,27 @@
 				  </div>
 
 				  <br> -->
+					  
+					  
+					  <form id="dropdownOnOff">
+						  <select id="selectOnOff">
+							  <option>Select onsite or offsite</option>
+							  <option class="divider">-------------------------</option>
+							  <option>Onsite (this domain)</option>
+							  <option>Offsite (backlinks)</option>
+						  </select>
+					  </form>
+					  
+					  <br>
 			  
-				  <form id="dropdownFeature">
-				    <select id="selectFeat">
-				      <option><script>document.write('<a href="/SQ_toplevel.html?=' + websiteName +'&='+ pageType+'">StatSEO Overview</a>');</script></option>
-					  <option class="divider"></option>
-				    </select>
-				  </form>
+					  <form id="dropdownFeature">
+						  <select id="selectFeat">
+							  <option>Select feature or StatSEO</option>
+							  <option class="divider">-------------------------</option>
+							  <option>StatSEO Overview</option>
+							  <option class="divider">-------------------------</option>
+						  </select>
+					  </form>
 			  
 			  
 				  <!-- <button onclick="doStuff()" type="submit" class="btn btn-primary" id="submitUrl"> -->
