@@ -373,7 +373,7 @@
 							  console.log( "second complete" );
 							  for (i=0;i<features.length;i++) {
 								  //console.log(features[i]);
-								  document.write('<li role="presentation"><a role="menuitem" tabindex="-1" href="/SQ_drilldown.html?=' + websiteName + '&=' + features[i] + '&=' + pageType +'&=' + healthHarm +'">'+ (features[i]).toLowerCase() +'</a></li>');
+								  document.write('<li role="presentation"><a role="menuitem" tabindex="-1" href="/SQ_drilldown.html?=' + websiteName + '&=' + (features[i]).toLowerCase() + '&=' + pageType +'&=' + healthHarm +'">'+ features[i] +'</a></li>');
 							  }
 						  });
 
