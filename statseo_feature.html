@@ -200,19 +200,20 @@
 	
 
 	featureJSON.complete(function() {
-		console.log( "second complete" );
+		console.log( "second complete - populating dropdown" );
 		
 		var select = document.getElementById("dropdownFeature"); 
 		
 		for(var i = 0; i < features.length; i++) {
 		    var opt = features[i];
 		    var el = document.createElement("li");
+			el.className = "presentation";
 		    el.textContent = opt;
 		    el.value = opt;
 		    select.appendChild(el);
 		}
 		
-	 	document.getElementById("jfeatures").innerHTML=features; 						 
+	 	// document.getElementById("jfeatures").innerHTML=features; 						 
 	
 	});
 
