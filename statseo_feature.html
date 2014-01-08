@@ -199,6 +199,24 @@
 	});
 	
 
+	featureJSON.complete(function() {
+		console.log( "second complete" );
+		
+		var select = document.getElementById("dropdownFeature"); 
+		
+		for(var i = 0; i < features.length; i++) {
+		    var opt = features[i];
+		    var el = document.createElement("li");
+		    el.textContent = opt;
+		    el.value = opt;
+		    select.appendChild(el);
+		}
+		
+	 	document.getElementById("jfeatures").innerHTML=features; 						 
+	
+	});
+
+
 	jQuery(document).ready(function($) {
 		$(".clickableRow").click(function() {
 			window.document.location = $(this).attr("href");
@@ -367,21 +385,21 @@
 					  </button>
 					  <ul class="dropdown-menu navbar-right" role="menu" aria-labelledby="dropdownFeature">
 						  <script>
-						  // Perform other work here ...
-						  // Set another completion function for the request above
-						  featureJSON.complete(function() {
-							  console.log( "second complete" );
-							  for (i=0;i<features.length;i++) {
-								  //console.log(features[i]);
-								  document.write('<li role="presentation"><a role="menuitem" tabindex="-1" href="/SQ_drilldown.html?=' + websiteName + '&=' + (features[i]).toLowerCase() + '&=' + pageType +'&=' + healthHarm +'">'+ features[i] +'</a></li>');
-							  }
-						  });
 
-						  </script>
-						  <!-- <li role="presentation"><a role="menuitem" tabindex="-1" href="#">maximum length of h1</a></li>
-							  <li role="presentation"><a role="menuitem" tabindex="-1" href="#">number of duplicate words</a></li> -->
+						  // for (i=0;i<features.length;i++) {
+							  // 	 								  //console.log(features[i]);
+							  // 	 								  document.write('<li role="presentation"><a role="menuitem" tabindex="-1" href="/SQ_drilldown.html?=' + websiteName + '&=' + (features[i]).toLowerCase() + '&=' + pageType +'&=' + healthHarm +'">'+ features[i] +'</a></li>');
+							  // 	 							  };
+
+							  </script>
+						  
+<!--
+						  
+							  <li role="presentation"><a role="menuitem" tabindex="-1" href="#"><span id="jfeatures"></span></a></li>
+						  
 							  
-							  <li role="presentation"><a role="menuitem" tabindex="-1" href="#"><div id="features"></div></a></li>
+							  <li role="presentation"><a role="menuitem" tabindex="-1" href="#"><div id="features"></div></a></li>-->
+
 							  
 							  <li role="presentation" class="divider"></li>
 							  <li role="presentation"> <script>document.write('<a role="menuitem" tabindex="-1" href="/SQ_toplevel.html?=' + websiteName +'&='+ pageType+'">StatSEO</a>');</script></li>
