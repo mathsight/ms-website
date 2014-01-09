@@ -31,7 +31,7 @@
 	
 	<!-- for toggle switch -->
 	<!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script> -->
-	<script src="./bootstrap-switch/static/js/bootstrap-switch.js"></script>  
+	<!-- <script src="./bootstrap-switch/static/js/bootstrap-switch.js"></script>  -->
 
 
 	<!-- for datatables' styling etc -->
@@ -169,35 +169,53 @@
 	<script>
 
 	/* Global vars */
-	var locate = decodeURI(window.location);
-	var urlSplit = locate.split("=");
-	var websiteName = urlSplit[1] || "leighmans";
-	var pageType = "onsite";
-	var featureSel = "html5_detected";
-	
-	// var features = [
-	// "html5 detected",
-	// "maximum length of h1",
-	// "number of duplicate words"
-	// ];
-	
-
-	
-	var featureJSON = $.getJSON("/json/features/feature_list.json");
-
-	// alert(featureJSON.name);
+	// var locate = decodeURI(window.location);
+// 	var urlSplit = locate.split("=");
+	var websiteName = "";
+	var pageType = "";
+	var featureSel = "";
 
 	var features = [];
-	$.each(featureJSON.name, function(i, obj) {
-	    features.push([obj.value]);
+
+	var featureJSON = $.getJSON( "json/features/feature_list.json", function(results) {
+		console.log( "JSON loading success" );
+		$.each(results, function(index) {
+			// alert(results[index].name);
+			blob = results[index].name;
+			$.each(blob, function(nameIndex) {
+				features.push(blob[nameIndex]);
+			});
+
+		});
+	})
+	.done(function() {
+		console.log( "second success" );
+	})
+	.fail(function() {
+		console.log( "error" );
+	})
+	.always(function() {
+		console.log( "complete" );
 	});
 	
-	alert(features[1]);
 
+	featureJSON.complete(function() {
+		console.log( "second complete - populating dropdown" );
+		
+		var select = document.getElementById("selectFeat"); 
+		
+		for(var i = 0; i < features.length; i++) {
+		    var opt = features[i];
+		    var el = document.createElement("option");
+		    el.textContent = opt;
+		    el.value = opt;
+		    select.appendChild(el);
+		}
+		
+	 	// document.getElementById("jfeatures").innerHTML=features; 						 
+	
+	});
 
-	// var websiteURL = "www.leighmans.com";
-	// var websiteSplit = websiteURL.split(".");
-	// var websiteName = websiteSplit[1];
 
 	jQuery(document).ready(function($) {
 		$(".clickableRow").click(function() {
@@ -224,19 +242,36 @@
 		var websiteSplitNew = websiteURLNew.split(".");
 		websiteName = websiteSplitNew[1];
 		
-		alert("website name is " + websiteName);
+		//alert("website name is " + websiteName);
+
+		var pageTypeX = document.getElementById("selectOnOff").selectedIndex;
+		var pageTypeY = document.getElementById("selectOnOff").options;
+		var pageType = pageTypeY[pageTypeX].text.split(' ')[0].toLowerCase();
 		
-		// var siteElement = document.getElementById("dropdownSite");
-		// var siteNew = siteElement.value;
-		// 
-		// alert("going for " + siteNew);
-		// 
-		// var featureElement = document.getElementById("dropdownFeature");
-		// var featureNew = featureElement.value;
-		// 
-		// alert("feature chosen:" + featureNew);
+		//alert("page type is " + pageType);
 		
-		document.getElementById("dispUrl").innerHTML = "for " + websiteName;
+		var featureX = document.getElementById("selectFeat").selectedIndex;
+		var featureY = document.getElementById("selectFeat").options;
+		var featureSel = featureY[featureX].text.toLowerCase();
+		
+		//alert("feature selection is " + featureSel);
+				// 
+		// document.getElementById("dispUrl").innerHTML = "for " + websiteName;
+		
+		
+	  // websiteName = 'leighmans'; 
+	  if (featureSel.length > 0 && pageType.length > 0 && featureX > 2){
+		  window.open("SQ_drilldown.html?="+websiteName+"&="+featureSel+"&="+pageType);
+	  }
+	  else if(featureSel.length > 0 && pageType.length > 0 && featureX == 2){
+		  window.open("SQ_toplevel.html?="+websiteName+"&="+pageType);
+	  }
+	  else{
+		 
+	  }
+	  // document.write('<a href = "SQ_drilldown.html?='+websiteName+'">submit!</a>');
+	  
+		
 
 	}
 	
@@ -292,113 +327,56 @@
 			  <div class="form-group">
 				  <input type="url" class="form-control" id="inputURL">
 			  </div>
+
+			  <br>
+
+			  <form id="dropdownOnOff">
+				  <select id="selectOnOff">
+					  <option>Select onsite or offsite</option>
+					  <option class="divider">-------------------------</option>
+					  <option>Onsite (this domain)</option>
+					  <option>Offsite (backlinks)</option>
+				  </select>
+			  </form>
+					  
+			  <br>
 			  
+			  <form id="dropdownFeature">
+				  <select id="selectFeat">
+					  <option>Select feature or StatSEO</option>
+					  <option class="divider">-------------------------</option>
+					  <option>StatSEO Overview</option>
+					  <option class="divider">-------------------------</option>
+				  </select>
+			  </form>
+
 			  <!-- <button onclick="doStuff()" type="submit" class="btn btn-primary" id="submitUrl"> -->
-			 <button type="submit" class="btn btn-primary" id="submitUrl">
-				  <script>
-				  websiteName = 'leighmans'; 
-				  document.write('<a href = "statseo_feature.html?='+websiteName+'">submit!</a>');
-				  </script></li>
-			  </button>
-			  
-			  
-			  <br><br>
-			  <!-- <div class="make-switch" data-on-label="ONSITE" data-off-label="OFFSITE" data-on="primary" data-off="info">
-				  <label>
-				  Select onsite or offsite
-				  </label>
-				  <input type="checkbox" id="onoffcheck" checked>
-				  </div> -->
+				  <button onclick="doStuff()" type="submit" class="btn btn-primary" id="submitUrl">
 
-				  <div class="dropdown">
-					  <button class="btn dropdown-toggle sr-only" type="button" id="dropdownSite" data-toggle="dropdown">
-						  Select on or offsite:
-						  <span class="caret"></span>
-					  </button>
-					  <ul class="dropdown-menu" role="menu" aria-labelledby="dropdownSite"> 
-						  <!-- <li role="presentation"><a role="menuitem" tabindex="-1" href="./&=onsite">onsite</a></li>
-						  <li role="presentation"><a role="menuitem" tabindex="-1" href="./&=offsite">offsite</a></li> -->
-						  <li role="presentation"> 
-							  <script>
-							  pageType = 'onsite'; 
-							  document.write('<a role="menuitem" tabindex="-1" href="/statseo_feature.html?=' + websiteName +'&='+pageType+'">onsite</a>');
-							  </script>
-						  </li>
-						  <li role="presentation"> 
-							  <script>
-							  pageType = 'offsite'; 
-							  document.write('<a role="menuitem" tabindex="-1" href="/statseo_feature.html?=' + websiteName +'&='+pageType+'">offsite</a>');
-							  </script>
-						  </li>
-					  </ul>
-				  </div>
-				  
+					  submit!
+							  
+				  </button>
+
+				  <br><br>
+					  
+				  <!-- <a href="/SQ_drilldown.html?=alchemyviral&=average backlink dale chall readability&=onsite&=healthy">
+					  Onsite healthy feature drilldown example
+				  </a>
 				  <br>
-				  
-				  <div class="dropdown">
-					  <button class="btn dropdown-toggle sr-only" type="button" id="dropdownHealth" data-toggle="dropdown">
-						  Select healthy or harmful links:
-						  <span class="caret"></span>
-					  </button>
-					  <ul class="dropdown-menu" role="menu" aria-labelledby="dropdownHealth"> 
-						  <!-- <li role="presentation"><a role="menuitem" tabindex="-1" href="#">healthy</a></li> -->
-						  <li role="presentation"> 
-							  <script>
-							  healthHarm = 'harmful'; 
-							  document.write('<a role="menuitem" tabindex="-1" href="?=' + websiteName +'&='+pageType+'&='+healthHarm+'">harmful</a>');
-							  </script>
-						  </li>
-						  <!-- <li role="presentation"><a role="menuitem" tabindex="-1" href="#">harmful</a></li> -->
-						  <li role="presentation"> 
-							  <script>
-							  healthHarm = 'healthy'; 
-							  document.write('<a role="menuitem" tabindex="-1" href="?=' + websiteName +'&='+pageType+'&='+healthHarm+'">healthy</a>');
-							  </script>
-						  </li>
-					  </ul>
-				  </div>
-
+				  <a href="/SQ_drilldown.html?=rawpearls&=average backlink dale chall readability&=onsite&=harmful">
+					  Onsite harmful feature drilldown example
+				  </a>
 				  <br>
-			  
-				  <div class="dropdown">
-					  <button class="btn dropdown-toggle sr-only" type="button" id="dropdownFeature" data-toggle="dropdown">
-						  Select feature or StatSEO:
-						  <span class="caret"></span>
-					  </button>
-					  <ul class="dropdown-menu navbar-right" role="menu" aria-labelledby="dropdownFeature">
-						  <script>
-						  featureSel = 'html5 detected';
-						  for (i=0;i<features.length;i++)
-						  document.write('<li role="presentation"><a role="menuitem" tabindex="-1" href="/SQ_drilldown.html?=' + websiteName + '&=' + features[i] + '&=' + pageType +'&=' + healthHarm +'">'+ features[i] +'</a></li>');
-						  </script>
-						  <!-- <li role="presentation"><a role="menuitem" tabindex="-1" href="#">maximum length of h1</a></li>
-							  <li role="presentation"><a role="menuitem" tabindex="-1" href="#">number of duplicate words</a></li> -->
-							  <li role="presentation" class="divider"></li>
-							  <li role="presentation"> <script>document.write('<a role="menuitem" tabindex="-1" href="/SQ_toplevel.html?=' + websiteName +'&='+ pageType+'">StatSEO</a>');</script></li>
-						  </ul>
-				  </div>
-
-			  </div>  
-			  <a href="/SQ_drilldown.html?=alchemyviral&=average backlink dale chall readability&=onsite&=healthy">
-				  Onsite healthy feature drilldown example
-			  </a>
-			  <br>
-			  <a href="/SQ_drilldown.html?=rawpearls&=average backlink dale chall readability&=onsite&=harmful">
-				  Onsite harmful feature drilldown example
-			  </a>
-			  <br>
-			  <a href="/SQ_drilldown.html?=alchemyviral&=number of duplicate words&=offsite&=harmful">
-				  Offsite harmful feature drilldown example
-			  </a>
-			  <br>
-			  <br>
-			  <a href="/feature_def.html">
-				  Feature definition list
-			  </a>
-		  </div>
-	  <hr>
-			
-    
+				  <a href="/SQ_drilldown.html?=alchemyviral&=number of duplicate words&=offsite&=harmful">
+					  Offsite harmful feature drilldown example
+				  </a>
+				  <br>
+				  <br> -->
+				  <a href="/feature_def.html">
+					  Feature definition list
+				  </a>
+			  </div>
+			  <hr>
 
 	  <!-- Not crucial, but we put this under a CC By-SA 3.0 license. -->
 	  <!-- http://creativecommons.org/licenses/ -->
