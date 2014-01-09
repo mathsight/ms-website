@@ -240,7 +240,7 @@
 		var domainElement = document.getElementById("inputURL");
 		var websiteURLNew = domainElement.value;
 		var websiteSplitNew = websiteURLNew.split(".");
-		websiteName = websiteSplitNew[1];
+		websiteName = websiteSplitNew[1] || "";
 		
 		//alert("website name is " + websiteName);
 
@@ -260,10 +260,10 @@
 		
 		
 	  // websiteName = 'leighmans'; 
-	  if (featureSel.length > 0 && pageType.length > 0 && featureX > 2){
+	  if (websiteName.length > 0 && featureSel.length > 0 && pageType.length > 0 && featureX > 2){
 		  window.open("SQ_drilldown.html?="+websiteName+"&="+featureSel+"&="+pageType);
 	  }
-	  else if(featureSel.length > 0 && pageType.length > 0 && featureX == 2){
+	  else if(websiteName.length > 0 && featureSel.length > 0 && pageType.length > 0 && featureX == 2){
 		  window.open("SQ_toplevel.html?="+websiteName+"&="+pageType);
 	  }
 	  else{
@@ -350,7 +350,6 @@
 				  </select>
 			  </form>
 
-			  <!-- <button onclick="doStuff()" type="submit" class="btn btn-primary" id="submitUrl"> -->
 				  <button onclick="doStuff()" type="submit" class="btn btn-primary" id="submitUrl">
 
 					  submit!
