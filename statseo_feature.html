@@ -244,23 +244,15 @@
 		
 		alert("website name is " + websiteName);
 
-		var pageType = document.getElementById("selectOnOff").options.text;
+		var pageTypeX = document.getElementById("selectOnOff").selectedIndex;
+		var pageTypeY = document.getElementById("selectOnOff").options;
 		
-		alert("page type is " + pageType);
+		alert("page type is " + pageTypeY[pageTypeY].text);
 		
-		var feature = document.getElementById("selectFeat").options.text;
+		var featureX = document.getElementById("selectFeat").selectedIndex;
+		var featureY = document.getElementById("selectFeat").options;
 		
-		alert("feature selection is " + feature);
-		
-		// var siteElement = document.getElementById("dropdownSite");
-		// var siteNew = siteElement.value;
-		// 
-		// alert("going for " + siteNew);
-		// 
-		// var featureElement = document.getElementById("dropdownFeature");
-		// var featureNew = featureElement.value;
-		// 
-		// alert("feature chosen:" + featureNew);
+		alert("feature selection is " + featureY[featureX].text);
 		
 		document.getElementById("dispUrl").innerHTML = "for " + websiteName;
 
