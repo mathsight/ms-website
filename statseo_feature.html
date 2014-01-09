@@ -239,9 +239,11 @@
 	{
 		var domainElement = document.getElementById("inputURL");
 		var websiteURLNew = domainElement.value;
-		var websiteSplitNew = websiteURLNew.split(".");
-		websiteName = websiteSplitNew[1] || "";
-		
+		if (websiteURLNew.length > 0) {
+			var websiteSplitNew = websiteURLNew.split(".");
+			websiteName = websiteSplitNew[1] || "";
+		}
+
 		//alert("website name is " + websiteName);
 
 		var pageTypeX = document.getElementById("selectOnOff").selectedIndex;
