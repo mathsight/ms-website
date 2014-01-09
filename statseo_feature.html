@@ -169,11 +169,11 @@
 	<script>
 
 	/* Global vars */
-	var locate = decodeURI(window.location);
-	var urlSplit = locate.split("=");
-	var websiteName = urlSplit[1] || "leighmans";
-	var pageType = "onsite";
-	var featureSel = "html5_detected";
+	// var locate = decodeURI(window.location);
+// 	var urlSplit = locate.split("=");
+	var websiteName = "";
+	var pageType = "";
+	var featureSel = "";
 
 	var features = [];
 
@@ -242,19 +242,19 @@
 		var websiteSplitNew = websiteURLNew.split(".");
 		websiteName = websiteSplitNew[1];
 		
-		alert("website name is " + websiteName);
+		//alert("website name is " + websiteName);
 
 		var pageTypeX = document.getElementById("selectOnOff").selectedIndex;
 		var pageTypeY = document.getElementById("selectOnOff").options;
 		var pageType = pageTypeY[pageTypeX].text.split(' ')[0].toLowerCase();
 		
-		alert("page type is " + pageType);
+		//alert("page type is " + pageType);
 		
 		var featureX = document.getElementById("selectFeat").selectedIndex;
 		var featureY = document.getElementById("selectFeat").options;
 		var featureSel = featureY[featureX].text.toLowerCase();
 		
-		alert("feature selection is " + featureSel);
+		//alert("feature selection is " + featureSel);
 		
 		document.getElementById("dispUrl").innerHTML = "for " + websiteName;
 
@@ -396,9 +396,18 @@
 						  <button onclick="doStuff()" type="submit" class="btn btn-primary" id="submitUrl">
 							  <script>
 							  // websiteName = 'leighmans'; 
-							  // document.write('<a href = "statseo_feature.html?='+websiteName+'">submit!</a>');
+							  if (featureSel.length > 0 && pageType.length > 0 && featureX > 0){
+								  document.write('<a href = "SQ_drilldown.html?='+websiteName+'&='+featureSel+'&='+pageType+'">submit!</a>');
+							  }
+							  else if(featureSel.length > 0 && pageType.length > 0 && featureX == 0){
+								  document.write('<a href = "SQ_toplevel.html?='+websiteName+'&='+pageType+'">submit!</a>');
+							  }
+							  else{
+								  document.write('submit!')
+							  }
+							  // document.write('<a href = "SQ_drilldown.html?='+websiteName+'">submit!</a>');
 							  </script>
-							  submit!
+							  
 						  </button>
 			  
 			  
