@@ -251,8 +251,9 @@
 		
 		var featureX = document.getElementById("selectFeat").selectedIndex;
 		var featureY = document.getElementById("selectFeat").options;
+		var featureSel = featureY[featureX].text.toLowerCase();
 		
-		alert("feature selection is " + featureY[featureX].text);
+		alert("feature selection is " + featureSel);
 		
 		document.getElementById("dispUrl").innerHTML = "for " + websiteName;
 
