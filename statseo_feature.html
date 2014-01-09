@@ -243,6 +243,14 @@
 		websiteName = websiteSplitNew[1];
 		
 		alert("website name is " + websiteName);
+
+		var pageType = document.getElementById("selectOnOff");
+		
+		alert("page type is " + pageType);
+		
+		var feature = document.getElementById("selectFeat");
+		
+		alert("feature selection is " + feature);
 		
 		// var siteElement = document.getElementById("dropdownSite");
 		// var siteNew = siteElement.value;
@@ -391,11 +399,12 @@
 			  
 			  
 					  <!-- <button onclick="doStuff()" type="submit" class="btn btn-primary" id="submitUrl"> -->
-						  <button type="submit" class="btn btn-primary" id="submitUrl">
+						  <button onclick="doStuff()" type="submit" class="btn btn-primary" id="submitUrl">
 							  <script>
-							  websiteName = 'leighmans'; 
-							  document.write('<a href = "statseo_feature.html?='+websiteName+'">submit!</a>');
-							  </script></li>
+							  // websiteName = 'leighmans'; 
+							  // document.write('<a href = "statseo_feature.html?='+websiteName+'">submit!</a>');
+							  </script>
+							  submit!
 						  </button>
 			  
 			  
