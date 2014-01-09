@@ -329,117 +329,54 @@
 			  </div>
 
 			  <br>
-			  <!-- <div class="make-switch" data-on-label="ONSITE" data-off-label="OFFSITE" data-on="primary" data-off="info">
-				  <label>
-				  Select onsite or offsite
-				  </label>
-				  <input type="checkbox" id="onoffcheck" checked>
-				  </div> -->
 
-<!-- 				  <div class="dropdown">
-					  <button class="btn dropdown-toggle sr-only" type="button" id="dropdownSite" data-toggle="dropdown">
-						  Select on or offsite:
-						  <span class="caret"></span>
-					  </button>
-					  <ul class="dropdown-menu" role="menu" aria-labelledby="dropdownSite"> 
-					
-						  <li role="presentation"> 
-							  <script>
-							  pageType = 'onsite'; 
-							  document.write('<a role="menuitem" tabindex="-1" href="/statseo_feature.html?=' + websiteName +'&='+pageType+'">onsite</a>');
-							  </script>
-						  </li>
-						  <li role="presentation"> 
-							  <script>
-							  pageType = 'offsite'; 
-							  document.write('<a role="menuitem" tabindex="-1" href="/statseo_feature.html?=' + websiteName +'&='+pageType+'">offsite</a>');
-							  </script>
-						  </li>
-					  </ul>
-				  </div>
-				  
-				  <br> -->
-				  
-				  <!-- <div class="dropdown">
-					  <button class="btn dropdown-toggle sr-only" type="button" id="dropdownHealth" data-toggle="dropdown">
-						  Select healthy or harmful links:
-						  <span class="caret"></span>
-					  </button>
-					  <ul class="dropdown-menu" role="menu" aria-labelledby="dropdownHealth"> 
-						  
-						  <li role="presentation"> 
-							  <script>
-							  healthHarm = 'harmful'; 
-							  document.write('<a role="menuitem" tabindex="-1" href="?=' + websiteName +'&='+pageType+'&='+healthHarm+'">harmful</a>');
-							  </script>
-						  </li>
-						 
-						  <li role="presentation"> 
-							  <script>
-							  healthHarm = 'healthy'; 
-							  document.write('<a role="menuitem" tabindex="-1" href="?=' + websiteName +'&='+pageType+'&='+healthHarm+'">healthy</a>');
-							  </script>
-						  </li>
-					  </ul>
-				  </div>
+			  <form id="dropdownOnOff">
+				  <select id="selectOnOff">
+					  <option>Select onsite or offsite</option>
+					  <option class="divider">-------------------------</option>
+					  <option>Onsite (this domain)</option>
+					  <option>Offsite (backlinks)</option>
+				  </select>
+			  </form>
+					  
+			  <br>
+			  
+			  <form id="dropdownFeature">
+				  <select id="selectFeat">
+					  <option>Select feature or StatSEO</option>
+					  <option class="divider">-------------------------</option>
+					  <option>StatSEO Overview</option>
+					  <option class="divider">-------------------------</option>
+				  </select>
+			  </form>
 
-				  <br> -->
-					  
-					  
-					  <form id="dropdownOnOff">
-						  <select id="selectOnOff">
-							  <option>Select onsite or offsite</option>
-							  <option class="divider">-------------------------</option>
-							  <option>Onsite (this domain)</option>
-							  <option>Offsite (backlinks)</option>
-						  </select>
-					  </form>
-					  
-					  <br>
-			  
-					  <form id="dropdownFeature">
-						  <select id="selectFeat">
-							  <option>Select feature or StatSEO</option>
-							  <option class="divider">-------------------------</option>
-							  <option>StatSEO Overview</option>
-							  <option class="divider">-------------------------</option>
-						  </select>
-					  </form>
-			  
-			  
-					  <!-- <button onclick="doStuff()" type="submit" class="btn btn-primary" id="submitUrl"> -->
-						  <button onclick="doStuff()" type="submit" class="btn btn-primary" id="submitUrl">
-							  <script>
+			  <!-- <button onclick="doStuff()" type="submit" class="btn btn-primary" id="submitUrl"> -->
+				  <button onclick="doStuff()" type="submit" class="btn btn-primary" id="submitUrl">
 
-							  </script>
-							  submit!
+					  submit!
 							  
-						  </button>
-			  
-			  
-				  
-						  <br><br>
+				  </button>
+
+				  <br><br>
 					  
-						  <a href="/SQ_drilldown.html?=alchemyviral&=average backlink dale chall readability&=onsite&=healthy">
-							  Onsite healthy feature drilldown example
-						  </a>
-						  <br>
-						  <a href="/SQ_drilldown.html?=rawpearls&=average backlink dale chall readability&=onsite&=harmful">
-							  Onsite harmful feature drilldown example
-						  </a>
-						  <br>
-						  <a href="/SQ_drilldown.html?=alchemyviral&=number of duplicate words&=offsite&=harmful">
-							  Offsite harmful feature drilldown example
-						  </a>
-						  <br>
-						  <br>
-						  <a href="/feature_def.html">
-							  Feature definition list
-						  </a>
-					  </div>
-					  <hr>
-			
-    
+				  <!-- <a href="/SQ_drilldown.html?=alchemyviral&=average backlink dale chall readability&=onsite&=healthy">
+					  Onsite healthy feature drilldown example
+				  </a>
+				  <br>
+				  <a href="/SQ_drilldown.html?=rawpearls&=average backlink dale chall readability&=onsite&=harmful">
+					  Onsite harmful feature drilldown example
+				  </a>
+				  <br>
+				  <a href="/SQ_drilldown.html?=alchemyviral&=number of duplicate words&=offsite&=harmful">
+					  Offsite harmful feature drilldown example
+				  </a>
+				  <br>
+				  <br> -->
+				  <a href="/feature_def.html">
+					  Feature definition list
+				  </a>
+			  </div>
+			  <hr>
 
 	  <!-- Not crucial, but we put this under a CC By-SA 3.0 license. -->
 	  <!-- http://creativecommons.org/licenses/ -->
