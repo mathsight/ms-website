@@ -246,8 +246,9 @@
 
 		var pageTypeX = document.getElementById("selectOnOff").selectedIndex;
 		var pageTypeY = document.getElementById("selectOnOff").options;
+		var pageType = pageTypeY[pageTypeX].text.split(' ')[0],toLowerCase();
 		
-		alert("page type is " + pageTypeY[pageTypeX].text);
+		alert("page type is " + pageType);
 		
 		var featureX = document.getElementById("selectFeat").selectedIndex;
 		var featureY = document.getElementById("selectFeat").options;
