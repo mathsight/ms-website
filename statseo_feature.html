@@ -255,8 +255,8 @@
 		var featureSel = featureY[featureX].text.toLowerCase();
 		
 		//alert("feature selection is " + featureSel);
-		
-		document.getElementById("dispUrl").innerHTML = "for " + websiteName;
+				// 
+		// document.getElementById("dispUrl").innerHTML = "for " + websiteName;
 
 	}
 	
@@ -396,10 +396,10 @@
 						  <button onclick="doStuff()" type="submit" class="btn btn-primary" id="submitUrl">
 							  <script>
 							  // websiteName = 'leighmans'; 
-							  if (featureSel.length > 0 && pageType.length > 0 && featureX > 0){
+							  if (featureSel.length > 0 && pageType.length > 0 && featureX > 2){
 								  document.write('<a href = "SQ_drilldown.html?='+websiteName+'&='+featureSel+'&='+pageType+'">submit!</a>');
 							  }
-							  else if(featureSel.length > 0 && pageType.length > 0 && featureX == 0){
+							  else if(featureSel.length > 0 && pageType.length > 0 && featureX == 2){
 								  document.write('<a href = "SQ_toplevel.html?='+websiteName+'&='+pageType+'">submit!</a>');
 							  }
 							  else{
