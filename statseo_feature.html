@@ -257,23 +257,18 @@
 		var featureSel = featureY[featureX].text.toLowerCase();
 		
 		//alert("feature selection is " + featureSel);
-				// 
-		// document.getElementById("dispUrl").innerHTML = "for " + websiteName;
-		
-		
-	  // websiteName = 'leighmans'; 
+
 	  if (websiteName.length > 0 && featureSel.length > 0 && pageType.length > 0 && featureX > 2){
-		  window.open("SQ_drilldown.html?="+websiteName+"&="+featureSel+"&="+pageType ,"_self");
+		  urlToOpen = "SQ_drilldown.html?="+websiteName+"&="+featureSel+"&="+pageType;
+		  window.open(urlToOpen ,"_self");
 	  }
 	  else if(websiteName.length > 0 && featureSel.length > 0 && pageType.length > 0 && featureX == 2){
-		  window.open("SQ_toplevel.html?="+websiteName+"&="+pageType, ,"_self");
+		  urlToOpen = "SQ_toplevel.html?="+websiteName+"&="+pageType;
+		  window.open(urlToOpen ,"_self");
 	  }
 	  else{
 		 
 	  }
-	  // document.write('<a href = "SQ_drilldown.html?='+websiteName+'">submit!</a>');
-	  
-		
 
 	}
 	
