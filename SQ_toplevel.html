@@ -180,6 +180,7 @@ text {
 
 <script>
 
+var topLevelFile = "";
 
 /* Global vars */
 var locate = decodeURI(window.location);
@@ -192,10 +193,13 @@ var onOrOffsite = urlSplit[2] || "onsite";
 
 if (onOrOffsite.length < 7) {
 	JSONfilename = "Xhat";
+	topLevelFile = "/json/toplevel/" + websiteName + "_ybar.json";
 }
 else {
 	JSONfilename = "XhatOff";
+	topLevelFile = "/json/toplevel/" + websiteName + "_ybarOff.json";
 }
+
 
 // var websiteURL = "www.leighmans.com";
 // var websiteSplit = websiteURL.split(".");
@@ -368,9 +372,6 @@ initDataTables();
 		<script>
 
 
-
-
-var topLevelFile = "/json/toplevel/" + websiteName + "_ybar.json";
 
 
 d3.json(topLevelFile, function(data) {
