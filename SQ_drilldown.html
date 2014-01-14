@@ -100,6 +100,9 @@
 	
 	// -----------------------------
 	
+	var features = [];
+	var descriptions = [];
+	
 	var featureJSON = $.getJSON( "json/features/feature_list.json", function(results) {
 		console.log( "JSON loading success" );
 		$.each(results, function(index) {
@@ -111,8 +114,6 @@
 					features.push(blob[nameIndex]);
 					descriptions.push(blobDesc[nameIndex]);
 				});
-			
-
 
 		});
 	})
@@ -531,44 +532,42 @@ rel="stylesheet" type="text/css">
 						  <div class="accordion-heading">
 							  <a class="accordion-toggle" data-toggle="collapse"
 							  data-parent="#accordion2" href="#collapseOne">
-							  Which features does MathSight monitor for me?
+							  Which features does MathSight monitor for me?</a>
+						  </div>
+						  <div id="collapseOne" class="accordion-body collapse">
+							  <div class="accordion-inner">
+								  Over 100 features taken straight from the html pages of your domain (related to structure and content), approximately 20 calculated (or premium) features (such as ratios of one feature to another) and 5-10 advanced features which analyse backlinks and their effect on the onsite.
+							  </div>
+						  </div>
+					  </div>
+					  <div class="accordion-group">
+						  <div class="accordion-heading">
+							  <a class="accordion-toggle" data-toggle="collapse"
+							  data-parent="#accordion2" href="#collapseTwo">
+							  What is an influential feature?</a>
+						  </div>
+						  <div id="collapseTwo" class="accordion-body collapse">
+							  <div class="accordion-inner">
+								  All the features assessed here have been assessed to have differing levels of influence (or impact) on cumulative daily page view organic search traffic for their containing html page. We wanted to give you the opportunity to see which features had the greatest influence, and which have limited impact. Feel free to click on 'Influence Rank' tab above to sort them as required.
+							  </div>
+						  </div>
+					  </div>
+					  <div class="accordion-group">
+						  <div class="accordion-heading">
+							  <a class="accordion-toggle" data-toggle="collapse"
+							  data-parent="#accordion2" href="#collapseThree">
+							  What is <script>document.write(featureName);</script> exactly?
 						  </a>
 					  </div>
-					  <div id="collapseOne" class="accordion-body collapse">
+					  <div id="collapseThree" class="accordion-body collapse">
 						  <div class="accordion-inner">
-							  Over 100 features taken straight from the html pages of your domain (related to structure and content), approximately 20 calculated (or premium) features (such as ratios of one feature to another) and 5-10 advanced features which analyse backlinks and their effect on the onsite.
+							  Automatically pull in description for <script>document.write(featureName);</script> here.
+							  [TBC]
 						  </div>
 					  </div>
 				  </div>
-				  <div class="accordion-group">
-					  <div class="accordion-heading">
-						  <a class="accordion-toggle" data-toggle="collapse"
-						  data-parent="#accordion2" href="#collapseTwo">
-						  What is an influential feature?
-					  </a>
-				  </div>
-				  <div id="collapseTwo" class="accordion-body collapse">
-					  <div class="accordion-inner">
-						  All the features assessed here have been assessed to have differing levels of influence (or impact) on cumulative daily page view organic search traffic for their containing html page. We wanted to give you the opportunity to see which features had the greatest influence, and which have limited impact. Feel free to click on 'Influence Rank' tab above to sort them as required.
-					  </div>
-				  </div>
-			  </div>
-			  <div class="accordion-group">
-				  <div class="accordion-heading">
-					  <a class="accordion-toggle" data-toggle="collapse"
-					  data-parent="#accordion3" href="#collapseThree">
-					  What is <script>document.write(featureName);</script> exactly?
-				  </a>
-			  </div>
-			  <div id="collapseThree" class="accordion-body collapse">
-				  <div class="accordion-inner">
-					  Automatically pull in description for <script>document.write(featureName);</script> here.
-					  [TBC]
-				  </div>
 			  </div>
 		  </div>
-		  </div>
-	  </div>
 
   </div>
 
