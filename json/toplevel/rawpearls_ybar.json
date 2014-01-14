@@ -6,10 +6,6 @@
 			{
 				"label": "Onsite",
 				"value": 1
-			},
-			{
-				"label": "Offsite",
-				"value": 0
 			}
 		]
 	},
@@ -20,10 +16,6 @@
 			{
 				"label": "Onsite",
 				"value": 48
-			},
-			{
-				"label": "Offsite",
-				"value": 0
 			}
 		]
 	},
@@ -34,10 +26,6 @@
 			{
 				"label": "Onsite",
 				"value": -76
-			},
-			{
-				"label": "Offsite",
-				"value": -0
 			}
 		]
 	}
