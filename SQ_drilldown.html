@@ -98,6 +98,36 @@
 		JSONfilename = "XDrillOff";
 	}
 	
+	// -----------------------------
+	
+	var featureJSON = $.getJSON( "json/features/feature_list.json", function(results) {
+		console.log( "JSON loading success" );
+		$.each(results, function(index) {
+			// alert(results[index].name);
+
+				blob = results[index].name;
+				blobDesc = results[index].description;
+				$.each(blob, function(nameIndex) {
+					features.push(blob[nameIndex]);
+					descriptions.push(blobDesc[nameIndex]);
+				});
+			
+
+
+		});
+	})
+	.done(function() {
+		console.log( "second success" );
+	})
+	.fail(function() {
+		console.log( "error" );
+	})
+	.always(function() {
+		console.log( "complete" );
+	});
+
+	// -----------------------------
+
 
 function initDataTables(){
 

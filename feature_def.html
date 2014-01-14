@@ -175,6 +175,36 @@
 	var urlSplit = locate.split("=");
 	var featureName = urlSplit[1] || "html5 detected";
 	
+	// -----------------------------
+	
+	var features = [];
+	var descriptions = [];
+	
+	var featureJSON = $.getJSON( "json/features/feature_list.json", function(results) {
+		console.log( "JSON loading success" );
+		$.each(results, function(index) {
+			// alert(results[index].name);
+
+				blob = results[index].name;
+				blobDesc = results[index].description;
+				$.each(blob, function(nameIndex) {
+					features.push(blob[nameIndex]);
+					descriptions.push(blobDesc[nameIndex]);
+				});
+
+		});
+	})
+	.done(function() {
+		console.log( "second success" );
+	})
+	.fail(function() {
+		console.log( "error" );
+	})
+	.always(function() {
+		console.log( "complete" );
+	});
+
+	// -----------------------------
 
 	// var websiteURL = "www.leighmans.com";
 	// var websiteSplit = websiteURL.split(".");
@@ -261,21 +291,28 @@
 	  </div> 
 
 		  <hr>
-		  
+
 		  <div class="well">
 			  Under construction
-
 		  </div>
-	  <hr>
-			
-			
-			
-    
+		  
+		  <div class="accordion" id="accordion1">
+			  <div class="accordion-group">
+				  <div class="accordion-heading">
+					  <a class="accordion-toggle" data-toggle="collapse"
+					  data-parent="#accordion1" href="#collapseOne">
+					  <script>document.write(featureName);</script></a>
+				  </div>
+				  <div id="collapseOne" class="accordion-body collapse">
+					  <div class="accordion-inner">
+						  Over 100 features taken straight from the html pages of your domain (related to structure and content), approximately 20 calculated (or premium) features (such as ratios of one feature to another) and 5-10 advanced features which analyse backlinks and their effect on the onsite.
+					  </div>
+				  </div>
+			  </div>
+		  </div>
 
-	  <!-- Not crucial, but we put this under a CC By-SA 3.0 license. -->
-	  <!-- http://creativecommons.org/licenses/ -->
-	  <!-- Not crucial, but we put this under a CC By-SA 3.0 license. -->
-	  <!-- http://creativecommons.org/licenses/ -->
+	  <hr>
+
 	  <div class="row-fluid footer">
 		  <div class="span12">
 			  <p><small>© MathSight Ltd 2013 &nbsp; &nbsp;Terms of Service &nbsp; &nbsp;Privacy &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Run by MathSight Ltd in Richmond, UK<small></p>
