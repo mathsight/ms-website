@@ -93,9 +93,11 @@
 	
 	if (onOrOffsite.length < 7) {
 		JSONfilename = "XDrill";
+		highlightFilename = "Xhat";
 	}
 	else {
 		JSONfilename = "XDrillOff";
+		highlightFilename = "XhatOff";
 	}
 	
 	// -----------------------------
@@ -126,6 +128,27 @@
 	.always(function() {
 		console.log( "complete" );
 	});
+	
+	featureJSON.complete(function() {
+		console.log( "second complete - populating feature table" );
+		
+		var table = document.getElementById("featTableBody"); 
+
+		for(var i = 0; i < features.length; i++) {
+			
+			var tr = document.createElement("tr");
+			var tdFeat = tr.appendChild(document.createElement("td"));
+			var tdDesc = tr.appendChild(document.createElement("td"));
+			tdFeat.innerHTML = features[i]
+			tdDesc.innerHTML = descriptions[i];
+			table.appendChild(tr);
+		}
+		
+	 	// document.getElementById("jfeatures").innerHTML=features; 						 
+	
+	});
+	
+	
 
 	// -----------------------------
 
@@ -167,11 +190,13 @@ function initDataTables(){
 	
 $(document).ready(function(){
 	
-
 initDataTables();
 /* all other page load code*/
 
 });
+
+
+
 
 </script>
 
