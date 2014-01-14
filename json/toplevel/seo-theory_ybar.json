@@ -2,25 +2,25 @@
 	{
 		"key": "Healthy",
 		"color": "#00cc00",
-		"values": {
+		"values": [{
 			"label": "Onsite",
 			"value": 1
-		}
+			}]
 	},
 	{
 		"key": "Neutral",
 		"color": "#ff9900",
-		"values": {
+		"values": [{
 			"label": "Onsite",
 			"value": 1637
-		}
+			}]
 	},
 	{
 		"key": "Harmful",
 		"color": "#ff0000",
-		"values": {
+		"values": [{
 			"label": "Onsite",
 			"value": -55
-		}
+			}]
 	}
 ]
