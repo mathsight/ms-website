@@ -385,10 +385,10 @@ d3.json(topLevelFile, function(data) {
 		//.tooltips(false)
 		//.barColor(d3.scale.category20().range())
 		.transitionDuration(250)
-		.stacked(false);
+		.stacked(false)
 		//.showControls(false);
 		
-		d[1].disabled=true
+		.y[1].disabled=true
 
 		chart.yAxis
 		.tickFormat(d3.format(',.2f'));
