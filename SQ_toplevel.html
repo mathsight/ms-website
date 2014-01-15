@@ -353,6 +353,11 @@ dataTableTwo = $('#example3b').dataTable( {
 $(document).ready(function(){
 initDataTables();
 /* all other page load code*/
+var state = chart.state();
+state.disabled[1] = new Boolean(1);
+
+chart.dispatch.changeState(state);
+chart.update();
 
 });
 	
@@ -375,7 +380,7 @@ initDataTables();
 
 		var chart;
 
-var chartDone = $.d3.json(topLevelFile, function(data) {
+d3.json(topLevelFile, function(data) {
 
 	nv.addGraph(function() {
 		chart = nv.models.multiBarHorizontalChart()
@@ -405,16 +410,6 @@ var chartDone = $.d3.json(topLevelFile, function(data) {
 		
 		return chart;
 	});
-});
-
-chartDone.complete(function() {
-
-	var state = chart.state();
-	state.disabled[1] = new Boolean(1);
-
-	chart.dispatch.changeState(state);
-	chart.update();
-
 });
 
 
