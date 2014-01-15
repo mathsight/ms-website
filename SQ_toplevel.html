@@ -396,7 +396,7 @@ d3.json(topLevelFile, function(data) {
 		.datum(data)
 		.call(chart);
 
-		chart.state().disabled[1] = True;
+		chart.state().disabled[1] = new Boolean(1);
 
 		nv.utils.windowResize(chart.update);
 		
