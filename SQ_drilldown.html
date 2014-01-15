@@ -219,6 +219,8 @@ initDataTables();
  * Simple test data generator
   */
 
+
+
  
 function sinAndCos() {
 	var sin = [],
@@ -243,6 +245,55 @@ function sinAndCos() {
 	];
 }
 
+var mu = 2.3;
+var sd = 1.8;
+var mu2 = 3.3;
+var sd2 = 0.8;
+
+ixMin = Math.round(Math.min(mu-3*sd,mu2-3*sd2));
+ixMax = Math.round(Math.max(mu+3*sd,mu2+3*sd2));
+ixRange = ixMax-ixMin;
+ixInc = ixRange/100;
+
+
+function normalDist() {
+	// var lowerWinZone = mu-2*sd;
+	//     var upperWinZone = mu+2*sd;
+	//     var lowerLoseZone = mu2-2*sd2;
+	//     var upperLoseZone = mu2+2*sd2;
+
+	var iy = [];
+	iy2 = [];
+	
+	// iy = pdf('normal', ix, mu, sd);
+	
+	// ix2 = ixMin:1e-3:ixMax;
+	// iy2 = pdf('normal', ix2, mu2, sd2);
+	
+	for (var i = ixMin; i < ixMax; i+= ixInc) {
+		
+		iy.push({x: i, y: (1/(sd*Math.sqrt(2*Math.PI)))* Math.exp(-Math.pow(i-mu,2)/(2*Math.pow(sd,2)))});
+		iy2.push({x: i, y: (1/(sd2*Math.sqrt(2*Math.PI)))* Math.exp(-Math.pow(i-mu2,2)/(2*Math.pow(sd2,2)))});
+		
+	}
+	
+	
+	return [
+	{
+		values: iy,
+		key: 'Winning Distribution',
+		color: '#00cc00'
+	},
+	{
+		values: iy2,
+		key: 'Losing Distribution',
+		color: '#ff0000'
+	}
+	];
+	
+}
+
+
 
 // var topLevelFile = "/json/toplevel/" + websiteName + "_ybar.json";
 
@@ -257,7 +308,7 @@ nv.addGraph(function() {
 	.tickFormat(d3.format('.02f'));
  
 	d3.select('#chart svg')
-	.datum(sinAndCos())
+	.datum(normalDist())
 	.transition().duration(500)
 	.call(chart);
 
