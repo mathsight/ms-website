@@ -373,10 +373,10 @@ initDataTables();
 
 
 
+		var chart;
 
 d3.json(topLevelFile, function(data) {
 
-	var chart;
 	nv.addGraph(function() {
 		chart = nv.models.multiBarHorizontalChart()
 		.x(function(d) { return d.label })
