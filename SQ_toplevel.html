@@ -393,8 +393,6 @@ d3.json(topLevelFile, function(data) {
 		chart.yAxis
 		.tickFormat(d3.format(',.2f'));
 		
-		var state = chart.state();
-		state.disabled[1] = new Boolean(1);
 
 		d3.select('#chart1 svg')
 		.datum(data)
@@ -407,13 +405,7 @@ d3.json(topLevelFile, function(data) {
 		return chart;
 	});
 	
-	
-	// var state = chart.state();
-	// state.disabled[1] = new Boolean(1);
-	// 
-	// chart.dispatch.changeState(state);
-	// chart.update();
-	
+
 });
 
 
