@@ -375,7 +375,7 @@ initDataTables();
 
 		var chart;
 
-var chartDone = d3.json(topLevelFile, function(data) {
+var chartDone = $.d3.json(topLevelFile, function(data) {
 
 	nv.addGraph(function() {
 		chart = nv.models.multiBarHorizontalChart()
