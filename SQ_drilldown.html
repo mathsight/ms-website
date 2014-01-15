@@ -102,11 +102,11 @@
 	
 	// -----------------------------
 	
-	var featDescs = [];
-	var loseMeans = [];
-	var winMeans = [];
-	var harmMeans = [];
-	var healthMeans = [];
+
+	var loseMean = [];
+	var winMean = [];
+	var harmMean = [];
+	var healthMean = [];
 	
 	var featureJSON = $.getJSON( highlightFilename, function(results) {
 		console.log( "JSON loading success" );
@@ -116,11 +116,18 @@
 			blob = results.onsite[index];
 			// blobDesc = results[index].description;
 			$.each(blob, function(nameIndex) {
-				featDescs.push(blob[1]);
-				loseMeans.push(blob[2]);
-				winMeans.push(blob[3]);
-				harmMeans.push(blob[5]);
-				healthMeans.push(blob[8]);
+				blobInner = blob[nameIndex];
+				if (blobInner[1]==featureName.lower()) {
+					
+					alert(featureName);
+					loseMean.push(blobInner[2]);
+					winMean.push(blobInner[3]);
+					harmMean.push(blobInner[5]);
+					healthMean.push(blobInner[8]);
+					
+				}
+				
+				
 				// winStdevs.push(blobDesc[nameIndex]);
 			});
 			// 	
