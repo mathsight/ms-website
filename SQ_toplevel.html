@@ -378,7 +378,7 @@ initDataTables();
 
 d3.json(topLevelFile, function(data) {
 
-	nv.addGraph(function() {
+	chartObj = nv.addGraph(function() {
 		var chart = nv.models.multiBarHorizontalChart()
 		.x(function(d) { return d.label })
 		.y(function(d) { return d.value })
@@ -403,11 +403,13 @@ d3.json(topLevelFile, function(data) {
 		
 		return chart;
 	});
-	var state = chart.state();
+	
+	
+	var state = chartObj.state();
 	state.disabled[1] = new Boolean(1);
 
-	chart.dispatch.changeState(state);
-	chart.update();
+	chartObj.dispatch.changeState(state);
+	chartObj.update();
 	
 });
 
