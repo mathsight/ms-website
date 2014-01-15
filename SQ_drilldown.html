@@ -108,16 +108,20 @@
 	var featureJSON = $.getJSON( highlightFilename, function(results) {
 		console.log( "JSON loading success" );
 		$.each(results.onsite, function(index) {
-			alert(results.onsite[index].name);
+			// alert(results.onsite[index].name);
 			// 	
-			// 				blob = results[index].name;
-			// 				blobDesc = results[index].description;
-			// 				$.each(blob, function(nameIndex) {
-				// 					winMeans.push(blob[nameIndex]);
-				// 					winStdevs.push(blobDesc[nameIndex]);
-				// 				});
-				// 	
+			blob = results.onsite[index];
+			// blobDesc = results[index].description;
+			$.each(blob, function(nameIndex) {
+				featDescs.push(blob[1]);
+				loseMeans.push(blob[2]);
+				winMeans.push(blob[3]);
+				harmMeans.push(blob[5]);
+				healthMeans.push(blob[8]);
+				// winStdevs.push(blobDesc[nameIndex]);
 			});
+			// 	
+		});
 	})
 	.done(function() {
 		console.log( "second success" );
