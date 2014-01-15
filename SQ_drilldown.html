@@ -116,17 +116,19 @@
 			blob = results.onsite[index];
 			// blobDesc = results[index].description;
 
-			console.log(featureName);
+			// console.log(featureName);
 				
 			if (blob[1]==featureName) {
 				// 		
-				console.log(featureName);
-				console.log(blob[1]);
-				// 	loseMean.push(blob[2]);
-				// 	winMean.push(blob[3]);
-				// 	harmMean.push(blob[5]);
-				// 	healthMean.push(blob[8]);
+				// console.log(featureName);
+		// 		console.log(blob[1]);
+					loseMean.push(blob[2]);
+					winMean.push(blob[3]);
+					harmMean.push(blob[5]);
+					healthMean.push(blob[8]);
 				// 
+				console.log("Losing mean = " + loseMean);
+				console.log("Winning mean = " + winMean);
 			}
 	
 		});
