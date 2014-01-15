@@ -102,8 +102,11 @@
 	
 	// -----------------------------
 	
+	var featDescs = [];
+	var loseMeans = [];
 	var winMeans = [];
-	var winStdevs = [];
+	var harmMeans = [];
+	var healthMeans = [];
 	
 	var featureJSON = $.getJSON( highlightFilename, function(results) {
 		console.log( "JSON loading success" );
