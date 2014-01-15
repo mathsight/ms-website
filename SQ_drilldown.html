@@ -107,17 +107,17 @@
 	
 	var featureJSON = $.getJSON( highlightFilename, function(results) {
 		console.log( "JSON loading success" );
-		// $.each(results, function(index) {
-// 			// alert(results[index].name);
-// 	
-// 				blob = results[index].name;
-// 				blobDesc = results[index].description;
-// 				$.each(blob, function(nameIndex) {
-// 					winMeans.push(blob[nameIndex]);
-// 					winStdevs.push(blobDesc[nameIndex]);
-// 				});
-// 	
-// 		});
+		$.each(results.onsite, function(index) {
+			alert(results.onsite[index].name);
+			// 	
+			// 				blob = results[index].name;
+			// 				blobDesc = results[index].description;
+			// 				$.each(blob, function(nameIndex) {
+				// 					winMeans.push(blob[nameIndex]);
+				// 					winStdevs.push(blobDesc[nameIndex]);
+				// 				});
+				// 	
+			});
 	})
 	.done(function() {
 		console.log( "second success" );
