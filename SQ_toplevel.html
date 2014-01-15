@@ -396,13 +396,18 @@ d3.json(topLevelFile, function(data) {
 		.datum(data)
 		.call(chart);
 
+		chart.state().disabled[1] = True;
+
 		nv.utils.windowResize(chart.update);
-
+		
+		
 		chart.dispatch.on('stateChange', function(e) { nv.log('New State:', JSON.stringify(e)); });
-
+		
 		return chart;
 	});
 });
+
+
 
 
 
@@ -428,7 +433,10 @@ redrawGraph = function(file) {
 	.datum(data)
 	.call(chart);
 	
+	chart.state().disabled[1] = True;
+	
     nv.utils.windowResize(chart.update);
+	
   });
 };
 

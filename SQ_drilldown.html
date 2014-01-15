@@ -93,61 +93,61 @@
 	
 	if (onOrOffsite.length < 7) {
 		JSONfilename = "XDrill";
-		highlightFilename = "Xhat";
+		highlightFilename = "json/"+websiteName+"_Xhat";
 	}
 	else {
 		JSONfilename = "XDrillOff";
-		highlightFilename = "XhatOff";
+		highlightFilename = "json/"+websiteName+"_XhatOff";
 	}
 	
 	// -----------------------------
 	
-	// var features = [];
-	// var descriptions = [];
-	// 
-	// var featureJSON = $.getJSON( "json/features/feature_list.json", function(results) {
-	// 	console.log( "JSON loading success" );
-	// 	$.each(results, function(index) {
-	// 		// alert(results[index].name);
-	// 
-	// 			blob = results[index].name;
-	// 			blobDesc = results[index].description;
-	// 			$.each(blob, function(nameIndex) {
-	// 				features.push(blob[nameIndex]);
-	// 				descriptions.push(blobDesc[nameIndex]);
-	// 			});
-	// 
-	// 	});
-	// })
-	// .done(function() {
-	// 	console.log( "second success" );
-	// })
-	// .fail(function() {
-	// 	console.log( "error" );
-	// })
-	// .always(function() {
-	// 	console.log( "complete" );
-	// });
-	// 
-	// featureJSON.complete(function() {
-	// 	console.log( "second complete - populating feature table" );
-	// 	
-	// 	var table = document.getElementById("featTableBody"); 
-	// 
-	// 	for(var i = 0; i < features.length; i++) {
-	// 		
-	// 		var tr = document.createElement("tr");
-	// 		var tdFeat = tr.appendChild(document.createElement("td"));
-	// 		var tdDesc = tr.appendChild(document.createElement("td"));
-	// 		tdFeat.innerHTML = features[i]
-	// 		tdDesc.innerHTML = descriptions[i];
-	// 		table.appendChild(tr);
-	// 	}
-	// 	
-	//  	// document.getElementById("jfeatures").innerHTML=features; 						 
-	// 
-	// });
-	// 
+	var winMeans = [];
+	var winStdevs = [];
+	
+	var featureJSON = $.getJSON( highlightFilename, function(results) {
+		console.log( "JSON loading success" );
+		$.each(results, function(index) {
+			// alert(results[index].name);
+	
+				blob = results[index].name;
+				blobDesc = results[index].description;
+				$.each(blob, function(nameIndex) {
+					winMeans.push(blob[nameIndex]);
+					winStdevs.push(blobDesc[nameIndex]);
+				});
+	
+		});
+	})
+	.done(function() {
+		console.log( "second success" );
+	})
+	.fail(function() {
+		console.log( "error" );
+	})
+	.always(function() {
+		console.log( "complete" );
+	});
+	
+	featureJSON.complete(function() {
+		console.log( "second complete - populating feature table" );
+		
+		var table = document.getElementById("featTableBody"); 
+	
+		for(var i = 0; i < features.length; i++) {
+			
+			var tr = document.createElement("tr");
+			var tdFeat = tr.appendChild(document.createElement("td"));
+			var tdDesc = tr.appendChild(document.createElement("td"));
+			tdFeat.innerHTML = features[i]
+			tdDesc.innerHTML = descriptions[i];
+			table.appendChild(tr);
+		}
+		
+	 	// document.getElementById("jfeatures").innerHTML=features; 						 
+	
+	});
+	
 	
 
 	// -----------------------------
@@ -257,18 +257,11 @@ ixInc = ixRange/100;
 
 
 function normalDist() {
-	// var lowerWinZone = mu-2*sd;
-	//     var upperWinZone = mu+2*sd;
-	//     var lowerLoseZone = mu2-2*sd2;
-	//     var upperLoseZone = mu2+2*sd2;
+
 
 	var iy = [];
 	iy2 = [];
 	
-	// iy = pdf('normal', ix, mu, sd);
-	
-	// ix2 = ixMin:1e-3:ixMax;
-	// iy2 = pdf('normal', ix2, mu2, sd2);
 	
 	for (var i = ixMin; i < ixMax; i+= ixInc) {
 		
