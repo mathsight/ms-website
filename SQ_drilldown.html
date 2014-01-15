@@ -259,9 +259,9 @@ initDataTables();
 // 	];
 // }
 
-var mu = float(winMean);
+var mu = parseFloat(winMean);
 var sd = 1.8;
-var mu2 = float(loseMean);
+var mu2 = parseFloat(loseMean);
 var sd2 = 0.8;
 
 ixMin = Math.round(Math.min(mu-3*sd,mu2-3*sd2));
