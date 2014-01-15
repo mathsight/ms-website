@@ -107,17 +107,17 @@
 	
 	var featureJSON = $.getJSON( highlightFilename, function(results) {
 		console.log( "JSON loading success" );
-		$.each(results, function(index) {
-			// alert(results[index].name);
-	
-				blob = results[index].name;
-				blobDesc = results[index].description;
-				$.each(blob, function(nameIndex) {
-					winMeans.push(blob[nameIndex]);
-					winStdevs.push(blobDesc[nameIndex]);
-				});
-	
-		});
+		// $.each(results, function(index) {
+// 			// alert(results[index].name);
+// 	
+// 				blob = results[index].name;
+// 				blobDesc = results[index].description;
+// 				$.each(blob, function(nameIndex) {
+// 					winMeans.push(blob[nameIndex]);
+// 					winStdevs.push(blobDesc[nameIndex]);
+// 				});
+// 	
+// 		});
 	})
 	.done(function() {
 		console.log( "second success" );
@@ -130,19 +130,19 @@
 	});
 	
 	featureJSON.complete(function() {
-		console.log( "second complete - populating feature table" );
+		console.log( "second complete" );
 		
-		var table = document.getElementById("featTableBody"); 
-	
-		for(var i = 0; i < features.length; i++) {
-			
-			var tr = document.createElement("tr");
-			var tdFeat = tr.appendChild(document.createElement("td"));
-			var tdDesc = tr.appendChild(document.createElement("td"));
-			tdFeat.innerHTML = features[i]
-			tdDesc.innerHTML = descriptions[i];
-			table.appendChild(tr);
-		}
+		// var table = document.getElementById("featTableBody"); 
+	// 
+	// 	for(var i = 0; i < features.length; i++) {
+	// 		
+	// 		var tr = document.createElement("tr");
+	// 		var tdFeat = tr.appendChild(document.createElement("td"));
+	// 		var tdDesc = tr.appendChild(document.createElement("td"));
+	// 		tdFeat.innerHTML = features[i]
+	// 		tdDesc.innerHTML = descriptions[i];
+	// 		table.appendChild(tr);
+	// 	}
 		
 	 	// document.getElementById("jfeatures").innerHTML=features; 						 
 	
@@ -222,28 +222,28 @@ initDataTables();
 
 
  
-function sinAndCos() {
-	var sin = [],
-	cos = [];
-
-	for (var i = 0; i < 100; i++) {
-		sin.push({x: i, y: Math.sin(i/10)});
-		cos.push({x: i, y: .5 * Math.cos(i/10)});
-	}
- 
-	return [
-	{
-		values: sin,
-		key: 'Winning Distribution',
-		color: '#00cc00'
-	},
-	{
-		values: cos,
-		key: 'Losing Distribution',
-		color: '#ff0000'
-	}
-	];
-}
+// function sinAndCos() {
+// 	var sin = [],
+// 	cos = [];
+// 
+// 	for (var i = 0; i < 100; i++) {
+// 		sin.push({x: i, y: Math.sin(i/10)});
+// 		cos.push({x: i, y: .5 * Math.cos(i/10)});
+// 	}
+//  
+// 	return [
+// 	{
+// 		values: sin,
+// 		key: 'Winning Distribution',
+// 		color: '#00cc00'
+// 	},
+// 	{
+// 		values: cos,
+// 		key: 'Losing Distribution',
+// 		color: '#ff0000'
+// 	}
+// 	];
+// }
 
 var mu = 2.3;
 var sd = 1.8;
@@ -310,37 +310,6 @@ nv.addGraph(function() {
 	return chart;
 });
 
-
-
-// d3.json(topLevelFile, function(data) {
-// 
-// 	var chart;
-// 	nv.addGraph(function() {
-// 		chart = nv.models.multiBarHorizontalChart()
-// 		.x(function(d) { return d.label })
-// 		.y(function(d) { return d.value })
-// 		.margin({top: 30, right: 100, bottom: 50, left: 100})
-// 		//.showValues(true)
-// 		//.tooltips(false)
-// 		//.barColor(d3.scale.category20().range())
-// 		.transitionDuration(250)
-// 		.stacked(false)
-// 		//.showControls(false);
-// 
-// 		chart.yAxis
-// 		.tickFormat(d3.format(',.2f'));
-// 
-// 		d3.select('#chart1 svg')
-// 		.datum(data)
-// 		.call(chart);
-// 
-// 		nv.utils.windowResize(chart.update);
-// 
-// 		chart.dispatch.on('stateChange', function(e) { nv.log('New State:', JSON.stringify(e)); });
-// 
-// 		return chart;
-// 	});
-// });
 
 </script>
 
