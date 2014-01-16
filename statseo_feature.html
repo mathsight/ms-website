@@ -281,7 +281,15 @@
 		var domainElement = document.getElementById("inputURL");
 		var websiteURLNew = domainElement.value;
 		if (websiteURLNew.length > 0) {
+			
 			var websiteSplitNew = websiteURLNew.split(".");
+			websiteName = websiteSplitNew[1] || "";
+		}
+		else {
+			domainElementX = document.getElementById("selectSite").selectedIndex;
+			domainElementY = document.getElementById("selectSite").options;
+			websiteURLNew = domainElementY[domainElementX].text;
+			websiteSplitNew = websiteURLNew.split(".");
 			websiteName = websiteSplitNew[1] || "";
 		}
 
