@@ -113,7 +113,7 @@
 	var numWin = [];
 	
 	var featureJSON = $.getJSON( highlightFilename, function(results) {
-		console.log( "JSON loading success" );
+		console.log( "feature JSON loading success" );
 		$.each(results.onsite, function(index) {
 			// alert(results.onsite[index].name);
 			// 	
@@ -154,19 +154,69 @@
 	featureJSON.complete(function() {
 		console.log( "second complete" );
 		
-		// var table = document.getElementById("featTableBody"); 
-	// 
-	// 	for(var i = 0; i < features.length; i++) {
-	// 		
-	// 		var tr = document.createElement("tr");
-	// 		var tdFeat = tr.appendChild(document.createElement("td"));
-	// 		var tdDesc = tr.appendChild(document.createElement("td"));
-	// 		tdFeat.innerHTML = features[i]
-	// 		tdDesc.innerHTML = descriptions[i];
-	// 		table.appendChild(tr);
-	// 	}
+		var mu = parseFloat(winMean) || 5;
+		var sd = parseFloat(winStd) || 2;
+		var mu2 = parseFloat(loseMean) || 3;
+		var sd2 = parseFloat(loseStd) || 1.5;
+
+		ixMin = Math.round(Math.min(mu-3*sd,mu2-3*sd2));
+		ixMax = Math.round(Math.max(mu+3*sd,mu2+3*sd2));
+		ixRange = ixMax-ixMin;
+		ixInc = ixRange/100;
+
+
+		function normalDist() {
+
+
+			var iy = [];
+			iy2 = [];
+	
+	
+			for (var i = ixMin; i < ixMax; i+= ixInc) {
 		
-	 	// document.getElementById("jfeatures").innerHTML=features; 						 
+				iy.push({x: i, y: (1/(sd*Math.sqrt(2*Math.PI)))* Math.exp(-Math.pow(i-mu,2)/(2*Math.pow(sd,2)))});
+				iy2.push({x: i, y: (1/(sd2*Math.sqrt(2*Math.PI)))* Math.exp(-Math.pow(i-mu2,2)/(2*Math.pow(sd2,2)))});
+		
+			}
+	
+	
+			return [
+			{
+				values: iy,
+				key: 'Winning Distribution',
+				color: '#00cc00'
+			},
+			{
+				values: iy2,
+				key: 'Losing Distribution',
+				color: '#ff0000'
+			}
+			];
+	
+		}
+		
+		
+		nv.addGraph(function() {  
+			var chart = nv.models.lineChart();
+			chart.xAxis
+			.axisLabel(featureName)
+			.tickFormat(d3.format(',r'));
+
+			chart.yAxis
+			.axisLabel('Frequency')
+			.tickFormat(d3.format('.02f'));
+ 
+			d3.select('#chart svg')
+			.datum(normalDist())
+			.transition().duration(500)
+			.call(chart);
+
+			nv.utils.windowResize(function() { d3.select('#chart svg').call(chart) });
+
+			return chart;
+		});
+		
+		
 	
 	});
 	
@@ -267,70 +317,73 @@ initDataTables();
 // 	];
 // }
 
-var mu = parseFloat(winMean) || 5;
-var sd = parseFloat(winStd) || 2;
-var mu2 = parseFloat(loseMean) || 3;
-var sd2 = parseFloat(loseStd) || 1.5;
-
-ixMin = Math.round(Math.min(mu-3*sd,mu2-3*sd2));
-ixMax = Math.round(Math.max(mu+3*sd,mu2+3*sd2));
-ixRange = ixMax-ixMin;
-ixInc = ixRange/100;
-
-
-function normalDist() {
-
-
-	var iy = [];
-	iy2 = [];
-	
-	
-	for (var i = ixMin; i < ixMax; i+= ixInc) {
-		
-		iy.push({x: i, y: (1/(sd*Math.sqrt(2*Math.PI)))* Math.exp(-Math.pow(i-mu,2)/(2*Math.pow(sd,2)))});
-		iy2.push({x: i, y: (1/(sd2*Math.sqrt(2*Math.PI)))* Math.exp(-Math.pow(i-mu2,2)/(2*Math.pow(sd2,2)))});
-		
-	}
-	
-	
-	return [
-	{
-		values: iy,
-		key: 'Winning Distribution',
-		color: '#00cc00'
-	},
-	{
-		values: iy2,
-		key: 'Losing Distribution',
-		color: '#ff0000'
-	}
-	];
-	
-}
+// var mu = parseFloat(winMean) || 5;
+// var sd = parseFloat(winStd) || 2;
+// var mu2 = parseFloat(loseMean) || 3;
+// var sd2 = parseFloat(loseStd) || 1.5;
+// 
+// ixMin = Math.round(Math.min(mu-3*sd,mu2-3*sd2));
+// ixMax = Math.round(Math.max(mu+3*sd,mu2+3*sd2));
+// ixRange = ixMax-ixMin;
+// ixInc = ixRange/100;
+// 
+// 
+// function normalDist() {
+// 
+// 
+// 	var iy = [];
+// 	iy2 = [];
+// 	
+// 	
+// 	for (var i = ixMin; i < ixMax; i+= ixInc) {
+// 		
+// 		iy.push({x: i, y: (1/(sd*Math.sqrt(2*Math.PI)))* Math.exp(-Math.pow(i-mu,2)/(2*Math.pow(sd,2)))});
+// 		iy2.push({x: i, y: (1/(sd2*Math.sqrt(2*Math.PI)))* Math.exp(-Math.pow(i-mu2,2)/(2*Math.pow(sd2,2)))});
+// 		
+// 	}
+// 	
+// 	
+// 	return [
+// 	{
+// 		values: iy,
+// 		key: 'Winning Distribution',
+// 		color: '#00cc00'
+// 	},
+// 	{
+// 		values: iy2,
+// 		key: 'Losing Distribution',
+// 		color: '#ff0000'
+// 	}
+// 	];
+// 	
+// }
 
 
 
 // var topLevelFile = "/json/toplevel/" + websiteName + "_ybar.json";
 
-nv.addGraph(function() {  
-	var chart = nv.models.lineChart();
-	chart.xAxis
-	.axisLabel(featureName)
-	.tickFormat(d3.format(',r'));
+// nv.addGraph(function() {  
+// 	var chart = nv.models.lineChart();
+// 	chart.xAxis
+// 	.axisLabel(featureName)
+// 	.tickFormat(d3.format(',r'));
+// 
+// 	chart.yAxis
+// 	.axisLabel('Frequency')
+// 	.tickFormat(d3.format('.02f'));
+//  
+// 	d3.select('#chart svg')
+// 	.datum(normalDist())
+// 	.transition().duration(500)
+// 	.call(chart);
+// 
+// 	nv.utils.windowResize(function() { d3.select('#chart svg').call(chart) });
+// 
+// 	return chart;
+// });
 
-	chart.yAxis
-	.axisLabel('Frequency')
-	.tickFormat(d3.format('.02f'));
- 
-	d3.select('#chart svg')
-	.datum(normalDist())
-	.transition().duration(500)
-	.call(chart);
 
-	nv.utils.windowResize(function() { d3.select('#chart svg').call(chart) });
 
-	return chart;
-});
 
 
 </script>
