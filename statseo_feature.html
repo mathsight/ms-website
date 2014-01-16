@@ -224,9 +224,7 @@
 	var websiteJSON = $.getJSON( "json/websites/websiteList.json", function(results) {
 		console.log( "website JSON loading success" );
 		$.each(results, function(index) {
-			// console.log(results[index].url);
-			websites.push = results[index].url;
-
+			websites.push(results[index].url);
 		});
 	})
 	.done(function() {
@@ -244,8 +242,7 @@
 		console.log( "second complete - populating website dropdown" );
 		
 		var selectSite = document.getElementById("selectSite"); 
-		console.log(websites.length);
-
+		
 		for(var i = 0; i < websites.length; i++) {
 			// console.log(websites[i]);
 		    var opt = websites[i];
