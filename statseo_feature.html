@@ -223,9 +223,9 @@
 
 	var websiteJSON = $.getJSON( "json/websites/websiteList.json", function(results) {
 		console.log( "website JSON loading success" );
-		$.each(results.url, function(index) {
+		$.each(results, function(index) {
 			// alert(results[index].name);
-			websites.push = results.url[index];
+			websites.push = results[index].url;
 
 		});
 	})
