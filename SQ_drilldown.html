@@ -124,8 +124,10 @@
 		// 		console.log(blob[1]);
 					loseMean.push(blob[2]);
 					winMean.push(blob[3]);
-					harmMean.push(blob[5]);
-					healthMean.push(blob[8]);
+					loseStd.push(blob[4]);
+					winStd.push(blob[5]);
+					harmMean.push(blob[7]);
+					healthMean.push(blob[10]);
 				// 
 				console.log("Losing mean = " + loseMean);
 				console.log("Winning mean = " + winMean);
@@ -259,10 +261,10 @@ initDataTables();
 // 	];
 // }
 
-var mu = parseFloat(winMean);
-var sd = 1.8;
-var mu2 = parseFloat(loseMean);
-var sd2 = 0.8;
+var mu = parseFloat(winMean) || 5;
+var sd = parseFloat(winStd) || 2;
+var mu2 = parseFloat(loseMean) || 3;
+var sd2 = parseFloat(loseStd) || 1.5;
 
 ixMin = Math.round(Math.min(mu-3*sd,mu2-3*sd2));
 ixMax = Math.round(Math.max(mu+3*sd,mu2+3*sd2));
