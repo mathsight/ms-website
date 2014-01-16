@@ -244,9 +244,10 @@
 		console.log( "second complete - populating website dropdown" );
 		
 		var selectSite = document.getElementById("selectSite"); 
-		
+		console.log(websites.length);
+
 		for(var i = 0; i < websites.length; i++) {
-			console.log(websites[i]);
+			// console.log(websites[i]);
 		    var opt = websites[i];
 		    var el = document.createElement("option");
 		    el.textContent = opt;
