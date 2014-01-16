@@ -114,18 +114,15 @@
 	
 	var featureJSON = $.getJSON( highlightFilename, function(results) {
 		console.log( "feature JSON loading success" );
-		$.each(results.onsite, function(index) {
-			// alert(results.onsite[index].name);
-			// 	
-			blob = results.onsite[index];
-			// blobDesc = results[index].description;
+		if (onOrOffsite == 'onsite') {
+			$.each(results.onsite, function(index) {
 
-			// console.log(featureName);
-				
-			if (blob[1]==featureName) {
-				// 		
-				// console.log(featureName);
-		// 		console.log(blob[1]);
+				blob = results.onsite[index];
+
+				if (blob[1]==featureName) {
+					// 		
+					// console.log(featureName);
+					// 		console.log(blob[1]);
 					loseMean.push(blob[2]);
 					winMean.push(blob[3]);
 					loseStd.push(blob[4]);
@@ -134,12 +131,39 @@
 					harmMean.push(blob[7]);
 					numWin.push(blob[9]);
 					healthMean.push(blob[10]);
-				// 
-				console.log("Losing mean = " + loseMean);
-				console.log("Winning mean = " + winMean);
-			}
+					// 
+					console.log("Losing mean = " + loseMean);
+					console.log("Winning mean = " + winMean);
+				}
+			
 	
-		});
+			});
+		}
+		else {
+			$.each(results.offsite, function(index) {
+
+				blob = results.offsite[index];
+
+				if (blob[1]==featureName) {
+					// 		
+					// console.log(featureName);
+					// 		console.log(blob[1]);
+					loseMean.push(blob[2]);
+					winMean.push(blob[3]);
+					loseStd.push(blob[4]);
+					winStd.push(blob[5]);
+					numLose.push(blob[6]);
+					harmMean.push(blob[7]);
+					numWin.push(blob[9]);
+					healthMean.push(blob[10]);
+					// 
+					console.log("Losing mean = " + loseMean);
+					console.log("Winning mean = " + winMean);
+				}
+			
+	
+			});
+		}
 	})
 	.done(function() {
 		console.log( "second success" );
