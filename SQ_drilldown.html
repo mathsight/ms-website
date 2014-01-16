@@ -109,6 +109,8 @@
 	var winStd = [];
 	var harmMean = [];
 	var healthMean = [];
+	var numLose = [];
+	var numWin = [];
 	
 	var featureJSON = $.getJSON( highlightFilename, function(results) {
 		console.log( "JSON loading success" );
@@ -128,7 +130,9 @@
 					winMean.push(blob[3]);
 					loseStd.push(blob[4]);
 					winStd.push(blob[5]);
+					numLose.push(blob[6]);
 					harmMean.push(blob[7]);
+					numWin.push(blob[9]);
 					healthMean.push(blob[10]);
 				// 
 				console.log("Losing mean = " + loseMean);
@@ -504,17 +508,75 @@ rel="stylesheet" type="text/css">
 				  <thead>
 					  <tr>
 						  <th>Feature name</th>
-						  <th># winning URLs</th>
-						  <th>Feature winning mean</th>
-						  <th>Avg domain feature value</th>
+						  <th>
+							  <script>
+							  if healthOrHarm == 'harmful'{
+								  document.write('# losing URLs');
+							  }
+							  else {
+								  document.write('# winning URLs');
+							  }
+							  </script>
+						  </th>
+						  <th>
+							  <script>
+							  if healthOrHarm == 'harmful'{
+								  document.write('Feature losing mean');
+							  }
+							  else {
+								  document.write('Feature winning mean');
+							  }
+							  </script>
+						  
+						  </th>
+						  <th>
+							  <script>
+							  if healthOrHarm == 'harmful'{
+								  document.write('Avg domain feature value (harmful URLs)');
+							  }
+							  else {
+								  document.write('Avg domain feature value (healthy URLs)');
+							  }
+							  </script>  
+						  </th>
 					  </tr>
 				  </thead>
 				  <tbody>
 					  <tr>
-						  <td><script>document.write(featureName);</script></td>
-						  <td>12</td>
-						  <td>34.2</td>
-						  <td>12.6</td>
+						  <td>
+							  <script>
+							  document.write(featureName);
+							  </script>
+						  </td>
+						  <td>
+							  <script>
+							  if healthOrHarm == 'harmful'{
+								  document.write(numLose);
+							  }
+							  else {
+								  document.write(numWin);
+							  }
+							  </script>
+						  </td>
+						  <td>
+							  <script>
+							  if healthOrHarm == 'harmful'{
+								  document.write(loseMean);
+							  }
+							  else {
+								  document.write(winMean);
+							  }
+							  </script>
+						  </td>
+						  <td><script>
+							  if healthOrHarm == 'harmful'{
+								  document.write(harmMean);
+							  }
+							  else {
+								  document.write(healthMean);
+							  }
+							  </script>
+						  </td>
 					  </tr>
 				  </tbody>
 			  </table>
