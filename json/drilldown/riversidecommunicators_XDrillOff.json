@@ -1,945 +1,761 @@
 {
 	"healthy": {
-		"flesch_reading_ease": {
-			"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/a-fabulous-evening-at-citi-criers-on-14-nov-join-us-on-28-nov.html",
-			"feature_value": "6.1122",
-			"cluster_win_mean": "17.22",
-			"delta": "0"
-		},
-		"flesch_grade_level": [
+		"flesch_reading_ease": [
 			{
-				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/a-fabulous-evening-at-citi-criers-on-14-nov-join-us-on-28-nov.html",
-				"feature_value": "24.6419",
-				"cluster_win_mean": "17.14",
-				"delta": "0"
+				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/public-speaking-fundamentals-a-1-day-hands-on-practical-workshop.html",
+				"feature_value": "61.4261",
+				"cluster_win_mean": "17.45",
+				"delta": "-43.98"
+			},
+			{
+				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/storytelling-workshop-at-grosvenor-square-speakers.html",
+				"feature_value": "71.4003",
+				"cluster_win_mean": "17.45",
+				"delta": "-53.95"
+			},
+			{
+				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/table-topics-impromptu-speaking-workshop-at-pmi-uk-toastmasters-12-november.html",
+				"feature_value": "50.3817",
+				"cluster_win_mean": "17.45",
+				"delta": "-32.93"
+			},
+			{
+				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/special-events-this-week-commencing-11-november.html",
+				"feature_value": "37.1292",
+				"cluster_win_mean": "17.45",
+				"delta": "-19.68"
+			},
+			{
+				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/celebrating-the-gettysbury-address.html",
+				"feature_value": "62.9363",
+				"cluster_win_mean": "17.45",
+				"delta": "-45.49"
+			},
+			{
+				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/pmi-toastmasters-workshop-report-and-next-meeting-invitation.html",
+				"feature_value": "74.9666",
+				"cluster_win_mean": "17.45",
+				"delta": "-57.52"
+			},
+			{
+				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/excalibur-advanced-speakers-welcomes-district-governor-luanne-kent.html",
+				"feature_value": "30.4776",
+				"cluster_win_mean": "17.45",
+				"delta": "-13.03"
+			},
+			{
+				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/tick-tock-come-to-our-storytelling-workshop-11-november.html",
+				"feature_value": "86.7928",
+				"cluster_win_mean": "17.45",
+				"delta": "-69.34"
+			},
+			{
+				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/voice-coaching-workshop-at-lbs-public-speaking-club-12-nov.html",
+				"feature_value": "65.4522",
+				"cluster_win_mean": "17.45",
+				"delta": "   -48"
+			},
+			{
+				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/general-evaluator-needed-citicriers-toastmasters-meeting-thursday-28-november-600-pm.html",
+				"feature_value": " 51.625",
+				"cluster_win_mean": "17.45",
+				"delta": "-34.18"
+			},
+			{
+				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/fantastic-halloween-evening-by-citi-criers-31-oct-.html",
+				"feature_value": "86.3731",
+				"cluster_win_mean": "17.45",
+				"delta": "-68.92"
+			},
+			{
+				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/remembering-jfk-by-rewatching-his-inaugural-address.html",
+				"feature_value": " 62.115",
+				"cluster_win_mean": "17.45",
+				"delta": "-44.67"
+			},
+			{
+				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/uk-ireland-contest-finals-the-results.html",
+				"feature_value": "58.6989",
+				"cluster_win_mean": "17.45",
+				"delta": "-41.25"
+			},
+			{
+				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/have-you-booked-for-the-boadicea-conference-its-next-week.html",
+				"feature_value": "57.4312",
+				"cluster_win_mean": "17.45",
+				"delta": "-39.98"
+			},
+			{
+				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/greater-london-toastmasters-educational-awards-october-2013.html",
+				"feature_value": "51.4118",
+				"cluster_win_mean": "17.45",
+				"delta": "-33.96"
+			},
+			{
+				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/speeches-that-shook-the-world.html",
+				"feature_value": "70.8891",
+				"cluster_win_mean": "17.45",
+				"delta": "-53.44"
+			},
+			{
+				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/getting-your-nerves-under-control-workshop-on-mon-25-november.html",
+				"feature_value": "89.5169",
+				"cluster_win_mean": "17.45",
+				"delta": "-72.07"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/index.html",
-				"feature_value": "15.8788",
-				"cluster_win_mean": "17.14",
-				"delta": "0"
+				"feature_value": "43.1469",
+				"cluster_win_mean": "17.45",
+				"delta": " -25.7"
 			}
 		],
-		"dale_chall_readability": {
-			"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/uk-ireland-contest-finals-the-results.html",
-			"feature_value": "7.9575",
-			"cluster_win_mean": "8.29",
-			"delta": "0"
+		"flesch_grade_level": {
+			"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/a-fabulous-evening-at-citi-criers-on-14-nov-join-us-on-28-nov.html",
+			"feature_value": "24.6419",
+			"cluster_win_mean": "17.33",
+			"delta": "-7.31"
 		},
 		"average_length_of_h1": [
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/public-speaking-fundamentals-a-1-day-hands-on-practical-workshop.html",
 				"feature_value": "0",
-				"cluster_win_mean": "50.38",
-				"delta": "0"
+				"cluster_win_mean": "48.79",
+				"delta": "48.79"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/storytelling-workshop-at-grosvenor-square-speakers.html",
 				"feature_value": "0",
-				"cluster_win_mean": "50.38",
-				"delta": "0"
+				"cluster_win_mean": "48.79",
+				"delta": "48.79"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/table-topics-impromptu-speaking-workshop-at-pmi-uk-toastmasters-12-november.html",
 				"feature_value": "0",
-				"cluster_win_mean": "50.38",
-				"delta": "0"
+				"cluster_win_mean": "48.79",
+				"delta": "48.79"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/special-events-this-week-commencing-11-november.html",
 				"feature_value": "0",
-				"cluster_win_mean": "50.38",
-				"delta": "0"
+				"cluster_win_mean": "48.79",
+				"delta": "48.79"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/celebrating-the-gettysbury-address.html",
 				"feature_value": "0",
-				"cluster_win_mean": "50.38",
-				"delta": "0"
+				"cluster_win_mean": "48.79",
+				"delta": "48.79"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/pmi-toastmasters-workshop-report-and-next-meeting-invitation.html",
 				"feature_value": "0",
-				"cluster_win_mean": "50.38",
-				"delta": "0"
+				"cluster_win_mean": "48.79",
+				"delta": "48.79"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/excalibur-advanced-speakers-welcomes-district-governor-luanne-kent.html",
 				"feature_value": "0",
-				"cluster_win_mean": "50.38",
-				"delta": "0"
+				"cluster_win_mean": "48.79",
+				"delta": "48.79"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/tick-tock-come-to-our-storytelling-workshop-11-november.html",
 				"feature_value": "0",
-				"cluster_win_mean": "50.38",
-				"delta": "0"
+				"cluster_win_mean": "48.79",
+				"delta": "48.79"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/voice-coaching-workshop-at-lbs-public-speaking-club-12-nov.html",
 				"feature_value": "0",
-				"cluster_win_mean": "50.38",
-				"delta": "0"
+				"cluster_win_mean": "48.79",
+				"delta": "48.79"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/general-evaluator-needed-citicriers-toastmasters-meeting-thursday-28-november-600-pm.html",
 				"feature_value": "0",
-				"cluster_win_mean": "50.38",
-				"delta": "0"
+				"cluster_win_mean": "48.79",
+				"delta": "48.79"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/a-fabulous-evening-at-citi-criers-on-14-nov-join-us-on-28-nov.html",
 				"feature_value": "0",
-				"cluster_win_mean": "50.38",
-				"delta": "0"
+				"cluster_win_mean": "48.79",
+				"delta": "48.79"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/fantastic-halloween-evening-by-citi-criers-31-oct-.html",
 				"feature_value": "0",
-				"cluster_win_mean": "50.38",
-				"delta": "0"
+				"cluster_win_mean": "48.79",
+				"delta": "48.79"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/remembering-jfk-by-rewatching-his-inaugural-address.html",
 				"feature_value": "0",
-				"cluster_win_mean": "50.38",
-				"delta": "0"
+				"cluster_win_mean": "48.79",
+				"delta": "48.79"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/uk-ireland-contest-finals-the-results.html",
 				"feature_value": "0",
-				"cluster_win_mean": "50.38",
-				"delta": "0"
+				"cluster_win_mean": "48.79",
+				"delta": "48.79"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/have-you-booked-for-the-boadicea-conference-its-next-week.html",
 				"feature_value": "0",
-				"cluster_win_mean": "50.38",
-				"delta": "0"
+				"cluster_win_mean": "48.79",
+				"delta": "48.79"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/greater-london-toastmasters-educational-awards-october-2013.html",
 				"feature_value": "0",
-				"cluster_win_mean": "50.38",
-				"delta": "0"
+				"cluster_win_mean": "48.79",
+				"delta": "48.79"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/speeches-that-shook-the-world.html",
 				"feature_value": "0",
-				"cluster_win_mean": "50.38",
-				"delta": "0"
+				"cluster_win_mean": "48.79",
+				"delta": "48.79"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/getting-your-nerves-under-control-workshop-on-mon-25-november.html",
 				"feature_value": "0",
-				"cluster_win_mean": "50.38",
-				"delta": "0"
+				"cluster_win_mean": "48.79",
+				"delta": "48.79"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/index.html",
 				"feature_value": "0",
-				"cluster_win_mean": "50.38",
-				"delta": "0"
+				"cluster_win_mean": "48.79",
+				"delta": "48.79"
 			}
 		],
-		"number_of_hyperlinks": [
+		"number_of_images": [
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/public-speaking-fundamentals-a-1-day-hands-on-practical-workshop.html",
-				"feature_value": "146",
-				"cluster_win_mean": "91.03",
-				"delta": "0"
+				"feature_value": "11",
+				"cluster_win_mean": "17.36",
+				"delta": "6.36"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/storytelling-workshop-at-grosvenor-square-speakers.html",
-				"feature_value": "147",
-				"cluster_win_mean": "91.03",
-				"delta": "0"
+				"feature_value": "11",
+				"cluster_win_mean": "17.36",
+				"delta": "6.36"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/table-topics-impromptu-speaking-workshop-at-pmi-uk-toastmasters-12-november.html",
-				"feature_value": "150",
-				"cluster_win_mean": "91.03",
-				"delta": "0"
+				"feature_value": "13",
+				"cluster_win_mean": "17.36",
+				"delta": "4.36"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/special-events-this-week-commencing-11-november.html",
-				"feature_value": "150",
-				"cluster_win_mean": "91.03",
-				"delta": "0"
+				"feature_value": "11",
+				"cluster_win_mean": "17.36",
+				"delta": "6.36"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/celebrating-the-gettysbury-address.html",
-				"feature_value": "145",
-				"cluster_win_mean": "91.03",
-				"delta": "0"
+				"feature_value": "11",
+				"cluster_win_mean": "17.36",
+				"delta": "6.36"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/pmi-toastmasters-workshop-report-and-next-meeting-invitation.html",
-				"feature_value": "152",
-				"cluster_win_mean": "91.03",
-				"delta": "0"
+				"feature_value": "17",
+				"cluster_win_mean": "17.36",
+				"delta": "0.36"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/excalibur-advanced-speakers-welcomes-district-governor-luanne-kent.html",
-				"feature_value": "145",
-				"cluster_win_mean": "91.03",
-				"delta": "0"
+				"feature_value": "11",
+				"cluster_win_mean": "17.36",
+				"delta": "6.36"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/tick-tock-come-to-our-storytelling-workshop-11-november.html",
-				"feature_value": "146",
-				"cluster_win_mean": "91.03",
-				"delta": "0"
+				"feature_value": "11",
+				"cluster_win_mean": "17.36",
+				"delta": "6.36"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/voice-coaching-workshop-at-lbs-public-speaking-club-12-nov.html",
-				"feature_value": "145",
-				"cluster_win_mean": "91.03",
-				"delta": "0"
+				"feature_value": "11",
+				"cluster_win_mean": "17.36",
+				"delta": "6.36"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/general-evaluator-needed-citicriers-toastmasters-meeting-thursday-28-november-600-pm.html",
-				"feature_value": "142",
-				"cluster_win_mean": "91.03",
-				"delta": "0"
+				"feature_value": "11",
+				"cluster_win_mean": "17.36",
+				"delta": "6.36"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/a-fabulous-evening-at-citi-criers-on-14-nov-join-us-on-28-nov.html",
-				"feature_value": "146",
-				"cluster_win_mean": "91.03",
-				"delta": "0"
+				"feature_value": "13",
+				"cluster_win_mean": "17.36",
+				"delta": "4.36"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/fantastic-halloween-evening-by-citi-criers-31-oct-.html",
-				"feature_value": "146",
-				"cluster_win_mean": "91.03",
-				"delta": "0"
+				"feature_value": "13",
+				"cluster_win_mean": "17.36",
+				"delta": "4.36"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/remembering-jfk-by-rewatching-his-inaugural-address.html",
-				"feature_value": "143",
-				"cluster_win_mean": "91.03",
-				"delta": "0"
+				"feature_value": "11",
+				"cluster_win_mean": "17.36",
+				"delta": "6.36"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/uk-ireland-contest-finals-the-results.html",
-				"feature_value": "148",
-				"cluster_win_mean": "91.03",
-				"delta": "0"
+				"feature_value": "11",
+				"cluster_win_mean": "17.36",
+				"delta": "6.36"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/have-you-booked-for-the-boadicea-conference-its-next-week.html",
-				"feature_value": "145",
-				"cluster_win_mean": "91.03",
-				"delta": "0"
+				"feature_value": "13",
+				"cluster_win_mean": "17.36",
+				"delta": "4.36"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/greater-london-toastmasters-educational-awards-october-2013.html",
-				"feature_value": "150",
-				"cluster_win_mean": "91.03",
-				"delta": "0"
+				"feature_value": "13",
+				"cluster_win_mean": "17.36",
+				"delta": "4.36"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/speeches-that-shook-the-world.html",
-				"feature_value": "140",
-				"cluster_win_mean": "91.03",
-				"delta": "0"
+				"feature_value": "11",
+				"cluster_win_mean": "17.36",
+				"delta": "6.36"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/getting-your-nerves-under-control-workshop-on-mon-25-november.html",
-				"feature_value": "147",
-				"cluster_win_mean": "91.03",
-				"delta": "0"
-			},
-			{
-				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/index.html",
-				"feature_value": "244",
-				"cluster_win_mean": "91.03",
-				"delta": "0"
-			}
-		],
-		"number_of_hyperlinks_with_file": [
-			{
-				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/public-speaking-fundamentals-a-1-day-hands-on-practical-workshop.html",
-				"feature_value": " 70",
-				"cluster_win_mean": "6.25",
-				"delta": "0"
-			},
-			{
-				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/storytelling-workshop-at-grosvenor-square-speakers.html",
-				"feature_value": " 70",
-				"cluster_win_mean": "6.25",
-				"delta": "0"
-			},
-			{
-				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/table-topics-impromptu-speaking-workshop-at-pmi-uk-toastmasters-12-november.html",
-				"feature_value": " 76",
-				"cluster_win_mean": "6.25",
-				"delta": "0"
-			},
-			{
-				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/special-events-this-week-commencing-11-november.html",
-				"feature_value": " 78",
-				"cluster_win_mean": "6.25",
-				"delta": "0"
-			},
-			{
-				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/celebrating-the-gettysbury-address.html",
-				"feature_value": " 70",
-				"cluster_win_mean": "6.25",
-				"delta": "0"
-			},
-			{
-				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/pmi-toastmasters-workshop-report-and-next-meeting-invitation.html",
-				"feature_value": " 80",
-				"cluster_win_mean": "6.25",
-				"delta": "0"
-			},
-			{
-				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/excalibur-advanced-speakers-welcomes-district-governor-luanne-kent.html",
-				"feature_value": " 68",
-				"cluster_win_mean": "6.25",
-				"delta": "0"
-			},
-			{
-				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/tick-tock-come-to-our-storytelling-workshop-11-november.html",
-				"feature_value": " 70",
-				"cluster_win_mean": "6.25",
-				"delta": "0"
-			},
-			{
-				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/voice-coaching-workshop-at-lbs-public-speaking-club-12-nov.html",
-				"feature_value": " 70",
-				"cluster_win_mean": "6.25",
-				"delta": "0"
-			},
-			{
-				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/general-evaluator-needed-citicriers-toastmasters-meeting-thursday-28-november-600-pm.html",
-				"feature_value": " 70",
-				"cluster_win_mean": "6.25",
-				"delta": "0"
-			},
-			{
-				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/a-fabulous-evening-at-citi-criers-on-14-nov-join-us-on-28-nov.html",
-				"feature_value": " 72",
-				"cluster_win_mean": "6.25",
-				"delta": "0"
-			},
-			{
-				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/fantastic-halloween-evening-by-citi-criers-31-oct-.html",
-				"feature_value": " 72",
-				"cluster_win_mean": "6.25",
-				"delta": "0"
-			},
-			{
-				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/remembering-jfk-by-rewatching-his-inaugural-address.html",
-				"feature_value": " 70",
-				"cluster_win_mean": "6.25",
-				"delta": "0"
-			},
-			{
-				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/uk-ireland-contest-finals-the-results.html",
-				"feature_value": " 68",
-				"cluster_win_mean": "6.25",
-				"delta": "0"
-			},
-			{
-				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/have-you-booked-for-the-boadicea-conference-its-next-week.html",
-				"feature_value": " 70",
-				"cluster_win_mean": "6.25",
-				"delta": "0"
-			},
-			{
-				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/greater-london-toastmasters-educational-awards-october-2013.html",
-				"feature_value": " 70",
-				"cluster_win_mean": "6.25",
-				"delta": "0"
-			},
-			{
-				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/speeches-that-shook-the-world.html",
-				"feature_value": " 68",
-				"cluster_win_mean": "6.25",
-				"delta": "0"
-			},
-			{
-				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/getting-your-nerves-under-control-workshop-on-mon-25-november.html",
-				"feature_value": " 70",
-				"cluster_win_mean": "6.25",
-				"delta": "0"
-			},
-			{
-				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/index.html",
-				"feature_value": "154",
-				"cluster_win_mean": "6.25",
-				"delta": "0"
-			}
-		],
-		"number_of_images": {
-			"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/index.html",
-			"feature_value": "23",
-			"cluster_win_mean": "17.95",
-			"delta": "0"
-		},
-		"number_of_external_links": [
-			{
-				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/public-speaking-fundamentals-a-1-day-hands-on-practical-workshop.html",
-				"feature_value": "116",
-				"cluster_win_mean": "84.95",
-				"delta": "0"
-			},
-			{
-				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/storytelling-workshop-at-grosvenor-square-speakers.html",
-				"feature_value": "117",
-				"cluster_win_mean": "84.95",
-				"delta": "0"
-			},
-			{
-				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/table-topics-impromptu-speaking-workshop-at-pmi-uk-toastmasters-12-november.html",
-				"feature_value": "114",
-				"cluster_win_mean": "84.95",
-				"delta": "0"
-			},
-			{
-				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/special-events-this-week-commencing-11-november.html",
-				"feature_value": "120",
-				"cluster_win_mean": "84.95",
-				"delta": "0"
-			},
-			{
-				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/celebrating-the-gettysbury-address.html",
-				"feature_value": "115",
-				"cluster_win_mean": "84.95",
-				"delta": "0"
-			},
-			{
-				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/pmi-toastmasters-workshop-report-and-next-meeting-invitation.html",
-				"feature_value": "110",
-				"cluster_win_mean": "84.95",
-				"delta": "0"
-			},
-			{
-				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/excalibur-advanced-speakers-welcomes-district-governor-luanne-kent.html",
-				"feature_value": "115",
-				"cluster_win_mean": "84.95",
-				"delta": "0"
-			},
-			{
-				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/tick-tock-come-to-our-storytelling-workshop-11-november.html",
-				"feature_value": "116",
-				"cluster_win_mean": "84.95",
-				"delta": "0"
-			},
-			{
-				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/voice-coaching-workshop-at-lbs-public-speaking-club-12-nov.html",
-				"feature_value": "115",
-				"cluster_win_mean": "84.95",
-				"delta": "0"
-			},
-			{
-				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/general-evaluator-needed-citicriers-toastmasters-meeting-thursday-28-november-600-pm.html",
-				"feature_value": "109",
-				"cluster_win_mean": "84.95",
-				"delta": "0"
-			},
-			{
-				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/a-fabulous-evening-at-citi-criers-on-14-nov-join-us-on-28-nov.html",
-				"feature_value": "111",
-				"cluster_win_mean": "84.95",
-				"delta": "0"
-			},
-			{
-				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/fantastic-halloween-evening-by-citi-criers-31-oct-.html",
-				"feature_value": "112",
-				"cluster_win_mean": "84.95",
-				"delta": "0"
-			},
-			{
-				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/remembering-jfk-by-rewatching-his-inaugural-address.html",
-				"feature_value": "112",
-				"cluster_win_mean": "84.95",
-				"delta": "0"
-			},
-			{
-				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/uk-ireland-contest-finals-the-results.html",
-				"feature_value": "118",
-				"cluster_win_mean": "84.95",
-				"delta": "0"
-			},
-			{
-				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/have-you-booked-for-the-boadicea-conference-its-next-week.html",
-				"feature_value": "113",
-				"cluster_win_mean": "84.95",
-				"delta": "0"
-			},
-			{
-				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/greater-london-toastmasters-educational-awards-october-2013.html",
-				"feature_value": "118",
-				"cluster_win_mean": "84.95",
-				"delta": "0"
-			},
-			{
-				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/speeches-that-shook-the-world.html",
-				"feature_value": "109",
-				"cluster_win_mean": "84.95",
-				"delta": "0"
-			},
-			{
-				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/getting-your-nerves-under-control-workshop-on-mon-25-november.html",
-				"feature_value": "116",
-				"cluster_win_mean": "84.95",
-				"delta": "0"
-			},
-			{
-				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/index.html",
-				"feature_value": "147",
-				"cluster_win_mean": "84.95",
-				"delta": "0"
-			}
-		],
-		"number_of_hyperlinks_with_html": [
-			{
-				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/public-speaking-fundamentals-a-1-day-hands-on-practical-workshop.html",
-				"feature_value": "108",
-				"cluster_win_mean": "39.42",
-				"delta": "0"
-			},
-			{
-				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/storytelling-workshop-at-grosvenor-square-speakers.html",
-				"feature_value": "109",
-				"cluster_win_mean": "39.42",
-				"delta": "0"
-			},
-			{
-				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/table-topics-impromptu-speaking-workshop-at-pmi-uk-toastmasters-12-november.html",
-				"feature_value": "106",
-				"cluster_win_mean": "39.42",
-				"delta": "0"
-			},
-			{
-				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/special-events-this-week-commencing-11-november.html",
-				"feature_value": "112",
-				"cluster_win_mean": "39.42",
-				"delta": "0"
-			},
-			{
-				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/celebrating-the-gettysbury-address.html",
-				"feature_value": "107",
-				"cluster_win_mean": "39.42",
-				"delta": "0"
-			},
-			{
-				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/pmi-toastmasters-workshop-report-and-next-meeting-invitation.html",
-				"feature_value": "104",
-				"cluster_win_mean": "39.42",
-				"delta": "0"
-			},
-			{
-				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/excalibur-advanced-speakers-welcomes-district-governor-luanne-kent.html",
-				"feature_value": "109",
-				"cluster_win_mean": "39.42",
-				"delta": "0"
-			},
-			{
-				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/tick-tock-come-to-our-storytelling-workshop-11-november.html",
-				"feature_value": "108",
-				"cluster_win_mean": "39.42",
-				"delta": "0"
-			},
-			{
-				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/voice-coaching-workshop-at-lbs-public-speaking-club-12-nov.html",
-				"feature_value": "109",
-				"cluster_win_mean": "39.42",
-				"delta": "0"
-			},
-			{
-				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/general-evaluator-needed-citicriers-toastmasters-meeting-thursday-28-november-600-pm.html",
-				"feature_value": "104",
-				"cluster_win_mean": "39.42",
-				"delta": "0"
-			},
-			{
-				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/a-fabulous-evening-at-citi-criers-on-14-nov-join-us-on-28-nov.html",
-				"feature_value": "106",
-				"cluster_win_mean": "39.42",
-				"delta": "0"
-			},
-			{
-				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/fantastic-halloween-evening-by-citi-criers-31-oct-.html",
-				"feature_value": "106",
-				"cluster_win_mean": "39.42",
-				"delta": "0"
-			},
-			{
-				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/remembering-jfk-by-rewatching-his-inaugural-address.html",
-				"feature_value": "105",
-				"cluster_win_mean": "39.42",
-				"delta": "0"
-			},
-			{
-				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/uk-ireland-contest-finals-the-results.html",
-				"feature_value": "112",
-				"cluster_win_mean": "39.42",
-				"delta": "0"
-			},
-			{
-				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/have-you-booked-for-the-boadicea-conference-its-next-week.html",
-				"feature_value": "107",
-				"cluster_win_mean": "39.42",
-				"delta": "0"
-			},
-			{
-				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/greater-london-toastmasters-educational-awards-october-2013.html",
-				"feature_value": "112",
-				"cluster_win_mean": "39.42",
-				"delta": "0"
-			},
-			{
-				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/speeches-that-shook-the-world.html",
-				"feature_value": "104",
-				"cluster_win_mean": "39.42",
-				"delta": "0"
-			},
-			{
-				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/getting-your-nerves-under-control-workshop-on-mon-25-november.html",
-				"feature_value": "111",
-				"cluster_win_mean": "39.42",
-				"delta": "0"
-			},
-			{
-				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/index.html",
-				"feature_value": "144",
-				"cluster_win_mean": "39.42",
-				"delta": "0"
+				"feature_value": "11",
+				"cluster_win_mean": "17.36",
+				"delta": "6.36"
 			}
 		],
 		"number_of_absolute_internal_links": [
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/public-speaking-fundamentals-a-1-day-hands-on-practical-workshop.html",
 				"feature_value": "1",
-				"cluster_win_mean": "1.46",
-				"delta": "0"
+				"cluster_win_mean": "2.39",
+				"delta": "1.39"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/storytelling-workshop-at-grosvenor-square-speakers.html",
 				"feature_value": "1",
-				"cluster_win_mean": "1.46",
-				"delta": "0"
+				"cluster_win_mean": "2.39",
+				"delta": "1.39"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/table-topics-impromptu-speaking-workshop-at-pmi-uk-toastmasters-12-november.html",
 				"feature_value": "1",
-				"cluster_win_mean": "1.46",
-				"delta": "0"
+				"cluster_win_mean": "2.39",
+				"delta": "1.39"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/special-events-this-week-commencing-11-november.html",
 				"feature_value": "1",
-				"cluster_win_mean": "1.46",
-				"delta": "0"
+				"cluster_win_mean": "2.39",
+				"delta": "1.39"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/celebrating-the-gettysbury-address.html",
 				"feature_value": "1",
-				"cluster_win_mean": "1.46",
-				"delta": "0"
+				"cluster_win_mean": "2.39",
+				"delta": "1.39"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/pmi-toastmasters-workshop-report-and-next-meeting-invitation.html",
 				"feature_value": "1",
-				"cluster_win_mean": "1.46",
-				"delta": "0"
+				"cluster_win_mean": "2.39",
+				"delta": "1.39"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/excalibur-advanced-speakers-welcomes-district-governor-luanne-kent.html",
 				"feature_value": "1",
-				"cluster_win_mean": "1.46",
-				"delta": "0"
+				"cluster_win_mean": "2.39",
+				"delta": "1.39"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/tick-tock-come-to-our-storytelling-workshop-11-november.html",
 				"feature_value": "1",
-				"cluster_win_mean": "1.46",
-				"delta": "0"
+				"cluster_win_mean": "2.39",
+				"delta": "1.39"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/voice-coaching-workshop-at-lbs-public-speaking-club-12-nov.html",
 				"feature_value": "1",
-				"cluster_win_mean": "1.46",
-				"delta": "0"
+				"cluster_win_mean": "2.39",
+				"delta": "1.39"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/general-evaluator-needed-citicriers-toastmasters-meeting-thursday-28-november-600-pm.html",
 				"feature_value": "2",
-				"cluster_win_mean": "1.46",
-				"delta": "0"
+				"cluster_win_mean": "2.39",
+				"delta": "0.39"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/a-fabulous-evening-at-citi-criers-on-14-nov-join-us-on-28-nov.html",
 				"feature_value": "2",
-				"cluster_win_mean": "1.46",
-				"delta": "0"
+				"cluster_win_mean": "2.39",
+				"delta": "0.39"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/fantastic-halloween-evening-by-citi-criers-31-oct-.html",
 				"feature_value": "1",
-				"cluster_win_mean": "1.46",
-				"delta": "0"
+				"cluster_win_mean": "2.39",
+				"delta": "1.39"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/remembering-jfk-by-rewatching-his-inaugural-address.html",
 				"feature_value": "2",
-				"cluster_win_mean": "1.46",
-				"delta": "0"
+				"cluster_win_mean": "2.39",
+				"delta": "0.39"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/uk-ireland-contest-finals-the-results.html",
 				"feature_value": "1",
-				"cluster_win_mean": "1.46",
-				"delta": "0"
+				"cluster_win_mean": "2.39",
+				"delta": "1.39"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/have-you-booked-for-the-boadicea-conference-its-next-week.html",
 				"feature_value": "1",
-				"cluster_win_mean": "1.46",
-				"delta": "0"
+				"cluster_win_mean": "2.39",
+				"delta": "1.39"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/greater-london-toastmasters-educational-awards-october-2013.html",
 				"feature_value": "1",
-				"cluster_win_mean": "1.46",
-				"delta": "0"
+				"cluster_win_mean": "2.39",
+				"delta": "1.39"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/speeches-that-shook-the-world.html",
 				"feature_value": "2",
-				"cluster_win_mean": "1.46",
-				"delta": "0"
+				"cluster_win_mean": "2.39",
+				"delta": "0.39"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/getting-your-nerves-under-control-workshop-on-mon-25-november.html",
 				"feature_value": "2",
-				"cluster_win_mean": "1.46",
-				"delta": "0"
+				"cluster_win_mean": "2.39",
+				"delta": "0.39"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/index.html",
 				"feature_value": "0",
-				"cluster_win_mean": "1.46",
-				"delta": "0"
+				"cluster_win_mean": "2.39",
+				"delta": "2.39"
+			}
+		],
+		"number_of_images_missing_alt": [
+			{
+				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/public-speaking-fundamentals-a-1-day-hands-on-practical-workshop.html",
+				"feature_value": "1",
+				"cluster_win_mean": "16.44",
+				"delta": "15.44"
+			},
+			{
+				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/storytelling-workshop-at-grosvenor-square-speakers.html",
+				"feature_value": "1",
+				"cluster_win_mean": "16.44",
+				"delta": "15.44"
+			},
+			{
+				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/table-topics-impromptu-speaking-workshop-at-pmi-uk-toastmasters-12-november.html",
+				"feature_value": "1",
+				"cluster_win_mean": "16.44",
+				"delta": "15.44"
+			},
+			{
+				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/special-events-this-week-commencing-11-november.html",
+				"feature_value": "1",
+				"cluster_win_mean": "16.44",
+				"delta": "15.44"
+			},
+			{
+				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/celebrating-the-gettysbury-address.html",
+				"feature_value": "1",
+				"cluster_win_mean": "16.44",
+				"delta": "15.44"
+			},
+			{
+				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/pmi-toastmasters-workshop-report-and-next-meeting-invitation.html",
+				"feature_value": "1",
+				"cluster_win_mean": "16.44",
+				"delta": "15.44"
+			},
+			{
+				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/excalibur-advanced-speakers-welcomes-district-governor-luanne-kent.html",
+				"feature_value": "1",
+				"cluster_win_mean": "16.44",
+				"delta": "15.44"
+			},
+			{
+				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/tick-tock-come-to-our-storytelling-workshop-11-november.html",
+				"feature_value": "1",
+				"cluster_win_mean": "16.44",
+				"delta": "15.44"
+			},
+			{
+				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/voice-coaching-workshop-at-lbs-public-speaking-club-12-nov.html",
+				"feature_value": "1",
+				"cluster_win_mean": "16.44",
+				"delta": "15.44"
+			},
+			{
+				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/general-evaluator-needed-citicriers-toastmasters-meeting-thursday-28-november-600-pm.html",
+				"feature_value": "1",
+				"cluster_win_mean": "16.44",
+				"delta": "15.44"
+			},
+			{
+				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/a-fabulous-evening-at-citi-criers-on-14-nov-join-us-on-28-nov.html",
+				"feature_value": "1",
+				"cluster_win_mean": "16.44",
+				"delta": "15.44"
+			},
+			{
+				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/fantastic-halloween-evening-by-citi-criers-31-oct-.html",
+				"feature_value": "1",
+				"cluster_win_mean": "16.44",
+				"delta": "15.44"
+			},
+			{
+				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/remembering-jfk-by-rewatching-his-inaugural-address.html",
+				"feature_value": "1",
+				"cluster_win_mean": "16.44",
+				"delta": "15.44"
+			},
+			{
+				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/uk-ireland-contest-finals-the-results.html",
+				"feature_value": "1",
+				"cluster_win_mean": "16.44",
+				"delta": "15.44"
+			},
+			{
+				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/have-you-booked-for-the-boadicea-conference-its-next-week.html",
+				"feature_value": "1",
+				"cluster_win_mean": "16.44",
+				"delta": "15.44"
+			},
+			{
+				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/greater-london-toastmasters-educational-awards-october-2013.html",
+				"feature_value": "1",
+				"cluster_win_mean": "16.44",
+				"delta": "15.44"
+			},
+			{
+				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/speeches-that-shook-the-world.html",
+				"feature_value": "1",
+				"cluster_win_mean": "16.44",
+				"delta": "15.44"
+			},
+			{
+				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/getting-your-nerves-under-control-workshop-on-mon-25-november.html",
+				"feature_value": "1",
+				"cluster_win_mean": "16.44",
+				"delta": "15.44"
+			},
+			{
+				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/index.html",
+				"feature_value": "1",
+				"cluster_win_mean": "16.44",
+				"delta": "15.44"
 			}
 		],
 		"total_number_of_words": [
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/public-speaking-fundamentals-a-1-day-hands-on-practical-workshop.html",
 				"feature_value": "202",
-				"cluster_win_mean": "132.45",
-				"delta": "0"
+				"cluster_win_mean": "179.65",
+				"delta": " -22.35"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/storytelling-workshop-at-grosvenor-square-speakers.html",
 				"feature_value": "191",
-				"cluster_win_mean": "132.45",
-				"delta": "0"
+				"cluster_win_mean": "179.65",
+				"delta": " -11.35"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/table-topics-impromptu-speaking-workshop-at-pmi-uk-toastmasters-12-november.html",
 				"feature_value": "188",
-				"cluster_win_mean": "132.45",
-				"delta": "0"
-			},
-			{
-				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/celebrating-the-gettysbury-address.html",
-				"feature_value": "147",
-				"cluster_win_mean": "132.45",
-				"delta": "0"
+				"cluster_win_mean": "179.65",
+				"delta": "  -8.35"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/pmi-toastmasters-workshop-report-and-next-meeting-invitation.html",
 				"feature_value": "374",
-				"cluster_win_mean": "132.45",
-				"delta": "0"
+				"cluster_win_mean": "179.65",
+				"delta": "-194.35"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/tick-tock-come-to-our-storytelling-workshop-11-november.html",
 				"feature_value": "243",
-				"cluster_win_mean": "132.45",
-				"delta": "0"
-			},
-			{
-				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/voice-coaching-workshop-at-lbs-public-speaking-club-12-nov.html",
-				"feature_value": "117",
-				"cluster_win_mean": "132.45",
-				"delta": "0"
+				"cluster_win_mean": "179.65",
+				"delta": " -63.35"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/general-evaluator-needed-citicriers-toastmasters-meeting-thursday-28-november-600-pm.html",
 				"feature_value": "248",
-				"cluster_win_mean": "132.45",
-				"delta": "0"
+				"cluster_win_mean": "179.65",
+				"delta": " -68.35"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/a-fabulous-evening-at-citi-criers-on-14-nov-join-us-on-28-nov.html",
 				"feature_value": "197",
-				"cluster_win_mean": "132.45",
-				"delta": "0"
-			},
-			{
-				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/fantastic-halloween-evening-by-citi-criers-31-oct-.html",
-				"feature_value": "114",
-				"cluster_win_mean": "132.45",
-				"delta": "0"
-			},
-			{
-				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/uk-ireland-contest-finals-the-results.html",
-				"feature_value": "138",
-				"cluster_win_mean": "132.45",
-				"delta": "0"
+				"cluster_win_mean": "179.65",
+				"delta": " -17.35"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/have-you-booked-for-the-boadicea-conference-its-next-week.html",
 				"feature_value": "220",
-				"cluster_win_mean": "132.45",
-				"delta": "0"
+				"cluster_win_mean": "179.65",
+				"delta": " -40.35"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/greater-london-toastmasters-educational-awards-october-2013.html",
 				"feature_value": "178",
-				"cluster_win_mean": "132.45",
-				"delta": "0"
-			},
-			{
-				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/speeches-that-shook-the-world.html",
-				"feature_value": "125",
-				"cluster_win_mean": "132.45",
-				"delta": "0"
+				"cluster_win_mean": "179.65",
+				"delta": "   1.65"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/getting-your-nerves-under-control-workshop-on-mon-25-november.html",
 				"feature_value": "169",
-				"cluster_win_mean": "132.45",
-				"delta": "0"
+				"cluster_win_mean": "179.65",
+				"delta": "  10.65"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/index.html",
 				"feature_value": "452",
-				"cluster_win_mean": "132.45",
-				"delta": "0"
+				"cluster_win_mean": "179.65",
+				"delta": "-272.35"
 			}
 		],
 		"average_image_height": [
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/public-speaking-fundamentals-a-1-day-hands-on-practical-workshop.html",
 				"feature_value": "6",
-				"cluster_win_mean": "98.03",
-				"delta": "0"
+				"cluster_win_mean": "97.03",
+				"delta": "91.03"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/storytelling-workshop-at-grosvenor-square-speakers.html",
 				"feature_value": "6",
-				"cluster_win_mean": "98.03",
-				"delta": "0"
+				"cluster_win_mean": "97.03",
+				"delta": "91.03"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/table-topics-impromptu-speaking-workshop-at-pmi-uk-toastmasters-12-november.html",
 				"feature_value": "6",
-				"cluster_win_mean": "98.03",
-				"delta": "0"
+				"cluster_win_mean": "97.03",
+				"delta": "91.03"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/special-events-this-week-commencing-11-november.html",
 				"feature_value": "6",
-				"cluster_win_mean": "98.03",
-				"delta": "0"
+				"cluster_win_mean": "97.03",
+				"delta": "91.03"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/celebrating-the-gettysbury-address.html",
 				"feature_value": "6",
-				"cluster_win_mean": "98.03",
-				"delta": "0"
+				"cluster_win_mean": "97.03",
+				"delta": "91.03"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/pmi-toastmasters-workshop-report-and-next-meeting-invitation.html",
 				"feature_value": "6",
-				"cluster_win_mean": "98.03",
-				"delta": "0"
+				"cluster_win_mean": "97.03",
+				"delta": "91.03"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/excalibur-advanced-speakers-welcomes-district-governor-luanne-kent.html",
 				"feature_value": "6",
-				"cluster_win_mean": "98.03",
-				"delta": "0"
+				"cluster_win_mean": "97.03",
+				"delta": "91.03"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/tick-tock-come-to-our-storytelling-workshop-11-november.html",
 				"feature_value": "6",
-				"cluster_win_mean": "98.03",
-				"delta": "0"
+				"cluster_win_mean": "97.03",
+				"delta": "91.03"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/voice-coaching-workshop-at-lbs-public-speaking-club-12-nov.html",
 				"feature_value": "6",
-				"cluster_win_mean": "98.03",
-				"delta": "0"
+				"cluster_win_mean": "97.03",
+				"delta": "91.03"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/general-evaluator-needed-citicriers-toastmasters-meeting-thursday-28-november-600-pm.html",
 				"feature_value": "6",
-				"cluster_win_mean": "98.03",
-				"delta": "0"
+				"cluster_win_mean": "97.03",
+				"delta": "91.03"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/a-fabulous-evening-at-citi-criers-on-14-nov-join-us-on-28-nov.html",
 				"feature_value": "6",
-				"cluster_win_mean": "98.03",
-				"delta": "0"
+				"cluster_win_mean": "97.03",
+				"delta": "91.03"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/fantastic-halloween-evening-by-citi-criers-31-oct-.html",
 				"feature_value": "6",
-				"cluster_win_mean": "98.03",
-				"delta": "0"
+				"cluster_win_mean": "97.03",
+				"delta": "91.03"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/remembering-jfk-by-rewatching-his-inaugural-address.html",
 				"feature_value": "6",
-				"cluster_win_mean": "98.03",
-				"delta": "0"
+				"cluster_win_mean": "97.03",
+				"delta": "91.03"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/uk-ireland-contest-finals-the-results.html",
 				"feature_value": "6",
-				"cluster_win_mean": "98.03",
-				"delta": "0"
+				"cluster_win_mean": "97.03",
+				"delta": "91.03"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/have-you-booked-for-the-boadicea-conference-its-next-week.html",
 				"feature_value": "6",
-				"cluster_win_mean": "98.03",
-				"delta": "0"
+				"cluster_win_mean": "97.03",
+				"delta": "91.03"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/greater-london-toastmasters-educational-awards-october-2013.html",
 				"feature_value": "6",
-				"cluster_win_mean": "98.03",
-				"delta": "0"
+				"cluster_win_mean": "97.03",
+				"delta": "91.03"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/speeches-that-shook-the-world.html",
 				"feature_value": "6",
-				"cluster_win_mean": "98.03",
-				"delta": "0"
+				"cluster_win_mean": "97.03",
+				"delta": "91.03"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/getting-your-nerves-under-control-workshop-on-mon-25-november.html",
 				"feature_value": "6",
-				"cluster_win_mean": "98.03",
-				"delta": "0"
+				"cluster_win_mean": "97.03",
+				"delta": "91.03"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/index.html",
 				"feature_value": "6",
-				"cluster_win_mean": "98.03",
-				"delta": "0"
+				"cluster_win_mean": "97.03",
+				"delta": "91.03"
 			}
 		],
 		"ratio_of_common_words_to_total": [
@@ -947,231 +763,201 @@
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/public-speaking-fundamentals-a-1-day-hands-on-practical-workshop.html",
 				"feature_value": "0.81188",
 				"cluster_win_mean": "0.74",
-				"delta": "0"
+				"delta": "-0.07"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/storytelling-workshop-at-grosvenor-square-speakers.html",
 				"feature_value": " 0.8534",
 				"cluster_win_mean": "0.74",
-				"delta": "0"
+				"delta": "-0.11"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/table-topics-impromptu-speaking-workshop-at-pmi-uk-toastmasters-12-november.html",
 				"feature_value": "0.81383",
 				"cluster_win_mean": "0.74",
-				"delta": "0"
-			},
-			{
-				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/special-events-this-week-commencing-11-november.html",
-				"feature_value": "0.54237",
-				"cluster_win_mean": "0.74",
-				"delta": "0"
+				"delta": "-0.07"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/celebrating-the-gettysbury-address.html",
 				"feature_value": "0.82313",
 				"cluster_win_mean": "0.74",
-				"delta": "0"
+				"delta": "-0.08"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/pmi-toastmasters-workshop-report-and-next-meeting-invitation.html",
 				"feature_value": "0.75936",
 				"cluster_win_mean": "0.74",
-				"delta": "0"
-			},
-			{
-				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/excalibur-advanced-speakers-welcomes-district-governor-luanne-kent.html",
-				"feature_value": "0.70492",
-				"cluster_win_mean": "0.74",
-				"delta": "0"
+				"delta": "-0.02"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/tick-tock-come-to-our-storytelling-workshop-11-november.html",
 				"feature_value": "0.82716",
 				"cluster_win_mean": "0.74",
-				"delta": "0"
+				"delta": "-0.09"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/voice-coaching-workshop-at-lbs-public-speaking-club-12-nov.html",
 				"feature_value": "0.87179",
 				"cluster_win_mean": "0.74",
-				"delta": "0"
+				"delta": "-0.13"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/general-evaluator-needed-citicriers-toastmasters-meeting-thursday-28-november-600-pm.html",
 				"feature_value": "0.84274",
 				"cluster_win_mean": "0.74",
-				"delta": "0"
+				"delta": " -0.1"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/a-fabulous-evening-at-citi-criers-on-14-nov-join-us-on-28-nov.html",
 				"feature_value": "0.81218",
 				"cluster_win_mean": "0.74",
-				"delta": "0"
+				"delta": "-0.07"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/fantastic-halloween-evening-by-citi-criers-31-oct-.html",
 				"feature_value": "0.76316",
 				"cluster_win_mean": "0.74",
-				"delta": "0"
-			},
-			{
-				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/remembering-jfk-by-rewatching-his-inaugural-address.html",
-				"feature_value": "0.71667",
-				"cluster_win_mean": "0.74",
-				"delta": "0"
-			},
-			{
-				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/uk-ireland-contest-finals-the-results.html",
-				"feature_value": "0.68116",
-				"cluster_win_mean": "0.74",
-				"delta": "0"
+				"delta": "-0.02"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/have-you-booked-for-the-boadicea-conference-its-next-week.html",
 				"feature_value": "0.75455",
 				"cluster_win_mean": "0.74",
-				"delta": "0"
+				"delta": "-0.01"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/greater-london-toastmasters-educational-awards-october-2013.html",
 				"feature_value": "0.80899",
 				"cluster_win_mean": "0.74",
-				"delta": "0"
+				"delta": "-0.07"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/speeches-that-shook-the-world.html",
 				"feature_value": "  0.744",
 				"cluster_win_mean": "0.74",
-				"delta": "0"
+				"delta": "    0"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/getting-your-nerves-under-control-workshop-on-mon-25-november.html",
 				"feature_value": "0.88757",
 				"cluster_win_mean": "0.74",
-				"delta": "0"
+				"delta": "-0.15"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/index.html",
 				"feature_value": "0.81195",
 				"cluster_win_mean": "0.74",
-				"delta": "0"
+				"delta": "-0.07"
 			}
 		],
 		"proximity_of_title_tag_words_to_external_bound_hyperlinks": [
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/public-speaking-fundamentals-a-1-day-hands-on-practical-workshop.html",
 				"feature_value": "1552",
-				"cluster_win_mean": "452.65",
-				"delta": "0"
+				"cluster_win_mean": "584.75",
+				"delta": " -967.25"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/storytelling-workshop-at-grosvenor-square-speakers.html",
 				"feature_value": "1589",
-				"cluster_win_mean": "452.65",
-				"delta": "0"
+				"cluster_win_mean": "584.75",
+				"delta": "-1004.25"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/table-topics-impromptu-speaking-workshop-at-pmi-uk-toastmasters-12-november.html",
 				"feature_value": "1575",
-				"cluster_win_mean": "452.65",
-				"delta": "0"
+				"cluster_win_mean": "584.75",
+				"delta": " -990.25"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/special-events-this-week-commencing-11-november.html",
 				"feature_value": "1570",
-				"cluster_win_mean": "452.65",
-				"delta": "0"
+				"cluster_win_mean": "584.75",
+				"delta": " -985.25"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/celebrating-the-gettysbury-address.html",
 				"feature_value": "1569",
-				"cluster_win_mean": "452.65",
-				"delta": "0"
+				"cluster_win_mean": "584.75",
+				"delta": " -984.25"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/pmi-toastmasters-workshop-report-and-next-meeting-invitation.html",
 				"feature_value": "1801",
-				"cluster_win_mean": "452.65",
-				"delta": "0"
+				"cluster_win_mean": "584.75",
+				"delta": "-1216.25"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/excalibur-advanced-speakers-welcomes-district-governor-luanne-kent.html",
 				"feature_value": "1554",
-				"cluster_win_mean": "452.65",
-				"delta": "0"
+				"cluster_win_mean": "584.75",
+				"delta": " -969.25"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/tick-tock-come-to-our-storytelling-workshop-11-november.html",
 				"feature_value": "1562",
-				"cluster_win_mean": "452.65",
-				"delta": "0"
+				"cluster_win_mean": "584.75",
+				"delta": " -977.25"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/voice-coaching-workshop-at-lbs-public-speaking-club-12-nov.html",
 				"feature_value": "1635",
-				"cluster_win_mean": "452.65",
-				"delta": "0"
+				"cluster_win_mean": "584.75",
+				"delta": "-1050.25"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/general-evaluator-needed-citicriers-toastmasters-meeting-thursday-28-november-600-pm.html",
 				"feature_value": "1614",
-				"cluster_win_mean": "452.65",
-				"delta": "0"
+				"cluster_win_mean": "584.75",
+				"delta": "-1029.25"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/a-fabulous-evening-at-citi-criers-on-14-nov-join-us-on-28-nov.html",
 				"feature_value": "1567",
-				"cluster_win_mean": "452.65",
-				"delta": "0"
+				"cluster_win_mean": "584.75",
+				"delta": " -982.25"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/fantastic-halloween-evening-by-citi-criers-31-oct-.html",
 				"feature_value": "1565",
-				"cluster_win_mean": "452.65",
-				"delta": "0"
+				"cluster_win_mean": "584.75",
+				"delta": " -980.25"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/remembering-jfk-by-rewatching-his-inaugural-address.html",
 				"feature_value": "1496",
-				"cluster_win_mean": "452.65",
-				"delta": "0"
+				"cluster_win_mean": "584.75",
+				"delta": " -911.25"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/uk-ireland-contest-finals-the-results.html",
 				"feature_value": "1621",
-				"cluster_win_mean": "452.65",
-				"delta": "0"
+				"cluster_win_mean": "584.75",
+				"delta": "-1036.25"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/have-you-booked-for-the-boadicea-conference-its-next-week.html",
 				"feature_value": "1559",
-				"cluster_win_mean": "452.65",
-				"delta": "0"
+				"cluster_win_mean": "584.75",
+				"delta": " -974.25"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/greater-london-toastmasters-educational-awards-october-2013.html",
 				"feature_value": "1589",
-				"cluster_win_mean": "452.65",
-				"delta": "0"
+				"cluster_win_mean": "584.75",
+				"delta": "-1004.25"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/speeches-that-shook-the-world.html",
 				"feature_value": "1500",
-				"cluster_win_mean": "452.65",
-				"delta": "0"
+				"cluster_win_mean": "584.75",
+				"delta": " -915.25"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/getting-your-nerves-under-control-workshop-on-mon-25-november.html",
 				"feature_value": "1550",
-				"cluster_win_mean": "452.65",
-				"delta": "0"
-			},
-			{
-				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/index.html",
-				"feature_value": " 489",
-				"cluster_win_mean": "452.65",
-				"delta": "0"
+				"cluster_win_mean": "584.75",
+				"delta": " -965.25"
 			}
 		],
 		"average_number_of_words_in_anchor_text": [
@@ -1179,899 +965,801 @@
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/public-speaking-fundamentals-a-1-day-hands-on-practical-workshop.html",
 				"feature_value": "4",
 				"cluster_win_mean": "2.12",
-				"delta": "0"
+				"delta": "-1.88"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/storytelling-workshop-at-grosvenor-square-speakers.html",
 				"feature_value": "4",
 				"cluster_win_mean": "2.12",
-				"delta": "0"
+				"delta": "-1.88"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/table-topics-impromptu-speaking-workshop-at-pmi-uk-toastmasters-12-november.html",
 				"feature_value": "4",
 				"cluster_win_mean": "2.12",
-				"delta": "0"
+				"delta": "-1.88"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/special-events-this-week-commencing-11-november.html",
 				"feature_value": "4",
 				"cluster_win_mean": "2.12",
-				"delta": "0"
+				"delta": "-1.88"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/celebrating-the-gettysbury-address.html",
 				"feature_value": "4",
 				"cluster_win_mean": "2.12",
-				"delta": "0"
+				"delta": "-1.88"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/pmi-toastmasters-workshop-report-and-next-meeting-invitation.html",
 				"feature_value": "4",
 				"cluster_win_mean": "2.12",
-				"delta": "0"
+				"delta": "-1.88"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/excalibur-advanced-speakers-welcomes-district-governor-luanne-kent.html",
 				"feature_value": "4",
 				"cluster_win_mean": "2.12",
-				"delta": "0"
+				"delta": "-1.88"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/tick-tock-come-to-our-storytelling-workshop-11-november.html",
 				"feature_value": "4",
 				"cluster_win_mean": "2.12",
-				"delta": "0"
+				"delta": "-1.88"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/voice-coaching-workshop-at-lbs-public-speaking-club-12-nov.html",
 				"feature_value": "4",
 				"cluster_win_mean": "2.12",
-				"delta": "0"
+				"delta": "-1.88"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/general-evaluator-needed-citicriers-toastmasters-meeting-thursday-28-november-600-pm.html",
 				"feature_value": "4",
 				"cluster_win_mean": "2.12",
-				"delta": "0"
+				"delta": "-1.88"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/a-fabulous-evening-at-citi-criers-on-14-nov-join-us-on-28-nov.html",
 				"feature_value": "4",
 				"cluster_win_mean": "2.12",
-				"delta": "0"
+				"delta": "-1.88"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/fantastic-halloween-evening-by-citi-criers-31-oct-.html",
 				"feature_value": "4",
 				"cluster_win_mean": "2.12",
-				"delta": "0"
+				"delta": "-1.88"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/remembering-jfk-by-rewatching-his-inaugural-address.html",
 				"feature_value": "4",
 				"cluster_win_mean": "2.12",
-				"delta": "0"
+				"delta": "-1.88"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/uk-ireland-contest-finals-the-results.html",
 				"feature_value": "4",
 				"cluster_win_mean": "2.12",
-				"delta": "0"
+				"delta": "-1.88"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/have-you-booked-for-the-boadicea-conference-its-next-week.html",
 				"feature_value": "4",
 				"cluster_win_mean": "2.12",
-				"delta": "0"
+				"delta": "-1.88"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/greater-london-toastmasters-educational-awards-october-2013.html",
 				"feature_value": "4",
 				"cluster_win_mean": "2.12",
-				"delta": "0"
+				"delta": "-1.88"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/speeches-that-shook-the-world.html",
 				"feature_value": "4",
 				"cluster_win_mean": "2.12",
-				"delta": "0"
+				"delta": "-1.88"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/getting-your-nerves-under-control-workshop-on-mon-25-november.html",
 				"feature_value": "4",
 				"cluster_win_mean": "2.12",
-				"delta": "0"
+				"delta": "-1.88"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/index.html",
 				"feature_value": "3",
 				"cluster_win_mean": "2.12",
-				"delta": "0"
+				"delta": "-0.88"
 			}
 		],
 		"number_of_embedded_javascripts": [
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/public-speaking-fundamentals-a-1-day-hands-on-practical-workshop.html",
 				"feature_value": "14",
-				"cluster_win_mean": "3.27",
-				"delta": "0"
+				"cluster_win_mean": "2.62",
+				"delta": "-11.38"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/storytelling-workshop-at-grosvenor-square-speakers.html",
 				"feature_value": "14",
-				"cluster_win_mean": "3.27",
-				"delta": "0"
+				"cluster_win_mean": "2.62",
+				"delta": "-11.38"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/table-topics-impromptu-speaking-workshop-at-pmi-uk-toastmasters-12-november.html",
 				"feature_value": "14",
-				"cluster_win_mean": "3.27",
-				"delta": "0"
+				"cluster_win_mean": "2.62",
+				"delta": "-11.38"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/special-events-this-week-commencing-11-november.html",
 				"feature_value": "14",
-				"cluster_win_mean": "3.27",
-				"delta": "0"
+				"cluster_win_mean": "2.62",
+				"delta": "-11.38"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/celebrating-the-gettysbury-address.html",
 				"feature_value": "14",
-				"cluster_win_mean": "3.27",
-				"delta": "0"
+				"cluster_win_mean": "2.62",
+				"delta": "-11.38"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/pmi-toastmasters-workshop-report-and-next-meeting-invitation.html",
 				"feature_value": "14",
-				"cluster_win_mean": "3.27",
-				"delta": "0"
+				"cluster_win_mean": "2.62",
+				"delta": "-11.38"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/excalibur-advanced-speakers-welcomes-district-governor-luanne-kent.html",
 				"feature_value": "14",
-				"cluster_win_mean": "3.27",
-				"delta": "0"
+				"cluster_win_mean": "2.62",
+				"delta": "-11.38"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/tick-tock-come-to-our-storytelling-workshop-11-november.html",
 				"feature_value": "14",
-				"cluster_win_mean": "3.27",
-				"delta": "0"
+				"cluster_win_mean": "2.62",
+				"delta": "-11.38"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/voice-coaching-workshop-at-lbs-public-speaking-club-12-nov.html",
 				"feature_value": "14",
-				"cluster_win_mean": "3.27",
-				"delta": "0"
+				"cluster_win_mean": "2.62",
+				"delta": "-11.38"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/general-evaluator-needed-citicriers-toastmasters-meeting-thursday-28-november-600-pm.html",
 				"feature_value": "14",
-				"cluster_win_mean": "3.27",
-				"delta": "0"
+				"cluster_win_mean": "2.62",
+				"delta": "-11.38"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/a-fabulous-evening-at-citi-criers-on-14-nov-join-us-on-28-nov.html",
 				"feature_value": "14",
-				"cluster_win_mean": "3.27",
-				"delta": "0"
+				"cluster_win_mean": "2.62",
+				"delta": "-11.38"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/fantastic-halloween-evening-by-citi-criers-31-oct-.html",
 				"feature_value": "14",
-				"cluster_win_mean": "3.27",
-				"delta": "0"
+				"cluster_win_mean": "2.62",
+				"delta": "-11.38"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/remembering-jfk-by-rewatching-his-inaugural-address.html",
 				"feature_value": "14",
-				"cluster_win_mean": "3.27",
-				"delta": "0"
+				"cluster_win_mean": "2.62",
+				"delta": "-11.38"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/uk-ireland-contest-finals-the-results.html",
 				"feature_value": "14",
-				"cluster_win_mean": "3.27",
-				"delta": "0"
+				"cluster_win_mean": "2.62",
+				"delta": "-11.38"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/have-you-booked-for-the-boadicea-conference-its-next-week.html",
 				"feature_value": "14",
-				"cluster_win_mean": "3.27",
-				"delta": "0"
+				"cluster_win_mean": "2.62",
+				"delta": "-11.38"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/greater-london-toastmasters-educational-awards-october-2013.html",
 				"feature_value": "14",
-				"cluster_win_mean": "3.27",
-				"delta": "0"
+				"cluster_win_mean": "2.62",
+				"delta": "-11.38"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/speeches-that-shook-the-world.html",
 				"feature_value": "14",
-				"cluster_win_mean": "3.27",
-				"delta": "0"
+				"cluster_win_mean": "2.62",
+				"delta": "-11.38"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/getting-your-nerves-under-control-workshop-on-mon-25-november.html",
 				"feature_value": "14",
-				"cluster_win_mean": "3.27",
-				"delta": "0"
-			},
-			{
-				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/index.html",
-				"feature_value": "20",
-				"cluster_win_mean": "3.27",
-				"delta": "0"
+				"cluster_win_mean": "2.62",
+				"delta": "-11.38"
 			}
 		],
 		"number_of_external_css_styles": [
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/public-speaking-fundamentals-a-1-day-hands-on-practical-workshop.html",
 				"feature_value": "2",
-				"cluster_win_mean": "1.24",
-				"delta": "0"
+				"cluster_win_mean": "1.61",
+				"delta": "-0.39"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/storytelling-workshop-at-grosvenor-square-speakers.html",
 				"feature_value": "2",
-				"cluster_win_mean": "1.24",
-				"delta": "0"
+				"cluster_win_mean": "1.61",
+				"delta": "-0.39"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/table-topics-impromptu-speaking-workshop-at-pmi-uk-toastmasters-12-november.html",
 				"feature_value": "2",
-				"cluster_win_mean": "1.24",
-				"delta": "0"
+				"cluster_win_mean": "1.61",
+				"delta": "-0.39"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/special-events-this-week-commencing-11-november.html",
 				"feature_value": "2",
-				"cluster_win_mean": "1.24",
-				"delta": "0"
+				"cluster_win_mean": "1.61",
+				"delta": "-0.39"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/celebrating-the-gettysbury-address.html",
 				"feature_value": "2",
-				"cluster_win_mean": "1.24",
-				"delta": "0"
+				"cluster_win_mean": "1.61",
+				"delta": "-0.39"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/pmi-toastmasters-workshop-report-and-next-meeting-invitation.html",
 				"feature_value": "2",
-				"cluster_win_mean": "1.24",
-				"delta": "0"
+				"cluster_win_mean": "1.61",
+				"delta": "-0.39"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/excalibur-advanced-speakers-welcomes-district-governor-luanne-kent.html",
 				"feature_value": "2",
-				"cluster_win_mean": "1.24",
-				"delta": "0"
+				"cluster_win_mean": "1.61",
+				"delta": "-0.39"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/tick-tock-come-to-our-storytelling-workshop-11-november.html",
 				"feature_value": "2",
-				"cluster_win_mean": "1.24",
-				"delta": "0"
+				"cluster_win_mean": "1.61",
+				"delta": "-0.39"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/voice-coaching-workshop-at-lbs-public-speaking-club-12-nov.html",
 				"feature_value": "2",
-				"cluster_win_mean": "1.24",
-				"delta": "0"
+				"cluster_win_mean": "1.61",
+				"delta": "-0.39"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/general-evaluator-needed-citicriers-toastmasters-meeting-thursday-28-november-600-pm.html",
 				"feature_value": "2",
-				"cluster_win_mean": "1.24",
-				"delta": "0"
+				"cluster_win_mean": "1.61",
+				"delta": "-0.39"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/a-fabulous-evening-at-citi-criers-on-14-nov-join-us-on-28-nov.html",
 				"feature_value": "2",
-				"cluster_win_mean": "1.24",
-				"delta": "0"
+				"cluster_win_mean": "1.61",
+				"delta": "-0.39"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/fantastic-halloween-evening-by-citi-criers-31-oct-.html",
 				"feature_value": "2",
-				"cluster_win_mean": "1.24",
-				"delta": "0"
+				"cluster_win_mean": "1.61",
+				"delta": "-0.39"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/remembering-jfk-by-rewatching-his-inaugural-address.html",
 				"feature_value": "2",
-				"cluster_win_mean": "1.24",
-				"delta": "0"
+				"cluster_win_mean": "1.61",
+				"delta": "-0.39"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/uk-ireland-contest-finals-the-results.html",
 				"feature_value": "2",
-				"cluster_win_mean": "1.24",
-				"delta": "0"
+				"cluster_win_mean": "1.61",
+				"delta": "-0.39"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/have-you-booked-for-the-boadicea-conference-its-next-week.html",
 				"feature_value": "2",
-				"cluster_win_mean": "1.24",
-				"delta": "0"
+				"cluster_win_mean": "1.61",
+				"delta": "-0.39"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/greater-london-toastmasters-educational-awards-october-2013.html",
 				"feature_value": "2",
-				"cluster_win_mean": "1.24",
-				"delta": "0"
+				"cluster_win_mean": "1.61",
+				"delta": "-0.39"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/speeches-that-shook-the-world.html",
 				"feature_value": "2",
-				"cluster_win_mean": "1.24",
-				"delta": "0"
+				"cluster_win_mean": "1.61",
+				"delta": "-0.39"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/getting-your-nerves-under-control-workshop-on-mon-25-november.html",
 				"feature_value": "2",
-				"cluster_win_mean": "1.24",
-				"delta": "0"
+				"cluster_win_mean": "1.61",
+				"delta": "-0.39"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/index.html",
 				"feature_value": "2",
-				"cluster_win_mean": "1.24",
-				"delta": "0"
+				"cluster_win_mean": "1.61",
+				"delta": "-0.39"
 			}
 		],
 		"number_of_images_in_body": [
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/public-speaking-fundamentals-a-1-day-hands-on-practical-workshop.html",
 				"feature_value": "11",
-				"cluster_win_mean": "17.95",
-				"delta": "0"
+				"cluster_win_mean": "17.35",
+				"delta": "6.35"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/storytelling-workshop-at-grosvenor-square-speakers.html",
 				"feature_value": "11",
-				"cluster_win_mean": "17.95",
-				"delta": "0"
+				"cluster_win_mean": "17.35",
+				"delta": "6.35"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/table-topics-impromptu-speaking-workshop-at-pmi-uk-toastmasters-12-november.html",
 				"feature_value": "13",
-				"cluster_win_mean": "17.95",
-				"delta": "0"
+				"cluster_win_mean": "17.35",
+				"delta": "4.35"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/special-events-this-week-commencing-11-november.html",
 				"feature_value": "11",
-				"cluster_win_mean": "17.95",
-				"delta": "0"
+				"cluster_win_mean": "17.35",
+				"delta": "6.35"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/celebrating-the-gettysbury-address.html",
 				"feature_value": "11",
-				"cluster_win_mean": "17.95",
-				"delta": "0"
+				"cluster_win_mean": "17.35",
+				"delta": "6.35"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/pmi-toastmasters-workshop-report-and-next-meeting-invitation.html",
 				"feature_value": "17",
-				"cluster_win_mean": "17.95",
-				"delta": "0"
+				"cluster_win_mean": "17.35",
+				"delta": "0.35"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/excalibur-advanced-speakers-welcomes-district-governor-luanne-kent.html",
 				"feature_value": "11",
-				"cluster_win_mean": "17.95",
-				"delta": "0"
+				"cluster_win_mean": "17.35",
+				"delta": "6.35"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/tick-tock-come-to-our-storytelling-workshop-11-november.html",
 				"feature_value": "11",
-				"cluster_win_mean": "17.95",
-				"delta": "0"
+				"cluster_win_mean": "17.35",
+				"delta": "6.35"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/voice-coaching-workshop-at-lbs-public-speaking-club-12-nov.html",
 				"feature_value": "11",
-				"cluster_win_mean": "17.95",
-				"delta": "0"
+				"cluster_win_mean": "17.35",
+				"delta": "6.35"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/general-evaluator-needed-citicriers-toastmasters-meeting-thursday-28-november-600-pm.html",
 				"feature_value": "11",
-				"cluster_win_mean": "17.95",
-				"delta": "0"
+				"cluster_win_mean": "17.35",
+				"delta": "6.35"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/a-fabulous-evening-at-citi-criers-on-14-nov-join-us-on-28-nov.html",
 				"feature_value": "13",
-				"cluster_win_mean": "17.95",
-				"delta": "0"
+				"cluster_win_mean": "17.35",
+				"delta": "4.35"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/fantastic-halloween-evening-by-citi-criers-31-oct-.html",
 				"feature_value": "13",
-				"cluster_win_mean": "17.95",
-				"delta": "0"
+				"cluster_win_mean": "17.35",
+				"delta": "4.35"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/remembering-jfk-by-rewatching-his-inaugural-address.html",
 				"feature_value": "11",
-				"cluster_win_mean": "17.95",
-				"delta": "0"
+				"cluster_win_mean": "17.35",
+				"delta": "6.35"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/uk-ireland-contest-finals-the-results.html",
 				"feature_value": "11",
-				"cluster_win_mean": "17.95",
-				"delta": "0"
+				"cluster_win_mean": "17.35",
+				"delta": "6.35"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/have-you-booked-for-the-boadicea-conference-its-next-week.html",
 				"feature_value": "13",
-				"cluster_win_mean": "17.95",
-				"delta": "0"
+				"cluster_win_mean": "17.35",
+				"delta": "4.35"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/greater-london-toastmasters-educational-awards-october-2013.html",
 				"feature_value": "13",
-				"cluster_win_mean": "17.95",
-				"delta": "0"
+				"cluster_win_mean": "17.35",
+				"delta": "4.35"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/speeches-that-shook-the-world.html",
 				"feature_value": "11",
-				"cluster_win_mean": "17.95",
-				"delta": "0"
+				"cluster_win_mean": "17.35",
+				"delta": "6.35"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/getting-your-nerves-under-control-workshop-on-mon-25-november.html",
 				"feature_value": "11",
-				"cluster_win_mean": "17.95",
-				"delta": "0"
+				"cluster_win_mean": "17.35",
+				"delta": "6.35"
 			}
 		]
 	},
 	"harmful": {
-		"flesch_reading_ease": [
-			{
-				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/public-speaking-fundamentals-a-1-day-hands-on-practical-workshop.html",
-				"feature_value": "61.4261",
-				"cluster_win_mean": "17.22",
-				"delta": "-44.21"
-			},
-			{
-				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/storytelling-workshop-at-grosvenor-square-speakers.html",
-				"feature_value": "71.4003",
-				"cluster_win_mean": "17.22",
-				"delta": "-54.18"
-			},
-			{
-				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/table-topics-impromptu-speaking-workshop-at-pmi-uk-toastmasters-12-november.html",
-				"feature_value": "50.3817",
-				"cluster_win_mean": "17.22",
-				"delta": "-33.16"
-			},
-			{
-				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/special-events-this-week-commencing-11-november.html",
-				"feature_value": "37.1292",
-				"cluster_win_mean": "17.22",
-				"delta": "-19.91"
-			},
-			{
-				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/celebrating-the-gettysbury-address.html",
-				"feature_value": "62.9363",
-				"cluster_win_mean": "17.22",
-				"delta": "-45.72"
-			},
-			{
-				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/pmi-toastmasters-workshop-report-and-next-meeting-invitation.html",
-				"feature_value": "74.9666",
-				"cluster_win_mean": "17.22",
-				"delta": "-57.75"
-			},
-			{
-				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/excalibur-advanced-speakers-welcomes-district-governor-luanne-kent.html",
-				"feature_value": "30.4776",
-				"cluster_win_mean": "17.22",
-				"delta": "-13.26"
-			},
-			{
-				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/tick-tock-come-to-our-storytelling-workshop-11-november.html",
-				"feature_value": "86.7928",
-				"cluster_win_mean": "17.22",
-				"delta": "-69.58"
-			},
-			{
-				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/voice-coaching-workshop-at-lbs-public-speaking-club-12-nov.html",
-				"feature_value": "65.4522",
-				"cluster_win_mean": "17.22",
-				"delta": "-48.24"
-			},
-			{
-				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/general-evaluator-needed-citicriers-toastmasters-meeting-thursday-28-november-600-pm.html",
-				"feature_value": " 51.625",
-				"cluster_win_mean": "17.22",
-				"delta": "-34.41"
-			},
-			{
-				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/fantastic-halloween-evening-by-citi-criers-31-oct-.html",
-				"feature_value": "86.3731",
-				"cluster_win_mean": "17.22",
-				"delta": "-69.16"
-			},
-			{
-				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/remembering-jfk-by-rewatching-his-inaugural-address.html",
-				"feature_value": " 62.115",
-				"cluster_win_mean": "17.22",
-				"delta": " -44.9"
-			},
-			{
-				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/uk-ireland-contest-finals-the-results.html",
-				"feature_value": "58.6989",
-				"cluster_win_mean": "17.22",
-				"delta": "-41.48"
-			},
-			{
-				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/have-you-booked-for-the-boadicea-conference-its-next-week.html",
-				"feature_value": "57.4312",
-				"cluster_win_mean": "17.22",
-				"delta": "-40.21"
-			},
-			{
-				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/greater-london-toastmasters-educational-awards-october-2013.html",
-				"feature_value": "51.4118",
-				"cluster_win_mean": "17.22",
-				"delta": " -34.2"
-			},
-			{
-				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/speeches-that-shook-the-world.html",
-				"feature_value": "70.8891",
-				"cluster_win_mean": "17.22",
-				"delta": "-53.67"
-			},
-			{
-				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/getting-your-nerves-under-control-workshop-on-mon-25-november.html",
-				"feature_value": "89.5169",
-				"cluster_win_mean": "17.22",
-				"delta": " -72.3"
-			},
-			{
-				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/index.html",
-				"feature_value": "43.1469",
-				"cluster_win_mean": "17.22",
-				"delta": "-25.93"
-			}
-		],
+		"flesch_reading_ease": {
+			"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/a-fabulous-evening-at-citi-criers-on-14-nov-join-us-on-28-nov.html",
+			"feature_value": "6.1122",
+			"cluster_win_mean": "17.45",
+			"delta": "11.34"
+		},
 		"flesch_grade_level": [
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/public-speaking-fundamentals-a-1-day-hands-on-practical-workshop.html",
 				"feature_value": "10.9644",
-				"cluster_win_mean": "17.14",
-				"delta": " 6.18"
+				"cluster_win_mean": "17.33",
+				"delta": " 6.37"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/storytelling-workshop-at-grosvenor-square-speakers.html",
 				"feature_value": " 8.0454",
-				"cluster_win_mean": "17.14",
-				"delta": "  9.1"
+				"cluster_win_mean": "17.33",
+				"delta": " 9.29"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/table-topics-impromptu-speaking-workshop-at-pmi-uk-toastmasters-12-november.html",
 				"feature_value": "14.0162",
-				"cluster_win_mean": "17.14",
-				"delta": " 3.13"
+				"cluster_win_mean": "17.33",
+				"delta": " 3.32"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/special-events-this-week-commencing-11-november.html",
 				"feature_value": " 11.012",
-				"cluster_win_mean": "17.14",
-				"delta": " 6.13"
+				"cluster_win_mean": "17.33",
+				"delta": " 6.32"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/celebrating-the-gettysbury-address.html",
 				"feature_value": "  9.698",
-				"cluster_win_mean": "17.14",
-				"delta": " 7.45"
+				"cluster_win_mean": "17.33",
+				"delta": " 7.64"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/pmi-toastmasters-workshop-report-and-next-meeting-invitation.html",
 				"feature_value": " 6.8426",
-				"cluster_win_mean": "17.14",
-				"delta": " 10.3"
+				"cluster_win_mean": "17.33",
+				"delta": "10.49"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/excalibur-advanced-speakers-welcomes-district-governor-luanne-kent.html",
 				"feature_value": "12.7968",
-				"cluster_win_mean": "17.14",
-				"delta": " 4.35"
+				"cluster_win_mean": "17.33",
+				"delta": " 4.54"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/tick-tock-come-to-our-storytelling-workshop-11-november.html",
 				"feature_value": " 3.7782",
-				"cluster_win_mean": "17.14",
-				"delta": "13.37"
+				"cluster_win_mean": "17.33",
+				"delta": "13.56"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/voice-coaching-workshop-at-lbs-public-speaking-club-12-nov.html",
 				"feature_value": " 7.7633",
-				"cluster_win_mean": "17.14",
-				"delta": " 9.38"
+				"cluster_win_mean": "17.33",
+				"delta": " 9.57"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/general-evaluator-needed-citicriers-toastmasters-meeting-thursday-28-november-600-pm.html",
 				"feature_value": "12.9042",
-				"cluster_win_mean": "17.14",
-				"delta": " 4.24"
+				"cluster_win_mean": "17.33",
+				"delta": " 4.43"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/fantastic-halloween-evening-by-citi-criers-31-oct-.html",
 				"feature_value": " 4.3588",
-				"cluster_win_mean": "17.14",
-				"delta": "12.79"
+				"cluster_win_mean": "17.33",
+				"delta": "12.97"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/remembering-jfk-by-rewatching-his-inaugural-address.html",
 				"feature_value": " 7.5767",
-				"cluster_win_mean": "17.14",
-				"delta": " 9.57"
+				"cluster_win_mean": "17.33",
+				"delta": " 9.76"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/uk-ireland-contest-finals-the-results.html",
 				"feature_value": " 9.9696",
-				"cluster_win_mean": "17.14",
-				"delta": " 7.18"
+				"cluster_win_mean": "17.33",
+				"delta": " 7.36"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/have-you-booked-for-the-boadicea-conference-its-next-week.html",
 				"feature_value": "11.3215",
-				"cluster_win_mean": "17.14",
-				"delta": " 5.82"
+				"cluster_win_mean": "17.33",
+				"delta": " 6.01"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/greater-london-toastmasters-educational-awards-october-2013.html",
 				"feature_value": "10.5104",
-				"cluster_win_mean": "17.14",
-				"delta": " 6.63"
+				"cluster_win_mean": "17.33",
+				"delta": " 6.82"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/speeches-that-shook-the-world.html",
 				"feature_value": "11.1351",
-				"cluster_win_mean": "17.14",
-				"delta": " 6.01"
+				"cluster_win_mean": "17.33",
+				"delta": "  6.2"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/getting-your-nerves-under-control-workshop-on-mon-25-november.html",
 				"feature_value": " 4.0031",
-				"cluster_win_mean": "17.14",
-				"delta": "13.14"
+				"cluster_win_mean": "17.33",
+				"delta": "13.33"
+			},
+			{
+				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/index.html",
+				"feature_value": "15.8788",
+				"cluster_win_mean": "17.33",
+				"delta": " 1.45"
 			}
 		],
 		"dale_chall_readability": [
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/public-speaking-fundamentals-a-1-day-hands-on-practical-workshop.html",
 				"feature_value": "5.5517",
-				"cluster_win_mean": "8.29",
-				"delta": "2.74"
+				"cluster_win_mean": "8.3",
+				"delta": "2.75"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/storytelling-workshop-at-grosvenor-square-speakers.html",
 				"feature_value": "4.0888",
-				"cluster_win_mean": "8.29",
-				"delta": " 4.2"
+				"cluster_win_mean": "8.3",
+				"delta": "4.21"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/table-topics-impromptu-speaking-workshop-at-pmi-uk-toastmasters-12-november.html",
 				"feature_value": "5.5016",
-				"cluster_win_mean": "8.29",
-				"delta": "2.79"
+				"cluster_win_mean": "8.3",
+				"delta": " 2.8"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/special-events-this-week-commencing-11-november.html",
 				"feature_value": "7.0083",
-				"cluster_win_mean": "8.29",
-				"delta": "1.28"
+				"cluster_win_mean": "8.3",
+				"delta": "1.29"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/celebrating-the-gettysbury-address.html",
 				"feature_value": "5.6604",
-				"cluster_win_mean": "8.29",
-				"delta": "2.63"
+				"cluster_win_mean": "8.3",
+				"delta": "2.64"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/pmi-toastmasters-workshop-report-and-next-meeting-invitation.html",
 				"feature_value": "5.8306",
-				"cluster_win_mean": "8.29",
-				"delta": "2.46"
+				"cluster_win_mean": "8.3",
+				"delta": "2.47"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/excalibur-advanced-speakers-welcomes-district-governor-luanne-kent.html",
 				"feature_value": "  6.71",
-				"cluster_win_mean": "8.29",
-				"delta": "1.58"
+				"cluster_win_mean": "8.3",
+				"delta": "1.59"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/tick-tock-come-to-our-storytelling-workshop-11-november.html",
 				"feature_value": "3.2532",
-				"cluster_win_mean": "8.29",
-				"delta": "5.04"
+				"cluster_win_mean": "8.3",
+				"delta": "5.05"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/voice-coaching-workshop-at-lbs-public-speaking-club-12-nov.html",
 				"feature_value": "4.2343",
-				"cluster_win_mean": "8.29",
-				"delta": "4.06"
+				"cluster_win_mean": "8.3",
+				"delta": "4.07"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/general-evaluator-needed-citicriers-toastmasters-meeting-thursday-28-november-600-pm.html",
 				"feature_value": "4.9959",
-				"cluster_win_mean": "8.29",
-				"delta": "3.29"
+				"cluster_win_mean": "8.3",
+				"delta": " 3.3"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/a-fabulous-evening-at-citi-criers-on-14-nov-join-us-on-28-nov.html",
 				"feature_value": "7.2519",
-				"cluster_win_mean": "8.29",
-				"delta": "1.04"
+				"cluster_win_mean": "8.3",
+				"delta": "1.05"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/fantastic-halloween-evening-by-citi-criers-31-oct-.html",
 				"feature_value": "4.5065",
-				"cluster_win_mean": "8.29",
-				"delta": "3.78"
+				"cluster_win_mean": "8.3",
+				"delta": "3.79"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/remembering-jfk-by-rewatching-his-inaugural-address.html",
 				"feature_value": "5.8585",
-				"cluster_win_mean": "8.29",
-				"delta": "2.43"
+				"cluster_win_mean": "8.3",
+				"delta": "2.44"
+			},
+			{
+				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/uk-ireland-contest-finals-the-results.html",
+				"feature_value": "7.9575",
+				"cluster_win_mean": "8.3",
+				"delta": "0.34"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/have-you-booked-for-the-boadicea-conference-its-next-week.html",
 				"feature_value": " 6.093",
-				"cluster_win_mean": "8.29",
-				"delta": " 2.2"
+				"cluster_win_mean": "8.3",
+				"delta": "2.21"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/greater-london-toastmasters-educational-awards-october-2013.html",
 				"feature_value": "6.5602",
-				"cluster_win_mean": "8.29",
-				"delta": "1.73"
+				"cluster_win_mean": "8.3",
+				"delta": "1.74"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/speeches-that-shook-the-world.html",
 				"feature_value": " 4.708",
-				"cluster_win_mean": "8.29",
-				"delta": "3.58"
+				"cluster_win_mean": "8.3",
+				"delta": "3.59"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/getting-your-nerves-under-control-workshop-on-mon-25-november.html",
 				"feature_value": " 3.074",
-				"cluster_win_mean": "8.29",
-				"delta": "5.22"
+				"cluster_win_mean": "8.3",
+				"delta": "5.23"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/index.html",
 				"feature_value": "5.6371",
-				"cluster_win_mean": "8.29",
-				"delta": "2.65"
+				"cluster_win_mean": "8.3",
+				"delta": "2.66"
 			}
 		],
 		"maximum_length_of_h1": [
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/public-speaking-fundamentals-a-1-day-hands-on-practical-workshop.html",
 				"feature_value": "0",
-				"cluster_win_mean": "77.29",
-				"delta": "77.29"
+				"cluster_win_mean": "77.16",
+				"delta": "77.16"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/storytelling-workshop-at-grosvenor-square-speakers.html",
 				"feature_value": "0",
-				"cluster_win_mean": "77.29",
-				"delta": "77.29"
+				"cluster_win_mean": "77.16",
+				"delta": "77.16"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/table-topics-impromptu-speaking-workshop-at-pmi-uk-toastmasters-12-november.html",
 				"feature_value": "0",
-				"cluster_win_mean": "77.29",
-				"delta": "77.29"
+				"cluster_win_mean": "77.16",
+				"delta": "77.16"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/special-events-this-week-commencing-11-november.html",
 				"feature_value": "0",
-				"cluster_win_mean": "77.29",
-				"delta": "77.29"
+				"cluster_win_mean": "77.16",
+				"delta": "77.16"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/celebrating-the-gettysbury-address.html",
 				"feature_value": "0",
-				"cluster_win_mean": "77.29",
-				"delta": "77.29"
+				"cluster_win_mean": "77.16",
+				"delta": "77.16"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/pmi-toastmasters-workshop-report-and-next-meeting-invitation.html",
 				"feature_value": "0",
-				"cluster_win_mean": "77.29",
-				"delta": "77.29"
+				"cluster_win_mean": "77.16",
+				"delta": "77.16"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/excalibur-advanced-speakers-welcomes-district-governor-luanne-kent.html",
 				"feature_value": "0",
-				"cluster_win_mean": "77.29",
-				"delta": "77.29"
+				"cluster_win_mean": "77.16",
+				"delta": "77.16"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/tick-tock-come-to-our-storytelling-workshop-11-november.html",
 				"feature_value": "0",
-				"cluster_win_mean": "77.29",
-				"delta": "77.29"
+				"cluster_win_mean": "77.16",
+				"delta": "77.16"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/voice-coaching-workshop-at-lbs-public-speaking-club-12-nov.html",
 				"feature_value": "0",
-				"cluster_win_mean": "77.29",
-				"delta": "77.29"
+				"cluster_win_mean": "77.16",
+				"delta": "77.16"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/general-evaluator-needed-citicriers-toastmasters-meeting-thursday-28-november-600-pm.html",
 				"feature_value": "0",
-				"cluster_win_mean": "77.29",
-				"delta": "77.29"
+				"cluster_win_mean": "77.16",
+				"delta": "77.16"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/a-fabulous-evening-at-citi-criers-on-14-nov-join-us-on-28-nov.html",
 				"feature_value": "0",
-				"cluster_win_mean": "77.29",
-				"delta": "77.29"
+				"cluster_win_mean": "77.16",
+				"delta": "77.16"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/fantastic-halloween-evening-by-citi-criers-31-oct-.html",
 				"feature_value": "0",
-				"cluster_win_mean": "77.29",
-				"delta": "77.29"
+				"cluster_win_mean": "77.16",
+				"delta": "77.16"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/remembering-jfk-by-rewatching-his-inaugural-address.html",
 				"feature_value": "0",
-				"cluster_win_mean": "77.29",
-				"delta": "77.29"
+				"cluster_win_mean": "77.16",
+				"delta": "77.16"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/uk-ireland-contest-finals-the-results.html",
 				"feature_value": "0",
-				"cluster_win_mean": "77.29",
-				"delta": "77.29"
+				"cluster_win_mean": "77.16",
+				"delta": "77.16"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/have-you-booked-for-the-boadicea-conference-its-next-week.html",
 				"feature_value": "0",
-				"cluster_win_mean": "77.29",
-				"delta": "77.29"
+				"cluster_win_mean": "77.16",
+				"delta": "77.16"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/greater-london-toastmasters-educational-awards-october-2013.html",
 				"feature_value": "0",
-				"cluster_win_mean": "77.29",
-				"delta": "77.29"
+				"cluster_win_mean": "77.16",
+				"delta": "77.16"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/speeches-that-shook-the-world.html",
 				"feature_value": "0",
-				"cluster_win_mean": "77.29",
-				"delta": "77.29"
+				"cluster_win_mean": "77.16",
+				"delta": "77.16"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/getting-your-nerves-under-control-workshop-on-mon-25-november.html",
 				"feature_value": "0",
-				"cluster_win_mean": "77.29",
-				"delta": "77.29"
+				"cluster_win_mean": "77.16",
+				"delta": "77.16"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/index.html",
 				"feature_value": "0",
-				"cluster_win_mean": "77.29",
-				"delta": "77.29"
+				"cluster_win_mean": "77.16",
+				"delta": "77.16"
 			}
 		],
 		"number_of_root_relative_internal_links": [
@@ -2190,230 +1878,590 @@
 				"delta": "1"
 			}
 		],
-		"number_of_images": [
+		"number_of_hyperlinks": [
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/public-speaking-fundamentals-a-1-day-hands-on-practical-workshop.html",
-				"feature_value": "11",
-				"cluster_win_mean": "17.95",
-				"delta": "6.95"
+				"feature_value": "146",
+				"cluster_win_mean": "91.31",
+				"delta": " -54.69"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/storytelling-workshop-at-grosvenor-square-speakers.html",
-				"feature_value": "11",
-				"cluster_win_mean": "17.95",
-				"delta": "6.95"
+				"feature_value": "147",
+				"cluster_win_mean": "91.31",
+				"delta": " -55.69"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/table-topics-impromptu-speaking-workshop-at-pmi-uk-toastmasters-12-november.html",
-				"feature_value": "13",
-				"cluster_win_mean": "17.95",
-				"delta": "4.95"
+				"feature_value": "150",
+				"cluster_win_mean": "91.31",
+				"delta": " -58.69"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/special-events-this-week-commencing-11-november.html",
-				"feature_value": "11",
-				"cluster_win_mean": "17.95",
-				"delta": "6.95"
+				"feature_value": "150",
+				"cluster_win_mean": "91.31",
+				"delta": " -58.69"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/celebrating-the-gettysbury-address.html",
-				"feature_value": "11",
-				"cluster_win_mean": "17.95",
-				"delta": "6.95"
+				"feature_value": "145",
+				"cluster_win_mean": "91.31",
+				"delta": " -53.69"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/pmi-toastmasters-workshop-report-and-next-meeting-invitation.html",
-				"feature_value": "17",
-				"cluster_win_mean": "17.95",
-				"delta": "0.95"
+				"feature_value": "152",
+				"cluster_win_mean": "91.31",
+				"delta": " -60.69"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/excalibur-advanced-speakers-welcomes-district-governor-luanne-kent.html",
-				"feature_value": "11",
-				"cluster_win_mean": "17.95",
-				"delta": "6.95"
+				"feature_value": "145",
+				"cluster_win_mean": "91.31",
+				"delta": " -53.69"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/tick-tock-come-to-our-storytelling-workshop-11-november.html",
-				"feature_value": "11",
-				"cluster_win_mean": "17.95",
-				"delta": "6.95"
+				"feature_value": "146",
+				"cluster_win_mean": "91.31",
+				"delta": " -54.69"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/voice-coaching-workshop-at-lbs-public-speaking-club-12-nov.html",
-				"feature_value": "11",
-				"cluster_win_mean": "17.95",
-				"delta": "6.95"
+				"feature_value": "145",
+				"cluster_win_mean": "91.31",
+				"delta": " -53.69"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/general-evaluator-needed-citicriers-toastmasters-meeting-thursday-28-november-600-pm.html",
-				"feature_value": "11",
-				"cluster_win_mean": "17.95",
-				"delta": "6.95"
+				"feature_value": "142",
+				"cluster_win_mean": "91.31",
+				"delta": " -50.69"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/a-fabulous-evening-at-citi-criers-on-14-nov-join-us-on-28-nov.html",
-				"feature_value": "13",
-				"cluster_win_mean": "17.95",
-				"delta": "4.95"
+				"feature_value": "146",
+				"cluster_win_mean": "91.31",
+				"delta": " -54.69"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/fantastic-halloween-evening-by-citi-criers-31-oct-.html",
-				"feature_value": "13",
-				"cluster_win_mean": "17.95",
-				"delta": "4.95"
+				"feature_value": "146",
+				"cluster_win_mean": "91.31",
+				"delta": " -54.69"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/remembering-jfk-by-rewatching-his-inaugural-address.html",
-				"feature_value": "11",
-				"cluster_win_mean": "17.95",
-				"delta": "6.95"
+				"feature_value": "143",
+				"cluster_win_mean": "91.31",
+				"delta": " -51.69"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/uk-ireland-contest-finals-the-results.html",
-				"feature_value": "11",
-				"cluster_win_mean": "17.95",
-				"delta": "6.95"
+				"feature_value": "148",
+				"cluster_win_mean": "91.31",
+				"delta": " -56.69"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/have-you-booked-for-the-boadicea-conference-its-next-week.html",
-				"feature_value": "13",
-				"cluster_win_mean": "17.95",
-				"delta": "4.95"
+				"feature_value": "145",
+				"cluster_win_mean": "91.31",
+				"delta": " -53.69"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/greater-london-toastmasters-educational-awards-october-2013.html",
-				"feature_value": "13",
-				"cluster_win_mean": "17.95",
-				"delta": "4.95"
+				"feature_value": "150",
+				"cluster_win_mean": "91.31",
+				"delta": " -58.69"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/speeches-that-shook-the-world.html",
-				"feature_value": "11",
-				"cluster_win_mean": "17.95",
-				"delta": "6.95"
+				"feature_value": "140",
+				"cluster_win_mean": "91.31",
+				"delta": " -48.69"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/getting-your-nerves-under-control-workshop-on-mon-25-november.html",
-				"feature_value": "11",
-				"cluster_win_mean": "17.95",
-				"delta": "6.95"
+				"feature_value": "147",
+				"cluster_win_mean": "91.31",
+				"delta": " -55.69"
+			},
+			{
+				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/index.html",
+				"feature_value": "244",
+				"cluster_win_mean": "91.31",
+				"delta": "-152.69"
+			}
+		],
+		"number_of_hyperlinks_with_file": [
+			{
+				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/public-speaking-fundamentals-a-1-day-hands-on-practical-workshop.html",
+				"feature_value": " 70",
+				"cluster_win_mean": "6.24",
+				"delta": " -63.76"
+			},
+			{
+				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/storytelling-workshop-at-grosvenor-square-speakers.html",
+				"feature_value": " 70",
+				"cluster_win_mean": "6.24",
+				"delta": " -63.76"
+			},
+			{
+				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/table-topics-impromptu-speaking-workshop-at-pmi-uk-toastmasters-12-november.html",
+				"feature_value": " 76",
+				"cluster_win_mean": "6.24",
+				"delta": " -69.76"
+			},
+			{
+				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/special-events-this-week-commencing-11-november.html",
+				"feature_value": " 78",
+				"cluster_win_mean": "6.24",
+				"delta": " -71.76"
+			},
+			{
+				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/celebrating-the-gettysbury-address.html",
+				"feature_value": " 70",
+				"cluster_win_mean": "6.24",
+				"delta": " -63.76"
+			},
+			{
+				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/pmi-toastmasters-workshop-report-and-next-meeting-invitation.html",
+				"feature_value": " 80",
+				"cluster_win_mean": "6.24",
+				"delta": " -73.76"
+			},
+			{
+				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/excalibur-advanced-speakers-welcomes-district-governor-luanne-kent.html",
+				"feature_value": " 68",
+				"cluster_win_mean": "6.24",
+				"delta": " -61.76"
+			},
+			{
+				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/tick-tock-come-to-our-storytelling-workshop-11-november.html",
+				"feature_value": " 70",
+				"cluster_win_mean": "6.24",
+				"delta": " -63.76"
+			},
+			{
+				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/voice-coaching-workshop-at-lbs-public-speaking-club-12-nov.html",
+				"feature_value": " 70",
+				"cluster_win_mean": "6.24",
+				"delta": " -63.76"
+			},
+			{
+				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/general-evaluator-needed-citicriers-toastmasters-meeting-thursday-28-november-600-pm.html",
+				"feature_value": " 70",
+				"cluster_win_mean": "6.24",
+				"delta": " -63.76"
+			},
+			{
+				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/a-fabulous-evening-at-citi-criers-on-14-nov-join-us-on-28-nov.html",
+				"feature_value": " 72",
+				"cluster_win_mean": "6.24",
+				"delta": " -65.76"
+			},
+			{
+				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/fantastic-halloween-evening-by-citi-criers-31-oct-.html",
+				"feature_value": " 72",
+				"cluster_win_mean": "6.24",
+				"delta": " -65.76"
+			},
+			{
+				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/remembering-jfk-by-rewatching-his-inaugural-address.html",
+				"feature_value": " 70",
+				"cluster_win_mean": "6.24",
+				"delta": " -63.76"
+			},
+			{
+				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/uk-ireland-contest-finals-the-results.html",
+				"feature_value": " 68",
+				"cluster_win_mean": "6.24",
+				"delta": " -61.76"
+			},
+			{
+				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/have-you-booked-for-the-boadicea-conference-its-next-week.html",
+				"feature_value": " 70",
+				"cluster_win_mean": "6.24",
+				"delta": " -63.76"
+			},
+			{
+				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/greater-london-toastmasters-educational-awards-october-2013.html",
+				"feature_value": " 70",
+				"cluster_win_mean": "6.24",
+				"delta": " -63.76"
+			},
+			{
+				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/speeches-that-shook-the-world.html",
+				"feature_value": " 68",
+				"cluster_win_mean": "6.24",
+				"delta": " -61.76"
+			},
+			{
+				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/getting-your-nerves-under-control-workshop-on-mon-25-november.html",
+				"feature_value": " 70",
+				"cluster_win_mean": "6.24",
+				"delta": " -63.76"
+			},
+			{
+				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/index.html",
+				"feature_value": "154",
+				"cluster_win_mean": "6.24",
+				"delta": "-147.76"
+			}
+		],
+		"number_of_images": {
+			"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/index.html",
+			"feature_value": "23",
+			"cluster_win_mean": "17.36",
+			"delta": "-5.64"
+		},
+		"number_of_external_links": [
+			{
+				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/public-speaking-fundamentals-a-1-day-hands-on-practical-workshop.html",
+				"feature_value": "116",
+				"cluster_win_mean": "83.94",
+				"delta": "-32.06"
+			},
+			{
+				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/storytelling-workshop-at-grosvenor-square-speakers.html",
+				"feature_value": "117",
+				"cluster_win_mean": "83.94",
+				"delta": "-33.06"
+			},
+			{
+				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/table-topics-impromptu-speaking-workshop-at-pmi-uk-toastmasters-12-november.html",
+				"feature_value": "114",
+				"cluster_win_mean": "83.94",
+				"delta": "-30.06"
+			},
+			{
+				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/special-events-this-week-commencing-11-november.html",
+				"feature_value": "120",
+				"cluster_win_mean": "83.94",
+				"delta": "-36.06"
+			},
+			{
+				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/celebrating-the-gettysbury-address.html",
+				"feature_value": "115",
+				"cluster_win_mean": "83.94",
+				"delta": "-31.06"
+			},
+			{
+				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/pmi-toastmasters-workshop-report-and-next-meeting-invitation.html",
+				"feature_value": "110",
+				"cluster_win_mean": "83.94",
+				"delta": "-26.06"
+			},
+			{
+				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/excalibur-advanced-speakers-welcomes-district-governor-luanne-kent.html",
+				"feature_value": "115",
+				"cluster_win_mean": "83.94",
+				"delta": "-31.06"
+			},
+			{
+				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/tick-tock-come-to-our-storytelling-workshop-11-november.html",
+				"feature_value": "116",
+				"cluster_win_mean": "83.94",
+				"delta": "-32.06"
+			},
+			{
+				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/voice-coaching-workshop-at-lbs-public-speaking-club-12-nov.html",
+				"feature_value": "115",
+				"cluster_win_mean": "83.94",
+				"delta": "-31.06"
+			},
+			{
+				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/general-evaluator-needed-citicriers-toastmasters-meeting-thursday-28-november-600-pm.html",
+				"feature_value": "109",
+				"cluster_win_mean": "83.94",
+				"delta": "-25.06"
+			},
+			{
+				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/a-fabulous-evening-at-citi-criers-on-14-nov-join-us-on-28-nov.html",
+				"feature_value": "111",
+				"cluster_win_mean": "83.94",
+				"delta": "-27.06"
+			},
+			{
+				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/fantastic-halloween-evening-by-citi-criers-31-oct-.html",
+				"feature_value": "112",
+				"cluster_win_mean": "83.94",
+				"delta": "-28.06"
+			},
+			{
+				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/remembering-jfk-by-rewatching-his-inaugural-address.html",
+				"feature_value": "112",
+				"cluster_win_mean": "83.94",
+				"delta": "-28.06"
+			},
+			{
+				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/uk-ireland-contest-finals-the-results.html",
+				"feature_value": "118",
+				"cluster_win_mean": "83.94",
+				"delta": "-34.06"
+			},
+			{
+				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/have-you-booked-for-the-boadicea-conference-its-next-week.html",
+				"feature_value": "113",
+				"cluster_win_mean": "83.94",
+				"delta": "-29.06"
+			},
+			{
+				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/greater-london-toastmasters-educational-awards-october-2013.html",
+				"feature_value": "118",
+				"cluster_win_mean": "83.94",
+				"delta": "-34.06"
+			},
+			{
+				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/speeches-that-shook-the-world.html",
+				"feature_value": "109",
+				"cluster_win_mean": "83.94",
+				"delta": "-25.06"
+			},
+			{
+				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/getting-your-nerves-under-control-workshop-on-mon-25-november.html",
+				"feature_value": "116",
+				"cluster_win_mean": "83.94",
+				"delta": "-32.06"
+			},
+			{
+				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/index.html",
+				"feature_value": "147",
+				"cluster_win_mean": "83.94",
+				"delta": "-63.06"
+			}
+		],
+		"number_of_hyperlinks_with_html": [
+			{
+				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/public-speaking-fundamentals-a-1-day-hands-on-practical-workshop.html",
+				"feature_value": "108",
+				"cluster_win_mean": "40.68",
+				"delta": " -67.32"
+			},
+			{
+				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/storytelling-workshop-at-grosvenor-square-speakers.html",
+				"feature_value": "109",
+				"cluster_win_mean": "40.68",
+				"delta": " -68.32"
+			},
+			{
+				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/table-topics-impromptu-speaking-workshop-at-pmi-uk-toastmasters-12-november.html",
+				"feature_value": "106",
+				"cluster_win_mean": "40.68",
+				"delta": " -65.32"
+			},
+			{
+				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/special-events-this-week-commencing-11-november.html",
+				"feature_value": "112",
+				"cluster_win_mean": "40.68",
+				"delta": " -71.32"
+			},
+			{
+				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/celebrating-the-gettysbury-address.html",
+				"feature_value": "107",
+				"cluster_win_mean": "40.68",
+				"delta": " -66.32"
+			},
+			{
+				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/pmi-toastmasters-workshop-report-and-next-meeting-invitation.html",
+				"feature_value": "104",
+				"cluster_win_mean": "40.68",
+				"delta": " -63.32"
+			},
+			{
+				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/excalibur-advanced-speakers-welcomes-district-governor-luanne-kent.html",
+				"feature_value": "109",
+				"cluster_win_mean": "40.68",
+				"delta": " -68.32"
+			},
+			{
+				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/tick-tock-come-to-our-storytelling-workshop-11-november.html",
+				"feature_value": "108",
+				"cluster_win_mean": "40.68",
+				"delta": " -67.32"
+			},
+			{
+				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/voice-coaching-workshop-at-lbs-public-speaking-club-12-nov.html",
+				"feature_value": "109",
+				"cluster_win_mean": "40.68",
+				"delta": " -68.32"
+			},
+			{
+				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/general-evaluator-needed-citicriers-toastmasters-meeting-thursday-28-november-600-pm.html",
+				"feature_value": "104",
+				"cluster_win_mean": "40.68",
+				"delta": " -63.32"
+			},
+			{
+				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/a-fabulous-evening-at-citi-criers-on-14-nov-join-us-on-28-nov.html",
+				"feature_value": "106",
+				"cluster_win_mean": "40.68",
+				"delta": " -65.32"
+			},
+			{
+				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/fantastic-halloween-evening-by-citi-criers-31-oct-.html",
+				"feature_value": "106",
+				"cluster_win_mean": "40.68",
+				"delta": " -65.32"
+			},
+			{
+				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/remembering-jfk-by-rewatching-his-inaugural-address.html",
+				"feature_value": "105",
+				"cluster_win_mean": "40.68",
+				"delta": " -64.32"
+			},
+			{
+				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/uk-ireland-contest-finals-the-results.html",
+				"feature_value": "112",
+				"cluster_win_mean": "40.68",
+				"delta": " -71.32"
+			},
+			{
+				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/have-you-booked-for-the-boadicea-conference-its-next-week.html",
+				"feature_value": "107",
+				"cluster_win_mean": "40.68",
+				"delta": " -66.32"
+			},
+			{
+				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/greater-london-toastmasters-educational-awards-october-2013.html",
+				"feature_value": "112",
+				"cluster_win_mean": "40.68",
+				"delta": " -71.32"
+			},
+			{
+				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/speeches-that-shook-the-world.html",
+				"feature_value": "104",
+				"cluster_win_mean": "40.68",
+				"delta": " -63.32"
+			},
+			{
+				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/getting-your-nerves-under-control-workshop-on-mon-25-november.html",
+				"feature_value": "111",
+				"cluster_win_mean": "40.68",
+				"delta": " -70.32"
+			},
+			{
+				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/index.html",
+				"feature_value": "144",
+				"cluster_win_mean": "40.68",
+				"delta": "-103.32"
 			}
 		],
 		"average_image_width": [
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/public-speaking-fundamentals-a-1-day-hands-on-practical-workshop.html",
 				"feature_value": "42",
-				"cluster_win_mean": "217.02",
-				"delta": "175.02"
+				"cluster_win_mean": "215.35",
+				"delta": "173.35"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/storytelling-workshop-at-grosvenor-square-speakers.html",
 				"feature_value": "42",
-				"cluster_win_mean": "217.02",
-				"delta": "175.02"
+				"cluster_win_mean": "215.35",
+				"delta": "173.35"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/table-topics-impromptu-speaking-workshop-at-pmi-uk-toastmasters-12-november.html",
 				"feature_value": "42",
-				"cluster_win_mean": "217.02",
-				"delta": "175.02"
+				"cluster_win_mean": "215.35",
+				"delta": "173.35"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/special-events-this-week-commencing-11-november.html",
 				"feature_value": "42",
-				"cluster_win_mean": "217.02",
-				"delta": "175.02"
+				"cluster_win_mean": "215.35",
+				"delta": "173.35"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/celebrating-the-gettysbury-address.html",
 				"feature_value": "42",
-				"cluster_win_mean": "217.02",
-				"delta": "175.02"
+				"cluster_win_mean": "215.35",
+				"delta": "173.35"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/pmi-toastmasters-workshop-report-and-next-meeting-invitation.html",
 				"feature_value": "42",
-				"cluster_win_mean": "217.02",
-				"delta": "175.02"
+				"cluster_win_mean": "215.35",
+				"delta": "173.35"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/excalibur-advanced-speakers-welcomes-district-governor-luanne-kent.html",
 				"feature_value": "42",
-				"cluster_win_mean": "217.02",
-				"delta": "175.02"
+				"cluster_win_mean": "215.35",
+				"delta": "173.35"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/tick-tock-come-to-our-storytelling-workshop-11-november.html",
 				"feature_value": "42",
-				"cluster_win_mean": "217.02",
-				"delta": "175.02"
+				"cluster_win_mean": "215.35",
+				"delta": "173.35"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/voice-coaching-workshop-at-lbs-public-speaking-club-12-nov.html",
 				"feature_value": "42",
-				"cluster_win_mean": "217.02",
-				"delta": "175.02"
+				"cluster_win_mean": "215.35",
+				"delta": "173.35"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/general-evaluator-needed-citicriers-toastmasters-meeting-thursday-28-november-600-pm.html",
 				"feature_value": "42",
-				"cluster_win_mean": "217.02",
-				"delta": "175.02"
+				"cluster_win_mean": "215.35",
+				"delta": "173.35"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/a-fabulous-evening-at-citi-criers-on-14-nov-join-us-on-28-nov.html",
 				"feature_value": "42",
-				"cluster_win_mean": "217.02",
-				"delta": "175.02"
+				"cluster_win_mean": "215.35",
+				"delta": "173.35"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/fantastic-halloween-evening-by-citi-criers-31-oct-.html",
 				"feature_value": "42",
-				"cluster_win_mean": "217.02",
-				"delta": "175.02"
+				"cluster_win_mean": "215.35",
+				"delta": "173.35"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/remembering-jfk-by-rewatching-his-inaugural-address.html",
 				"feature_value": "42",
-				"cluster_win_mean": "217.02",
-				"delta": "175.02"
+				"cluster_win_mean": "215.35",
+				"delta": "173.35"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/uk-ireland-contest-finals-the-results.html",
 				"feature_value": "42",
-				"cluster_win_mean": "217.02",
-				"delta": "175.02"
+				"cluster_win_mean": "215.35",
+				"delta": "173.35"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/have-you-booked-for-the-boadicea-conference-its-next-week.html",
 				"feature_value": "42",
-				"cluster_win_mean": "217.02",
-				"delta": "175.02"
+				"cluster_win_mean": "215.35",
+				"delta": "173.35"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/greater-london-toastmasters-educational-awards-october-2013.html",
 				"feature_value": "42",
-				"cluster_win_mean": "217.02",
-				"delta": "175.02"
+				"cluster_win_mean": "215.35",
+				"delta": "173.35"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/speeches-that-shook-the-world.html",
 				"feature_value": "42",
-				"cluster_win_mean": "217.02",
-				"delta": "175.02"
+				"cluster_win_mean": "215.35",
+				"delta": "173.35"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/getting-your-nerves-under-control-workshop-on-mon-25-november.html",
 				"feature_value": "42",
-				"cluster_win_mean": "217.02",
-				"delta": "175.02"
+				"cluster_win_mean": "215.35",
+				"delta": "173.35"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/index.html",
 				"feature_value": "42",
-				"cluster_win_mean": "217.02",
-				"delta": "175.02"
+				"cluster_win_mean": "215.35",
+				"delta": "173.35"
 			}
 		],
 		"number_of_id_attribute_refs": [
@@ -2532,488 +2580,402 @@
 				"delta": "1"
 			}
 		],
-		"number_of_images_missing_alt": [
-			{
-				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/public-speaking-fundamentals-a-1-day-hands-on-practical-workshop.html",
-				"feature_value": "1",
-				"cluster_win_mean": "17",
-				"delta": "16"
-			},
-			{
-				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/storytelling-workshop-at-grosvenor-square-speakers.html",
-				"feature_value": "1",
-				"cluster_win_mean": "17",
-				"delta": "16"
-			},
-			{
-				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/table-topics-impromptu-speaking-workshop-at-pmi-uk-toastmasters-12-november.html",
-				"feature_value": "1",
-				"cluster_win_mean": "17",
-				"delta": "16"
-			},
-			{
-				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/special-events-this-week-commencing-11-november.html",
-				"feature_value": "1",
-				"cluster_win_mean": "17",
-				"delta": "16"
-			},
-			{
-				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/celebrating-the-gettysbury-address.html",
-				"feature_value": "1",
-				"cluster_win_mean": "17",
-				"delta": "16"
-			},
-			{
-				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/pmi-toastmasters-workshop-report-and-next-meeting-invitation.html",
-				"feature_value": "1",
-				"cluster_win_mean": "17",
-				"delta": "16"
-			},
-			{
-				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/excalibur-advanced-speakers-welcomes-district-governor-luanne-kent.html",
-				"feature_value": "1",
-				"cluster_win_mean": "17",
-				"delta": "16"
-			},
-			{
-				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/tick-tock-come-to-our-storytelling-workshop-11-november.html",
-				"feature_value": "1",
-				"cluster_win_mean": "17",
-				"delta": "16"
-			},
-			{
-				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/voice-coaching-workshop-at-lbs-public-speaking-club-12-nov.html",
-				"feature_value": "1",
-				"cluster_win_mean": "17",
-				"delta": "16"
-			},
-			{
-				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/general-evaluator-needed-citicriers-toastmasters-meeting-thursday-28-november-600-pm.html",
-				"feature_value": "1",
-				"cluster_win_mean": "17",
-				"delta": "16"
-			},
-			{
-				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/a-fabulous-evening-at-citi-criers-on-14-nov-join-us-on-28-nov.html",
-				"feature_value": "1",
-				"cluster_win_mean": "17",
-				"delta": "16"
-			},
-			{
-				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/fantastic-halloween-evening-by-citi-criers-31-oct-.html",
-				"feature_value": "1",
-				"cluster_win_mean": "17",
-				"delta": "16"
-			},
-			{
-				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/remembering-jfk-by-rewatching-his-inaugural-address.html",
-				"feature_value": "1",
-				"cluster_win_mean": "17",
-				"delta": "16"
-			},
-			{
-				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/uk-ireland-contest-finals-the-results.html",
-				"feature_value": "1",
-				"cluster_win_mean": "17",
-				"delta": "16"
-			},
-			{
-				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/have-you-booked-for-the-boadicea-conference-its-next-week.html",
-				"feature_value": "1",
-				"cluster_win_mean": "17",
-				"delta": "16"
-			},
-			{
-				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/greater-london-toastmasters-educational-awards-october-2013.html",
-				"feature_value": "1",
-				"cluster_win_mean": "17",
-				"delta": "16"
-			},
-			{
-				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/speeches-that-shook-the-world.html",
-				"feature_value": "1",
-				"cluster_win_mean": "17",
-				"delta": "16"
-			},
-			{
-				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/getting-your-nerves-under-control-workshop-on-mon-25-november.html",
-				"feature_value": "1",
-				"cluster_win_mean": "17",
-				"delta": "16"
-			},
-			{
-				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/index.html",
-				"feature_value": "1",
-				"cluster_win_mean": "17",
-				"delta": "16"
-			}
-		],
 		"number_of_h1_instances": [
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/public-speaking-fundamentals-a-1-day-hands-on-practical-workshop.html",
 				"feature_value": "0",
-				"cluster_win_mean": "2.61",
-				"delta": "2.61"
+				"cluster_win_mean": "2.77",
+				"delta": "2.77"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/storytelling-workshop-at-grosvenor-square-speakers.html",
 				"feature_value": "0",
-				"cluster_win_mean": "2.61",
-				"delta": "2.61"
+				"cluster_win_mean": "2.77",
+				"delta": "2.77"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/table-topics-impromptu-speaking-workshop-at-pmi-uk-toastmasters-12-november.html",
 				"feature_value": "0",
-				"cluster_win_mean": "2.61",
-				"delta": "2.61"
+				"cluster_win_mean": "2.77",
+				"delta": "2.77"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/special-events-this-week-commencing-11-november.html",
 				"feature_value": "0",
-				"cluster_win_mean": "2.61",
-				"delta": "2.61"
+				"cluster_win_mean": "2.77",
+				"delta": "2.77"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/celebrating-the-gettysbury-address.html",
 				"feature_value": "0",
-				"cluster_win_mean": "2.61",
-				"delta": "2.61"
+				"cluster_win_mean": "2.77",
+				"delta": "2.77"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/pmi-toastmasters-workshop-report-and-next-meeting-invitation.html",
 				"feature_value": "0",
-				"cluster_win_mean": "2.61",
-				"delta": "2.61"
+				"cluster_win_mean": "2.77",
+				"delta": "2.77"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/excalibur-advanced-speakers-welcomes-district-governor-luanne-kent.html",
 				"feature_value": "0",
-				"cluster_win_mean": "2.61",
-				"delta": "2.61"
+				"cluster_win_mean": "2.77",
+				"delta": "2.77"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/tick-tock-come-to-our-storytelling-workshop-11-november.html",
 				"feature_value": "0",
-				"cluster_win_mean": "2.61",
-				"delta": "2.61"
+				"cluster_win_mean": "2.77",
+				"delta": "2.77"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/voice-coaching-workshop-at-lbs-public-speaking-club-12-nov.html",
 				"feature_value": "0",
-				"cluster_win_mean": "2.61",
-				"delta": "2.61"
+				"cluster_win_mean": "2.77",
+				"delta": "2.77"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/general-evaluator-needed-citicriers-toastmasters-meeting-thursday-28-november-600-pm.html",
 				"feature_value": "0",
-				"cluster_win_mean": "2.61",
-				"delta": "2.61"
+				"cluster_win_mean": "2.77",
+				"delta": "2.77"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/a-fabulous-evening-at-citi-criers-on-14-nov-join-us-on-28-nov.html",
 				"feature_value": "0",
-				"cluster_win_mean": "2.61",
-				"delta": "2.61"
+				"cluster_win_mean": "2.77",
+				"delta": "2.77"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/fantastic-halloween-evening-by-citi-criers-31-oct-.html",
 				"feature_value": "0",
-				"cluster_win_mean": "2.61",
-				"delta": "2.61"
+				"cluster_win_mean": "2.77",
+				"delta": "2.77"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/remembering-jfk-by-rewatching-his-inaugural-address.html",
 				"feature_value": "0",
-				"cluster_win_mean": "2.61",
-				"delta": "2.61"
+				"cluster_win_mean": "2.77",
+				"delta": "2.77"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/uk-ireland-contest-finals-the-results.html",
 				"feature_value": "0",
-				"cluster_win_mean": "2.61",
-				"delta": "2.61"
+				"cluster_win_mean": "2.77",
+				"delta": "2.77"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/have-you-booked-for-the-boadicea-conference-its-next-week.html",
 				"feature_value": "0",
-				"cluster_win_mean": "2.61",
-				"delta": "2.61"
+				"cluster_win_mean": "2.77",
+				"delta": "2.77"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/greater-london-toastmasters-educational-awards-october-2013.html",
 				"feature_value": "0",
-				"cluster_win_mean": "2.61",
-				"delta": "2.61"
+				"cluster_win_mean": "2.77",
+				"delta": "2.77"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/speeches-that-shook-the-world.html",
 				"feature_value": "0",
-				"cluster_win_mean": "2.61",
-				"delta": "2.61"
+				"cluster_win_mean": "2.77",
+				"delta": "2.77"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/getting-your-nerves-under-control-workshop-on-mon-25-november.html",
 				"feature_value": "0",
-				"cluster_win_mean": "2.61",
-				"delta": "2.61"
+				"cluster_win_mean": "2.77",
+				"delta": "2.77"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/index.html",
 				"feature_value": "0",
-				"cluster_win_mean": "2.61",
-				"delta": "2.61"
+				"cluster_win_mean": "2.77",
+				"delta": "2.77"
 			}
 		],
 		"total_number_of_words": [
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/special-events-this-week-commencing-11-november.html",
-				"feature_value": "59",
-				"cluster_win_mean": "132.45",
-				"delta": "73.45"
+				"feature_value": " 59",
+				"cluster_win_mean": "179.65",
+				"delta": "120.65"
+			},
+			{
+				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/celebrating-the-gettysbury-address.html",
+				"feature_value": "147",
+				"cluster_win_mean": "179.65",
+				"delta": " 32.65"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/excalibur-advanced-speakers-welcomes-district-governor-luanne-kent.html",
-				"feature_value": "61",
-				"cluster_win_mean": "132.45",
-				"delta": "71.45"
+				"feature_value": " 61",
+				"cluster_win_mean": "179.65",
+				"delta": "118.65"
+			},
+			{
+				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/voice-coaching-workshop-at-lbs-public-speaking-club-12-nov.html",
+				"feature_value": "117",
+				"cluster_win_mean": "179.65",
+				"delta": " 62.65"
+			},
+			{
+				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/fantastic-halloween-evening-by-citi-criers-31-oct-.html",
+				"feature_value": "114",
+				"cluster_win_mean": "179.65",
+				"delta": " 65.65"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/remembering-jfk-by-rewatching-his-inaugural-address.html",
-				"feature_value": "60",
-				"cluster_win_mean": "132.45",
-				"delta": "72.45"
+				"feature_value": " 60",
+				"cluster_win_mean": "179.65",
+				"delta": "119.65"
+			},
+			{
+				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/uk-ireland-contest-finals-the-results.html",
+				"feature_value": "138",
+				"cluster_win_mean": "179.65",
+				"delta": " 41.65"
+			},
+			{
+				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/speeches-that-shook-the-world.html",
+				"feature_value": "125",
+				"cluster_win_mean": "179.65",
+				"delta": " 54.65"
 			}
 		],
 		"number_of_embedded_css_styles": [
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/public-speaking-fundamentals-a-1-day-hands-on-practical-workshop.html",
 				"feature_value": "0",
-				"cluster_win_mean": "2.98",
-				"delta": "2.98"
+				"cluster_win_mean": "2.95",
+				"delta": "2.95"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/storytelling-workshop-at-grosvenor-square-speakers.html",
 				"feature_value": "0",
-				"cluster_win_mean": "2.98",
-				"delta": "2.98"
+				"cluster_win_mean": "2.95",
+				"delta": "2.95"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/table-topics-impromptu-speaking-workshop-at-pmi-uk-toastmasters-12-november.html",
 				"feature_value": "0",
-				"cluster_win_mean": "2.98",
-				"delta": "2.98"
+				"cluster_win_mean": "2.95",
+				"delta": "2.95"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/special-events-this-week-commencing-11-november.html",
 				"feature_value": "0",
-				"cluster_win_mean": "2.98",
-				"delta": "2.98"
+				"cluster_win_mean": "2.95",
+				"delta": "2.95"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/celebrating-the-gettysbury-address.html",
 				"feature_value": "0",
-				"cluster_win_mean": "2.98",
-				"delta": "2.98"
+				"cluster_win_mean": "2.95",
+				"delta": "2.95"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/pmi-toastmasters-workshop-report-and-next-meeting-invitation.html",
 				"feature_value": "0",
-				"cluster_win_mean": "2.98",
-				"delta": "2.98"
+				"cluster_win_mean": "2.95",
+				"delta": "2.95"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/excalibur-advanced-speakers-welcomes-district-governor-luanne-kent.html",
 				"feature_value": "0",
-				"cluster_win_mean": "2.98",
-				"delta": "2.98"
+				"cluster_win_mean": "2.95",
+				"delta": "2.95"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/tick-tock-come-to-our-storytelling-workshop-11-november.html",
 				"feature_value": "0",
-				"cluster_win_mean": "2.98",
-				"delta": "2.98"
+				"cluster_win_mean": "2.95",
+				"delta": "2.95"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/voice-coaching-workshop-at-lbs-public-speaking-club-12-nov.html",
 				"feature_value": "0",
-				"cluster_win_mean": "2.98",
-				"delta": "2.98"
+				"cluster_win_mean": "2.95",
+				"delta": "2.95"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/general-evaluator-needed-citicriers-toastmasters-meeting-thursday-28-november-600-pm.html",
 				"feature_value": "0",
-				"cluster_win_mean": "2.98",
-				"delta": "2.98"
+				"cluster_win_mean": "2.95",
+				"delta": "2.95"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/a-fabulous-evening-at-citi-criers-on-14-nov-join-us-on-28-nov.html",
 				"feature_value": "0",
-				"cluster_win_mean": "2.98",
-				"delta": "2.98"
+				"cluster_win_mean": "2.95",
+				"delta": "2.95"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/fantastic-halloween-evening-by-citi-criers-31-oct-.html",
 				"feature_value": "0",
-				"cluster_win_mean": "2.98",
-				"delta": "2.98"
+				"cluster_win_mean": "2.95",
+				"delta": "2.95"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/remembering-jfk-by-rewatching-his-inaugural-address.html",
 				"feature_value": "0",
-				"cluster_win_mean": "2.98",
-				"delta": "2.98"
+				"cluster_win_mean": "2.95",
+				"delta": "2.95"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/uk-ireland-contest-finals-the-results.html",
 				"feature_value": "0",
-				"cluster_win_mean": "2.98",
-				"delta": "2.98"
+				"cluster_win_mean": "2.95",
+				"delta": "2.95"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/have-you-booked-for-the-boadicea-conference-its-next-week.html",
 				"feature_value": "0",
-				"cluster_win_mean": "2.98",
-				"delta": "2.98"
+				"cluster_win_mean": "2.95",
+				"delta": "2.95"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/greater-london-toastmasters-educational-awards-october-2013.html",
 				"feature_value": "0",
-				"cluster_win_mean": "2.98",
-				"delta": "2.98"
+				"cluster_win_mean": "2.95",
+				"delta": "2.95"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/speeches-that-shook-the-world.html",
 				"feature_value": "0",
-				"cluster_win_mean": "2.98",
-				"delta": "2.98"
+				"cluster_win_mean": "2.95",
+				"delta": "2.95"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/getting-your-nerves-under-control-workshop-on-mon-25-november.html",
 				"feature_value": "0",
-				"cluster_win_mean": "2.98",
-				"delta": "2.98"
+				"cluster_win_mean": "2.95",
+				"delta": "2.95"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/index.html",
 				"feature_value": "0",
-				"cluster_win_mean": "2.98",
-				"delta": "2.98"
+				"cluster_win_mean": "2.95",
+				"delta": "2.95"
 			}
 		],
 		"number_of_embedded_styles": [
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/public-speaking-fundamentals-a-1-day-hands-on-practical-workshop.html",
 				"feature_value": "0",
-				"cluster_win_mean": "2.97",
-				"delta": "2.97"
+				"cluster_win_mean": "2.94",
+				"delta": "2.94"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/storytelling-workshop-at-grosvenor-square-speakers.html",
 				"feature_value": "0",
-				"cluster_win_mean": "2.97",
-				"delta": "2.97"
+				"cluster_win_mean": "2.94",
+				"delta": "2.94"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/table-topics-impromptu-speaking-workshop-at-pmi-uk-toastmasters-12-november.html",
 				"feature_value": "0",
-				"cluster_win_mean": "2.97",
-				"delta": "2.97"
+				"cluster_win_mean": "2.94",
+				"delta": "2.94"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/special-events-this-week-commencing-11-november.html",
 				"feature_value": "0",
-				"cluster_win_mean": "2.97",
-				"delta": "2.97"
+				"cluster_win_mean": "2.94",
+				"delta": "2.94"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/celebrating-the-gettysbury-address.html",
 				"feature_value": "0",
-				"cluster_win_mean": "2.97",
-				"delta": "2.97"
+				"cluster_win_mean": "2.94",
+				"delta": "2.94"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/pmi-toastmasters-workshop-report-and-next-meeting-invitation.html",
 				"feature_value": "0",
-				"cluster_win_mean": "2.97",
-				"delta": "2.97"
+				"cluster_win_mean": "2.94",
+				"delta": "2.94"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/excalibur-advanced-speakers-welcomes-district-governor-luanne-kent.html",
 				"feature_value": "0",
-				"cluster_win_mean": "2.97",
-				"delta": "2.97"
+				"cluster_win_mean": "2.94",
+				"delta": "2.94"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/tick-tock-come-to-our-storytelling-workshop-11-november.html",
 				"feature_value": "0",
-				"cluster_win_mean": "2.97",
-				"delta": "2.97"
+				"cluster_win_mean": "2.94",
+				"delta": "2.94"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/voice-coaching-workshop-at-lbs-public-speaking-club-12-nov.html",
 				"feature_value": "0",
-				"cluster_win_mean": "2.97",
-				"delta": "2.97"
+				"cluster_win_mean": "2.94",
+				"delta": "2.94"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/general-evaluator-needed-citicriers-toastmasters-meeting-thursday-28-november-600-pm.html",
 				"feature_value": "0",
-				"cluster_win_mean": "2.97",
-				"delta": "2.97"
+				"cluster_win_mean": "2.94",
+				"delta": "2.94"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/a-fabulous-evening-at-citi-criers-on-14-nov-join-us-on-28-nov.html",
 				"feature_value": "0",
-				"cluster_win_mean": "2.97",
-				"delta": "2.97"
+				"cluster_win_mean": "2.94",
+				"delta": "2.94"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/fantastic-halloween-evening-by-citi-criers-31-oct-.html",
 				"feature_value": "0",
-				"cluster_win_mean": "2.97",
-				"delta": "2.97"
+				"cluster_win_mean": "2.94",
+				"delta": "2.94"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/remembering-jfk-by-rewatching-his-inaugural-address.html",
 				"feature_value": "0",
-				"cluster_win_mean": "2.97",
-				"delta": "2.97"
+				"cluster_win_mean": "2.94",
+				"delta": "2.94"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/uk-ireland-contest-finals-the-results.html",
 				"feature_value": "0",
-				"cluster_win_mean": "2.97",
-				"delta": "2.97"
+				"cluster_win_mean": "2.94",
+				"delta": "2.94"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/have-you-booked-for-the-boadicea-conference-its-next-week.html",
 				"feature_value": "0",
-				"cluster_win_mean": "2.97",
-				"delta": "2.97"
+				"cluster_win_mean": "2.94",
+				"delta": "2.94"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/greater-london-toastmasters-educational-awards-october-2013.html",
 				"feature_value": "0",
-				"cluster_win_mean": "2.97",
-				"delta": "2.97"
+				"cluster_win_mean": "2.94",
+				"delta": "2.94"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/speeches-that-shook-the-world.html",
 				"feature_value": "0",
-				"cluster_win_mean": "2.97",
-				"delta": "2.97"
+				"cluster_win_mean": "2.94",
+				"delta": "2.94"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/getting-your-nerves-under-control-workshop-on-mon-25-november.html",
 				"feature_value": "0",
-				"cluster_win_mean": "2.97",
-				"delta": "2.97"
+				"cluster_win_mean": "2.94",
+				"delta": "2.94"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/index.html",
 				"feature_value": "0",
-				"cluster_win_mean": "2.97",
-				"delta": "2.97"
+				"cluster_win_mean": "2.94",
+				"delta": "2.94"
 			}
 		],
 		"html5_detected": [
@@ -3132,126 +3094,164 @@
 				"delta": "1"
 			}
 		],
+		"ratio_of_common_words_to_total": [
+			{
+				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/special-events-this-week-commencing-11-november.html",
+				"feature_value": "0.54237",
+				"cluster_win_mean": "0.74",
+				"delta": " 0.2"
+			},
+			{
+				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/excalibur-advanced-speakers-welcomes-district-governor-luanne-kent.html",
+				"feature_value": "0.70492",
+				"cluster_win_mean": "0.74",
+				"delta": "0.04"
+			},
+			{
+				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/remembering-jfk-by-rewatching-his-inaugural-address.html",
+				"feature_value": "0.71667",
+				"cluster_win_mean": "0.74",
+				"delta": "0.02"
+			},
+			{
+				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/uk-ireland-contest-finals-the-results.html",
+				"feature_value": "0.68116",
+				"cluster_win_mean": "0.74",
+				"delta": "0.06"
+			}
+		],
+		"proximity_of_title_tag_words_to_external_bound_hyperlinks": {
+			"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/index.html",
+			"feature_value": "489",
+			"cluster_win_mean": "584.75",
+			"delta": "95.75"
+		},
+		"number_of_embedded_javascripts": {
+			"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/index.html",
+			"feature_value": "20",
+			"cluster_win_mean": "2.62",
+			"delta": "-17.38"
+		},
 		"number_of_images_in_body": {
 			"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/index.html",
 			"feature_value": "23",
-			"cluster_win_mean": "17.95",
-			"delta": "-5.05"
+			"cluster_win_mean": "17.35",
+			"delta": "-5.65"
 		},
 		"number_of_destination_titles_same_as_anchor_text": [
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/public-speaking-fundamentals-a-1-day-hands-on-practical-workshop.html",
 				"feature_value": "0",
-				"cluster_win_mean": "9.46",
-				"delta": "9.46"
+				"cluster_win_mean": "13.26",
+				"delta": "13.26"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/storytelling-workshop-at-grosvenor-square-speakers.html",
 				"feature_value": "0",
-				"cluster_win_mean": "9.46",
-				"delta": "9.46"
+				"cluster_win_mean": "13.26",
+				"delta": "13.26"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/table-topics-impromptu-speaking-workshop-at-pmi-uk-toastmasters-12-november.html",
 				"feature_value": "0",
-				"cluster_win_mean": "9.46",
-				"delta": "9.46"
+				"cluster_win_mean": "13.26",
+				"delta": "13.26"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/special-events-this-week-commencing-11-november.html",
 				"feature_value": "0",
-				"cluster_win_mean": "9.46",
-				"delta": "9.46"
+				"cluster_win_mean": "13.26",
+				"delta": "13.26"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/celebrating-the-gettysbury-address.html",
 				"feature_value": "0",
-				"cluster_win_mean": "9.46",
-				"delta": "9.46"
+				"cluster_win_mean": "13.26",
+				"delta": "13.26"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/pmi-toastmasters-workshop-report-and-next-meeting-invitation.html",
 				"feature_value": "0",
-				"cluster_win_mean": "9.46",
-				"delta": "9.46"
+				"cluster_win_mean": "13.26",
+				"delta": "13.26"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/excalibur-advanced-speakers-welcomes-district-governor-luanne-kent.html",
 				"feature_value": "0",
-				"cluster_win_mean": "9.46",
-				"delta": "9.46"
+				"cluster_win_mean": "13.26",
+				"delta": "13.26"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/tick-tock-come-to-our-storytelling-workshop-11-november.html",
 				"feature_value": "0",
-				"cluster_win_mean": "9.46",
-				"delta": "9.46"
+				"cluster_win_mean": "13.26",
+				"delta": "13.26"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/voice-coaching-workshop-at-lbs-public-speaking-club-12-nov.html",
 				"feature_value": "0",
-				"cluster_win_mean": "9.46",
-				"delta": "9.46"
+				"cluster_win_mean": "13.26",
+				"delta": "13.26"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/general-evaluator-needed-citicriers-toastmasters-meeting-thursday-28-november-600-pm.html",
 				"feature_value": "0",
-				"cluster_win_mean": "9.46",
-				"delta": "9.46"
+				"cluster_win_mean": "13.26",
+				"delta": "13.26"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/a-fabulous-evening-at-citi-criers-on-14-nov-join-us-on-28-nov.html",
 				"feature_value": "0",
-				"cluster_win_mean": "9.46",
-				"delta": "9.46"
+				"cluster_win_mean": "13.26",
+				"delta": "13.26"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/fantastic-halloween-evening-by-citi-criers-31-oct-.html",
 				"feature_value": "0",
-				"cluster_win_mean": "9.46",
-				"delta": "9.46"
+				"cluster_win_mean": "13.26",
+				"delta": "13.26"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/remembering-jfk-by-rewatching-his-inaugural-address.html",
 				"feature_value": "0",
-				"cluster_win_mean": "9.46",
-				"delta": "9.46"
+				"cluster_win_mean": "13.26",
+				"delta": "13.26"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/uk-ireland-contest-finals-the-results.html",
 				"feature_value": "0",
-				"cluster_win_mean": "9.46",
-				"delta": "9.46"
+				"cluster_win_mean": "13.26",
+				"delta": "13.26"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/have-you-booked-for-the-boadicea-conference-its-next-week.html",
 				"feature_value": "0",
-				"cluster_win_mean": "9.46",
-				"delta": "9.46"
+				"cluster_win_mean": "13.26",
+				"delta": "13.26"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/greater-london-toastmasters-educational-awards-october-2013.html",
 				"feature_value": "0",
-				"cluster_win_mean": "9.46",
-				"delta": "9.46"
+				"cluster_win_mean": "13.26",
+				"delta": "13.26"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/speeches-that-shook-the-world.html",
 				"feature_value": "0",
-				"cluster_win_mean": "9.46",
-				"delta": "9.46"
+				"cluster_win_mean": "13.26",
+				"delta": "13.26"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/getting-your-nerves-under-control-workshop-on-mon-25-november.html",
 				"feature_value": "0",
-				"cluster_win_mean": "9.46",
-				"delta": "9.46"
+				"cluster_win_mean": "13.26",
+				"delta": "13.26"
 			},
 			{
 				"html_id": "http://www.thelondonspeaker.com/weblog/2013/11/index.html",
 				"feature_value": "0",
-				"cluster_win_mean": "9.46",
-				"delta": "9.46"
+				"cluster_win_mean": "13.26",
+				"delta": "13.26"
 			}
 		]
 	}

@@ -2,43 +2,25 @@
 	{
 		"key": "Healthy",
 		"color": "#00cc00",
-		"values": [
-			{
-				"label": "Onsite",
-				"value": 4
-			},
-			{
-				"label": "Offsite",
-				"value": 60
-			}
-		]
+		"values": {
+			"label": "Offsite",
+			"value": 42
+		}
 	},
 	{
 		"key": "Neutral",
 		"color": "#ff9900",
-		"values": [
-			{
-				"label": "Onsite",
-				"value": 114
-			},
-			{
-				"label": "Offsite",
-				"value": 15
-			}
-		]
+		"values": {
+			"label": "Offsite",
+			"value": 35
+		}
 	},
 	{
 		"key": "Harmful",
 		"color": "#ff0000",
-		"values": [
-			{
-				"label": "Onsite",
-				"value": -2
-			},
-			{
-				"label": "Offsite",
-				"value": -118
-			}
-		]
+		"values": {
+			"label": "Offsite",
+			"value": -111
+		}
 	}
 ]

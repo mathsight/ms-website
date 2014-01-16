@@ -93,11 +93,98 @@
 	
 	if (onOrOffsite.length < 7) {
 		JSONfilename = "XDrill";
+		highlightFilename = "json/summary/"+websiteName+"_Xhat.json";
 	}
 	else {
 		JSONfilename = "XDrillOff";
+		highlightFilename = "json/summary/"+websiteName+"_XhatOff.json";
 	}
 	
+	// -----------------------------
+	
+
+	var loseMean = [];
+	var winMean = [];
+	var loseStd = [];
+	var winStd = [];
+	var harmMean = [];
+	var healthMean = [];
+	var numLose = [];
+	var numWin = [];
+	
+	var featureJSON = $.getJSON( highlightFilename, function(results) {
+		console.log( "feature JSON loading success" );
+		if (onOrOffsite == 'onsite') {
+			$.each(results.onsite, function(index) {
+
+				blob = results.onsite[index];
+
+				if (blob[1]==featureName) {
+					// 		
+					// console.log(featureName);
+					// 		console.log(blob[1]);
+					loseMean.push(blob[2]);
+					winMean.push(blob[3]);
+					loseStd.push(blob[4]);
+					winStd.push(blob[5]);
+					numLose.push(blob[6]);
+					harmMean.push(blob[7]);
+					numWin.push(blob[9]);
+					healthMean.push(blob[10]);
+					// 
+					console.log("Losing mean = " + loseMean);
+					console.log("Winning mean = " + winMean);
+				}
+			
+	
+			});
+		}
+		else {
+			$.each(results.offsite, function(index) {
+
+				blob = results.offsite[index];
+
+				if (blob[1]==featureName) {
+					// 		
+					// console.log(featureName);
+					// 		console.log(blob[1]);
+					loseMean.push(blob[2]);
+					winMean.push(blob[3]);
+					loseStd.push(blob[4]);
+					winStd.push(blob[5]);
+					numLose.push(blob[6]);
+					harmMean.push(blob[7]);
+					numWin.push(blob[9]);
+					healthMean.push(blob[10]);
+					// 
+					console.log("Losing mean = " + loseMean);
+					console.log("Winning mean = " + winMean);
+				}
+			
+	
+			});
+		}
+	})
+	.done(function() {
+		console.log( "second success" );
+	})
+	.fail(function() {
+		console.log( "error" );
+	})
+	.always(function() {
+		console.log( "complete" );
+	});
+	
+	featureJSON.complete(function() {
+		console.log( "second complete" );
+		
+
+	});
+	
+	
+
+	// -----------------------------
+
 
 function initDataTables(){
 
@@ -136,11 +223,33 @@ function initDataTables(){
 	
 $(document).ready(function(){
 	
+	initDataTables();
+	/* all other page load code*/
 
-initDataTables();
-/* all other page load code*/
+	nv.addGraph(function() {  
+		var chart = nv.models.lineChart();
+		chart.xAxis
+		.axisLabel(featureName)
+		.tickFormat(d3.format(',r'));
+
+		chart.yAxis
+		.axisLabel('Frequency')
+		.tickFormat(d3.format('.02f'));
+ 
+		d3.select('#chart svg')
+		.datum(normalDist())
+		.transition().duration(500)
+		.call(chart);
+
+		nv.utils.windowResize(function() { d3.select('#chart svg').call(chart) });
+
+		return chart;
+	});
 
 });
+
+
+
 
 </script>
 
@@ -162,6 +271,8 @@ initDataTables();
 /**************************************
  * Simple test data generator
   */
+
+
 
  
 function sinAndCos() {
@@ -187,60 +298,58 @@ function sinAndCos() {
 	];
 }
 
+var mu = parseFloat(winMean) || 5;
+var sd = parseFloat(winStd) || 2;
+var mu2 = parseFloat(loseMean) || 3;
+var sd2 = parseFloat(loseStd) || 1.5;
 
-// var topLevelFile = "/json/toplevel/" + websiteName + "_ybar.json";
-
-nv.addGraph(function() {  
-	var chart = nv.models.lineChart();
-	chart.xAxis
-	.axisLabel(featureName)
-	.tickFormat(d3.format(',r'));
-
-	chart.yAxis
-	.axisLabel('Frequency')
-	.tickFormat(d3.format('.02f'));
- 
-	d3.select('#chart svg')
-	.datum(sinAndCos())
-	.transition().duration(500)
-	.call(chart);
-
-	nv.utils.windowResize(function() { d3.select('#chart svg').call(chart) });
-
-	return chart;
-});
+ixMin = Math.round(Math.min(mu-3*sd,mu2-3*sd2));
+ixMax = Math.round(Math.max(mu+3*sd,mu2+3*sd2));
+ixRange = ixMax-ixMin;
+ixInc = ixRange/100;
 
 
+function normalDist() {
 
-// d3.json(topLevelFile, function(data) {
-// 
-// 	var chart;
-// 	nv.addGraph(function() {
-// 		chart = nv.models.multiBarHorizontalChart()
-// 		.x(function(d) { return d.label })
-// 		.y(function(d) { return d.value })
-// 		.margin({top: 30, right: 100, bottom: 50, left: 100})
-// 		//.showValues(true)
-// 		//.tooltips(false)
-// 		//.barColor(d3.scale.category20().range())
-// 		.transitionDuration(250)
-// 		.stacked(false)
-// 		//.showControls(false);
-// 
-// 		chart.yAxis
-// 		.tickFormat(d3.format(',.2f'));
-// 
-// 		d3.select('#chart1 svg')
-// 		.datum(data)
-// 		.call(chart);
-// 
-// 		nv.utils.windowResize(chart.update);
-// 
-// 		chart.dispatch.on('stateChange', function(e) { nv.log('New State:', JSON.stringify(e)); });
-// 
-// 		return chart;
-// 	});
-// });
+
+	var iy = [];
+	iy2 = [];
+	
+	
+	for (var i = ixMin; i < ixMax; i+= ixInc) {
+		
+		iy.push({x: i, y: (1/(sd*Math.sqrt(2*Math.PI)))* Math.exp(-Math.pow(i-mu,2)/(2*Math.pow(sd,2)))});
+		iy2.push({x: i, y: (1/(sd2*Math.sqrt(2*Math.PI)))* Math.exp(-Math.pow(i-mu2,2)/(2*Math.pow(sd2,2)))});
+		
+	}
+	
+	
+	return [
+	{
+		values: iy,
+		key: 'Winning Distribution',
+		color: '#00cc00'
+	},
+	{
+		values: iy2,
+		key: 'Losing Distribution',
+		color: '#ff0000'
+	}
+	];
+	
+}
+
+
+
+var topLevelFile = "/json/toplevel/" + websiteName + "_ybar.json";
+
+
+
+
+
+
+
+
 
 </script>
 
@@ -252,7 +361,7 @@ rel="stylesheet" type="text/css">
 <link rel="stylesheet" type="text/css" href="dist/jquery.jqplot.min.css" />
 <style type="text/css" title="currentStyle">
 @import "datatables/media/css/demo_page.css"; 
-@import "datatables/media/css/header.ccss";
+/*@import "datatables/media/css/header.ccss";*/
 @import "datatables/media/css/demo_table.css";
 /* for re-styling and CSV export */
 @import "http://netdna.bootstrapcdn.com/twitter-bootstrap/2.3.2/css/bootstrap-combined.min.css";
@@ -368,7 +477,7 @@ rel="stylesheet" type="text/css">
                 <!-- <li><a href="/plans.html">Plans</a></li> -->
 				<li class="active"><a href="/statseo_feature.html">StatSEO</a></li>
 				<li><a href="/api.html">API</a></li>
-				<!-- <li><a href="/jobs.html">Jobs</a></li> -->
+				<li><a href="/feature_def.html">Features</a></li>
             </ul>
           </div><!--/.nav-collapse -->
         </div>
@@ -412,27 +521,85 @@ rel="stylesheet" type="text/css">
 	  <div class="panel panel-default">
 		  <div class="panel-heading"></div>
 		  <div class="panel-body">
-
+			  <!-- Table -->
+			  <table class="table">
+				  <thead>
+					  <tr>
+						  <th>Feature name</th>
+						  <th>
+							  <script>
+							  if (healthOrHarm == 'harmful'){
+								  document.write('# losing URLs');
+							  }
+							  else {
+								  document.write('# winning URLs');
+							  }
+							  </script>
+						  </th>
+						  <th>
+							  <script>
+							  if (healthOrHarm == 'harmful'){
+								  document.write('Feature losing mean');
+							  }
+							  else {
+								  document.write('Feature winning mean');
+							  }
+							  </script>
+						  
+						  </th>
+						  <th>
+							  <script>
+							  if (healthOrHarm == 'harmful'){
+								  document.write('Avg domain feature value (harmful URLs)');
+							  }
+							  else {
+								  document.write('Avg domain feature value (healthy URLs)');
+							  }
+							  </script>  
+						  </th>
+					  </tr>
+				  </thead>
+				  <tbody>
+					  <tr>
+						  <td>
+							  <script>
+							  document.write(featureName);
+							  </script>
+						  </td>
+						  <td>
+							  <script>
+							  if (healthOrHarm == 'harmful'){
+								  document.write(numLose);
+							  }
+							  else {
+								  document.write(numWin);
+							  }
+							  </script>
+						  </td>
+						  <td>
+							  <script>
+							  if (healthOrHarm == 'harmful'){
+								  document.write(loseMean);
+							  }
+							  else {
+								  document.write(winMean);
+							  }
+							  </script>
+						  </td>
+						  <td><script>
+							  if (healthOrHarm == 'harmful'){
+								  document.write(harmMean);
+							  }
+							  else {
+								  document.write(healthMean);
+							  }
+							  </script>
+						  </td>
+					  </tr>
+				  </tbody>
+			  </table>
 		  </div>
-		  <!-- Table -->
-		  <table class="table">
-			  <thead>
-				  <tr>
-					  <th>Feature name</th>
-					  <th># winning URLs</th>
-					  <th>Feature winning mean</th>
-					  <th>Avg domain feature value</th>
-				  </tr>
-			  </thead>
-			  <tbody>
-				  <tr>
-					  <td><script>document.write(featureName);</script></td>
-					  <td>12</td>
-					  <td>34.2</td>
-					  <td>12.6</td>
-				  </tr>
-			  </tbody>
-		  </table>
+		  
 	  </div>
 	  
 	  <br>
@@ -501,44 +668,42 @@ rel="stylesheet" type="text/css">
 						  <div class="accordion-heading">
 							  <a class="accordion-toggle" data-toggle="collapse"
 							  data-parent="#accordion2" href="#collapseOne">
-							  Which features does MathSight monitor for me?
+							  Which features does MathSight monitor for me?</a>
+						  </div>
+						  <div id="collapseOne" class="accordion-body collapse">
+							  <div class="accordion-inner">
+								  Over 100 features taken straight from the html pages of your domain (related to structure and content), approximately 20 calculated (or premium) features (such as ratios of one feature to another) and 5-10 advanced features which analyse backlinks and their effect on the onsite.
+							  </div>
+						  </div>
+					  </div>
+					  <div class="accordion-group">
+						  <div class="accordion-heading">
+							  <a class="accordion-toggle" data-toggle="collapse"
+							  data-parent="#accordion2" href="#collapseTwo">
+							  What is an influential feature?</a>
+						  </div>
+						  <div id="collapseTwo" class="accordion-body collapse">
+							  <div class="accordion-inner">
+								  All the features assessed here have been assessed to have differing levels of influence (or impact) on cumulative daily page view organic search traffic for their containing html page. We wanted to give you the opportunity to see which features had the greatest influence, and which have limited impact. Feel free to click on 'Influence Rank' tab above to sort them as required.
+							  </div>
+						  </div>
+					  </div>
+					  <div class="accordion-group">
+						  <div class="accordion-heading">
+							  <a class="accordion-toggle" data-toggle="collapse"
+							  data-parent="#accordion2" href="#collapseThree">
+							  What is <script>document.write(featureName);</script> exactly?
 						  </a>
 					  </div>
-					  <div id="collapseOne" class="accordion-body collapse">
+					  <div id="collapseThree" class="accordion-body collapse">
 						  <div class="accordion-inner">
-							  Over 100 features taken straight from the html pages of your domain (related to structure and content), approximately 20 calculated (or premium) features (such as ratios of one feature to another) and 5-10 advanced features which analyse backlinks and their effect on the onsite.
+							  Automatically pull in description for <script>document.write(featureName);</script> here.
+							  [TBC]
 						  </div>
 					  </div>
 				  </div>
-				  <div class="accordion-group">
-					  <div class="accordion-heading">
-						  <a class="accordion-toggle" data-toggle="collapse"
-						  data-parent="#accordion2" href="#collapseTwo">
-						  What is an influential feature?
-					  </a>
-				  </div>
-				  <div id="collapseTwo" class="accordion-body collapse">
-					  <div class="accordion-inner">
-						  All the features assessed here have been assessed to have differing levels of influence (or impact) on cumulative daily page view organic search traffic for their containing html page. We wanted to give you the opportunity to see which features had the greatest influence, and which have limited impact. Feel free to click on 'Influence Rank' tab above to sort them as required.
-					  </div>
-				  </div>
-			  </div>
-			  <div class="accordion-group">
-				  <div class="accordion-heading">
-					  <a class="accordion-toggle" data-toggle="collapse"
-					  data-parent="#accordion3" href="#collapseThree">
-					  What is <script>document.write(featureName);</script> exactly?
-				  </a>
-			  </div>
-			  <div id="collapseThree" class="accordion-body collapse">
-				  <div class="accordion-inner">
-					  Automatically pull in description for <script>document.write(featureName);</script> here.
-					  [TBC]
-				  </div>
 			  </div>
 		  </div>
-		  </div>
-	  </div>
 
   </div>
 

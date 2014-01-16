@@ -178,7 +178,7 @@
 	var features = [];
 
 	var featureJSON = $.getJSON( "json/features/feature_list.json", function(results) {
-		console.log( "JSON loading success" );
+		console.log( "feature JSON loading success" );
 		$.each(results, function(index) {
 			// alert(results[index].name);
 			blob = results[index].name;
@@ -200,7 +200,7 @@
 	
 
 	featureJSON.complete(function() {
-		console.log( "second complete - populating dropdown" );
+		console.log( "second complete - populating feature dropdown" );
 		
 		var select = document.getElementById("selectFeat"); 
 		
@@ -216,6 +216,47 @@
 	
 	});
 
+
+	// ------------------------------
+	
+	var websites = [];
+
+	var websiteJSON = $.getJSON( "json/websites/websiteList.json", function(results) {
+		console.log( "website JSON loading success" );
+		$.each(results, function(index) {
+			websites.push(results[index].url);
+		});
+	})
+	.done(function() {
+		console.log( "second success" );
+	})
+	.fail(function() {
+		console.log( "error" );
+	})
+	.always(function() {
+		console.log( "complete" );
+	});
+	
+
+	websiteJSON.complete(function() {
+		console.log( "second complete - populating website dropdown" );
+		
+		var selectSite = document.getElementById("selectSite"); 
+		
+		for(var i = 0; i < websites.length; i++) {
+			// console.log(websites[i]);
+		    var opt = websites[i];
+		    var el = document.createElement("option");
+		    el.textContent = opt;
+		    el.value = opt;
+		    selectSite.appendChild(el);
+		}
+
+	});
+	
+	
+	
+	// ------------------------------
 
 	jQuery(document).ready(function($) {
 		$(".clickableRow").click(function() {
@@ -239,9 +280,19 @@
 	{
 		var domainElement = document.getElementById("inputURL");
 		var websiteURLNew = domainElement.value;
-		var websiteSplitNew = websiteURLNew.split(".");
-		websiteName = websiteSplitNew[1];
-		
+		if (websiteURLNew.length > 0) {
+			
+			var websiteSplitNew = websiteURLNew.split(".");
+			websiteName = websiteSplitNew[1] || "";
+		}
+		else {
+			domainElementX = document.getElementById("selectSite").selectedIndex;
+			domainElementY = document.getElementById("selectSite").options;
+			websiteURLNew = domainElementY[domainElementX].text;
+			websiteSplitNew = websiteURLNew.split(".");
+			websiteName = websiteSplitNew[1] || "";
+		}
+
 		//alert("website name is " + websiteName);
 
 		var pageTypeX = document.getElementById("selectOnOff").selectedIndex;
@@ -255,23 +306,18 @@
 		var featureSel = featureY[featureX].text.toLowerCase();
 		
 		//alert("feature selection is " + featureSel);
-				// 
-		// document.getElementById("dispUrl").innerHTML = "for " + websiteName;
-		
-		
-	  // websiteName = 'leighmans'; 
-	  if (featureSel.length > 0 && pageType.length > 0 && featureX > 2){
-		  window.open("SQ_drilldown.html?="+websiteName+"&="+featureSel+"&="+pageType);
+
+	  if (websiteName.length > 0 && featureSel.length > 0 && pageType.length > 0 && featureX > 2){
+		  urlToOpen = "SQ_drilldown.html?="+websiteName+"&="+featureSel+"&="+pageType;
+		  window.open(urlToOpen ,"_self");
 	  }
-	  else if(featureSel.length > 0 && pageType.length > 0 && featureX == 2){
-		  window.open("SQ_toplevel.html?="+websiteName+"&="+pageType);
+	  else if(websiteName.length > 0 && featureSel.length > 0 && pageType.length > 0 && featureX == 2){
+		  urlToOpen = "SQ_toplevel.html?="+websiteName+"&="+pageType;
+		  window.open(urlToOpen ,"_self");
 	  }
 	  else{
 		 
 	  }
-	  // document.write('<a href = "SQ_drilldown.html?='+websiteName+'">submit!</a>');
-	  
-		
 
 	}
 	
@@ -300,7 +346,7 @@
                 <!-- <li><a href="/plans.html">Plans</a></li> -->
 				<li class="active"><a href="/statseo_feature.html">StatSEO</a></li>
 				<li><a href="/api.html">API</a></li>
-				<!-- <li><a href="/jobs.html">Jobs</a></li> -->
+				<li><a href="/feature_def.html">Features</a></li>
             </ul>
           </div><!--/.nav-collapse -->
         </div>
@@ -326,8 +372,14 @@
 			  Enter Domain URL:
 			  <div class="form-group">
 				  <input type="url" class="form-control" id="inputURL">
+				  <form id="dropdownWebsite">
+					  <select id="selectSite">
+						  <option>or select domain from a list</option>
+						  <option class="divider">-------------------------</option>
+					  </select>
+				  </form>
 			  </div>
-
+			  
 			  <br>
 
 			  <form id="dropdownOnOff">
@@ -350,7 +402,6 @@
 				  </select>
 			  </form>
 
-			  <!-- <button onclick="doStuff()" type="submit" class="btn btn-primary" id="submitUrl"> -->
 				  <button onclick="doStuff()" type="submit" class="btn btn-primary" id="submitUrl">
 
 					  submit!
