@@ -224,7 +224,7 @@
 	var websiteJSON = $.getJSON( "json/websites/websiteList.json", function(results) {
 		console.log( "website JSON loading success" );
 		$.each(results, function(index) {
-			console.log(results[index].url);
+			// console.log(results[index].url);
 			websites.push = results[index].url;
 
 		});
@@ -243,18 +243,17 @@
 	websiteJSON.complete(function() {
 		console.log( "second complete - populating website dropdown" );
 		
-		var select = document.getElementById("selectSite"); 
+		var selectSite = document.getElementById("selectSite"); 
 		
 		for(var i = 0; i < websites.length; i++) {
+			console.log(websites[i]);
 		    var opt = websites[i];
 		    var el = document.createElement("option");
 		    el.textContent = opt;
 		    el.value = opt;
-		    select.appendChild(el);
+		    selectSite.appendChild(el);
 		}
-		
-	 	// document.getElementById("jfeatures").innerHTML=features; 						 
-	
+
 	});
 	
 	
