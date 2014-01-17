@@ -10,6 +10,7 @@
 	{
 		"key": "Neutral",
 		"color": "#ff9900",
+		"disabled": true,
 		"values": {
 			"label": "Offsite",
 			"value": 2

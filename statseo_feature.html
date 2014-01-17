@@ -45,96 +45,96 @@
 	<script src="//netdna.bootstrapcdn.com/bootstrap/3.0.2/js/bootstrap.min.js"></script>
 
 	<style>
-				canvas{
-				}
-			</style>
+	canvas{
+	}
+	</style>
 	
 	<style type="text/css">
 
-      /* Large desktop */
-      @media (min-width: 980px) { 
-        body {
-         padding-top: 60px;
-        }
-       .linediv-l {
-         border-right: 1px white solid;
-        }
-       .linediv-r {
-         border-left: 1px white solid;
-       }
-      }
+	/* Large desktop */
+	@media (min-width: 980px) { 
+		body {
+			padding-top: 60px;
+		}
+		.linediv-l {
+			border-right: 1px white solid;
+		}
+		.linediv-r {
+			border-left: 1px white solid;
+		}
+	}
 
-      /* Landscape phones and down */
-      @media (max-width: 480px) { 
-       .copy {
-         padding: 2.5% 10%;
-       }
-       .linediv-l {
-         border-bottom: 1px white solid;
-       }
-       .linediv-r {
-         border-top: 1px white solid;
-       }
-      }
+	/* Landscape phones and down */
+	@media (max-width: 480px) { 
+		.copy {
+			padding: 2.5% 10%;
+		}
+		.linediv-l {
+			border-bottom: 1px white solid;
+		}
+		.linediv-r {
+			border-top: 1px white solid;
+		}
+	}
 
-      /* All form factors */
+	/* All form factors */
 
-      /* Main body and headings */
-      body{
-        font-family: 'Open Sans', Helvetica, Arial, sans-serif;
-      }
-      .heading, .subheading {
-        font-family: 'Ubuntu', Helvetica, Arial, sans-serif;
-        text-align: center;
-      }
-      p.lead {
-        padding-top: 1.5%;
-        font-size: 24px;
-        line-height: 30px;
-      }
-      p {
-        font-size: 18px;
-        line-height: 24px;
-      }
+	/* Main body and headings */
+	body{
+		font-family: 'Open Sans', Helvetica, Arial, sans-serif;
+	}
+	.heading, .subheading {
+		font-family: 'Ubuntu', Helvetica, Arial, sans-serif;
+		text-align: center;
+	}
+	p.lead {
+		padding-top: 1.5%;
+		font-size: 24px;
+		line-height: 30px;
+	}
+	p {
+		font-size: 18px;
+		line-height: 24px;
+	}
 
-      /* Video pitch and Action */
-      .pitch {
-        padding: 2.5% 0%;
-      }
-      .order {
-        padding: 2% 0%;
-      }
-      .actions {
-        background-color: #343434;
-        padding: 3% 0%;
-      }
-      .video, .thermometer, .order, .social, .statistics {
-        text-align: center;
-      }
-      .statistics h3, .statistics p {
-        color: white;
-      }
+	/* Video pitch and Action */
+	.pitch {
+		padding: 2.5% 0%;
+	}
+	.order {
+		padding: 2% 0%;
+	}
+	.actions {
+		background-color: #343434;
+		padding: 3% 0%;
+	}
+	.video, .thermometer, .order, .social, .statistics {
+		text-align: center;
+	}
+	.statistics h3, .statistics p {
+		color: white;
+	}
 
-      /* Marketing Copy and Footer */
-      .copy {
-        padding-top: 2.5%;
-        padding-bottom: 2.5%;
-        text-align: justify;
-      }
-      .asset {
-        padding: 2.5% 0%;
-      }
-      .footer {
-        color: #cccccc;
-        text-align: center;
-      }
-      .footer p {
-        font-size: 11px;
-      }
-      .footer a {
-        color: #ccccff;
-      }
-    </style>
+	/* Marketing Copy and Footer */
+	.copy {
+		padding-top: 2.5%;
+		padding-bottom: 2.5%;
+		text-align: justify;
+	}
+	.asset {
+		padding: 2.5% 0%;
+	}
+	.footer {
+		color: #cccccc;
+		text-align: center;
+	}
+	.footer p {
+		font-size: 11px;
+	}
+	.footer a {
+		color: #ccccff;
+	}
+	</style>
     
     
     
@@ -170,7 +170,7 @@
 
 	/* Global vars */
 	// var locate = decodeURI(window.location);
-// 	var urlSplit = locate.split("=");
+	// 	var urlSplit = locate.split("=");
 	var websiteName = "";
 	var pageType = "";
 	var featureSel = "";
@@ -205,14 +205,14 @@
 		var select = document.getElementById("selectFeat"); 
 		
 		for(var i = 0; i < features.length; i++) {
-		    var opt = features[i];
-		    var el = document.createElement("option");
-		    el.textContent = opt;
-		    el.value = opt;
-		    select.appendChild(el);
+			var opt = features[i];
+			var el = document.createElement("option");
+			el.textContent = opt;
+			el.value = opt;
+			select.appendChild(el);
 		}
 		
-	 	// document.getElementById("jfeatures").innerHTML=features; 						 
+		// document.getElementById("jfeatures").innerHTML=features; 						 
 	
 	});
 
@@ -245,11 +245,11 @@
 		
 		for(var i = 0; i < websites.length; i++) {
 			// console.log(websites[i]);
-		    var opt = websites[i];
-		    var el = document.createElement("option");
-		    el.textContent = opt;
-		    el.value = opt;
-		    selectSite.appendChild(el);
+			var opt = websites[i];
+			var el = document.createElement("option");
+			el.textContent = opt;
+			el.value = opt;
+			selectSite.appendChild(el);
 		}
 
 	});
@@ -270,175 +270,184 @@
 	<script>
 	
 	// var arr = [ 2, 3, 7, 14];
-// 	$.each(arr, function(index, value) {
-// 
-// 	     ('#dropdownSiteFeature').append($('<option>').text(value).attr('value', index));
-// 	});
+	// 	$.each(arr, function(index, value) {
+		// 
+		// 	     ('#dropdownSiteFeature').append($('<option>').text(value).attr('value', index));
+		// 	});
 
 
-	function doStuff()
-	{
-		var domainElement = document.getElementById("inputURL");
-		var websiteURLNew = domainElement.value;
-		if (websiteURLNew.length > 0) {
+		function doStuff()
+		{
+			var domainElement = document.getElementById("inputURL");
+			var websiteURLNew = domainElement.value;
+			if (websiteURLNew.length > 0) {
 			
-			var websiteSplitNew = websiteURLNew.split(".");
-			websiteName = websiteSplitNew[1] || "";
-		}
-		else {
-			domainElementX = document.getElementById("selectSite").selectedIndex;
-			domainElementY = document.getElementById("selectSite").options;
-			websiteURLNew = domainElementY[domainElementX].text;
-			websiteSplitNew = websiteURLNew.split(".");
-			websiteName = websiteSplitNew[1] || "";
-		}
+				var websiteSplitNew = websiteURLNew.split(".");
+				websiteName = websiteSplitNew[1] || "";
+			}
+			else {
+				domainElementX = document.getElementById("selectSite").selectedIndex;
+				domainElementY = document.getElementById("selectSite").options;
+				websiteURLNew = domainElementY[domainElementX].text;
+				websiteSplitNew = websiteURLNew.split(".");
+				websiteName = websiteSplitNew[1] || "";
+			}
 
-		//alert("website name is " + websiteName);
+			//alert("website name is " + websiteName);
 
-		var pageTypeX = document.getElementById("selectOnOff").selectedIndex;
-		var pageTypeY = document.getElementById("selectOnOff").options;
-		var pageType = pageTypeY[pageTypeX].text.split(' ')[0].toLowerCase();
+			var pageTypeX = document.getElementById("selectOnOff").selectedIndex;
+			var pageTypeY = document.getElementById("selectOnOff").options;
+			var pageType = pageTypeY[pageTypeX].text.split(' ')[0].toLowerCase();
 		
-		//alert("page type is " + pageType);
+			//alert("page type is " + pageType);
 		
-		var featureX = document.getElementById("selectFeat").selectedIndex;
-		var featureY = document.getElementById("selectFeat").options;
-		var featureSel = featureY[featureX].text.toLowerCase();
+			var featureX = document.getElementById("selectFeat").selectedIndex;
+			var featureY = document.getElementById("selectFeat").options;
+			var featureSel = featureY[featureX].text.toLowerCase();
 		
-		//alert("feature selection is " + featureSel);
+			//alert("feature selection is " + featureSel);
 
-	  if (websiteName.length > 0 && featureSel.length > 0 && pageType.length > 0 && featureX > 2){
-		  urlToOpen = "SQ_drilldown.html?="+websiteName+"&="+featureSel+"&="+pageType;
-		  window.open(urlToOpen ,"_self");
-	  }
-	  else if(websiteName.length > 0 && featureSel.length > 0 && pageType.length > 0 && featureX == 2){
-		  urlToOpen = "SQ_toplevel.html?="+websiteName+"&="+pageType;
-		  window.open(urlToOpen ,"_self");
-	  }
-	  else{
+			if (websiteName.length > 0 && featureSel.length > 0 && pageType.length > 0 && featureX > 2){
+				urlToOpen = "SQ_drilldown.html?="+websiteName+"&="+featureSel+"&="+pageType;
+				window.open(urlToOpen ,"_self");
+			}
+			else if(websiteName.length > 0 && featureSel.length > 0 && pageType.length > 0 && featureX == 2){
+				urlToOpen = "SQ_toplevel.html?="+websiteName+"&="+pageType;
+				window.open(urlToOpen ,"_self");
+			}
+			else{
 		 
-	  }
+			}
 
-	}
+		}
+		
+		function doSearch(){
+			var featElement = document.getElementById("inputFeature");
+			alert("Search feature not yet working - please select from the dropdown");
+		}
 	
-	</script>
+		</script>
 
 
 
-  </head>
-  <body>
+	</head>
+	<body>
 
-    <!-- Mobile-friendly navbar adapted from example. -->
-    <!-- http://twitter.github.io/bootstrap/examples/starter-template.html -->
-    <div class="navbar navbar-inverse navbar-fixed-top">
-      <div class="navbar-inner">
-        <div class="container">
-          <button type="button" class="btn btn-navbar"
-                  data-toggle="collapse" data-target=".nav-collapse">
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-          </button>
-          <a class="brand" href="/">MathSight Demo</a>
-          <div class="nav-collapse collapse">
-            <ul class="nav">
-                <li><a href="/">Home</a></li>
-                <!-- <li><a href="/plans.html">Plans</a></li> -->
-				<li class="active"><a href="/statseo_feature.html">StatSEO</a></li>
-				<li><a href="/api.html">API</a></li>
-				<li><a href="/feature_def.html">Features</a></li>
-            </ul>
-          </div><!--/.nav-collapse -->
-        </div>
-      </div>
-    </div>
+		<!-- Mobile-friendly navbar adapted from example. -->
+		<!-- http://twitter.github.io/bootstrap/examples/starter-template.html -->
+		<div class="navbar navbar-inverse navbar-fixed-top">
+			<div class="navbar-inner">
+				<div class="container">
+					<button type="button" class="btn btn-navbar"
+					data-toggle="collapse" data-target=".nav-collapse">
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+				</button>
+				<a class="brand" href="/">MathSight Demo</a>
+				<div class="nav-collapse collapse">
+					<ul class="nav">
+						<li><a href="/">Home</a></li>
+						<!-- <li><a href="/plans.html">Plans</a></li> -->
+						<li class="active"><a href="/statseo_feature.html">StatSEO</a></li>
+						<li><a href="/api.html">API</a></li>
+						<li><a href="/feature_def.html">Features</a></li>
+					</ul>
+				</div><!--/.nav-collapse -->
+			</div>
+		</div>
+	</div>
 
-    <!-- We use row-fluid inside containers to achieve a resizable layout. -->
-    <!-- blogs.endjin.com/2013/04/tips-for-implementing-responsive-designs-using-bootstrap/ -->
-    <!-- http://stackoverflow.com/a/12270322 -->
-    <div class="container-fluid" id="header">
-      <!-- Font and paired font of .heading/.subheading and body from Google Fonts -->
-      <!-- www.google.com/fonts/specimen/Ubuntu -->
-      <!-- www.google.com/fonts/specimen/Ubuntu#pairings -->
-	  <div class="row-fluid heading">
-		  <div class="span12">
-			  <h1>StatSEO: Demonstration</h1>
-		  </div>
-	  </div> 
+	<!-- We use row-fluid inside containers to achieve a resizable layout. -->
+	<!-- blogs.endjin.com/2013/04/tips-for-implementing-responsive-designs-using-bootstrap/ -->
+	<!-- http://stackoverflow.com/a/12270322 -->
+	<div class="container-fluid" id="header">
+		<!-- Font and paired font of .heading/.subheading and body from Google Fonts -->
+		<!-- www.google.com/fonts/specimen/Ubuntu -->
+		<!-- www.google.com/fonts/specimen/Ubuntu#pairings -->
+		<div class="row-fluid heading">
+			<div class="span12">
+				<h1>StatSEO: Demonstration</h1>
+			</div>
+		</div> 
 
-		  <hr>
-		  
-		  <div class="well">
-			  Enter Domain URL:
-			  <div class="form-group">
-				  <input type="url" class="form-control" id="inputURL">
-				  <form id="dropdownWebsite">
-					  <select id="selectSite">
-						  <option>or select domain from a list</option>
-						  <option class="divider">-------------------------</option>
-					  </select>
-				  </form>
-			  </div>
+		<hr>
+		
+		<div class="well">
+			Enter Domain URL:
+			<div class="form-group">
+				<input type="url" class="form-control" id="inputURL">
+				<form id="dropdownWebsite">
+					<select id="selectSite">
+						<option>or select domain from a list</option>
+						<option class="divider">-------------------------</option>
+					</select>
+				</form>
+			</div>
 			  
-			  <br>
+			<br>
 
-			  <form id="dropdownOnOff">
-				  <select id="selectOnOff">
-					  <option>Select onsite or offsite</option>
-					  <option class="divider">-------------------------</option>
-					  <option>Onsite (this domain)</option>
-					  <option>Offsite (backlinks)</option>
-				  </select>
-			  </form>
+			<form id="dropdownOnOff">
+				<select id="selectOnOff">
+					<option>Select onsite or offsite</option>
+					<option class="divider">-------------------------</option>
+					<option>Onsite (this domain)</option>
+					<option>Offsite (backlinks)</option>
+				</select>
+			</form>
 					  
-			  <br>
+			<br>
 			  
-			  <form id="dropdownFeature">
-				  <select id="selectFeat">
-					  <option>Select feature or StatSEO</option>
-					  <option class="divider">-------------------------</option>
-					  <option>StatSEO Overview</option>
-					  <option class="divider">-------------------------</option>
-				  </select>
-			  </form>
 
-				  <button onclick="doStuff()" type="submit" class="btn btn-primary" id="submitUrl">
+			<div class="form-group">
+	  
+				<input type="text" class="form-control" placeholder="Type feature name" id="inputFeature">
+				<span class="input-group-btn">
+					<button class="btn btn-default" onclick="doSearch()" type="submit" id="submitFeat">
+						Search
+					</button>
+				</span>
+	  
+				<form id="dropdownFeature">
+					<select id="selectFeat">
+						<option>Select feature or StatSEO</option>
+						<option class="divider">-------------------------</option>
+						<option>StatSEO Overview</option>
+						<option class="divider">-------------------------</option>
+					</select>
+				</form>
+	
+			</div><!-- /form-group -->
 
-					  submit!
+			<br><br>
+
+			<button onclick="doStuff()" type="submit" class="btn btn-primary" id="submitUrl">
+
+				submit!
 							  
-				  </button>
+			</button>
 
-				  <br><br>
-					  
-				  <!-- <a href="/SQ_drilldown.html?=alchemyviral&=average backlink dale chall readability&=onsite&=healthy">
-					  Onsite healthy feature drilldown example
-				  </a>
-				  <br>
-				  <a href="/SQ_drilldown.html?=rawpearls&=average backlink dale chall readability&=onsite&=harmful">
-					  Onsite harmful feature drilldown example
-				  </a>
-				  <br>
-				  <a href="/SQ_drilldown.html?=alchemyviral&=number of duplicate words&=offsite&=harmful">
-					  Offsite harmful feature drilldown example
-				  </a>
-				  <br>
-				  <br> -->
-				  <a href="/feature_def.html">
-					  Feature definition list
-				  </a>
-			  </div>
-			  <hr>
+			<br><br>
 
-	  <!-- Not crucial, but we put this under a CC By-SA 3.0 license. -->
-	  <!-- http://creativecommons.org/licenses/ -->
-	  <!-- Not crucial, but we put this under a CC By-SA 3.0 license. -->
-	  <!-- http://creativecommons.org/licenses/ -->
-	  <div class="row-fluid footer">
-		  <div class="span12">
-			  <p><small>© MathSight Ltd 2013 &nbsp; &nbsp;Terms of Service &nbsp; &nbsp;Privacy &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Run by MathSight Ltd in Richmond, UK<small></p>
-			  </div>
-		  </div>
+			<a href="/feature_def.html">
+				Feature definition list
+			</a>
+			
+			  
+		</div>
+			  
+		<hr>
 
-    </div>
-  </body>
-</html>
+		<!-- Not crucial, but we put this under a CC By-SA 3.0 license. -->
+		<!-- http://creativecommons.org/licenses/ -->
+		<!-- Not crucial, but we put this under a CC By-SA 3.0 license. -->
+		<!-- http://creativecommons.org/licenses/ -->
+		<div class="row-fluid footer">
+			<div class="span12">
+				<p><small>© MathSight Ltd 2013 &nbsp; &nbsp;Terms of Service &nbsp; &nbsp;Privacy &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Run by MathSight Ltd in Richmond, UK<small></p>
+				</div>
+			</div>
+
+		</div>
+	</body>
+	</html>

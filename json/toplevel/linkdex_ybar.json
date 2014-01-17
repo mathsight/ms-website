@@ -16,6 +16,7 @@
 	{
 		"key": "Neutral",
 		"color": "#ff9900",
+		"disabled": true,
 		"values": [
 			{
 				"label": "Onsite",
