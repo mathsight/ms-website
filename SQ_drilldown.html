@@ -207,8 +207,10 @@
 		var select = document.getElementById("selectFeat"); 
 		console.log('Length of iFeatNames = '+ iFeatNames.length);
 		for(var i = 0; i < iFeatNames.length; i++) {
-			console.log(iFeatNames[i]);
+			
 			var opt = iFeatNames[i];
+			console.log(opt);
+			
 			var el = document.createElement("option");
 			el.textContent = opt;
 			el.value = opt;
