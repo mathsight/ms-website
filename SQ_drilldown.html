@@ -109,6 +109,8 @@
 		highlightFilename = "json/summary/"+websiteName+"_XhatOff.json";
 	};
 	
+	alert(onOrOffsite);
+	
 	// -----------------------------
 
 	var loseMean = [];
@@ -127,7 +129,7 @@
 		console.log( "feature JSON loading success" );
 		if (onOrOffsite == 'onsite') {
 			$.each(results.onsite, function(index) {
-
+				console.log('site type is' + onOrOffsite)
 				blob = results.onsite[index];
 				
 				featInflus.push(blob[0]);
