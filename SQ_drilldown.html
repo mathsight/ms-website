@@ -334,7 +334,7 @@ function initDataTables(){
 		$('#example1').dataTable( {
 			"bProcessing": true,
 			"sAjaxSource": "/json/drilldown/"+websiteName+"_"+JSONfilename+".json",
-			"bServerSide": true,
+			//"bServerSide": true,
 			"sAjaxDataProp": healthOrHarm + "." + featureNameJSON,
 			"bDeferRender": true,
 			"sDom": "<'row-fluid'<'span6'T><'span6'f>r>t<'row-fluid'<'span6'i><'span6'p>>",
