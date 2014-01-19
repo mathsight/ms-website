@@ -300,6 +300,34 @@ function initDataTables(){
 
 
 };
+
+function normalDist() {
+	var iy = [];
+	iy2 = [];
+
+
+	for (var i = 0; i < ixMax; i+= ixInc) {
+	
+		iy.push({x: i, y: (1/(sd*Math.sqrt(2*Math.PI)))* Math.exp(-Math.pow(i-mu,2)/(2*Math.pow(sd,2)))});
+		iy2.push({x: i, y: (1/(sd2*Math.sqrt(2*Math.PI)))* Math.exp(-Math.pow(i-mu2,2)/(2*Math.pow(sd2,2)))});
+	
+	}
+
+
+	return [
+	{
+		values: iy,
+		key: 'Winning Distribution',
+		color: '#00cc00'
+	},
+	{
+		values: iy2,
+		key: 'Losing Distribution',
+		color: '#ff0000'
+	}
+	];
+
+};
 	
 $(document).ready(function(){
 	
@@ -308,8 +336,13 @@ $(document).ready(function(){
 	popDropDown();
 
 	var mu = parseFloat(winMean) || 5;
+	console.log("Winning mean = " + winMean + " mu: " + mu);
+	
 	var sd = parseFloat(winStd) || 2;
+	
 	var mu2 = parseFloat(loseMean) || 3;
+	console.log("Losing mean = " + loseMean + " mu2: " + mu));
+	
 	var sd2 = parseFloat(loseStd) || 1.5;
 
 	ixMin = Math.round(Math.min(mu-3*sd,mu2-3*sd2));
@@ -318,35 +351,7 @@ $(document).ready(function(){
 	ixInc = ixRange/100;
 
 
-	function normalDist() {
-
-
-		var iy = [];
-		iy2 = [];
-	
-	
-		for (var i = 0; i < ixMax; i+= ixInc) {
-		
-			iy.push({x: i, y: (1/(sd*Math.sqrt(2*Math.PI)))* Math.exp(-Math.pow(i-mu,2)/(2*Math.pow(sd,2)))});
-			iy2.push({x: i, y: (1/(sd2*Math.sqrt(2*Math.PI)))* Math.exp(-Math.pow(i-mu2,2)/(2*Math.pow(sd2,2)))});
-		
-		}
-	
-	
-		return [
-		{
-			values: iy,
-			key: 'Winning Distribution',
-			color: '#00cc00'
-		},
-		{
-			values: iy2,
-			key: 'Losing Distribution',
-			color: '#ff0000'
-		}
-		];
-	
-	}
+	normalDist();
 	
 	nv.addGraph(function() {  
 		var chart = nv.models.lineChart();
