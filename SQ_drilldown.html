@@ -133,6 +133,7 @@
 				featInflus.push(blob[0]);
 
 				if (blob[1]==featureName) {
+					console.log('Same. Feature is: ' + blob[1]);
 					// 		
 					// console.log(featureName);
 					// 		console.log(blob[1]);
@@ -150,6 +151,7 @@
 					// console.log("Winning mean = " + winMean);
 				}
 				else {
+					console.log('Not same. Feature is: ' + blob[1]);
 					iFeatNames.push(blob[1]);
 				}
 			
@@ -164,6 +166,7 @@
 				featInflus.push(blob[0]);
 				
 				if (blob[1]==featureName) {
+					console.log('Same. Feature is: ' + blob[1]);
 					// 		
 					// console.log(featureName);
 					// 		console.log(blob[1]);
@@ -178,7 +181,7 @@
 					healthMean.push(blob[10]);
 					// 
 					// console.log("Losing mean = " + loseMean);
-				// 	console.log("Winning mean = " + winMean);
+					// 	console.log("Winning mean = " + winMean);
 				}
 				else {
 					console.log('Not same. Feature is: ' + blob[1]);
