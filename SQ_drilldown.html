@@ -100,14 +100,14 @@
 	
 	var onOrOffsite = onOrOffsiteSplit[0] || "onsite";
 	
-	if (onOrOffsite.length < 7) {
+	if (onOrOffsite == "onsite") {
 		JSONfilename = "XDrill";
 		highlightFilename = "json/summary/"+websiteName+"_Xhat.json";
 	}
-	else {
+	else if (onOrOffsite == "offsite"){
 		JSONfilename = "XDrillOff";
 		highlightFilename = "json/summary/"+websiteName+"_XhatOff.json";
-	}
+	};
 	
 	// -----------------------------
 
@@ -131,7 +131,7 @@
 				blob = results.onsite[index];
 				
 				featInflus.push(blob[0]);
-
+				
 				if (blob[1]==featureName) {
 					// console.log('Same. Feature is: ' + blob[1]);
 					// 		
