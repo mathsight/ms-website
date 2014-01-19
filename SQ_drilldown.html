@@ -112,6 +112,8 @@
 	var healthMean = [];
 	var numLose = [];
 	var numWin = [];
+	var featInflus = [];
+	var featInflu = [];
 	
 	var featureJSON = $.getJSON( highlightFilename, function(results) {
 		console.log( "feature JSON loading success" );
@@ -144,11 +146,14 @@
 			$.each(results.offsite, function(index) {
 
 				blob = results.offsite[index];
-
+				
+				featInflus = push(blob[0]);
+				
 				if (blob[1]==featureName) {
 					// 		
 					// console.log(featureName);
 					// 		console.log(blob[1]);
+					featInfl.push(blob[0]);
 					loseMean.push(blob[2]);
 					winMean.push(blob[3]);
 					loseStd.push(blob[4]);
@@ -269,36 +274,6 @@ $(document).ready(function(){
 
 <script>
 
-/**************************************
- * Simple test data generator
-  */
-
-
-
- 
-// function sinAndCos() {
-// 	var sin = [],
-// 	cos = [];
-// 
-// 	for (var i = 0; i < 100; i++) {
-// 		sin.push({x: i, y: Math.sin(i/10)});
-// 		cos.push({x: i, y: .5 * Math.cos(i/10)});
-// 	}
-//  
-// 	return [
-// 	{
-// 		values: sin,
-// 		key: 'Winning Distribution',
-// 		color: '#00cc00'
-// 	},
-// 	{
-// 		values: cos,
-// 		key: 'Losing Distribution',
-// 		color: '#ff0000'
-// 	}
-// 	];
-// }
-
 var mu = parseFloat(winMean) || 5;
 var sd = parseFloat(winStd) || 2;
 var mu2 = parseFloat(loseMean) || 3;
@@ -343,13 +318,6 @@ function normalDist() {
 
 
 var topLevelFile = "/json/toplevel/" + websiteName + "_ybar.json";
-
-
-
-
-
-
-
 
 
 </script>
@@ -516,6 +484,24 @@ rel="stylesheet" type="text/css">
 		  <p><script>document.write("assessed according to feature: "+ featureNameCaps);</script></p>
 	  </div>
 	  
+	  <script>
+	  if (featInflu<15) {
+		  document.write('<div class="panel panel-danger>
+		  <p>' + "This feature has a low level of influence" + '</p>
+		  </div>');
+	  }
+	  else if (featInflu>=15 && featInflu<15) {
+		  document.write('<div class="panel panel-warning>
+		  <p>' + "This feature has a moderate level of influence" + '</p>
+		  </div>');
+	  }
+	  else {
+		  document.write('<div class="panel panel-success>
+		  <p>' + "This feature has a high level of influence" + '</p>
+		  </div>');
+	  };	  
+	  </script>
+ 
 	  <br>
 	  
 	  <div class="panel panel-default">
