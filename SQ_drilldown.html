@@ -536,13 +536,13 @@ rel="stylesheet" type="text/css">
 		  <script>
 		  console.log('Feature influence level: ' + featInfl)
 		  if (parseInt(featInfl)>15) {
-			  document.write('<div class="panel panel-danger"><div class="panel-body"><p>' + "This feature has a low level of influence" +'</p></div></div>');
+			  document.write('<div class="panel panel-danger"><div class="panel-body"><p>This feature has a <strong>low</strong> level of influence</p></div></div>');
 		  }
 		  else if (parseInt(featInfl)<=15 && featInfl>5) {
-			  document.write('<div class="panel panel-warning"><div class="panel-body"><p>' + "This feature has a moderate level of influence" + '</p></div></div>');
+			  document.write('<div class="panel panel-warning"><div class="panel-body"><p>This feature has a <strong>moderate</strong>  level of influence</p></div></div>');
 		  }
 		  else {
-			  document.write('<div class="panel panel-success"><div class="panel-body"><p>' + "This feature has a high level of influence" + '</p></div></div>');
+			  document.write('<div class="panel panel-success"><div class="panel-body"><p>This feature has a <strong>high</strong>  level of influence</p></div></div>');
 		  };	  
 		  </script>
 
