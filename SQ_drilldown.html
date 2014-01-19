@@ -147,7 +147,7 @@
 
 				blob = results.offsite[index];
 				
-				featInflus = push(blob[0]);
+				featInflus.push(blob[0]);
 				
 				if (blob[1]==featureName) {
 					// 		
@@ -485,6 +485,8 @@ rel="stylesheet" type="text/css">
 	  </div>
 	  
 	  <script>
+	  
+	  
 	  if (featInflu<15) {
 		  document.write('<div class="panel panel-danger>
 		  <p>' + "This feature has a low level of influence" + '</p>
