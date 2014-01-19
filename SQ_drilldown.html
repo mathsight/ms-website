@@ -111,6 +111,12 @@
 		highlightFilename = "json/summary/"+websiteName+"_XhatOff.json";
 	};
 	
+	if (healthOrHarm == 'healthy') {
+		sorting = "asc";
+	}
+	else if (healthOrHarm = 'harmful') {
+		sorting = "desc";
+	};
 	// alert(onOrOffsite);
 	
 	// -----------------------------
@@ -359,7 +365,7 @@ function initDataTables(){
 		{ "mData": "cluster_win_mean" },
 		{ "mData": "delta" }
 		],
-		"aaSorting": [[ 3, "desc" ]],
+		"aaSorting": [[ 3, sorting ]],
 	} );
 
 
