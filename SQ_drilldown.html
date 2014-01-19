@@ -329,13 +329,14 @@
 
 function initDataTables(){
 	
-	// console.log(healthOrHarm + " " + websiteName + " " + JSONfilename  + " " +  featureNameJSON);
-
+	console.log("aAjaxSource: /json/drilldown/"+websiteName+"_"+JSONfilename+".json");
+	console.log("sAjaxDataProp: "+ healthOrHarm + "." + featureNameJSON);
 		$('#example1').dataTable( {
 			"bProcessing": true,
 			"sAjaxSource": "/json/drilldown/"+websiteName+"_"+JSONfilename+".json",
+			"bServerSide": true,
 			"sAjaxDataProp": healthOrHarm + "." + featureNameJSON,
-			//"bDeferRender": true,
+			"bDeferRender": true,
 			"sDom": "<'row-fluid'<'span6'T><'span6'f>r>t<'row-fluid'<'span6'i><'span6'p>>",
 			"oTableTools": {
 				"aButtons": [
