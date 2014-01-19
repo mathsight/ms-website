@@ -273,7 +273,7 @@ var dataTableThree;
 var dataTableFour;
 
 function initDataTables(){
-
+	// harmful URLs
 	dataTableOne = $('#example3').dataTable( {
 		"bProcessing": true,
 		"sAjaxSource": "/json/summary/"+websiteName+"_"+JSONfilename+".json",
@@ -298,20 +298,23 @@ function initDataTables(){
 			return '<a href="SQ_drilldown.html?=' + websiteName + '&='+ full[1] + '&='+ onOrOffsite+'&=harmful' +'">'+full[1]+'</a>';
 		}
 	},
-	null,
-	{"bVisible": false},
-	null,
-	{"bVisible": false},		
-	{"bVisible": false},
-	{"bVisible": false},
-	{"bVisible": false},
-	{"bVisible": false}
+	null, //losing mean
+	{"bVisible": false}, //winning mean
+	{"bVisible": false}, // losing stdev
+	{"bVisible": false},	// winning  stdev	
+	null, // number of harmful URLs
+	{"bVisible": false}, // harmful group feature mean
+	{"bVisible": false}, // harmful group StatSEO figure
+	{"bVisible": false}, // number of healthy URLs
+	{"bVisible": false}, // healthy group feature mean
+	{"bVisible": false} // healthy group StatSEO figure
 	]
 } );
 
 		
 	
 dataTableTwo = $('#example3b').dataTable( {
+	// healthy URLs
 	"bProcessing": true,
 	"sAjaxSource": "/json/summary/"+websiteName+"_"+JSONfilename+".json",
 	"sAjaxDataProp": onOrOffsite,
@@ -335,14 +338,16 @@ dataTableTwo = $('#example3b').dataTable( {
 			return '<a href="SQ_drilldown.html?=' + websiteName + '&='+ full[1] + '&='+ onOrOffsite+'&=healthy' +'">'+full[1]+'</a>';
 		}
 	},
-	{"bVisible": false},
-	null,
-	{"bVisible": false},
-	{"bVisible": false},
-	{"bVisible": false},
-	null,
-	{"bVisible": false},
-	{"bVisible": false}
+	{"bVisible": false}, //losing mean
+	null, //winning mean
+	{"bVisible": false}, // losing stdev
+	{"bVisible": false},// winning  stdev	 
+	{"bVisible": false}, // number of harmful URLs
+	{"bVisible": false}, // harmful group feature mean
+	{"bVisible": false}, // harmful group StatSEO figure
+	null, // number of healthy URLs
+	{"bVisible": false}, // healthy group feature mean
+	{"bVisible": false} // healthy group StatSEO figure
 	]
 } );
 
