@@ -110,7 +110,6 @@
 	}
 	
 	// -----------------------------
-	
 
 	var loseMean = [];
 	var winMean = [];
@@ -122,6 +121,7 @@
 	var numWin = [];
 	var featInflus = [];
 	var featInfl = [];
+	var iFeatNames = [];
 	
 	var featureJSON = $.getJSON( highlightFilename, function(results) {
 		console.log( "feature JSON loading success" );
@@ -129,11 +129,14 @@
 			$.each(results.onsite, function(index) {
 
 				blob = results.onsite[index];
+				
+				featInflus.push(blob[0]);
 
 				if (blob[1]==featureName) {
 					// 		
 					// console.log(featureName);
 					// 		console.log(blob[1]);
+					featInfl.push(blob[0]);
 					loseMean.push(blob[2]);
 					winMean.push(blob[3]);
 					loseStd.push(blob[4]);
@@ -145,6 +148,9 @@
 					// 
 					// console.log("Losing mean = " + loseMean);
 					// console.log("Winning mean = " + winMean);
+				}
+				else {
+					iFeatNames.push(blob[1]);
 				}
 			
 	
@@ -174,7 +180,9 @@
 					// console.log("Losing mean = " + loseMean);
 				// 	console.log("Winning mean = " + winMean);
 				}
-			
+				else {
+					iFeatNames.push(blob[1]);
+				}
 	
 			});
 		}
@@ -190,9 +198,18 @@
 	});
 	
 	featureJSON.complete(function() {
-		console.log( "second complete" );
+		console.log( "second complete - populating feature dropdown" );
 		
-
+		var select = document.getElementById("selectFeat"); 
+		
+		for(var i = 0; i < iFeatNames.length; i++) {
+			var opt = iFeatNames[i];
+			var el = document.createElement("option");
+			el.textContent = opt;
+			el.value = opt;
+			select.appendChild(el);
+		}
+		
 	});
 	
 	
@@ -264,52 +281,6 @@ $(document).ready(function(){
 
 </script>
 
-<script>
-
-var features = [];
-
-var featureJSON = $.getJSON( "json/features/feature_list.json", function(results) {
-	console.log( "feature JSON loading success" );
-	$.each(results, function(index) {
-		// alert(results[index].name);
-		blob = results[index].name;
-		$.each(blob, function(nameIndex) {
-			features.push(blob[nameIndex]);
-		});
-
-	});
-})
-.done(function() {
-	console.log( "second success" );
-})
-.fail(function() {
-	console.log( "error" );
-})
-.always(function() {
-	console.log( "complete" );
-});
-
-
-featureJSON.complete(function() {
-	console.log( "second complete - populating feature dropdown" );
-	
-	var select = document.getElementById("selectFeat"); 
-	
-	for(var i = 0; i < features.length; i++) {
-		var opt = features[i];
-		var el = document.createElement("option");
-		el.textContent = opt;
-		el.value = opt;
-		select.appendChild(el);
-	}
-	
-	// document.getElementById("jfeatures").innerHTML=features; 						 
-
-});
-
-
-
-</script>
 
 
 <script src="lib/d3.v3.js"></script>
@@ -562,8 +533,7 @@ rel="stylesheet" type="text/css">
 		</form>
 		
 		<button onclick="doStuff()" type="submit" class="btn btn-primary" id="submitFeat">
-			submit!
-						  
+			load		  
 		</button>
 	</div><!-- /form-group -->
 	  
