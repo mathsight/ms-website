@@ -273,7 +273,7 @@ var dataTableThree;
 var dataTableFour;
 
 function initDataTables(){
-
+	// harmful URLs
 	dataTableOne = $('#example3').dataTable( {
 		"bProcessing": true,
 		"sAjaxSource": "/json/summary/"+websiteName+"_"+JSONfilename+".json",
@@ -298,20 +298,23 @@ function initDataTables(){
 			return '<a href="SQ_drilldown.html?=' + websiteName + '&='+ full[1] + '&='+ onOrOffsite+'&=harmful' +'">'+full[1]+'</a>';
 		}
 	},
-	null,
-	{"bVisible": false},
-	null,
-	{"bVisible": false},		
-	{"bVisible": false},
-	{"bVisible": false},
-	{"bVisible": false},
-	{"bVisible": false}
+	null, //losing mean
+	{"bVisible": false}, //winning mean
+	{"bVisible": false}, // losing stdev
+	{"bVisible": false},	// winning  stdev	
+	null, // number of harmful URLs
+	{"bVisible": false}, // harmful group feature mean
+	{"bVisible": false}, // harmful group avg SQ
+	{"bVisible": false}, // number of healthy URLs
+	{"bVisible": false}, // healthy group feature mean
+	{"bVisible": false} // healthy group StatSEO figure
 	]
 } );
 
 		
 	
 dataTableTwo = $('#example3b').dataTable( {
+	// healthy URLs
 	"bProcessing": true,
 	"sAjaxSource": "/json/summary/"+websiteName+"_"+JSONfilename+".json",
 	"sAjaxDataProp": onOrOffsite,
@@ -335,14 +338,16 @@ dataTableTwo = $('#example3b').dataTable( {
 			return '<a href="SQ_drilldown.html?=' + websiteName + '&='+ full[1] + '&='+ onOrOffsite+'&=healthy' +'">'+full[1]+'</a>';
 		}
 	},
-	{"bVisible": false},
-	null,
-	{"bVisible": false},
-	{"bVisible": false},
-	{"bVisible": false},
-	null,
-	{"bVisible": false},
-	{"bVisible": false}
+	{"bVisible": false}, //losing mean
+	null, //winning mean
+	{"bVisible": false}, // losing stdev
+	{"bVisible": false},// winning  stdev	 
+	{"bVisible": false}, // number of harmful URLs
+	{"bVisible": false}, // harmful group feature mean
+	{"bVisible": false}, // harmful group average SQ
+	null, // number of healthy URLs
+	{"bVisible": false}, // healthy group feature mean
+	{"bVisible": false} // healthy group average SQ
 	]
 } );
 
@@ -563,14 +568,16 @@ redrawGraph = function(file) {
 										<tr>
 											<th width="5%">Influence rank</th>
 											<th width="55%">Feature</th>
-											<th width="5%">Average losing mean</th> 
-											<th width="5%">Average winning mean</th>
-											<th width="5%">#URLs at risk</th>
-											<th width="5%">Average feature value</th>
-											<th width="5%">Average at risk SQ</th>
-											<th width="5%">#URLs healthy</th>			
-											<th width="5%">Average feature value</th>
-											<th width="5%">Average healthy SQ</th>
+											<th width="5%">Mean value (losing URLs)</th> 
+											<th width="5%">Mean value (winning URLs)</th>
+											<th width="5%">Stdev value (losing URLs)</th> 
+											<th width="5%">Stdev value (winning URLs)</th>
+											<th width="5%"># Harmful URLs</th>
+											<th width="5%">Mean value (harmful)</th>
+											<th width="5%">Mean harmful SQ</th>
+											<th width="5%"># Healthy URLs</th>			
+											<th width="5%">Mean value (healthy)</th>
+											<th width="5%">Mean healthy SQ</th>
 										</tr>
 									</thead>
 									<tbody>
@@ -580,14 +587,16 @@ redrawGraph = function(file) {
 										<tr>
 											<th>Influence rank</th>
 											<th>Feature</th>
-											<th>Average losing mean</th> 
-											<th>Average winning mean</th>
-											<th>#URLs at risk</th>
-											<th>Average feature value</th>
-											<th>Average at risk SQ</th>
-											<th>#URLs healthy</th>			
-											<th>Average feature value</th>
-											<th>Average healthy SQ</th>
+											<th>Mean value (losing URLs)</th> 
+											<th>Mean value (winning URLs)</th>
+											<th>Stdev value (losing URLs)</th> 
+											<th>Stdev value (winning URLs)</th>
+											<th># Harmful URLs</th>
+											<th>Mean value (harmful)</th>
+											<th>Mean harmful SQ</th>
+											<th># Healthy URLs</th>			
+											<th>Mean value (healthy)</th>
+											<th>Mean healthy SQ</th>
 										</tr>
 									</tfoot>
 								</table>
@@ -611,14 +620,16 @@ redrawGraph = function(file) {
 							<tr>
 								<th width="5%">Influence rank</th>
 								<th width="55%">Feature</th>
-								<th width="5%">Average losing mean</th> 
-								<th width="5%">Average winning mean</th>
-								<th width="5%">#URLs at risk</th>
-								<th width="5%">Average feature value</th>
-								<th width="5%">Average at risk SQ</th>
-								<th width="5%">#URLs healthy</th>			
-								<th width="5%">Average feature value</th>
-								<th width="5%">Average healthy SQ</th>
+								<th width="5%">Mean value (losing URLs)</th> 
+								<th width="5%">Mean value (winning URLs)</th>
+								<th width="5%">Stdev value (losing URLs)</th> 
+								<th width="5%">Stdev value (winning URLs)</th>
+								<th width="5%"># Harmful URLs</th>
+								<th width="5%">Mean value (harmful)</th>
+								<th width="5%">Mean harmful SQ</th>
+								<th width="5%"># Healthy URLs</th>			
+								<th width="5%">Mean value (healthy)</th>
+								<th width="5%">Mean healthy SQ</th>
 							</tr>
 						</thead>
 						<tbody>
@@ -628,14 +639,16 @@ redrawGraph = function(file) {
 							<tr>
 								<th>Influence rank</th>
 								<th>Feature</th>
-								<th>Average losing mean</th> 
-								<th>Average winning mean</th>
-								<th>#URLs at risk</th>
-								<th>Average feature value</th>
-								<th>Average at risk SQ</th>
-								<th>#URLs healthy</th>			
-								<th>Average feature value</th>
-								<th>Average healthy SQ</th>
+								<th>Mean value (losing URLs)</th> 
+								<th>Mean value (winning URLs)</th>
+								<th>Stdev value (losing URLs)</th> 
+								<th>Stdev value (winning URLs)</th>
+								<th># Harmful URLs</th>
+								<th>Mean value (harmful)</th>
+								<th>Mean harmful SQ</th>
+								<th># Healthy URLs</th>			
+								<th>Mean value (healthy)</th>
+								<th>Mean healthy SQ</th>
 							</tr>
 						</tfoot>
 					</table>
