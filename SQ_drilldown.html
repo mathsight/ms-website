@@ -201,23 +201,27 @@
 		console.log( "complete" );
 	});
 	
-	featureJSON.complete(function() {
-		console.log( "second complete - populating influential feature dropdown" );
+	function popDropDown(){
+	
+		featureJSON.complete(function() {
+			console.log( "second complete - populating influential feature dropdown" );
 		
-		var selectFeature = document.getElementById("selectFeat"); 
-		// console.log('Length of iFeatNames = '+ iFeatNames.length);
-		for(var i = 0; i < iFeatNames.length; i++) {
+			var selectFeature = document.getElementById("selectFeat"); 
+			// console.log('Length of iFeatNames = '+ iFeatNames.length);
+			for(var i = 0; i < iFeatNames.length; i++) {
 			
-			var opt = iFeatNames[i];
-			console.log(opt);
+				var opt = iFeatNames[i];
+				console.log(opt);
 			
-			var el = document.createElement("option");
-			el.textContent = opt;
-			el.value = opt;
-			selectFeature.appendChild(el);
-		}
+				var el = document.createElement("option");
+				el.textContent = opt;
+				el.value = opt;
+				selectFeature.appendChild(el);
+			}
 		
-	});
+		});
+	
+	};
 	
 	function doStuff()
 	{
@@ -282,6 +286,7 @@ $(document).ready(function(){
 	
 	initDataTables();
 	/* all other page load code*/
+	popDropDown();
 
 	nv.addGraph(function() {  
 		var chart = nv.models.lineChart();
