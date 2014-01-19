@@ -226,18 +226,19 @@
 	function doStuff()
 	{
 	
-		//alert("page type is " + pageType);
+		alert("page type is " + pageType);
 	
 		var featureX = document.getElementById("selectFeat").selectedIndex;
 		var featureY = document.getElementById("selectFeat").options;
 		var featureSel = featureY[featureX].text.toLowerCase();
 	
-		//alert("feature selection is " + featureSel);
+		alert("feature selection is " + featureSel);
 
 		if (websiteName.length > 0 && featureSel.length > 0 && onOrOffsite.length > 0 && featureX > 1){
 			urlToOpen = "SQ_drilldown.html?="+websiteName+"&="+featureSel+"&="+onOrOffsite;
 			window.open(urlToOpen ,"_self");
 		}
+		
 	
 
 	}
@@ -557,7 +558,7 @@ rel="stylesheet" type="text/css">
 
 			  <form id="dropdownFeature">
 				  <select id="selectFeat">
-					  <option>Choose alternative feature</option>
+					  <option>Select alternative feature</option>
 					  <option class="divider">-------------------------</option>
 				  </select>
 				  
