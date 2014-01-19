@@ -38,12 +38,19 @@
 	var locate = decodeURI(window.location);
 
 	var urlSplit = locate.split("=");
+	// alert(urlSplit);
 	var websiteNameFull = urlSplit[1];
-	var featureName = urlSplit[2];
-	var featureNameJSON = featureName.replace(/ /g, "_");
-	var urlSplitTwo = websiteNameFull.split("&");
-	var websiteName = urlSplitTwo[0];
-
+	var featureNameFull = urlSplit[2];
+	var healthOrHarm = urlSplit[3] || "harmful";
+	
+	var featNameSplit = featureNameFull.split("&");
+	// alert(featureName);
+	var featureName = featNameSplit[0];
+	var featureNameJSON = featNameSplit[0].replace(/ /g, "_");
+	// alert(featureNameJSON);
+	var WebNameSplit = websiteNameFull.split("&");
+	var websiteName = WebNameSplit[0];
+	// alert(websiteName);
 
 
 function initDataTables(){
@@ -51,7 +58,7 @@ function initDataTables(){
 		$('#example1').dataTable( {
 			"bProcessing": true,
 			"sAjaxSource": "/json/drilldown/"+websiteName+"_XDrillOff.json",
-			"sAjaxDataProp": "offsite."+ featureNameJSON,
+			"sAjaxDataProp": healthOrHarm + "." + featureNameJSON,
 			"bDeferRender": true,
 			"sDom": "<'row-fluid'<'span6'T><'span6'f>r>t<'row-fluid'<'span6'i><'span6'p>>",
 			"oTableTools": {
@@ -210,9 +217,9 @@ rel="stylesheet" type="text/css">
           <a class="brand" href="/">MathSight Demo</a>
           <div class="nav-collapse collapse">
             <ul class="nav">
-                <li class="active"><a href="/">Home</a></li>
+                <li><a href="/">Home</a></li>
                 <!-- <li><a href="/plans.html">Plans</a></li> -->
-                <!-- <li class="active"><a href="/tour.html">Tour</a></li> -->
+				<li class="active"><a href="/statseo_feature.html">StatSEO</a></li>
 				<li><a href="/api.html">API</a></li>
 				<!-- <li><a href="/jobs.html">Jobs</a></li> -->
             </ul>
@@ -250,6 +257,34 @@ rel="stylesheet" type="text/css">
 		  
 		  <h2>Influential Feature Value and Delta to Winning Mean</h2>
 		  <hr>
+		  
+		  <div class="panel panel-default">
+			  <div class="panel-heading"></div>
+			  <div class="panel-body">
+
+			  </div>
+			  <!-- Table -->
+			  <table class="table">
+				  <thead>
+					  <tr>
+						  <th>Feature name</th>
+						  <th># winning URLs</th>
+						  <th>Feature winning mean</th>
+						  <th>Avg domain feature value</th>
+					  </tr>
+				  </thead>
+				  <tbody>
+					  <tr>
+						  <td><script>document.write(featureName);</script></td>
+						  <td>12</td>
+						  <td>34.2</td>
+						  <td>12.6</td>
+					  </tr>
+				  </tbody>
+			  </table>
+		  </div>
+	  
+		  <br>
 
 			  <h3><a id="F1"><script>document.write(featureName);</script></a></h3>
 				  
@@ -286,9 +321,8 @@ rel="stylesheet" type="text/css">
 		  <hr>
 
 		  <p>
-			  <script>document.write('<a href="/statseo.html?=' + websiteName +'">Return to top level summary for '+ websiteName +'</a>');</script>
-			  <!-- '<a href="offsite_SQ_drilldown.html?=' + websiteName + '&='+ full[1] +'">'+full[1]+'</a>'
-		  <a href="/statseo.html">Return to top level summary</a> -->
+			  <script>document.write('<a href="/SQ_toplevel.html?=' + websiteName +'&=offsite">Return to top level summary for '+ websiteName +'</a>');</script>
+		
 		  </p>
 		  <div class="spacer"></div>
 		  <hr>
