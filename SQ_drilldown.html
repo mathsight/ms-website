@@ -202,10 +202,10 @@
 	});
 	
 	featureJSON.complete(function() {
-		console.log( "second complete - populating feature dropdown" );
+		console.log( "second complete - populating influential feature dropdown" );
 		
-		var select = document.getElementById("selectFeat"); 
-		console.log('Length of iFeatNames = '+ iFeatNames.length);
+		var selectFeature = document.getElementById("selectFeat"); 
+		// console.log('Length of iFeatNames = '+ iFeatNames.length);
 		for(var i = 0; i < iFeatNames.length; i++) {
 			
 			var opt = iFeatNames[i];
@@ -214,7 +214,7 @@
 			var el = document.createElement("option");
 			el.textContent = opt;
 			el.value = opt;
-			select.appendChild(el);
+			selectFeature.appendChild(el);
 		}
 		
 	});
