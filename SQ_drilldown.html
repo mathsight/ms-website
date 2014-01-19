@@ -129,7 +129,7 @@
 		console.log( "feature JSON loading success" );
 		if (onOrOffsite == 'onsite') {
 			$.each(results.onsite, function(index) {
-				console.log('site type is' + onOrOffsite)
+				console.log("The site type is " + onOrOffsite)
 				blob = results.onsite[index];
 				
 				featInflus.push(blob[0]);
@@ -137,7 +137,7 @@
 				if (blob[1]==featureName) {
 					// console.log('Same. Feature is: ' + blob[1]);
 					// 		
-					// console.log(featureName);
+					console.log(featureName);
 					// 		console.log(blob[1]);
 					featInfl.push(blob[0]);
 					loseMean.push(blob[2]);
@@ -149,8 +149,8 @@
 					numWin.push(blob[9]);
 					healthMean.push(blob[10]);
 					// 
-					// console.log("Losing mean = " + loseMean);
-					// console.log("Winning mean = " + winMean);
+					console.log("Losing mean = " + loseMean);
+					console.log("Winning mean = " + winMean);
 
 				}
 				else {
