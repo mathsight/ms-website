@@ -125,6 +125,16 @@
 	var featInfl = [];
 	var iFeatNames = [];
 	
+	var sd = 0;
+	var sd2 = 0;
+	var mu = 0;
+	var mu2 = 0;
+	
+	var ixMin = 0;
+	var ixMax = 0;
+	var ixRange = 0;
+	var ixInc = 0;
+	
 	console.log("The site type is " + onOrOffsite)
 	
 	var featureJSON = $.getJSON( highlightFilename, function(results) {
@@ -222,51 +232,27 @@
 	function popDropDown(){
 	
 		featureJSON.complete(function() {
-			console.log( "second complete - populating influential feature dropdown" );
+			
+			
+			console.log( "second complete - populating influential feature dropdown and line chart" );
 
-			var mu = parseFloat(winMean) || 5;
+			mu = parseFloat(winMean) || 5;
 			console.log("Winning mean = " + winMean + " mu: " + mu);
 
-			var sd = parseFloat(winStd) || 2;
+			sd = parseFloat(winStd) || 2;
 
-			var mu2 = parseFloat(loseMean) || 3;
+			mu2 = parseFloat(loseMean) || 3;
 			console.log("Losing mean = " + loseMean + " mu2: " + mu);
 
-			var sd2 = parseFloat(loseStd) || 1.5;
+			sd2 = parseFloat(loseStd) || 1.5;
 
 			ixMin = Math.round(Math.min(mu-3*sd,mu2-3*sd2));
 			ixMax = Math.round(Math.max(mu+3*sd,mu2+3*sd2));
 			ixRange = ixMax-ixMin;
 			ixInc = ixRange/100;
 
-
-			function normalDist() {
-				var iy = [];
-				var iy2 = [];
-
-
-				for (var i = 0; i < ixMax; i+= ixInc) {
-
-					iy.push({x: i, y: (1/(sd*Math.sqrt(2*Math.PI)))* Math.exp(-Math.pow(i-mu,2)/(2*Math.pow(sd,2)))});
-					iy2.push({x: i, y: (1/(sd2*Math.sqrt(2*Math.PI)))* Math.exp(-Math.pow(i-mu2,2)/(2*Math.pow(sd2,2)))});
-
-				}
-
-
-				return [
-				{
-					values: iy,
-					key: 'Winning Distribution',
-					color: '#00cc00'
-				},
-				{
-					values: iy2,
-					key: 'Losing Distribution',
-					color: '#ff0000'
-				}
-				];
-
-			};
+		
+		
 		
 			var selectFeature = document.getElementById("selectFeat"); 
 			// console.log('Length of iFeatNames = '+ iFeatNames.length);
@@ -308,6 +294,35 @@
 	
 
 	// -----------------------------
+
+	function normalDist() {
+		var iy = [];
+		var iy2 = [];
+
+
+		for (var i = 0; i < ixMax; i+= ixInc) {
+
+			iy.push({x: i, y: (1/(sd*Math.sqrt(2*Math.PI)))* Math.exp(-Math.pow(i-mu,2)/(2*Math.pow(sd,2)))});
+			iy2.push({x: i, y: (1/(sd2*Math.sqrt(2*Math.PI)))* Math.exp(-Math.pow(i-mu2,2)/(2*Math.pow(sd2,2)))});
+
+		}
+
+
+		return [
+		{
+			values: iy,
+			key: 'Winning Distribution',
+			color: '#00cc00'
+		},
+		{
+			values: iy2,
+			key: 'Losing Distribution',
+			color: '#ff0000'
+		}
+		];
+
+	};
+
 
 
 function initDataTables(){
