@@ -333,9 +333,24 @@ function initDataTables(){
 	console.log("sAjaxDataProp: "+ healthOrHarm + "." + featureNameJSON);
 		$('#example1').dataTable( {
 			"bProcessing": true,
+			"bServerSide": true,
 			"sAjaxSource": "/json/drilldown/"+websiteName+"_"+JSONfilename+".json",
-			//"bServerSide": true,
 			"sAjaxDataProp": healthOrHarm + "." + featureNameJSON,
+			"fnServerData": function(url, data, callback) {
+			            $.ajax({
+			                "url": url,
+			                "data": data,
+			                "success": callback,
+			                "contentType": "application/x-www-form-urlencoded; charset=utf-8",
+			                "dataType": "json",
+			                "type": "POST",
+			                "cache": false,
+			                "error": function() {
+			                    alert("DataTables warning: JSON data from server failed to load or be parsed. " +
+			                    "This is most likely to be caused by a JSON formatting error.");
+			                }
+			            });
+			        },
 			"bDeferRender": true,
 			"sDom": "<'row-fluid'<'span6'T><'span6'f>r>t<'row-fluid'<'span6'i><'span6'p>>",
 			"oTableTools": {
