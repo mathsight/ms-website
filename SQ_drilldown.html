@@ -80,6 +80,8 @@
 	/* Global vars */
 	 
 	var locate = decodeURI(window.location);
+	
+	var topLevelFile = "/json/toplevel/" + websiteName + "_ybar.json";
 
 	var urlSplit = locate.split("=");
 	// alert(urlSplit);
@@ -326,6 +328,8 @@
 
 
 function initDataTables(){
+	
+	console.log(healthOrHarm + " " + websiteName + " " + JSONfilename  + " " +  featureNameJSON);
 
 		$('#example1').dataTable( {
 			"bProcessing": true,
@@ -361,13 +365,6 @@ function initDataTables(){
 };
 
 
-
-
-
-
-
-
-	
 $(document).ready(function(){
 	
 	initDataTables();
@@ -400,7 +397,6 @@ $(document).ready(function(){
 </script>
 
 
-
 <script src="lib/d3.v3.js"></script>
 <script src="assets/js/nv.d3.js"></script>
 <script src="src/utils.js"></script>
@@ -411,19 +407,6 @@ $(document).ready(function(){
 <script src="src/models/multiBarHorizontal.js"></script>
 <script src="src/models/multiBarHorizontalChart.js"></script>
 <script src="assets/js/stream_layers.js"></script>
-
-
-
-<script>
-
-
-
-
-var topLevelFile = "/json/toplevel/" + websiteName + "_ybar.json";
-
-
-</script>
-
 
 <link href="http://fonts.googleapis.com/css?family=Ubuntu:300,400,500,700,300italic,400italic,500italic,700italic" rel="stylesheet" type="text/css">
 <link href="http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,300,400,600,700,800" 
