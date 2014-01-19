@@ -487,19 +487,13 @@ rel="stylesheet" type="text/css">
 	  <script>
 
 	  if (parseInt(featInfl)<15) {
-		  document.write('<div class="panel panel-danger">
-		  <p>' + "This feature has a low level of influence" + '</p>
-		  </div>');
+		  document.write('<div class="panel panel-danger"><p>' + "This feature has a low level of influence" +'</p></div>');
 	  }
 	  else if (parseInt(featInfl)>=15 && featInfl<5) {
-		  document.write('<div class="panel panel-warning">
-		  <p>' + "This feature has a moderate level of influence" + '</p>
-		  </div>');
+		  document.write('<div class="panel panel-warning"><p>' + "This feature has a moderate level of influence" + '</p></div>');
 	  }
 	  else {
-		  document.write('<div class="panel panel-success">
-		  <p>' + "This feature has a high level of influence" + '</p>
-		  </div>');
+		  document.write('<div class="panel panel-success"><p>' + "This feature has a high level of influence" + '</p></div>');
 	  };	  
 	  </script>
  
