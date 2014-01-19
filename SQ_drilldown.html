@@ -234,7 +234,7 @@
 	
 		//alert("feature selection is " + featureSel);
 
-		if (websiteName.length > 0 && featureSel.length > 0 && onOrOffsite.length > 0 && featureX > 2){
+		if (websiteName.length > 0 && featureSel.length > 0 && onOrOffsite.length > 0 && featureX > 1){
 			urlToOpen = "SQ_drilldown.html?="+websiteName+"&="+featureSel+"&="+onOrOffsite;
 			window.open(urlToOpen ,"_self");
 		}
@@ -557,14 +557,15 @@ rel="stylesheet" type="text/css">
 
 			  <form id="dropdownFeature">
 				  <select id="selectFeat">
-					  <option>Select alternative feature</option>
+					  <option>Choose alternative feature</option>
 					  <option class="divider">-------------------------</option>
 				  </select>
+				  
+				  <button onclick="doStuff()" type="submit" class="btn btn-primary" id="submitFeat">
+					  load		  
+				  </button>
+
 			  </form>
-			  
-			  <button onclick="doStuff()" type="submit" class="btn btn-primary" id="submitFeat">
-				  load		  
-			  </button>
 
 		  </div><!-- /form-group -->
 
