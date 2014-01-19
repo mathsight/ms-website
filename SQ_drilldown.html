@@ -83,6 +83,7 @@
 	var featNameSplit = featureNameFull.split("&");
 	// alert(featureName);
 	var featureName = featNameSplit[0];
+	var featureNameCaps = featureName[0].toUpperCase() + featureName.slice(1);
 	var featureNameJSON = featNameSplit[0].replace(/ /g, "_");
 	// alert(featureNameJSON);
 	var WebNameSplit = websiteNameFull.split("&");
@@ -512,7 +513,8 @@ rel="stylesheet" type="text/css">
 	  
 	  <div class="well">
 		  <h2><script>document.write(healthOrHarm + " links");</script></h2>
-		  <h3>Influential Feature Value and Delta to Winning Mean</h3>
+		  <h3><script>document.write("assessed according to feature: "+ featureNameCaps);</script></h3>
+		  
 
 	  </div>
 	  
@@ -608,11 +610,21 @@ rel="stylesheet" type="text/css">
 		  <svg></svg>
 	  </div>
 	  
-	  <br>
+
 
 	  <div class="row-fluid pitch">
+		  <br>
+	  
+		  <h3>Influential Feature Value and Delta to Winning Mean for URL Cluster:</h3>
+	  
+		  <br>
 
-		  <h3><a id="F1"><script>document.write(featureName);</script></a></h3>
+
+		  <h3>
+			  <script>
+
+			  document.write(featureNameCaps);
+			  </script></h3>
 				  
 		  <div id="dynamic">
 			  <table cellpadding="0" cellspacing="0" border="0" class="table table-striped table-bordered" id="example1">
