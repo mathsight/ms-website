@@ -203,6 +203,7 @@
 		var select = document.getElementById("selectFeat"); 
 		
 		for(var i = 0; i < iFeatNames.length; i++) {
+			console.log(iFeatNames[i])
 			var opt = iFeatNames[i];
 			var el = document.createElement("option");
 			el.textContent = opt;
@@ -506,36 +507,39 @@ rel="stylesheet" type="text/css">
 	  <div class="well">
 		  <h2><script>document.write(healthOrHarm + " links [" + onOrOffsite + "]");</script></h2>
 		  <p><script>document.write("assessed according to feature: "+ featureNameCaps);</script></p>
+
+		  <script>
+		  console.log('Feature influence level: ' + featInfl)
+		  if (parseInt(featInfl)>15) {
+			  document.write('<div class="panel panel-danger"><div class="panel-body"><p>' + "This feature has a low level of influence" +'</p></div></div>');
+		  }
+		  else if (parseInt(featInfl)<=15 && featInfl>5) {
+			  document.write('<div class="panel panel-warning"><div class="panel-body"><p>' + "This feature has a moderate level of influence" + '</p></div></div>');
+		  }
+		  else {
+			  document.write('<div class="panel panel-success"><div class="panel-body"><p>' + "This feature has a high level of influence" + '</p></div></div>');
+		  };	  
+		  </script>
+ 
+		  <br>
+	  
+		  <div class="form-group">
+
+			  <form id="dropdownFeature">
+				  <select id="selectFeat">
+					  <option>Select alternative feature</option>
+					  <option class="divider">-------------------------</option>
+				  </select>
+				  <button onclick="doStuff()" type="submit" class="btn btn-primary" id="submitFeat">
+					  load		  
+				  </button>
+			  </form>
+
+		  </div><!-- /form-group -->
+
 	  </div>
 	  
-	  <script>
-	  console.log('Feature influence level: ' + featInfl)
-	  if (parseInt(featInfl)>15) {
-		  document.write('<div class="panel panel-danger"><div class="panel-body"><p>' + "This feature has a low level of influence" +'</p></div></div>');
-	  }
-	  else if (parseInt(featInfl)<=15 && featInfl>5) {
-		  document.write('<div class="panel panel-warning"><div class="panel-body"><p>' + "This feature has a moderate level of influence" + '</p></div></div>');
-	  }
-	  else {
-		  document.write('<div class="panel panel-success"><div class="panel-body"><p>' + "This feature has a high level of influence" + '</p></div></div>');
-	  };	  
-	  </script>
- 
-	  <br>
-	  
-	<div class="form-group">
-
-		<form id="dropdownFeature">
-			<select id="selectFeat">
-				<option>Select alternative feature</option>
-				<option class="divider">-------------------------</option>
-			</select>
-			<button onclick="doStuff()" type="submit" class="btn btn-primary" id="submitFeat">
-				load		  
-			</button>
-		</form>
-
-	</div><!-- /form-group -->
+	 
 	  
 	  <br>
 	  
