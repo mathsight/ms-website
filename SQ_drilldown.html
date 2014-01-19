@@ -109,7 +109,7 @@
 		highlightFilename = "json/summary/"+websiteName+"_XhatOff.json";
 	};
 	
-	alert(onOrOffsite);
+	// alert(onOrOffsite);
 	
 	// -----------------------------
 
@@ -125,11 +125,13 @@
 	var featInfl = [];
 	var iFeatNames = [];
 	
+	console.log("The site type is " + onOrOffsite)
+	
 	var featureJSON = $.getJSON( highlightFilename, function(results) {
 		console.log( "feature JSON loading success" );
 		if (onOrOffsite == 'onsite') {
 			$.each(results.onsite, function(index) {
-				console.log("The site type is " + onOrOffsite)
+				
 				blob = results.onsite[index];
 				
 				featInflus.push(blob[0]);
@@ -154,13 +156,13 @@
 
 				}
 				else {
-					console.log('Not same. Feature is: ' + blob[1]);
+					
 					if (healthOrHarm == 'healthy' && parseInt(blob[9])>0){
-						console.log('feature added');
+						console.log('Not same. Feature added: ' + blob[1]);
 						iFeatNames.push(blob[1]);
 					}
 					else if (healthOrHarm == 'harmful' && parseInt(blob[6])>0) {
-						console.log('feature added');
+						console.log('Not same. Feature added: ' + blob[1]);
 						iFeatNames.push(blob[1]);
 					}
 					
@@ -193,15 +195,13 @@
 					// console.log("Losing mean = " + loseMean);
 					// 	console.log("Winning mean = " + winMean);
 				}
-				else {
-					console.log('Not same. Feature is: ' + blob[1]);
-					
+				else {	
 					if (healthOrHarm == 'healthy' && parseInt(blob[9])>0){
-						console.log('feature added');
+						console.log('Not same. Feature added: ' + blob[1]);
 						iFeatNames.push(blob[1]);
 					}
 					else if (healthOrHarm == 'harmful' && parseInt(blob[6])>0) {
-						console.log('feature added');
+						console.log('Not same. Feature added: ' + blob[1]);
 						iFeatNames.push(blob[1]);
 					}
 				};
