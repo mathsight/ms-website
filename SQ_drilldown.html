@@ -113,7 +113,7 @@
 	var numLose = [];
 	var numWin = [];
 	var featInflus = [];
-	var featInflu = [];
+	var featInfl = [];
 	
 	var featureJSON = $.getJSON( highlightFilename, function(results) {
 		console.log( "feature JSON loading success" );
@@ -485,14 +485,13 @@ rel="stylesheet" type="text/css">
 	  </div>
 	  
 	  <script>
-	  
-	  
-	  if (featInflu<15) {
+
+	  if (parseInt(featInfl)<15) {
 		  document.write('<div class="panel panel-danger>
 		  <p>' + "This feature has a low level of influence" + '</p>
 		  </div>');
 	  }
-	  else if (featInflu>=15 && featInflu<15) {
+	  else if (parseInt(featInfl)>=15 && featInfl<5) {
 		  document.write('<div class="panel panel-warning>
 		  <p>' + "This feature has a moderate level of influence" + '</p>
 		  </div>');
