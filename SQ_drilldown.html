@@ -213,6 +213,25 @@
 		
 	});
 	
+	function doStuff()
+	{
+	
+		//alert("page type is " + pageType);
+	
+		var featureX = document.getElementById("selectFeat").selectedIndex;
+		var featureY = document.getElementById("selectFeat").options;
+		var featureSel = featureY[featureX].text.toLowerCase();
+	
+		//alert("feature selection is " + featureSel);
+
+		if (websiteName.length > 0 && featureSel.length > 0 && onOrOffsite.length > 0 && featureX > 2){
+			urlToOpen = "SQ_drilldown.html?="+websiteName+"&="+featureSel+"&="+onOrOffsite;
+			window.open(urlToOpen ,"_self");
+		}
+	
+
+	}
+	
 	
 
 	// -----------------------------
@@ -507,7 +526,7 @@ rel="stylesheet" type="text/css">
 	  <div class="well">
 		  <h2><script>document.write(healthOrHarm + " links [" + onOrOffsite + "]");</script></h2>
 		  <p><script>document.write("assessed according to feature: "+ featureNameCaps);</script></p>
-
+		  <hr>
 		  <script>
 		  console.log('Feature influence level: ' + featInfl)
 		  if (parseInt(featInfl)>15) {
@@ -520,7 +539,7 @@ rel="stylesheet" type="text/css">
 			  document.write('<div class="panel panel-success"><div class="panel-body"><p>' + "This feature has a high level of influence" + '</p></div></div>');
 		  };	  
 		  </script>
- 
+		  <hr>
 		  <br>
 	  
 		  <div class="form-group">
