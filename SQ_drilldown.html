@@ -344,7 +344,8 @@ function initDataTables(){
 		$('#example1').dataTable( {
 			"bProcessing": true,
 			// "bServerSide": true,
-			"sAjaxSource": blobJSON,
+			"aaData": blobJSON,
+			// "sAjaxSource": JSONin,
 			// "sAjaxDataProp": healthOrHarm + "." + featureNameJSON,
 			"bDeferRender": true,
 			"sDom": "<'row-fluid'<'span6'T><'span6'f>r>t<'row-fluid'<'span6'i><'span6'p>>",
@@ -381,17 +382,15 @@ function initDataTables(){
 var drilldownJSON = $.getJSON(drilldownFilename, function(results) {
 	console.log( "drilldown JSON loading success" );
 
-	
-	// $.each(results.healthy.featureNameJSON, function(index) {
-	// 	
-	// 	blob = results.healthy.featureNameJSON[index];
-	// 	
-	// });
+	$.each(results[healthOrHarm[featureNameJSON]], function(index) {
+
+		blobJSON.push(results[healthOrHarm[featureNameJSON[index]]]);
+		
+	});
 
 })
 .done(function() {
 	console.log( "second success" );
-	
 })
 .fail(function() {
 	console.log( "error" );
@@ -406,11 +405,11 @@ function drilldownDataIn() {
 		
 		console.log( "second complete - drilldown data loaded" );
 		
-		blobJSON = drilldownJSON[healthOrHarm[featureNameJSON]];
+		// blobJSON = drilldownJSON[healthOrHarm[featureNameJSON]];
 		
 		initDataTables();
 
-		console.log(blobJSON);
+		console.log("drilldownJSON contents: "+blobJSON);
 		
 	});
 
@@ -423,7 +422,7 @@ $(document).ready(function(){
 
 	drilldownDataIn();
 	
-	initDataTables();
+	// initDataTables();
 	
 	/* all other page load code*/
 	popDropDown();
