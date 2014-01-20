@@ -383,11 +383,15 @@ var drilldownJSON = $.getJSON(drilldownFilename, function(results) {
 	console.log( "drilldown JSON loading success" );
 
 	$.each(results[healthOrHarm[featureNameJSON]], function(index) {
-
-		blobJSON.push(results[healthOrHarm[featureNameJSON[index]]]);
+		
+		blobData = results[healthOrHarm[featureNameJSON[index]]];
+		blobJSON.push(blobData);
+		
+		console.log(blobData[0]);
 		
 	});
-
+	
+	
 })
 .done(function() {
 	console.log( "second success" );
