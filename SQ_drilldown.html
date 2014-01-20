@@ -180,11 +180,11 @@
 				else {
 					
 					if (healthOrHarm == 'healthy' && parseInt(blob[9])>0){
-						console.log('Not same. Feature added: ' + blob[1]);
+						// console.log('Not same. Feature added: ' + blob[1]);
 						iFeatNames.push(blob[1]);
 					}
 					else if (healthOrHarm == 'harmful' && parseInt(blob[6])>0) {
-						console.log('Not same. Feature added: ' + blob[1]);
+						// console.log('Not same. Feature added: ' + blob[1]);
 						iFeatNames.push(blob[1]);
 					}
 					
@@ -219,11 +219,11 @@
 				}
 				else {	
 					if (healthOrHarm == 'healthy' && parseInt(blob[9])>0){
-						console.log('Not same. Feature added: ' + blob[1]);
+						// console.log('Not same. Feature added: ' + blob[1]);
 						iFeatNames.push(blob[1]);
 					}
 					else if (healthOrHarm == 'harmful' && parseInt(blob[6])>0) {
-						console.log('Not same. Feature added: ' + blob[1]);
+						// console.log('Not same. Feature added: ' + blob[1]);
 						iFeatNames.push(blob[1]);
 					}
 				};
@@ -384,6 +384,7 @@ var drilldownJSON = $.getJSON(drilldownFilename, function(results) {
 	console.log("healthOrHarm: " + healthOrHarm);
 	console.log("featureNameJSON: " + featureNameJSON);
 	// console.log(results.length);
+
 	$.each(results[healthOrHarm], function(featureNameKey) {
 		// results[healthOrHarm[featureNameJSON]]
 		console.log("from JSON L1: "+featureNameKey);
