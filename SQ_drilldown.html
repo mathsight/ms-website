@@ -384,7 +384,7 @@ var drilldownJSON = $.getJSON(drilldownFilename, function(result) {
 	console.log("healthOrHarm: " + healthOrHarm);
 	console.log("featureNameJSON: " + featureNameJSON);
 	// console.log(results.length);
-	$.each(result[healthOrHarm], function(i, field) {
+	$.each(result[healthOrHarm[featureNameJSON]], function(i, field) {
 
 		console.log("from JSON L1: "+i + ":"+ JSON.stringify(field));
 
