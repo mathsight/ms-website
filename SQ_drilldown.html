@@ -105,10 +105,12 @@
 	if (onOrOffsite == "onsite") {
 		JSONfilename = "XDrill";
 		highlightFilename = "json/summary/"+websiteName+"_Xhat.json";
+		drilldownFilename = "json/summary/"+websiteName+"_XDrill.json";
 	}
 	else if (onOrOffsite == "offsite"){
 		JSONfilename = "XDrillOff";
 		highlightFilename = "json/summary/"+websiteName+"_XhatOff.json";
+		drilldownFilename = "json/summary/"+websiteName+"_XDrillOff.json";
 	};
 	
 	if (healthOrHarm == 'healthy') {
@@ -371,6 +373,34 @@ function initDataTables(){
 
 };
 
+//------------------------------------------------------------------
+
+
+var drilldownJSON = $.getJSON(drilldownFilename, function(results) {
+	console.log( "feature JSON loading success" );
+	
+	
+})
+.done(function() {
+	console.log( "second success" );
+})
+.fail(function() {
+	console.log( "error" );
+})
+.always(function() {
+	console.log( "complete" );
+});
+
+drilldownJSON.complete(function() {
+	
+	
+	console.log( "second complete - drilldown data loaded" );
+
+});
+
+
+
+//------------------------------------------------------------------
 
 $(document).ready(function(){
 	
