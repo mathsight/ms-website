@@ -249,12 +249,12 @@
 			console.log( "second complete - populating influential feature dropdown and line chart" );
 
 			mu = parseFloat(winMean) || 5;
-			console.log("Winning mean = " + winMean + " mu: " + mu);
+			// console.log("Winning mean = " + winMean + " mu: " + mu);
 
 			sd = parseFloat(winStd) || 2;
 
 			mu2 = parseFloat(loseMean) || 3;
-			console.log("Losing mean = " + loseMean + " mu2: " + mu);
+			// console.log("Losing mean = " + loseMean + " mu2: " + mu);
 
 			sd2 = parseFloat(loseStd) || 1.5;
 
@@ -339,12 +339,12 @@
 
 function initDataTables(){
 	
-	console.log("aAjaxSource: /json/drilldown/"+websiteName+"_"+JSONfilename+".json");
-	console.log("sAjaxDataProp: "+ healthOrHarm + "." + featureNameJSON);
+	// console.log("aAjaxSource: /json/drilldown/"+websiteName+"_"+JSONfilename+".json");
+// 	console.log("sAjaxDataProp: "+ healthOrHarm + "." + featureNameJSON);
 		$('#example1').dataTable( {
 			"bProcessing": true,
 			// "bServerSide": true,
-			"aaData": blobJSON,
+			"aaData": blobArray,
 			// "sAjaxSource": JSONin,
 			// "sAjaxDataProp": healthOrHarm + "." + featureNameJSON,
 			"bDeferRender": true,
