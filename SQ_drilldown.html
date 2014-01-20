@@ -387,21 +387,14 @@ var drilldownJSON = $.getJSON(drilldownFilename, function(result) {
 	$.each(result[healthOrHarm], function(i, field) {
 
 		if (i == featureNameJSON) {
-			console.log("from JSON L1: "+i + ":"+ JSON.stringify(field));
+			console.log("from JSON L1: "+i);
 			
 			$.each(field, function(j, subField) {
 				console.log("from JSON L2: "+j + ":"+ JSON.stringify(subField));
-				blobArray.push([subField.html_id, subField.feature_value]);
+				blobArray.push({subField.html_id, subField.feature_value, subField.cluster_win_mean, subField.delta});
 			});
 			
 		};
-		// if (featureNameKey == featureNameJSON) {
-			// 			$.each(featureNameKey, function(index) {
-				// 				console.log("from JSON L2.1: "+JSON.stringify(featureNameKey[index].html_id));
-				// 
-				// 				// blobArray.push([JSON.stringify(featureNameKey[index].html_id), JSON.stringify(featureNameKey[index].feature_value], JSON.stringify(featureNameKey[index].cluster_win_mean], JSON.stringify(featureNameKey[index].delta]);
-				// 			});
-			// }
 
 		});
 
