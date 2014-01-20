@@ -393,23 +393,23 @@ var drilldownJSON = $.getJSON(drilldownFilename, function(results) {
 				console.log("from JSON L2.1: "+JSON.stringify(featureNameKey[index].html_id));
 
 				// blobArray.push([JSON.stringify(featureNameKey[index].html_id), JSON.stringify(featureNameKey[index].feature_value], JSON.stringify(featureNameKey[index].cluster_win_mean], JSON.stringify(featureNameKey[index].delta]);
-	// 				});
-				}
+			});
+		}
 		
 			
-			});
+	});
 	
 	
-		})
-		.done(function() {
-			console.log( "second success" );
-		})
-		.fail(function() {
-			console.log( "error" );
-		})
-		.always(function() {
-			console.log( "complete" );
-		});
+})
+.done(function() {
+	console.log( "second success" );
+})
+.fail(function() {
+	console.log( "error" );
+})
+.always(function() {
+	console.log( "complete" );
+});
 
 function drilldownDataIn() {
 	
