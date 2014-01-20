@@ -342,8 +342,8 @@ function initDataTables(){
 		$('#example1').dataTable( {
 			"bProcessing": true,
 			// "bServerSide": true,
-			"sAjaxSource": "/json/drilldown/"+websiteName+"_"+JSONfilename+".json",
-			"sAjaxDataProp": healthOrHarm + "." + featureNameJSON,
+			"sAjaxSource": blobJSON,
+			// "sAjaxDataProp": healthOrHarm + "." + featureNameJSON,
 			"bDeferRender": true,
 			"sDom": "<'row-fluid'<'span6'T><'span6'f>r>t<'row-fluid'<'span6'i><'span6'p>>",
 			"oTableTools": {
@@ -377,9 +377,16 @@ function initDataTables(){
 
 
 var drilldownJSON = $.getJSON(drilldownFilename, function(results) {
-	console.log( "feature JSON loading success" );
+	console.log( "drilldown JSON loading success" );
 	
+	var blobJSON = results.healthy.featureNameJSON;
 	
+	// $.each(results.healthy.featureNameJSON, function(index) {
+	// 	
+	// 	blob = results.healthy.featureNameJSON[index];
+	// 	
+	// });
+
 })
 .done(function() {
 	console.log( "second success" );
@@ -391,20 +398,25 @@ var drilldownJSON = $.getJSON(drilldownFilename, function(results) {
 	console.log( "complete" );
 });
 
-drilldownJSON.complete(function() {
+function drilldownDataIn() {
 	
-	
-	console.log( "second complete - drilldown data loaded" );
+	drilldownJSON.complete(function() {
+		
+		console.log( "second complete - drilldown data loaded" );
+		initDataTables();
+		
+	});
 
-});
-
+};
 
 
 //------------------------------------------------------------------
 
 $(document).ready(function(){
 	
-	initDataTables();
+	/*initDataTables();*/
+	
+	drilldownDataIn();
 	/* all other page load code*/
 	popDropDown();
 
