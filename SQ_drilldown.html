@@ -388,6 +388,11 @@ var drilldownJSON = $.getJSON(drilldownFilename, function(result) {
 
 		if (i == featureNameJSON) {
 			console.log("from JSON L1: "+i + ":"+ JSON.stringify(field));
+			
+			$.each(field, function(j, subField) {
+				console.log("from JSON L2: "+j + ":"+ JSON.stringify(subField));
+			})
+			
 		};
 		// if (featureNameKey == featureNameJSON) {
 			// 			$.each(featureNameKey, function(index) {
