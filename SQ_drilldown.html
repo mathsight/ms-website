@@ -387,7 +387,8 @@ var drilldownJSON = $.getJSON(drilldownFilename, function(results) {
 	$.each(results[healthOrHarm], function(featureNameKey) {
 		// results[healthOrHarm[featureNameJSON]]
 		console.log("from JSON L1: "+featureNameKey);
-		$.each(featureNameKey[featureNameJSON], function(index) {
+
+		$.each(featureNameKey, function(index) {
 			console.log("from JSON L2: "+index);
 		});
 		// blobData = results[healthOrHarm[featureNameJSON[index]]];
