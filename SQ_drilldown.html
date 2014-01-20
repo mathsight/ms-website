@@ -384,10 +384,12 @@ var drilldownJSON = $.getJSON(drilldownFilename, function(results) {
 	console.log("healthOrHarm: " + healthOrHarm);
 	console.log("featureNameJSON: " + featureNameJSON);
 	// console.log(results.length);
-	$.each(results[healthOrHarm], function(index) {
+	$.each(results[healthOrHarm], function(featureNameKey) {
 		// results[healthOrHarm[featureNameJSON]]
-		console.log(index);
-		
+		console.log("from JSON L1: "+featureNameKey);
+		$.each(featureNameKey[featureNameJSON], function(index) {
+			console.log("from JSON L2: "+index);
+		});
 		// blobData = results[healthOrHarm[featureNameJSON[index]]];
 // 		blobJSON.push(blobData);
 // 		
