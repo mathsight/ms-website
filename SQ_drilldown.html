@@ -391,7 +391,7 @@ var drilldownJSON = $.getJSON(drilldownFilename, function(result) {
 			
 			$.each(field, function(j, subField) {
 				console.log("from JSON L2: "+j + ":"+ JSON.stringify(subField));
-				blobArray.push([subField.html_id, subField.feature_value, subField.cluster_win_mean, subField.delta]);
+				blobArray.push(subField);
 				console.log("blobArray: "+blobArray[j]);
 			});
 			
