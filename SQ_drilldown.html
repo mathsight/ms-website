@@ -145,7 +145,7 @@
 	var ixRange = 0;
 	var ixInc = 0;
 	
-	var blobJSON = [];
+	var blobArray = [];
 	
 	console.log("The site type is " + onOrOffsite)
 	
@@ -388,9 +388,13 @@ var drilldownJSON = $.getJSON(drilldownFilename, function(results) {
 		// results[healthOrHarm[featureNameJSON]]
 		console.log("from JSON L1: "+featureNameKey);
 
-		$.each(featureNameKey, function(index) {
-			console.log("from JSON L2: "+index);
-		});
+		if (featureNameKey == featureNameJSON) {
+			$.each(featureNameKey, function(index) {
+				console.log("from JSON L2: "+featureNameKey[index[0]]);
+				blobArray.push([featureNameKey[index[0]], featureNameKey[index[1]], featureNameKey[index[2]], featureNameKey[index[3]]]);
+			});
+		}
+		
 		// blobData = results[healthOrHarm[featureNameJSON[index]]];
 // 		blobJSON.push(blobData);
 // 		
@@ -420,7 +424,7 @@ function drilldownDataIn() {
 		
 		initDataTables();
 
-		console.log("drilldownJSON contents: "+blobJSON);
+		// console.log("drilldownJSON contents: "+blobJSON);
 		
 	});
 
