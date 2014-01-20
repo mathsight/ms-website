@@ -384,18 +384,18 @@ var drilldownJSON = $.getJSON(drilldownFilename, function(results) {
 	console.log("healthOrHarm: " + healthOrHarm);
 	console.log("featureNameJSON: " + featureNameJSON);
 	// console.log(results.length);
-	$.each(results[healthOrHarm], function(featureNameKey) {
+	$.each(results[healthOrHarm[featureNameJSON]], function(featureNameKey) {
 		// results[healthOrHarm[featureNameJSON]]
 		console.log("from JSON L1: "+featureNameKey);
 
-		if (featureNameKey == featureNameJSON) {
-			$.each(featureNameKey, function(index) {
-				console.log("from JSON L2.1: "+results[healthOrHarm[featureNameKey]].html_id);
-				// console.log("from JSON L2.2: "+featureNameKey.feature_value);
-// 				console.log("from JSON L2.3: "+featureNameKey.cluster_win_mean);
-				// blobArray.push([featureNameKey[index[0]], featureNameKey[index[1]], featureNameKey[index[2]], featureNameKey[index[3]]]);
-			});
-		}
+		// if (featureNameKey == featureNameJSON) {
+// 			$.each(featureNameKey, function(index) {
+// 				console.log("from JSON L2.1: "+results[healthOrHarm[featureNameKey]].html_id);
+// 				// console.log("from JSON L2.2: "+featureNameKey.feature_value);
+// // 				console.log("from JSON L2.3: "+featureNameKey.cluster_win_mean);
+// 				// blobArray.push([featureNameKey[index[0]], featureNameKey[index[1]], featureNameKey[index[2]], featureNameKey[index[3]]]);
+// 			});
+// 		}
 		
 		// blobData = results[healthOrHarm[featureNameJSON[index]]];
 // 		blobJSON.push(blobData);
