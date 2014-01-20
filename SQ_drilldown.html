@@ -390,8 +390,8 @@ var drilldownJSON = $.getJSON(drilldownFilename, function(results) {
 
 		if (featureNameKey == featureNameJSON) {
 			$.each(featureNameKey, function(index) {
-				console.log("from JSON L2: "+featureNameKey[index[0]]);
-				blobArray.push([featureNameKey[index[0]], featureNameKey[index[1]], featureNameKey[index[2]], featureNameKey[index[3]]]);
+				console.log("from JSON L2: "+featureNameKey[index]);
+				// blobArray.push([featureNameKey[index[0]], featureNameKey[index[1]], featureNameKey[index[2]], featureNameKey[index[3]]]);
 			});
 		}
 		
