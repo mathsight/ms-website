@@ -384,37 +384,32 @@ var drilldownJSON = $.getJSON(drilldownFilename, function(results) {
 	console.log("healthOrHarm: " + healthOrHarm);
 	console.log("featureNameJSON: " + featureNameJSON);
 	// console.log(results.length);
-	$.each(results[healthOrHarm[featureNameJSON]], function(featureNameKey) {
-		// results[healthOrHarm[featureNameJSON]]
+	$.each(results[healthOrHarm], function(featureNameKey) {
+
 		console.log("from JSON L1: "+featureNameKey);
 
-		// if (featureNameKey == featureNameJSON) {
-// 			$.each(featureNameKey, function(index) {
-// 				console.log("from JSON L2.1: "+results[healthOrHarm[featureNameKey]].html_id);
-// 				// console.log("from JSON L2.2: "+featureNameKey.feature_value);
-// // 				console.log("from JSON L2.3: "+featureNameKey.cluster_win_mean);
-// 				// blobArray.push([featureNameKey[index[0]], featureNameKey[index[1]], featureNameKey[index[2]], featureNameKey[index[3]]]);
-// 			});
-// 		}
+		if (featureNameKey == featureNameJSON) {
+			$.each(featureNameKey, function(index) {
+				console.log("from JSON L2.1: "+JSON.stringify(featureNameKey[index].html_id));
+
+				// blobArray.push([JSON.stringify(featureNameKey[index].html_id), JSON.stringify(featureNameKey[index].feature_value], JSON.stringify(featureNameKey[index].cluster_win_mean], JSON.stringify(featureNameKey[index].delta]);
+	// 				});
+				}
 		
-		// blobData = results[healthOrHarm[featureNameJSON[index]]];
-// 		blobJSON.push(blobData);
-// 		
-// 		console.log(blobData[0]);
-		
-	});
+			
+			});
 	
 	
-})
-.done(function() {
-	console.log( "second success" );
-})
-.fail(function() {
-	console.log( "error" );
-})
-.always(function() {
-	console.log( "complete" );
-});
+		})
+		.done(function() {
+			console.log( "second success" );
+		})
+		.fail(function() {
+			console.log( "error" );
+		})
+		.always(function() {
+			console.log( "complete" );
+		});
 
 function drilldownDataIn() {
 	
