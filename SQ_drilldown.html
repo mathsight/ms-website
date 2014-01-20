@@ -380,8 +380,8 @@ function initDataTables(){
 
 var drilldownJSON = $.getJSON(drilldownFilename, function(results) {
 	console.log( "drilldown JSON loading success" );
-	
-	blobJSON = results.healthy.featureNameJSON.value;
+
+	blobJSON = results.[healthOrHarm].[featureNameJSON].value;
 	
 	// $.each(results.healthy.featureNameJSON, function(index) {
 	// 	
