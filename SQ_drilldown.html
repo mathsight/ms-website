@@ -391,7 +391,8 @@ var drilldownJSON = $.getJSON(drilldownFilename, function(result) {
 			
 			$.each(field, function(j, subField) {
 				console.log("from JSON L2: "+j + ":"+ JSON.stringify(subField));
-			})
+				blobArray.push([subField.html_id, subField.feature_value]);
+			});
 			
 		};
 		// if (featureNameKey == featureNameJSON) {
@@ -419,7 +420,7 @@ function drilldownDataIn() {
 	
 	drilldownJSON.complete(function() {
 		
-		console.log(JSON.stringify(drilldownJSON.healthy));
+		// console.log(JSON.stringify(drilldownJSON.healthy));
 		
 		console.log( "second complete - drilldown data loaded" );
 		
