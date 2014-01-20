@@ -397,17 +397,17 @@ var drilldownJSON = $.getJSON(drilldownFilename, function(result) {
 			
 		};
 
-		});
+	});
 
 })
 .done(function() {
-	console.log( "second success" );
+	console.log( "second drilldown loading success" );
 })
 .fail(function() {
-	console.log( "error" );
+	console.log( "drilldown loading error" );
 })
 .always(function() {
-	console.log( "complete" );
+	console.log( "drilldown loading complete" );
 });
 
 function drilldownDataIn() {
