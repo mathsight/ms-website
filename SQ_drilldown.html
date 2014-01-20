@@ -403,8 +403,8 @@ var drilldownJSON = $.getJSON(drilldownFilename, function(result) {
 .done(function() {
 	console.log( "second drilldown loading success" );
 })
-.fail(function() {
-	console.log( "drilldown loading error" );
+.fail(function(d, textStatus, error) {
+	console.error( "drilldown loading failed, status: " + textStatus + ", error: "+ error);
 })
 .always(function() {
 	console.log( "drilldown loading complete" );
