@@ -145,6 +145,8 @@
 	var ixRange = 0;
 	var ixInc = 0;
 	
+	var blobJSON = [];
+	
 	console.log("The site type is " + onOrOffsite)
 	
 	var featureJSON = $.getJSON( highlightFilename, function(results) {
@@ -379,7 +381,7 @@ function initDataTables(){
 var drilldownJSON = $.getJSON(drilldownFilename, function(results) {
 	console.log( "drilldown JSON loading success" );
 	
-	var blobJSON = results.healthy.featureNameJSON;
+	blobJSON = results.healthy.featureNameJSON.value;
 	
 	// $.each(results.healthy.featureNameJSON, function(index) {
 	// 	
