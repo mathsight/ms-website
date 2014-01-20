@@ -383,6 +383,9 @@ var drilldownJSON = $.getJSON(drilldownFilename, function(results) {
 
 	blobJSONTotal = results[healthOrHarm];
 	blobJSON = blobJSONTotal[featureNameJSON].value;
+	
+	console.log(blobJSONTotal[featureNameJSON].value);
+	
 	// $.each(results.healthy.featureNameJSON, function(index) {
 	// 	
 	// 	blob = results.healthy.featureNameJSON[index];
@@ -392,7 +395,7 @@ var drilldownJSON = $.getJSON(drilldownFilename, function(results) {
 })
 .done(function() {
 	console.log( "second success" );
-	console.log(blobJSON);
+	
 })
 .fail(function() {
 	console.log( "error" );
