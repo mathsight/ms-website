@@ -105,10 +105,12 @@
 	if (onOrOffsite == "onsite") {
 		JSONfilename = "XDrill";
 		highlightFilename = "json/summary/"+websiteName+"_Xhat.json";
+		drilldownFilename = "json/drilldown/"+websiteName+"_XDrill.json";
 	}
 	else if (onOrOffsite == "offsite"){
 		JSONfilename = "XDrillOff";
 		highlightFilename = "json/summary/"+websiteName+"_XhatOff.json";
+		drilldownFilename = "json/drilldown/"+websiteName+"_XDrillOff.json";
 	};
 	
 	if (healthOrHarm == 'healthy') {
@@ -143,6 +145,8 @@
 	var ixRange = 0;
 	var ixInc = 0;
 	
+	var blobArray = [];
+	
 	console.log("The site type is " + onOrOffsite)
 	
 	var featureJSON = $.getJSON( highlightFilename, function(results) {
@@ -176,11 +180,11 @@
 				else {
 					
 					if (healthOrHarm == 'healthy' && parseInt(blob[9])>0){
-						console.log('Not same. Feature added: ' + blob[1]);
+						// console.log('Not same. Feature added: ' + blob[1]);
 						iFeatNames.push(blob[1]);
 					}
 					else if (healthOrHarm == 'harmful' && parseInt(blob[6])>0) {
-						console.log('Not same. Feature added: ' + blob[1]);
+						// console.log('Not same. Feature added: ' + blob[1]);
 						iFeatNames.push(blob[1]);
 					}
 					
@@ -215,11 +219,11 @@
 				}
 				else {	
 					if (healthOrHarm == 'healthy' && parseInt(blob[9])>0){
-						console.log('Not same. Feature added: ' + blob[1]);
+						// console.log('Not same. Feature added: ' + blob[1]);
 						iFeatNames.push(blob[1]);
 					}
 					else if (healthOrHarm == 'harmful' && parseInt(blob[6])>0) {
-						console.log('Not same. Feature added: ' + blob[1]);
+						// console.log('Not same. Feature added: ' + blob[1]);
 						iFeatNames.push(blob[1]);
 					}
 				};
@@ -245,12 +249,12 @@
 			console.log( "second complete - populating influential feature dropdown and line chart" );
 
 			mu = parseFloat(winMean) || 5;
-			console.log("Winning mean = " + winMean + " mu: " + mu);
+			// console.log("Winning mean = " + winMean + " mu: " + mu);
 
 			sd = parseFloat(winStd) || 2;
 
 			mu2 = parseFloat(loseMean) || 3;
-			console.log("Losing mean = " + loseMean + " mu2: " + mu);
+			// console.log("Losing mean = " + loseMean + " mu2: " + mu);
 
 			sd2 = parseFloat(loseStd) || 1.5;
 
@@ -335,13 +339,14 @@
 
 function initDataTables(){
 	
-	console.log("aAjaxSource: /json/drilldown/"+websiteName+"_"+JSONfilename+".json");
-	console.log("sAjaxDataProp: "+ healthOrHarm + "." + featureNameJSON);
+	// console.log("aAjaxSource: /json/drilldown/"+websiteName+"_"+JSONfilename+".json");
+// 	console.log("sAjaxDataProp: "+ healthOrHarm + "." + featureNameJSON);
 		$('#example1').dataTable( {
 			"bProcessing": true,
 			// "bServerSide": true,
-			"sAjaxSource": "/json/drilldown/"+websiteName+"_"+JSONfilename+".json",
-			"sAjaxDataProp": healthOrHarm + "." + featureNameJSON,
+			"aaData": blobArray,
+			// "sAjaxSource": JSONin,
+			// "sAjaxDataProp": healthOrHarm + "." + featureNameJSON,
 			"bDeferRender": true,
 			"sDom": "<'row-fluid'<'span6'T><'span6'f>r>t<'row-fluid'<'span6'i><'span6'p>>",
 			"oTableTools": {
@@ -358,7 +363,7 @@ function initDataTables(){
 			"aoColumns": [
 			{ "mData": "html_id",
 			"mRender" : function ( data, type, full) {
-				return '<div onclick="OpenInNewTab(\''+ data +'\');">'+data+'</div>';
+				return '<div onclick="OpenInNewTab(\''+ decodeURI(data) +'\');">'+decodeURI(data)+'</div>';
 			}
 		},
 		{ "mData": "feature_value" },
@@ -371,10 +376,67 @@ function initDataTables(){
 
 };
 
+//------------------------------------------------------------------
+
+
+var drilldownJSON = $.getJSON(drilldownFilename, function(result) {
+	console.log( "drilldown JSON loading success" );
+	console.log("healthOrHarm: " + healthOrHarm);
+	console.log("featureNameJSON: " + featureNameJSON);
+	// console.log(results.length);
+	$.each(result[healthOrHarm], function(i, field) {
+
+		if (i == featureNameJSON) {
+			console.log("from JSON L1: "+i);
+			
+			$.each(field, function(j, subField) {
+				console.log("from JSON L2: "+j + ":"+ JSON.stringify(subField));
+				blobArray.push(subField);
+				console.log("blobArray: "+blobArray[j]);
+			});
+			
+		};
+
+	});
+
+})
+.done(function() {
+	console.log( "second drilldown loading success" );
+})
+.fail(function(d, textStatus, error) {
+	console.error( "drilldown loading failed, status: " + textStatus + ", error: "+ error);
+})
+.always(function() {
+	console.log( "drilldown loading complete" );
+});
+
+function drilldownDataIn() {
+	
+	drilldownJSON.complete(function() {
+		
+		// console.log(JSON.stringify(drilldownJSON.healthy));
+		
+		console.log( "second complete - drilldown data loaded" );
+		
+		// blobJSON = drilldownJSON[healthOrHarm[featureNameJSON]];
+		
+		initDataTables();
+
+		// console.log("drilldownJSON contents: "+blobJSON);
+		
+	});
+
+};
+
+
+//------------------------------------------------------------------
 
 $(document).ready(function(){
+
+	drilldownDataIn();
 	
-	initDataTables();
+	// initDataTables();
+	
 	/* all other page load code*/
 	popDropDown();
 
@@ -531,7 +593,8 @@ rel="stylesheet" type="text/css">
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="brand" href="/">MathSight Demo</a>
+		  <!-- <a class="brand" href="/">MathSight Demo</a> -->
+		           <a class="brand" href="#"><img src="logo/mathsight-cobalt logo.png" /></a>
           <div class="nav-collapse collapse">
             <ul class="nav">
                 <li><a href="/">Home</a></li>
