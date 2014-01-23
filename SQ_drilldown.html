@@ -620,9 +620,6 @@ rel="stylesheet" type="text/css">
           <h1><script>document.write("StatSEO: " + onOrOffsite + " drilldown");</script></h1>
         </div>
       </div> 
-	  
-	  
-	  
 
 	  <div class="row-fluid subheading">
 		  <div class="span12">
@@ -641,6 +638,20 @@ rel="stylesheet" type="text/css">
 			  	document.write(healthOrHarm + " pages [" + onOrOffsite + "]");
 			  };
 			  </script></h2>
+			  
+			  <br>
+			  
+			  <button onclick="makeSwitch()" type="submit" class="btn btn-primary" id="switchOnOff">
+				  <script> if (onOrOffsite == "offsite")
+				  			  {document.write('See onsite');}
+				  			  else {
+				  			  	document.write('See offsite');
+				  			  };
+				  </script>		  
+			  </button>
+			  
+			  <hr>
+			  
 		  <p><script>document.write("assessed according to feature: "+ featureNameCaps);</script></p>
 
 		  <script>
@@ -677,9 +688,7 @@ rel="stylesheet" type="text/css">
 		  </div><!-- /input-group -->
 
 	  </div>
-	  
-	 
-	  
+
 	  <br>
 	  
 	  <div class="panel panel-default">
