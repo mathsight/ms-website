@@ -635,7 +635,12 @@ rel="stylesheet" type="text/css">
 	  </div>
 	  
 	  <div class="well">
-		  <h2><script>document.write(healthOrHarm + " links [" + onOrOffsite + "]");</script></h2>
+		  <h2><script> if (onOrOffsite = "offsite")
+			  {document.write(healthOrHarm + " backlinks [" + onOrOffsite + "]");}
+			  else {
+			  	document.write(healthOrHarm + " pages [" + onOrOffsite + "]");
+			  };
+			  </script></h2>
 		  <p><script>document.write("assessed according to feature: "+ featureNameCaps);</script></p>
 
 		  <script>
