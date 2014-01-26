@@ -277,7 +277,7 @@ function initDataTables(){
 	dataTableOne = $('#example3').dataTable( {
 		"bProcessing": true,
 		"sAjaxSource": "/json/summary/"+websiteName+"_"+JSONfilename+".json",
-		"sAjaxSource": "http://api.mathsight.org/ms_api/v1/onsite?target=http%3A%2F%2Fwww."+websiteNameSplit+".com&metric=highlight&order=asc&count=10&token=ee04d5eef98cce541994b28cb05adfe29d4345bf",
+		"sAjaxSource": "http://api.mathsight.org/ms_api/v1/onsite?target=http%3A%2F%2Fwww."+websiteName+".com&metric=highlight&order=asc&count=10&token=ee04d5eef98cce541994b28cb05adfe29d4345bf",
 		"sAjaxDataProp": onOrOffsite,
 		"aaSorting": [[ 4, "desc" ]],
 		"sDom": "<'row-fluid'<'span6'T><'span6'f>r>t<'row-fluid'<'span6'i><'span6'p>>",
