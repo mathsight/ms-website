@@ -1,0 +1,29 @@
+[
+	{
+		"key": "Healthy",
+		"color": "#00cc00",
+		"disabled": 0,
+		"values": {
+			"label": "Offsite",
+			"value": 60
+		}
+	},
+	{
+		"key": "Neutral",
+		"color": "#ff9900",
+		"disabled": 1,
+		"values": {
+			"label": "Offsite",
+			"value": 4
+		}
+	},
+	{
+		"key": "Harmful",
+		"color": "#ff0000",
+		"disabled": 0,
+		"values": {
+			"label": "Offsite",
+			"value": -19
+		}
+	}
+]

@@ -1,0 +1,736 @@
+{
+	"healthy": {
+		"average_backlink_dale_chall_readability": [
+			{
+				"html_id": "http://www.eclicks.co.nz",
+				"feature_value": "0",
+				"cluster_win_mean": "8.6",
+				"delta": "8.6"
+			},
+			{
+				"html_id": "http://www.eclicks.co.nz/contact-us",
+				"feature_value": "0",
+				"cluster_win_mean": "8.6",
+				"delta": "8.6"
+			},
+			{
+				"html_id": "http://www.eclicks.co.nz/site-map",
+				"feature_value": "0",
+				"cluster_win_mean": "8.6",
+				"delta": "8.6"
+			},
+			{
+				"html_id": "http://www.eclicks.co.nz/quick-quote",
+				"feature_value": "0",
+				"cluster_win_mean": "8.6",
+				"delta": "8.6"
+			}
+		],
+		"average_backlink_flesch_kincaid_grade": [
+			{
+				"html_id": "http://www.eclicks.co.nz",
+				"feature_value": "0",
+				"cluster_win_mean": "11.26",
+				"delta": "11.26"
+			},
+			{
+				"html_id": "http://www.eclicks.co.nz/contact-us",
+				"feature_value": "0",
+				"cluster_win_mean": "11.26",
+				"delta": "11.26"
+			},
+			{
+				"html_id": "http://www.eclicks.co.nz/site-map",
+				"feature_value": "0",
+				"cluster_win_mean": "11.26",
+				"delta": "11.26"
+			},
+			{
+				"html_id": "http://www.eclicks.co.nz/quick-quote",
+				"feature_value": "0",
+				"cluster_win_mean": "11.26",
+				"delta": "11.26"
+			}
+		],
+		"average_length_of_h1": [
+			{
+				"html_id": "http://www.eclicks.co.nz",
+				"feature_value": "0",
+				"cluster_win_mean": "50.38",
+				"delta": "50.38"
+			},
+			{
+				"html_id": "http://www.eclicks.co.nz/contact-us",
+				"feature_value": "0",
+				"cluster_win_mean": "50.38",
+				"delta": "50.38"
+			},
+			{
+				"html_id": "http://www.eclicks.co.nz/site-map",
+				"feature_value": "0",
+				"cluster_win_mean": "50.38",
+				"delta": "50.38"
+			},
+			{
+				"html_id": "http://www.eclicks.co.nz/quick-quote",
+				"feature_value": "0",
+				"cluster_win_mean": "50.38",
+				"delta": "50.38"
+			}
+		],
+		"number_of_hyperlinks_with_file": {
+			"html_id": "http://www.eclicks.co.nz/site-map",
+			"feature_value": "6",
+			"cluster_win_mean": "6.25",
+			"delta": "0.25"
+		},
+		"number_of_images": {
+			"html_id": "http://www.eclicks.co.nz",
+			"feature_value": "23",
+			"cluster_win_mean": "17.95",
+			"delta": "-5.05"
+		},
+		"number_of_hyperlinks_with_html": {
+			"html_id": "http://www.eclicks.co.nz/site-map",
+			"feature_value": "40",
+			"cluster_win_mean": "39.42",
+			"delta": "-0.58"
+		},
+		"number_of_absolute_internal_links": [
+			{
+				"html_id": "http://www.eclicks.co.nz/contact-us",
+				"feature_value": "1",
+				"cluster_win_mean": "1.46",
+				"delta": " 0.46"
+			},
+			{
+				"html_id": "http://www.eclicks.co.nz/site-map",
+				"feature_value": "3",
+				"cluster_win_mean": "1.46",
+				"delta": "-1.54"
+			},
+			{
+				"html_id": "http://www.eclicks.co.nz/quick-quote",
+				"feature_value": "1",
+				"cluster_win_mean": "1.46",
+				"delta": " 0.46"
+			}
+		],
+		"average_image_height": [
+			{
+				"html_id": "http://www.eclicks.co.nz/contact-us",
+				"feature_value": "5",
+				"cluster_win_mean": "98.03",
+				"delta": "93.03"
+			},
+			{
+				"html_id": "http://www.eclicks.co.nz/quick-quote",
+				"feature_value": "5",
+				"cluster_win_mean": "98.03",
+				"delta": "93.03"
+			}
+		],
+		"ratio_of_common_words_to_total": [
+			{
+				"html_id": "http://www.eclicks.co.nz",
+				"feature_value": "0.55556",
+				"cluster_win_mean": "0.74",
+				"delta": " 0.19"
+			},
+			{
+				"html_id": "http://www.eclicks.co.nz/contact-us",
+				"feature_value": "   0.25",
+				"cluster_win_mean": "0.74",
+				"delta": " 0.49"
+			},
+			{
+				"html_id": "http://www.eclicks.co.nz/site-map",
+				"feature_value": "      0",
+				"cluster_win_mean": "0.74",
+				"delta": " 0.74"
+			},
+			{
+				"html_id": "http://www.eclicks.co.nz/quick-quote",
+				"feature_value": "      1",
+				"cluster_win_mean": "0.74",
+				"delta": "-0.26"
+			}
+		],
+		"proximity_of_title_tag_words_to_external_bound_hyperlinks": [
+			{
+				"html_id": "http://www.eclicks.co.nz",
+				"feature_value": "984",
+				"cluster_win_mean": "452.65",
+				"delta": "-531.35"
+			},
+			{
+				"html_id": "http://www.eclicks.co.nz/contact-us",
+				"feature_value": "919",
+				"cluster_win_mean": "452.65",
+				"delta": "-466.35"
+			},
+			{
+				"html_id": "http://www.eclicks.co.nz/site-map",
+				"feature_value": "916",
+				"cluster_win_mean": "452.65",
+				"delta": "-463.35"
+			},
+			{
+				"html_id": "http://www.eclicks.co.nz/quick-quote",
+				"feature_value": "920",
+				"cluster_win_mean": "452.65",
+				"delta": "-467.35"
+			}
+		],
+		"average_number_of_words_in_anchor_text": [
+			{
+				"html_id": "http://www.eclicks.co.nz",
+				"feature_value": "3",
+				"cluster_win_mean": "2.12",
+				"delta": "-0.88"
+			},
+			{
+				"html_id": "http://www.eclicks.co.nz/contact-us",
+				"feature_value": "3",
+				"cluster_win_mean": "2.12",
+				"delta": "-0.88"
+			},
+			{
+				"html_id": "http://www.eclicks.co.nz/quick-quote",
+				"feature_value": "3",
+				"cluster_win_mean": "2.12",
+				"delta": "-0.88"
+			}
+		],
+		"number_of_external_css_styles": [
+			{
+				"html_id": "http://www.eclicks.co.nz",
+				"feature_value": "1",
+				"cluster_win_mean": "1.24",
+				"delta": "0.24"
+			},
+			{
+				"html_id": "http://www.eclicks.co.nz/contact-us",
+				"feature_value": "1",
+				"cluster_win_mean": "1.24",
+				"delta": "0.24"
+			},
+			{
+				"html_id": "http://www.eclicks.co.nz/site-map",
+				"feature_value": "1",
+				"cluster_win_mean": "1.24",
+				"delta": "0.24"
+			},
+			{
+				"html_id": "http://www.eclicks.co.nz/quick-quote",
+				"feature_value": "1",
+				"cluster_win_mean": "1.24",
+				"delta": "0.24"
+			}
+		],
+		"number_of_images_in_body": [
+			{
+				"html_id": "http://www.eclicks.co.nz/contact-us",
+				"feature_value": "5",
+				"cluster_win_mean": "17.95",
+				"delta": "12.95"
+			},
+			{
+				"html_id": "http://www.eclicks.co.nz/site-map",
+				"feature_value": "4",
+				"cluster_win_mean": "17.95",
+				"delta": "13.95"
+			},
+			{
+				"html_id": "http://www.eclicks.co.nz/quick-quote",
+				"feature_value": "7",
+				"cluster_win_mean": "17.95",
+				"delta": "10.95"
+			}
+		]
+	},
+	"harmful": {
+		"average_backlink_flesch_reading_ease": [
+			{
+				"html_id": "http://www.eclicks.co.nz",
+				"feature_value": "0",
+				"cluster_win_mean": "48.97",
+				"delta": "48.97"
+			},
+			{
+				"html_id": "http://www.eclicks.co.nz/contact-us",
+				"feature_value": "0",
+				"cluster_win_mean": "48.97",
+				"delta": "48.97"
+			},
+			{
+				"html_id": "http://www.eclicks.co.nz/site-map",
+				"feature_value": "0",
+				"cluster_win_mean": "48.97",
+				"delta": "48.97"
+			},
+			{
+				"html_id": "http://www.eclicks.co.nz/quick-quote",
+				"feature_value": "0",
+				"cluster_win_mean": "48.97",
+				"delta": "48.97"
+			}
+		],
+		"maximum_length_of_h1": [
+			{
+				"html_id": "http://www.eclicks.co.nz",
+				"feature_value": "0",
+				"cluster_win_mean": "77.29",
+				"delta": "77.29"
+			},
+			{
+				"html_id": "http://www.eclicks.co.nz/contact-us",
+				"feature_value": "0",
+				"cluster_win_mean": "77.29",
+				"delta": "77.29"
+			},
+			{
+				"html_id": "http://www.eclicks.co.nz/site-map",
+				"feature_value": "0",
+				"cluster_win_mean": "77.29",
+				"delta": "77.29"
+			},
+			{
+				"html_id": "http://www.eclicks.co.nz/quick-quote",
+				"feature_value": "0",
+				"cluster_win_mean": "77.29",
+				"delta": "77.29"
+			}
+		],
+		"number_of_root_relative_internal_links": [
+			{
+				"html_id": "http://www.eclicks.co.nz",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.eclicks.co.nz/contact-us",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.eclicks.co.nz/site-map",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.eclicks.co.nz/quick-quote",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			}
+		],
+		"number_of_hyperlinks": [
+			{
+				"html_id": "http://www.eclicks.co.nz",
+				"feature_value": "35",
+				"cluster_win_mean": "91.03",
+				"delta": "56.03"
+			},
+			{
+				"html_id": "http://www.eclicks.co.nz/contact-us",
+				"feature_value": "24",
+				"cluster_win_mean": "91.03",
+				"delta": "67.03"
+			},
+			{
+				"html_id": "http://www.eclicks.co.nz/site-map",
+				"feature_value": "46",
+				"cluster_win_mean": "91.03",
+				"delta": "45.03"
+			},
+			{
+				"html_id": "http://www.eclicks.co.nz/quick-quote",
+				"feature_value": "24",
+				"cluster_win_mean": "91.03",
+				"delta": "67.03"
+			}
+		],
+		"number_of_hyperlinks_with_file": [
+			{
+				"html_id": "http://www.eclicks.co.nz",
+				"feature_value": "3",
+				"cluster_win_mean": "6.25",
+				"delta": "3.25"
+			},
+			{
+				"html_id": "http://www.eclicks.co.nz/contact-us",
+				"feature_value": "3",
+				"cluster_win_mean": "6.25",
+				"delta": "3.25"
+			},
+			{
+				"html_id": "http://www.eclicks.co.nz/quick-quote",
+				"feature_value": "3",
+				"cluster_win_mean": "6.25",
+				"delta": "3.25"
+			}
+		],
+		"number_of_images": [
+			{
+				"html_id": "http://www.eclicks.co.nz/contact-us",
+				"feature_value": "5",
+				"cluster_win_mean": "17.95",
+				"delta": "12.95"
+			},
+			{
+				"html_id": "http://www.eclicks.co.nz/site-map",
+				"feature_value": "4",
+				"cluster_win_mean": "17.95",
+				"delta": "13.95"
+			},
+			{
+				"html_id": "http://www.eclicks.co.nz/quick-quote",
+				"feature_value": "7",
+				"cluster_win_mean": "17.95",
+				"delta": "10.95"
+			}
+		],
+		"number_of_external_links": [
+			{
+				"html_id": "http://www.eclicks.co.nz",
+				"feature_value": " 0",
+				"cluster_win_mean": "84.95",
+				"delta": "84.95"
+			},
+			{
+				"html_id": "http://www.eclicks.co.nz/contact-us",
+				"feature_value": "23",
+				"cluster_win_mean": "84.95",
+				"delta": "61.95"
+			},
+			{
+				"html_id": "http://www.eclicks.co.nz/site-map",
+				"feature_value": "43",
+				"cluster_win_mean": "84.95",
+				"delta": "41.95"
+			},
+			{
+				"html_id": "http://www.eclicks.co.nz/quick-quote",
+				"feature_value": "23",
+				"cluster_win_mean": "84.95",
+				"delta": "61.95"
+			}
+		],
+		"number_of_hyperlinks_with_html": [
+			{
+				"html_id": "http://www.eclicks.co.nz",
+				"feature_value": "32",
+				"cluster_win_mean": "39.42",
+				"delta": " 7.42"
+			},
+			{
+				"html_id": "http://www.eclicks.co.nz/contact-us",
+				"feature_value": "21",
+				"cluster_win_mean": "39.42",
+				"delta": "18.42"
+			},
+			{
+				"html_id": "http://www.eclicks.co.nz/quick-quote",
+				"feature_value": "21",
+				"cluster_win_mean": "39.42",
+				"delta": "18.42"
+			}
+		],
+		"number_of_absolute_internal_links": {
+			"html_id": "http://www.eclicks.co.nz",
+			"feature_value": "29",
+			"cluster_win_mean": "1.46",
+			"delta": "-27.54"
+		},
+		"average_image_width": [
+			{
+				"html_id": "http://www.eclicks.co.nz",
+				"feature_value": "37",
+				"cluster_win_mean": "217.02",
+				"delta": "180.02"
+			},
+			{
+				"html_id": "http://www.eclicks.co.nz/contact-us",
+				"feature_value": " 1",
+				"cluster_win_mean": "217.02",
+				"delta": "216.02"
+			},
+			{
+				"html_id": "http://www.eclicks.co.nz/site-map",
+				"feature_value": " 1",
+				"cluster_win_mean": "217.02",
+				"delta": "216.02"
+			},
+			{
+				"html_id": "http://www.eclicks.co.nz/quick-quote",
+				"feature_value": " 1",
+				"cluster_win_mean": "217.02",
+				"delta": "216.02"
+			}
+		],
+		"number_of_id_attribute_refs": [
+			{
+				"html_id": "http://www.eclicks.co.nz",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.eclicks.co.nz/contact-us",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.eclicks.co.nz/site-map",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.eclicks.co.nz/quick-quote",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			}
+		],
+		"number_of_images_missing_alt": [
+			{
+				"html_id": "http://www.eclicks.co.nz",
+				"feature_value": "2",
+				"cluster_win_mean": "17",
+				"delta": "15"
+			},
+			{
+				"html_id": "http://www.eclicks.co.nz/contact-us",
+				"feature_value": "3",
+				"cluster_win_mean": "17",
+				"delta": "14"
+			},
+			{
+				"html_id": "http://www.eclicks.co.nz/site-map",
+				"feature_value": "2",
+				"cluster_win_mean": "17",
+				"delta": "15"
+			},
+			{
+				"html_id": "http://www.eclicks.co.nz/quick-quote",
+				"feature_value": "5",
+				"cluster_win_mean": "17",
+				"delta": "12"
+			}
+		],
+		"number_of_h1_instances": [
+			{
+				"html_id": "http://www.eclicks.co.nz",
+				"feature_value": "0",
+				"cluster_win_mean": "2.61",
+				"delta": "2.61"
+			},
+			{
+				"html_id": "http://www.eclicks.co.nz/contact-us",
+				"feature_value": "0",
+				"cluster_win_mean": "2.61",
+				"delta": "2.61"
+			},
+			{
+				"html_id": "http://www.eclicks.co.nz/site-map",
+				"feature_value": "0",
+				"cluster_win_mean": "2.61",
+				"delta": "2.61"
+			},
+			{
+				"html_id": "http://www.eclicks.co.nz/quick-quote",
+				"feature_value": "0",
+				"cluster_win_mean": "2.61",
+				"delta": "2.61"
+			}
+		],
+		"total_number_of_words": [
+			{
+				"html_id": "http://www.eclicks.co.nz",
+				"feature_value": "18",
+				"cluster_win_mean": "132.45",
+				"delta": "114.45"
+			},
+			{
+				"html_id": "http://www.eclicks.co.nz/contact-us",
+				"feature_value": " 4",
+				"cluster_win_mean": "132.45",
+				"delta": "128.45"
+			},
+			{
+				"html_id": "http://www.eclicks.co.nz/site-map",
+				"feature_value": " 0",
+				"cluster_win_mean": "132.45",
+				"delta": "132.45"
+			},
+			{
+				"html_id": "http://www.eclicks.co.nz/quick-quote",
+				"feature_value": " 3",
+				"cluster_win_mean": "132.45",
+				"delta": "129.45"
+			}
+		],
+		"number_of_embedded_css_styles": [
+			{
+				"html_id": "http://www.eclicks.co.nz",
+				"feature_value": "0",
+				"cluster_win_mean": "2.98",
+				"delta": "2.98"
+			},
+			{
+				"html_id": "http://www.eclicks.co.nz/contact-us",
+				"feature_value": "0",
+				"cluster_win_mean": "2.98",
+				"delta": "2.98"
+			},
+			{
+				"html_id": "http://www.eclicks.co.nz/site-map",
+				"feature_value": "0",
+				"cluster_win_mean": "2.98",
+				"delta": "2.98"
+			},
+			{
+				"html_id": "http://www.eclicks.co.nz/quick-quote",
+				"feature_value": "0",
+				"cluster_win_mean": "2.98",
+				"delta": "2.98"
+			}
+		],
+		"number_of_embedded_styles": [
+			{
+				"html_id": "http://www.eclicks.co.nz",
+				"feature_value": "0",
+				"cluster_win_mean": "2.97",
+				"delta": "2.97"
+			},
+			{
+				"html_id": "http://www.eclicks.co.nz/contact-us",
+				"feature_value": "0",
+				"cluster_win_mean": "2.97",
+				"delta": "2.97"
+			},
+			{
+				"html_id": "http://www.eclicks.co.nz/site-map",
+				"feature_value": "0",
+				"cluster_win_mean": "2.97",
+				"delta": "2.97"
+			},
+			{
+				"html_id": "http://www.eclicks.co.nz/quick-quote",
+				"feature_value": "0",
+				"cluster_win_mean": "2.97",
+				"delta": "2.97"
+			}
+		],
+		"average_image_height": [
+			{
+				"html_id": "http://www.eclicks.co.nz",
+				"feature_value": "19",
+				"cluster_win_mean": "98.03",
+				"delta": "79.03"
+			},
+			{
+				"html_id": "http://www.eclicks.co.nz/site-map",
+				"feature_value": "15",
+				"cluster_win_mean": "98.03",
+				"delta": "83.03"
+			}
+		],
+		"html5_detected": [
+			{
+				"html_id": "http://www.eclicks.co.nz",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.eclicks.co.nz/contact-us",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.eclicks.co.nz/site-map",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			},
+			{
+				"html_id": "http://www.eclicks.co.nz/quick-quote",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
+			}
+		],
+		"average_number_of_words_in_anchor_text": {
+			"html_id": "http://www.eclicks.co.nz/site-map",
+			"feature_value": "2",
+			"cluster_win_mean": "2.12",
+			"delta": "0.12"
+		},
+		"number_of_embedded_javascripts": [
+			{
+				"html_id": "http://www.eclicks.co.nz",
+				"feature_value": "2",
+				"cluster_win_mean": "3.27",
+				"delta": "1.27"
+			},
+			{
+				"html_id": "http://www.eclicks.co.nz/contact-us",
+				"feature_value": "2",
+				"cluster_win_mean": "3.27",
+				"delta": "1.27"
+			},
+			{
+				"html_id": "http://www.eclicks.co.nz/site-map",
+				"feature_value": "2",
+				"cluster_win_mean": "3.27",
+				"delta": "1.27"
+			},
+			{
+				"html_id": "http://www.eclicks.co.nz/quick-quote",
+				"feature_value": "2",
+				"cluster_win_mean": "3.27",
+				"delta": "1.27"
+			}
+		],
+		"number_of_images_in_body": {
+			"html_id": "http://www.eclicks.co.nz",
+			"feature_value": "23",
+			"cluster_win_mean": "17.95",
+			"delta": "-5.05"
+		},
+		"number_of_destination_titles_same_as_anchor_text": [
+			{
+				"html_id": "http://www.eclicks.co.nz",
+				"feature_value": "1",
+				"cluster_win_mean": "9.46",
+				"delta": "8.46"
+			},
+			{
+				"html_id": "http://www.eclicks.co.nz/contact-us",
+				"feature_value": "0",
+				"cluster_win_mean": "9.46",
+				"delta": "9.46"
+			},
+			{
+				"html_id": "http://www.eclicks.co.nz/site-map",
+				"feature_value": "0",
+				"cluster_win_mean": "9.46",
+				"delta": "9.46"
+			},
+			{
+				"html_id": "http://www.eclicks.co.nz/quick-quote",
+				"feature_value": "0",
+				"cluster_win_mean": "9.46",
+				"delta": "9.46"
+			}
+		]
+	}
+}
