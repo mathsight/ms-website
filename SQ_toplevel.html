@@ -204,7 +204,16 @@ var highlightFilename = "http://api.mathsight.org/ms_api/v1/"+onOrOffsite+"?targ
 
 var highlightJSON = $.getJSON( highlightFilename, function(results) {
 	console.log( "highlight JSON loading success" );
-}
+})
+.done(function() {
+	console.log( "second success" );
+})
+.fail(function() {
+	console.log( "error" );
+})
+.always(function() {
+	console.log( "complete" );
+});
 
 
 // var websiteURL = "www.leighmans.com";
