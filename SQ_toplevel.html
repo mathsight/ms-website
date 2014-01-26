@@ -281,7 +281,7 @@ function initDataTables(){
 		"bProcessing": true,
 		"sAjaxSource": "/json/summary/"+websiteName+"_"+JSONfilename+".json",
 		"sAjaxDataProp": onOrOffsite,
-		"aaSorting": [[ 4, "desc" ]],
+		"aaSorting": [[ 6, "desc" ]],
 		"sDom": "<'row-fluid'<'span6'T><'span6'f>r>t<'row-fluid'<'span6'i><'span6'p>>",
 		"oTableTools": {
 			"aButtons": [
@@ -295,22 +295,22 @@ function initDataTables(){
 			]
 		},
 		"aoColumns": [
-		null,
-		{ "mData": null , //its null here because history column will contain the mRender
+		null, // ranking (0)
+		{ "mData": null , // feature name it's null here because history column will contain the mRender (1)
 		"mRender" : function ( data, type, full) {
 			return '<a href="SQ_drilldown.html?=' + websiteName + '&='+ full[1] + '&='+ onOrOffsite+'&=harmful' +'">'+full[1]+'</a>';
 		}
 	},
-	null, //losing mean
-	{"bVisible": false}, //winning mean
-	{"bVisible": false}, // losing stdev
-	{"bVisible": false},	// winning  stdev	
-	null, // number of harmful URLs
-	{"bVisible": false}, // harmful group feature mean
-	{"bVisible": false}, // harmful group avg SQ
-	{"bVisible": false}, // number of healthy URLs
-	{"bVisible": false}, // healthy group feature mean
-	{"bVisible": false} // healthy group StatSEO figure
+	null, //losing mean (2)
+	{"bVisible": false}, //winning mean (3)
+	{"bVisible": false}, // losing stdev (4)
+	{"bVisible": false}, // winning  stdev (5)
+	null, // number of harmful URLs (6)
+	{"bVisible": false}, // harmful group feature mean (7)
+	{"bVisible": false}, // harmful group avg SQ (8)
+	{"bVisible": false}, // number of healthy URLs (9)
+	{"bVisible": false}, // healthy group feature mean (10)
+	{"bVisible": false} // healthy group StatSEO figure (11)
 	]
 } );
 
@@ -321,7 +321,7 @@ dataTableTwo = $('#example3b').dataTable( {
 	"bProcessing": true,
 	"sAjaxSource": "/json/summary/"+websiteName+"_"+JSONfilename+".json",
 	"sAjaxDataProp": onOrOffsite,
-	"aaSorting": [[ 7, "desc" ]],
+	"aaSorting": [[ 9, "desc" ]],
 	"sDom": "<'row-fluid'<'span6'T><'span6'f>r>t<'row-fluid'<'span6'i><'span6'p>>",
 	"oTableTools": {
 		"aButtons": [
@@ -335,22 +335,22 @@ dataTableTwo = $('#example3b').dataTable( {
 		]
 	},
 	"aoColumns": [
-	null,
-	{ "mData": null , //its null here because history column will contain the mRender
+	null, //0
+	{ "mData": null , //its null here because history column will contain the mRender 1
 	"mRender" : function ( data, type, full) {
 		return '<a href="SQ_drilldown.html?=' + websiteName + '&='+ full[1] + '&='+ onOrOffsite+'&=healthy' +'">'+full[1]+'</a>';
 	}
 },
-{"bVisible": false}, //losing mean
-null, //winning mean
-{"bVisible": false}, // losing stdev
-{"bVisible": false},// winning  stdev	 
-{"bVisible": false}, // number of harmful URLs
-{"bVisible": false}, // harmful group feature mean
-{"bVisible": false}, // harmful group average SQ
-null, // number of healthy URLs
-{"bVisible": false}, // healthy group feature mean
-{"bVisible": false} // healthy group average SQ
+{"bVisible": false}, //losing mean 2
+null, //winning mean 3
+{"bVisible": false}, // losing stdev 4
+{"bVisible": false},// winning  stdev	 5
+{"bVisible": false}, // number of harmful URLs 6
+{"bVisible": false}, // harmful group feature mean 7
+{"bVisible": false}, // harmful group average SQ 8
+null, // number of healthy URLs 9
+{"bVisible": false}, // healthy group feature mean 10
+{"bVisible": false} // healthy group average SQ 11
 ]
 } );
 
@@ -364,7 +364,7 @@ $(document).ready(function(){
 	
 	
 
-	var highlightJSON = $.getJSON( highlightFilename, function(results) {
+	var highlightJSON = $.getJSON( highlightFilename, function({"result" : "data"}) {
 		console.log( "highlight JSON loading success" );
 	})
 	.done(function() {
