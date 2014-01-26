@@ -200,6 +200,12 @@ else {
 	topLevelFile = "/json/toplevel/" + websiteName + "_ybar.json";
 }
 
+var highlightFilename = "http://api.mathsight.org/ms_api/v1/"+onOrOffsite+"?target=http%3A%2F%2Fwww."+websiteName+".com&metric=highlight&order=asc&count=10&token=ee04d5eef98cce541994b28cb05adfe29d4345bf"
+
+var highlightJSON = $.getJSON( highlightFilename, function(results) {
+	console.log( "highlight JSON loading success" );
+}
+
 
 // var websiteURL = "www.leighmans.com";
 // var websiteSplit = websiteURL.split(".");
@@ -276,10 +282,8 @@ function initDataTables(){
 	// harmful URLs
 	dataTableOne = $('#example3').dataTable( {
 		"bProcessing": true,
-		//"sAjaxSource": "/json/summary/"+websiteName+"_"+JSONfilename+".json",
-		"sAjaxSource": "http://api.mathsight.org/ms_api/v1/"+onOrOffsite+"?target=http%3A%2F%2Fwww."+websiteName+".com&metric=highlight&order=asc&count=10&token=ee04d5eef98cce541994b28cb05adfe29d4345bf",
-		"sAjaxDataProp": "result",
-		//"sAjaxDataProp": onOrOffsite,
+		"sAjaxSource": "/json/summary/"+websiteName+"_"+JSONfilename+".json",
+		"sAjaxDataProp": onOrOffsite,
 		"aaSorting": [[ 4, "desc" ]],
 		"sDom": "<'row-fluid'<'span6'T><'span6'f>r>t<'row-fluid'<'span6'i><'span6'p>>",
 		"oTableTools": {
