@@ -361,10 +361,8 @@ null, // number of healthy URLs 9
 $(document).ready(function(){
 	initDataTables();
 	/* all other page load code*/
-	
-	
 
-	var highlightJSON = $.getJSON( highlightFilename, function({"result" : "data"}) {
+	var highlightJSON = $.getJSON( highlightFilename, function() {
 		console.log( "highlight JSON loading success" );
 	})
 	.done(function() {
