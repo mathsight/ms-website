@@ -202,18 +202,6 @@ else {
 
 var highlightFilename = "http://api.mathsight.org/ms_api/v1/"+onOrOffsite+"?target=http%3A%2F%2Fwww."+websiteName+".com&metric=highlight&order=asc&count=10&token=ee04d5eef98cce541994b28cb05adfe29d4345bf"
 
-var highlightJSON = $.getJSON( highlightFilename, function(results) {
-	console.log( "highlight JSON loading success" );
-})
-.done(function() {
-	console.log( "second success" );
-})
-.fail(function() {
-	console.log( "error" );
-})
-.always(function() {
-	console.log( "complete" );
-});
 
 
 // var websiteURL = "www.leighmans.com";
@@ -350,20 +338,20 @@ dataTableTwo = $('#example3b').dataTable( {
 	null,
 	{ "mData": null , //its null here because history column will contain the mRender
 	"mRender" : function ( data, type, full) {
-			return '<a href="SQ_drilldown.html?=' + websiteName + '&='+ full[1] + '&='+ onOrOffsite+'&=healthy' +'">'+full[1]+'</a>';
-		}
-	},
-	{"bVisible": false}, //losing mean
-	null, //winning mean
-	{"bVisible": false}, // losing stdev
-	{"bVisible": false},// winning  stdev	 
-	{"bVisible": false}, // number of harmful URLs
-	{"bVisible": false}, // harmful group feature mean
-	{"bVisible": false}, // harmful group average SQ
-	null, // number of healthy URLs
-	{"bVisible": false}, // healthy group feature mean
-	{"bVisible": false} // healthy group average SQ
-	]
+		return '<a href="SQ_drilldown.html?=' + websiteName + '&='+ full[1] + '&='+ onOrOffsite+'&=healthy' +'">'+full[1]+'</a>';
+	}
+},
+{"bVisible": false}, //losing mean
+null, //winning mean
+{"bVisible": false}, // losing stdev
+{"bVisible": false},// winning  stdev	 
+{"bVisible": false}, // number of harmful URLs
+{"bVisible": false}, // harmful group feature mean
+{"bVisible": false}, // harmful group average SQ
+null, // number of healthy URLs
+{"bVisible": false}, // healthy group feature mean
+{"bVisible": false} // healthy group average SQ
+]
 } );
 
 }
@@ -371,8 +359,24 @@ dataTableTwo = $('#example3b').dataTable( {
 /* within ready event of pageload */
 
 $(document).ready(function(){
-initDataTables();
-/* all other page load code*/
+	initDataTables();
+	/* all other page load code*/
+	
+	
+
+	var highlightJSON = $.getJSON( highlightFilename, function(results) {
+		console.log( "highlight JSON loading success" );
+	})
+	.done(function() {
+		console.log( "second success" );
+	})
+	.fail(function() {
+		console.log( "error" );
+	})
+	.always(function() {
+		console.log( "complete" );
+	});
+
 
 
 });
