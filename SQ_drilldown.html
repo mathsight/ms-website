@@ -131,6 +131,8 @@
 	var winStd = [];
 	var harmMean = [];
 	var healthMean = [];
+	var harmStd = [];
+	var healthStd = [];
 	var numLose = [];
 	var numWin = [];
 	var featInflus = [];
@@ -174,6 +176,8 @@
 					harmMean.push(blob[7]);
 					numWin.push(blob[9]);
 					healthMean.push(blob[10]);
+					harmStd.push(blob[12]);
+					healthStd.push(blob[13]);
 					// 
 					console.log("Losing mean = " + loseMean);
 					console.log("Winning mean = " + winMean);
@@ -215,6 +219,8 @@
 					harmMean.push(blob[7]);
 					numWin.push(blob[9]);
 					healthMean.push(blob[10]);
+					harmStd.push(blob[12]);
+					healthStd.push(blob[13]);
 					// 
 					// console.log("Losing mean = " + loseMean);
 					// 	console.log("Winning mean = " + winMean);
@@ -259,9 +265,18 @@
 			// console.log("Losing mean = " + loseMean + " mu2: " + mu);
 
 			sd2 = parseFloat(loseStd) || 1.5;
+			
+			if (healthOrHarm == 'healthy') {
+				mu3 = parseFloat(harmMean) || 3;
+				sd3 = parseFloat(harmStd) || 1.5;
+			} else if (healthOrHarm == 'healthy') {
+				mu3 = parseFloat(healthMean) || 3;
+				sd3 = parseFloat(healthStd) || 1.5;
+			}
 
-			ixMin = Math.round(Math.min(mu-3*sd,mu2-3*sd2));
-			ixMax = Math.round(Math.max(mu+3*sd,mu2+3*sd2));
+
+			ixMin = Math.round(Math.min(mu-3*sd,mu2-3*sd2,mu3-3*sd3));
+			ixMax = Math.round(Math.max(mu+3*sd,mu2+3*sd2,mu3+3*sd3));
 			ixRange = ixMax-ixMin;
 			ixInc = ixRange/100;
 
@@ -327,13 +342,14 @@
 	function normalDist() {
 		var iy = [];
 		var iy2 = [];
+		var iy3 = [];
 
 
 		for (var i = 0; i < ixMax; i+= ixInc) {
 
 			iy.push({x: i, y: (1/(sd*Math.sqrt(2*Math.PI)))* Math.exp(-Math.pow(i-mu,2)/(2*Math.pow(sd,2)))});
 			iy2.push({x: i, y: (1/(sd2*Math.sqrt(2*Math.PI)))* Math.exp(-Math.pow(i-mu2,2)/(2*Math.pow(sd2,2)))});
-
+			iy3.push({x: i, y: (1/(sd3*Math.sqrt(2*Math.PI)))* Math.exp(-Math.pow(i-mu3,2)/(2*Math.pow(sd3,2)))});
 		}
 
 
@@ -347,6 +363,11 @@
 			values: iy2,
 			key: 'Losing Distribution',
 			color: '#ff0000'
+		},
+		{
+			values: iy3,
+			key: 'This URL sub-Group',
+			color: '#0000ff'
 		}
 		];
 
