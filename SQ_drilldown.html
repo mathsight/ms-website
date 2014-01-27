@@ -727,15 +727,10 @@ rel="stylesheet" type="text/css">
 							  </script>
 						  </th>
 						  <th>
-							  <script>
-							  if (healthOrHarm == 'harmful'){
-								  document.write('Feature losing mean');
-							  }
-							  else {
-								  document.write('Feature winning mean');
-							  }
-							  </script>
-						  
+							  Feature losing mean
+						  </th>
+						  <th>
+							  Feature winning mean [TARGET]
 						  </th>
 						  <th>
 							  <script>
@@ -767,13 +762,13 @@ rel="stylesheet" type="text/css">
 							  </script>
 						  </td>
 						  <td>
-							  <script>
-							  if (healthOrHarm == 'harmful'){
-								  document.write(loseMean);
-							  }
-							  else {
-								  document.write(winMean);
-							  }
+							  <script> 
+							  document.write(loseMean);							 
+							  </script>
+						  </td>
+						  <td>
+							  <script>	
+							  document.write(winMean);
 							  </script>
 						  </td>
 						  <td><script>
