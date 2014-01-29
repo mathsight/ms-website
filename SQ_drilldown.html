@@ -133,8 +133,8 @@
 	var healthMean = [];
 	var harmStd = [];
 	var healthStd = [];
-	var numLose = [];
-	var numWin = [];
+	var numHarm = [];
+	var numHealth = [];
 	var featInflus = [];
 	var featInfl = [];
 	var iFeatNames = [];
@@ -174,15 +174,15 @@
 					winMean.push(blob[3]);
 					loseStd.push(blob[4]);
 					winStd.push(blob[5]);
-					numLose.push(blob[6]);
+					numHarm.push(blob[6]);
 					harmMean.push(blob[7]);
-					numWin.push(blob[9]);
+					numHealth.push(blob[9]);
 					healthMean.push(blob[10]);
 					harmStd.push(blob[12]);
 					healthStd.push(blob[13]);
 					// 
 					console.log("Harmful mean = " + harmMean + "Harmful stdev = " + harmStd);
-					console.log("Winning mean = " + winMean + "Healthy stdev = " + healthStd);
+					console.log("Healthy mean = " + healthMean + "Healthy stdev = " + healthStd);
 
 				}
 				else {
@@ -217,15 +217,15 @@
 					winMean.push(blob[3]);
 					loseStd.push(blob[4]);
 					winStd.push(blob[5]);
-					numLose.push(blob[6]);
+					numHarm.push(blob[6]);
 					harmMean.push(blob[7]);
-					numWin.push(blob[9]);
+					numHealth.push(blob[9]);
 					healthMean.push(blob[10]);
 					harmStd.push(blob[12]);
 					healthStd.push(blob[13]);
 					// 
 					console.log("Harmful mean = " + harmMean + "Harmful stdev = " + harmStd);
-					console.log("Winning mean = " + winMean + "Healthy stdev = " + healthStd);
+					console.log("Healthy mean = " + healthMean + "Healthy stdev = " + healthStd);
 				}
 				else {	
 					if (healthOrHarm == 'healthy' && parseInt(blob[9])>0){
@@ -791,9 +791,9 @@ rel="stylesheet" type="text/css">
 							  if (healthOrHarm == 'harmful'){
 								  document.write('This site feature mean (harmful group)');
 							  }
-							  else {
+							  else if (healthOrHarm == 'healthy'){
 								  document.write('This site feature mean (healthy group)');
-							  }
+							  };
 							  </script>  
 						  </th>
 					  </tr>
@@ -808,10 +808,10 @@ rel="stylesheet" type="text/css">
 						  <td>
 							  <script>
 							  if (healthOrHarm == 'harmful'){
-								  document.write(numLose);
+								  document.write(numHarm);
 							  }
-							  else {
-								  document.write(numWin);
+							  else if (healthOrHarm == 'healthy'){
+								  document.write(numHealth);
 							  }
 							  </script>
 						  </td>
@@ -829,7 +829,7 @@ rel="stylesheet" type="text/css">
 							  if (healthOrHarm == 'harmful'){
 								  document.write(harmMean);
 							  }
-							  else {
+							  else if (healthOrHarm == 'healthy'){
 								  document.write(healthMean);
 							  }
 							  </script>
