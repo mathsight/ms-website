@@ -322,19 +322,33 @@
 	
 	// -----------------------------
 	
-	function makeSwitch() {
+	function makeSwitchSite() {
 
 		if (onOrOffsite == 'onsite') {
-			urlToOpen = "SQ_drilldown.html?="+websiteName+"&="+featureName+"&=offsite&="+healthOrHarm;
+			switchOnOff = 'offsite';
 		}
 		else if (onOrOffsite == 'offsite') {
-			urlToOpen = "SQ_drilldown.html?="+websiteName+"&="+featureName+"&=onsite&="+healthOrHarm;
+			switchOnOff = 'onsite';
 		};
+		
+		urlToOpen = "SQ_drilldown.html?="+websiteName+"&="+featureName+"&="+switchOnOff+"&="+healthOrHarm;
 		window.open(urlToOpen);
 		
 	};
 
+	function makeSwitchHealth() {
 
+		if (healthOrHarm == 'healthy') {
+			switchHealth = 'harmful';
+		}
+		else if (healthOrHarm == 'harmful') {
+			switchHealth = 'healthy';
+		};
+		
+		urlToOpen = "SQ_drilldown.html?="+websiteName+"&="+featureName+"&="+onOrOffsite+"&="+switchHealth;
+		window.open(urlToOpen);
+		
+	};
 	
 
 	// -----------------------------
@@ -692,12 +706,22 @@ rel="stylesheet" type="text/css">
 			  
 			  <br>
 			  
-			  <button onclick="makeSwitch()" type="submit" class="btn btn-primary" id="switchOnOff">
-				  <script> if (onOrOffsite == "offsite")
-				  			  {document.write('Switch to onsite');}
-				  			  else {
-				  			  	document.write('Switch to offsite');
-				  			  };
+			  <button onclick="makeSwitchSite()" type="submit" class="btn btn-primary" id="switchOnOff">
+				  <script> if (onOrOffsite == "offsite"){
+					  document.write('Switch to onsite');
+				  }
+				  else {
+					  document.write('Switch to offsite');
+				  };
+				  </script>		  
+			  </button>
+			  <button onclick="makeSwitchHealth()" type="submit" class="btn btn-primary" id="switchHealthHarm">
+				  <script> if (healthOrHarm == "healthy"){
+					  document.write('Switch to harmful');
+				  }
+				  else {
+					  document.write('Switch to healthy');
+				  };
 				  </script>		  
 			  </button>
 			  
