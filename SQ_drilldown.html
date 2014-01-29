@@ -153,7 +153,7 @@
 	
 	var blobArray = [];
 	
-	console.log("The site type is " + onOrOffsite)
+	console.log("The site type is " + onOrOffsite);
 	
 	var featureJSON = $.getJSON( highlightFilename, function(results) {
 		console.log( "feature JSON loading success" );
@@ -181,8 +181,8 @@
 					harmStd.push(blob[12]);
 					healthStd.push(blob[13]);
 					// 
-					console.log("Losing mean = " + loseMean);
-					console.log("Winning mean = " + winMean);
+					console.log("Harmful mean = " + harmMean + "Harmful stdev = " + harmStd);
+					console.log("Winning mean = " + winMean + "Healthy stdev = " + healthStd);
 
 				}
 				else {
@@ -224,8 +224,8 @@
 					harmStd.push(blob[12]);
 					healthStd.push(blob[13]);
 					// 
-					// console.log("Losing mean = " + loseMean);
-					// 	console.log("Winning mean = " + winMean);
+					console.log("Harmful mean = " + harmMean + "Harmful stdev = " + harmStd);
+					console.log("Winning mean = " + winMean + "Healthy stdev = " + healthStd);
 				}
 				else {	
 					if (healthOrHarm == 'healthy' && parseInt(blob[9])>0){
@@ -279,11 +279,9 @@
 
 			ixMin = Math.round(Math.min(mu-3*sd,mu2-3*sd2));
 			ixMax = Math.round(Math.max(mu+3*sd,mu2+3*sd2));
-			ixRange = ixMax-ixMin;
+			ixRange = ixMax-0;
 			ixInc = ixRange/100;
 
-		
-		
 		
 			var selectFeature = document.getElementById("selectFeat"); 
 			// console.log('Length of iFeatNames = '+ iFeatNames.length);
@@ -528,8 +526,6 @@ $(document).ready(function(){
 <script src="src/models/legend.js"></script>
 <script src="src/models/line.js"></script>
 <script src="src/models/axis.js"></script>
-<script src="src/models/multiBarHorizontal.js"></script>
-<script src="src/models/multiBarHorizontalChart.js"></script>
 <script src="assets/js/stream_layers.js"></script>
 
 <link href="http://fonts.googleapis.com/css?family=Ubuntu:300,400,500,700,300italic,400italic,500italic,700italic" rel="stylesheet" type="text/css">

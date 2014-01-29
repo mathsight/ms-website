@@ -272,8 +272,8 @@ jQuery(document).ready(function($) {
 	
 var dataTableOne;
 var dataTableTwo;
-var dataTableThree;
-var dataTableFour;
+// var dataTableThree;
+// var dataTableFour;
 
 function initDataTables(){
 	// harmful URLs
@@ -379,28 +379,43 @@ $(document).ready(function(){
 		console.log( "complete" );
 	});
 
+	nv.addGraph(function() {  
+		var lineChart = nv.models.lineChart();
+		lineChart.xAxis
+		.axisLabel(featureName)
+		.tickFormat(d3.format(',r'));
+
+		lineChart.yAxis
+		.axisLabel('Frequency')
+		.tickFormat(d3.format('.02f'));
+ 
+		d3.select('#lineChart svg')
+		.datum(normalDist())
+		.transition().duration(500)
+		.call(lineChart);
+
+		nv.utils.windowResize(function() { d3.select('#lineChart svg').call(lineChart) });
+
+		return lineChart;
+	});
 
 
 });
 	
 </script>
 	
+<script src="lib/d3.v3.js"></script>
+<script src="assets/js/nv.d3.js"></script>
+<script src="src/utils.js"></script>
+<script src="src/tooltip.js"></script>
+<script src="src/models/legend.js"></script>
+<script src="src/models/line.js"></script>
+<script src="src/models/axis.js"></script>
+<script src="src/models/multiBarHorizontal.js"></script>
+<script src="src/models/multiBarHorizontalChart.js"></script>
+<script src="assets/js/stream_layers.js"></script>
 
-	<script src="lib/d3.v3.js"></script>
-	<script src="assets/js/nv.d3.js"></script>
-	<script src="src/utils.js"></script>
-	<script src="src/tooltip.js"></script>
-	<script src="src/models/legend.js"></script>
-	<script src="src/models/axis.js"></script>
-	<script src="src/models/multiBarHorizontal.js"></script>
-	<script src="src/models/multiBarHorizontalChart.js"></script>
-	<script src="assets/js/stream_layers.js"></script>
-
-		<script>
-
-
-
-
+<script>
 
 d3.json(topLevelFile, function(data) {
 
@@ -434,7 +449,7 @@ d3.json(topLevelFile, function(data) {
 
 });
 
-
+// re draw barchart
 
 redrawGraph = function(file) {
   d3.json(file, function(data) {
@@ -465,13 +480,64 @@ redrawGraph = function(file) {
     
 };
 
+// line graph comparing website to (a) overall dataset and (b) this site 'type' ---> competitor site
+
+var sd = 0.5;
+var sd2 = 0.8;
+var sd3 = 1.9;
+var mu = -0.25;
+var mu2 = -0.3;
+var mu3 = 0.1;
+
+var ixMin = Math.round(Math.min(mu-3*sd,mu2-3*sd2));
+var ixMax = Math.round(Math.max(mu+3*sd,mu2+3*sd2));
+var ixRange = ixMax-ixMin;
+var ixInc = ixRange/100;
+
+// ----------------------
+// normal distribution
+
+function normalDist() {
+	var iy = [];
+	var iy2 = [];
+	var iy3 = [];
+
+
+	for (var i = 0; i < ixMax; i+= ixInc) {
+
+		iy.push({x: i, y: (1/(sd*Math.sqrt(2*Math.PI)))* Math.exp(-Math.pow(i-mu,2)/(2*Math.pow(sd,2)))});
+		iy2.push({x: i, y: (1/(sd2*Math.sqrt(2*Math.PI)))* Math.exp(-Math.pow(i-mu2,2)/(2*Math.pow(sd2,2)))});
+		iy3.push({x: i, y: (1/(sd3*Math.sqrt(2*Math.PI)))* Math.exp(-Math.pow(i-mu3,2)/(2*Math.pow(sd3,2)))});
+	}
+
+
+	return [
+	{
+		values: iy,
+		key: 'This domain SQ',
+		color: '#00cc00'
+	},
+	{
+		values: iy2,
+		key: 'Similar domain type group SQ',
+		color: '#ff0000'
+	},
+	{
+		values: iy3,
+		key: 'All websites',
+		color: '#0000ff'
+	}
+	];
+	
+
+};
+
+// -------------------
+
+
+
 </script>
 	
-	
-	<!-- <script class="code" type="text/javascript">
-	
-	$("#content span").html("World!");
-	</script> -->
 	
 
   </head>
@@ -556,7 +622,12 @@ redrawGraph = function(file) {
 			<p></p>
 		</div>
 
+		<div id="lineChart" class='with-3d-shadow with-transitions'>
+			<svg></svg>
+		</div>
 
+		<br><br>
+		<hr>
 		<div id="chart1" class='with-3d-shadow with-transitions'>
 			<svg></svg>
 		</div>
