@@ -705,26 +705,26 @@ rel="stylesheet" type="text/css">
 			  </script></h2>
 			  
 			  <br>
-			  
-			  <button onclick="makeSwitchSite()" type="submit" class="btn btn-primary" id="switchOnOff">
-				  <script> if (onOrOffsite == "offsite"){
-					  document.write('Switch to onsite');
-				  }
-				  else {
-					  document.write('Switch to offsite');
-				  };
-				  </script>		  
-			  </button>
-			  <button onclick="makeSwitchHealth()" type="submit" class="btn btn-primary" id="switchHealthHarm">
-				  <script> if (healthOrHarm == "healthy"){
-					  document.write('Switch to harmful');
-				  }
-				  else {
-					  document.write('Switch to healthy');
-				  };
-				  </script>		  
-			  </button>
-			  
+			  <div class="btn-group">
+				  <button onclick="makeSwitchSite()" type="submit" class="btn btn-primary" id="switchOnOff">
+					  <script> if (onOrOffsite == "offsite"){
+						  document.write('Switch to onsite');
+					  }
+					  else {
+						  document.write('Switch to offsite');
+					  };
+					  </script>		  
+				  </button>
+				  <button onclick="makeSwitchHealth()" type="submit" class="btn btn-warning" id="switchHealthHarm">
+					  <script> if (healthOrHarm == "healthy"){
+						  document.write('Switch to harmful');
+					  }
+					  else {
+						  document.write('Switch to healthy');
+					  };
+					  </script>		  
+				  </button>
+			  </div>
 			  <hr>
 			  
 		  <p><script>document.write("assessed according to feature: "+ featureNameCaps);</script></p>
