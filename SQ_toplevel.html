@@ -379,10 +379,12 @@ $(document).ready(function(){
 		console.log( "complete" );
 	});
 
+
+	// draw linechart with three normal distributions
 	nv.addGraph(function() {  
 		var lineChart = nv.models.lineChart();
 		lineChart.xAxis
-		.axisLabel(featureName)
+		.axisLabel('StatSEO metric')
 		.tickFormat(d3.format(',r'));
 
 		lineChart.yAxis
