@@ -2,309 +2,215 @@
 	"healthy": {
 		"average_backlink_dale_chall_readability": [
 			{
-				"html_id": "http://www.streamingvideoprovider.com/de/video-tracking-google-analytics.html",
-				"feature_value": "0",
-				"cluster_win_mean": "8.69",
-				"delta": "8.69"
-			},
-			{
-				"html_id": "http://www.streamingvideoprovider.com/es/video-tracking-google-analytics.html",
-				"feature_value": "0",
-				"cluster_win_mean": "8.69",
-				"delta": "8.69"
-			},
-			{
-				"html_id": "http://www.streamingvideoprovider.com/de/customers-case-study-streamingvideoprovider.html",
-				"feature_value": "0",
-				"cluster_win_mean": "8.69",
-				"delta": "8.69"
-			},
-			{
-				"html_id": "http://www.streamingvideoprovider.com/es/customers-case-study-streamingvideoprovider.html",
-				"feature_value": "0",
-				"cluster_win_mean": "8.69",
-				"delta": "8.69"
-			},
-			{
-				"html_id": "http://www.streamingvideoprovider.com/de/ppv_system_demo_pay_per_view.html",
-				"feature_value": "0",
-				"cluster_win_mean": "8.22",
-				"delta": "8.22"
-			},
-			{
-				"html_id": "http://www.streamingvideoprovider.com/es/ppv_system_demo_pay_per_view.html",
-				"feature_value": "0",
-				"cluster_win_mean": "8.22",
-				"delta": "8.22"
-			},
-			{
 				"html_id": "http://www.streamingvideoprovider.com/streaming-video-players.html#webcast",
 				"feature_value": "0",
-				"cluster_win_mean": "8.22",
-				"delta": "8.22"
+				"cluster_win_mean": "17.22",
+				"delta": "17.22"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com/kb/index.php/category/live-streaming-broadcasting-1#p78",
 				"feature_value": "0",
-				"cluster_win_mean": "8.22",
-				"delta": "8.22"
+				"cluster_win_mean": "17.22",
+				"delta": "17.22"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com/kb/index.php/category/live-streaming-broadcasting-1#p117",
 				"feature_value": "0",
-				"cluster_win_mean": "8.22",
-				"delta": "8.22"
-			},
-			{
-				"html_id": "http://www.streamingvideoprovider.com/de/domain-name-video-security.html",
-				"feature_value": "0",
-				"cluster_win_mean": "8.69",
-				"delta": "8.69"
-			},
-			{
-				"html_id": "http://www.streamingvideoprovider.com/es/domain-name-video-security.html",
-				"feature_value": "0",
-				"cluster_win_mean": "8.69",
-				"delta": "8.69"
-			},
-			{
-				"html_id": "http://www.streamingvideoprovider.com/de/streaming-video-reseller-panel-overview.html",
-				"feature_value": "0",
-				"cluster_win_mean": "8.69",
-				"delta": "8.69"
-			},
-			{
-				"html_id": "http://www.streamingvideoprovider.com#overview",
-				"feature_value": "0",
-				"cluster_win_mean": "8.69",
-				"delta": "8.69"
-			},
-			{
-				"html_id": "http://www.streamingvideoprovider.com#benefits",
-				"feature_value": "0",
-				"cluster_win_mean": "8.69",
-				"delta": "8.69"
-			},
-			{
-				"html_id": "http://www.streamingvideoprovider.com#how-it-works",
-				"feature_value": "0",
-				"cluster_win_mean": "8.69",
-				"delta": "8.69"
-			},
-			{
-				"html_id": "http://www.streamingvideoprovider.com#demo",
-				"feature_value": "0",
-				"cluster_win_mean": "8.69",
-				"delta": "8.69"
-			},
-			{
-				"html_id": "http://www.streamingvideoprovider.com#apply",
-				"feature_value": "0",
-				"cluster_win_mean": "8.69",
-				"delta": "8.69"
-			}
-		],
-		"average_backlink_flesch_reading_ease": [
-			{
-				"html_id": "http://www.streamingvideoprovider.com/de/live-video-streaming-live-broadcasting.html",
-				"feature_value": "0",
-				"cluster_win_mean": "39.56",
-				"delta": "39.56"
-			},
-			{
-				"html_id": "http://www.streamingvideoprovider.com/es/live-video-streaming-live-broadcasting.html",
-				"feature_value": "0",
-				"cluster_win_mean": "39.56",
-				"delta": "39.56"
-			},
-			{
-				"html_id": "http://www.streamingvideoprovider.com/es/streaming-video-reseller-panel-overview.html",
-				"feature_value": "0",
-				"cluster_win_mean": "39.56",
-				"delta": "39.56"
-			}
-		],
-		"average_backlink_flesch_kincaid_grade": [
-			{
-				"html_id": "http://www.streamingvideoprovider.com/de/video-tracking-google-analytics.html",
-				"feature_value": "0",
-				"cluster_win_mean": "11.54",
-				"delta": "11.54"
-			},
-			{
-				"html_id": "http://www.streamingvideoprovider.com/es/video-tracking-google-analytics.html",
-				"feature_value": "0",
-				"cluster_win_mean": "11.54",
-				"delta": "11.54"
-			},
-			{
-				"html_id": "http://www.streamingvideoprovider.com/de/customers-case-study-streamingvideoprovider.html",
-				"feature_value": "0",
-				"cluster_win_mean": "11.54",
-				"delta": "11.54"
-			},
-			{
-				"html_id": "http://www.streamingvideoprovider.com/es/customers-case-study-streamingvideoprovider.html",
-				"feature_value": "0",
-				"cluster_win_mean": "11.54",
-				"delta": "11.54"
-			},
-			{
-				"html_id": "http://www.streamingvideoprovider.com/de/ppv_system_demo_pay_per_view.html",
-				"feature_value": "0",
-				"cluster_win_mean": "10.67",
-				"delta": "10.67"
-			},
-			{
-				"html_id": "http://www.streamingvideoprovider.com/es/ppv_system_demo_pay_per_view.html",
-				"feature_value": "0",
-				"cluster_win_mean": "10.67",
-				"delta": "10.67"
-			},
-			{
-				"html_id": "http://www.streamingvideoprovider.com/streaming-video-players.html#webcast",
-				"feature_value": "0",
-				"cluster_win_mean": "10.67",
-				"delta": "10.67"
-			},
-			{
-				"html_id": "http://www.streamingvideoprovider.com/kb/index.php/category/live-streaming-broadcasting-1#p78",
-				"feature_value": "0",
-				"cluster_win_mean": "10.67",
-				"delta": "10.67"
-			},
-			{
-				"html_id": "http://www.streamingvideoprovider.com/kb/index.php/category/live-streaming-broadcasting-1#p117",
-				"feature_value": "0",
-				"cluster_win_mean": "10.67",
-				"delta": "10.67"
-			},
-			{
-				"html_id": "http://www.streamingvideoprovider.com/de/domain-name-video-security.html",
-				"feature_value": "0",
-				"cluster_win_mean": "11.54",
-				"delta": "11.54"
-			},
-			{
-				"html_id": "http://www.streamingvideoprovider.com/es/domain-name-video-security.html",
-				"feature_value": "0",
-				"cluster_win_mean": "11.54",
-				"delta": "11.54"
-			},
-			{
-				"html_id": "http://www.streamingvideoprovider.com/de/streaming-video-reseller-panel-overview.html",
-				"feature_value": "0",
-				"cluster_win_mean": "11.54",
-				"delta": "11.54"
-			},
-			{
-				"html_id": "http://www.streamingvideoprovider.com#overview",
-				"feature_value": "0",
-				"cluster_win_mean": "11.54",
-				"delta": "11.54"
-			},
-			{
-				"html_id": "http://www.streamingvideoprovider.com#benefits",
-				"feature_value": "0",
-				"cluster_win_mean": "11.54",
-				"delta": "11.54"
-			},
-			{
-				"html_id": "http://www.streamingvideoprovider.com#how-it-works",
-				"feature_value": "0",
-				"cluster_win_mean": "11.54",
-				"delta": "11.54"
-			},
-			{
-				"html_id": "http://www.streamingvideoprovider.com#demo",
-				"feature_value": "0",
-				"cluster_win_mean": "11.54",
-				"delta": "11.54"
-			},
-			{
-				"html_id": "http://www.streamingvideoprovider.com#apply",
-				"feature_value": "0",
-				"cluster_win_mean": "11.54",
-				"delta": "11.54"
+				"cluster_win_mean": "17.22",
+				"delta": "17.22"
 			}
 		],
 		"maximum_length_of_h1": [
 			{
-				"html_id": "http://www.streamingvideoprovider.com/de/ppv_system_demo_pay_per_view.html",
-				"feature_value": "0",
-				"cluster_win_mean": "39.12",
-				"delta": "39.12"
+				"html_id": "http://www.streamingvideoprovider.com/de/video-tracking-google-analytics.html",
+				"feature_value": "46",
+				"cluster_win_mean": "24.98",
+				"delta": "-21.02"
 			},
 			{
-				"html_id": "http://www.streamingvideoprovider.com/es/ppv_system_demo_pay_per_view.html",
-				"feature_value": "0",
-				"cluster_win_mean": "39.12",
-				"delta": "39.12"
+				"html_id": "http://www.streamingvideoprovider.com/es/video-tracking-google-analytics.html",
+				"feature_value": "47",
+				"cluster_win_mean": "24.98",
+				"delta": "-22.02"
 			},
-			{
-				"html_id": "http://www.streamingvideoprovider.com/streaming-video-players.html#webcast",
-				"feature_value": "0",
-				"cluster_win_mean": "39.12",
-				"delta": "39.12"
-			}
-		],
-		"average_length_of_h1": [
 			{
 				"html_id": "http://www.streamingvideoprovider.com/de/customers-case-study-streamingvideoprovider.html",
 				"feature_value": "11",
-				"cluster_win_mean": "48.79",
-				"delta": "37.79"
+				"cluster_win_mean": "24.98",
+				"delta": " 13.98"
+			},
+			{
+				"html_id": "http://www.streamingvideoprovider.com/es/customers-case-study-streamingvideoprovider.html",
+				"feature_value": "16",
+				"cluster_win_mean": "24.98",
+				"delta": "  8.98"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com/de/ppv_system_demo_pay_per_view.html",
 				"feature_value": " 0",
-				"cluster_win_mean": "38.81",
-				"delta": "38.81"
+				"cluster_win_mean": "24.98",
+				"delta": " 24.98"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com/es/ppv_system_demo_pay_per_view.html",
 				"feature_value": " 0",
-				"cluster_win_mean": "38.81",
-				"delta": "38.81"
+				"cluster_win_mean": "24.98",
+				"delta": " 24.98"
 			},
 			{
-				"html_id": "http://www.streamingvideoprovider.com/streaming-video-players.html#webcast",
-				"feature_value": " 0",
-				"cluster_win_mean": "38.81",
-				"delta": "38.81"
+				"html_id": "http://www.streamingvideoprovider.com/es/domain-name-video-security.html",
+				"feature_value": "54",
+				"cluster_win_mean": "24.98",
+				"delta": "-29.02"
+			},
+			{
+				"html_id": "http://www.streamingvideoprovider.com/de/streaming-video-reseller-panel-overview.html",
+				"feature_value": "35",
+				"cluster_win_mean": "24.98",
+				"delta": "-10.02"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com#overview",
 				"feature_value": " 0",
-				"cluster_win_mean": "48.79",
-				"delta": "48.79"
+				"cluster_win_mean": "24.98",
+				"delta": " 24.98"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com#benefits",
 				"feature_value": " 0",
-				"cluster_win_mean": "48.79",
-				"delta": "48.79"
+				"cluster_win_mean": "24.98",
+				"delta": " 24.98"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com#how-it-works",
 				"feature_value": " 0",
-				"cluster_win_mean": "48.79",
-				"delta": "48.79"
+				"cluster_win_mean": "24.98",
+				"delta": " 24.98"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com#demo",
 				"feature_value": " 0",
-				"cluster_win_mean": "48.79",
-				"delta": "48.79"
+				"cluster_win_mean": "24.98",
+				"delta": " 24.98"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com#apply",
 				"feature_value": " 0",
-				"cluster_win_mean": "48.79",
-				"delta": "48.79"
+				"cluster_win_mean": "24.98",
+				"delta": " 24.98"
+			}
+		],
+		"average_length_of_h1": [
+			{
+				"html_id": "http://www.streamingvideoprovider.com/de/video-tracking-google-analytics.html",
+				"feature_value": "46",
+				"cluster_win_mean": "21.19",
+				"delta": "-24.81"
+			},
+			{
+				"html_id": "http://www.streamingvideoprovider.com/es/video-tracking-google-analytics.html",
+				"feature_value": "47",
+				"cluster_win_mean": "21.19",
+				"delta": "-25.81"
+			},
+			{
+				"html_id": "http://www.streamingvideoprovider.com/de/customers-case-study-streamingvideoprovider.html",
+				"feature_value": "11",
+				"cluster_win_mean": "21.19",
+				"delta": " 10.19"
+			},
+			{
+				"html_id": "http://www.streamingvideoprovider.com/es/customers-case-study-streamingvideoprovider.html",
+				"feature_value": "16",
+				"cluster_win_mean": "21.19",
+				"delta": "  5.19"
+			},
+			{
+				"html_id": "http://www.streamingvideoprovider.com/de/ppv_system_demo_pay_per_view.html",
+				"feature_value": " 0",
+				"cluster_win_mean": "21.19",
+				"delta": " 21.19"
+			},
+			{
+				"html_id": "http://www.streamingvideoprovider.com/es/ppv_system_demo_pay_per_view.html",
+				"feature_value": " 0",
+				"cluster_win_mean": "21.19",
+				"delta": " 21.19"
+			},
+			{
+				"html_id": "http://www.streamingvideoprovider.com/streaming-video-players.html#webcast",
+				"feature_value": " 0",
+				"cluster_win_mean": "50.38",
+				"delta": " 50.38"
+			},
+			{
+				"html_id": "http://www.streamingvideoprovider.com/es/domain-name-video-security.html",
+				"feature_value": "54",
+				"cluster_win_mean": "21.19",
+				"delta": "-32.81"
+			},
+			{
+				"html_id": "http://www.streamingvideoprovider.com/de/streaming-video-reseller-panel-overview.html",
+				"feature_value": "35",
+				"cluster_win_mean": "21.19",
+				"delta": "-13.81"
+			},
+			{
+				"html_id": "http://www.streamingvideoprovider.com#overview",
+				"feature_value": " 0",
+				"cluster_win_mean": "21.19",
+				"delta": " 21.19"
+			},
+			{
+				"html_id": "http://www.streamingvideoprovider.com#benefits",
+				"feature_value": " 0",
+				"cluster_win_mean": "21.19",
+				"delta": " 21.19"
+			},
+			{
+				"html_id": "http://www.streamingvideoprovider.com#how-it-works",
+				"feature_value": " 0",
+				"cluster_win_mean": "21.19",
+				"delta": " 21.19"
+			},
+			{
+				"html_id": "http://www.streamingvideoprovider.com#demo",
+				"feature_value": " 0",
+				"cluster_win_mean": "21.19",
+				"delta": " 21.19"
+			},
+			{
+				"html_id": "http://www.streamingvideoprovider.com#apply",
+				"feature_value": " 0",
+				"cluster_win_mean": "21.19",
+				"delta": " 21.19"
 			}
 		],
 		"number_of_root_relative_internal_links": [
+			{
+				"html_id": "http://www.streamingvideoprovider.com/de/video-tracking-google-analytics.html",
+				"feature_value": "0",
+				"cluster_win_mean": "0",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.streamingvideoprovider.com/es/video-tracking-google-analytics.html",
+				"feature_value": "0",
+				"cluster_win_mean": "0",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.streamingvideoprovider.com/de/customers-case-study-streamingvideoprovider.html",
+				"feature_value": "0",
+				"cluster_win_mean": "0",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.streamingvideoprovider.com/es/customers-case-study-streamingvideoprovider.html",
+				"feature_value": "0",
+				"cluster_win_mean": "0",
+				"delta": "0"
+			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com/de/ppv_system_demo_pay_per_view.html",
 				"feature_value": "0",
@@ -330,25 +236,55 @@
 				"delta": "0"
 			},
 			{
-				"html_id": "http://www.streamingvideoprovider.com/streaming-video-players.html#webcast",
+				"html_id": "http://www.streamingvideoprovider.com/de/domain-name-video-security.html",
 				"feature_value": "0",
 				"cluster_win_mean": "0",
 				"delta": "0"
 			},
 			{
-				"html_id": "http://www.streamingvideoprovider.com/kb/index.php/category/live-streaming-broadcasting-1#p78",
+				"html_id": "http://www.streamingvideoprovider.com/es/domain-name-video-security.html",
 				"feature_value": "0",
 				"cluster_win_mean": "0",
 				"delta": "0"
 			},
 			{
-				"html_id": "http://www.streamingvideoprovider.com/kb/index.php/category/live-streaming-broadcasting-1#p117",
+				"html_id": "http://www.streamingvideoprovider.com/de/streaming-video-reseller-panel-overview.html",
 				"feature_value": "0",
 				"cluster_win_mean": "0",
 				"delta": "0"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com/es/streaming-video-reseller-panel-overview.html",
+				"feature_value": "0",
+				"cluster_win_mean": "0",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.streamingvideoprovider.com#overview",
+				"feature_value": "0",
+				"cluster_win_mean": "0",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.streamingvideoprovider.com#benefits",
+				"feature_value": "0",
+				"cluster_win_mean": "0",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.streamingvideoprovider.com#how-it-works",
+				"feature_value": "0",
+				"cluster_win_mean": "0",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.streamingvideoprovider.com#demo",
+				"feature_value": "0",
+				"cluster_win_mean": "0",
+				"delta": "0"
+			},
+			{
+				"html_id": "http://www.streamingvideoprovider.com#apply",
 				"feature_value": "0",
 				"cluster_win_mean": "0",
 				"delta": "0"
@@ -358,324 +294,274 @@
 			{
 				"html_id": "http://www.streamingvideoprovider.com/de/ppv_system_demo_pay_per_view.html",
 				"feature_value": "67",
-				"cluster_win_mean": "49.87",
-				"delta": "-17.13"
+				"cluster_win_mean": "71.62",
+				"delta": "4.62"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com/es/ppv_system_demo_pay_per_view.html",
 				"feature_value": "67",
-				"cluster_win_mean": "49.87",
-				"delta": "-17.13"
+				"cluster_win_mean": "71.62",
+				"delta": "4.62"
 			}
 		],
 		"number_of_hyperlinks_with_file": [
 			{
+				"html_id": "http://www.streamingvideoprovider.com/de/video-tracking-google-analytics.html",
+				"feature_value": "55",
+				"cluster_win_mean": "8.64",
+				"delta": "-46.36"
+			},
+			{
+				"html_id": "http://www.streamingvideoprovider.com/es/video-tracking-google-analytics.html",
+				"feature_value": "42",
+				"cluster_win_mean": "8.64",
+				"delta": "-33.36"
+			},
+			{
+				"html_id": "http://www.streamingvideoprovider.com/de/customers-case-study-streamingvideoprovider.html",
+				"feature_value": "56",
+				"cluster_win_mean": "8.64",
+				"delta": "-47.36"
+			},
+			{
+				"html_id": "http://www.streamingvideoprovider.com/es/customers-case-study-streamingvideoprovider.html",
+				"feature_value": "56",
+				"cluster_win_mean": "8.64",
+				"delta": "-47.36"
+			},
+			{
 				"html_id": "http://www.streamingvideoprovider.com/de/ppv_system_demo_pay_per_view.html",
 				"feature_value": "40",
-				"cluster_win_mean": "7.66",
-				"delta": "-32.34"
+				"cluster_win_mean": "8.64",
+				"delta": "-31.36"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com/es/ppv_system_demo_pay_per_view.html",
 				"feature_value": "40",
-				"cluster_win_mean": "7.66",
-				"delta": "-32.34"
+				"cluster_win_mean": "8.64",
+				"delta": "-31.36"
+			},
+			{
+				"html_id": "http://www.streamingvideoprovider.com/de/live-video-streaming-live-broadcasting.html",
+				"feature_value": "55",
+				"cluster_win_mean": "8.64",
+				"delta": "-46.36"
+			},
+			{
+				"html_id": "http://www.streamingvideoprovider.com/es/live-video-streaming-live-broadcasting.html",
+				"feature_value": "55",
+				"cluster_win_mean": "8.64",
+				"delta": "-46.36"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com/kb/index.php/category/live-streaming-broadcasting-1#p78",
 				"feature_value": " 9",
-				"cluster_win_mean": "7.66",
-				"delta": " -1.34"
+				"cluster_win_mean": "6.25",
+				"delta": " -2.75"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com/kb/index.php/category/live-streaming-broadcasting-1#p117",
 				"feature_value": " 9",
-				"cluster_win_mean": "7.66",
-				"delta": " -1.34"
+				"cluster_win_mean": "6.25",
+				"delta": " -2.75"
+			},
+			{
+				"html_id": "http://www.streamingvideoprovider.com/de/domain-name-video-security.html",
+				"feature_value": "54",
+				"cluster_win_mean": "8.64",
+				"delta": "-45.36"
+			},
+			{
+				"html_id": "http://www.streamingvideoprovider.com/es/domain-name-video-security.html",
+				"feature_value": "41",
+				"cluster_win_mean": "8.64",
+				"delta": "-32.36"
+			},
+			{
+				"html_id": "http://www.streamingvideoprovider.com/de/streaming-video-reseller-panel-overview.html",
+				"feature_value": "46",
+				"cluster_win_mean": "8.64",
+				"delta": "-37.36"
+			},
+			{
+				"html_id": "http://www.streamingvideoprovider.com/es/streaming-video-reseller-panel-overview.html",
+				"feature_value": "49",
+				"cluster_win_mean": "8.64",
+				"delta": "-40.36"
 			}
 		],
 		"number_of_images": [
 			{
 				"html_id": "http://www.streamingvideoprovider.com/de/video-tracking-google-analytics.html",
 				"feature_value": "0",
-				"cluster_win_mean": "17.36",
-				"delta": "17.36"
+				"cluster_win_mean": "6.76",
+				"delta": "6.76"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com/es/video-tracking-google-analytics.html",
 				"feature_value": "0",
-				"cluster_win_mean": "17.36",
-				"delta": "17.36"
+				"cluster_win_mean": "6.76",
+				"delta": "6.76"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com/de/customers-case-study-streamingvideoprovider.html",
 				"feature_value": "0",
-				"cluster_win_mean": "17.36",
-				"delta": "17.36"
+				"cluster_win_mean": "6.76",
+				"delta": "6.76"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com/es/customers-case-study-streamingvideoprovider.html",
 				"feature_value": "0",
-				"cluster_win_mean": "17.36",
-				"delta": "17.36"
+				"cluster_win_mean": "6.76",
+				"delta": "6.76"
+			},
+			{
+				"html_id": "http://www.streamingvideoprovider.com/de/ppv_system_demo_pay_per_view.html",
+				"feature_value": "0",
+				"cluster_win_mean": "6.76",
+				"delta": "6.76"
+			},
+			{
+				"html_id": "http://www.streamingvideoprovider.com/es/ppv_system_demo_pay_per_view.html",
+				"feature_value": "0",
+				"cluster_win_mean": "6.76",
+				"delta": "6.76"
+			},
+			{
+				"html_id": "http://www.streamingvideoprovider.com/de/live-video-streaming-live-broadcasting.html",
+				"feature_value": "0",
+				"cluster_win_mean": "6.76",
+				"delta": "6.76"
+			},
+			{
+				"html_id": "http://www.streamingvideoprovider.com/es/live-video-streaming-live-broadcasting.html",
+				"feature_value": "0",
+				"cluster_win_mean": "6.76",
+				"delta": "6.76"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com/de/domain-name-video-security.html",
 				"feature_value": "0",
-				"cluster_win_mean": "17.36",
-				"delta": "17.36"
+				"cluster_win_mean": "6.76",
+				"delta": "6.76"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com/es/domain-name-video-security.html",
 				"feature_value": "0",
-				"cluster_win_mean": "17.36",
-				"delta": "17.36"
+				"cluster_win_mean": "6.76",
+				"delta": "6.76"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com/de/streaming-video-reseller-panel-overview.html",
 				"feature_value": "0",
-				"cluster_win_mean": "17.36",
-				"delta": "17.36"
+				"cluster_win_mean": "6.76",
+				"delta": "6.76"
+			},
+			{
+				"html_id": "http://www.streamingvideoprovider.com/es/streaming-video-reseller-panel-overview.html",
+				"feature_value": "0",
+				"cluster_win_mean": "6.76",
+				"delta": "6.76"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com#overview",
 				"feature_value": "0",
-				"cluster_win_mean": "17.36",
-				"delta": "17.36"
+				"cluster_win_mean": "6.76",
+				"delta": "6.76"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com#benefits",
 				"feature_value": "0",
-				"cluster_win_mean": "17.36",
-				"delta": "17.36"
+				"cluster_win_mean": "6.76",
+				"delta": "6.76"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com#how-it-works",
 				"feature_value": "0",
-				"cluster_win_mean": "17.36",
-				"delta": "17.36"
+				"cluster_win_mean": "6.76",
+				"delta": "6.76"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com#demo",
 				"feature_value": "0",
-				"cluster_win_mean": "17.36",
-				"delta": "17.36"
+				"cluster_win_mean": "6.76",
+				"delta": "6.76"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com#apply",
 				"feature_value": "0",
-				"cluster_win_mean": "17.36",
-				"delta": "17.36"
-			}
-		],
-		"number_of_external_links": [
-			{
-				"html_id": "http://www.streamingvideoprovider.com/de/video-tracking-google-analytics.html",
-				"feature_value": "2",
-				"cluster_win_mean": "83.94",
-				"delta": "81.94"
-			},
-			{
-				"html_id": "http://www.streamingvideoprovider.com/es/video-tracking-google-analytics.html",
-				"feature_value": "3",
-				"cluster_win_mean": "83.94",
-				"delta": "80.94"
-			},
-			{
-				"html_id": "http://www.streamingvideoprovider.com/de/customers-case-study-streamingvideoprovider.html",
-				"feature_value": "0",
-				"cluster_win_mean": "83.94",
-				"delta": "83.94"
-			},
-			{
-				"html_id": "http://www.streamingvideoprovider.com/es/customers-case-study-streamingvideoprovider.html",
-				"feature_value": "1",
-				"cluster_win_mean": "83.94",
-				"delta": "82.94"
-			},
-			{
-				"html_id": "http://www.streamingvideoprovider.com/de/domain-name-video-security.html",
-				"feature_value": "1",
-				"cluster_win_mean": "83.94",
-				"delta": "82.94"
-			},
-			{
-				"html_id": "http://www.streamingvideoprovider.com/es/domain-name-video-security.html",
-				"feature_value": "2",
-				"cluster_win_mean": "83.94",
-				"delta": "81.94"
-			},
-			{
-				"html_id": "http://www.streamingvideoprovider.com/de/streaming-video-reseller-panel-overview.html",
-				"feature_value": "2",
-				"cluster_win_mean": "83.94",
-				"delta": "81.94"
-			},
-			{
-				"html_id": "http://www.streamingvideoprovider.com#overview",
-				"feature_value": "1",
-				"cluster_win_mean": "83.94",
-				"delta": "82.94"
-			},
-			{
-				"html_id": "http://www.streamingvideoprovider.com#benefits",
-				"feature_value": "1",
-				"cluster_win_mean": "83.94",
-				"delta": "82.94"
-			},
-			{
-				"html_id": "http://www.streamingvideoprovider.com#how-it-works",
-				"feature_value": "1",
-				"cluster_win_mean": "83.94",
-				"delta": "82.94"
-			},
-			{
-				"html_id": "http://www.streamingvideoprovider.com#demo",
-				"feature_value": "1",
-				"cluster_win_mean": "83.94",
-				"delta": "82.94"
-			},
-			{
-				"html_id": "http://www.streamingvideoprovider.com#apply",
-				"feature_value": "1",
-				"cluster_win_mean": "83.94",
-				"delta": "82.94"
+				"cluster_win_mean": "6.76",
+				"delta": "6.76"
 			}
 		],
 		"number_of_hyperlinks_with_html": [
 			{
+				"html_id": "http://www.streamingvideoprovider.com/es/video-tracking-google-analytics.html",
+				"feature_value": "42",
+				"cluster_win_mean": "31.5",
+				"delta": "-10.5"
+			},
+			{
 				"html_id": "http://www.streamingvideoprovider.com/de/ppv_system_demo_pay_per_view.html",
 				"feature_value": "41",
-				"cluster_win_mean": "16.62",
-				"delta": "-24.38"
+				"cluster_win_mean": "31.5",
+				"delta": " -9.5"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com/es/ppv_system_demo_pay_per_view.html",
 				"feature_value": "41",
-				"cluster_win_mean": "16.62",
-				"delta": "-24.38"
+				"cluster_win_mean": "31.5",
+				"delta": " -9.5"
+			},
+			{
+				"html_id": "http://www.streamingvideoprovider.com/es/domain-name-video-security.html",
+				"feature_value": "42",
+				"cluster_win_mean": "31.5",
+				"delta": "-10.5"
+			},
+			{
+				"html_id": "http://www.streamingvideoprovider.com/de/streaming-video-reseller-panel-overview.html",
+				"feature_value": "49",
+				"cluster_win_mean": "31.5",
+				"delta": "-17.5"
+			},
+			{
+				"html_id": "http://www.streamingvideoprovider.com/es/streaming-video-reseller-panel-overview.html",
+				"feature_value": "52",
+				"cluster_win_mean": "31.5",
+				"delta": "-20.5"
 			}
 		],
 		"number_of_absolute_internal_links": [
 			{
-				"html_id": "http://www.streamingvideoprovider.com/de/video-tracking-google-analytics.html",
-				"feature_value": " 3",
-				"cluster_win_mean": "2.39",
-				"delta": " -0.61"
-			},
-			{
-				"html_id": "http://www.streamingvideoprovider.com/es/video-tracking-google-analytics.html",
-				"feature_value": " 3",
-				"cluster_win_mean": "2.39",
-				"delta": " -0.61"
-			},
-			{
-				"html_id": "http://www.streamingvideoprovider.com/de/customers-case-study-streamingvideoprovider.html",
-				"feature_value": " 3",
-				"cluster_win_mean": "2.39",
-				"delta": " -0.61"
-			},
-			{
-				"html_id": "http://www.streamingvideoprovider.com/es/customers-case-study-streamingvideoprovider.html",
-				"feature_value": " 3",
-				"cluster_win_mean": "2.39",
-				"delta": " -0.61"
-			},
-			{
-				"html_id": "http://www.streamingvideoprovider.com/de/ppv_system_demo_pay_per_view.html",
-				"feature_value": " 3",
-				"cluster_win_mean": "4.31",
-				"delta": "  1.31"
-			},
-			{
-				"html_id": "http://www.streamingvideoprovider.com/es/ppv_system_demo_pay_per_view.html",
-				"feature_value": " 3",
-				"cluster_win_mean": "4.31",
-				"delta": "  1.31"
-			},
-			{
 				"html_id": "http://www.streamingvideoprovider.com/de/live-video-streaming-live-broadcasting.html",
 				"feature_value": "16",
-				"cluster_win_mean": "5.47",
-				"delta": "-10.53"
+				"cluster_win_mean": "12.62",
+				"delta": "-3.38"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com/es/live-video-streaming-live-broadcasting.html",
 				"feature_value": "16",
-				"cluster_win_mean": "5.47",
-				"delta": "-10.53"
+				"cluster_win_mean": "12.62",
+				"delta": "-3.38"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com/streaming-video-players.html#webcast",
 				"feature_value": " 0",
-				"cluster_win_mean": "4.31",
-				"delta": "  4.31"
+				"cluster_win_mean": " 1.46",
+				"delta": " 1.46"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com/kb/index.php/category/live-streaming-broadcasting-1#p78",
 				"feature_value": " 8",
-				"cluster_win_mean": "4.31",
-				"delta": " -3.69"
+				"cluster_win_mean": " 1.46",
+				"delta": "-6.54"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com/kb/index.php/category/live-streaming-broadcasting-1#p117",
 				"feature_value": " 8",
-				"cluster_win_mean": "4.31",
-				"delta": " -3.69"
-			},
-			{
-				"html_id": "http://www.streamingvideoprovider.com/de/domain-name-video-security.html",
-				"feature_value": " 3",
-				"cluster_win_mean": "2.39",
-				"delta": " -0.61"
-			},
-			{
-				"html_id": "http://www.streamingvideoprovider.com/es/domain-name-video-security.html",
-				"feature_value": " 3",
-				"cluster_win_mean": "2.39",
-				"delta": " -0.61"
-			},
-			{
-				"html_id": "http://www.streamingvideoprovider.com/de/streaming-video-reseller-panel-overview.html",
-				"feature_value": " 4",
-				"cluster_win_mean": "2.39",
-				"delta": " -1.61"
-			},
-			{
-				"html_id": "http://www.streamingvideoprovider.com/es/streaming-video-reseller-panel-overview.html",
-				"feature_value": " 4",
-				"cluster_win_mean": "5.47",
-				"delta": "  1.47"
-			},
-			{
-				"html_id": "http://www.streamingvideoprovider.com#overview",
-				"feature_value": " 3",
-				"cluster_win_mean": "2.39",
-				"delta": " -0.61"
-			},
-			{
-				"html_id": "http://www.streamingvideoprovider.com#benefits",
-				"feature_value": " 3",
-				"cluster_win_mean": "2.39",
-				"delta": " -0.61"
-			},
-			{
-				"html_id": "http://www.streamingvideoprovider.com#how-it-works",
-				"feature_value": " 3",
-				"cluster_win_mean": "2.39",
-				"delta": " -0.61"
-			},
-			{
-				"html_id": "http://www.streamingvideoprovider.com#demo",
-				"feature_value": " 3",
-				"cluster_win_mean": "2.39",
-				"delta": " -0.61"
-			},
-			{
-				"html_id": "http://www.streamingvideoprovider.com#apply",
-				"feature_value": " 3",
-				"cluster_win_mean": "2.39",
-				"delta": " -0.61"
+				"cluster_win_mean": " 1.46",
+				"delta": "-6.54"
 			}
 		],
 		"number_of_id_attribute_refs": [
@@ -696,300 +582,332 @@
 			{
 				"html_id": "http://www.streamingvideoprovider.com/de/video-tracking-google-analytics.html",
 				"feature_value": "0",
-				"cluster_win_mean": "16.44",
-				"delta": "16.44"
+				"cluster_win_mean": "6.2",
+				"delta": "6.2"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com/es/video-tracking-google-analytics.html",
 				"feature_value": "0",
-				"cluster_win_mean": "16.44",
-				"delta": "16.44"
+				"cluster_win_mean": "6.2",
+				"delta": "6.2"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com/de/customers-case-study-streamingvideoprovider.html",
 				"feature_value": "0",
-				"cluster_win_mean": "16.44",
-				"delta": "16.44"
+				"cluster_win_mean": "6.2",
+				"delta": "6.2"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com/es/customers-case-study-streamingvideoprovider.html",
 				"feature_value": "0",
-				"cluster_win_mean": "16.44",
-				"delta": "16.44"
+				"cluster_win_mean": "6.2",
+				"delta": "6.2"
 			},
-			{
-				"html_id": "http://www.streamingvideoprovider.com/de/live-video-streaming-live-broadcasting.html",
-				"feature_value": "0",
-				"cluster_win_mean": " 9.74",
-				"delta": " 9.74"
-			},
-			{
-				"html_id": "http://www.streamingvideoprovider.com/es/live-video-streaming-live-broadcasting.html",
-				"feature_value": "0",
-				"cluster_win_mean": " 9.74",
-				"delta": " 9.74"
-			},
-			{
-				"html_id": "http://www.streamingvideoprovider.com/de/domain-name-video-security.html",
-				"feature_value": "0",
-				"cluster_win_mean": "16.44",
-				"delta": "16.44"
-			},
-			{
-				"html_id": "http://www.streamingvideoprovider.com/es/domain-name-video-security.html",
-				"feature_value": "0",
-				"cluster_win_mean": "16.44",
-				"delta": "16.44"
-			},
-			{
-				"html_id": "http://www.streamingvideoprovider.com/de/streaming-video-reseller-panel-overview.html",
-				"feature_value": "0",
-				"cluster_win_mean": "16.44",
-				"delta": "16.44"
-			},
-			{
-				"html_id": "http://www.streamingvideoprovider.com/es/streaming-video-reseller-panel-overview.html",
-				"feature_value": "0",
-				"cluster_win_mean": " 9.74",
-				"delta": " 9.74"
-			},
-			{
-				"html_id": "http://www.streamingvideoprovider.com#overview",
-				"feature_value": "0",
-				"cluster_win_mean": "16.44",
-				"delta": "16.44"
-			},
-			{
-				"html_id": "http://www.streamingvideoprovider.com#benefits",
-				"feature_value": "0",
-				"cluster_win_mean": "16.44",
-				"delta": "16.44"
-			},
-			{
-				"html_id": "http://www.streamingvideoprovider.com#how-it-works",
-				"feature_value": "0",
-				"cluster_win_mean": "16.44",
-				"delta": "16.44"
-			},
-			{
-				"html_id": "http://www.streamingvideoprovider.com#demo",
-				"feature_value": "0",
-				"cluster_win_mean": "16.44",
-				"delta": "16.44"
-			},
-			{
-				"html_id": "http://www.streamingvideoprovider.com#apply",
-				"feature_value": "0",
-				"cluster_win_mean": "16.44",
-				"delta": "16.44"
-			}
-		],
-		"number_of_h1_instances": [
 			{
 				"html_id": "http://www.streamingvideoprovider.com/de/ppv_system_demo_pay_per_view.html",
 				"feature_value": "0",
-				"cluster_win_mean": "1.03",
-				"delta": "1.03"
+				"cluster_win_mean": "6.2",
+				"delta": "6.2"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com/es/ppv_system_demo_pay_per_view.html",
 				"feature_value": "0",
-				"cluster_win_mean": "1.03",
-				"delta": "1.03"
+				"cluster_win_mean": "6.2",
+				"delta": "6.2"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com/de/live-video-streaming-live-broadcasting.html",
-				"feature_value": "1",
-				"cluster_win_mean": "   2",
-				"delta": "   1"
+				"feature_value": "0",
+				"cluster_win_mean": "6.2",
+				"delta": "6.2"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com/es/live-video-streaming-live-broadcasting.html",
-				"feature_value": "1",
-				"cluster_win_mean": "   2",
-				"delta": "   1"
-			},
-			{
-				"html_id": "http://www.streamingvideoprovider.com/streaming-video-players.html#webcast",
 				"feature_value": "0",
-				"cluster_win_mean": "1.03",
-				"delta": "1.03"
+				"cluster_win_mean": "6.2",
+				"delta": "6.2"
 			},
 			{
-				"html_id": "http://www.streamingvideoprovider.com/kb/index.php/category/live-streaming-broadcasting-1#p78",
-				"feature_value": "1",
-				"cluster_win_mean": "1.03",
-				"delta": "0.03"
+				"html_id": "http://www.streamingvideoprovider.com/de/domain-name-video-security.html",
+				"feature_value": "0",
+				"cluster_win_mean": "6.2",
+				"delta": "6.2"
 			},
-			{
-				"html_id": "http://www.streamingvideoprovider.com/kb/index.php/category/live-streaming-broadcasting-1#p117",
-				"feature_value": "1",
-				"cluster_win_mean": "1.03",
-				"delta": "0.03"
-			},
-			{
-				"html_id": "http://www.streamingvideoprovider.com/es/streaming-video-reseller-panel-overview.html",
-				"feature_value": "1",
-				"cluster_win_mean": "   2",
-				"delta": "   1"
-			}
-		],
-		"total_number_of_words": [
 			{
 				"html_id": "http://www.streamingvideoprovider.com/es/domain-name-video-security.html",
-				"feature_value": "368",
-				"cluster_win_mean": "179.65",
-				"delta": "-188.35"
+				"feature_value": "0",
+				"cluster_win_mean": "6.2",
+				"delta": "6.2"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com/de/streaming-video-reseller-panel-overview.html",
-				"feature_value": "259",
-				"cluster_win_mean": "179.65",
-				"delta": " -79.35"
+				"feature_value": "0",
+				"cluster_win_mean": "6.2",
+				"delta": "6.2"
+			},
+			{
+				"html_id": "http://www.streamingvideoprovider.com/es/streaming-video-reseller-panel-overview.html",
+				"feature_value": "0",
+				"cluster_win_mean": "6.2",
+				"delta": "6.2"
+			},
+			{
+				"html_id": "http://www.streamingvideoprovider.com#overview",
+				"feature_value": "0",
+				"cluster_win_mean": "6.2",
+				"delta": "6.2"
+			},
+			{
+				"html_id": "http://www.streamingvideoprovider.com#benefits",
+				"feature_value": "0",
+				"cluster_win_mean": "6.2",
+				"delta": "6.2"
+			},
+			{
+				"html_id": "http://www.streamingvideoprovider.com#how-it-works",
+				"feature_value": "0",
+				"cluster_win_mean": "6.2",
+				"delta": "6.2"
+			},
+			{
+				"html_id": "http://www.streamingvideoprovider.com#demo",
+				"feature_value": "0",
+				"cluster_win_mean": "6.2",
+				"delta": "6.2"
+			},
+			{
+				"html_id": "http://www.streamingvideoprovider.com#apply",
+				"feature_value": "0",
+				"cluster_win_mean": "6.2",
+				"delta": "6.2"
 			}
 		],
 		"number_of_embedded_css_styles": [
 			{
+				"html_id": "http://www.streamingvideoprovider.com/de/video-tracking-google-analytics.html",
+				"feature_value": "1",
+				"cluster_win_mean": "2.41",
+				"delta": "1.41"
+			},
+			{
+				"html_id": "http://www.streamingvideoprovider.com/es/video-tracking-google-analytics.html",
+				"feature_value": "1",
+				"cluster_win_mean": "2.41",
+				"delta": "1.41"
+			},
+			{
+				"html_id": "http://www.streamingvideoprovider.com/de/customers-case-study-streamingvideoprovider.html",
+				"feature_value": "1",
+				"cluster_win_mean": "2.41",
+				"delta": "1.41"
+			},
+			{
+				"html_id": "http://www.streamingvideoprovider.com/es/customers-case-study-streamingvideoprovider.html",
+				"feature_value": "1",
+				"cluster_win_mean": "2.41",
+				"delta": "1.41"
+			},
+			{
+				"html_id": "http://www.streamingvideoprovider.com/de/ppv_system_demo_pay_per_view.html",
+				"feature_value": "1",
+				"cluster_win_mean": "2.41",
+				"delta": "1.41"
+			},
+			{
+				"html_id": "http://www.streamingvideoprovider.com/es/ppv_system_demo_pay_per_view.html",
+				"feature_value": "1",
+				"cluster_win_mean": "2.41",
+				"delta": "1.41"
+			},
+			{
 				"html_id": "http://www.streamingvideoprovider.com/de/live-video-streaming-live-broadcasting.html",
 				"feature_value": "1",
-				"cluster_win_mean": "2.62",
-				"delta": "1.62"
+				"cluster_win_mean": "2.41",
+				"delta": "1.41"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com/es/live-video-streaming-live-broadcasting.html",
 				"feature_value": "1",
-				"cluster_win_mean": "2.62",
-				"delta": "1.62"
+				"cluster_win_mean": "2.41",
+				"delta": "1.41"
+			},
+			{
+				"html_id": "http://www.streamingvideoprovider.com/de/domain-name-video-security.html",
+				"feature_value": "1",
+				"cluster_win_mean": "2.41",
+				"delta": "1.41"
+			},
+			{
+				"html_id": "http://www.streamingvideoprovider.com/es/domain-name-video-security.html",
+				"feature_value": "1",
+				"cluster_win_mean": "2.41",
+				"delta": "1.41"
+			},
+			{
+				"html_id": "http://www.streamingvideoprovider.com/de/streaming-video-reseller-panel-overview.html",
+				"feature_value": "1",
+				"cluster_win_mean": "2.41",
+				"delta": "1.41"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com/es/streaming-video-reseller-panel-overview.html",
 				"feature_value": "1",
-				"cluster_win_mean": "2.62",
-				"delta": "1.62"
+				"cluster_win_mean": "2.41",
+				"delta": "1.41"
+			},
+			{
+				"html_id": "http://www.streamingvideoprovider.com#overview",
+				"feature_value": "1",
+				"cluster_win_mean": "2.41",
+				"delta": "1.41"
+			},
+			{
+				"html_id": "http://www.streamingvideoprovider.com#benefits",
+				"feature_value": "1",
+				"cluster_win_mean": "2.41",
+				"delta": "1.41"
+			},
+			{
+				"html_id": "http://www.streamingvideoprovider.com#how-it-works",
+				"feature_value": "1",
+				"cluster_win_mean": "2.41",
+				"delta": "1.41"
+			},
+			{
+				"html_id": "http://www.streamingvideoprovider.com#demo",
+				"feature_value": "1",
+				"cluster_win_mean": "2.41",
+				"delta": "1.41"
+			},
+			{
+				"html_id": "http://www.streamingvideoprovider.com#apply",
+				"feature_value": "1",
+				"cluster_win_mean": "2.41",
+				"delta": "1.41"
 			}
 		],
 		"number_of_embedded_styles": [
 			{
+				"html_id": "http://www.streamingvideoprovider.com/de/video-tracking-google-analytics.html",
+				"feature_value": "1",
+				"cluster_win_mean": "2.4",
+				"delta": "1.4"
+			},
+			{
+				"html_id": "http://www.streamingvideoprovider.com/es/video-tracking-google-analytics.html",
+				"feature_value": "1",
+				"cluster_win_mean": "2.4",
+				"delta": "1.4"
+			},
+			{
+				"html_id": "http://www.streamingvideoprovider.com/de/customers-case-study-streamingvideoprovider.html",
+				"feature_value": "1",
+				"cluster_win_mean": "2.4",
+				"delta": "1.4"
+			},
+			{
+				"html_id": "http://www.streamingvideoprovider.com/es/customers-case-study-streamingvideoprovider.html",
+				"feature_value": "1",
+				"cluster_win_mean": "2.4",
+				"delta": "1.4"
+			},
+			{
+				"html_id": "http://www.streamingvideoprovider.com/de/ppv_system_demo_pay_per_view.html",
+				"feature_value": "1",
+				"cluster_win_mean": "2.4",
+				"delta": "1.4"
+			},
+			{
+				"html_id": "http://www.streamingvideoprovider.com/es/ppv_system_demo_pay_per_view.html",
+				"feature_value": "1",
+				"cluster_win_mean": "2.4",
+				"delta": "1.4"
+			},
+			{
 				"html_id": "http://www.streamingvideoprovider.com/de/live-video-streaming-live-broadcasting.html",
 				"feature_value": "1",
-				"cluster_win_mean": "2.62",
-				"delta": "1.62"
+				"cluster_win_mean": "2.4",
+				"delta": "1.4"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com/es/live-video-streaming-live-broadcasting.html",
 				"feature_value": "1",
-				"cluster_win_mean": "2.62",
-				"delta": "1.62"
+				"cluster_win_mean": "2.4",
+				"delta": "1.4"
+			},
+			{
+				"html_id": "http://www.streamingvideoprovider.com/de/domain-name-video-security.html",
+				"feature_value": "1",
+				"cluster_win_mean": "2.4",
+				"delta": "1.4"
+			},
+			{
+				"html_id": "http://www.streamingvideoprovider.com/es/domain-name-video-security.html",
+				"feature_value": "1",
+				"cluster_win_mean": "2.4",
+				"delta": "1.4"
+			},
+			{
+				"html_id": "http://www.streamingvideoprovider.com/de/streaming-video-reseller-panel-overview.html",
+				"feature_value": "1",
+				"cluster_win_mean": "2.4",
+				"delta": "1.4"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com/es/streaming-video-reseller-panel-overview.html",
 				"feature_value": "1",
-				"cluster_win_mean": "2.62",
-				"delta": "1.62"
+				"cluster_win_mean": "2.4",
+				"delta": "1.4"
+			},
+			{
+				"html_id": "http://www.streamingvideoprovider.com#overview",
+				"feature_value": "1",
+				"cluster_win_mean": "2.4",
+				"delta": "1.4"
+			},
+			{
+				"html_id": "http://www.streamingvideoprovider.com#benefits",
+				"feature_value": "1",
+				"cluster_win_mean": "2.4",
+				"delta": "1.4"
+			},
+			{
+				"html_id": "http://www.streamingvideoprovider.com#how-it-works",
+				"feature_value": "1",
+				"cluster_win_mean": "2.4",
+				"delta": "1.4"
+			},
+			{
+				"html_id": "http://www.streamingvideoprovider.com#demo",
+				"feature_value": "1",
+				"cluster_win_mean": "2.4",
+				"delta": "1.4"
+			},
+			{
+				"html_id": "http://www.streamingvideoprovider.com#apply",
+				"feature_value": "1",
+				"cluster_win_mean": "2.4",
+				"delta": "1.4"
 			}
 		],
 		"average_image_height": [
 			{
-				"html_id": "http://www.streamingvideoprovider.com/de/video-tracking-google-analytics.html",
-				"feature_value": "0",
-				"cluster_win_mean": " 97.03",
-				"delta": " 97.03"
-			},
-			{
-				"html_id": "http://www.streamingvideoprovider.com/es/video-tracking-google-analytics.html",
-				"feature_value": "0",
-				"cluster_win_mean": " 97.03",
-				"delta": " 97.03"
-			},
-			{
-				"html_id": "http://www.streamingvideoprovider.com/de/customers-case-study-streamingvideoprovider.html",
-				"feature_value": "0",
-				"cluster_win_mean": " 97.03",
-				"delta": " 97.03"
-			},
-			{
-				"html_id": "http://www.streamingvideoprovider.com/es/customers-case-study-streamingvideoprovider.html",
-				"feature_value": "0",
-				"cluster_win_mean": " 97.03",
-				"delta": " 97.03"
-			},
-			{
-				"html_id": "http://www.streamingvideoprovider.com/de/ppv_system_demo_pay_per_view.html",
-				"feature_value": "0",
-				"cluster_win_mean": "104.04",
-				"delta": "104.04"
-			},
-			{
-				"html_id": "http://www.streamingvideoprovider.com/es/ppv_system_demo_pay_per_view.html",
-				"feature_value": "0",
-				"cluster_win_mean": "104.04",
-				"delta": "104.04"
-			},
-			{
 				"html_id": "http://www.streamingvideoprovider.com/streaming-video-players.html#webcast",
 				"feature_value": "0",
-				"cluster_win_mean": "104.04",
-				"delta": "104.04"
+				"cluster_win_mean": "98.03",
+				"delta": "98.03"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com/kb/index.php/category/live-streaming-broadcasting-1#p78",
 				"feature_value": "0",
-				"cluster_win_mean": "104.04",
-				"delta": "104.04"
+				"cluster_win_mean": "98.03",
+				"delta": "98.03"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com/kb/index.php/category/live-streaming-broadcasting-1#p117",
 				"feature_value": "0",
-				"cluster_win_mean": "104.04",
-				"delta": "104.04"
-			},
-			{
-				"html_id": "http://www.streamingvideoprovider.com/de/domain-name-video-security.html",
-				"feature_value": "0",
-				"cluster_win_mean": " 97.03",
-				"delta": " 97.03"
-			},
-			{
-				"html_id": "http://www.streamingvideoprovider.com/es/domain-name-video-security.html",
-				"feature_value": "0",
-				"cluster_win_mean": " 97.03",
-				"delta": " 97.03"
-			},
-			{
-				"html_id": "http://www.streamingvideoprovider.com/de/streaming-video-reseller-panel-overview.html",
-				"feature_value": "0",
-				"cluster_win_mean": " 97.03",
-				"delta": " 97.03"
-			},
-			{
-				"html_id": "http://www.streamingvideoprovider.com#overview",
-				"feature_value": "0",
-				"cluster_win_mean": " 97.03",
-				"delta": " 97.03"
-			},
-			{
-				"html_id": "http://www.streamingvideoprovider.com#benefits",
-				"feature_value": "0",
-				"cluster_win_mean": " 97.03",
-				"delta": " 97.03"
-			},
-			{
-				"html_id": "http://www.streamingvideoprovider.com#how-it-works",
-				"feature_value": "0",
-				"cluster_win_mean": " 97.03",
-				"delta": " 97.03"
-			},
-			{
-				"html_id": "http://www.streamingvideoprovider.com#demo",
-				"feature_value": "0",
-				"cluster_win_mean": " 97.03",
-				"delta": " 97.03"
-			},
-			{
-				"html_id": "http://www.streamingvideoprovider.com#apply",
-				"feature_value": "0",
-				"cluster_win_mean": " 97.03",
-				"delta": " 97.03"
+				"cluster_win_mean": "98.03",
+				"delta": "98.03"
 			}
 		],
 		"html5_detected": [
@@ -1110,915 +1028,1051 @@
 		],
 		"ratio_of_common_words_to_total": [
 			{
+				"html_id": "http://www.streamingvideoprovider.com/de/video-tracking-google-analytics.html",
+				"feature_value": " 0.18966",
+				"cluster_win_mean": "0.76",
+				"delta": " 0.57"
+			},
+			{
+				"html_id": "http://www.streamingvideoprovider.com/es/video-tracking-google-analytics.html",
+				"feature_value": "  0.1037",
+				"cluster_win_mean": "0.76",
+				"delta": " 0.65"
+			},
+			{
+				"html_id": "http://www.streamingvideoprovider.com/de/customers-case-study-streamingvideoprovider.html",
+				"feature_value": " 0.22018",
+				"cluster_win_mean": "0.76",
+				"delta": " 0.54"
+			},
+			{
+				"html_id": "http://www.streamingvideoprovider.com/es/customers-case-study-streamingvideoprovider.html",
+				"feature_value": "0.087302",
+				"cluster_win_mean": "0.76",
+				"delta": " 0.67"
+			},
+			{
 				"html_id": "http://www.streamingvideoprovider.com/de/ppv_system_demo_pay_per_view.html",
 				"feature_value": " 0.27778",
-				"cluster_win_mean": "0.78",
-				"delta": "  0.5"
+				"cluster_win_mean": "0.76",
+				"delta": " 0.48"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com/es/ppv_system_demo_pay_per_view.html",
 				"feature_value": "     0.2",
-				"cluster_win_mean": "0.78",
-				"delta": " 0.58"
+				"cluster_win_mean": "0.76",
+				"delta": " 0.56"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com/de/live-video-streaming-live-broadcasting.html",
 				"feature_value": "  0.2605",
-				"cluster_win_mean": "0.68",
-				"delta": " 0.42"
+				"cluster_win_mean": "0.76",
+				"delta": "  0.5"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com/es/live-video-streaming-live-broadcasting.html",
 				"feature_value": " 0.11765",
-				"cluster_win_mean": "0.68",
-				"delta": " 0.56"
+				"cluster_win_mean": "0.76",
+				"delta": " 0.64"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com/streaming-video-players.html#webcast",
 				"feature_value": "       0",
-				"cluster_win_mean": "0.78",
-				"delta": " 0.78"
+				"cluster_win_mean": "0.74",
+				"delta": " 0.74"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com/kb/index.php/category/live-streaming-broadcasting-1#p78",
 				"feature_value": " 0.72222",
-				"cluster_win_mean": "0.78",
-				"delta": " 0.05"
+				"cluster_win_mean": "0.74",
+				"delta": " 0.02"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com/kb/index.php/category/live-streaming-broadcasting-1#p117",
 				"feature_value": " 0.72222",
-				"cluster_win_mean": "0.78",
-				"delta": " 0.05"
+				"cluster_win_mean": "0.74",
+				"delta": " 0.02"
+			},
+			{
+				"html_id": "http://www.streamingvideoprovider.com/de/domain-name-video-security.html",
+				"feature_value": " 0.17544",
+				"cluster_win_mean": "0.76",
+				"delta": " 0.58"
+			},
+			{
+				"html_id": "http://www.streamingvideoprovider.com/es/domain-name-video-security.html",
+				"feature_value": "0.043478",
+				"cluster_win_mean": "0.76",
+				"delta": " 0.71"
+			},
+			{
+				"html_id": "http://www.streamingvideoprovider.com/de/streaming-video-reseller-panel-overview.html",
+				"feature_value": " 0.15444",
+				"cluster_win_mean": "0.76",
+				"delta": "  0.6"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com/es/streaming-video-reseller-panel-overview.html",
 				"feature_value": "0.074324",
-				"cluster_win_mean": "0.68",
-				"delta": "  0.6"
+				"cluster_win_mean": "0.76",
+				"delta": " 0.68"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com#overview",
 				"feature_value": " 0.86441",
-				"cluster_win_mean": "0.74",
-				"delta": "-0.12"
+				"cluster_win_mean": "0.76",
+				"delta": "-0.11"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com#benefits",
 				"feature_value": " 0.86441",
-				"cluster_win_mean": "0.74",
-				"delta": "-0.12"
+				"cluster_win_mean": "0.76",
+				"delta": "-0.11"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com#how-it-works",
 				"feature_value": " 0.86441",
-				"cluster_win_mean": "0.74",
-				"delta": "-0.12"
+				"cluster_win_mean": "0.76",
+				"delta": "-0.11"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com#demo",
 				"feature_value": " 0.86441",
-				"cluster_win_mean": "0.74",
-				"delta": "-0.12"
+				"cluster_win_mean": "0.76",
+				"delta": "-0.11"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com#apply",
 				"feature_value": " 0.86441",
-				"cluster_win_mean": "0.74",
-				"delta": "-0.12"
+				"cluster_win_mean": "0.76",
+				"delta": "-0.11"
 			}
 		],
 		"proximity_of_title_tag_words_to_external_bound_hyperlinks": [
 			{
-				"html_id": "http://www.streamingvideoprovider.com/de/video-tracking-google-analytics.html",
-				"feature_value": "2714",
-				"cluster_win_mean": "584.75",
-				"delta": "-2129.25"
-			},
-			{
-				"html_id": "http://www.streamingvideoprovider.com/es/video-tracking-google-analytics.html",
-				"feature_value": "2738",
-				"cluster_win_mean": "584.75",
-				"delta": "-2153.25"
-			},
-			{
-				"html_id": "http://www.streamingvideoprovider.com/de/customers-case-study-streamingvideoprovider.html",
-				"feature_value": "2684",
-				"cluster_win_mean": "584.75",
-				"delta": "-2099.25"
-			},
-			{
-				"html_id": "http://www.streamingvideoprovider.com/es/customers-case-study-streamingvideoprovider.html",
-				"feature_value": "2685",
-				"cluster_win_mean": "584.75",
-				"delta": "-2100.25"
-			},
-			{
-				"html_id": "http://www.streamingvideoprovider.com/de/ppv_system_demo_pay_per_view.html",
-				"feature_value": "2723",
-				"cluster_win_mean": "589.46",
-				"delta": "-2133.54"
-			},
-			{
-				"html_id": "http://www.streamingvideoprovider.com/es/ppv_system_demo_pay_per_view.html",
-				"feature_value": "2776",
-				"cluster_win_mean": "589.46",
-				"delta": "-2186.54"
-			},
-			{
 				"html_id": "http://www.streamingvideoprovider.com/kb/index.php/category/live-streaming-broadcasting-1#p78",
 				"feature_value": "2271",
-				"cluster_win_mean": "589.46",
-				"delta": "-1681.54"
+				"cluster_win_mean": "452.65",
+				"delta": "-1818.35"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com/kb/index.php/category/live-streaming-broadcasting-1#p117",
 				"feature_value": "2271",
-				"cluster_win_mean": "589.46",
-				"delta": "-1681.54"
-			},
-			{
-				"html_id": "http://www.streamingvideoprovider.com/de/domain-name-video-security.html",
-				"feature_value": "2662",
-				"cluster_win_mean": "584.75",
-				"delta": "-2077.25"
-			},
-			{
-				"html_id": "http://www.streamingvideoprovider.com/es/domain-name-video-security.html",
-				"feature_value": "2696",
-				"cluster_win_mean": "584.75",
-				"delta": "-2111.25"
-			},
-			{
-				"html_id": "http://www.streamingvideoprovider.com/de/streaming-video-reseller-panel-overview.html",
-				"feature_value": "2973",
-				"cluster_win_mean": "584.75",
-				"delta": "-2388.25"
-			},
-			{
-				"html_id": "http://www.streamingvideoprovider.com#overview",
-				"feature_value": "2539",
-				"cluster_win_mean": "584.75",
-				"delta": "-1954.25"
-			},
-			{
-				"html_id": "http://www.streamingvideoprovider.com#benefits",
-				"feature_value": "2539",
-				"cluster_win_mean": "584.75",
-				"delta": "-1954.25"
-			},
-			{
-				"html_id": "http://www.streamingvideoprovider.com#how-it-works",
-				"feature_value": "2539",
-				"cluster_win_mean": "584.75",
-				"delta": "-1954.25"
-			},
-			{
-				"html_id": "http://www.streamingvideoprovider.com#demo",
-				"feature_value": "2539",
-				"cluster_win_mean": "584.75",
-				"delta": "-1954.25"
-			},
-			{
-				"html_id": "http://www.streamingvideoprovider.com#apply",
-				"feature_value": "2539",
-				"cluster_win_mean": "584.75",
-				"delta": "-1954.25"
+				"cluster_win_mean": "452.65",
+				"delta": "-1818.35"
 			}
 		],
 		"average_number_of_words_in_anchor_text": [
 			{
+				"html_id": "http://www.streamingvideoprovider.com/de/video-tracking-google-analytics.html",
+				"feature_value": "2",
+				"cluster_win_mean": "2.32",
+				"delta": " 0.32"
+			},
+			{
 				"html_id": "http://www.streamingvideoprovider.com/es/video-tracking-google-analytics.html",
 				"feature_value": "3",
-				"cluster_win_mean": "2.12",
-				"delta": "-0.88"
+				"cluster_win_mean": "2.32",
+				"delta": "-0.68"
+			},
+			{
+				"html_id": "http://www.streamingvideoprovider.com/de/customers-case-study-streamingvideoprovider.html",
+				"feature_value": "2",
+				"cluster_win_mean": "2.32",
+				"delta": " 0.32"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com/es/customers-case-study-streamingvideoprovider.html",
 				"feature_value": "3",
-				"cluster_win_mean": "2.12",
-				"delta": "-0.88"
+				"cluster_win_mean": "2.32",
+				"delta": "-0.68"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com/de/ppv_system_demo_pay_per_view.html",
 				"feature_value": "2",
-				"cluster_win_mean": "2.03",
-				"delta": " 0.03"
+				"cluster_win_mean": "2.32",
+				"delta": " 0.32"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com/es/ppv_system_demo_pay_per_view.html",
 				"feature_value": "3",
-				"cluster_win_mean": "2.03",
-				"delta": "-0.97"
+				"cluster_win_mean": "2.32",
+				"delta": "-0.68"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com/de/live-video-streaming-live-broadcasting.html",
 				"feature_value": "2",
-				"cluster_win_mean": "2.63",
-				"delta": " 0.63"
+				"cluster_win_mean": "2.32",
+				"delta": " 0.32"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com/es/live-video-streaming-live-broadcasting.html",
 				"feature_value": "3",
-				"cluster_win_mean": "2.63",
-				"delta": "-0.37"
-			},
-			{
-				"html_id": "http://www.streamingvideoprovider.com/streaming-video-players.html#webcast",
-				"feature_value": "0",
-				"cluster_win_mean": "2.03",
-				"delta": " 2.03"
+				"cluster_win_mean": "2.32",
+				"delta": "-0.68"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com/kb/index.php/category/live-streaming-broadcasting-1#p78",
 				"feature_value": "4",
-				"cluster_win_mean": "2.03",
-				"delta": "-1.97"
+				"cluster_win_mean": "2.12",
+				"delta": "-1.88"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com/kb/index.php/category/live-streaming-broadcasting-1#p117",
 				"feature_value": "4",
-				"cluster_win_mean": "2.03",
-				"delta": "-1.97"
+				"cluster_win_mean": "2.12",
+				"delta": "-1.88"
+			},
+			{
+				"html_id": "http://www.streamingvideoprovider.com/de/domain-name-video-security.html",
+				"feature_value": "2",
+				"cluster_win_mean": "2.32",
+				"delta": " 0.32"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com/es/domain-name-video-security.html",
 				"feature_value": "3",
-				"cluster_win_mean": "2.12",
-				"delta": "-0.88"
+				"cluster_win_mean": "2.32",
+				"delta": "-0.68"
+			},
+			{
+				"html_id": "http://www.streamingvideoprovider.com/de/streaming-video-reseller-panel-overview.html",
+				"feature_value": "2",
+				"cluster_win_mean": "2.32",
+				"delta": " 0.32"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com/es/streaming-video-reseller-panel-overview.html",
 				"feature_value": "3",
-				"cluster_win_mean": "2.63",
-				"delta": "-0.37"
+				"cluster_win_mean": "2.32",
+				"delta": "-0.68"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com#overview",
 				"feature_value": "3",
-				"cluster_win_mean": "2.12",
-				"delta": "-0.88"
+				"cluster_win_mean": "2.32",
+				"delta": "-0.68"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com#benefits",
 				"feature_value": "3",
-				"cluster_win_mean": "2.12",
-				"delta": "-0.88"
+				"cluster_win_mean": "2.32",
+				"delta": "-0.68"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com#how-it-works",
 				"feature_value": "3",
-				"cluster_win_mean": "2.12",
-				"delta": "-0.88"
+				"cluster_win_mean": "2.32",
+				"delta": "-0.68"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com#demo",
 				"feature_value": "3",
-				"cluster_win_mean": "2.12",
-				"delta": "-0.88"
+				"cluster_win_mean": "2.32",
+				"delta": "-0.68"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com#apply",
 				"feature_value": "3",
-				"cluster_win_mean": "2.12",
-				"delta": "-0.88"
+				"cluster_win_mean": "2.32",
+				"delta": "-0.68"
 			}
 		],
 		"number_of_embedded_javascripts": [
 			{
 				"html_id": "http://www.streamingvideoprovider.com/de/video-tracking-google-analytics.html",
 				"feature_value": "1",
-				"cluster_win_mean": "2.62",
-				"delta": "1.62"
+				"cluster_win_mean": "5.02",
+				"delta": "4.02"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com/es/video-tracking-google-analytics.html",
 				"feature_value": "2",
-				"cluster_win_mean": "2.62",
-				"delta": "0.62"
+				"cluster_win_mean": "5.02",
+				"delta": "3.02"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com/de/customers-case-study-streamingvideoprovider.html",
 				"feature_value": "1",
-				"cluster_win_mean": "2.62",
-				"delta": "1.62"
+				"cluster_win_mean": "5.02",
+				"delta": "4.02"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com/es/customers-case-study-streamingvideoprovider.html",
 				"feature_value": "2",
-				"cluster_win_mean": "2.62",
-				"delta": "0.62"
+				"cluster_win_mean": "5.02",
+				"delta": "3.02"
+			},
+			{
+				"html_id": "http://www.streamingvideoprovider.com/de/ppv_system_demo_pay_per_view.html",
+				"feature_value": "1",
+				"cluster_win_mean": "5.02",
+				"delta": "4.02"
+			},
+			{
+				"html_id": "http://www.streamingvideoprovider.com/es/ppv_system_demo_pay_per_view.html",
+				"feature_value": "2",
+				"cluster_win_mean": "5.02",
+				"delta": "3.02"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com/de/live-video-streaming-live-broadcasting.html",
 				"feature_value": "1",
-				"cluster_win_mean": "4.82",
-				"delta": "3.82"
+				"cluster_win_mean": "5.02",
+				"delta": "4.02"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com/es/live-video-streaming-live-broadcasting.html",
 				"feature_value": "2",
-				"cluster_win_mean": "4.82",
-				"delta": "2.82"
+				"cluster_win_mean": "5.02",
+				"delta": "3.02"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com/de/domain-name-video-security.html",
 				"feature_value": "1",
-				"cluster_win_mean": "2.62",
-				"delta": "1.62"
+				"cluster_win_mean": "5.02",
+				"delta": "4.02"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com/es/domain-name-video-security.html",
 				"feature_value": "2",
-				"cluster_win_mean": "2.62",
-				"delta": "0.62"
+				"cluster_win_mean": "5.02",
+				"delta": "3.02"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com/de/streaming-video-reseller-panel-overview.html",
 				"feature_value": "2",
-				"cluster_win_mean": "2.62",
-				"delta": "0.62"
+				"cluster_win_mean": "5.02",
+				"delta": "3.02"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com/es/streaming-video-reseller-panel-overview.html",
 				"feature_value": "3",
-				"cluster_win_mean": "4.82",
-				"delta": "1.82"
+				"cluster_win_mean": "5.02",
+				"delta": "2.02"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com#overview",
 				"feature_value": "1",
-				"cluster_win_mean": "2.62",
-				"delta": "1.62"
+				"cluster_win_mean": "5.02",
+				"delta": "4.02"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com#benefits",
 				"feature_value": "1",
-				"cluster_win_mean": "2.62",
-				"delta": "1.62"
+				"cluster_win_mean": "5.02",
+				"delta": "4.02"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com#how-it-works",
 				"feature_value": "1",
-				"cluster_win_mean": "2.62",
-				"delta": "1.62"
+				"cluster_win_mean": "5.02",
+				"delta": "4.02"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com#demo",
 				"feature_value": "1",
-				"cluster_win_mean": "2.62",
-				"delta": "1.62"
+				"cluster_win_mean": "5.02",
+				"delta": "4.02"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com#apply",
 				"feature_value": "1",
-				"cluster_win_mean": "2.62",
-				"delta": "1.62"
+				"cluster_win_mean": "5.02",
+				"delta": "4.02"
 			}
 		],
 		"number_of_external_css_styles": [
 			{
+				"html_id": "http://www.streamingvideoprovider.com/de/video-tracking-google-analytics.html",
+				"feature_value": "1",
+				"cluster_win_mean": "9.59",
+				"delta": " 8.59"
+			},
+			{
+				"html_id": "http://www.streamingvideoprovider.com/es/video-tracking-google-analytics.html",
+				"feature_value": "1",
+				"cluster_win_mean": "9.59",
+				"delta": " 8.59"
+			},
+			{
+				"html_id": "http://www.streamingvideoprovider.com/de/customers-case-study-streamingvideoprovider.html",
+				"feature_value": "1",
+				"cluster_win_mean": "9.59",
+				"delta": " 8.59"
+			},
+			{
+				"html_id": "http://www.streamingvideoprovider.com/es/customers-case-study-streamingvideoprovider.html",
+				"feature_value": "1",
+				"cluster_win_mean": "9.59",
+				"delta": " 8.59"
+			},
+			{
 				"html_id": "http://www.streamingvideoprovider.com/de/ppv_system_demo_pay_per_view.html",
 				"feature_value": "1",
-				"cluster_win_mean": " 1.6",
-				"delta": " 0.6"
+				"cluster_win_mean": "9.59",
+				"delta": " 8.59"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com/es/ppv_system_demo_pay_per_view.html",
 				"feature_value": "1",
-				"cluster_win_mean": " 1.6",
-				"delta": " 0.6"
+				"cluster_win_mean": "9.59",
+				"delta": " 8.59"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com/de/live-video-streaming-live-broadcasting.html",
 				"feature_value": "1",
-				"cluster_win_mean": "7.65",
-				"delta": "6.65"
+				"cluster_win_mean": "9.59",
+				"delta": " 8.59"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com/es/live-video-streaming-live-broadcasting.html",
 				"feature_value": "1",
-				"cluster_win_mean": "7.65",
-				"delta": "6.65"
+				"cluster_win_mean": "9.59",
+				"delta": " 8.59"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com/streaming-video-players.html#webcast",
 				"feature_value": "0",
-				"cluster_win_mean": " 1.6",
-				"delta": " 1.6"
+				"cluster_win_mean": "1.24",
+				"delta": " 1.24"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com/kb/index.php/category/live-streaming-broadcasting-1#p78",
 				"feature_value": "2",
-				"cluster_win_mean": " 1.6",
-				"delta": "-0.4"
+				"cluster_win_mean": "1.24",
+				"delta": "-0.76"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com/kb/index.php/category/live-streaming-broadcasting-1#p117",
 				"feature_value": "2",
-				"cluster_win_mean": " 1.6",
-				"delta": "-0.4"
+				"cluster_win_mean": "1.24",
+				"delta": "-0.76"
+			},
+			{
+				"html_id": "http://www.streamingvideoprovider.com/de/domain-name-video-security.html",
+				"feature_value": "1",
+				"cluster_win_mean": "9.59",
+				"delta": " 8.59"
+			},
+			{
+				"html_id": "http://www.streamingvideoprovider.com/es/domain-name-video-security.html",
+				"feature_value": "1",
+				"cluster_win_mean": "9.59",
+				"delta": " 8.59"
+			},
+			{
+				"html_id": "http://www.streamingvideoprovider.com/de/streaming-video-reseller-panel-overview.html",
+				"feature_value": "1",
+				"cluster_win_mean": "9.59",
+				"delta": " 8.59"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com/es/streaming-video-reseller-panel-overview.html",
 				"feature_value": "1",
-				"cluster_win_mean": "7.65",
-				"delta": "6.65"
+				"cluster_win_mean": "9.59",
+				"delta": " 8.59"
+			},
+			{
+				"html_id": "http://www.streamingvideoprovider.com#overview",
+				"feature_value": "1",
+				"cluster_win_mean": "9.59",
+				"delta": " 8.59"
+			},
+			{
+				"html_id": "http://www.streamingvideoprovider.com#benefits",
+				"feature_value": "1",
+				"cluster_win_mean": "9.59",
+				"delta": " 8.59"
+			},
+			{
+				"html_id": "http://www.streamingvideoprovider.com#how-it-works",
+				"feature_value": "1",
+				"cluster_win_mean": "9.59",
+				"delta": " 8.59"
+			},
+			{
+				"html_id": "http://www.streamingvideoprovider.com#demo",
+				"feature_value": "1",
+				"cluster_win_mean": "9.59",
+				"delta": " 8.59"
+			},
+			{
+				"html_id": "http://www.streamingvideoprovider.com#apply",
+				"feature_value": "1",
+				"cluster_win_mean": "9.59",
+				"delta": " 8.59"
 			}
 		],
 		"number_of_images_in_body": [
 			{
 				"html_id": "http://www.streamingvideoprovider.com/de/video-tracking-google-analytics.html",
 				"feature_value": "0",
-				"cluster_win_mean": "17.35",
-				"delta": "17.35"
+				"cluster_win_mean": " 4.88",
+				"delta": " 4.88"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com/es/video-tracking-google-analytics.html",
 				"feature_value": "0",
-				"cluster_win_mean": "17.35",
-				"delta": "17.35"
+				"cluster_win_mean": " 4.88",
+				"delta": " 4.88"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com/de/customers-case-study-streamingvideoprovider.html",
 				"feature_value": "0",
-				"cluster_win_mean": "17.35",
-				"delta": "17.35"
+				"cluster_win_mean": " 4.88",
+				"delta": " 4.88"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com/es/customers-case-study-streamingvideoprovider.html",
 				"feature_value": "0",
-				"cluster_win_mean": "17.35",
-				"delta": "17.35"
+				"cluster_win_mean": " 4.88",
+				"delta": " 4.88"
 			},
-			{
-				"html_id": "http://www.streamingvideoprovider.com/de/domain-name-video-security.html",
-				"feature_value": "0",
-				"cluster_win_mean": "17.35",
-				"delta": "17.35"
-			},
-			{
-				"html_id": "http://www.streamingvideoprovider.com/es/domain-name-video-security.html",
-				"feature_value": "0",
-				"cluster_win_mean": "17.35",
-				"delta": "17.35"
-			},
-			{
-				"html_id": "http://www.streamingvideoprovider.com/de/streaming-video-reseller-panel-overview.html",
-				"feature_value": "0",
-				"cluster_win_mean": "17.35",
-				"delta": "17.35"
-			},
-			{
-				"html_id": "http://www.streamingvideoprovider.com#overview",
-				"feature_value": "0",
-				"cluster_win_mean": "17.35",
-				"delta": "17.35"
-			},
-			{
-				"html_id": "http://www.streamingvideoprovider.com#benefits",
-				"feature_value": "0",
-				"cluster_win_mean": "17.35",
-				"delta": "17.35"
-			},
-			{
-				"html_id": "http://www.streamingvideoprovider.com#how-it-works",
-				"feature_value": "0",
-				"cluster_win_mean": "17.35",
-				"delta": "17.35"
-			},
-			{
-				"html_id": "http://www.streamingvideoprovider.com#demo",
-				"feature_value": "0",
-				"cluster_win_mean": "17.35",
-				"delta": "17.35"
-			},
-			{
-				"html_id": "http://www.streamingvideoprovider.com#apply",
-				"feature_value": "0",
-				"cluster_win_mean": "17.35",
-				"delta": "17.35"
-			}
-		],
-		"number_of_destination_titles_same_as_anchor_text": [
 			{
 				"html_id": "http://www.streamingvideoprovider.com/de/ppv_system_demo_pay_per_view.html",
 				"feature_value": "0",
-				"cluster_win_mean": "6.14",
-				"delta": "6.14"
+				"cluster_win_mean": " 4.88",
+				"delta": " 4.88"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com/es/ppv_system_demo_pay_per_view.html",
 				"feature_value": "0",
-				"cluster_win_mean": "6.14",
-				"delta": "6.14"
+				"cluster_win_mean": " 4.88",
+				"delta": " 4.88"
+			},
+			{
+				"html_id": "http://www.streamingvideoprovider.com/de/live-video-streaming-live-broadcasting.html",
+				"feature_value": "0",
+				"cluster_win_mean": " 4.88",
+				"delta": " 4.88"
+			},
+			{
+				"html_id": "http://www.streamingvideoprovider.com/es/live-video-streaming-live-broadcasting.html",
+				"feature_value": "0",
+				"cluster_win_mean": " 4.88",
+				"delta": " 4.88"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com/streaming-video-players.html#webcast",
 				"feature_value": "0",
-				"cluster_win_mean": "6.14",
-				"delta": "6.14"
+				"cluster_win_mean": "17.95",
+				"delta": "17.95"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com/kb/index.php/category/live-streaming-broadcasting-1#p78",
-				"feature_value": "0",
-				"cluster_win_mean": "6.14",
-				"delta": "6.14"
+				"feature_value": "5",
+				"cluster_win_mean": "17.95",
+				"delta": "12.95"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com/kb/index.php/category/live-streaming-broadcasting-1#p117",
+				"feature_value": "5",
+				"cluster_win_mean": "17.95",
+				"delta": "12.95"
+			},
+			{
+				"html_id": "http://www.streamingvideoprovider.com/de/domain-name-video-security.html",
 				"feature_value": "0",
-				"cluster_win_mean": "6.14",
-				"delta": "6.14"
+				"cluster_win_mean": " 4.88",
+				"delta": " 4.88"
+			},
+			{
+				"html_id": "http://www.streamingvideoprovider.com/es/domain-name-video-security.html",
+				"feature_value": "0",
+				"cluster_win_mean": " 4.88",
+				"delta": " 4.88"
+			},
+			{
+				"html_id": "http://www.streamingvideoprovider.com/de/streaming-video-reseller-panel-overview.html",
+				"feature_value": "0",
+				"cluster_win_mean": " 4.88",
+				"delta": " 4.88"
+			},
+			{
+				"html_id": "http://www.streamingvideoprovider.com/es/streaming-video-reseller-panel-overview.html",
+				"feature_value": "0",
+				"cluster_win_mean": " 4.88",
+				"delta": " 4.88"
+			},
+			{
+				"html_id": "http://www.streamingvideoprovider.com#overview",
+				"feature_value": "0",
+				"cluster_win_mean": " 4.88",
+				"delta": " 4.88"
+			},
+			{
+				"html_id": "http://www.streamingvideoprovider.com#benefits",
+				"feature_value": "0",
+				"cluster_win_mean": " 4.88",
+				"delta": " 4.88"
+			},
+			{
+				"html_id": "http://www.streamingvideoprovider.com#how-it-works",
+				"feature_value": "0",
+				"cluster_win_mean": " 4.88",
+				"delta": " 4.88"
+			},
+			{
+				"html_id": "http://www.streamingvideoprovider.com#demo",
+				"feature_value": "0",
+				"cluster_win_mean": " 4.88",
+				"delta": " 4.88"
+			},
+			{
+				"html_id": "http://www.streamingvideoprovider.com#apply",
+				"feature_value": "0",
+				"cluster_win_mean": " 4.88",
+				"delta": " 4.88"
 			}
 		]
 	},
 	"harmful": {
 		"average_backlink_dale_chall_readability": [
 			{
+				"html_id": "http://www.streamingvideoprovider.com/de/video-tracking-google-analytics.html",
+				"feature_value": "0",
+				"cluster_win_mean": "52.85",
+				"delta": "52.85"
+			},
+			{
+				"html_id": "http://www.streamingvideoprovider.com/es/video-tracking-google-analytics.html",
+				"feature_value": "0",
+				"cluster_win_mean": "52.85",
+				"delta": "52.85"
+			},
+			{
+				"html_id": "http://www.streamingvideoprovider.com/de/customers-case-study-streamingvideoprovider.html",
+				"feature_value": "0",
+				"cluster_win_mean": "52.85",
+				"delta": "52.85"
+			},
+			{
+				"html_id": "http://www.streamingvideoprovider.com/es/customers-case-study-streamingvideoprovider.html",
+				"feature_value": "0",
+				"cluster_win_mean": "52.85",
+				"delta": "52.85"
+			},
+			{
+				"html_id": "http://www.streamingvideoprovider.com/de/ppv_system_demo_pay_per_view.html",
+				"feature_value": "0",
+				"cluster_win_mean": "52.85",
+				"delta": "52.85"
+			},
+			{
+				"html_id": "http://www.streamingvideoprovider.com/es/ppv_system_demo_pay_per_view.html",
+				"feature_value": "0",
+				"cluster_win_mean": "52.85",
+				"delta": "52.85"
+			},
+			{
 				"html_id": "http://www.streamingvideoprovider.com/de/live-video-streaming-live-broadcasting.html",
 				"feature_value": "0",
-				"cluster_win_mean": "9",
-				"delta": "9"
+				"cluster_win_mean": "52.85",
+				"delta": "52.85"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com/es/live-video-streaming-live-broadcasting.html",
 				"feature_value": "0",
-				"cluster_win_mean": "9",
-				"delta": "9"
+				"cluster_win_mean": "52.85",
+				"delta": "52.85"
+			},
+			{
+				"html_id": "http://www.streamingvideoprovider.com/de/domain-name-video-security.html",
+				"feature_value": "0",
+				"cluster_win_mean": "52.85",
+				"delta": "52.85"
+			},
+			{
+				"html_id": "http://www.streamingvideoprovider.com/es/domain-name-video-security.html",
+				"feature_value": "0",
+				"cluster_win_mean": "52.85",
+				"delta": "52.85"
+			},
+			{
+				"html_id": "http://www.streamingvideoprovider.com/de/streaming-video-reseller-panel-overview.html",
+				"feature_value": "0",
+				"cluster_win_mean": "52.85",
+				"delta": "52.85"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com/es/streaming-video-reseller-panel-overview.html",
 				"feature_value": "0",
-				"cluster_win_mean": "9",
-				"delta": "9"
+				"cluster_win_mean": "52.85",
+				"delta": "52.85"
+			},
+			{
+				"html_id": "http://www.streamingvideoprovider.com#overview",
+				"feature_value": "0",
+				"cluster_win_mean": "52.85",
+				"delta": "52.85"
+			},
+			{
+				"html_id": "http://www.streamingvideoprovider.com#benefits",
+				"feature_value": "0",
+				"cluster_win_mean": "52.85",
+				"delta": "52.85"
+			},
+			{
+				"html_id": "http://www.streamingvideoprovider.com#how-it-works",
+				"feature_value": "0",
+				"cluster_win_mean": "52.85",
+				"delta": "52.85"
+			},
+			{
+				"html_id": "http://www.streamingvideoprovider.com#demo",
+				"feature_value": "0",
+				"cluster_win_mean": "52.85",
+				"delta": "52.85"
+			},
+			{
+				"html_id": "http://www.streamingvideoprovider.com#apply",
+				"feature_value": "0",
+				"cluster_win_mean": "52.85",
+				"delta": "52.85"
 			}
 		],
 		"average_backlink_flesch_reading_ease": [
 			{
 				"html_id": "http://www.streamingvideoprovider.com/de/video-tracking-google-analytics.html",
 				"feature_value": "0",
-				"cluster_win_mean": "47.78",
-				"delta": "47.78"
+				"cluster_win_mean": "12.39",
+				"delta": "12.39"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com/es/video-tracking-google-analytics.html",
 				"feature_value": "0",
-				"cluster_win_mean": "47.78",
-				"delta": "47.78"
+				"cluster_win_mean": "12.39",
+				"delta": "12.39"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com/de/customers-case-study-streamingvideoprovider.html",
 				"feature_value": "0",
-				"cluster_win_mean": "47.78",
-				"delta": "47.78"
+				"cluster_win_mean": "12.39",
+				"delta": "12.39"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com/es/customers-case-study-streamingvideoprovider.html",
 				"feature_value": "0",
-				"cluster_win_mean": "47.78",
-				"delta": "47.78"
+				"cluster_win_mean": "12.39",
+				"delta": "12.39"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com/de/ppv_system_demo_pay_per_view.html",
 				"feature_value": "0",
-				"cluster_win_mean": "53.39",
-				"delta": "53.39"
+				"cluster_win_mean": "12.39",
+				"delta": "12.39"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com/es/ppv_system_demo_pay_per_view.html",
 				"feature_value": "0",
-				"cluster_win_mean": "53.39",
-				"delta": "53.39"
+				"cluster_win_mean": "12.39",
+				"delta": "12.39"
+			},
+			{
+				"html_id": "http://www.streamingvideoprovider.com/de/live-video-streaming-live-broadcasting.html",
+				"feature_value": "0",
+				"cluster_win_mean": "12.39",
+				"delta": "12.39"
+			},
+			{
+				"html_id": "http://www.streamingvideoprovider.com/es/live-video-streaming-live-broadcasting.html",
+				"feature_value": "0",
+				"cluster_win_mean": "12.39",
+				"delta": "12.39"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com/streaming-video-players.html#webcast",
 				"feature_value": "0",
-				"cluster_win_mean": "53.39",
-				"delta": "53.39"
+				"cluster_win_mean": "17.14",
+				"delta": "17.14"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com/kb/index.php/category/live-streaming-broadcasting-1#p78",
 				"feature_value": "0",
-				"cluster_win_mean": "53.39",
-				"delta": "53.39"
+				"cluster_win_mean": "17.14",
+				"delta": "17.14"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com/kb/index.php/category/live-streaming-broadcasting-1#p117",
 				"feature_value": "0",
-				"cluster_win_mean": "53.39",
-				"delta": "53.39"
+				"cluster_win_mean": "17.14",
+				"delta": "17.14"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com/de/domain-name-video-security.html",
 				"feature_value": "0",
-				"cluster_win_mean": "47.78",
-				"delta": "47.78"
+				"cluster_win_mean": "12.39",
+				"delta": "12.39"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com/es/domain-name-video-security.html",
 				"feature_value": "0",
-				"cluster_win_mean": "47.78",
-				"delta": "47.78"
+				"cluster_win_mean": "12.39",
+				"delta": "12.39"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com/de/streaming-video-reseller-panel-overview.html",
 				"feature_value": "0",
-				"cluster_win_mean": "47.78",
-				"delta": "47.78"
+				"cluster_win_mean": "12.39",
+				"delta": "12.39"
+			},
+			{
+				"html_id": "http://www.streamingvideoprovider.com/es/streaming-video-reseller-panel-overview.html",
+				"feature_value": "0",
+				"cluster_win_mean": "12.39",
+				"delta": "12.39"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com#overview",
 				"feature_value": "0",
-				"cluster_win_mean": "47.78",
-				"delta": "47.78"
+				"cluster_win_mean": "12.39",
+				"delta": "12.39"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com#benefits",
 				"feature_value": "0",
-				"cluster_win_mean": "47.78",
-				"delta": "47.78"
+				"cluster_win_mean": "12.39",
+				"delta": "12.39"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com#how-it-works",
 				"feature_value": "0",
-				"cluster_win_mean": "47.78",
-				"delta": "47.78"
+				"cluster_win_mean": "12.39",
+				"delta": "12.39"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com#demo",
 				"feature_value": "0",
-				"cluster_win_mean": "47.78",
-				"delta": "47.78"
+				"cluster_win_mean": "12.39",
+				"delta": "12.39"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com#apply",
 				"feature_value": "0",
-				"cluster_win_mean": "47.78",
-				"delta": "47.78"
+				"cluster_win_mean": "12.39",
+				"delta": "12.39"
 			}
 		],
 		"average_backlink_flesch_kincaid_grade": [
 			{
+				"html_id": "http://www.streamingvideoprovider.com/de/video-tracking-google-analytics.html",
+				"feature_value": "0",
+				"cluster_win_mean": "7.37",
+				"delta": "7.37"
+			},
+			{
+				"html_id": "http://www.streamingvideoprovider.com/es/video-tracking-google-analytics.html",
+				"feature_value": "0",
+				"cluster_win_mean": "7.37",
+				"delta": "7.37"
+			},
+			{
+				"html_id": "http://www.streamingvideoprovider.com/de/customers-case-study-streamingvideoprovider.html",
+				"feature_value": "0",
+				"cluster_win_mean": "7.37",
+				"delta": "7.37"
+			},
+			{
+				"html_id": "http://www.streamingvideoprovider.com/es/customers-case-study-streamingvideoprovider.html",
+				"feature_value": "0",
+				"cluster_win_mean": "7.37",
+				"delta": "7.37"
+			},
+			{
+				"html_id": "http://www.streamingvideoprovider.com/de/ppv_system_demo_pay_per_view.html",
+				"feature_value": "0",
+				"cluster_win_mean": "7.37",
+				"delta": "7.37"
+			},
+			{
+				"html_id": "http://www.streamingvideoprovider.com/es/ppv_system_demo_pay_per_view.html",
+				"feature_value": "0",
+				"cluster_win_mean": "7.37",
+				"delta": "7.37"
+			},
+			{
 				"html_id": "http://www.streamingvideoprovider.com/de/live-video-streaming-live-broadcasting.html",
 				"feature_value": "0",
-				"cluster_win_mean": "12.38",
-				"delta": "12.38"
+				"cluster_win_mean": "7.37",
+				"delta": "7.37"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com/es/live-video-streaming-live-broadcasting.html",
 				"feature_value": "0",
-				"cluster_win_mean": "12.38",
-				"delta": "12.38"
+				"cluster_win_mean": "7.37",
+				"delta": "7.37"
+			},
+			{
+				"html_id": "http://www.streamingvideoprovider.com/streaming-video-players.html#webcast",
+				"feature_value": "0",
+				"cluster_win_mean": "8.29",
+				"delta": "8.29"
+			},
+			{
+				"html_id": "http://www.streamingvideoprovider.com/kb/index.php/category/live-streaming-broadcasting-1#p78",
+				"feature_value": "0",
+				"cluster_win_mean": "8.29",
+				"delta": "8.29"
+			},
+			{
+				"html_id": "http://www.streamingvideoprovider.com/kb/index.php/category/live-streaming-broadcasting-1#p117",
+				"feature_value": "0",
+				"cluster_win_mean": "8.29",
+				"delta": "8.29"
+			},
+			{
+				"html_id": "http://www.streamingvideoprovider.com/de/domain-name-video-security.html",
+				"feature_value": "0",
+				"cluster_win_mean": "7.37",
+				"delta": "7.37"
+			},
+			{
+				"html_id": "http://www.streamingvideoprovider.com/es/domain-name-video-security.html",
+				"feature_value": "0",
+				"cluster_win_mean": "7.37",
+				"delta": "7.37"
+			},
+			{
+				"html_id": "http://www.streamingvideoprovider.com/de/streaming-video-reseller-panel-overview.html",
+				"feature_value": "0",
+				"cluster_win_mean": "7.37",
+				"delta": "7.37"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com/es/streaming-video-reseller-panel-overview.html",
 				"feature_value": "0",
-				"cluster_win_mean": "12.38",
-				"delta": "12.38"
+				"cluster_win_mean": "7.37",
+				"delta": "7.37"
+			},
+			{
+				"html_id": "http://www.streamingvideoprovider.com#overview",
+				"feature_value": "0",
+				"cluster_win_mean": "7.37",
+				"delta": "7.37"
+			},
+			{
+				"html_id": "http://www.streamingvideoprovider.com#benefits",
+				"feature_value": "0",
+				"cluster_win_mean": "7.37",
+				"delta": "7.37"
+			},
+			{
+				"html_id": "http://www.streamingvideoprovider.com#how-it-works",
+				"feature_value": "0",
+				"cluster_win_mean": "7.37",
+				"delta": "7.37"
+			},
+			{
+				"html_id": "http://www.streamingvideoprovider.com#demo",
+				"feature_value": "0",
+				"cluster_win_mean": "7.37",
+				"delta": "7.37"
+			},
+			{
+				"html_id": "http://www.streamingvideoprovider.com#apply",
+				"feature_value": "0",
+				"cluster_win_mean": "7.37",
+				"delta": "7.37"
 			}
 		],
 		"maximum_length_of_h1": [
 			{
-				"html_id": "http://www.streamingvideoprovider.com/de/video-tracking-google-analytics.html",
-				"feature_value": "46",
-				"cluster_win_mean": "77.16",
-				"delta": " 31.16"
-			},
-			{
-				"html_id": "http://www.streamingvideoprovider.com/es/video-tracking-google-analytics.html",
-				"feature_value": "47",
-				"cluster_win_mean": "77.16",
-				"delta": " 30.16"
-			},
-			{
-				"html_id": "http://www.streamingvideoprovider.com/de/customers-case-study-streamingvideoprovider.html",
-				"feature_value": "11",
-				"cluster_win_mean": "77.16",
-				"delta": " 66.16"
-			},
-			{
-				"html_id": "http://www.streamingvideoprovider.com/es/customers-case-study-streamingvideoprovider.html",
-				"feature_value": "16",
-				"cluster_win_mean": "77.16",
-				"delta": " 61.16"
-			},
-			{
 				"html_id": "http://www.streamingvideoprovider.com/de/live-video-streaming-live-broadcasting.html",
 				"feature_value": "75",
-				"cluster_win_mean": "18.65",
-				"delta": "-56.35"
+				"cluster_win_mean": "24.98",
+				"delta": "-50.02"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com/es/live-video-streaming-live-broadcasting.html",
 				"feature_value": "68",
-				"cluster_win_mean": "18.65",
-				"delta": "-49.35"
+				"cluster_win_mean": "24.98",
+				"delta": "-43.02"
+			},
+			{
+				"html_id": "http://www.streamingvideoprovider.com/streaming-video-players.html#webcast",
+				"feature_value": " 0",
+				"cluster_win_mean": "77.29",
+				"delta": " 77.29"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com/kb/index.php/category/live-streaming-broadcasting-1#p78",
 				"feature_value": "37",
-				"cluster_win_mean": "39.12",
-				"delta": "  2.12"
+				"cluster_win_mean": "77.29",
+				"delta": " 40.29"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com/kb/index.php/category/live-streaming-broadcasting-1#p117",
 				"feature_value": "37",
-				"cluster_win_mean": "39.12",
-				"delta": "  2.12"
+				"cluster_win_mean": "77.29",
+				"delta": " 40.29"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com/de/domain-name-video-security.html",
 				"feature_value": "65",
-				"cluster_win_mean": "77.16",
-				"delta": " 12.16"
-			},
-			{
-				"html_id": "http://www.streamingvideoprovider.com/es/domain-name-video-security.html",
-				"feature_value": "54",
-				"cluster_win_mean": "77.16",
-				"delta": " 23.16"
-			},
-			{
-				"html_id": "http://www.streamingvideoprovider.com/de/streaming-video-reseller-panel-overview.html",
-				"feature_value": "35",
-				"cluster_win_mean": "77.16",
-				"delta": " 42.16"
+				"cluster_win_mean": "24.98",
+				"delta": "-40.02"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com/es/streaming-video-reseller-panel-overview.html",
 				"feature_value": "58",
-				"cluster_win_mean": "18.65",
-				"delta": "-39.35"
-			},
-			{
-				"html_id": "http://www.streamingvideoprovider.com#overview",
-				"feature_value": " 0",
-				"cluster_win_mean": "77.16",
-				"delta": " 77.16"
-			},
-			{
-				"html_id": "http://www.streamingvideoprovider.com#benefits",
-				"feature_value": " 0",
-				"cluster_win_mean": "77.16",
-				"delta": " 77.16"
-			},
-			{
-				"html_id": "http://www.streamingvideoprovider.com#how-it-works",
-				"feature_value": " 0",
-				"cluster_win_mean": "77.16",
-				"delta": " 77.16"
-			},
-			{
-				"html_id": "http://www.streamingvideoprovider.com#demo",
-				"feature_value": " 0",
-				"cluster_win_mean": "77.16",
-				"delta": " 77.16"
-			},
-			{
-				"html_id": "http://www.streamingvideoprovider.com#apply",
-				"feature_value": " 0",
-				"cluster_win_mean": "77.16",
-				"delta": " 77.16"
+				"cluster_win_mean": "24.98",
+				"delta": "-33.02"
 			}
 		],
 		"average_length_of_h1": [
 			{
-				"html_id": "http://www.streamingvideoprovider.com/de/video-tracking-google-analytics.html",
-				"feature_value": "46",
-				"cluster_win_mean": "48.79",
-				"delta": "  2.79"
-			},
-			{
-				"html_id": "http://www.streamingvideoprovider.com/es/video-tracking-google-analytics.html",
-				"feature_value": "47",
-				"cluster_win_mean": "48.79",
-				"delta": "  1.79"
-			},
-			{
-				"html_id": "http://www.streamingvideoprovider.com/es/customers-case-study-streamingvideoprovider.html",
-				"feature_value": "16",
-				"cluster_win_mean": "48.79",
-				"delta": " 32.79"
-			},
-			{
 				"html_id": "http://www.streamingvideoprovider.com/de/live-video-streaming-live-broadcasting.html",
 				"feature_value": "75",
-				"cluster_win_mean": "17.24",
-				"delta": "-57.76"
+				"cluster_win_mean": "21.19",
+				"delta": "-53.81"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com/es/live-video-streaming-live-broadcasting.html",
 				"feature_value": "68",
-				"cluster_win_mean": "17.24",
-				"delta": "-50.76"
+				"cluster_win_mean": "21.19",
+				"delta": "-46.81"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com/kb/index.php/category/live-streaming-broadcasting-1#p78",
 				"feature_value": "37",
-				"cluster_win_mean": "38.81",
-				"delta": "  1.81"
+				"cluster_win_mean": "50.38",
+				"delta": " 13.38"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com/kb/index.php/category/live-streaming-broadcasting-1#p117",
 				"feature_value": "37",
-				"cluster_win_mean": "38.81",
-				"delta": "  1.81"
+				"cluster_win_mean": "50.38",
+				"delta": " 13.38"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com/de/domain-name-video-security.html",
 				"feature_value": "65",
-				"cluster_win_mean": "48.79",
-				"delta": "-16.21"
-			},
-			{
-				"html_id": "http://www.streamingvideoprovider.com/es/domain-name-video-security.html",
-				"feature_value": "54",
-				"cluster_win_mean": "48.79",
-				"delta": " -5.21"
-			},
-			{
-				"html_id": "http://www.streamingvideoprovider.com/de/streaming-video-reseller-panel-overview.html",
-				"feature_value": "35",
-				"cluster_win_mean": "48.79",
-				"delta": " 13.79"
+				"cluster_win_mean": "21.19",
+				"delta": "-43.81"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com/es/streaming-video-reseller-panel-overview.html",
 				"feature_value": "58",
-				"cluster_win_mean": "17.24",
-				"delta": "-40.76"
+				"cluster_win_mean": "21.19",
+				"delta": "-36.81"
 			}
 		],
 		"number_of_root_relative_internal_links": [
 			{
-				"html_id": "http://www.streamingvideoprovider.com/de/video-tracking-google-analytics.html",
+				"html_id": "http://www.streamingvideoprovider.com/streaming-video-players.html#webcast",
 				"feature_value": "0",
 				"cluster_win_mean": "1",
 				"delta": "1"
 			},
 			{
-				"html_id": "http://www.streamingvideoprovider.com/es/video-tracking-google-analytics.html",
+				"html_id": "http://www.streamingvideoprovider.com/kb/index.php/category/live-streaming-broadcasting-1#p78",
 				"feature_value": "0",
 				"cluster_win_mean": "1",
 				"delta": "1"
 			},
 			{
-				"html_id": "http://www.streamingvideoprovider.com/de/customers-case-study-streamingvideoprovider.html",
-				"feature_value": "0",
-				"cluster_win_mean": "1",
-				"delta": "1"
-			},
-			{
-				"html_id": "http://www.streamingvideoprovider.com/es/customers-case-study-streamingvideoprovider.html",
-				"feature_value": "0",
-				"cluster_win_mean": "1",
-				"delta": "1"
-			},
-			{
-				"html_id": "http://www.streamingvideoprovider.com/de/domain-name-video-security.html",
-				"feature_value": "0",
-				"cluster_win_mean": "1",
-				"delta": "1"
-			},
-			{
-				"html_id": "http://www.streamingvideoprovider.com/es/domain-name-video-security.html",
-				"feature_value": "0",
-				"cluster_win_mean": "1",
-				"delta": "1"
-			},
-			{
-				"html_id": "http://www.streamingvideoprovider.com/de/streaming-video-reseller-panel-overview.html",
-				"feature_value": "0",
-				"cluster_win_mean": "1",
-				"delta": "1"
-			},
-			{
-				"html_id": "http://www.streamingvideoprovider.com#overview",
-				"feature_value": "0",
-				"cluster_win_mean": "1",
-				"delta": "1"
-			},
-			{
-				"html_id": "http://www.streamingvideoprovider.com#benefits",
-				"feature_value": "0",
-				"cluster_win_mean": "1",
-				"delta": "1"
-			},
-			{
-				"html_id": "http://www.streamingvideoprovider.com#how-it-works",
-				"feature_value": "0",
-				"cluster_win_mean": "1",
-				"delta": "1"
-			},
-			{
-				"html_id": "http://www.streamingvideoprovider.com#demo",
-				"feature_value": "0",
-				"cluster_win_mean": "1",
-				"delta": "1"
-			},
-			{
-				"html_id": "http://www.streamingvideoprovider.com#apply",
+				"html_id": "http://www.streamingvideoprovider.com/kb/index.php/category/live-streaming-broadcasting-1#p117",
 				"feature_value": "0",
 				"cluster_win_mean": "1",
 				"delta": "1"
@@ -2028,540 +2082,590 @@
 			{
 				"html_id": "http://www.streamingvideoprovider.com/de/video-tracking-google-analytics.html",
 				"feature_value": " 84",
-				"cluster_win_mean": "91.31",
-				"delta": "  7.31"
+				"cluster_win_mean": "71.62",
+				"delta": "-12.38"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com/es/video-tracking-google-analytics.html",
 				"feature_value": " 71",
-				"cluster_win_mean": "91.31",
-				"delta": " 20.31"
+				"cluster_win_mean": "71.62",
+				"delta": "  0.62"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com/de/customers-case-study-streamingvideoprovider.html",
 				"feature_value": " 83",
-				"cluster_win_mean": "91.31",
-				"delta": "  8.31"
+				"cluster_win_mean": "71.62",
+				"delta": "-11.38"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com/es/customers-case-study-streamingvideoprovider.html",
 				"feature_value": " 83",
-				"cluster_win_mean": "91.31",
-				"delta": "  8.31"
+				"cluster_win_mean": "71.62",
+				"delta": "-11.38"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com/de/live-video-streaming-live-broadcasting.html",
 				"feature_value": "102",
-				"cluster_win_mean": "89.44",
-				"delta": "-12.56"
+				"cluster_win_mean": "71.62",
+				"delta": "-30.38"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com/es/live-video-streaming-live-broadcasting.html",
 				"feature_value": "102",
-				"cluster_win_mean": "89.44",
-				"delta": "-12.56"
+				"cluster_win_mean": "71.62",
+				"delta": "-30.38"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com/streaming-video-players.html#webcast",
 				"feature_value": "  0",
-				"cluster_win_mean": "49.87",
-				"delta": " 49.87"
+				"cluster_win_mean": "91.03",
+				"delta": " 91.03"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com/kb/index.php/category/live-streaming-broadcasting-1#p78",
 				"feature_value": " 33",
-				"cluster_win_mean": "49.87",
-				"delta": " 16.87"
+				"cluster_win_mean": "91.03",
+				"delta": " 58.03"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com/kb/index.php/category/live-streaming-broadcasting-1#p117",
 				"feature_value": " 33",
-				"cluster_win_mean": "49.87",
-				"delta": " 16.87"
+				"cluster_win_mean": "91.03",
+				"delta": " 58.03"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com/de/domain-name-video-security.html",
 				"feature_value": " 82",
-				"cluster_win_mean": "91.31",
-				"delta": "  9.31"
+				"cluster_win_mean": "71.62",
+				"delta": "-10.38"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com/es/domain-name-video-security.html",
 				"feature_value": " 69",
-				"cluster_win_mean": "91.31",
-				"delta": " 22.31"
+				"cluster_win_mean": "71.62",
+				"delta": "  2.62"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com/de/streaming-video-reseller-panel-overview.html",
 				"feature_value": " 86",
-				"cluster_win_mean": "91.31",
-				"delta": "  5.31"
+				"cluster_win_mean": "71.62",
+				"delta": "-14.38"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com/es/streaming-video-reseller-panel-overview.html",
 				"feature_value": " 86",
-				"cluster_win_mean": "89.44",
-				"delta": "  3.44"
+				"cluster_win_mean": "71.62",
+				"delta": "-14.38"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com#overview",
 				"feature_value": "111",
-				"cluster_win_mean": "91.31",
-				"delta": "-19.69"
+				"cluster_win_mean": "71.62",
+				"delta": "-39.38"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com#benefits",
 				"feature_value": "111",
-				"cluster_win_mean": "91.31",
-				"delta": "-19.69"
+				"cluster_win_mean": "71.62",
+				"delta": "-39.38"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com#how-it-works",
 				"feature_value": "111",
-				"cluster_win_mean": "91.31",
-				"delta": "-19.69"
+				"cluster_win_mean": "71.62",
+				"delta": "-39.38"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com#demo",
 				"feature_value": "111",
-				"cluster_win_mean": "91.31",
-				"delta": "-19.69"
+				"cluster_win_mean": "71.62",
+				"delta": "-39.38"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com#apply",
 				"feature_value": "111",
-				"cluster_win_mean": "91.31",
-				"delta": "-19.69"
+				"cluster_win_mean": "71.62",
+				"delta": "-39.38"
 			}
 		],
 		"number_of_hyperlinks_with_file": [
 			{
-				"html_id": "http://www.streamingvideoprovider.com/de/video-tracking-google-analytics.html",
-				"feature_value": "55",
-				"cluster_win_mean": "6.24",
-				"delta": "-48.76"
-			},
-			{
-				"html_id": "http://www.streamingvideoprovider.com/es/video-tracking-google-analytics.html",
-				"feature_value": "42",
-				"cluster_win_mean": "6.24",
-				"delta": "-35.76"
-			},
-			{
-				"html_id": "http://www.streamingvideoprovider.com/de/customers-case-study-streamingvideoprovider.html",
-				"feature_value": "56",
-				"cluster_win_mean": "6.24",
-				"delta": "-49.76"
-			},
-			{
-				"html_id": "http://www.streamingvideoprovider.com/es/customers-case-study-streamingvideoprovider.html",
-				"feature_value": "56",
-				"cluster_win_mean": "6.24",
-				"delta": "-49.76"
-			},
-			{
-				"html_id": "http://www.streamingvideoprovider.com/de/live-video-streaming-live-broadcasting.html",
-				"feature_value": "55",
-				"cluster_win_mean": "8.87",
-				"delta": "-46.13"
-			},
-			{
-				"html_id": "http://www.streamingvideoprovider.com/es/live-video-streaming-live-broadcasting.html",
-				"feature_value": "55",
-				"cluster_win_mean": "8.87",
-				"delta": "-46.13"
-			},
-			{
 				"html_id": "http://www.streamingvideoprovider.com/streaming-video-players.html#webcast",
 				"feature_value": " 0",
-				"cluster_win_mean": "7.66",
-				"delta": "  7.66"
-			},
-			{
-				"html_id": "http://www.streamingvideoprovider.com/de/domain-name-video-security.html",
-				"feature_value": "54",
-				"cluster_win_mean": "6.24",
-				"delta": "-47.76"
-			},
-			{
-				"html_id": "http://www.streamingvideoprovider.com/es/domain-name-video-security.html",
-				"feature_value": "41",
-				"cluster_win_mean": "6.24",
-				"delta": "-34.76"
-			},
-			{
-				"html_id": "http://www.streamingvideoprovider.com/de/streaming-video-reseller-panel-overview.html",
-				"feature_value": "46",
-				"cluster_win_mean": "6.24",
-				"delta": "-39.76"
-			},
-			{
-				"html_id": "http://www.streamingvideoprovider.com/es/streaming-video-reseller-panel-overview.html",
-				"feature_value": "49",
-				"cluster_win_mean": "8.87",
-				"delta": "-40.13"
+				"cluster_win_mean": "6.25",
+				"delta": "  6.25"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com#overview",
 				"feature_value": "84",
-				"cluster_win_mean": "6.24",
-				"delta": "-77.76"
+				"cluster_win_mean": "8.64",
+				"delta": "-75.36"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com#benefits",
 				"feature_value": "84",
-				"cluster_win_mean": "6.24",
-				"delta": "-77.76"
+				"cluster_win_mean": "8.64",
+				"delta": "-75.36"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com#how-it-works",
 				"feature_value": "84",
-				"cluster_win_mean": "6.24",
-				"delta": "-77.76"
+				"cluster_win_mean": "8.64",
+				"delta": "-75.36"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com#demo",
 				"feature_value": "84",
-				"cluster_win_mean": "6.24",
-				"delta": "-77.76"
+				"cluster_win_mean": "8.64",
+				"delta": "-75.36"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com#apply",
 				"feature_value": "84",
-				"cluster_win_mean": "6.24",
-				"delta": "-77.76"
+				"cluster_win_mean": "8.64",
+				"delta": "-75.36"
 			}
 		],
 		"number_of_images": [
 			{
-				"html_id": "http://www.streamingvideoprovider.com/de/ppv_system_demo_pay_per_view.html",
-				"feature_value": "0",
-				"cluster_win_mean": "14.49",
-				"delta": "14.49"
-			},
-			{
-				"html_id": "http://www.streamingvideoprovider.com/es/ppv_system_demo_pay_per_view.html",
-				"feature_value": "0",
-				"cluster_win_mean": "14.49",
-				"delta": "14.49"
-			},
-			{
-				"html_id": "http://www.streamingvideoprovider.com/de/live-video-streaming-live-broadcasting.html",
-				"feature_value": "0",
-				"cluster_win_mean": "11.74",
-				"delta": "11.74"
-			},
-			{
-				"html_id": "http://www.streamingvideoprovider.com/es/live-video-streaming-live-broadcasting.html",
-				"feature_value": "0",
-				"cluster_win_mean": "11.74",
-				"delta": "11.74"
-			},
-			{
 				"html_id": "http://www.streamingvideoprovider.com/streaming-video-players.html#webcast",
 				"feature_value": "0",
-				"cluster_win_mean": "14.49",
-				"delta": "14.49"
+				"cluster_win_mean": "17.95",
+				"delta": "17.95"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com/kb/index.php/category/live-streaming-broadcasting-1#p78",
 				"feature_value": "5",
-				"cluster_win_mean": "14.49",
-				"delta": " 9.49"
+				"cluster_win_mean": "17.95",
+				"delta": "12.95"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com/kb/index.php/category/live-streaming-broadcasting-1#p117",
 				"feature_value": "5",
-				"cluster_win_mean": "14.49",
-				"delta": " 9.49"
-			},
-			{
-				"html_id": "http://www.streamingvideoprovider.com/es/streaming-video-reseller-panel-overview.html",
-				"feature_value": "0",
-				"cluster_win_mean": "11.74",
-				"delta": "11.74"
+				"cluster_win_mean": "17.95",
+				"delta": "12.95"
 			}
 		],
 		"number_of_external_links": [
 			{
+				"html_id": "http://www.streamingvideoprovider.com/de/video-tracking-google-analytics.html",
+				"feature_value": " 2",
+				"cluster_win_mean": "25.41",
+				"delta": "23.41"
+			},
+			{
+				"html_id": "http://www.streamingvideoprovider.com/es/video-tracking-google-analytics.html",
+				"feature_value": " 3",
+				"cluster_win_mean": "25.41",
+				"delta": "22.41"
+			},
+			{
+				"html_id": "http://www.streamingvideoprovider.com/de/customers-case-study-streamingvideoprovider.html",
+				"feature_value": " 0",
+				"cluster_win_mean": "25.41",
+				"delta": "25.41"
+			},
+			{
+				"html_id": "http://www.streamingvideoprovider.com/es/customers-case-study-streamingvideoprovider.html",
+				"feature_value": " 1",
+				"cluster_win_mean": "25.41",
+				"delta": "24.41"
+			},
+			{
 				"html_id": "http://www.streamingvideoprovider.com/de/ppv_system_demo_pay_per_view.html",
 				"feature_value": " 0",
-				"cluster_win_mean": "45.78",
-				"delta": "45.78"
+				"cluster_win_mean": "25.41",
+				"delta": "25.41"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com/es/ppv_system_demo_pay_per_view.html",
 				"feature_value": " 1",
-				"cluster_win_mean": "45.78",
-				"delta": "44.78"
+				"cluster_win_mean": "25.41",
+				"delta": "24.41"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com/de/live-video-streaming-live-broadcasting.html",
 				"feature_value": " 2",
-				"cluster_win_mean": "15.28",
-				"delta": "13.28"
+				"cluster_win_mean": "25.41",
+				"delta": "23.41"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com/es/live-video-streaming-live-broadcasting.html",
 				"feature_value": " 3",
-				"cluster_win_mean": "15.28",
-				"delta": "12.28"
+				"cluster_win_mean": "25.41",
+				"delta": "22.41"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com/streaming-video-players.html#webcast",
 				"feature_value": " 0",
-				"cluster_win_mean": "45.78",
-				"delta": "45.78"
+				"cluster_win_mean": "84.95",
+				"delta": "84.95"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com/kb/index.php/category/live-streaming-broadcasting-1#p78",
 				"feature_value": "20",
-				"cluster_win_mean": "45.78",
-				"delta": "25.78"
+				"cluster_win_mean": "84.95",
+				"delta": "64.95"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com/kb/index.php/category/live-streaming-broadcasting-1#p117",
 				"feature_value": "20",
-				"cluster_win_mean": "45.78",
-				"delta": "25.78"
+				"cluster_win_mean": "84.95",
+				"delta": "64.95"
+			},
+			{
+				"html_id": "http://www.streamingvideoprovider.com/de/domain-name-video-security.html",
+				"feature_value": " 1",
+				"cluster_win_mean": "25.41",
+				"delta": "24.41"
+			},
+			{
+				"html_id": "http://www.streamingvideoprovider.com/es/domain-name-video-security.html",
+				"feature_value": " 2",
+				"cluster_win_mean": "25.41",
+				"delta": "23.41"
+			},
+			{
+				"html_id": "http://www.streamingvideoprovider.com/de/streaming-video-reseller-panel-overview.html",
+				"feature_value": " 2",
+				"cluster_win_mean": "25.41",
+				"delta": "23.41"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com/es/streaming-video-reseller-panel-overview.html",
 				"feature_value": " 3",
-				"cluster_win_mean": "15.28",
-				"delta": "12.28"
+				"cluster_win_mean": "25.41",
+				"delta": "22.41"
+			},
+			{
+				"html_id": "http://www.streamingvideoprovider.com#overview",
+				"feature_value": " 1",
+				"cluster_win_mean": "25.41",
+				"delta": "24.41"
+			},
+			{
+				"html_id": "http://www.streamingvideoprovider.com#benefits",
+				"feature_value": " 1",
+				"cluster_win_mean": "25.41",
+				"delta": "24.41"
+			},
+			{
+				"html_id": "http://www.streamingvideoprovider.com#how-it-works",
+				"feature_value": " 1",
+				"cluster_win_mean": "25.41",
+				"delta": "24.41"
+			},
+			{
+				"html_id": "http://www.streamingvideoprovider.com#demo",
+				"feature_value": " 1",
+				"cluster_win_mean": "25.41",
+				"delta": "24.41"
+			},
+			{
+				"html_id": "http://www.streamingvideoprovider.com#apply",
+				"feature_value": " 1",
+				"cluster_win_mean": "25.41",
+				"delta": "24.41"
 			}
 		],
 		"number_of_hyperlinks_with_html": [
 			{
 				"html_id": "http://www.streamingvideoprovider.com/de/video-tracking-google-analytics.html",
 				"feature_value": "55",
-				"cluster_win_mean": "40.68",
-				"delta": "-14.32"
-			},
-			{
-				"html_id": "http://www.streamingvideoprovider.com/es/video-tracking-google-analytics.html",
-				"feature_value": "42",
-				"cluster_win_mean": "40.68",
-				"delta": " -1.32"
+				"cluster_win_mean": " 31.5",
+				"delta": "-23.5"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com/de/customers-case-study-streamingvideoprovider.html",
 				"feature_value": "57",
-				"cluster_win_mean": "40.68",
-				"delta": "-16.32"
+				"cluster_win_mean": " 31.5",
+				"delta": "-25.5"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com/es/customers-case-study-streamingvideoprovider.html",
 				"feature_value": "57",
-				"cluster_win_mean": "40.68",
-				"delta": "-16.32"
+				"cluster_win_mean": " 31.5",
+				"delta": "-25.5"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com/de/live-video-streaming-live-broadcasting.html",
 				"feature_value": "58",
-				"cluster_win_mean": "29.39",
-				"delta": "-28.61"
+				"cluster_win_mean": " 31.5",
+				"delta": "-26.5"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com/es/live-video-streaming-live-broadcasting.html",
 				"feature_value": "58",
-				"cluster_win_mean": "29.39",
-				"delta": "-28.61"
+				"cluster_win_mean": " 31.5",
+				"delta": "-26.5"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com/streaming-video-players.html#webcast",
 				"feature_value": " 0",
-				"cluster_win_mean": "16.62",
-				"delta": " 16.62"
+				"cluster_win_mean": "39.42",
+				"delta": "39.42"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com/kb/index.php/category/live-streaming-broadcasting-1#p78",
 				"feature_value": " 9",
-				"cluster_win_mean": "16.62",
-				"delta": "  7.62"
+				"cluster_win_mean": "39.42",
+				"delta": "30.42"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com/kb/index.php/category/live-streaming-broadcasting-1#p117",
 				"feature_value": " 9",
-				"cluster_win_mean": "16.62",
-				"delta": "  7.62"
+				"cluster_win_mean": "39.42",
+				"delta": "30.42"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com/de/domain-name-video-security.html",
 				"feature_value": "55",
-				"cluster_win_mean": "40.68",
-				"delta": "-14.32"
-			},
-			{
-				"html_id": "http://www.streamingvideoprovider.com/es/domain-name-video-security.html",
-				"feature_value": "42",
-				"cluster_win_mean": "40.68",
-				"delta": " -1.32"
-			},
-			{
-				"html_id": "http://www.streamingvideoprovider.com/de/streaming-video-reseller-panel-overview.html",
-				"feature_value": "49",
-				"cluster_win_mean": "40.68",
-				"delta": " -8.32"
-			},
-			{
-				"html_id": "http://www.streamingvideoprovider.com/es/streaming-video-reseller-panel-overview.html",
-				"feature_value": "52",
-				"cluster_win_mean": "29.39",
-				"delta": "-22.61"
+				"cluster_win_mean": " 31.5",
+				"delta": "-23.5"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com#overview",
 				"feature_value": "84",
-				"cluster_win_mean": "40.68",
-				"delta": "-43.32"
+				"cluster_win_mean": " 31.5",
+				"delta": "-52.5"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com#benefits",
 				"feature_value": "84",
-				"cluster_win_mean": "40.68",
-				"delta": "-43.32"
+				"cluster_win_mean": " 31.5",
+				"delta": "-52.5"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com#how-it-works",
 				"feature_value": "84",
-				"cluster_win_mean": "40.68",
-				"delta": "-43.32"
+				"cluster_win_mean": " 31.5",
+				"delta": "-52.5"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com#demo",
 				"feature_value": "84",
-				"cluster_win_mean": "40.68",
-				"delta": "-43.32"
+				"cluster_win_mean": " 31.5",
+				"delta": "-52.5"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com#apply",
 				"feature_value": "84",
-				"cluster_win_mean": "40.68",
-				"delta": "-43.32"
+				"cluster_win_mean": " 31.5",
+				"delta": "-52.5"
+			}
+		],
+		"number_of_absolute_internal_links": [
+			{
+				"html_id": "http://www.streamingvideoprovider.com/de/video-tracking-google-analytics.html",
+				"feature_value": "3",
+				"cluster_win_mean": "12.62",
+				"delta": "9.62"
+			},
+			{
+				"html_id": "http://www.streamingvideoprovider.com/es/video-tracking-google-analytics.html",
+				"feature_value": "3",
+				"cluster_win_mean": "12.62",
+				"delta": "9.62"
+			},
+			{
+				"html_id": "http://www.streamingvideoprovider.com/de/customers-case-study-streamingvideoprovider.html",
+				"feature_value": "3",
+				"cluster_win_mean": "12.62",
+				"delta": "9.62"
+			},
+			{
+				"html_id": "http://www.streamingvideoprovider.com/es/customers-case-study-streamingvideoprovider.html",
+				"feature_value": "3",
+				"cluster_win_mean": "12.62",
+				"delta": "9.62"
+			},
+			{
+				"html_id": "http://www.streamingvideoprovider.com/de/ppv_system_demo_pay_per_view.html",
+				"feature_value": "3",
+				"cluster_win_mean": "12.62",
+				"delta": "9.62"
+			},
+			{
+				"html_id": "http://www.streamingvideoprovider.com/es/ppv_system_demo_pay_per_view.html",
+				"feature_value": "3",
+				"cluster_win_mean": "12.62",
+				"delta": "9.62"
+			},
+			{
+				"html_id": "http://www.streamingvideoprovider.com/de/domain-name-video-security.html",
+				"feature_value": "3",
+				"cluster_win_mean": "12.62",
+				"delta": "9.62"
+			},
+			{
+				"html_id": "http://www.streamingvideoprovider.com/es/domain-name-video-security.html",
+				"feature_value": "3",
+				"cluster_win_mean": "12.62",
+				"delta": "9.62"
+			},
+			{
+				"html_id": "http://www.streamingvideoprovider.com/de/streaming-video-reseller-panel-overview.html",
+				"feature_value": "4",
+				"cluster_win_mean": "12.62",
+				"delta": "8.62"
+			},
+			{
+				"html_id": "http://www.streamingvideoprovider.com/es/streaming-video-reseller-panel-overview.html",
+				"feature_value": "4",
+				"cluster_win_mean": "12.62",
+				"delta": "8.62"
+			},
+			{
+				"html_id": "http://www.streamingvideoprovider.com#overview",
+				"feature_value": "3",
+				"cluster_win_mean": "12.62",
+				"delta": "9.62"
+			},
+			{
+				"html_id": "http://www.streamingvideoprovider.com#benefits",
+				"feature_value": "3",
+				"cluster_win_mean": "12.62",
+				"delta": "9.62"
+			},
+			{
+				"html_id": "http://www.streamingvideoprovider.com#how-it-works",
+				"feature_value": "3",
+				"cluster_win_mean": "12.62",
+				"delta": "9.62"
+			},
+			{
+				"html_id": "http://www.streamingvideoprovider.com#demo",
+				"feature_value": "3",
+				"cluster_win_mean": "12.62",
+				"delta": "9.62"
+			},
+			{
+				"html_id": "http://www.streamingvideoprovider.com#apply",
+				"feature_value": "3",
+				"cluster_win_mean": "12.62",
+				"delta": "9.62"
 			}
 		],
 		"average_image_width": [
 			{
 				"html_id": "http://www.streamingvideoprovider.com/de/video-tracking-google-analytics.html",
 				"feature_value": "0",
-				"cluster_win_mean": "215.35",
-				"delta": "215.35"
+				"cluster_win_mean": "134.35",
+				"delta": "134.35"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com/es/video-tracking-google-analytics.html",
 				"feature_value": "0",
-				"cluster_win_mean": "215.35",
-				"delta": "215.35"
+				"cluster_win_mean": "134.35",
+				"delta": "134.35"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com/de/customers-case-study-streamingvideoprovider.html",
 				"feature_value": "0",
-				"cluster_win_mean": "215.35",
-				"delta": "215.35"
+				"cluster_win_mean": "134.35",
+				"delta": "134.35"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com/es/customers-case-study-streamingvideoprovider.html",
 				"feature_value": "0",
-				"cluster_win_mean": "215.35",
-				"delta": "215.35"
+				"cluster_win_mean": "134.35",
+				"delta": "134.35"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com/de/ppv_system_demo_pay_per_view.html",
 				"feature_value": "0",
-				"cluster_win_mean": "221.58",
-				"delta": "221.58"
+				"cluster_win_mean": "134.35",
+				"delta": "134.35"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com/es/ppv_system_demo_pay_per_view.html",
 				"feature_value": "0",
-				"cluster_win_mean": "221.58",
-				"delta": "221.58"
+				"cluster_win_mean": "134.35",
+				"delta": "134.35"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com/de/live-video-streaming-live-broadcasting.html",
 				"feature_value": "0",
-				"cluster_win_mean": "148.28",
-				"delta": "148.28"
+				"cluster_win_mean": "134.35",
+				"delta": "134.35"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com/es/live-video-streaming-live-broadcasting.html",
 				"feature_value": "0",
-				"cluster_win_mean": "148.28",
-				"delta": "148.28"
+				"cluster_win_mean": "134.35",
+				"delta": "134.35"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com/streaming-video-players.html#webcast",
 				"feature_value": "0",
-				"cluster_win_mean": "221.58",
-				"delta": "221.58"
+				"cluster_win_mean": "217.02",
+				"delta": "217.02"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com/kb/index.php/category/live-streaming-broadcasting-1#p78",
 				"feature_value": "0",
-				"cluster_win_mean": "221.58",
-				"delta": "221.58"
+				"cluster_win_mean": "217.02",
+				"delta": "217.02"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com/kb/index.php/category/live-streaming-broadcasting-1#p117",
 				"feature_value": "0",
-				"cluster_win_mean": "221.58",
-				"delta": "221.58"
+				"cluster_win_mean": "217.02",
+				"delta": "217.02"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com/de/domain-name-video-security.html",
 				"feature_value": "0",
-				"cluster_win_mean": "215.35",
-				"delta": "215.35"
+				"cluster_win_mean": "134.35",
+				"delta": "134.35"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com/es/domain-name-video-security.html",
 				"feature_value": "0",
-				"cluster_win_mean": "215.35",
-				"delta": "215.35"
+				"cluster_win_mean": "134.35",
+				"delta": "134.35"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com/de/streaming-video-reseller-panel-overview.html",
 				"feature_value": "0",
-				"cluster_win_mean": "215.35",
-				"delta": "215.35"
+				"cluster_win_mean": "134.35",
+				"delta": "134.35"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com/es/streaming-video-reseller-panel-overview.html",
 				"feature_value": "0",
-				"cluster_win_mean": "148.28",
-				"delta": "148.28"
+				"cluster_win_mean": "134.35",
+				"delta": "134.35"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com#overview",
 				"feature_value": "0",
-				"cluster_win_mean": "215.35",
-				"delta": "215.35"
+				"cluster_win_mean": "134.35",
+				"delta": "134.35"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com#benefits",
 				"feature_value": "0",
-				"cluster_win_mean": "215.35",
-				"delta": "215.35"
+				"cluster_win_mean": "134.35",
+				"delta": "134.35"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com#how-it-works",
 				"feature_value": "0",
-				"cluster_win_mean": "215.35",
-				"delta": "215.35"
+				"cluster_win_mean": "134.35",
+				"delta": "134.35"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com#demo",
 				"feature_value": "0",
-				"cluster_win_mean": "215.35",
-				"delta": "215.35"
+				"cluster_win_mean": "134.35",
+				"delta": "134.35"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com#apply",
 				"feature_value": "0",
-				"cluster_win_mean": "215.35",
-				"delta": "215.35"
+				"cluster_win_mean": "134.35",
+				"delta": "134.35"
 			}
 		],
 		"number_of_id_attribute_refs": [
@@ -2676,446 +2780,410 @@
 		],
 		"number_of_images_missing_alt": [
 			{
-				"html_id": "http://www.streamingvideoprovider.com/de/ppv_system_demo_pay_per_view.html",
-				"feature_value": "0",
-				"cluster_win_mean": "14.24",
-				"delta": "14.24"
-			},
-			{
-				"html_id": "http://www.streamingvideoprovider.com/es/ppv_system_demo_pay_per_view.html",
-				"feature_value": "0",
-				"cluster_win_mean": "14.24",
-				"delta": "14.24"
-			},
-			{
 				"html_id": "http://www.streamingvideoprovider.com/streaming-video-players.html#webcast",
 				"feature_value": "0",
-				"cluster_win_mean": "14.24",
-				"delta": "14.24"
+				"cluster_win_mean": "17",
+				"delta": "17"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com/kb/index.php/category/live-streaming-broadcasting-1#p78",
 				"feature_value": "4",
-				"cluster_win_mean": "14.24",
-				"delta": "10.24"
+				"cluster_win_mean": "17",
+				"delta": "13"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com/kb/index.php/category/live-streaming-broadcasting-1#p117",
 				"feature_value": "4",
-				"cluster_win_mean": "14.24",
-				"delta": "10.24"
+				"cluster_win_mean": "17",
+				"delta": "13"
 			}
 		],
 		"number_of_h1_instances": [
 			{
 				"html_id": "http://www.streamingvideoprovider.com/de/video-tracking-google-analytics.html",
 				"feature_value": "1",
-				"cluster_win_mean": "2.77",
-				"delta": "1.77"
+				"cluster_win_mean": "1.58",
+				"delta": "0.58"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com/es/video-tracking-google-analytics.html",
 				"feature_value": "1",
-				"cluster_win_mean": "2.77",
-				"delta": "1.77"
+				"cluster_win_mean": "1.58",
+				"delta": "0.58"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com/de/customers-case-study-streamingvideoprovider.html",
 				"feature_value": "1",
-				"cluster_win_mean": "2.77",
-				"delta": "1.77"
+				"cluster_win_mean": "1.58",
+				"delta": "0.58"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com/es/customers-case-study-streamingvideoprovider.html",
 				"feature_value": "1",
-				"cluster_win_mean": "2.77",
-				"delta": "1.77"
+				"cluster_win_mean": "1.58",
+				"delta": "0.58"
+			},
+			{
+				"html_id": "http://www.streamingvideoprovider.com/de/ppv_system_demo_pay_per_view.html",
+				"feature_value": "0",
+				"cluster_win_mean": "1.58",
+				"delta": "1.58"
+			},
+			{
+				"html_id": "http://www.streamingvideoprovider.com/es/ppv_system_demo_pay_per_view.html",
+				"feature_value": "0",
+				"cluster_win_mean": "1.58",
+				"delta": "1.58"
+			},
+			{
+				"html_id": "http://www.streamingvideoprovider.com/de/live-video-streaming-live-broadcasting.html",
+				"feature_value": "1",
+				"cluster_win_mean": "1.58",
+				"delta": "0.58"
+			},
+			{
+				"html_id": "http://www.streamingvideoprovider.com/es/live-video-streaming-live-broadcasting.html",
+				"feature_value": "1",
+				"cluster_win_mean": "1.58",
+				"delta": "0.58"
+			},
+			{
+				"html_id": "http://www.streamingvideoprovider.com/streaming-video-players.html#webcast",
+				"feature_value": "0",
+				"cluster_win_mean": "2.61",
+				"delta": "2.61"
+			},
+			{
+				"html_id": "http://www.streamingvideoprovider.com/kb/index.php/category/live-streaming-broadcasting-1#p78",
+				"feature_value": "1",
+				"cluster_win_mean": "2.61",
+				"delta": "1.61"
+			},
+			{
+				"html_id": "http://www.streamingvideoprovider.com/kb/index.php/category/live-streaming-broadcasting-1#p117",
+				"feature_value": "1",
+				"cluster_win_mean": "2.61",
+				"delta": "1.61"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com/de/domain-name-video-security.html",
 				"feature_value": "1",
-				"cluster_win_mean": "2.77",
-				"delta": "1.77"
+				"cluster_win_mean": "1.58",
+				"delta": "0.58"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com/es/domain-name-video-security.html",
 				"feature_value": "1",
-				"cluster_win_mean": "2.77",
-				"delta": "1.77"
+				"cluster_win_mean": "1.58",
+				"delta": "0.58"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com/de/streaming-video-reseller-panel-overview.html",
 				"feature_value": "1",
-				"cluster_win_mean": "2.77",
-				"delta": "1.77"
+				"cluster_win_mean": "1.58",
+				"delta": "0.58"
+			},
+			{
+				"html_id": "http://www.streamingvideoprovider.com/es/streaming-video-reseller-panel-overview.html",
+				"feature_value": "1",
+				"cluster_win_mean": "1.58",
+				"delta": "0.58"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com#overview",
 				"feature_value": "0",
-				"cluster_win_mean": "2.77",
-				"delta": "2.77"
+				"cluster_win_mean": "1.58",
+				"delta": "1.58"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com#benefits",
 				"feature_value": "0",
-				"cluster_win_mean": "2.77",
-				"delta": "2.77"
+				"cluster_win_mean": "1.58",
+				"delta": "1.58"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com#how-it-works",
 				"feature_value": "0",
-				"cluster_win_mean": "2.77",
-				"delta": "2.77"
+				"cluster_win_mean": "1.58",
+				"delta": "1.58"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com#demo",
 				"feature_value": "0",
-				"cluster_win_mean": "2.77",
-				"delta": "2.77"
+				"cluster_win_mean": "1.58",
+				"delta": "1.58"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com#apply",
 				"feature_value": "0",
-				"cluster_win_mean": "2.77",
-				"delta": "2.77"
+				"cluster_win_mean": "1.58",
+				"delta": "1.58"
 			}
 		],
 		"total_number_of_words": [
 			{
 				"html_id": "http://www.streamingvideoprovider.com/de/video-tracking-google-analytics.html",
 				"feature_value": "116",
-				"cluster_win_mean": "179.65",
-				"delta": " 63.65"
+				"cluster_win_mean": "615.76",
+				"delta": "499.76"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com/es/video-tracking-google-analytics.html",
 				"feature_value": "135",
-				"cluster_win_mean": "179.65",
-				"delta": " 44.65"
+				"cluster_win_mean": "615.76",
+				"delta": "480.76"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com/de/customers-case-study-streamingvideoprovider.html",
 				"feature_value": "109",
-				"cluster_win_mean": "179.65",
-				"delta": " 70.65"
+				"cluster_win_mean": "615.76",
+				"delta": "506.76"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com/es/customers-case-study-streamingvideoprovider.html",
 				"feature_value": "126",
-				"cluster_win_mean": "179.65",
-				"delta": " 53.65"
+				"cluster_win_mean": "615.76",
+				"delta": "489.76"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com/de/ppv_system_demo_pay_per_view.html",
 				"feature_value": " 18",
-				"cluster_win_mean": " 52.91",
-				"delta": " 34.91"
+				"cluster_win_mean": "615.76",
+				"delta": "597.76"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com/es/ppv_system_demo_pay_per_view.html",
 				"feature_value": " 20",
-				"cluster_win_mean": " 52.91",
-				"delta": " 32.91"
+				"cluster_win_mean": "615.76",
+				"delta": "595.76"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com/de/live-video-streaming-live-broadcasting.html",
 				"feature_value": "238",
-				"cluster_win_mean": "473.04",
-				"delta": "235.04"
+				"cluster_win_mean": "615.76",
+				"delta": "377.76"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com/es/live-video-streaming-live-broadcasting.html",
 				"feature_value": "238",
-				"cluster_win_mean": "473.04",
-				"delta": "235.04"
+				"cluster_win_mean": "615.76",
+				"delta": "377.76"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com/streaming-video-players.html#webcast",
 				"feature_value": "  0",
-				"cluster_win_mean": " 52.91",
-				"delta": " 52.91"
+				"cluster_win_mean": "132.45",
+				"delta": "132.45"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com/kb/index.php/category/live-streaming-broadcasting-1#p78",
 				"feature_value": " 18",
-				"cluster_win_mean": " 52.91",
-				"delta": " 34.91"
+				"cluster_win_mean": "132.45",
+				"delta": "114.45"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com/kb/index.php/category/live-streaming-broadcasting-1#p117",
 				"feature_value": " 18",
-				"cluster_win_mean": " 52.91",
-				"delta": " 34.91"
+				"cluster_win_mean": "132.45",
+				"delta": "114.45"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com/de/domain-name-video-security.html",
 				"feature_value": "114",
-				"cluster_win_mean": "179.65",
-				"delta": " 65.65"
+				"cluster_win_mean": "615.76",
+				"delta": "501.76"
+			},
+			{
+				"html_id": "http://www.streamingvideoprovider.com/es/domain-name-video-security.html",
+				"feature_value": "368",
+				"cluster_win_mean": "615.76",
+				"delta": "247.76"
+			},
+			{
+				"html_id": "http://www.streamingvideoprovider.com/de/streaming-video-reseller-panel-overview.html",
+				"feature_value": "259",
+				"cluster_win_mean": "615.76",
+				"delta": "356.76"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com/es/streaming-video-reseller-panel-overview.html",
 				"feature_value": "296",
-				"cluster_win_mean": "473.04",
-				"delta": "177.04"
+				"cluster_win_mean": "615.76",
+				"delta": "319.76"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com#overview",
 				"feature_value": " 59",
-				"cluster_win_mean": "179.65",
-				"delta": "120.65"
+				"cluster_win_mean": "615.76",
+				"delta": "556.76"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com#benefits",
 				"feature_value": " 59",
-				"cluster_win_mean": "179.65",
-				"delta": "120.65"
+				"cluster_win_mean": "615.76",
+				"delta": "556.76"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com#how-it-works",
 				"feature_value": " 59",
-				"cluster_win_mean": "179.65",
-				"delta": "120.65"
+				"cluster_win_mean": "615.76",
+				"delta": "556.76"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com#demo",
 				"feature_value": " 59",
-				"cluster_win_mean": "179.65",
-				"delta": "120.65"
+				"cluster_win_mean": "615.76",
+				"delta": "556.76"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com#apply",
 				"feature_value": " 59",
-				"cluster_win_mean": "179.65",
-				"delta": "120.65"
+				"cluster_win_mean": "615.76",
+				"delta": "556.76"
 			}
 		],
 		"number_of_embedded_css_styles": [
 			{
-				"html_id": "http://www.streamingvideoprovider.com/de/video-tracking-google-analytics.html",
-				"feature_value": "1",
-				"cluster_win_mean": "2.95",
-				"delta": "1.95"
-			},
-			{
-				"html_id": "http://www.streamingvideoprovider.com/es/video-tracking-google-analytics.html",
-				"feature_value": "1",
-				"cluster_win_mean": "2.95",
-				"delta": "1.95"
-			},
-			{
-				"html_id": "http://www.streamingvideoprovider.com/de/customers-case-study-streamingvideoprovider.html",
-				"feature_value": "1",
-				"cluster_win_mean": "2.95",
-				"delta": "1.95"
-			},
-			{
-				"html_id": "http://www.streamingvideoprovider.com/es/customers-case-study-streamingvideoprovider.html",
-				"feature_value": "1",
-				"cluster_win_mean": "2.95",
-				"delta": "1.95"
-			},
-			{
-				"html_id": "http://www.streamingvideoprovider.com/de/ppv_system_demo_pay_per_view.html",
-				"feature_value": "1",
-				"cluster_win_mean": "2.78",
-				"delta": "1.78"
-			},
-			{
-				"html_id": "http://www.streamingvideoprovider.com/es/ppv_system_demo_pay_per_view.html",
-				"feature_value": "1",
-				"cluster_win_mean": "2.78",
-				"delta": "1.78"
-			},
-			{
 				"html_id": "http://www.streamingvideoprovider.com/streaming-video-players.html#webcast",
 				"feature_value": "0",
-				"cluster_win_mean": "2.78",
-				"delta": "2.78"
+				"cluster_win_mean": "2.98",
+				"delta": "2.98"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com/kb/index.php/category/live-streaming-broadcasting-1#p78",
 				"feature_value": "0",
-				"cluster_win_mean": "2.78",
-				"delta": "2.78"
+				"cluster_win_mean": "2.98",
+				"delta": "2.98"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com/kb/index.php/category/live-streaming-broadcasting-1#p117",
 				"feature_value": "0",
-				"cluster_win_mean": "2.78",
-				"delta": "2.78"
-			},
-			{
-				"html_id": "http://www.streamingvideoprovider.com/de/domain-name-video-security.html",
-				"feature_value": "1",
-				"cluster_win_mean": "2.95",
-				"delta": "1.95"
-			},
-			{
-				"html_id": "http://www.streamingvideoprovider.com/es/domain-name-video-security.html",
-				"feature_value": "1",
-				"cluster_win_mean": "2.95",
-				"delta": "1.95"
-			},
-			{
-				"html_id": "http://www.streamingvideoprovider.com/de/streaming-video-reseller-panel-overview.html",
-				"feature_value": "1",
-				"cluster_win_mean": "2.95",
-				"delta": "1.95"
-			},
-			{
-				"html_id": "http://www.streamingvideoprovider.com#overview",
-				"feature_value": "1",
-				"cluster_win_mean": "2.95",
-				"delta": "1.95"
-			},
-			{
-				"html_id": "http://www.streamingvideoprovider.com#benefits",
-				"feature_value": "1",
-				"cluster_win_mean": "2.95",
-				"delta": "1.95"
-			},
-			{
-				"html_id": "http://www.streamingvideoprovider.com#how-it-works",
-				"feature_value": "1",
-				"cluster_win_mean": "2.95",
-				"delta": "1.95"
-			},
-			{
-				"html_id": "http://www.streamingvideoprovider.com#demo",
-				"feature_value": "1",
-				"cluster_win_mean": "2.95",
-				"delta": "1.95"
-			},
-			{
-				"html_id": "http://www.streamingvideoprovider.com#apply",
-				"feature_value": "1",
-				"cluster_win_mean": "2.95",
-				"delta": "1.95"
+				"cluster_win_mean": "2.98",
+				"delta": "2.98"
 			}
 		],
 		"number_of_embedded_styles": [
 			{
-				"html_id": "http://www.streamingvideoprovider.com/de/video-tracking-google-analytics.html",
-				"feature_value": "1",
-				"cluster_win_mean": "2.94",
-				"delta": "1.94"
-			},
-			{
-				"html_id": "http://www.streamingvideoprovider.com/es/video-tracking-google-analytics.html",
-				"feature_value": "1",
-				"cluster_win_mean": "2.94",
-				"delta": "1.94"
-			},
-			{
-				"html_id": "http://www.streamingvideoprovider.com/de/customers-case-study-streamingvideoprovider.html",
-				"feature_value": "1",
-				"cluster_win_mean": "2.94",
-				"delta": "1.94"
-			},
-			{
-				"html_id": "http://www.streamingvideoprovider.com/es/customers-case-study-streamingvideoprovider.html",
-				"feature_value": "1",
-				"cluster_win_mean": "2.94",
-				"delta": "1.94"
-			},
-			{
-				"html_id": "http://www.streamingvideoprovider.com/de/ppv_system_demo_pay_per_view.html",
-				"feature_value": "1",
-				"cluster_win_mean": "2.62",
-				"delta": "1.62"
-			},
-			{
-				"html_id": "http://www.streamingvideoprovider.com/es/ppv_system_demo_pay_per_view.html",
-				"feature_value": "1",
-				"cluster_win_mean": "2.62",
-				"delta": "1.62"
-			},
-			{
 				"html_id": "http://www.streamingvideoprovider.com/streaming-video-players.html#webcast",
 				"feature_value": "0",
-				"cluster_win_mean": "2.62",
-				"delta": "2.62"
+				"cluster_win_mean": "2.97",
+				"delta": "2.97"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com/kb/index.php/category/live-streaming-broadcasting-1#p78",
 				"feature_value": "0",
-				"cluster_win_mean": "2.62",
-				"delta": "2.62"
+				"cluster_win_mean": "2.97",
+				"delta": "2.97"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com/kb/index.php/category/live-streaming-broadcasting-1#p117",
 				"feature_value": "0",
-				"cluster_win_mean": "2.62",
-				"delta": "2.62"
-			},
-			{
-				"html_id": "http://www.streamingvideoprovider.com/de/domain-name-video-security.html",
-				"feature_value": "1",
-				"cluster_win_mean": "2.94",
-				"delta": "1.94"
-			},
-			{
-				"html_id": "http://www.streamingvideoprovider.com/es/domain-name-video-security.html",
-				"feature_value": "1",
-				"cluster_win_mean": "2.94",
-				"delta": "1.94"
-			},
-			{
-				"html_id": "http://www.streamingvideoprovider.com/de/streaming-video-reseller-panel-overview.html",
-				"feature_value": "1",
-				"cluster_win_mean": "2.94",
-				"delta": "1.94"
-			},
-			{
-				"html_id": "http://www.streamingvideoprovider.com#overview",
-				"feature_value": "1",
-				"cluster_win_mean": "2.94",
-				"delta": "1.94"
-			},
-			{
-				"html_id": "http://www.streamingvideoprovider.com#benefits",
-				"feature_value": "1",
-				"cluster_win_mean": "2.94",
-				"delta": "1.94"
-			},
-			{
-				"html_id": "http://www.streamingvideoprovider.com#how-it-works",
-				"feature_value": "1",
-				"cluster_win_mean": "2.94",
-				"delta": "1.94"
-			},
-			{
-				"html_id": "http://www.streamingvideoprovider.com#demo",
-				"feature_value": "1",
-				"cluster_win_mean": "2.94",
-				"delta": "1.94"
-			},
-			{
-				"html_id": "http://www.streamingvideoprovider.com#apply",
-				"feature_value": "1",
-				"cluster_win_mean": "2.94",
-				"delta": "1.94"
+				"cluster_win_mean": "2.97",
+				"delta": "2.97"
 			}
 		],
 		"average_image_height": [
 			{
+				"html_id": "http://www.streamingvideoprovider.com/de/video-tracking-google-analytics.html",
+				"feature_value": "0",
+				"cluster_win_mean": "70.91",
+				"delta": "70.91"
+			},
+			{
+				"html_id": "http://www.streamingvideoprovider.com/es/video-tracking-google-analytics.html",
+				"feature_value": "0",
+				"cluster_win_mean": "70.91",
+				"delta": "70.91"
+			},
+			{
+				"html_id": "http://www.streamingvideoprovider.com/de/customers-case-study-streamingvideoprovider.html",
+				"feature_value": "0",
+				"cluster_win_mean": "70.91",
+				"delta": "70.91"
+			},
+			{
+				"html_id": "http://www.streamingvideoprovider.com/es/customers-case-study-streamingvideoprovider.html",
+				"feature_value": "0",
+				"cluster_win_mean": "70.91",
+				"delta": "70.91"
+			},
+			{
+				"html_id": "http://www.streamingvideoprovider.com/de/ppv_system_demo_pay_per_view.html",
+				"feature_value": "0",
+				"cluster_win_mean": "70.91",
+				"delta": "70.91"
+			},
+			{
+				"html_id": "http://www.streamingvideoprovider.com/es/ppv_system_demo_pay_per_view.html",
+				"feature_value": "0",
+				"cluster_win_mean": "70.91",
+				"delta": "70.91"
+			},
+			{
 				"html_id": "http://www.streamingvideoprovider.com/de/live-video-streaming-live-broadcasting.html",
 				"feature_value": "0",
-				"cluster_win_mean": "90.68",
-				"delta": "90.68"
+				"cluster_win_mean": "70.91",
+				"delta": "70.91"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com/es/live-video-streaming-live-broadcasting.html",
 				"feature_value": "0",
-				"cluster_win_mean": "90.68",
-				"delta": "90.68"
+				"cluster_win_mean": "70.91",
+				"delta": "70.91"
+			},
+			{
+				"html_id": "http://www.streamingvideoprovider.com/de/domain-name-video-security.html",
+				"feature_value": "0",
+				"cluster_win_mean": "70.91",
+				"delta": "70.91"
+			},
+			{
+				"html_id": "http://www.streamingvideoprovider.com/es/domain-name-video-security.html",
+				"feature_value": "0",
+				"cluster_win_mean": "70.91",
+				"delta": "70.91"
+			},
+			{
+				"html_id": "http://www.streamingvideoprovider.com/de/streaming-video-reseller-panel-overview.html",
+				"feature_value": "0",
+				"cluster_win_mean": "70.91",
+				"delta": "70.91"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com/es/streaming-video-reseller-panel-overview.html",
 				"feature_value": "0",
-				"cluster_win_mean": "90.68",
-				"delta": "90.68"
+				"cluster_win_mean": "70.91",
+				"delta": "70.91"
+			},
+			{
+				"html_id": "http://www.streamingvideoprovider.com#overview",
+				"feature_value": "0",
+				"cluster_win_mean": "70.91",
+				"delta": "70.91"
+			},
+			{
+				"html_id": "http://www.streamingvideoprovider.com#benefits",
+				"feature_value": "0",
+				"cluster_win_mean": "70.91",
+				"delta": "70.91"
+			},
+			{
+				"html_id": "http://www.streamingvideoprovider.com#how-it-works",
+				"feature_value": "0",
+				"cluster_win_mean": "70.91",
+				"delta": "70.91"
+			},
+			{
+				"html_id": "http://www.streamingvideoprovider.com#demo",
+				"feature_value": "0",
+				"cluster_win_mean": "70.91",
+				"delta": "70.91"
+			},
+			{
+				"html_id": "http://www.streamingvideoprovider.com#apply",
+				"feature_value": "0",
+				"cluster_win_mean": "70.91",
+				"delta": "70.91"
 			}
 		],
 		"html5_detected": {
@@ -3124,348 +3192,262 @@
 			"cluster_win_mean": "1",
 			"delta": "1"
 		},
-		"ratio_of_common_words_to_total": [
+		"proximity_of_title_tag_words_to_external_bound_hyperlinks": [
 			{
 				"html_id": "http://www.streamingvideoprovider.com/de/video-tracking-google-analytics.html",
-				"feature_value": " 0.18966",
-				"cluster_win_mean": "0.74",
-				"delta": "0.55"
+				"feature_value": "2714",
+				"cluster_win_mean": "3374.25",
+				"delta": "660.25"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com/es/video-tracking-google-analytics.html",
-				"feature_value": "  0.1037",
-				"cluster_win_mean": "0.74",
-				"delta": "0.64"
+				"feature_value": "2738",
+				"cluster_win_mean": "3374.25",
+				"delta": "636.25"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com/de/customers-case-study-streamingvideoprovider.html",
-				"feature_value": " 0.22018",
-				"cluster_win_mean": "0.74",
-				"delta": "0.52"
+				"feature_value": "2684",
+				"cluster_win_mean": "3374.25",
+				"delta": "690.25"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com/es/customers-case-study-streamingvideoprovider.html",
-				"feature_value": "0.087302",
-				"cluster_win_mean": "0.74",
-				"delta": "0.65"
+				"feature_value": "2685",
+				"cluster_win_mean": "3374.25",
+				"delta": "689.25"
 			},
 			{
-				"html_id": "http://www.streamingvideoprovider.com/de/domain-name-video-security.html",
-				"feature_value": " 0.17544",
-				"cluster_win_mean": "0.74",
-				"delta": "0.56"
+				"html_id": "http://www.streamingvideoprovider.com/de/ppv_system_demo_pay_per_view.html",
+				"feature_value": "2723",
+				"cluster_win_mean": "3374.25",
+				"delta": "651.25"
 			},
 			{
-				"html_id": "http://www.streamingvideoprovider.com/es/domain-name-video-security.html",
-				"feature_value": "0.043478",
-				"cluster_win_mean": "0.74",
-				"delta": " 0.7"
+				"html_id": "http://www.streamingvideoprovider.com/es/ppv_system_demo_pay_per_view.html",
+				"feature_value": "2776",
+				"cluster_win_mean": "3374.25",
+				"delta": "598.25"
 			},
-			{
-				"html_id": "http://www.streamingvideoprovider.com/de/streaming-video-reseller-panel-overview.html",
-				"feature_value": " 0.15444",
-				"cluster_win_mean": "0.74",
-				"delta": "0.59"
-			}
-		],
-		"proximity_of_title_tag_words_to_external_bound_hyperlinks": [
 			{
 				"html_id": "http://www.streamingvideoprovider.com/de/live-video-streaming-live-broadcasting.html",
 				"feature_value": "3051",
-				"cluster_win_mean": "7628.34",
-				"delta": "4577.34"
+				"cluster_win_mean": "3374.25",
+				"delta": "323.25"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com/es/live-video-streaming-live-broadcasting.html",
 				"feature_value": "3079",
-				"cluster_win_mean": "7628.34",
-				"delta": "4549.34"
+				"cluster_win_mean": "3374.25",
+				"delta": "295.25"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com/streaming-video-players.html#webcast",
 				"feature_value": "   0",
-				"cluster_win_mean": " 589.46",
-				"delta": " 589.46"
+				"cluster_win_mean": " 452.65",
+				"delta": "452.65"
+			},
+			{
+				"html_id": "http://www.streamingvideoprovider.com/de/domain-name-video-security.html",
+				"feature_value": "2662",
+				"cluster_win_mean": "3374.25",
+				"delta": "712.25"
+			},
+			{
+				"html_id": "http://www.streamingvideoprovider.com/es/domain-name-video-security.html",
+				"feature_value": "2696",
+				"cluster_win_mean": "3374.25",
+				"delta": "678.25"
+			},
+			{
+				"html_id": "http://www.streamingvideoprovider.com/de/streaming-video-reseller-panel-overview.html",
+				"feature_value": "2973",
+				"cluster_win_mean": "3374.25",
+				"delta": "401.25"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com/es/streaming-video-reseller-panel-overview.html",
 				"feature_value": "3037",
-				"cluster_win_mean": "7628.34",
-				"delta": "4591.34"
-			}
-		],
-		"average_number_of_words_in_anchor_text": [
-			{
-				"html_id": "http://www.streamingvideoprovider.com/de/video-tracking-google-analytics.html",
-				"feature_value": "2",
-				"cluster_win_mean": "2.12",
-				"delta": "0.12"
-			},
-			{
-				"html_id": "http://www.streamingvideoprovider.com/de/customers-case-study-streamingvideoprovider.html",
-				"feature_value": "2",
-				"cluster_win_mean": "2.12",
-				"delta": "0.12"
-			},
-			{
-				"html_id": "http://www.streamingvideoprovider.com/de/domain-name-video-security.html",
-				"feature_value": "2",
-				"cluster_win_mean": "2.12",
-				"delta": "0.12"
-			},
-			{
-				"html_id": "http://www.streamingvideoprovider.com/de/streaming-video-reseller-panel-overview.html",
-				"feature_value": "2",
-				"cluster_win_mean": "2.12",
-				"delta": "0.12"
-			}
-		],
-		"number_of_embedded_javascripts": [
-			{
-				"html_id": "http://www.streamingvideoprovider.com/de/ppv_system_demo_pay_per_view.html",
-				"feature_value": "1",
-				"cluster_win_mean": "4.14",
-				"delta": "3.14"
-			},
-			{
-				"html_id": "http://www.streamingvideoprovider.com/es/ppv_system_demo_pay_per_view.html",
-				"feature_value": "2",
-				"cluster_win_mean": "4.14",
-				"delta": "2.14"
-			},
-			{
-				"html_id": "http://www.streamingvideoprovider.com/streaming-video-players.html#webcast",
-				"feature_value": "0",
-				"cluster_win_mean": "4.14",
-				"delta": "4.14"
-			},
-			{
-				"html_id": "http://www.streamingvideoprovider.com/kb/index.php/category/live-streaming-broadcasting-1#p78",
-				"feature_value": "3",
-				"cluster_win_mean": "4.14",
-				"delta": "1.14"
-			},
-			{
-				"html_id": "http://www.streamingvideoprovider.com/kb/index.php/category/live-streaming-broadcasting-1#p117",
-				"feature_value": "3",
-				"cluster_win_mean": "4.14",
-				"delta": "1.14"
-			}
-		],
-		"number_of_external_css_styles": [
-			{
-				"html_id": "http://www.streamingvideoprovider.com/de/video-tracking-google-analytics.html",
-				"feature_value": "1",
-				"cluster_win_mean": "1.61",
-				"delta": "0.61"
-			},
-			{
-				"html_id": "http://www.streamingvideoprovider.com/es/video-tracking-google-analytics.html",
-				"feature_value": "1",
-				"cluster_win_mean": "1.61",
-				"delta": "0.61"
-			},
-			{
-				"html_id": "http://www.streamingvideoprovider.com/de/customers-case-study-streamingvideoprovider.html",
-				"feature_value": "1",
-				"cluster_win_mean": "1.61",
-				"delta": "0.61"
-			},
-			{
-				"html_id": "http://www.streamingvideoprovider.com/es/customers-case-study-streamingvideoprovider.html",
-				"feature_value": "1",
-				"cluster_win_mean": "1.61",
-				"delta": "0.61"
-			},
-			{
-				"html_id": "http://www.streamingvideoprovider.com/de/domain-name-video-security.html",
-				"feature_value": "1",
-				"cluster_win_mean": "1.61",
-				"delta": "0.61"
-			},
-			{
-				"html_id": "http://www.streamingvideoprovider.com/es/domain-name-video-security.html",
-				"feature_value": "1",
-				"cluster_win_mean": "1.61",
-				"delta": "0.61"
-			},
-			{
-				"html_id": "http://www.streamingvideoprovider.com/de/streaming-video-reseller-panel-overview.html",
-				"feature_value": "1",
-				"cluster_win_mean": "1.61",
-				"delta": "0.61"
+				"cluster_win_mean": "3374.25",
+				"delta": "337.25"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com#overview",
-				"feature_value": "1",
-				"cluster_win_mean": "1.61",
-				"delta": "0.61"
+				"feature_value": "2539",
+				"cluster_win_mean": "3374.25",
+				"delta": "835.25"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com#benefits",
-				"feature_value": "1",
-				"cluster_win_mean": "1.61",
-				"delta": "0.61"
+				"feature_value": "2539",
+				"cluster_win_mean": "3374.25",
+				"delta": "835.25"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com#how-it-works",
-				"feature_value": "1",
-				"cluster_win_mean": "1.61",
-				"delta": "0.61"
+				"feature_value": "2539",
+				"cluster_win_mean": "3374.25",
+				"delta": "835.25"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com#demo",
-				"feature_value": "1",
-				"cluster_win_mean": "1.61",
-				"delta": "0.61"
+				"feature_value": "2539",
+				"cluster_win_mean": "3374.25",
+				"delta": "835.25"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com#apply",
-				"feature_value": "1",
-				"cluster_win_mean": "1.61",
-				"delta": "0.61"
+				"feature_value": "2539",
+				"cluster_win_mean": "3374.25",
+				"delta": "835.25"
 			}
 		],
-		"number_of_images_in_body": [
-			{
-				"html_id": "http://www.streamingvideoprovider.com/de/ppv_system_demo_pay_per_view.html",
-				"feature_value": "0",
-				"cluster_win_mean": "14.94",
-				"delta": "14.94"
-			},
-			{
-				"html_id": "http://www.streamingvideoprovider.com/es/ppv_system_demo_pay_per_view.html",
-				"feature_value": "0",
-				"cluster_win_mean": "14.94",
-				"delta": "14.94"
-			},
-			{
-				"html_id": "http://www.streamingvideoprovider.com/de/live-video-streaming-live-broadcasting.html",
-				"feature_value": "0",
-				"cluster_win_mean": "11.68",
-				"delta": "11.68"
-			},
-			{
-				"html_id": "http://www.streamingvideoprovider.com/es/live-video-streaming-live-broadcasting.html",
-				"feature_value": "0",
-				"cluster_win_mean": "11.68",
-				"delta": "11.68"
-			},
+		"average_number_of_words_in_anchor_text": {
+			"html_id": "http://www.streamingvideoprovider.com/streaming-video-players.html#webcast",
+			"feature_value": "0",
+			"cluster_win_mean": "2.12",
+			"delta": "2.12"
+		},
+		"number_of_embedded_javascripts": [
 			{
 				"html_id": "http://www.streamingvideoprovider.com/streaming-video-players.html#webcast",
 				"feature_value": "0",
-				"cluster_win_mean": "14.94",
-				"delta": "14.94"
+				"cluster_win_mean": "3.27",
+				"delta": "3.27"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com/kb/index.php/category/live-streaming-broadcasting-1#p78",
-				"feature_value": "5",
-				"cluster_win_mean": "14.94",
-				"delta": " 9.94"
+				"feature_value": "3",
+				"cluster_win_mean": "3.27",
+				"delta": "0.27"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com/kb/index.php/category/live-streaming-broadcasting-1#p117",
-				"feature_value": "5",
-				"cluster_win_mean": "14.94",
-				"delta": " 9.94"
-			},
-			{
-				"html_id": "http://www.streamingvideoprovider.com/es/streaming-video-reseller-panel-overview.html",
-				"feature_value": "0",
-				"cluster_win_mean": "11.68",
-				"delta": "11.68"
+				"feature_value": "3",
+				"cluster_win_mean": "3.27",
+				"delta": "0.27"
 			}
 		],
 		"number_of_destination_titles_same_as_anchor_text": [
 			{
 				"html_id": "http://www.streamingvideoprovider.com/de/video-tracking-google-analytics.html",
 				"feature_value": "0",
-				"cluster_win_mean": "13.26",
-				"delta": "13.26"
+				"cluster_win_mean": "14.09",
+				"delta": "14.09"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com/es/video-tracking-google-analytics.html",
 				"feature_value": "0",
-				"cluster_win_mean": "13.26",
-				"delta": "13.26"
+				"cluster_win_mean": "14.09",
+				"delta": "14.09"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com/de/customers-case-study-streamingvideoprovider.html",
 				"feature_value": "0",
-				"cluster_win_mean": "13.26",
-				"delta": "13.26"
+				"cluster_win_mean": "14.09",
+				"delta": "14.09"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com/es/customers-case-study-streamingvideoprovider.html",
 				"feature_value": "0",
-				"cluster_win_mean": "13.26",
-				"delta": "13.26"
+				"cluster_win_mean": "14.09",
+				"delta": "14.09"
+			},
+			{
+				"html_id": "http://www.streamingvideoprovider.com/de/ppv_system_demo_pay_per_view.html",
+				"feature_value": "0",
+				"cluster_win_mean": "14.09",
+				"delta": "14.09"
+			},
+			{
+				"html_id": "http://www.streamingvideoprovider.com/es/ppv_system_demo_pay_per_view.html",
+				"feature_value": "0",
+				"cluster_win_mean": "14.09",
+				"delta": "14.09"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com/de/live-video-streaming-live-broadcasting.html",
 				"feature_value": "0",
-				"cluster_win_mean": "16.73",
-				"delta": "16.73"
+				"cluster_win_mean": "14.09",
+				"delta": "14.09"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com/es/live-video-streaming-live-broadcasting.html",
 				"feature_value": "0",
-				"cluster_win_mean": "16.73",
-				"delta": "16.73"
+				"cluster_win_mean": "14.09",
+				"delta": "14.09"
+			},
+			{
+				"html_id": "http://www.streamingvideoprovider.com/streaming-video-players.html#webcast",
+				"feature_value": "0",
+				"cluster_win_mean": " 9.46",
+				"delta": " 9.46"
+			},
+			{
+				"html_id": "http://www.streamingvideoprovider.com/kb/index.php/category/live-streaming-broadcasting-1#p78",
+				"feature_value": "0",
+				"cluster_win_mean": " 9.46",
+				"delta": " 9.46"
+			},
+			{
+				"html_id": "http://www.streamingvideoprovider.com/kb/index.php/category/live-streaming-broadcasting-1#p117",
+				"feature_value": "0",
+				"cluster_win_mean": " 9.46",
+				"delta": " 9.46"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com/de/domain-name-video-security.html",
 				"feature_value": "0",
-				"cluster_win_mean": "13.26",
-				"delta": "13.26"
+				"cluster_win_mean": "14.09",
+				"delta": "14.09"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com/es/domain-name-video-security.html",
 				"feature_value": "0",
-				"cluster_win_mean": "13.26",
-				"delta": "13.26"
+				"cluster_win_mean": "14.09",
+				"delta": "14.09"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com/de/streaming-video-reseller-panel-overview.html",
 				"feature_value": "0",
-				"cluster_win_mean": "13.26",
-				"delta": "13.26"
+				"cluster_win_mean": "14.09",
+				"delta": "14.09"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com/es/streaming-video-reseller-panel-overview.html",
 				"feature_value": "0",
-				"cluster_win_mean": "16.73",
-				"delta": "16.73"
+				"cluster_win_mean": "14.09",
+				"delta": "14.09"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com#overview",
 				"feature_value": "0",
-				"cluster_win_mean": "13.26",
-				"delta": "13.26"
+				"cluster_win_mean": "14.09",
+				"delta": "14.09"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com#benefits",
 				"feature_value": "0",
-				"cluster_win_mean": "13.26",
-				"delta": "13.26"
+				"cluster_win_mean": "14.09",
+				"delta": "14.09"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com#how-it-works",
 				"feature_value": "0",
-				"cluster_win_mean": "13.26",
-				"delta": "13.26"
+				"cluster_win_mean": "14.09",
+				"delta": "14.09"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com#demo",
 				"feature_value": "0",
-				"cluster_win_mean": "13.26",
-				"delta": "13.26"
+				"cluster_win_mean": "14.09",
+				"delta": "14.09"
 			},
 			{
 				"html_id": "http://www.streamingvideoprovider.com#apply",
 				"feature_value": "0",
-				"cluster_win_mean": "13.26",
-				"delta": "13.26"
+				"cluster_win_mean": "14.09",
+				"delta": "14.09"
 			}
 		]
 	}

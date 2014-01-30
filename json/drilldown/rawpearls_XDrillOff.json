@@ -2,268 +2,224 @@
 	"healthy": {
 		"flesch_reading_ease": [
 			{
-				"html_id": "http://www.bja.org.uk/en/jobs-agents/job-agent-vacancies.cfm/jewellery_agent_required",
-				"feature_value": "53.9238",
-				"cluster_win_mean": "17.45",
-				"delta": "-36.47"
-			},
-			{
-				"html_id": "http://www.bja.org.uk/en/member-services/member-search.cfm/page/53/trade_consumer_all/all/keyword/jewellery/",
-				"feature_value": " 80.465",
-				"cluster_win_mean": "17.45",
-				"delta": "-63.02"
-			},
-			{
 				"html_id": "http://www.wholesale-outlet.co.uk/directory/new/",
 				"feature_value": "0.37841",
-				"cluster_win_mean": "45.64",
-				"delta": " 45.26"
+				"cluster_win_mean": "17.22",
+				"delta": "16.84"
 			},
 			{
 				"html_id": "http://www.wholesale-outlet.co.uk/directory/Jewellery/",
 				"feature_value": "-20.314",
-				"cluster_win_mean": "45.64",
-				"delta": " 65.96"
+				"cluster_win_mean": "17.22",
+				"delta": "37.53"
 			}
 		],
 		"flesch_grade_level": [
 			{
 				"html_id": "http://www.wholesale-outlet.co.uk/directory/new/",
 				"feature_value": "17.3056",
-				"cluster_win_mean": "11.23",
-				"delta": "-6.08"
+				"cluster_win_mean": "17.14",
+				"delta": "-0.16"
 			},
 			{
 				"html_id": "http://www.wholesale-outlet.co.uk/directory/Jewellery/",
 				"feature_value": "21.1855",
-				"cluster_win_mean": "11.23",
-				"delta": "-9.96"
+				"cluster_win_mean": "17.14",
+				"delta": "-4.04"
 			}
 		],
 		"dale_chall_readability": [
 			{
 				"html_id": "http://www.wholesale-outlet.co.uk/directory/new/",
 				"feature_value": "10.3881",
-				"cluster_win_mean": "7.58",
-				"delta": " -2.8"
+				"cluster_win_mean": "8.29",
+				"delta": " -2.1"
 			},
 			{
 				"html_id": "http://www.wholesale-outlet.co.uk/directory/Jewellery/",
 				"feature_value": "14.1109",
-				"cluster_win_mean": "7.58",
-				"delta": "-6.53"
-			}
-		],
-		"maximum_length_of_h1": [
-			{
-				"html_id": "http://www.wholesale-outlet.co.uk/directory/new/",
-				"feature_value": "0",
-				"cluster_win_mean": "39.12",
-				"delta": "39.12"
-			},
-			{
-				"html_id": "http://www.wholesale-outlet.co.uk/directory/Jewellery/",
-				"feature_value": "0",
-				"cluster_win_mean": "39.12",
-				"delta": "39.12"
+				"cluster_win_mean": "8.29",
+				"delta": "-5.82"
 			}
 		],
 		"average_length_of_h1": [
 			{
 				"html_id": "http://www.wholesale-outlet.co.uk/directory/new/",
 				"feature_value": "0",
-				"cluster_win_mean": "38.81",
-				"delta": "38.81"
+				"cluster_win_mean": "50.38",
+				"delta": "50.38"
 			},
 			{
 				"html_id": "http://www.wholesale-outlet.co.uk/directory/Jewellery/",
 				"feature_value": "0",
-				"cluster_win_mean": "38.81",
-				"delta": "38.81"
-			}
-		],
-		"number_of_root_relative_internal_links": [
-			{
-				"html_id": "http://www.wholesale-outlet.co.uk/directory/new/",
-				"feature_value": "0",
-				"cluster_win_mean": "0",
-				"delta": "0"
-			},
-			{
-				"html_id": "http://www.wholesale-outlet.co.uk/directory/Jewellery/",
-				"feature_value": "0",
-				"cluster_win_mean": "0",
-				"delta": "0"
+				"cluster_win_mean": "50.38",
+				"delta": "50.38"
 			}
 		],
 		"number_of_hyperlinks": [
 			{
-				"html_id": "http://www.wholesale-outlet.co.uk/directory/new/",
-				"feature_value": "76",
-				"cluster_win_mean": "49.87",
-				"delta": "-26.13"
+				"html_id": "http://www.bja.org.uk/en/jobs-agents/job-agent-vacancies.cfm/jewellery_agent_required",
+				"feature_value": "239",
+				"cluster_win_mean": "91.03",
+				"delta": "-147.97"
+			},
+			{
+				"html_id": "http://www.bja.org.uk/en/member-services/member-search.cfm/page/53/trade_consumer_all/all/keyword/jewellery/",
+				"feature_value": "205",
+				"cluster_win_mean": "91.03",
+				"delta": "-113.97"
 			},
 			{
 				"html_id": "http://www.wholesale-outlet.co.uk/directory/Jewellery/",
-				"feature_value": "91",
-				"cluster_win_mean": "49.87",
-				"delta": "-41.13"
+				"feature_value": " 91",
+				"cluster_win_mean": "91.03",
+				"delta": "   0.03"
 			}
 		],
 		"number_of_hyperlinks_with_file": [
 			{
+				"html_id": "http://www.bja.org.uk/en/jobs-agents/job-agent-vacancies.cfm/jewellery_agent_required",
+				"feature_value": "189",
+				"cluster_win_mean": "6.25",
+				"delta": "-182.75"
+			},
+			{
+				"html_id": "http://www.bja.org.uk/en/member-services/member-search.cfm/page/53/trade_consumer_all/all/keyword/jewellery/",
+				"feature_value": "179",
+				"cluster_win_mean": "6.25",
+				"delta": "-172.75"
+			},
+			{
 				"html_id": "http://www.wholesale-outlet.co.uk/directory/new/",
-				"feature_value": "53",
-				"cluster_win_mean": "7.66",
-				"delta": "-45.34"
+				"feature_value": " 53",
+				"cluster_win_mean": "6.25",
+				"delta": " -46.75"
 			},
 			{
 				"html_id": "http://www.wholesale-outlet.co.uk/directory/Jewellery/",
-				"feature_value": "73",
-				"cluster_win_mean": "7.66",
-				"delta": "-65.34"
+				"feature_value": " 73",
+				"cluster_win_mean": "6.25",
+				"delta": " -66.75"
 			}
 		],
 		"number_of_images": {
-			"html_id": "http://www.bja.org.uk/en/member-services/member-search.cfm/page/53/trade_consumer_all/all/keyword/jewellery/",
-			"feature_value": "12",
-			"cluster_win_mean": "17.36",
-			"delta": "5.36"
+			"html_id": "http://www.bja.org.uk/en/jobs-agents/job-agent-vacancies.cfm/jewellery_agent_required",
+			"feature_value": "18",
+			"cluster_win_mean": "17.95",
+			"delta": "-0.05"
 		},
 		"number_of_external_links": [
 			{
-				"html_id": "http://www.wholesale-outlet.co.uk/directory/new/",
-				"feature_value": "41",
-				"cluster_win_mean": "45.78",
-				"delta": " 4.78"
+				"html_id": "http://www.bja.org.uk/en/jobs-agents/job-agent-vacancies.cfm/jewellery_agent_required",
+				"feature_value": "178",
+				"cluster_win_mean": "84.95",
+				"delta": "-93.05"
 			},
 			{
-				"html_id": "http://www.wholesale-outlet.co.uk/directory/Jewellery/",
-				"feature_value": "47",
-				"cluster_win_mean": "45.78",
-				"delta": "-1.22"
+				"html_id": "http://www.bja.org.uk/en/member-services/member-search.cfm/page/53/trade_consumer_all/all/keyword/jewellery/",
+				"feature_value": "144",
+				"cluster_win_mean": "84.95",
+				"delta": "-59.05"
 			}
 		],
 		"number_of_hyperlinks_with_html": [
 			{
+				"html_id": "http://www.bja.org.uk/en/jobs-agents/job-agent-vacancies.cfm/jewellery_agent_required",
+				"feature_value": "50",
+				"cluster_win_mean": "39.42",
+				"delta": "-10.58"
+			},
+			{
 				"html_id": "http://www.wholesale-outlet.co.uk/directory/new/",
 				"feature_value": "45",
-				"cluster_win_mean": "16.62",
-				"delta": "-28.38"
+				"cluster_win_mean": "39.42",
+				"delta": " -5.58"
 			},
 			{
 				"html_id": "http://www.wholesale-outlet.co.uk/directory/Jewellery/",
 				"feature_value": "43",
-				"cluster_win_mean": "16.62",
-				"delta": "-26.38"
+				"cluster_win_mean": "39.42",
+				"delta": " -3.58"
 			}
 		],
 		"number_of_absolute_internal_links": [
 			{
 				"html_id": "http://www.bja.org.uk/en/jobs-agents/job-agent-vacancies.cfm/jewellery_agent_required",
 				"feature_value": "0",
-				"cluster_win_mean": "2.39",
-				"delta": " 2.39"
+				"cluster_win_mean": "1.46",
+				"delta": " 1.46"
 			},
 			{
 				"html_id": "http://www.bja.org.uk/en/member-services/member-search.cfm/page/53/trade_consumer_all/all/keyword/jewellery/",
 				"feature_value": "0",
-				"cluster_win_mean": "2.39",
-				"delta": " 2.39"
+				"cluster_win_mean": "1.46",
+				"delta": " 1.46"
 			},
 			{
 				"html_id": "http://www.wholesale-outlet.co.uk/directory/new/",
 				"feature_value": "5",
-				"cluster_win_mean": "4.31",
-				"delta": "-0.69"
+				"cluster_win_mean": "1.46",
+				"delta": "-3.54"
 			},
 			{
 				"html_id": "http://www.wholesale-outlet.co.uk/directory/Jewellery/",
 				"feature_value": "0",
-				"cluster_win_mean": "4.31",
-				"delta": " 4.31"
-			}
-		],
-		"number_of_images_missing_alt": [
-			{
-				"html_id": "http://www.bja.org.uk/en/jobs-agents/job-agent-vacancies.cfm/jewellery_agent_required",
-				"feature_value": "4",
-				"cluster_win_mean": "16.44",
-				"delta": "12.44"
-			},
-			{
-				"html_id": "http://www.bja.org.uk/en/member-services/member-search.cfm/page/53/trade_consumer_all/all/keyword/jewellery/",
-				"feature_value": "4",
-				"cluster_win_mean": "16.44",
-				"delta": "12.44"
-			}
-		],
-		"number_of_h1_instances": [
-			{
-				"html_id": "http://www.wholesale-outlet.co.uk/directory/new/",
-				"feature_value": "0",
-				"cluster_win_mean": "1.03",
-				"delta": "1.03"
-			},
-			{
-				"html_id": "http://www.wholesale-outlet.co.uk/directory/Jewellery/",
-				"feature_value": "0",
-				"cluster_win_mean": "1.03",
-				"delta": "1.03"
+				"cluster_win_mean": "1.46",
+				"delta": " 1.46"
 			}
 		],
 		"total_number_of_words": {
 			"html_id": "http://www.bja.org.uk/en/jobs-agents/job-agent-vacancies.cfm/jewellery_agent_required",
 			"feature_value": "612",
-			"cluster_win_mean": "179.65",
-			"delta": "-432.35"
+			"cluster_win_mean": "132.45",
+			"delta": "-479.55"
 		},
 		"number_of_embedded_css_styles": [
 			{
 				"html_id": "http://www.wholesale-outlet.co.uk/directory/new/",
 				"feature_value": "13",
-				"cluster_win_mean": "2.78",
-				"delta": "-10.22"
+				"cluster_win_mean": "2.98",
+				"delta": "-10.02"
 			},
 			{
 				"html_id": "http://www.wholesale-outlet.co.uk/directory/Jewellery/",
 				"feature_value": "13",
-				"cluster_win_mean": "2.78",
-				"delta": "-10.22"
+				"cluster_win_mean": "2.98",
+				"delta": "-10.02"
 			}
 		],
 		"number_of_embedded_styles": [
 			{
 				"html_id": "http://www.wholesale-outlet.co.uk/directory/new/",
 				"feature_value": "13",
-				"cluster_win_mean": "2.62",
-				"delta": "-10.38"
+				"cluster_win_mean": "2.97",
+				"delta": "-10.03"
 			},
 			{
 				"html_id": "http://www.wholesale-outlet.co.uk/directory/Jewellery/",
 				"feature_value": "13",
-				"cluster_win_mean": "2.62",
-				"delta": "-10.38"
+				"cluster_win_mean": "2.97",
+				"delta": "-10.03"
 			}
 		],
 		"average_image_height": [
 			{
 				"html_id": "http://www.bja.org.uk/en/jobs-agents/job-agent-vacancies.cfm/jewellery_agent_required",
 				"feature_value": " 0",
-				"cluster_win_mean": " 97.03",
-				"delta": "97.03"
+				"cluster_win_mean": "98.03",
+				"delta": "98.03"
 			},
 			{
 				"html_id": "http://www.bja.org.uk/en/member-services/member-search.cfm/page/53/trade_consumer_all/all/keyword/jewellery/",
 				"feature_value": " 0",
-				"cluster_win_mean": " 97.03",
-				"delta": "97.03"
+				"cluster_win_mean": "98.03",
+				"delta": "98.03"
 			},
 			{
 				"html_id": "http://www.wholesale-outlet.co.uk/directory/new/",
 				"feature_value": "16",
-				"cluster_win_mean": "104.04",
-				"delta": "88.04"
+				"cluster_win_mean": "98.03",
+				"delta": "82.03"
 			}
 		],
 		"ratio_of_common_words_to_total": [
@@ -274,36 +230,48 @@
 				"delta": "   0"
 			},
 			{
+				"html_id": "http://www.bja.org.uk/en/member-services/member-search.cfm/page/53/trade_consumer_all/all/keyword/jewellery/",
+				"feature_value": "0.72222",
+				"cluster_win_mean": "0.74",
+				"delta": "0.02"
+			},
+			{
 				"html_id": "http://www.wholesale-outlet.co.uk/directory/new/",
 				"feature_value": "0.60606",
-				"cluster_win_mean": "0.78",
-				"delta": "0.17"
+				"cluster_win_mean": "0.74",
+				"delta": "0.14"
 			},
 			{
 				"html_id": "http://www.wholesale-outlet.co.uk/directory/Jewellery/",
 				"feature_value": "0.36585",
-				"cluster_win_mean": "0.78",
-				"delta": "0.41"
+				"cluster_win_mean": "0.74",
+				"delta": "0.38"
 			}
 		],
 		"proximity_of_title_tag_words_to_external_bound_hyperlinks": [
 			{
 				"html_id": "http://www.bja.org.uk/en/jobs-agents/job-agent-vacancies.cfm/jewellery_agent_required",
 				"feature_value": "1376",
-				"cluster_win_mean": "584.75",
-				"delta": " -791.25"
+				"cluster_win_mean": "452.65",
+				"delta": " -923.35"
 			},
 			{
 				"html_id": "http://www.bja.org.uk/en/member-services/member-search.cfm/page/53/trade_consumer_all/all/keyword/jewellery/",
 				"feature_value": "1376",
-				"cluster_win_mean": "584.75",
-				"delta": " -791.25"
+				"cluster_win_mean": "452.65",
+				"delta": " -923.35"
 			},
 			{
 				"html_id": "http://www.wholesale-outlet.co.uk/directory/new/",
 				"feature_value": "2161",
-				"cluster_win_mean": "589.46",
-				"delta": "-1571.54"
+				"cluster_win_mean": "452.65",
+				"delta": "-1708.35"
+			},
+			{
+				"html_id": "http://www.wholesale-outlet.co.uk/directory/Jewellery/",
+				"feature_value": " 431",
+				"cluster_win_mean": "452.65",
+				"delta": "   21.65"
 			}
 		],
 		"average_number_of_words_in_anchor_text": [
@@ -318,148 +286,162 @@
 				"feature_value": "5",
 				"cluster_win_mean": "2.12",
 				"delta": "-2.88"
-			},
-			{
-				"html_id": "http://www.wholesale-outlet.co.uk/directory/new/",
-				"feature_value": "2",
-				"cluster_win_mean": "2.03",
-				"delta": " 0.03"
-			},
-			{
-				"html_id": "http://www.wholesale-outlet.co.uk/directory/Jewellery/",
-				"feature_value": "2",
-				"cluster_win_mean": "2.03",
-				"delta": " 0.03"
 			}
 		],
 		"number_of_embedded_javascripts": [
 			{
 				"html_id": "http://www.bja.org.uk/en/jobs-agents/job-agent-vacancies.cfm/jewellery_agent_required",
 				"feature_value": " 5",
-				"cluster_win_mean": "2.62",
-				"delta": "-2.38"
+				"cluster_win_mean": "3.27",
+				"delta": "-1.73"
 			},
 			{
 				"html_id": "http://www.bja.org.uk/en/member-services/member-search.cfm/page/53/trade_consumer_all/all/keyword/jewellery/",
 				"feature_value": " 4",
-				"cluster_win_mean": "2.62",
-				"delta": "-1.38"
+				"cluster_win_mean": "3.27",
+				"delta": "-0.73"
 			},
 			{
 				"html_id": "http://www.wholesale-outlet.co.uk/directory/new/",
 				"feature_value": " 9",
-				"cluster_win_mean": "4.14",
-				"delta": "-4.86"
+				"cluster_win_mean": "3.27",
+				"delta": "-5.73"
 			},
 			{
 				"html_id": "http://www.wholesale-outlet.co.uk/directory/Jewellery/",
 				"feature_value": "13",
-				"cluster_win_mean": "4.14",
-				"delta": "-8.86"
+				"cluster_win_mean": "3.27",
+				"delta": "-9.73"
 			}
 		],
 		"number_of_external_css_styles": [
 			{
 				"html_id": "http://www.bja.org.uk/en/jobs-agents/job-agent-vacancies.cfm/jewellery_agent_required",
 				"feature_value": "7",
-				"cluster_win_mean": "1.61",
-				"delta": "-5.39"
+				"cluster_win_mean": "1.24",
+				"delta": "-5.76"
 			},
 			{
 				"html_id": "http://www.bja.org.uk/en/member-services/member-search.cfm/page/53/trade_consumer_all/all/keyword/jewellery/",
 				"feature_value": "7",
-				"cluster_win_mean": "1.61",
-				"delta": "-5.39"
+				"cluster_win_mean": "1.24",
+				"delta": "-5.76"
 			},
 			{
 				"html_id": "http://www.wholesale-outlet.co.uk/directory/new/",
 				"feature_value": "5",
-				"cluster_win_mean": " 1.6",
-				"delta": " -3.4"
+				"cluster_win_mean": "1.24",
+				"delta": "-3.76"
 			},
 			{
 				"html_id": "http://www.wholesale-outlet.co.uk/directory/Jewellery/",
 				"feature_value": "5",
-				"cluster_win_mean": " 1.6",
-				"delta": " -3.4"
+				"cluster_win_mean": "1.24",
+				"delta": "-3.76"
 			}
 		],
-		"number_of_images_in_body": {
-			"html_id": "http://www.bja.org.uk/en/member-services/member-search.cfm/page/53/trade_consumer_all/all/keyword/jewellery/",
-			"feature_value": "12",
-			"cluster_win_mean": "17.35",
-			"delta": "5.35"
-		},
-		"number_of_destination_titles_same_as_anchor_text": [
+		"number_of_images_in_body": [
+			{
+				"html_id": "http://www.bja.org.uk/en/member-services/member-search.cfm/page/53/trade_consumer_all/all/keyword/jewellery/",
+				"feature_value": "12",
+				"cluster_win_mean": "17.95",
+				"delta": "5.95"
+			},
 			{
 				"html_id": "http://www.wholesale-outlet.co.uk/directory/new/",
-				"feature_value": "0",
-				"cluster_win_mean": "6.14",
-				"delta": "6.14"
+				"feature_value": " 8",
+				"cluster_win_mean": "17.95",
+				"delta": "9.95"
 			},
 			{
 				"html_id": "http://www.wholesale-outlet.co.uk/directory/Jewellery/",
-				"feature_value": "0",
-				"cluster_win_mean": "6.14",
-				"delta": "6.14"
+				"feature_value": "10",
+				"cluster_win_mean": "17.95",
+				"delta": "7.95"
 			}
 		]
 	},
 	"harmful": {
+		"flesch_reading_ease": [
+			{
+				"html_id": "http://www.bja.org.uk/en/jobs-agents/job-agent-vacancies.cfm/jewellery_agent_required",
+				"feature_value": "53.9238",
+				"cluster_win_mean": "17.22",
+				"delta": "-36.71"
+			},
+			{
+				"html_id": "http://www.bja.org.uk/en/member-services/member-search.cfm/page/53/trade_consumer_all/all/keyword/jewellery/",
+				"feature_value": " 80.465",
+				"cluster_win_mean": "17.22",
+				"delta": "-63.25"
+			}
+		],
 		"flesch_grade_level": [
 			{
 				"html_id": "http://www.bja.org.uk/en/jobs-agents/job-agent-vacancies.cfm/jewellery_agent_required",
 				"feature_value": "10.2097",
-				"cluster_win_mean": "17.33",
-				"delta": " 7.12"
+				"cluster_win_mean": "17.14",
+				"delta": " 6.93"
 			},
 			{
 				"html_id": "http://www.bja.org.uk/en/member-services/member-search.cfm/page/53/trade_consumer_all/all/keyword/jewellery/",
 				"feature_value": " 6.5078",
-				"cluster_win_mean": "17.33",
-				"delta": "10.83"
+				"cluster_win_mean": "17.14",
+				"delta": "10.64"
 			}
 		],
 		"dale_chall_readability": [
 			{
 				"html_id": "http://www.bja.org.uk/en/jobs-agents/job-agent-vacancies.cfm/jewellery_agent_required",
 				"feature_value": "6.6979",
-				"cluster_win_mean": "8.3",
-				"delta": " 1.6"
+				"cluster_win_mean": "8.29",
+				"delta": "1.59"
 			},
 			{
 				"html_id": "http://www.bja.org.uk/en/member-services/member-search.cfm/page/53/trade_consumer_all/all/keyword/jewellery/",
 				"feature_value": "7.9106",
-				"cluster_win_mean": "8.3",
-				"delta": "0.39"
+				"cluster_win_mean": "8.29",
+				"delta": "0.38"
 			}
 		],
 		"maximum_length_of_h1": [
 			{
 				"html_id": "http://www.bja.org.uk/en/jobs-agents/job-agent-vacancies.cfm/jewellery_agent_required",
 				"feature_value": "30",
-				"cluster_win_mean": "77.16",
-				"delta": "47.16"
+				"cluster_win_mean": "77.29",
+				"delta": "47.29"
 			},
 			{
 				"html_id": "http://www.bja.org.uk/en/member-services/member-search.cfm/page/53/trade_consumer_all/all/keyword/jewellery/",
 				"feature_value": "30",
-				"cluster_win_mean": "77.16",
-				"delta": "47.16"
+				"cluster_win_mean": "77.29",
+				"delta": "47.29"
+			},
+			{
+				"html_id": "http://www.wholesale-outlet.co.uk/directory/new/",
+				"feature_value": " 0",
+				"cluster_win_mean": "77.29",
+				"delta": "77.29"
+			},
+			{
+				"html_id": "http://www.wholesale-outlet.co.uk/directory/Jewellery/",
+				"feature_value": " 0",
+				"cluster_win_mean": "77.29",
+				"delta": "77.29"
 			}
 		],
 		"average_length_of_h1": [
 			{
 				"html_id": "http://www.bja.org.uk/en/jobs-agents/job-agent-vacancies.cfm/jewellery_agent_required",
 				"feature_value": "30",
-				"cluster_win_mean": "48.79",
-				"delta": "18.79"
+				"cluster_win_mean": "50.38",
+				"delta": "20.38"
 			},
 			{
 				"html_id": "http://www.bja.org.uk/en/member-services/member-search.cfm/page/53/trade_consumer_all/all/keyword/jewellery/",
 				"feature_value": "30",
-				"cluster_win_mean": "48.79",
-				"delta": "18.79"
+				"cluster_win_mean": "50.38",
+				"delta": "20.38"
 			}
 		],
 		"number_of_root_relative_internal_links": [
@@ -474,108 +456,90 @@
 				"feature_value": "0",
 				"cluster_win_mean": "1",
 				"delta": "1"
-			}
-		],
-		"number_of_hyperlinks": [
-			{
-				"html_id": "http://www.bja.org.uk/en/jobs-agents/job-agent-vacancies.cfm/jewellery_agent_required",
-				"feature_value": "239",
-				"cluster_win_mean": "91.31",
-				"delta": "-147.69"
 			},
 			{
-				"html_id": "http://www.bja.org.uk/en/member-services/member-search.cfm/page/53/trade_consumer_all/all/keyword/jewellery/",
-				"feature_value": "205",
-				"cluster_win_mean": "91.31",
-				"delta": "-113.69"
-			}
-		],
-		"number_of_hyperlinks_with_file": [
-			{
-				"html_id": "http://www.bja.org.uk/en/jobs-agents/job-agent-vacancies.cfm/jewellery_agent_required",
-				"feature_value": "189",
-				"cluster_win_mean": "6.24",
-				"delta": "-182.76"
+				"html_id": "http://www.wholesale-outlet.co.uk/directory/new/",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
 			},
 			{
-				"html_id": "http://www.bja.org.uk/en/member-services/member-search.cfm/page/53/trade_consumer_all/all/keyword/jewellery/",
-				"feature_value": "179",
-				"cluster_win_mean": "6.24",
-				"delta": "-172.76"
+				"html_id": "http://www.wholesale-outlet.co.uk/directory/Jewellery/",
+				"feature_value": "0",
+				"cluster_win_mean": "1",
+				"delta": "1"
 			}
 		],
+		"number_of_hyperlinks": {
+			"html_id": "http://www.wholesale-outlet.co.uk/directory/new/",
+			"feature_value": "76",
+			"cluster_win_mean": "91.03",
+			"delta": "15.03"
+		},
 		"number_of_images": [
 			{
-				"html_id": "http://www.bja.org.uk/en/jobs-agents/job-agent-vacancies.cfm/jewellery_agent_required",
-				"feature_value": "18",
-				"cluster_win_mean": "17.36",
-				"delta": "-0.64"
+				"html_id": "http://www.bja.org.uk/en/member-services/member-search.cfm/page/53/trade_consumer_all/all/keyword/jewellery/",
+				"feature_value": "12",
+				"cluster_win_mean": "17.95",
+				"delta": "5.95"
 			},
 			{
 				"html_id": "http://www.wholesale-outlet.co.uk/directory/new/",
 				"feature_value": " 8",
-				"cluster_win_mean": "14.49",
-				"delta": " 6.49"
+				"cluster_win_mean": "17.95",
+				"delta": "9.95"
 			},
 			{
 				"html_id": "http://www.wholesale-outlet.co.uk/directory/Jewellery/",
 				"feature_value": "10",
-				"cluster_win_mean": "14.49",
-				"delta": " 4.49"
+				"cluster_win_mean": "17.95",
+				"delta": "7.95"
 			}
 		],
 		"number_of_external_links": [
 			{
-				"html_id": "http://www.bja.org.uk/en/jobs-agents/job-agent-vacancies.cfm/jewellery_agent_required",
-				"feature_value": "178",
-				"cluster_win_mean": "83.94",
-				"delta": "-94.06"
+				"html_id": "http://www.wholesale-outlet.co.uk/directory/new/",
+				"feature_value": "41",
+				"cluster_win_mean": "84.95",
+				"delta": "43.95"
 			},
 			{
-				"html_id": "http://www.bja.org.uk/en/member-services/member-search.cfm/page/53/trade_consumer_all/all/keyword/jewellery/",
-				"feature_value": "144",
-				"cluster_win_mean": "83.94",
-				"delta": "-60.06"
+				"html_id": "http://www.wholesale-outlet.co.uk/directory/Jewellery/",
+				"feature_value": "47",
+				"cluster_win_mean": "84.95",
+				"delta": "37.95"
 			}
 		],
-		"number_of_hyperlinks_with_html": [
-			{
-				"html_id": "http://www.bja.org.uk/en/jobs-agents/job-agent-vacancies.cfm/jewellery_agent_required",
-				"feature_value": "50",
-				"cluster_win_mean": "40.68",
-				"delta": "-9.32"
-			},
-			{
-				"html_id": "http://www.bja.org.uk/en/member-services/member-search.cfm/page/53/trade_consumer_all/all/keyword/jewellery/",
-				"feature_value": "26",
-				"cluster_win_mean": "40.68",
-				"delta": "14.68"
-			}
-		],
+		"number_of_hyperlinks_with_html": {
+			"html_id": "http://www.bja.org.uk/en/member-services/member-search.cfm/page/53/trade_consumer_all/all/keyword/jewellery/",
+			"feature_value": "26",
+			"cluster_win_mean": "39.42",
+			"delta": "13.42"
+		},
 		"average_image_width": [
 			{
 				"html_id": "http://www.bja.org.uk/en/jobs-agents/job-agent-vacancies.cfm/jewellery_agent_required",
 				"feature_value": "  0",
-				"cluster_win_mean": "215.35",
-				"delta": "215.35"
+				"cluster_win_mean": "217.02",
+				"delta": "217.02"
 			},
 			{
 				"html_id": "http://www.bja.org.uk/en/member-services/member-search.cfm/page/53/trade_consumer_all/all/keyword/jewellery/",
 				"feature_value": "  0",
-				"cluster_win_mean": "215.35",
-				"delta": "215.35"
+				"cluster_win_mean": "217.02",
+				"delta": "217.02"
 			},
 			{
 				"html_id": "http://www.wholesale-outlet.co.uk/directory/new/",
 				"feature_value": "125",
-				"cluster_win_mean": "221.58",
-				"delta": " 96.58"
+				"cluster_win_mean": "217.02",
+				"delta": " 92.02"
 			},
 			{
 				"html_id": "http://www.wholesale-outlet.co.uk/directory/Jewellery/",
 				"feature_value": "153",
-				"cluster_win_mean": "221.58",
-				"delta": " 68.58"
+				"cluster_win_mean": "217.02",
+				"delta": " 64.02"
 			}
 		],
 		"number_of_id_attribute_refs": [
@@ -606,85 +570,109 @@
 		],
 		"number_of_images_missing_alt": [
 			{
+				"html_id": "http://www.bja.org.uk/en/jobs-agents/job-agent-vacancies.cfm/jewellery_agent_required",
+				"feature_value": "4",
+				"cluster_win_mean": "17",
+				"delta": "13"
+			},
+			{
+				"html_id": "http://www.bja.org.uk/en/member-services/member-search.cfm/page/53/trade_consumer_all/all/keyword/jewellery/",
+				"feature_value": "4",
+				"cluster_win_mean": "17",
+				"delta": "13"
+			},
+			{
 				"html_id": "http://www.wholesale-outlet.co.uk/directory/new/",
 				"feature_value": "0",
-				"cluster_win_mean": "14.24",
-				"delta": "14.24"
+				"cluster_win_mean": "17",
+				"delta": "17"
 			},
 			{
 				"html_id": "http://www.wholesale-outlet.co.uk/directory/Jewellery/",
 				"feature_value": "0",
-				"cluster_win_mean": "14.24",
-				"delta": "14.24"
+				"cluster_win_mean": "17",
+				"delta": "17"
 			}
 		],
 		"number_of_h1_instances": [
 			{
 				"html_id": "http://www.bja.org.uk/en/jobs-agents/job-agent-vacancies.cfm/jewellery_agent_required",
 				"feature_value": "1",
-				"cluster_win_mean": "2.77",
-				"delta": "1.77"
+				"cluster_win_mean": "2.61",
+				"delta": "1.61"
 			},
 			{
 				"html_id": "http://www.bja.org.uk/en/member-services/member-search.cfm/page/53/trade_consumer_all/all/keyword/jewellery/",
 				"feature_value": "1",
-				"cluster_win_mean": "2.77",
-				"delta": "1.77"
+				"cluster_win_mean": "2.61",
+				"delta": "1.61"
+			},
+			{
+				"html_id": "http://www.wholesale-outlet.co.uk/directory/new/",
+				"feature_value": "0",
+				"cluster_win_mean": "2.61",
+				"delta": "2.61"
+			},
+			{
+				"html_id": "http://www.wholesale-outlet.co.uk/directory/Jewellery/",
+				"feature_value": "0",
+				"cluster_win_mean": "2.61",
+				"delta": "2.61"
 			}
 		],
 		"total_number_of_words": [
 			{
 				"html_id": "http://www.bja.org.uk/en/member-services/member-search.cfm/page/53/trade_consumer_all/all/keyword/jewellery/",
 				"feature_value": "36",
-				"cluster_win_mean": "179.65",
-				"delta": "143.65"
+				"cluster_win_mean": "132.45",
+				"delta": "96.45"
 			},
 			{
 				"html_id": "http://www.wholesale-outlet.co.uk/directory/new/",
 				"feature_value": "33",
-				"cluster_win_mean": " 52.91",
-				"delta": " 19.91"
+				"cluster_win_mean": "132.45",
+				"delta": "99.45"
 			},
 			{
 				"html_id": "http://www.wholesale-outlet.co.uk/directory/Jewellery/",
 				"feature_value": "41",
-				"cluster_win_mean": " 52.91",
-				"delta": " 11.91"
+				"cluster_win_mean": "132.45",
+				"delta": "91.45"
 			}
 		],
 		"number_of_embedded_css_styles": [
 			{
 				"html_id": "http://www.bja.org.uk/en/jobs-agents/job-agent-vacancies.cfm/jewellery_agent_required",
 				"feature_value": "0",
-				"cluster_win_mean": "2.95",
-				"delta": "2.95"
+				"cluster_win_mean": "2.98",
+				"delta": "2.98"
 			},
 			{
 				"html_id": "http://www.bja.org.uk/en/member-services/member-search.cfm/page/53/trade_consumer_all/all/keyword/jewellery/",
 				"feature_value": "0",
-				"cluster_win_mean": "2.95",
-				"delta": "2.95"
+				"cluster_win_mean": "2.98",
+				"delta": "2.98"
 			}
 		],
 		"number_of_embedded_styles": [
 			{
 				"html_id": "http://www.bja.org.uk/en/jobs-agents/job-agent-vacancies.cfm/jewellery_agent_required",
 				"feature_value": "0",
-				"cluster_win_mean": "2.94",
-				"delta": "2.94"
+				"cluster_win_mean": "2.97",
+				"delta": "2.97"
 			},
 			{
 				"html_id": "http://www.bja.org.uk/en/member-services/member-search.cfm/page/53/trade_consumer_all/all/keyword/jewellery/",
 				"feature_value": "0",
-				"cluster_win_mean": "2.94",
-				"delta": "2.94"
+				"cluster_win_mean": "2.97",
+				"delta": "2.97"
 			}
 		],
 		"average_image_height": {
 			"html_id": "http://www.wholesale-outlet.co.uk/directory/Jewellery/",
 			"feature_value": "53",
-			"cluster_win_mean": "104.04",
-			"delta": "51.04"
+			"cluster_win_mean": "98.03",
+			"delta": "45.03"
 		},
 		"html5_detected": [
 			{
@@ -712,50 +700,50 @@
 				"delta": "1"
 			}
 		],
-		"ratio_of_common_words_to_total": {
-			"html_id": "http://www.bja.org.uk/en/member-services/member-search.cfm/page/53/trade_consumer_all/all/keyword/jewellery/",
-			"feature_value": "0.72222",
-			"cluster_win_mean": "0.74",
-			"delta": "0.02"
-		},
-		"proximity_of_title_tag_words_to_external_bound_hyperlinks": {
-			"html_id": "http://www.wholesale-outlet.co.uk/directory/Jewellery/",
-			"feature_value": "431",
-			"cluster_win_mean": "589.46",
-			"delta": "158.46"
-		},
-		"number_of_images_in_body": [
-			{
-				"html_id": "http://www.bja.org.uk/en/jobs-agents/job-agent-vacancies.cfm/jewellery_agent_required",
-				"feature_value": "18",
-				"cluster_win_mean": "17.35",
-				"delta": "-0.65"
-			},
+		"average_number_of_words_in_anchor_text": [
 			{
 				"html_id": "http://www.wholesale-outlet.co.uk/directory/new/",
-				"feature_value": " 8",
-				"cluster_win_mean": "14.94",
-				"delta": " 6.94"
+				"feature_value": "2",
+				"cluster_win_mean": "2.12",
+				"delta": "0.12"
 			},
 			{
 				"html_id": "http://www.wholesale-outlet.co.uk/directory/Jewellery/",
-				"feature_value": "10",
-				"cluster_win_mean": "14.94",
-				"delta": " 4.94"
+				"feature_value": "2",
+				"cluster_win_mean": "2.12",
+				"delta": "0.12"
 			}
 		],
+		"number_of_images_in_body": {
+			"html_id": "http://www.bja.org.uk/en/jobs-agents/job-agent-vacancies.cfm/jewellery_agent_required",
+			"feature_value": "18",
+			"cluster_win_mean": "17.95",
+			"delta": "-0.05"
+		},
 		"number_of_destination_titles_same_as_anchor_text": [
 			{
 				"html_id": "http://www.bja.org.uk/en/jobs-agents/job-agent-vacancies.cfm/jewellery_agent_required",
 				"feature_value": "0",
-				"cluster_win_mean": "13.26",
-				"delta": "13.26"
+				"cluster_win_mean": "9.46",
+				"delta": "9.46"
 			},
 			{
 				"html_id": "http://www.bja.org.uk/en/member-services/member-search.cfm/page/53/trade_consumer_all/all/keyword/jewellery/",
 				"feature_value": "0",
-				"cluster_win_mean": "13.26",
-				"delta": "13.26"
+				"cluster_win_mean": "9.46",
+				"delta": "9.46"
+			},
+			{
+				"html_id": "http://www.wholesale-outlet.co.uk/directory/new/",
+				"feature_value": "0",
+				"cluster_win_mean": "9.46",
+				"delta": "9.46"
+			},
+			{
+				"html_id": "http://www.wholesale-outlet.co.uk/directory/Jewellery/",
+				"feature_value": "0",
+				"cluster_win_mean": "9.46",
+				"delta": "9.46"
 			}
 		]
 	}
