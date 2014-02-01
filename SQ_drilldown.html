@@ -1,0 +1,882 @@
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>MathSight: StatSEO Drilldown</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://d396qusza40orc.cloudfront.net/startup%2Fcode%2Fbootstrap-combined.no-icons.min.css">
+    <link rel="stylesheet" href="http://netdna.bootstrapcdn.com/font-awesome/3.0.2/css/font-awesome.css">
+    <link rel="stylesheet" href="https://d396qusza40orc.cloudfront.net/startup%2Fcode%2Fsocial-buttons.css">    
+    <script src="https://d396qusza40orc.cloudfront.net/startup%2Fcode%2Fjquery.js"></script>
+    <script src="https://d396qusza40orc.cloudfront.net/startup%2Fcode%2Fbootstrap.js"></script>
+	
+	<!-- for panel styling-->
+	<script src="//netdna.bootstrapcdn.com/bootstrap/3.0.2/js/bootstrap.min.js"></script>
+	
+	<!-- for datatables' styling -->
+	<link href="http://fonts.googleapis.com/css?family=Ubuntu:300,400,500,700,300italic,400italic,500italic,700italic" rel="stylesheet" type="text/css">
+	<link href="http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,300,400,600,700,800" rel="stylesheet" type="text/css">
+	
+	<script src="datatables/media/js/jquery.js"></script>
+	
+	<!-- for nv.d3 charts -->
+	<link href="src/nv.d3.css" rel="stylesheet" type="text/css">
+	
+	<link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.0.2/css/bootstrap-theme.min.css">
+	
+	<style>
+	canvas{
+	}
+	</style>
+	
+	<style>
+	/* for chart (nvd3) */
+	body {
+		overflow-y:scroll;
+	}
+
+	text {
+		font: 12px sans-serif;
+	}
+
+	#chart {
+		margin: 10px;
+		min-width: 100px;
+		min-height: 100px;
+		/*
+		Minimum height and width is a good idea to prevent negative SVG dimensions...
+		For example width should be =< margin.left + margin.right + 1,
+		of course 1 pixel for the entire chart would not be very useful, BUT should not have errors
+		*/
+	}
+
+	#chart svg {
+		height: 500px;
+	}
+
+	@import "http://netdna.bootstrapcdn.com/twitter-bootstrap/2.3.2/css/bootstrap-combined.min.css";
+
+	</style>
+
+	<!-- for datatables -->
+	<script src="datatables/media/js/jquery.dataTables.js"></script>
+	<!-- for datatables' styling etc -->
+	<script type="text/javascript" charset="utf-8" src="datatables/media/js/ZeroClipboard.js"></script>
+	<script type="text/javascript" charset="utf-8" src="datatables/media/js/TableTools.js"></script>
+	
+	<script type="text/javascript" charset="utf-8" src="http://datatables.github.com/Plugins/integration/bootstrap/2/dataTables.bootstrap.js"></script>
+
+	<script type="text/javascript" charset="utf-8">
+
+
+
+	function OpenInNewTab(url )
+	{
+	  var win=window.open(url, '_blank');
+	  win.focus();
+	}
+
+	/* Global vars */
+	 
+	var locate = decodeURI(window.location);
+	
+	var topLevelFile = "/json/toplevel/" + websiteName + "_ybar.json";
+
+	var urlSplit = locate.split("=");
+	// alert(urlSplit);
+	var websiteNameFull = urlSplit[1];
+	var featureNameFull = urlSplit[2];
+	var onOrOffsiteSplit= urlSplit[3].split("&");
+	var healthOrHarm = urlSplit[4] || "harmful";
+	
+	var featNameSplit = featureNameFull.split("&");
+	// alert(featureName);
+	var featureName = featNameSplit[0];
+	var featureNameCaps = featureName[0].toUpperCase() + featureName.slice(1);
+	var featureNameJSON = featNameSplit[0].replace(/ /g, "_");
+	// alert(featureNameJSON);
+	var WebNameSplit = websiteNameFull.split("&");
+	var websiteName = WebNameSplit[0];
+	// alert(websiteName);
+	
+	var onOrOffsite = onOrOffsiteSplit[0] || "onsite";
+	
+	if (onOrOffsite == "onsite") {
+		JSONfilename = "XDrill";
+		highlightFilename = "json/summary/"+websiteName+"_Xhat.json";
+		drilldownFilename = "json/drilldown/"+websiteName+"_XDrill.json";
+	}
+	else if (onOrOffsite == "offsite"){
+		JSONfilename = "XDrillOff";
+		highlightFilename = "json/summary/"+websiteName+"_XhatOff.json";
+		drilldownFilename = "json/drilldown/"+websiteName+"_XDrillOff.json";
+	};
+	
+	if (healthOrHarm == 'healthy') {
+		sorting = "asc";
+	}
+	else if (healthOrHarm = 'harmful') {
+		sorting = "desc";
+	};
+	// alert(onOrOffsite);
+	
+	// -----------------------------
+
+	var loseMean = [];
+	var winMean = [];
+	var loseStd = [];
+	var winStd = [];
+	var harmMean = [];
+	var healthMean = [];
+	var numLose = [];
+	var numWin = [];
+	var featInflus = [];
+	var featInfl = [];
+	var iFeatNames = [];
+	
+	var sd = 0;
+	var sd2 = 0;
+	var mu = 0;
+	var mu2 = 0;
+	
+	var ixMin = 0;
+	var ixMax = 0;
+	var ixRange = 0;
+	var ixInc = 0;
+	
+	var blobArray = [];
+	
+	console.log("The site type is " + onOrOffsite)
+	
+	var featureJSON = $.getJSON( highlightFilename, function(results) {
+		console.log( "feature JSON loading success" );
+		if (onOrOffsite == 'onsite') {
+			$.each(results.onsite, function(index) {
+				
+				blob = results.onsite[index];
+				
+				featInflus.push(blob[0]);
+				
+				if (blob[1]==featureName) {
+					console.log('Same. Feature is: ' + blob[1]);
+					// 		
+					// console.log(featureName);
+					// 		console.log(blob[1]);
+					featInfl.push(blob[0]);
+					loseMean.push(blob[2]);
+					winMean.push(blob[3]);
+					loseStd.push(blob[4]);
+					winStd.push(blob[5]);
+					numLose.push(blob[6]);
+					harmMean.push(blob[7]);
+					numWin.push(blob[9]);
+					healthMean.push(blob[10]);
+					// 
+					console.log("Losing mean = " + loseMean);
+					console.log("Winning mean = " + winMean);
+
+				}
+				else {
+					
+					if (healthOrHarm == 'healthy' && parseInt(blob[9])>0){
+						// console.log('Not same. Feature added: ' + blob[1]);
+						iFeatNames.push(blob[1]);
+					}
+					else if (healthOrHarm == 'harmful' && parseInt(blob[6])>0) {
+						// console.log('Not same. Feature added: ' + blob[1]);
+						iFeatNames.push(blob[1]);
+					}
+					
+				}
+
+			});
+		}
+		else {
+			$.each(results.offsite, function(index) {
+
+				blob = results.offsite[index];
+				
+				featInflus.push(blob[0]);
+				
+				if (blob[1]==featureName) {
+					console.log('Same. Feature is: ' + blob[1]);
+					// 		
+					// console.log(featureName);
+					// 		console.log(blob[1]);
+					featInfl.push(blob[0]);
+					loseMean.push(blob[2]);
+					winMean.push(blob[3]);
+					loseStd.push(blob[4]);
+					winStd.push(blob[5]);
+					numLose.push(blob[6]);
+					harmMean.push(blob[7]);
+					numWin.push(blob[9]);
+					healthMean.push(blob[10]);
+					// 
+					// console.log("Losing mean = " + loseMean);
+					// 	console.log("Winning mean = " + winMean);
+				}
+				else {	
+					if (healthOrHarm == 'healthy' && parseInt(blob[9])>0){
+						// console.log('Not same. Feature added: ' + blob[1]);
+						iFeatNames.push(blob[1]);
+					}
+					else if (healthOrHarm == 'harmful' && parseInt(blob[6])>0) {
+						// console.log('Not same. Feature added: ' + blob[1]);
+						iFeatNames.push(blob[1]);
+					}
+				};
+	
+			});
+		}
+	})
+	.done(function() {
+		console.log( "second success" );
+	})
+	.fail(function() {
+		console.log( "error" );
+	})
+	.always(function() {
+		console.log( "complete" );
+	});
+	
+	function popDropDown(){
+	
+		featureJSON.complete(function() {
+			
+			
+			console.log( "second complete - populating influential feature dropdown and line chart" );
+
+			mu = parseFloat(winMean) || 5;
+			// console.log("Winning mean = " + winMean + " mu: " + mu);
+
+			sd = parseFloat(winStd) || 2;
+
+			mu2 = parseFloat(loseMean) || 3;
+			// console.log("Losing mean = " + loseMean + " mu2: " + mu);
+
+			sd2 = parseFloat(loseStd) || 1.5;
+
+			ixMin = Math.round(Math.min(mu-3*sd,mu2-3*sd2));
+			ixMax = Math.round(Math.max(mu+3*sd,mu2+3*sd2));
+			ixRange = ixMax-ixMin;
+			ixInc = ixRange/100;
+
+		
+		
+		
+			var selectFeature = document.getElementById("selectFeat"); 
+			// console.log('Length of iFeatNames = '+ iFeatNames.length);
+			for(var i = 0; i < iFeatNames.length; i++) {
+			
+				var opt = iFeatNames[i];
+				// console.log(opt);
+			
+				var el = document.createElement("option");
+				el.textContent = opt;
+				el.value = opt;
+				selectFeature.appendChild(el);
+			}
+		
+		});
+	
+	};
+	
+	function doStuff()
+	{
+	
+		// alert("page type is " + onOrOffsite);
+	
+		var featureX = document.getElementById("selectFeat").selectedIndex;
+		var featureY = document.getElementById("selectFeat").options;
+		var featureSel = featureY[featureX].text.toLowerCase();
+	
+		// alert("feature selection is " + featureSel);
+
+		if (websiteName.length > 0 && featureSel.length > 0 && onOrOffsite.length > 0 && featureX > 1){
+			urlToOpen = "SQ_drilldown.html?="+websiteName+"&="+featureSel+"&="+onOrOffsite+"&="+healthOrHarm;
+			window.open(urlToOpen ,"_self");
+		}
+		
+	
+
+	};
+	
+	
+
+	// -----------------------------
+
+	function normalDist() {
+		var iy = [];
+		var iy2 = [];
+
+
+		for (var i = 0; i < ixMax; i+= ixInc) {
+
+			iy.push({x: i, y: (1/(sd*Math.sqrt(2*Math.PI)))* Math.exp(-Math.pow(i-mu,2)/(2*Math.pow(sd,2)))});
+			iy2.push({x: i, y: (1/(sd2*Math.sqrt(2*Math.PI)))* Math.exp(-Math.pow(i-mu2,2)/(2*Math.pow(sd2,2)))});
+
+		}
+
+
+		return [
+		{
+			values: iy,
+			key: 'Winning Distribution',
+			color: '#00cc00'
+		},
+		{
+			values: iy2,
+			key: 'Losing Distribution',
+			color: '#ff0000'
+		}
+		];
+
+	};
+
+
+
+function initDataTables(){
+	
+	// console.log("aAjaxSource: /json/drilldown/"+websiteName+"_"+JSONfilename+".json");
+// 	console.log("sAjaxDataProp: "+ healthOrHarm + "." + featureNameJSON);
+		$('#example1').dataTable( {
+			"bProcessing": true,
+			// "bServerSide": true,
+			"aaData": blobArray,
+			// "sAjaxSource": JSONin,
+			// "sAjaxDataProp": healthOrHarm + "." + featureNameJSON,
+			"bDeferRender": true,
+			"sDom": "<'row-fluid'<'span6'T><'span6'f>r>t<'row-fluid'<'span6'i><'span6'p>>",
+			"oTableTools": {
+				"aButtons": [
+				"copy",
+				"print",
+				{
+					"sExtends":    "collection",
+					"sButtonText": 'Save <span class="caret" />',
+					"aButtons":    [ "csv", "xls", "pdf" ]
+				}
+				]
+			},
+			"aoColumns": [
+			{ "mData": "html_id",
+			"mRender" : function ( data, type, full) {
+				return '<div onclick="OpenInNewTab(\''+ decodeURI(data) +'\');">'+decodeURI(data)+'</div>';
+			}
+		},
+		{ "mData": "feature_value" },
+		{ "mData": "cluster_win_mean" },
+		{ "mData": "delta" }
+		],
+		"aaSorting": [[ 3, sorting ]],
+	} );
+
+
+};
+
+//------------------------------------------------------------------
+
+
+var drilldownJSON = $.getJSON(drilldownFilename, function(result) {
+	console.log( "drilldown JSON loading success" );
+	console.log("healthOrHarm: " + healthOrHarm);
+	console.log("featureNameJSON: " + featureNameJSON);
+	// console.log(results.length);
+	$.each(result[healthOrHarm], function(i, field) {
+
+		if (i == featureNameJSON) {
+			console.log("from JSON L1: "+i);
+			
+			$.each(field, function(j, subField) {
+				console.log("from JSON L2: "+j + ":"+ JSON.stringify(subField));
+				blobArray.push(subField);
+				console.log("blobArray: "+blobArray[j]);
+			});
+			
+		};
+
+	});
+
+})
+.done(function() {
+	console.log( "second drilldown loading success" );
+})
+.fail(function(d, textStatus, error) {
+	console.error( "drilldown loading failed, status: " + textStatus + ", error: "+ error);
+})
+.always(function() {
+	console.log( "drilldown loading complete" );
+});
+
+function drilldownDataIn() {
+	
+	drilldownJSON.complete(function() {
+		
+		// console.log(JSON.stringify(drilldownJSON.healthy));
+		
+		console.log( "second complete - drilldown data loaded" );
+		
+		// blobJSON = drilldownJSON[healthOrHarm[featureNameJSON]];
+		
+		initDataTables();
+
+		// console.log("drilldownJSON contents: "+blobJSON);
+		
+	});
+
+};
+
+
+//------------------------------------------------------------------
+
+$(document).ready(function(){
+
+	drilldownDataIn();
+	
+	// initDataTables();
+	
+	/* all other page load code*/
+	popDropDown();
+
+	nv.addGraph(function() {  
+		var chart = nv.models.lineChart();
+		chart.xAxis
+		.axisLabel(featureName)
+		.tickFormat(d3.format(',r'));
+
+		chart.yAxis
+		.axisLabel('Frequency')
+		.tickFormat(d3.format('.02f'));
+ 
+		d3.select('#chart svg')
+		.datum(normalDist())
+		.transition().duration(500)
+		.call(chart);
+
+		nv.utils.windowResize(function() { d3.select('#chart svg').call(chart) });
+
+		return chart;
+	});
+	
+
+});
+
+</script>
+
+
+<script src="lib/d3.v3.js"></script>
+<script src="assets/js/nv.d3.js"></script>
+<script src="src/utils.js"></script>
+<script src="src/tooltip.js"></script>
+<script src="src/models/legend.js"></script>
+<script src="src/models/line.js"></script>
+<script src="src/models/axis.js"></script>
+<script src="src/models/multiBarHorizontal.js"></script>
+<script src="src/models/multiBarHorizontalChart.js"></script>
+<script src="assets/js/stream_layers.js"></script>
+
+<link href="http://fonts.googleapis.com/css?family=Ubuntu:300,400,500,700,300italic,400italic,500italic,700italic" rel="stylesheet" type="text/css">
+<link href="http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,300,400,600,700,800" 
+rel="stylesheet" type="text/css">
+		  
+<link rel="stylesheet" type="text/css" href="dist/jquery.jqplot.min.css" />
+<style type="text/css" title="currentStyle">
+@import "datatables/media/css/demo_page.css"; 
+/*@import "datatables/media/css/header.ccss";*/
+@import "datatables/media/css/demo_table.css";
+/* for re-styling and CSV export */
+@import "http://netdna.bootstrapcdn.com/twitter-bootstrap/2.3.2/css/bootstrap-combined.min.css";
+@import "http://datatables.github.com/Plugins/integration/bootstrap/2/dataTables.bootstrap.css";
+
+</style>
+    <style type="text/css">
+
+      /* Large desktop */
+      @media (min-width: 980px) { 
+        body {
+         padding-top: 60px;
+        }
+       .linediv-l {
+         border-right: 1px white solid;
+        }
+       .linediv-r {
+         border-left: 1px white solid;
+       }
+      }
+
+      /* Landscape phones and down */
+      @media (max-width: 480px) { 
+       .copy {
+         padding: 2.5% 10%;
+       }
+       .linediv-l {
+         border-bottom: 1px white solid;
+       }
+       .linediv-r {
+         border-top: 1px white solid;
+       }
+      }
+
+      /* All form factors */
+
+      /* Main body and headings */
+      body{
+        font-family: 'Open Sans', Helvetica, Arial, sans-serif;
+      }
+      .heading, .subheading {
+        font-family: 'Ubuntu', Helvetica, Arial, sans-serif;
+        text-align: center;
+      }
+      p.lead {
+        padding-top: 1.5%;
+        font-size: 24px;
+        line-height: 30px;
+      }
+      p {
+        font-size: 18px;
+        line-height: 24px;
+      }
+
+      /* Video pitch and Action */
+      .pitch {
+        padding: 2.5% 0%;
+      }
+      .order {
+        padding: 2% 0%;
+      }
+      .actions {
+        background-color: #343434;
+        padding: 3% 0%;
+      }
+      .video, .thermometer, .order, .social, .statistics {
+        text-align: center;
+      }
+      .statistics h3, .statistics p {
+        color: white;
+      }
+
+      /* Marketing Copy and Footer */
+      .copy {
+        padding-top: 2.5%;
+        padding-bottom: 2.5%;
+        text-align: justify;
+      }
+      .asset {
+        padding: 2.5% 0%;
+      }
+      .footer {
+        color: #cccccc;
+        text-align: center;
+      }
+      .footer p {
+        font-size: 11px;
+      }
+      .footer a {
+        color: #ccccff;
+      }
+    </style>
+	
+	
+  </head>
+  <body>
+
+    <!-- Mobile-friendly navbar adapted from example. -->
+    <!-- http://twitter.github.io/bootstrap/examples/starter-template.html -->
+    <div class="navbar navbar-inverse navbar-fixed-top">
+      <div class="navbar-inner">
+        <div class="container">
+          <button type="button" class="btn btn-navbar"
+                  data-toggle="collapse" data-target=".nav-collapse">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+		  <!-- <a class="brand" href="/">MathSight Demo</a> -->
+		           <a class="brand" href="#"><img src="logo/mathsight-cobalt logo.png" /></a>
+          <div class="nav-collapse collapse">
+            <ul class="nav">
+                <li><a href="/">Home</a></li>
+                <!-- <li><a href="/plans.html">Plans</a></li> -->
+				<li class="active"><a href="/statseo_feature.html">StatSEO</a></li>
+				<li><a href="/api.html">API</a></li>
+				<li><a href="/feature_def.html">Features</a></li>
+            </ul>
+          </div><!--/.nav-collapse -->
+        </div>
+      </div>
+    </div>
+
+    <!-- We use row-fluid inside containers to achieve a resizable layout. -->
+    <!-- blogs.endjin.com/2013/04/tips-for-implementing-responsive-designs-using-bootstrap/ -->
+    <!-- http://stackoverflow.com/a/12270322 -->
+    <div class="container">
+      <!-- Font and paired font of .heading/.subheading and body from Google Fonts -->
+      <!-- www.google.com/fonts/specimen/Ubuntu -->
+      <!-- www.google.com/fonts/specimen/Ubuntu#pairings -->
+      <div class="row-fluid heading">
+        <div class="span12">
+          <h1><script>document.write("StatSEO: " + onOrOffsite + " drilldown");</script></h1>
+        </div>
+      </div> 
+	  
+	  
+	  
+
+	  <div class="row-fluid subheading">
+		  <div class="span12">
+			  <!-- Special typography from Bootstrap for lead paragraph. -->
+			  <!-- http://twitter.github.io/bootstrap/base-css.html#typography -->
+			  <p class="lead">
+				  <script>document.write("for " + websiteName);</script>
+			  </p>
+		  </div>
+	  </div>
+	  
+	  <div class="well">
+		  <h2><script>document.write(healthOrHarm + " links [" + onOrOffsite + "]");</script></h2>
+		  <p><script>document.write("assessed according to feature: "+ featureNameCaps);</script></p>
+
+		  <script>
+		  console.log('Feature influence level: ' + featInfl)
+		  if (parseInt(featInfl)>15) {
+			  document.write('<div class="panel panel-danger"><div class="panel-body"><p>This feature has a <strong>low</strong> level of influence</p></div></div>');
+		  }
+		  else if (parseInt(featInfl)<=15 && featInfl>5) {
+			  document.write('<div class="panel panel-warning"><div class="panel-body"><p>This feature has a <strong>moderate</strong>  level of influence</p></div></div>');
+		  }
+		  else {
+			  document.write('<div class="panel panel-success"><div class="panel-body"><p>This feature has a <strong>high</strong>  level of influence</p></div></div>');
+		  };	  
+		  </script>
+
+		  <br>
+	  
+		  <div class="form-group">
+
+			  <form id="dropdownFeature">
+				  <select id="selectFeat">
+					  <option>Select alternative feature</option>
+					  <option class="divider">-------------------------</option>
+				  </select>
+
+			  </form>
+
+			  
+			  <button onclick="doStuff()" type="submit" class="btn btn-primary" id="submitFeat">
+				  load		  
+			  </button>
+
+
+		  </div><!-- /input-group -->
+
+	  </div>
+	  
+	 
+	  
+	  <br>
+	  
+	  <div class="panel panel-default">
+		  <div class="panel-heading"></div>
+		  <div class="panel-body">
+			  <!-- Table -->
+			  <table class="table">
+				  <thead>
+					  <tr>
+						  <th>Feature name</th>
+						  <th>
+							  <script>
+							  if (healthOrHarm == 'harmful'){
+								  document.write('# losing URLs');
+							  }
+							  else {
+								  document.write('# winning URLs');
+							  }
+							  </script>
+						  </th>
+						  <th>
+							  <script>
+							  if (healthOrHarm == 'harmful'){
+								  document.write('Feature losing mean');
+							  }
+							  else {
+								  document.write('Feature winning mean');
+							  }
+							  </script>
+						  
+						  </th>
+						  <th>
+							  <script>
+							  if (healthOrHarm == 'harmful'){
+								  document.write('Avg domain feature value (harmful URLs)');
+							  }
+							  else {
+								  document.write('Avg domain feature value (healthy URLs)');
+							  }
+							  </script>  
+						  </th>
+					  </tr>
+				  </thead>
+				  <tbody>
+					  <tr>
+						  <td>
+							  <script>
+							  document.write(featureName);
+							  </script>
+						  </td>
+						  <td>
+							  <script>
+							  if (healthOrHarm == 'harmful'){
+								  document.write(numLose);
+							  }
+							  else {
+								  document.write(numWin);
+							  }
+							  </script>
+						  </td>
+						  <td>
+							  <script>
+							  if (healthOrHarm == 'harmful'){
+								  document.write(loseMean);
+							  }
+							  else {
+								  document.write(winMean);
+							  }
+							  </script>
+						  </td>
+						  <td><script>
+							  if (healthOrHarm == 'harmful'){
+								  document.write(harmMean);
+							  }
+							  else {
+								  document.write(healthMean);
+							  }
+							  </script>
+						  </td>
+					  </tr>
+				  </tbody>
+			  </table>
+		  </div>
+		  
+	  </div>
+	  
+	  <br>
+	  
+	  <div id="chart" class='with-3d-shadow with-transitions'>
+		  <svg></svg>
+	  </div>
+
+	  <div class="row-fluid pitch">
+		  <br>
+	  
+		  <h3>Influential Feature Value and Delta to Winning Mean for URL Type:</h3>
+	  
+		  <br>
+
+		  <div id="dynamic">
+			  <table cellpadding="0" cellspacing="0" border="0" class="table table-striped table-bordered" id="example1">
+				  <thead>
+					<tr>
+						<th width="70%" rowspan="2">Page URL</th>
+						<th width="30%" colspan="3">Feature data</th>  
+					</tr>
+					<tr>
+						<th width="10%">Value</th>
+						<th width="10%">Cluster mean</th>
+						<th width="10%">Delta</th>
+					</tr>
+				  </thead>
+				  <tbody>
+					  
+				  </tbody>
+				  <tfoot>
+					  <tr>
+						  <th rowspan="2" >Page URL</th>
+						  <th>Value</th>
+						  <th>Cluster mean</th>
+						  <th>Delta</th>
+					  </tr>
+					  <tr>
+						  <th colspan="3">Feature data</th>
+					  </tr>
+				  </tfoot>
+			  </table>
+		  </div>
+		  
+		  <hr>
+
+
+		  <p>
+			  <script>document.write('<a href="/SQ_toplevel.html?=' + websiteName +'&='+onOrOffsite+'">Return to top level summary for '+ websiteName +'</a>');</script>
+		
+		  </p>
+		  
+		  <div class="spacer"></div>
+		  <hr>
+
+		  <div class="spacer"></div>
+
+		  <!-- For the FAQ, we introduce a little bit of JS, using the accordion. -->
+		  <!-- This brings in jquery.js and bootstrap.js as dependencies. -->
+		  <!-- http://twitter.github.io/bootstrap/javascript.html#collapse -->
+		  <div class="row-fluid faq">
+			  <div class="span10 offset1">
+				  <h3>FAQs</h3>
+				  <div class="accordion" id="accordion2">
+					  <div class="accordion-group">
+						  <div class="accordion-heading">
+							  <a class="accordion-toggle" data-toggle="collapse"
+							  data-parent="#accordion2" href="#collapseOne">
+							  Which features does MathSight monitor for me?</a>
+						  </div>
+						  <div id="collapseOne" class="accordion-body collapse">
+							  <div class="accordion-inner">
+								  Over 100 features taken straight from the html pages of your domain (related to structure and content), approximately 20 calculated (or premium) features (such as ratios of one feature to another) and 5-10 advanced features which analyse backlinks and their effect on the onsite.
+							  </div>
+						  </div>
+					  </div>
+					  <div class="accordion-group">
+						  <div class="accordion-heading">
+							  <a class="accordion-toggle" data-toggle="collapse"
+							  data-parent="#accordion2" href="#collapseTwo">
+							  What is an influential feature?</a>
+						  </div>
+						  <div id="collapseTwo" class="accordion-body collapse">
+							  <div class="accordion-inner">
+								  All the features assessed here have been assessed to have differing levels of influence (or impact) on cumulative daily page view organic search traffic for their containing html page. We wanted to give you the opportunity to see which features had the greatest influence, and which have limited impact. Feel free to click on 'Influence Rank' tab above to sort them as required.
+							  </div>
+						  </div>
+					  </div>
+					  <div class="accordion-group">
+						  <div class="accordion-heading">
+							  <a class="accordion-toggle" data-toggle="collapse"
+							  data-parent="#accordion2" href="#collapseThree">
+							  What is <script>document.write(featureName);</script> exactly?
+						  </a>
+					  </div>
+					  <div id="collapseThree" class="accordion-body collapse">
+						  <div class="accordion-inner">
+							  Automatically pull in description for <script>document.write(featureName);</script> here.
+							  [TBC]
+						  </div>
+					  </div>
+				  </div>
+			  </div>
+		  </div>
+
+  </div>
+
+  <!-- Not crucial, but we put this under a CC By-SA 3.0 license. -->
+  <!-- http://creativecommons.org/licenses/ -->
+  <!-- Not crucial, but we put this under a CC By-SA 3.0 license. -->
+  <!-- http://creativecommons.org/licenses/ -->
+  <div class="row-fluid footer">
+	  <div class="span12">
+		  <p><small>© MathSight Ltd 2013 &nbsp; &nbsp;Terms of Service &nbsp; &nbsp;Privacy &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Run by MathSight Ltd in Richmond, UK<small></p>
+		  </div>
+	  </div>
+
+  </div>
+</body>
+</html>

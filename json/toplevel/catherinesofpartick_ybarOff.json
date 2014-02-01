@@ -1,0 +1,26 @@
+[
+	{
+		"key": "Healthy",
+		"color": "#00cc00",
+		"values": {
+			"label": "Offsite",
+			"value": 42
+		}
+	},
+	{
+		"key": "Neutral",
+		"color": "#ff9900",
+		"values": {
+			"label": "Offsite",
+			"value": 35
+		}
+	},
+	{
+		"key": "Harmful",
+		"color": "#ff0000",
+		"values": {
+			"label": "Offsite",
+			"value": -111
+		}
+	}
+]

@@ -1,0 +1,361 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>MathSight StatSEO Feature Definitions</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="stylesheet" href="https://d396qusza40orc.cloudfront.net/startup%2Fcode%2Fbootstrap-combined.no-icons.min.css">
+	<link rel="stylesheet" href="http://netdna.bootstrapcdn.com/font-awesome/3.0.2/css/font-awesome.css">
+	<link rel="stylesheet" href="https://d396qusza40orc.cloudfront.net/startup%2Fcode%2Fsocial-buttons.css">  
+	
+	<!-- for toggle switch -->
+	<meta http-equiv="X-UA-Compatible" content="IE=9; IE=8;" />
+	<!-- <link rel="stylesheet" href="bootstrap-switch/static/stylesheets/bootstrap-switch.css" /> -->
+	<link rel="stylesheet" href="http://netdna.bootstrapcdn.com/twitter-bootstrap/2.3.2/css/bootstrap-combined.min.css">
+	
+	<script src="//ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.js"></script>
+	<script src="https://d396qusza40orc.cloudfront.net/startup%2Fcode%2Fbootstrap.js"></script>
+	<script src="//netdna.bootstrapcdn.com/bootstrap/3.0.2/js/bootstrap.min.js"></script>
+	<!-- for datatables' styling -->
+	<link href="http://fonts.googleapis.com/css?family=Ubuntu:300,400,500,700,300italic,400italic,500italic,700italic" rel="stylesheet" type="text/css">
+	<link href="http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,300,400,600,700,800" rel="stylesheet" type="text/css">
+	
+	<!-- Optional theme -->
+	<link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.0.2/css/bootstrap-theme.min.css">
+
+	<script src="//ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
+
+	<!-- for datatables -->
+	<script src="datatables/media/js/jquery.dataTables.js"></script>
+	
+	<!-- for toggle switch -->
+	<!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script> -->
+
+
+	<!-- for datatables' styling etc -->
+	<script type="text/javascript" charset="utf-8" src="datatables/media/js/ZeroClipboard.js"></script>
+	<script type="text/javascript" charset="utf-8" src="datatables/media/js/TableTools.js"></script>
+	<script type="text/javascript" charset="utf-8" src="http://datatables.github.com/Plugins/integration/bootstrap/2/dataTables.bootstrap.js"></script>
+	
+	
+	<!-- for dropdown menu -->
+	<!-- Latest compiled and minified JavaScript -->
+	<script src="//netdna.bootstrapcdn.com/bootstrap/3.0.2/js/bootstrap.min.js"></script>
+
+	<style>
+				canvas{
+				}
+			</style>
+	
+	<style type="text/css">
+
+      /* Large desktop */
+      @media (min-width: 980px) { 
+        body {
+         padding-top: 60px;
+        }
+       .linediv-l {
+         border-right: 1px white solid;
+        }
+       .linediv-r {
+         border-left: 1px white solid;
+       }
+      }
+
+      /* Landscape phones and down */
+      @media (max-width: 480px) { 
+       .copy {
+         padding: 2.5% 10%;
+       }
+       .linediv-l {
+         border-bottom: 1px white solid;
+       }
+       .linediv-r {
+         border-top: 1px white solid;
+       }
+      }
+
+      /* All form factors */
+
+      /* Main body and headings */
+      body{
+        font-family: 'Open Sans', Helvetica, Arial, sans-serif;
+      }
+      .heading, .subheading {
+        font-family: 'Ubuntu', Helvetica, Arial, sans-serif;
+        text-align: center;
+      }
+      p.lead {
+        padding-top: 1.5%;
+        font-size: 24px;
+        line-height: 30px;
+      }
+      p {
+        font-size: 18px;
+        line-height: 24px;
+      }
+
+      /* Video pitch and Action */
+      .pitch {
+        padding: 2.5% 0%;
+      }
+      .order {
+        padding: 2% 0%;
+      }
+      .actions {
+        background-color: #343434;
+        padding: 3% 0%;
+      }
+      .video, .thermometer, .order, .social, .statistics {
+        text-align: center;
+      }
+      .statistics h3, .statistics p {
+        color: white;
+      }
+
+      /* Marketing Copy and Footer */
+      .copy {
+        padding-top: 2.5%;
+        padding-bottom: 2.5%;
+        text-align: justify;
+      }
+      .asset {
+        padding: 2.5% 0%;
+      }
+      .footer {
+        color: #cccccc;
+        text-align: center;
+      }
+      .footer p {
+        font-size: 11px;
+      }
+      .footer a {
+        color: #ccccff;
+      }
+    </style>
+    
+    
+    
+    
+	<style>
+	/* for chart (nvd3) */
+	body {
+		overflow-y:scroll;
+	}
+
+	text {
+		font: 12px sans-serif;
+	}
+
+	#chart1 {
+		margin: 10px;
+		min-width: 100px;
+		min-height: 100px;
+		/*
+		Minimum height and width is a good idea to prevent negative SVG dimensions...
+		For example width should be =< margin.left + margin.right + 1,
+		of course 1 pixel for the entire chart would not be very useful, BUT should not have errors
+		*/
+	}
+
+	#chart1 svg {
+		height: 500px;
+	}
+
+	</style>
+
+	
+
+	<script>
+
+	/* Global vars */
+	var locate = decodeURI(window.location);
+	var urlSplit = locate.split("=");
+	var featureName = urlSplit[1] || "html5 detected";
+	
+	// -----------------------------
+	
+	var features = [];
+	var descriptions = [];
+	
+	var featureJSON = $.getJSON( "json/features/feature_list.json", function(results) {
+		console.log( "JSON loading success" );
+		$.each(results, function(index) {
+			// alert(results[index].name);
+
+				blob = results[index].name;
+				blobDesc = results[index].description;
+				$.each(blob, function(nameIndex) {
+					features.push(blob[nameIndex]);
+					descriptions.push(blobDesc[nameIndex]);
+				});
+
+		});
+	})
+	.done(function() {
+		console.log( "second success" );
+	})
+	.fail(function() {
+		console.log( "error" );
+	})
+	.always(function() {
+		console.log( "complete" );
+	});
+	
+	featureJSON.complete(function() {
+		console.log( "second complete - populating feature table" );
+		
+		var table = document.getElementById("featTableBody"); 
+
+		for(var i = 0; i < features.length; i++) {
+			
+			var tr = document.createElement("tr");
+			var tdFeat = tr.appendChild(document.createElement("td"));
+			var tdDesc = tr.appendChild(document.createElement("td"));
+			tdFeat.innerHTML = features[i]
+			tdDesc.innerHTML = descriptions[i];
+			table.appendChild(tr);
+		}
+		
+	 	// document.getElementById("jfeatures").innerHTML=features; 						 
+	
+	});
+	
+	
+
+	// -----------------------------
+
+	// var websiteURL = "www.leighmans.com";
+	// var websiteSplit = websiteURL.split(".");
+	// var websiteName = websiteSplit[1];
+
+	jQuery(document).ready(function($) {
+		$(".clickableRow").click(function() {
+			window.document.location = $(this).attr("href");
+		});
+	});
+	
+	</script>
+	
+
+	<script>
+
+
+	// function doStuff()
+// 	{
+// 		var domainElement = document.getElementById("inputURL");
+// 		var websiteURLNew = domainElement.value;
+// 		var websiteSplitNew = websiteURLNew.split(".");
+// 		websiteName = websiteSplitNew[1];
+// 		
+// 		alert("website name is " + websiteName);
+// 		
+// 		var siteElement = document.getElementById("dropdownSite");
+// 		var siteNew = siteElement.value;
+// 		
+// 		alert("going for " + siteNew);
+// 		
+// 		var featureElement = document.getElementById("dropdownFeature");
+// 		var featureNew = featureElement.value;
+// 		
+// 		alert("feature chosen:" + featureNew);
+// 		
+// 		document.getElementById("dispUrl").innerHTML = "for " + websiteName;
+// 
+// 	}
+	
+	</script>
+
+
+
+  </head>
+  <body>
+
+    <!-- Mobile-friendly navbar adapted from example. -->
+    <!-- http://twitter.github.io/bootstrap/examples/starter-template.html -->
+	<div class="navbar navbar-inverse navbar-fixed-top">
+		<div class="navbar-inner">
+			<div class="container">
+				<button type="button" class="btn btn-navbar"
+				data-toggle="collapse" data-target=".nav-collapse">
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+			</button>
+			<!-- <a class="brand" href="/">MathSight Demo</a> -->
+			<a class="brand" href="#"><img src="logo/mathsight-cobalt logo.png" /></a>
+			<div class="nav-collapse collapse">
+				<ul class="nav">
+					<li><a href="/">Home</a></li>
+					<!-- <li><a href="/plans.html">Plans</a></li> -->
+					<li><a href="/statseo_feature.html">StatSEO</a></li>
+					<li><a href="/api.html">API</a></li>
+					<li class="active"><a href="/feature_def.html">Features</a></li>
+				</ul>
+			</div><!--/.nav-collapse -->
+		</div>
+	</div>
+</div>
+
+    <!-- We use row-fluid inside containers to achieve a resizable layout. -->
+    <!-- blogs.endjin.com/2013/04/tips-for-implementing-responsive-designs-using-bootstrap/ -->
+    <!-- http://stackoverflow.com/a/12270322 -->
+    <div class="container">
+      <!-- Font and paired font of .heading/.subheading and body from Google Fonts -->
+      <!-- www.google.com/fonts/specimen/Ubuntu -->
+      <!-- www.google.com/fonts/specimen/Ubuntu#pairings -->
+	  <div class="row-fluid heading">
+		  <div class="span12">
+			  <h1>StatSEO: Feature definitions</h1>
+		  </div>
+	  </div> 
+
+	  <br><br>
+
+	  <div class="panel panel-default">
+		  <div class="panel-heading"></div>
+
+		  <!-- Table -->
+		  <table class="table" class="table table-striped" id="featTable">
+			  <thead>
+				  <tr>
+					  <th>Feature name</th>
+					  <th>Description</th>
+				  </tr>
+			  </thead>
+			  <tbody id="featTableBody">
+			  </tbody>
+		  </table>
+			
+	  </div>
+
+
+		  <!-- <div class="accordion" id="accordionFeat">
+			  
+			  <div class="accordion-group">
+				  <div class="accordion-heading">
+					  <a class="accordion-toggle" data-toggle="collapse"
+					  data-parent="#accordionFeat" href="#collapse1">
+					  <span id="jFeature"></span></a>
+				  </div>
+				  <div id="collapse1" class="accordion-body collapse">
+					  <div class="accordion-inner">
+						  <span id="jDesc"></span>
+					  </div>
+				  </div>
+			  </div>
+
+		  </div> -->
+
+	  <hr>
+
+	  <div class="row-fluid footer">
+		  <div class="span12">
+			  <p><small>© MathSight Ltd 2013 &nbsp; &nbsp;Terms of Service &nbsp; &nbsp;Privacy &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Run by MathSight Ltd in Richmond, UK<small></p>
+			  </div>
+		  </div>
+
+    </div>
+  </body>
+</html>
